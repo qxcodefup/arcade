@@ -1,4 +1,4 @@
-![hands](https://user-images.githubusercontent.com/4747652/52278905-f6f90b00-2936-11e9-881a-f9af7702170e.jpg)
+![hands](https://raw.githubusercontent.com/qxcodefup/arcade/assets/hands.jpg)
 
 ### Motivação
 
