@@ -1,10 +1,6 @@
-
+### Motivação
 
 ![goiaba](https://raw.githubusercontent.com/qxcodefup/assets/master/goiaba.jpeg)
-
-
-
-### Motivação
 
 Chico deseja coletar todas as frutas do quintal vizinho. Porém, sem que seu vizinho o veja.
 Para isso, Chico precisa saber exatamente quanto tempo ele irá gastar na coleta.

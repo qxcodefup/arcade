@@ -1,7 +1,6 @@
+### Motivação
 
 ![sniperdog](https://raw.githubusercontent.com/qxcodefup/assets/master/mete_bala.jpg)
-
-### Motivação
 
 Um atirador de elite estava atirando a 400 metros de distância em em um papel milimetrado.
 Para calcular a imprecisão da arma, ele dava dois tiros e media a distância entre eles.

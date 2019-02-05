@@ -1,16 +1,16 @@
-#### ![Resultado de imagem para formula de bhaskara](https://raw.githubusercontent.com/qxcodefup/assets/master/baskara.jpg)
 
-#### Motivação
+### Motivação
+![Bhaskara](https://raw.githubusercontent.com/qxcodefup/assets/master/baskara.jpg)
+
 Não sei se você amava ou odiava o tal do Bhaskara por inventar aquela fórmula das raízes.Agora é hora de implementar aquela conta pra nunca ter mais que fazer na mão.
 
 
-#### Ação
+### Ação
 Dados os valores de A, B e C, calcule as raízes.
 
 
-#### Entrada e Saída:
+### Entrada e Saída:
 Entrada:
-
 - Valores de A, B e C em ponto flutuante, um por linha.
 
 Saída:
@@ -19,11 +19,9 @@ Saída:
 - Caso delta seja igual a zero, uma única raiz deve ser considerada, com duas casas decimais.
 - Caso delta sela negativo, a saída deve ser "nao ha raiz real"
 
+### Exemplos
 
-
-#### Exemplos
-
-```bash
+```
 >>>>>>>> 01 duas raízes
 5.4
 25.0
@@ -59,7 +57,7 @@ nao ha raiz real
 <<<<<<<<
 ```
 
-**Ajuda**
+## Ajuda
 
 Para calcular a raiz quadrada você deverá importar a biblioteca math em seu projeto e chamar a função sqrt() passando o valor que você deseja encontrar a raiz. Declare uma variável para armazenar o valor de delta, isso tornará o código mais simples.
 

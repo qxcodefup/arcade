@@ -1,6 +1,5 @@
-### ![](https://raw.githubusercontent.com/qxcodefup/assets/master/math.jpg)
-
 ### Motivação
+![math](https://raw.githubusercontent.com/qxcodefup/assets/master/math.jpg)
 
 Com o programa ficará mais fácil realizar as operações básicas da matemática.
 
