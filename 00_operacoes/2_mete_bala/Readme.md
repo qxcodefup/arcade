@@ -1,5 +1,5 @@
 
-![sniperdog](https://user-images.githubusercontent.com/4747652/52280317-691f1f00-293a-11e9-93d0-c8861b282a11.jpg)
+![sniperdog](https://raw.githubusercontent.com/qxcodefup/assets/master/mete_bala.jpg)
 
 ### Motivação
 

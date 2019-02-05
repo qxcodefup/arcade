@@ -1,4 +1,4 @@
-![](https:/qxcodefup/assets/raw/master/header.png)
+![](https://raw.githubusercontent.com/qxcodefup/assets/master/header.png)
 Exercícios de Programação 
 =========================
 
