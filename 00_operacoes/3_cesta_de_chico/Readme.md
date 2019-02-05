@@ -1,6 +1,6 @@
 
 
-![goiaba](https://raw.githubusercontent.com/qxcodefup/assets/master/goiaba.jpg)
+![goiaba](https://raw.githubusercontent.com/qxcodefup/assets/master/goiaba.jpeg)
 
 
 
