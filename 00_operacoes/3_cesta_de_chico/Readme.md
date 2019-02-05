@@ -1,6 +1,6 @@
 
 
-![goiaba](https://sementescaicara.bbshop.com.br/content/images/thumbs/0003304_goiaba-vermelha_370.jpeg)
+![goiaba](https://raw.githubusercontent.com/qxcodefup/assets/master/goiaba.jpg)
 
 
 

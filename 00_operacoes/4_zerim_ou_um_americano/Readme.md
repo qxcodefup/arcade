@@ -1,4 +1,4 @@
-![hands](https://raw.githubusercontent.com/qxcodefup/arcade/assets/hands.jpg)
+![hands](https://raw.githubusercontent.com/qxcodefup/assets/master/zerim_americano.jpg)
 
 ### Motivação
 

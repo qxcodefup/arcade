@@ -1,4 +1,4 @@
-#### ![Resultado de imagem para formula de bhaskara](http://alunosonline.uol.com.br/upload/conteudo_legenda/9768480add7616fa1fe2081ce3542378.jpg)
+#### ![Resultado de imagem para formula de bhaskara](https://raw.githubusercontent.com/qxcodefup/assets/master/baskara.jpg)
 
 #### Motivação
 Não sei se você amava ou odiava o tal do Bhaskara por inventar aquela fórmula das raízes.Agora é hora de implementar aquela conta pra nunca ter mais que fazer na mão.

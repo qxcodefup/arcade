@@ -1,4 +1,4 @@
-### ![](https://www.colegioweb.com.br/wp-content/uploads/2014/01/Opera%C3%A7%C3%A3o-Inversa.jpg)
+### ![](https://raw.githubusercontent.com/qxcodefup/assets/master/math.jpg)
 
 ### Motivação
 
