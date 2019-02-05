@@ -1,19 +1,19 @@
 
-![sniperdog](https://moodle.quixada.ufc.br/draftfile.php/78/user/draft/528881293/sniperbestfriend.jpeg)
+![sniperdog](https://user-images.githubusercontent.com/4747652/52280317-691f1f00-293a-11e9-93d0-c8861b282a11.jpg)
 
-#### Motivação
+### Motivação
 
 Um atirador de elite estava atirando a 400 metros de distância em em um papel milimetrado.
 Para calcular a imprecisão da arma, ele dava dois tiros e media a distância entre eles.
 Como ele não tinha régua, ele pegou os pontos no plano cartesiano e a fórmula
 da distância entre os pontos para poder calcular a distância.
 
-#### Ação
+### Ação
 
 Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto,
 imprima a distância entre os pontos com duas casas decimais.
 
-#### Entrada e Saída:
+### Entrada e Saída:
 
 Entrada:
 
@@ -25,8 +25,7 @@ Saída:
 * A distância entre os pontos com duas casas decimais.
 
 
-
-#### Exemplos
+### Exemplos
 
 ```
 >>>>>>>>
@@ -58,7 +57,7 @@ Saída:
 
 ```
 
-#### Ajuda
+### Ajuda
 
 Fórmula da distância entre dois pontos:
 ![equação que calcula a distância entre dois pontos](http://s5.static.brasilescola.uol.com.br/img/2016/10/formula-da-distancia-entre-dois-pontos.jpg)
