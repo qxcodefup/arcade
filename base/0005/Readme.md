@@ -1,6 +1,7 @@
-### Motivação
+# L3 - Ladrão de Goiabas
+### Contando quantas viagens
 
-![goiaba](https://raw.githubusercontent.com/qxcodefup/assets/master/goiaba.jpeg)
+![](logo.jpg)
 
 Chico deseja coletar todas as frutas do quintal vizinho. Porém, sem que seu vizinho o veja.
 Para isso, Chico precisa saber exatamente quanto tempo ele irá gastar na coleta.
@@ -10,16 +11,12 @@ Há três tipos de frutas no quintal: bananas, goiabas e mangas.
 Chico tem uma cesta que pode carregar até **C** frutas.
 Ele gasta exatamente 1 minuto para ir ao quintal vizinho, encher a cesta e voltar.
 
-
-
-### Ação
+---
 
 Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minutos Chico precisará para coleta.
 Você pode considerar que há pelo menos uma fruta antes da coleta.
 
-
-
-### Entrada e Saída:
+---
 
 Entrada:
 
@@ -32,9 +29,8 @@ Saída:
 
 * Duração da coleta em minutos.
 
-
-
-### Exemplos
+---
+## Testes
 
 ```
 >>>>>>>> conta exata
@@ -65,6 +61,6 @@ Saída:
 <<<<<<<<
 ```
 
-### Aviso:
+## Aviso:
 
 Roubar frutas do seu vizinho é errado.

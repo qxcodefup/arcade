@@ -1,26 +1,26 @@
+# [ope] L3 - Pintando a casa
+### Calculando a área do triângulo
 
-### Motivação
-
-![](https://raw.githubusercontent.com/qxcodefup/assets/master/casa.jpg)
+![](logo.jpg)
 
 Fernando comprou uma casa triangular. Na hora de calcular a quantidade de tinta pra pintar, precisou descobrir como calcular a área de um triângulo. Deu de cara com a fórmula de Heron.
 
+---
 
+Utilize a seguinte fórmula para calcular a área de um triângulo a partir do tamanho de seus lados.
 
-### Ação
+![](heron.jpg)
 
-Utilize a fórmula para calcular a área de um triângulo a partir do tamanho de seus lados.
-
-![](https://raw.githubusercontent.com/qxcodefup/assets/master/heron.jpg)
-
-### IO
+---
 
 Entrada
 - 3 lados em float, um por linha
+
 Saída
 - Área com duas casas decimais.
 
-### Exemplo
+---
+## Testes
 
 ```
 >>>>>>>>
@@ -55,6 +55,5 @@ Saída
 ========
 7.51
 <<<<<<<<
-
 
 ```

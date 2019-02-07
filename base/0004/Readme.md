@@ -1,18 +1,21 @@
-### Motivação
+# [ope] L3 - Mete bala
+### Calculando distância entre dois pontos
 
-![sniperdog](https://raw.githubusercontent.com/qxcodefup/assets/master/mete_bala.jpg)
+
+
+![](logo.jpg)
 
 Um atirador de elite estava atirando a 400 metros de distância em em um papel milimetrado.
 Para calcular a imprecisão da arma, ele dava dois tiros e media a distância entre eles.
 Como ele não tinha régua, ele pegou os pontos no plano cartesiano e a fórmula
-da distância entre os pontos para poder calcular a distância.
+da distância entre os pontos.
 
-### Ação
+---
 
 Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto,
 imprima a distância entre os pontos com duas casas decimais.
 
-### Entrada e Saída:
+---
 
 Entrada:
 
@@ -24,7 +27,7 @@ Saída:
 * A distância entre os pontos com duas casas decimais.
 
 
-### Exemplos
+---
 
 ```
 >>>>>>>>
@@ -56,10 +59,12 @@ Saída:
 
 ```
 
-### Ajuda
+---
+## Help
 
 Fórmula da distância entre dois pontos:
-![equação que calcula a distância entre dois pontos](http://s5.static.brasilescola.uol.com.br/img/2016/10/formula-da-distancia-entre-dois-pontos.jpg)
+![](formula.jpg)
+
 Lembre-se que distância é uma grandeza sempre positiva.
 
 Como imprimir duas casas decimais em Python e C:

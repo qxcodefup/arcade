@@ -1,13 +1,14 @@
-### Motivação
-![math](https://raw.githubusercontent.com/qxcodefup/assets/master/math.jpg)
+# [ope] L1 - Operações básicas
+## Imprimindo float formatado.
 
-Com o programa ficará mais fácil realizar as operações básicas da matemática.
+### Motivação
+![](logo.jpg)
 
 ### Ação
 
 * Leia dois números e imprima a soma, a subtração, a multiplicação, a divisão e o resto da divisão entre eles respectivamente.
 
-### Entrada e Saída  
+### IO
 
 Entrada:
 
@@ -20,7 +21,7 @@ Saída:
 * Valor da divisão em ponto flutuante de duas casas decimais.
 * O valor de B nunca será 0, então não se preocupe com divisão por 0.
 
-### Exemplos
+## Testes
 
 ```
 >>>>>>>> 01

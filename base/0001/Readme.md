@@ -1,25 +1,23 @@
+# [ope] L3 - Sai fora Bhaskara.
+### Cálculo de raízes
 
-### Motivação
-![Bhaskara](https://raw.githubusercontent.com/qxcodefup/assets/master/baskara.jpg)
+![](logo.jpg)
 
-Não sei se você amava ou odiava o tal do Bhaskara por inventar aquela fórmula das raízes.Agora é hora de implementar aquela conta pra nunca ter mais que fazer na mão.
+Não sei se você amava ou odiava o tal do Bhaskara por inventar aquela fórmula das raízes. Agora é hora de implementar aquela conta pra nunca ter mais que fazer na mão.
 
-
-### Ação
+---
 Dados os valores de A, B e C, calcule as raízes.
 
-
-### Entrada e Saída:
+---
 Entrada:
 - Valores de A, B e C em ponto flutuante, um por linha.
 
 Saída:
-- Caso delta seja positivo, a saída deve ser a raiz positiva e raiz negativa, com duas casas decimais.
-    - Imprima uma raiz por linha.
+- Caso delta seja positivo, a saída deve ser a raiz positiva e raiz negativa, com duas casas decimais, uma raiz por linha.
 - Caso delta seja igual a zero, uma única raiz deve ser considerada, com duas casas decimais.
 - Caso delta sela negativo, a saída deve ser "nao ha raiz real"
 
-### Exemplos
+## Testes
 
 ```
 >>>>>>>> 01 duas raízes
