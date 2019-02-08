@@ -1,5 +1,5 @@
-#
-# [ope] L4 - Zerim ou um americado
+# @qxcode
+## [ope][QC0006] L4 - Zerim ou um americado
 ### Calcule o vencedor
 
 ![](logo.jpg)

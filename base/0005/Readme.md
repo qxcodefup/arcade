@@ -1,4 +1,5 @@
-# L3 - Ladrão de Goiabas
+# @qxcode
+## [ope][QC0005] L3 - Ladrão de Goiabas
 ### Contando quantas viagens
 
 ![](logo.jpg)

@@ -1,4 +1,5 @@
-# [ope] L3 - Pintando a casa
+# @qxcode
+## [ope][QC0002] L3 - Pintando a casa
 ### Calculando a área do triângulo
 
 ![](logo.jpg)
