@@ -1,4 +1,4 @@
-#@qxcode
+# @qxcode
 
 Arquivo a ser gerado automaticamente a partir dos títulos das questões.
 
