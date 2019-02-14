@@ -16,7 +16,7 @@ Entrada
 - linhas seguintes, o conteúdo do display com três caracteres apenas
     - . representa os espaços vazios
     - o representa a peça que cai
-    - # representam as peças que estão na base
+    - \# representam as peças que estão na base
 
 Saída
 - O resultado do display. Se a peça estiver em colisão, reimprima
