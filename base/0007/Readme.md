@@ -1,5 +1,5 @@
 # @qxcode
-## [ope][QC0006] L4 - Tetris (fazendo a peça cair)
+## [mat][QC0007] L4 - Tetris (Fazendo a peça cair).
 
 ![](logo.jpg)
 

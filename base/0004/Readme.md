@@ -1,6 +1,5 @@
 # @qxcode
-## [ope][QC0004] L3 - Mete bala
-### Calculando distância entre dois pontos
+## [ope][QC0004] L3 - Mete bala (Distância entre dois pontos).
 
 
 

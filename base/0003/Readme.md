@@ -1,6 +1,5 @@
 # @qxcode
-## [ope][QC0003] L2 - Opala bebedor
-### Cálculo de desempenho
+## [ope][QC0003] L2 - Opala bebedor (Cálculo de desempenho).
 
 ![](logo.jpg)
 

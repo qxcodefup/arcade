@@ -1,6 +1,5 @@
 # @qxcode
-## [ope][QC0001] L3 - Sai fora Bhaskara.
-### Cálculo de raízes
+## [ope][QC0001] L3 - Sai fora Bhaskara (Cálculo de raízes).
 
 ![](logo.jpg)
 

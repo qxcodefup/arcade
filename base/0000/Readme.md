@@ -1,6 +1,5 @@
 # @qxcode
-## [ope][QC0000] L1 - Operações básicas
-### Imprimindo float formatado.
+## [ope][QC0000] L1 - Operações básicas (Imprimindo float formatado).
 
 ### Motivação
 ![](logo.jpg)
