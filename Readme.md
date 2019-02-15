@@ -39,7 +39,7 @@ Se nosso desafio é receber dois inteiros, um por linha e imprimir a soma e a su
 
 
 ```
->>>>>>>> exemplo 1
+>>>>>>>> aqui vai um label que é opcional
 1
 3
 ========
@@ -47,7 +47,7 @@ Se nosso desafio é receber dois inteiros, um por linha e imprimir a soma e a su
 -2
 <<<<<<<<
 
->>>>>>>> exemplo 2
+>>>>>>>> dois números impares
 -2
 -5
 ========
@@ -55,7 +55,7 @@ Se nosso desafio é receber dois inteiros, um por linha e imprimir a soma e a su
 3
 <<<<<<<<
 
->>>>>>>> exemplo 3
+>>>>>>>>
 3
 -2
 ========
