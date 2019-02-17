@@ -12,23 +12,5 @@ Arquivo a ser gerado automaticamente a partir dos títulos das questões.
 - [[ope][QC0006] L4 - Zerim ou um americano (Calcule o vencedor).](./base/0006/Readme.md#qxcode)
 
 
-## sel
-
-
-## rep
-
-
-## vet
-
-
-## cha
-
-
-## str
-
-
 ## mat
 - [[mat][QC0007] L4 - Tetris (Fazendo a peça cair).](./base/0007/Readme.md#qxcode)
-
-
-## arq
