@@ -16,7 +16,9 @@ with open("./indice.md", "w+") as saida:
 
     for tag in tags:
         tags[tag] = sorted(tags[tag], key=lambda x : int(re.compile(".*?(?:[a-z][a-z]*[0-9]+[a-z0-9]*).*?((?:[a-z][a-z]*[0-9]+[a-z0-9]*))",re.IGNORECASE|re.DOTALL).search(x).group(1)[1]))
-        saida.write("\n\n")
-        saida.write("## %s\n" % tag)
-        for questao in tags[tag]:
-            saida.write(questao)
+        
+        if tags[tag]:
+            saida.write("\n\n")
+            saida.write("## %s\n" % tag)
+            for questao in tags[tag]:
+                saida.write(questao)
