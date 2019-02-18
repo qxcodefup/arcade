@@ -47,3 +47,23 @@ Saída:
 <<<<<<<<
 
 ```
+
+[//]: # (comentario de uma linha)
+
+[//]: # (This may be the most 
+asdf
+adsf
+adsf
+adsf
+adsf
+adsf
+comentario multilinha sem linha vazia)
+
+
+<!---
+comentário multilinha
+
+com linha vazia
+
+bom para pandoc
+-->
