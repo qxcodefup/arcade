@@ -13,6 +13,7 @@ Arquivo a ser gerado automaticamente a partir dos títulos das questões.
 
 
 ## vet
+- [[vet][QC0009] L4 - Segredo do cofre (OBI 2017 F1P1).](./base/0009/Readme.md#qxcode)
 - [[vet][QC0008] L4 - Força Bruta (Gerando próxima combinação).](./base/0008/Readme.md#qxcode)
 
 

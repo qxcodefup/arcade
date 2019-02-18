@@ -1,14 +1,14 @@
-# [ope][QC0000] L1 - Operações básicas (Imprimindo float formatado).
+## [ope][QC0000] L1 - Operações básicas (Imprimindo float formatado).
 ## @qxcode
 
-### Motivação
+## Motivação
 ![](logo.jpg)
 
-### Ação
+## Ação
 
 * Leia dois números e imprima a soma, a subtração, a multiplicação, a divisão e o resto da divisão entre eles respectivamente.
 
-### IO
+## IO
 
 Entrada:
 

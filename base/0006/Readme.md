@@ -1,5 +1,5 @@
-# @qxcode
 ## [ope][QC0006] L4 - Zerim ou um americano (Calcule o vencedor).
+## @qxcode
 
 ![](logo.jpg)
 

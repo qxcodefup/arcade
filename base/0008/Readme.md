@@ -1,5 +1,5 @@
-# @qxcode
 ## [vet][QC0008] L4 - Força Bruta (Gerando próxima combinação).
+## @qxcode
 
 ![](logo.jpg)
 
@@ -133,8 +133,6 @@ ZZZZoo
 ZZZZou
 ZZZZo2
 <<<<<<<<
-
-
 
 
 ```
