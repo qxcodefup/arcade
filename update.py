@@ -4,11 +4,19 @@
 import os
 import re
 
+intro = """# @qxcode
+[![](https://raw.githubusercontent.com/qxcodefup/arcade/master/assets/intro.png)](intro.md)
+
+Lista de Exercícios
+=========================
+"""
+
+
 base = [x[0] for x in os.walk("./base")]
 tags = {'ope':[], 'sel':[], 'rep':[], 'vet':[], 'cha':[], 'str':[], 'mat':[], 'arq':[]}
 
-with open("./indice.md", "w+") as saida:
-    saida.write("# @qxcode\n\nArquivo a ser gerado automaticamente a partir dos títulos das questões.")
+with open("./Readme.md", "w+") as saida:
+    saida.write(intro)
     for i in range(1,len(base)):
         with open(base[i] + "/Readme.md", "r") as readme:
             texto = readme.readlines()

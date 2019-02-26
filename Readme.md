@@ -1,71 +1,30 @@
 # @qxcode
-![](https://raw.githubusercontent.com/qxcodefup/assets/master/header.png)
-Exercícios de Programação 
+[![](https://raw.githubusercontent.com/qxcodefup/arcade/master/assets/intro.png)](intro.md)
+
+Lista de Exercícios
 =========================
 
-[Lista de questões](indice.md#@qxcode)
 
-Nestes arquivos você vai encontrar uma série de exercícios para praticar sua
-resolução de problemas. Os tópicos abordam diferentes competências de
-pensamento.
-
-Cada questão possui uma descrição e um arquivo vpl de teste. Esse arquivo pode
-ser utilizado para os professores que utilizam o plugin VPL no Moodle para
-automatizar suas disciplinas de programação.
-
-Também vão as soluções das questões em linguagens como C ou Python. Se você
-for aluno, use com sabedoria. Programar se aprende programando e não olhando código. Mas se você travou em alguma parte e não consegue ajuda, uma olhadinha seria uma boa ideia.
-
-## Contribuindo
-
-Dúvidas, sugestões, testes errados ou novas questões me envie um email:
-sena.ufc@gmail.com. Melhor ainda, faça um fork e depois um pull request.
-
-## Níveis de Dificuldade
-
-As questões estão separadas por nível, normalmente de L1 até L5.
-
-- L1 - questões triviais.
-- L2 - questões interessantes.
-- L3 - questões boas (queremos que todos os alunos cheguem aqui).
-- L4 - questões desafiantes.
-- L5 - questões desafio.
-
-## Exemplos
-
-Nos exemplos possuem uma marcação especifica para expressar a entrada do programa e a saída esperada. 
-
-Se nosso desafio é receber dois inteiros, um por linha e imprimir a soma e a subtração um por linha, teríamos um exemplo como.
+## ope
+- [[ope][QC0000] L1 - Operações básicas (Imprimindo float formatado).](./base/0000/Readme.md#qxcode)
+- [[ope][QC0003] L2 - Opala bebedor (Cálculo de desempenho).](./base/0003/Readme.md#qxcode)
+- [[ope][QX0011] L2 - Formatando data (Zeros à esquerda).](./base/0011/Readme.md#qxcode)
+- [[ope][QC0002] L3 - Pintando a casa (Calculando a área do triângulo).](./base/0002/Readme.md#qxcode)
+- [[ope][QC0005] L3 - Ladrão de Goiabas (Contando viagens).](./base/0005/Readme.md#qxcode)
+- [[ope][QC0004] L3 - Mete bala (Distância entre dois pontos).](./base/0004/Readme.md#qxcode)
+- [[ope][QC0006] L4 - Zerim ou um americano (Calcule o vencedor).](./base/0006/Readme.md#qxcode)
 
 
-```
->>>>>>>> aqui vai um label que é opcional
-1
-3
-========
-4
--2
-<<<<<<<<
+## sel
+- [[sel][QC0001] L3 - Sai fora Bhaskara (Cálculo de raízes).](./base/0001/Readme.md#qxcode)
 
->>>>>>>> dois números impares
--2
--5
-========
--7
-3
-<<<<<<<<
 
->>>>>>>>
-3
--2
-========
-1
-5
-<<<<<<<<
-```
+## vet
+- [[vet][QX0010] L3 - Bolinhas viciadas(contagem de repetições).](./base/0010/Readme.md#qxcode)
+- [[vet][QC0009] L4 - Segredo do cofre (OBI 2017 F1P1).](./base/0009/Readme.md#qxcode)
+- [[vet][QC0008] L4 - Força Bruta (Gerando próxima combinação).](./base/0008/Readme.md#qxcode)
 
-### Rodando testes localmente
 
-Você pode rodar os testes localmente sem precisar do Moodle usando o seguinte script em python.
-
-- [th.py](https://github.com/senapk/th)
+## mat
+- [[mat][QX0012] L2 - Deu a louca no Impedador!](./base/0012/Readme.md#qxcode)
+- [[mat][QC0007] L4 - Tetris (Fazendo a peça cair).](./base/0007/Readme.md#qxcode)

@@ -39,9 +39,9 @@ Entrada
     - L para Leão.
 
 Saída
-    - "Gladiadores" caso G seja maior
-    - "Condenados a morte" caso C seja maior
-    - "Ninguém" caso contrário.
+- "Gladiadores" caso G seja maior
+- "Condenados a morte" caso C seja maior
+- "Ninguém" caso contrário.
 
 ---
 ## Testes
