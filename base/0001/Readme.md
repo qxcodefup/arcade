@@ -1,4 +1,4 @@
-## [ope][QC0001] L3 - Sai fora Bhaskara (Cálculo de raízes).
+## [sel][QC0001] L3 - Sai fora Bhaskara (Cálculo de raízes).
 ## @qxcode
 
 ![](logo.jpg)
@@ -58,6 +58,8 @@ nao ha raiz real
 ## Ajuda
 
 Para calcular a raiz quadrada você deverá importar a biblioteca math em seu projeto e chamar a função sqrt() passando o valor que você deseja encontrar a raiz. Declare uma variável para armazenar o valor de delta, isso tornará o código mais simples.
+
+Lembre que para compilar manualmente com a biblioteca math você precisa adicionar o -lm ao parâmetro do GCC.
 
 ```c
 #include <math.h>

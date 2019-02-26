@@ -21,4 +21,5 @@ with open("./indice.md", "w+") as saida:
             saida.write("\n\n")
             saida.write("## %s\n" % tag)
             for questao in tags[tag]:
+                print(questao, end="")
                 saida.write(questao)
