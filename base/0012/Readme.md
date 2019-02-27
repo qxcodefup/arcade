@@ -1,7 +1,7 @@
 ## [mat][QX0012] L2 - Deu a louca no Impedador!
 ## @qxcode
 
-![](logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0012/logo.jpg)
 
 Na Roma antiga era comum existirem arenas para batalhas, uma das mais famosas é o Coliseu.
 Os gladiadores (pessoas que lutavam na arena) eram, na maioria, escravos, prisioneiros de guerra

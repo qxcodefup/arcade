@@ -1,7 +1,7 @@
 ## [ope][QC0006] L4 - Zerim ou um americano (Calcule o vencedor).
 ## @qxcode
 
-![](logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0006/logo.jpg)
 
 - Chico: Time de fora é meu.
 - Alberto: Eu cheguei primeiro.
@@ -29,7 +29,7 @@ Saída
 ## Testes
 
 ```
->>>>>>>>
+>>>>>>>> 01
 0
 0
 0
@@ -38,7 +38,7 @@ Saída
 nenhum
 <<<<<<<<
 
->>>>>>>>
+>>>>>>>> 02
 0
 0
 2
@@ -47,7 +47,7 @@ nenhum
 jog2
 <<<<<<<<
 
->>>>>>>>
+>>>>>>>> 03
 2
 2
 2
@@ -56,3 +56,57 @@ jog2
 jog4
 <<<<<<<<
 ```
+
+<!---
+
+
+>>>>>>>> 04
+1
+0
+0
+0
+========
+jog1
+<<<<<<<<
+
+
+>>>>>>>> 05
+0
+3
+0
+0
+========
+jog3
+<<<<<<<<
+
+
+>>>>>>>> 06
+1
+1
+1
+1
+========
+jog4
+<<<<<<<<
+
+
+>>>>>>>> 07
+2
+1
+1
+1
+========
+jog1
+<<<<<<<<
+
+
+>>>>>>>> 08
+2
+10
+1
+1
+========
+jog2
+<<<<<<<<
+
+--->

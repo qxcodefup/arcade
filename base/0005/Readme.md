@@ -1,7 +1,7 @@
 ## [ope][QC0005] L3 - Ladrão de Goiabas (Contando viagens).
 ## @qxcode
 
-![](logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0005/logo.jpg)
 
 Chico deseja coletar todas as frutas do quintal vizinho. Porém, sem que seu vizinho o veja.
 Para isso, Chico precisa saber exatamente quanto tempo ele irá gastar na coleta.
@@ -33,7 +33,7 @@ Saída:
 ## Testes
 
 ```
->>>>>>>> conta exata
+>>>>>>>> 01 conta exata
 3
 1
 1
@@ -42,7 +42,7 @@ Saída:
 1
 <<<<<<<<
 
->>>>>>>> sobrando duas
+>>>>>>>> 02 sobrando duas
 10
 4
 4
@@ -51,7 +51,7 @@ Saída:
 2
 <<<<<<<<
 
->>>>>>>> sobrando uma
+>>>>>>>> 03 sobrando uma
 2
 4
 2
@@ -64,3 +64,57 @@ Saída:
 ## Aviso:
 
 Roubar frutas do seu vizinho é errado.
+
+
+<!---
+
+>>>>>>>> 04
+4
+1
+2
+0
+========
+1
+<<<<<<<<
+
+
+>>>>>>>> 05
+20
+80
+20
+30
+========
+7
+<<<<<<<<
+
+
+>>>>>>>> 06
+100
+5
+66
+27
+========
+1
+<<<<<<<<
+
+
+>>>>>>>> 07
+7
+20
+13
+16
+========
+7
+<<<<<<<<
+
+
+>>>>>>>> 08
+2
+15
+13
+19
+========
+24
+<<<<<<<<
+
+--->

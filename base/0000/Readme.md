@@ -1,12 +1,9 @@
 ## [ope][QC0000] L1 - Operações básicas (Imprimindo float formatado).
 ## @qxcode
 
-## Motivação
-![](logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0000/logo.jpg)
 
-## Ação
-
-* Leia dois números e imprima a soma, a subtração, a multiplicação, a divisão e o resto da divisão entre eles respectivamente.
+Leia dois números e imprima a soma, a subtração, a multiplicação, a divisão e o resto da divisão entre eles respectivamente.
 
 ## IO
 
@@ -45,15 +42,43 @@ Saída:
 1.00
 0
 <<<<<<<<
-
-
-
 ```
 
 <!---
-comentário multilinha
 
-com linha vazia
+>>>>>>>> 03
+2
+4
+========
+6
+-2
+8
+0.50
+2
+<<<<<<<<
 
-bom para pandoc
+
+>>>>>>>> 04
+9
+3
+========
+12
+6
+27
+3.00
+0
+<<<<<<<<
+
+
+>>>>>>>> 05
+3
+4
+========
+7
+-1
+12
+0.75
+3
+<<<<<<<<
+
 -->

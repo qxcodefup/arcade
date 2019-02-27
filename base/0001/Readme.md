@@ -1,7 +1,7 @@
 ## [sel][QC0001] L3 - Sai fora Bhaskara (Cálculo de raízes).
 ## @qxcode
 
-![](logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0001/logo.jpg)
 
 Não sei se você amava ou odiava o tal do Bhaskara por inventar aquela fórmula das raízes. Agora é hora de implementar aquela conta pra nunca ter mais que fazer na mão.
 
@@ -69,3 +69,34 @@ int main(){
     float value = sqrt(...);
 }
 ```
+
+<!---
+
+>>>>>>>> 05
+1.0
+-1.0
+-20.0
+========
+5.00
+-4.00
+<<<<<<<<
+
+
+>>>>>>>> 06
+2.00
+0.00
+0.00
+========
+0.00
+<<<<<<<<
+
+
+>>>>>>>> 07
+5.3
+3.4
+19.2
+========
+nao ha raiz real
+<<<<<<<<
+
+--->

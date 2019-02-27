@@ -3,7 +3,7 @@
 
 
 
-![](logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0004/logo.jpg)
 
 Um atirador de elite estava atirando a 400 metros de distância em em um papel milimetrado.
 Para calcular a imprecisão da arma, ele dava dois tiros e media a distância entre eles.
@@ -30,7 +30,7 @@ Saída:
 ---
 
 ```
->>>>>>>>
+>>>>>>>> 01
 3
 7
 1
@@ -39,7 +39,7 @@ Saída:
 3.61
 <<<<<<<<
 
->>>>>>>>
+>>>>>>>> 02
 1
 8.2
 -4
@@ -48,7 +48,7 @@ Saída:
 6.28
 <<<<<<<<
 
->>>>>>>>
+>>>>>>>> 03
 3
 1
 3
@@ -63,7 +63,7 @@ Saída:
 ## Help
 
 Fórmula da distância entre dois pontos:
-![](formula.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0004/formula.jpg)
 
 Lembre-se que distância é uma grandeza sempre positiva.
 
@@ -82,3 +82,36 @@ printf("%.2f", valor);
 Para calcular a raiz quadrada você deverá importar a biblioteca math.h em seu projeto e chamar a função sqrt() passando o valor que você deseja encontrar a raiz.
 
 Para elevar ao quadrado você pode usar a função pow(x,2) que retorna x², ou fazer x * x. A função pow() também pertence à math.h.
+
+<!---
+
+>>>>>>>> 04
+7
+3
+4
+-1
+========
+5.00
+<<<<<<<<
+
+
+>>>>>>>> 05
+0
+0
+0
+0
+========
+0.00
+<<<<<<<<
+
+
+>>>>>>>> 06
+47.88
+43.91
+34.8
+40.02
+========
+13.65
+<<<<<<<<
+
+--->
