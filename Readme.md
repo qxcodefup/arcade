@@ -1,5 +1,5 @@
 # @qxcode
-[![](https://raw.githubusercontent.com/qxcodefup/arcade/master/assets/intro.png)](intro.md#qxcode)
+[![](https://raw.githubusercontent.com/qxcodefup/arcade/master/assets/intro.png)](https://github.com/qxcodefup/arcade/blob/master/intro.md#qxcode)
 
 Lista de Exercícios
 =========================
