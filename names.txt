@@ -1,0 +1,19 @@
+## @QC0000 #1_ope L1 - Operações básicas (Imprimindo float formatado)
+## @QX0011 #1_ope L2 - Formatando data (Zeros à esquerda)
+## @QC0003 #1_ope L2 - Opala bebedor (Cálculo de desempenho)
+## @QC0005 #1_ope L3 - Ladrão de Goiabas (Contando viagens)
+## @QC0004 #1_ope L3 - Mete bala (Distância entre dois pontos)
+## @QC0002 #1_ope L3 - Pintando a casa (Calculando a área do triângulo)
+## @QC0006 #1_ope L4 - Zerim ou um americano (Calcule o vencedor)
+## @QC0015 #2_sel L1 - Calculadora
+## @QC0018 #2_sel L2 - Arrendondar
+## @QC0017 #2_sel L2 - Maior valor
+## @QC0014 #2_sel L2 - Quantos são iguais?
+## @QC0001 #2_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
+## @QX0013 #3_rep L1 - Dividindo pares de sapatos pra três 
+## @QC0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
+## @QX0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
+## @QC0008 #4_vet L4 - Força Bruta (Gerando próxima combinação)
+## @QC0009 #4_vet L4 - Segredo do cofre (OBI 2017 F1P1)
+## @QX0012 #5_mat L2 - Deu a louca no Imperador!
+## @QC0007 #5_mat L4 - Tetris (Fazendo a peça cair)

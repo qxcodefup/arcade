@@ -1,4 +1,4 @@
-## [sel][QC0018] L2 - Arrendondar).
+## @QC0018 #2_sel L2 - Arrendondar
 ## @qxcode
 
 ![qualquer coisa](capa.jpg)  

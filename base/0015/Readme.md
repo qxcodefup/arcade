@@ -1,4 +1,4 @@
-## [sel][QC0015] L1 - Calculadora
+## @QC0015 #2_sel L1 - Calculadora
 
 ![](http://cdn2.colorir.com/desenhos/pintar/calculadora-solar_2.png)
 

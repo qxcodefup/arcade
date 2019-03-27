@@ -1,4 +1,4 @@
-## [sel][QC0014] L2 - Quantos são iguais?
+## @QC0014 #2_sel L2 - Quantos são iguais?
 ## @qxcode
 
 ![](capa.jpg)

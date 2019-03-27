@@ -1,4 +1,4 @@
-## [vet][QX0010] L3 - Bolinhas viciadas(contagem de repetições).
+## @QX0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
 ## @qxcode
 
 ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0010/logo.jpg)

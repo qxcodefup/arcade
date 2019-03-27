@@ -1,4 +1,4 @@
-## [ope][QC0005] L3 - Ladrão de Goiabas (Contando viagens).
+## @QC0005 #1_ope L3 - Ladrão de Goiabas (Contando viagens)
 ## @qxcode
 
 ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0005/logo.jpg)

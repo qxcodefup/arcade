@@ -1,4 +1,4 @@
-## [ope][QC0000] L1 - Operações básicas (Imprimindo float formatado).
+## @QC0000 #1_ope L1 - Operações básicas (Imprimindo float formatado)
 ## @qxcode
 
 ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0000/logo.jpg)

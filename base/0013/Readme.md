@@ -1,4 +1,4 @@
-## [rep] L1 - Dividindo pares de sapatos pra três @QX0013
+## @QX0013 #3_rep L1 - Dividindo pares de sapatos pra três 
 ## @qxcode
 
 

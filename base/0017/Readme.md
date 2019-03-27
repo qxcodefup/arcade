@@ -1,4 +1,4 @@
-## [sel][QC0017] L2 - Maior valor
+## @QC0017 #2_sel L2 - Maior valor
 ## @qxcode
 
 [![](capa.jpg)](capa.jpg)

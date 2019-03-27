@@ -1,3 +1,6 @@
+## @QC0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
+## @qxcode
+
 ### ![dinheiro](capa.jpg)
 
 ###
