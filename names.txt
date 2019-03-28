@@ -7,6 +7,7 @@
 ## @QC0006 #1_ope L4 - Zerim ou um americano (Calcule o vencedor)
 ## @QC0015 #2_sel L1 - Calculadora
 ## @QC0018 #2_sel L2 - Arrendondar
+## @QC0021 #2_sel L2 - Aumento de Salário
 ## @QC0017 #2_sel L2 - Maior valor
 ## @QC0019 #2_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
 ## @QC0014 #2_sel L2 - Quantos são iguais?
