@@ -1,4 +1,4 @@
-## @QC0002 #1_ope L3 - Pintando a casa (Calculando a área do triângulo)
+## @QC0002 #1_ope L2 - Pintando a casa (Calculando a área do triângulo)
 ## @qxcode
 
 ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0002/logo.jpg)
