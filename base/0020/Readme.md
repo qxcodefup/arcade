@@ -1,3 +1,6 @@
+## @QC0020 #2_sel L2 - Zerim ou Um!
+## @qxcode
+
 ![](capa.jpg)
 
 ### Motivação
