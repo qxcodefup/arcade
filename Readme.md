@@ -21,6 +21,7 @@
 - [L1 - Calculadora](base/0015/Readme.md)
 - [L2 - Arrendondar](base/0018/Readme.md)
 - [L2 - Maior valor](base/0017/Readme.md)
+- [L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/0019/Readme.md)
 - [L2 - Quantos são iguais?](base/0014/Readme.md)
 - [L3 - Sai fora Bhaskara (Cálculo de raízes)](base/0001/Readme.md)
 
@@ -53,6 +54,7 @@
 - [#2_sel L1 - Calculadora](base/0015/Readme.md)
 - [#2_sel L2 - Arrendondar](base/0018/Readme.md)
 - [#2_sel L2 - Maior valor](base/0017/Readme.md)
+- [#2_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/0019/Readme.md)
 - [#2_sel L2 - Quantos são iguais?](base/0014/Readme.md)
 - [#2_sel L3 - Sai fora Bhaskara (Cálculo de raízes)](base/0001/Readme.md)
 - [#3_rep L1 - Dividindo pares de sapatos pra três ](base/0013/Readme.md)
