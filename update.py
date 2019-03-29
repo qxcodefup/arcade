@@ -3,6 +3,18 @@
 
 import os, sys
 import argparse
+import unicodedata
+import string
+
+def strip_accents(text):
+    try:
+        text = unicode(text, 'utf-8')
+    except NameError: # unicode is a default on python 3 
+        pass
+    text = unicodedata.normalize('NFD', text)\
+           .encode('ascii', 'ignore')\
+           .decode("utf-8")
+    return str(text)
 
 def get_indice(line):
     def find_indice(line):
@@ -21,6 +33,13 @@ def get_indice(line):
         return line[pos : pos + 4]
     return None
 
+def get_main(indice):
+    dir_path = "base" + os.sep + str(indice) + os.sep
+    files = [x[2] for x in os.walk(dir_path)][0] #getting files
+    main = [x for x in files if ".main.md" in x]
+    if(len(main) == 0):
+        return None
+    return dir_path + main[0]
 
 class Item:
     def __init__(self, title = ""):
@@ -38,6 +57,9 @@ class Item:
 
         return " ".join(words)
 
+    def get_dir(self):
+        return "base" + os.sep + self.get_indice()
+
     def get_tags(self):
         words = self.title.split(" ")
         tags = [x[1:] for x in words if x.startswith("#") and (x != "##") and (x != "#")]
@@ -46,8 +68,8 @@ class Item:
     def get_indice(self):
         return get_indice(self.title)
     
-    def get_path(self):
-        return "base" + os.sep + str(self.get_indice()) + os.sep + "Readme.md"
+    def get_main(self):
+        return get_main(self.get_indice())
 
 
     def __str__(self):
@@ -69,12 +91,13 @@ def load_item(path):
             exit(1)
         return Item(title)
 
-
 def parse_from_dirs():
     itens = []
     base = [x[0] for x in os.walk("./base")][1:] # all directories
 
-    readme_list = [(x + "/Readme.md") for x in base if len(x) == 11] #avoid subdirectories
+    dir_list = [(x + "/") for x in base if len(x) == 11] #avoid subdirectories
+    indices_list = map(get_indice, dir_list)
+    readme_list = map(get_main, indices_list)
     for path in readme_list:
         itens.append(load_item(path))
     return itens
@@ -99,34 +122,42 @@ def parse_from_names_file():
         itens.append(item)
     return itens
 
+def filter_title(title):
+    title = strip_accents(title).lower()
+    new_title = ""
+    for c in title:
+        if c in string.punctuation or c in string.whitespace:
+            new_title += "_"
+        else:
+            new_title += c
+    while "__" in new_title:
+        new_title = new_title.replace("__", "_")
+    if new_title.endswith("_"):
+        new_title = new_title[:-1]
+    return new_title
+
 def update_filenames(itens):
     for item in itens:
-        title = item.filter_title("@#").strip()
-        title = title.replace(" ", "_").replace(".", "_").replace(":", "")
+        title = filter_title(item.filter_title("@#").strip())
+        old_main = item.get_main()
+        new_main = item.get_dir() + os.sep + title + ".main.md"
+        if old_main != new_main:
+            print("renaming: \n\told: " + old_main + "\n\tnew: " + new_main)
+            os.rename(old_main, new_main)
 
-        dir_path = "./base/" + str(item.get_indice() + "/")
-        files = [x[2] for x in os.walk(dir_path)][0] #getting files
-        titles = [x for x in files if ".title" in x] #filering title files
-        
-        if (not (title + ".title.md") in titles) or (len(titles) > 1):
-            for t in titles:
-                os.remove(dir_path + t)
-            with open(dir_path + title + ".title.md", "w") as f:
-                f.write("[Readme](Readme.md)\n")
-            
 
 def update_first_line(itens):
     for item in itens:
         data = []
 
-        if not os.path.exists(item.get_path()):
+        if not os.path.exists(item.get_main()):
             os.mkdir("./base/" + str(item.get_indice()))
-            with open(item.get_path(), "w") as f:
+            with open(item.get_main(), "w") as f:
                 f.write((item.title + "\n"))
         else:                
-            with open(item.get_path(), "r") as f:
+            with open(item.get_main(), "r") as f:
                 data = f.readlines()
-            with open(item.get_path(), "w") as f:
+            with open(item.get_main(), "w") as f:
                 data[0] = (item.title + "\n")
                 f.write("".join(data))
 
@@ -154,11 +185,11 @@ def update_indices(itens):
             f.write("\n## " + tag + "\n\n")
             lista.sort(key=lambda x: x.filter_title())
             for item in lista:
-                f.write("- [" + item.filter_title("#@") + "](" + item.get_path() + ")\n")
+                f.write("- [" + item.filter_title("#@") + "](" + item.get_main() + ")\n")
         
         f.write("\n\n# " + "ALL" + "\n\n")
         for item in itens:
-            f.write("- [" + item.filter_title("@") + "](" + item.get_path() + ")\n")            
+            f.write("- [" + item.filter_title("@") + "](" + item.get_main() + ")\n")            
         
 
 
