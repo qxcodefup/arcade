@@ -35,10 +35,15 @@ def get_indice(line):
 
 def get_main(indice):
     dir_path = "base" + os.sep + str(indice) + os.sep
-    files = [x[2] for x in os.walk(dir_path)][0] #getting files
+    files = os.listdir(dir_path) #getting files
     main = [x for x in files if ".main.md" in x]
     if len(main) == 0:
-        return None
+        main = [x for x in files if "Readme.md" in x]
+        if len(main) == 1:
+            return dir_path + main[0]
+        else:
+            print("fail indice", indice, "nao possui arquivo .main.md ou Readme.md")
+            exit(1)
     if len(main) > 1:
         print("fail: indice", indice, "com mais de um arquivo .main.md")
         exit(1)
@@ -98,7 +103,7 @@ def parse_from_dirs():
     itens = []
     base = [x[0] for x in os.walk("./base")][1:] # all directories
 
-    dir_list = [(x + "/") for x in base if len(x) == 11] #avoid subdirectories
+    dir_list = [(x + "/") for x in base if get_indice(x) != None] #avoid subdirectories
     indices_list = map(get_indice, dir_list)
     readme_list = map(get_main, indices_list)
     for path in readme_list:
