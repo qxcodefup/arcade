@@ -104,14 +104,19 @@ Saída:
 
 --->
 
-### Ajude nos a melhorar os testes
-
-[https://goo.gl/qQ64FO](https://goo.gl/qQ64FO)
 
 ### Dica
 
-Ao invés de fazer muitos ifs e elses que tal criar uma variável maior que guarda o primeiro valor.
+Ao invés de fazer muitos ifs e elses que tal criar uma variável `vmaior` que guarda o primeiro valor.
 
-Para cada próximo valor, se este for maior que o maior atual, ele se torna o novo maior.
+```
+vmaior recebe o primeiro valor lido
+se o segundo valor lido for maior que vmaior
+    vmaior recebe segundo
+se o terceiro valor lido for maior que vmaior
+    vmaior recebe terceiro
+...
+
+```
 
 Autor: David Sena
