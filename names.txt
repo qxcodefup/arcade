@@ -1,15 +1,19 @@
 ## @QC0000 #1_ope L1 - Operações básicas (Imprimindo float formatado)
 ## @QX0011 #1_ope L2 - Formatando data (Zeros à esquerda)
 ## @QC0003 #1_ope L2 - Opala bebedor (Cálculo de desempenho)
+## @QC0002 #1_ope L2 - Pintando a casa (Calculando a área do triângulo)
 ## @QC0005 #1_ope L3 - Ladrão de Goiabas (Contando viagens)
 ## @QC0004 #1_ope L3 - Mete bala (Distância entre dois pontos)
-## @QC0002 #1_ope L3 - Pintando a casa (Calculando a área do triângulo)
 ## @QC0006 #1_ope L4 - Zerim ou um americano (Calcule o vencedor)
 ## @QC0015 #2_sel L1 - Calculadora
 ## @QC0018 #2_sel L2 - Arrendondar
+## @QC0021 #2_sel L2 - Aumento de Salário
 ## @QC0017 #2_sel L2 - Maior valor
 ## @QC0019 #2_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
 ## @QC0014 #2_sel L2 - Quantos são iguais? (Contando Repetidos)
+## @QC0020 #2_sel L2 - Zerim ou Um!
+## @QC0023 #2_sel L3 - Jokenpo das tartarugas!
+## @QC0022 #2_sel L3 - OBI 2017 - Fase 1 - Teleferico
 ## @QC0001 #2_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
 ## @QX0013 #3_rep L1 - Dividindo pares de sapatos pra três 
 ## @QC0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
