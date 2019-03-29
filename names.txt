@@ -9,7 +9,7 @@
 ## @QC0018 #2_sel L2 - Arrendondar
 ## @QC0021 #2_sel L2 - Aumento de Salário
 ## @QC0019 #2_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
-## @QC0017 #2_sel L2 - Os ovinhos de Gislene (Procurando o Maior valor)
+## @QC0017 #2_sel L2 - Os ovos de Gislene (Procurando o Maior valor)
 ## @QC0014 #2_sel L2 - Quantos são iguais? (Contando Repetidos)
 ## @QC0020 #2_sel L2 - Zerim ou Um!
 ## @QC0023 #2_sel L3 - Jokenpo das tartarugas!

@@ -37,8 +37,11 @@ def get_main(indice):
     dir_path = "base" + os.sep + str(indice) + os.sep
     files = [x[2] for x in os.walk(dir_path)][0] #getting files
     main = [x for x in files if ".main.md" in x]
-    if(len(main) == 0):
+    if len(main) == 0:
         return None
+    if len(main) > 1:
+        print("fail: indice", indice, "com mais de um arquivo .main.md")
+        exit(1)
     return dir_path + main[0]
 
 class Item:
