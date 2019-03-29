@@ -1,4 +1,5 @@
 ## @QC0015 #2_sel L1 - Calculadora
+## @qxcode
 
 ![](http://cdn2.colorir.com/desenhos/pintar/calculadora-solar_2.png)
 

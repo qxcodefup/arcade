@@ -164,6 +164,16 @@ def update_first_line(itens):
                 data[0] = (item.title + "\n")
                 f.write("".join(data))
 
+def update_qxcode(itens):
+    for item in itens:
+        data = []
+        with open(item.get_main(), "r") as f:
+            data = f.readlines()
+        if data[1] != "## @qxcode\n":
+            data.insert(1, "## @qxcode\n")
+            with open(item.get_main(), "w") as f:
+                print("adicionando @qxcode no arquivo", item.get_indice())
+                f.write("".join(data))
 
 def tree_generate(itens):
     tree = {}
@@ -188,7 +198,7 @@ def update_indices(itens):
             f.write("\n## " + tag + "\n\n")
             lista.sort(key=lambda x: x.filter_title())
             for item in lista:
-                f.write("- [" + item.filter_title("#@") + "](" + item.get_main() + ")\n")
+                f.write("- [" + item.filter_title("#@") + "](" + item.get_main() + "#qxcode" ")\n")
         
         f.write("\n\n# " + "ALL" + "\n\n")
         for item in itens:
@@ -212,6 +222,7 @@ if args.s:
 else:
     itens = parse_from_dirs()
 
+update_qxcode(itens)
 update_filenames(itens)
 print("atualizado: nomes dos arquivos")
 update_names_txt(itens)
