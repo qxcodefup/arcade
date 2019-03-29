@@ -21,7 +21,7 @@ Entrada:
 
 Saída:
 
-* Imprima o resultado da operação em inteiro. Se a operação não pode ser realizada, imprima a string "invalida".
+* Imprima o resultado da operação em inteiro. Nunca haverá divisão por 0.
 
 ### Exemplos
 ```
@@ -44,11 +44,11 @@ Saída:
 
 
 >>>>>>>>
-5
-0
+7
+9
 /
 ========
-invalida
+0
 <<<<<<<<
 ```
 <!--- 
@@ -81,10 +81,10 @@ invalida
 
 >>>>>>>>
 8
-0
+3
 /
 ========
-invalida
+2
 <<<<<<<<
 
 

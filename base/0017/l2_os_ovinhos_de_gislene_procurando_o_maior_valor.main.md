@@ -1,4 +1,4 @@
-## @QC0017 #2_sel L2 - Os ovos de Gislene (Procurando o Maior valor)
+## @QC0017 #2_sel L2 - Os ovinhos de Gislene (Procurando o Maior valor)
 ## @qxcode
 
 [![](capa.jpg)](capa.jpg)
