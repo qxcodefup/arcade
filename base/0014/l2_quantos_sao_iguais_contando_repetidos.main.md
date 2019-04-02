@@ -1,7 +1,7 @@
 ## @QC0014 #2_sel L2 - Quantos são iguais? (Contando Repetidos)
 ## @qxcode
 
-![](capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0014/capa.jpg)
 
 ### Descrição
 

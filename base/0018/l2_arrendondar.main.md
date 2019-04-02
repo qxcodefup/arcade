@@ -1,7 +1,7 @@
 ## @QC0018 #2_sel L2 - Arrendondar
 ## @qxcode
 
-![qualquer coisa](capa.jpg)  
+![qualquer coisa](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0018/capa.jpg)  
 
 ### MOTIVAÇÃO
 

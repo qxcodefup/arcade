@@ -1,7 +1,7 @@
 ## @QC0015 #2_sel L1 - Calculadora
 ## @qxcode
 
-![](http://cdn2.colorir.com/desenhos/pintar/calculadora-solar_2.png)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0015/capa.jpg)
 
 ### Motivação
 

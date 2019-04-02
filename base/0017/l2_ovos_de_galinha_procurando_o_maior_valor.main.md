@@ -1,7 +1,7 @@
 ## @QC0017 #2_sel L2 - Ovos de galinha (Procurando o Maior valor)
 ## @qxcode
 
-[![](capa.jpg)](capa.jpg)
+[![](capa.jpg)](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0017/capa.jpg)
 
 ### Motivação
 

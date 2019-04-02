@@ -1,7 +1,7 @@
 ## @QC0020 #2_sel L2 - Zerim ou Um!
 ## @qxcode
 
-![](capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0020/capa.jpg)
 
 ### Motivação
 

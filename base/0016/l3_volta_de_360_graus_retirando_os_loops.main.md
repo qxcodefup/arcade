@@ -1,7 +1,7 @@
 ## @QC0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
 ## @qxcode
 
-### ![dinheiro](capa.jpg)
+### ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0016/capa.jpg)
 
 ###
 
@@ -21,7 +21,7 @@ Aline: Descobri que era do meu pai.
 
 
 
-![angulos](angulos.png)
+![angulos](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0016/angulos.png)
 
 Nosso sistema de ângulos no plano cartesiano é definido em graus. O ângulo 0 aponta para esquerda, o 90 aponta para cima, o 180 para direita e por aí vai. O 360 graus equivale voltar ao 0.
 

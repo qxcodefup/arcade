@@ -3,7 +3,7 @@
 
 TODO
 - falta figura
-![](http://geradormemes.com/media/created/wxcbys.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0021/capa.jpg)
 
 
 

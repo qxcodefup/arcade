@@ -1,7 +1,7 @@
 ## @QC0023 #2_sel L3 - Jokenpo das tartarugas!
 ## @qxcode
 
-![](capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0023/capa.jpg)
 
 ### Motivação
 

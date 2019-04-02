@@ -2,7 +2,7 @@
 ## @qxcode
 
 
-![](capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0013/capa.jpg)
 
 Marilurdes tem muitos pares de sapatos. Só que vários deles ela compartilha com as irmãs Arilúcia e Barisilene. Quantos pares de sapato são divisíveis pelas 3 entre Arilúcia e Barislene?
 

@@ -2,7 +2,6 @@
 ## @qxcode
 
 
-
 ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0004/logo.jpg)
 
 Um atirador de elite estava atirando a 400 metros de distância em em um papel milimetrado.
