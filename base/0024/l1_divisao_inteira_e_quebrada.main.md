@@ -5,7 +5,7 @@
 
 ### Divisão Inteira e Quebrada
 
-#### ![Uma imagems mostrando onde fica o divisor, o quociente e o resto da divisão inteira.](capa.png)
+#### ![Uma imagems mostrando onde fica o divisor, o quociente e o resto da divisão inteira.](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0024/capa.png)
 
 #### Motivação
 
