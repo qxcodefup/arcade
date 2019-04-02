@@ -5,6 +5,7 @@
 ## @QC0005 #1_ope L3 - Ladrão de Goiabas (Contando viagens)
 ## @QC0004 #1_ope L3 - Mete bala (Distância entre dois pontos)
 ## @QC0006 #1_ope L4 - Zerim ou um americano (Calcule o vencedor)
+## @QC0025 #2_sel L1 - Ambos Divisíveis
 ## @QC0015 #2_sel L1 - Calculadora
 ## @QC0024 #2_sel L1 - Divisão Inteira e Quebrada
 ## @QC0018 #2_sel L2 - Arrendondar
