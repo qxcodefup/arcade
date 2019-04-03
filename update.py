@@ -233,6 +233,7 @@ if args.s:
     itens = parse_from_names_file()
     update_first_line(itens)
 else:
+    print("obtendo nomes dos títulos dos arquivos")
     itens = parse_from_dirs()
 
 update_qxcode_link(itens)
