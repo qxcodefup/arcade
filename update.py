@@ -87,9 +87,6 @@ class Item:
         if(words[0] == "##"):
             del words[0]
         return " ".join(words)
- 
-
-
 
 def load_item(path):
     with open(path, "r") as readme:
@@ -150,11 +147,12 @@ def update_title_md_links(itens):
     for item in itens:
         title = filter_title(item.filter_title("@#").strip())
         files = os.listdir(item.get_dir()) #getting files
-        old_titles = [(item.get_dir() + os.sep + x) for x in files if x.endswith(".title.md")]
+        old_titles = [x for x in files if x.endswith(".title.md")]
+        old_titles = [(item.get_dir() + os.sep + x) for x in old_titles]
         new_title = item.get_dir() + os.sep + title + ".title.md"
 
         if (len(old_titles) == 1) and (old_titles[0] == new_title):
-            return
+            continue
 
         for file in old_titles:
             os.remove(file)
@@ -238,6 +236,7 @@ else:
     itens = parse_from_dirs()
 
 update_qxcode_link(itens)
+print("atualizado: recriando title.md")
 update_title_md_links(itens)
 print("atualizado: nomes dos arquivos")
 update_names_txt(itens)
