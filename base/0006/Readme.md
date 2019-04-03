@@ -1,4 +1,4 @@
-## @QC0006 #1_ope L4 - Zerim ou um americano (Calcule o vencedor)
+@0006 #1_ope L4 - Zerinho ou um americano (Calcule o vencedor)
 ## @qxcode
 
 ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0006/capa.jpg)

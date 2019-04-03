@@ -1,4 +1,4 @@
-## @QC0026 #2_sel L1 - Positivo, Nulo ou Negativo?
+@0026 #2_sel L1 - Positivo, Nulo ou Negativo?
 ## @qxcode
 
 ## @qxcode

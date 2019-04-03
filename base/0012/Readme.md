@@ -1,4 +1,4 @@
-## @QX0012 #5_mat L2 - Deu a louca no Imperador!
+@0012 #5_mat L2 - Deu a louca no Imperador!
 ## @qxcode
 
 ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0012/capa.jpg)
