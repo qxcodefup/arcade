@@ -34,7 +34,8 @@ def get_indice(line):
     return None
 
 def get_main(indice):
-    dir_path = "base" + os.sep + str(indice) + os.sep
+    return "base" + os.sep + str(indice) + os.sep + "Readme.md"
+"""
     files = os.listdir(dir_path) #getting files
     main = [x for x in files if ".main.md" in x]
     if len(main) == 0:
@@ -48,6 +49,7 @@ def get_main(indice):
         print("fail: indice", indice, "com mais de um arquivo .main.md")
         exit(1)
     return dir_path + main[0]
+"""
 
 class Item:
     def __init__(self, title = ""):
@@ -144,14 +146,22 @@ def filter_title(title):
         new_title = new_title[:-1]
     return new_title
 
-def update_filenames(itens):
+def update_title_md_links(itens):
     for item in itens:
         title = filter_title(item.filter_title("@#").strip())
-        old_main = item.get_main()
-        new_main = item.get_dir() + os.sep + title + ".main.md"
-        if old_main != new_main:
-            print("renaming: \n\told: " + old_main + "\n\tnew: " + new_main)
-            os.rename(old_main, new_main)
+        files = os.listdir(item.get_dir()) #getting files
+        old_titles = [(item.get_dir() + os.sep + x) for x in files if x.endswith(".title.md")]
+        new_title = item.get_dir() + os.sep + title + ".title.md"
+
+        if (len(old_titles) == 1) and (old_titles[0] == new_title):
+            return
+
+        for file in old_titles:
+            os.remove(file)
+        print("recriando link do titulo", new_title)
+        f = open(new_title, "w")
+        f.write("[README](Readme.md)\n")
+        f.close()
 
 
 def update_first_line(itens):
@@ -169,7 +179,7 @@ def update_first_line(itens):
                 data[0] = (item.title + "\n")
                 f.write("".join(data))
 
-def update_qxcode(itens):
+def update_qxcode_link(itens):
     for item in itens:
         data = []
         with open(item.get_main(), "r") as f:
@@ -227,8 +237,8 @@ if args.s:
 else:
     itens = parse_from_dirs()
 
-update_qxcode(itens)
-update_filenames(itens)
+update_qxcode_link(itens)
+update_title_md_links(itens)
 print("atualizado: nomes dos arquivos")
 update_names_txt(itens)
 print("atualizado: names.txt")
