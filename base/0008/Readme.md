@@ -1,7 +1,7 @@
 ## @QC0008 #4_vet L4 - Força Bruta (Gerando próxima combinação)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0008/logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0008/capa.jpg)
 
 Todo algoritmo de força bruta exige a geração de todas as combinações possíveis para a senha. Quanto mais informação se tem sobre a senha, menor o espaço de busca a ser testado.
 

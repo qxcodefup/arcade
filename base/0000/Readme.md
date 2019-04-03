@@ -1,7 +1,7 @@
 ## @QC0000 #1_ope L1 - Operações básicas (Imprimindo float formatado)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0000/logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0000/capa.jpg)
 
 Leia dois números e imprima a soma, a subtração, a multiplicação, a divisão e o resto da divisão entre eles respectivamente.
 

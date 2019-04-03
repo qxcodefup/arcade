@@ -2,7 +2,7 @@
 ## @qxcode
 
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0004/logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0004/capa.jpg)
 
 Um atirador de elite estava atirando a 400 metros de distância em em um papel milimetrado.
 Para calcular a imprecisão da arma, ele dava dois tiros e media a distância entre eles.

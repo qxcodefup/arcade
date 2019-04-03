@@ -1,7 +1,7 @@
 ## @QX0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0010/logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0010/capa.jpg)
 
 Você, enquanto passeava pelos corredores esquecidos de sua Universidade descobriu um jogo de apostas clandestino. 
 Nele, existe um GRANDE cilindro como de bingo cheio de bolinhas de gude numeradas. 

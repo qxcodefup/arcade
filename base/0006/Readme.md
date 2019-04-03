@@ -1,7 +1,7 @@
 ## @QC0006 #1_ope L4 - Zerim ou um americano (Calcule o vencedor)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0006/logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0006/capa.jpg)
 
 - Chico: Time de fora é meu.
 - Alberto: Eu cheguei primeiro.

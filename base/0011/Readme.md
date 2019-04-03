@@ -1,7 +1,7 @@
 ## @QX0011 #1_ope L2 - Formatando data (Zeros à esquerda)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0011/logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0011/capa.jpg)
 
 Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e imprima no formato hh:mm dd/mm/aa. Você deve certificar-se de imprimir um 0 à esquerda para garantir que todas as informações tenham 2 dígitos. A hora de entrada poderá aparecer no formato 24 horas, mas apresente-a na saída no formato 12h.
 

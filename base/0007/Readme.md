@@ -1,7 +1,7 @@
 ## @QC0007 #5_mat L4 - Tetris (Fazendo a peça cair)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0007/logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0007/capa.jpg)
 
 Você com certeza já jogou tetris. Ele é o jogo mais vendido do mundo com 170 milhões de unidades. Seja no seu celular ou no mini game de 70 joguinhos em um da vovó, Tetris é imbatível.
 

@@ -1,7 +1,7 @@
 ## @QC0005 #1_ope L3 - Ladrão de Goiabas (Contando viagens)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0005/logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0005/capa.jpg)
 
 Chico deseja coletar todas as frutas do quintal vizinho. Porém, sem que seu vizinho o veja.
 Para isso, Chico precisa saber exatamente quanto tempo ele irá gastar na coleta.

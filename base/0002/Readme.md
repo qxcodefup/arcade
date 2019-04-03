@@ -1,7 +1,7 @@
 ## @QC0002 #1_ope L2 - Pintando a casa (Calculando a área do triângulo)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0002/logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0002/capa.jpg)
 
 Fernando comprou uma casa triangular. Na hora de calcular a quantidade de tinta pra pintar, precisou descobrir como calcular a área de um triângulo. Deu de cara com a fórmula de Heron.
 

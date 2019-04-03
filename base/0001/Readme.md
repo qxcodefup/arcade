@@ -1,7 +1,7 @@
 ## @QC0001 #2_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0001/logo.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0001/capa.jpg)
 
 Não sei se você amava ou odiava o tal do Bhaskara por inventar aquela fórmula das raízes. Agora é hora de implementar aquela conta pra nunca ter mais que fazer na mão.
 
