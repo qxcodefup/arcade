@@ -9,6 +9,7 @@
 ## @QC0015 #2_sel L1 - Calculadora
 ## @QC0024 #2_sel L1 - Divisão Inteira e Quebrada
 ## @QC0026 #2_sel L1 - Positivo, Nulo ou Negativo?
+## @QC0027 #2_sel L2 - Adedonha na Califórnia
 ## @QC0018 #2_sel L2 - Arrendondar
 ## @QC0021 #2_sel L2 - Aumento de Salário
 ## @QC0019 #2_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
