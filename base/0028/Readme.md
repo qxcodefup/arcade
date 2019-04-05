@@ -1,18 +1,15 @@
 ## @QC0028 #2_sel L2 - Cadê a cabeça da cobra
 ## @qxcode
 
-## @qxcode
+![Cobrinha](capa.jpg)
 
-
-A cabeça da cobra
-
-====================
+### Descrição
 
 Marivaldo, mais conhecido como Zé da Carroça, é um agricultor bem sucedido do sertão de Quixadá. Só quando chove é claro. Mas o problema de Marivaldo é outro. Seu filho mais novo, Mavarildo, mais conhecido como Zezim da Carroça, tem uma fixação assustadora em bichos do mato, em especial cobras. O menino ajudado pelo seu irmão Marivanio vara o cercado procurando uma cobra pra bater uma foto no celular do pai e postar nas redes sociais para seus seguidores. O menino entretanto combinou com o pai que se ele ganhasse um celular com joguinhos, ele pararia de tal estripulias. O pai, então, por fraqueza, cedendo à chantagem, comprou um nokia 3310 super conservado na feirinha do centro pela bagatela de uma raspa de rapadura com coco e mamão num prato de coalhada.
 
 
 
-![Cobrinha](capa.jpg)
+
 
 
 

@@ -1,11 +1,10 @@
 ## @QC0029 #2_sel L2 - Quiz do Harry Potter
 ## @qxcode
 
-## @qxcode
 
 ![Harry Potter fãs](capa.jpg)
 
-\### Descrição
+### Descrição
 
 Um site sobre a série Harry Potter pediu para você criar um programa para medir o conhecimento de um visitante sobre a série e assim determinar o quão fã o visitante é.
 

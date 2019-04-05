@@ -1,9 +1,6 @@
 ## @QC0027 #2_sel L2 - Adedonha na Califórnia
 ## @qxcode
 
-## @qxcode
-
-
 ![Califórnia](capa.png)
 
 ### Adedonha na Califórnia 
