@@ -13,6 +13,7 @@
 ## @QC0018 #2_sel L2 - Arrendondar
 ## @QC0021 #2_sel L2 - Aumento de Salário
 ## @QC0028 #2_sel L2 - Cadê a cabeça da cobra
+## @QC0030 #2_sel L2 - Mercantil V1
 ## @QC0019 #2_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
 ## @QC0017 #2_sel L2 - Ovos de galinha (Procurando o Maior valor)
 ## @QC0014 #2_sel L2 - Quantos são iguais? (Contando Repetidos)
