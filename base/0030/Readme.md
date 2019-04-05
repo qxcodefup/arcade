@@ -7,7 +7,7 @@
 
 
 ### Descrição
-s
+
 Pedro e João foram no Silvio Santos. O programa era aquele
 que o Silvio mostrava um produto do mercantil e a pessoa
 que chegasse mais próximo do preço real ganhava.
@@ -61,7 +61,7 @@ empate
 <<<<<<<<
 
 
->>>>>>>
+>>>>>>>>
 20
 21
 22
