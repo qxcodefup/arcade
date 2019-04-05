@@ -12,9 +12,11 @@
 ## @QC0027 #2_sel L2 - Adedonha na Califórnia
 ## @QC0018 #2_sel L2 - Arrendondar
 ## @QC0021 #2_sel L2 - Aumento de Salário
+## @QC0028 #2_sel L2 - Cadê a cabeça da cobra
 ## @QC0019 #2_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
 ## @QC0017 #2_sel L2 - Ovos de galinha (Procurando o Maior valor)
 ## @QC0014 #2_sel L2 - Quantos são iguais? (Contando Repetidos)
+## @QC0029 #2_sel L2 - Quiz do Harry Potter
 ## @QC0020 #2_sel L2 - Zerim ou Um!
 ## @QC0023 #2_sel L3 - Jokenpo das tartarugas!
 ## @QC0022 #2_sel L3 - OBI 2017 - Fase 1 - Teleferico
