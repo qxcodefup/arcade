@@ -25,6 +25,7 @@
 ## @QC0034 #2_sel L3 - Formiga da bundona
 ## @QC0037 #2_sel L3 - Jokenpo 15
 ## @QC0023 #2_sel L3 - Jokenpo das tartarugas!
+## @QC0039 #2_sel L3 - Mercantil V2
 ## @QC0036 #2_sel L3 - Morre o do meio
 ## @QC0035 #2_sel L3 - OBI 2017 - Fase 1 - Drone de Entrega
 ## @QC0022 #2_sel L3 - OBI 2017 - Fase 1 - Teleferico
