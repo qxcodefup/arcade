@@ -21,8 +21,11 @@
 ## @QC0014 #2_sel L2 - Quantos são iguais? (Contando Repetidos)
 ## @QC0029 #2_sel L2 - Quiz do Harry Potter
 ## @QC0020 #2_sel L2 - Zerim ou Um!
+## @QC0038 #2_sel L3 - A hora do próximo segundo
 ## @QC0034 #2_sel L3 - Formiga da bundona
+## @QC0037 #2_sel L3 - Jokenpo 15
 ## @QC0023 #2_sel L3 - Jokenpo das tartarugas!
+## @QC0036 #2_sel L3 - Morre o do meio
 ## @QC0035 #2_sel L3 - OBI 2017 - Fase 1 - Drone de Entrega
 ## @QC0022 #2_sel L3 - OBI 2017 - Fase 1 - Teleferico
 ## @QC0033 #2_sel L3 - Professor Bonzinho
