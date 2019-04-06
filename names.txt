@@ -31,6 +31,7 @@
 ## @QC0035 #2_sel L3 - OBI 2017 - Fase 1 - Drone de Entrega
 ## @QC0022 #2_sel L3 - OBI 2017 - Fase 1 - Teleferico
 ## @QC0033 #2_sel L3 - Professor Bonzinho
+## @QC0041 #2_sel L3 - Rufus e Par ou Ímpar!
 ## @QC0001 #2_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
 ## @QX0013 #3_rep L1 - Dividindo pares de sapatos pra três 
 ## @QC0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
