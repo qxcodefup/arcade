@@ -6,21 +6,12 @@
 # TAGS
 
 
-## 1_ope
-
-- [L1 - Operações básicas (Imprimindo float formatado)](base/0000/Readme.md#qxcode)
-- [L2 - Formatando data (Zeros à esquerda)](base/0011/Readme.md#qxcode)
-- [L2 - Opala bebedor (Cálculo de desempenho)](base/0003/Readme.md#qxcode)
-- [L2 - Pintando a casa (Calculando a área do triângulo)](base/0002/Readme.md#qxcode)
-- [L3 - Ladrão de Goiabas (Contando viagens)](base/0005/Readme.md#qxcode)
-- [L3 - Mete bala (Distância entre dois pontos)](base/0004/Readme.md#qxcode)
-- [L4 - Zerim ou um americano (Calcule o vencedor)](base/0006/Readme.md#qxcode)
-
 ## 3_rep
 
 - [L1 - Dividindo pares de sapatos pra três ](base/0013/Readme.md#qxcode)
 - [L1 - Somatório V2](base/0044/Readme.md#qxcode)
 - [L1 - Zero é par - Somatório de Pares!](base/0045/Readme.md#qxcode)
+- [L2 - Cabo de Guerra Jedi](base/0048/Readme.md#qxcode)
 - [L2 - Jogo da Concentração](base/0046/Readme.md#qxcode)
 - [L2 - Ônibus lotado](base/0047/Readme.md#qxcode)
 - [L3 - Volta de 360 graus (Retirando os loops)](base/0016/Readme.md#qxcode)
@@ -30,11 +21,6 @@
 - [L3 - Bolinhas viciadas(contagem de repetições)](base/0010/Readme.md#qxcode)
 - [L4 - Força Bruta (Gerando próxima combinação)](base/0008/Readme.md#qxcode)
 - [L4 - Segredo do cofre (OBI 2017 F1P1)](base/0009/Readme.md#qxcode)
-
-## 5_mat
-
-- [L2 - Deu a louca no Imperador!](base/0012/Readme.md#qxcode)
-- [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
 
 ## 2_sel
 
@@ -68,6 +54,21 @@
 - [L3 - Sai fora Bhaskara (Cálculo de raízes)](base/0001/Readme.md#qxcode)
 - [L4 - Dorme Tarde Acordar Cedo!](base/0043/Readme.md#qxcode)
 - [L4 - Rufus e Ordenação!](base/0042/Readme.md#qxcode)
+
+## 1_ope
+
+- [L1 - Operações básicas (Imprimindo float formatado)](base/0000/Readme.md#qxcode)
+- [L2 - Formatando data (Zeros à esquerda)](base/0011/Readme.md#qxcode)
+- [L2 - Opala bebedor (Cálculo de desempenho)](base/0003/Readme.md#qxcode)
+- [L2 - Pintando a casa (Calculando a área do triângulo)](base/0002/Readme.md#qxcode)
+- [L3 - Ladrão de Goiabas (Contando viagens)](base/0005/Readme.md#qxcode)
+- [L3 - Mete bala (Distância entre dois pontos)](base/0004/Readme.md#qxcode)
+- [L4 - Zerim ou um americano (Calcule o vencedor)](base/0006/Readme.md#qxcode)
+
+## 5_mat
+
+- [L2 - Deu a louca no Imperador!](base/0012/Readme.md#qxcode)
+- [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
 
 
 # ALL
@@ -112,6 +113,7 @@
 - [#3_rep L1 - Dividindo pares de sapatos pra três ](base/0013/Readme.md)
 - [#3_rep L1 - Somatório V2](base/0044/Readme.md)
 - [#3_rep L1 - Zero é par - Somatório de Pares!](base/0045/Readme.md)
+- [#3_rep L2 - Cabo de Guerra Jedi](base/0048/Readme.md)
 - [#3_rep L2 - Jogo da Concentração](base/0046/Readme.md)
 - [#3_rep L2 - Ônibus lotado](base/0047/Readme.md)
 - [#3_rep L3 - Volta de 360 graus (Retirando os loops)](base/0016/Readme.md)
