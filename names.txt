@@ -37,6 +37,7 @@
 ## @QC0042 #2_sel L4 - Rufus e Ordenação!
 ## @QX0013 #3_rep L1 - Dividindo pares de sapatos pra três 
 ## @QC0044 #3_rep L1 - Somatório V2
+## @QC0045 #3_rep L1 - Zero é par - Somatório de Pares!
 ## @QC0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
 ## @QX0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
 ## @QC0008 #4_vet L4 - Força Bruta (Gerando próxima combinação)
