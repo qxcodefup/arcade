@@ -39,6 +39,7 @@
 ## @QC0044 #3_rep L1 - Somatório V2
 ## @QC0045 #3_rep L1 - Zero é par - Somatório de Pares!
 ## @QC0048 #3_rep L2 - Cabo de Guerra Jedi
+## @QC0050 #3_rep L2 - Castelos de Cubos
 ## @QC0046 #3_rep L2 - Jogo da Concentração
 ## @QC0049 #3_rep L2 - Sapinho no Poço
 ## @QC0047 #3_rep L2 - Ônibus lotado
