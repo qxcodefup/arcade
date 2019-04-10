@@ -45,6 +45,7 @@
 ## @QC0047 #3_rep L2 - Ônibus lotado
 ## @QC0051 #3_rep L3 - Arremesso de pedra na lua
 ## @QC0052 #3_rep L3 - Hoje tem sopa de coelho?
+## @QC0053 #3_rep L3 - OBI 2016 - Fuga em helicóptero
 ## @QC0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
 ## @QX0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
 ## @QC0008 #4_vet L4 - Força Bruta (Gerando próxima combinação)
