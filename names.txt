@@ -43,6 +43,7 @@
 ## @QC0046 #3_rep L2 - Jogo da Concentração
 ## @QC0049 #3_rep L2 - Sapinho no Poço
 ## @QC0047 #3_rep L2 - Ônibus lotado
+## @QC0051 #3_rep L3 - Arremesso de pedra na lua
 ## @QC0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
 ## @QX0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
 ## @QC0008 #4_vet L4 - Força Bruta (Gerando próxima combinação)
