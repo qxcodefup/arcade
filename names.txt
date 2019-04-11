@@ -35,7 +35,6 @@
 0001: @0001 #2_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
 0043: @0043 #2_sel L4 - Dorme Tarde Acordar Cedo!
 0042: @0042 #2_sel L4 - Rufus e Ordenação!
-0100: @0100 #2_vet L3 - Jogando pião na rodinha
 0013: @0013 #3_rep L1 - Dividindo pares de sapatos pra três
 0044: @0044 #3_rep L1 - Somatório V2
 0045: @0045 #3_rep L1 - Zero é par - Somatório de Pares!
@@ -50,6 +49,7 @@
 0016: @0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
 0054: @0054 #3_rep L4 - Quebrador de Copos
 0010: @0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
+0100: @0100 #4_vet L3 - Jogando pião na rodinha
 0008: @0008 #4_vet L4 - Força Bruta (Gerando próxima combinação)
 0009: @0009 #4_vet L4 - Segredo do cofre (OBI 2017 F1P1)
 0012: @0012 #5_mat L2 - Deu a louca no Imperador!

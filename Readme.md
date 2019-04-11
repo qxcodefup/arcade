@@ -49,10 +49,6 @@
 - [L4 - Dorme Tarde Acordar Cedo!](base/0043/Readme.md#qxcode)
 - [L4 - Rufus e Ordenação!](base/0042/Readme.md#qxcode)
 
-## 2_vet
-
-- [L3 - Jogando pião na rodinha](base/0100/Readme.md#qxcode)
-
 ## 3_rep
 
 - [L1 - Dividindo pares de sapatos pra três](base/0013/Readme.md#qxcode)
@@ -72,6 +68,7 @@
 ## 4_vet
 
 - [L3 - Bolinhas viciadas(contagem de repetições)](base/0010/Readme.md#qxcode)
+- [L3 - Jogando pião na rodinha](base/0100/Readme.md#qxcode)
 - [L4 - Força Bruta (Gerando próxima combinação)](base/0008/Readme.md#qxcode)
 - [L4 - Segredo do cofre (OBI 2017 F1P1)](base/0009/Readme.md#qxcode)
 
