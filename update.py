@@ -176,7 +176,7 @@ class Itens:
             f.write("\n# " + "TAGS" + "\n\n")
             for tag, lista in tree.items():
                 f.write("\n## " + tag + "\n\n")
-                lista.sort(key=lambda x: x.filter_by_prefix(""))
+                lista.sort(key=lambda x: x.filter_by_prefix("@"))
                 for item in lista:
                     f.write("- [" + item.filter_by_prefix("#@") + "](" + item.readme_path + "#qxcode" ")\n")       
         
