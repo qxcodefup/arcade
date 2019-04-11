@@ -1,4 +1,4 @@
-## @QC0047 #3_rep L2 - Ônibus lotado
+## @0047 #3_rep L2 - Ônibus lotado
 ## @qxcode
 
 ###

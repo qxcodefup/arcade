@@ -1,0 +1,55 @@
+0000: @0000 #1_ope L1 - Operações básicas (Imprimindo float formatado)
+0011: @0011 #1_ope L2 - Formatando data (Zeros à esquerda)
+0003: @0003 #1_ope L2 - Opala bebedor (Cálculo de desempenho)
+0002: @0002 #1_ope L2 - Pintando a casa (Calculando a área do triângulo)
+0005: @0005 #1_ope L3 - Ladrão de Goiabas (Contando viagens)
+0004: @0004 #1_ope L3 - Mete bala (Distância entre dois pontos)
+0006: @0006 #1_ope L4 - Zerinho ou um americano (Calcule o vencedor)
+0025: @0025 #2_sel L1 - Ambos Divisíveis
+0015: @0015 #2_sel L1 - Calculadora
+0024: @0024 #2_sel L1 - Divisão Inteira e Quebrada
+0026: @0026 #2_sel L1 - Positivo, Nulo ou Negativo?
+0027: @0027 #2_sel L2 - Adedonha na Califórnia
+0018: @0018 #2_sel L2 - Arrendondar
+0021: @0021 #2_sel L2 - Aumento de Salário
+0032: @0032 #2_sel L2 - Bolada na fuça
+0028: @0028 #2_sel L2 - Cadê a cabeça da cobra
+0031: @0031 #2_sel L2 - Fiquei de final
+0030: @0030 #2_sel L2 - Mercantil V1
+0019: @0019 #2_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
+0017: @0017 #2_sel L2 - Ovos de galinha (Procurando o Maior valor)
+0014: @0014 #2_sel L2 - Quantos são iguais? (Contando Repetidos)
+0029: @0029 #2_sel L2 - Quiz do Harry Potter
+0020: @0020 #2_sel L2 - Zerinho ou Um!
+0038: @0038 #2_sel L3 - A hora do próximo segundo
+0040: @0040 #2_sel L3 - Está Trabalhand ou Não!
+0034: @0034 #2_sel L3 - Formiga da bundona
+0037: @0037 #2_sel L3 - Jokenpo 15
+0023: @0023 #2_sel L3 - Jokenpo das tartarugas!
+0039: @0039 #2_sel L3 - Mercantil V2
+0036: @0036 #2_sel L3 - Morre o do meio
+0035: @0035 #2_sel L3 - OBI 2017 - Fase 1 - Drone de Entrega
+0022: @0022 #2_sel L3 - OBI 2017 - Fase 1 - Teleférico
+0033: @0033 #2_sel L3 - Professor Bonzinho
+0041: @0041 #2_sel L3 - Rufus e Par ou Ímpar!
+0001: @0001 #2_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
+0043: @0043 #2_sel L4 - Dorme Tarde Acordar Cedo!
+0042: @0042 #2_sel L4 - Rufus e Ordenação!
+0013: @0013 #3_rep L1 - Dividindo pares de sapatos pra três
+0044: @0044 #3_rep L1 - Somatório V2
+0045: @0045 #3_rep L1 - Zero é par - Somatório de Pares!
+0048: @0048 #3_rep L2 - Cabo de Guerra Jedi
+0050: @0050 #3_rep L2 - Castelos de Cubos
+0046: @0046 #3_rep L2 - Jogo da Concentração
+0049: @0049 #3_rep L2 - Sapinho no Poço
+0047: @0047 #3_rep L2 - Ônibus lotado
+0051: @0051 #3_rep L3 - Arremesso de pedra na lua
+0052: @0052 #3_rep L3 - Hoje tem sopa de coelho?
+0053: @0053 #3_rep L3 - OBI 2016 - Fuga em helicóptero
+0016: @0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
+0054: @0054 #3_rep L4 - Quebrador de Copos
+0010: @0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
+0008: @0008 #4_vet L4 - Força Bruta (Gerando próxima combinação)
+0009: @0009 #4_vet L4 - Segredo do cofre (OBI 2017 F1P1)
+0012: @0012 #5_mat L2 - Deu a louca no Imperador!
+0007: @0007 #5_mat L4 - Tetris (Fazendo a peça cair)

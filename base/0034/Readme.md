@@ -1,4 +1,4 @@
-## @QC0034 #2_sel L3 - Formiga da bundona
+## @0034 #2_sel L3 - Formiga da bundona
 ## @qxcode
 
 ### Formiga da Bundona

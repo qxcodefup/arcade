@@ -1,4 +1,4 @@
-## @QC0041 #2_sel L3 - Rufus e Par ou Ímpar!
+## @0041 #2_sel L3 - Rufus e Par ou Ímpar!
 ## @qxcode
 
 ![par ou impar](capa.jpg)

@@ -1,4 +1,4 @@
-## @QC0048 #3_rep L2 - Cabo de Guerra Jedi
+## @0048 #3_rep L2 - Cabo de Guerra Jedi
 ## @qxcode
 
 ![](capa.jpg)

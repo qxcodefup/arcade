@@ -1,4 +1,4 @@
-## @QC0035 #2_sel L3 - OBI 2017 - Fase 1 - Drone de Entrega
+## @0035 #2_sel L3 - OBI 2017 - Fase 1 - Drone de Entrega
 ## @qxcode
 
 ![drone de entrega](capa.jpg)

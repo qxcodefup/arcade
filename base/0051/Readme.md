@@ -1,4 +1,4 @@
-## @QC0051 #3_rep L3 - Arremesso de pedra na lua
+## @0051 #3_rep L3 - Arremesso de pedra na lua
 ## @qxcode
 
 ![](capa.jpeg)

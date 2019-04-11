@@ -1,4 +1,4 @@
-## @QC0042 #2_sel L4 - Rufus e Ordenação!
+## @0042 #2_sel L4 - Rufus e Ordenação!
 ## @qxcode
 
 ![](capa.png)

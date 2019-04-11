@@ -1,4 +1,4 @@
-## @QC0030 #2_sel L2 - Mercantil V1
+## @0030 #2_sel L2 - Mercantil V1
 ## @qxcode
 
 ## @qxcode

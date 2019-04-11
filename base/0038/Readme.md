@@ -1,4 +1,4 @@
-## @QC0038 #2_sel L3 - A hora do próximo segundo
+## @0038 #2_sel L3 - A hora do próximo segundo
 ## @qxcode
 
 ![ponteiros de um relógio](capa.jpg)

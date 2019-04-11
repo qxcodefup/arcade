@@ -1,4 +1,4 @@
-## @QC0050 #3_rep L2 - Castelos de Cubos
+## @0050 #3_rep L2 - Castelos de Cubos
 ## @qxcode
 
 ![Resultado de imagem para bloquinhos de montar](capa.jpg)
