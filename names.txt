@@ -35,6 +35,7 @@
 0001: @0001 #2_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
 0043: @0043 #2_sel L4 - Dorme Tarde Acordar Cedo!
 0042: @0042 #2_sel L4 - Rufus e Ordenação!
+0100: @0100 #2_vet L3 - Jogando pião na rodinha
 0013: @0013 #3_rep L1 - Dividindo pares de sapatos pra três
 0044: @0044 #3_rep L1 - Somatório V2
 0045: @0045 #3_rep L1 - Zero é par - Somatório de Pares!
