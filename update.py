@@ -5,8 +5,9 @@ import os, sys
 import argparse
 import unicodedata
 import string
+import configparser
 
-SOURCE_FOLDER = "base"
+SOURCE_FOLDER = ""
 
 class Text:
     @staticmethod
@@ -185,6 +186,12 @@ def main():
     parser = argparse.ArgumentParser(prog='th.py')
     parser.add_argument('-s', action='store_true', help='set titles using names.txt')
     args = parser.parse_args()
+
+    config = configparser.ConfigParser()
+    config.read('config.ini')
+
+    global SOURCE_FOLDER
+    SOURCE_FOLDER = config['DEFAULT']['SOURCE_FOLDER']
 
     itens = Itens()
     if args.s:
