@@ -36,6 +36,7 @@
 0043: @0043 #2_sel L4 - Dorme Tarde Acordar Cedo!
 0042: @0042 #2_sel L4 - Rufus e Ordenação!
 0013: @0013 #3_rep L1 - Dividindo pares de sapatos pra três
+0055: @QC0055 #3_rep L1 - Quantos Ultrons você vê - Contar Elemento
 0044: @0044 #3_rep L1 - Somatório V2
 0045: @0045 #3_rep L1 - Zero é par - Somatório de Pares!
 0048: @0048 #3_rep L2 - Cabo de Guerra Jedi
@@ -48,6 +49,7 @@
 0053: @0053 #3_rep L3 - OBI 2016 - Fuga em helicóptero
 0016: @0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
 0054: @0054 #3_rep L4 - Quebrador de Copos
+00xx: @QC00XX #3_rep LX - NOME DA QUSTAO
 0010: @0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
 0100: @0100 #4_vet L3 - Jogando pião na rodinha
 0008: @0008 #4_vet L4 - Força Bruta (Gerando próxima combinação)
