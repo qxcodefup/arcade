@@ -43,6 +43,7 @@
 0048: @0048 #3_rep L2 - Cabo de Guerra Jedi
 0050: @0050 #3_rep L2 - Castelos de Cubos
 0046: @0046 #3_rep L2 - Jogo da Concentração
+0057: @0057 #3_rep L2 - Revolta em Portugal
 0049: @0049 #3_rep L2 - Sapinho no Poço
 0047: @0047 #3_rep L2 - Ônibus lotado
 0051: @0051 #3_rep L3 - Arremesso de pedra na lua
