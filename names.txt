@@ -40,7 +40,7 @@
 0055: @0055 #3_rep L1 - Quantos Ultrons você vê - Contar Elemento
 0044: @0044 #3_rep L1 - Somatório V2
 0045: @0045 #3_rep L1 - Zero é par - Somatório de Pares!
-0058: @0058 #3_rep L2 - Busca Intervalada 
+0058: @0058 #3_rep L2 - Busca Intervalada
 0048: @0048 #3_rep L2 - Cabo de Guerra Jedi
 0050: @0050 #3_rep L2 - Castelos de Cubos
 0046: @0046 #3_rep L2 - Jogo da Concentração
@@ -53,6 +53,7 @@
 0059: @0059 #3_rep L3 - Sapinho morrendo no poço
 0016: @0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
 0054: @0054 #3_rep L4 - Quebrador de Copos
+0101: @0101 #4_vet L2 - Mostrar mão de cartas (Imprimir vetor formatado)
 0010: @0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
 0100: @0100 #4_vet L3 - Jogando pião na rodinha
 0008: @0008 #4_vet L4 - Força Bruta (Gerando próxima combinação)

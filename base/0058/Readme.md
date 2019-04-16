@@ -1,4 +1,4 @@
-## @0058 #3_rep L2 - Busca Intervalada 
+## @0058 #3_rep L2 - Busca Intervalada
 ## @qxcode
 
 ![Resultado de imagem para amarelinha](capa.jpeg)  

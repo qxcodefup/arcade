@@ -46,16 +46,14 @@ class Text:
 class ItemGenerator:
     @staticmethod
     def make_from_hook(hook):
-        try:
-            readme_path = SOURCE_FOLDER + os.sep + hook + os.sep + "Readme.md"
-            with open(readme_path, "r") as readme:
-                item = Item(hook, readme.readlines()[0][:-1])
-                if hook != item.hook:
-                    print("fail: indice incompatível: ", hook, item.title)
-                    exit(1)
-                return item
-        except FileNotFoundError:
-            print("folder", readme_path, "dont have a Readme.md")
+        readme_path = SOURCE_FOLDER + os.sep + hook + os.sep + "Readme.md"
+
+        with open(readme_path, "r") as readme:
+            item = Item(hook, readme.readlines()[0][:-1])
+            if hook != item.hook:
+                print("fail: indice incompatível: ", hook, item.title)
+                exit(1)
+            return item
 
     @staticmethod
     def make_from_line(line):
@@ -96,8 +94,12 @@ class Itens:
 
     def parse_from_dirs(self):
         hooks = os.listdir(SOURCE_FOLDER)
+        hooks = [x for x in hooks if os.path.isdir(SOURCE_FOLDER + os.sep + x)]
         for hook in hooks:
-            self.itens.append(ItemGenerator.make_from_hook(hook))
+            try:
+                self.itens.append(ItemGenerator.make_from_hook(hook))
+            except FileNotFoundError:
+                pass
 
     def parse_from_names_file(self):
         with open("names.txt", "r") as f:
@@ -150,9 +152,10 @@ class Itens:
     def update_qxcode_link(self):
         for item in self.itens:
             data = []
+            print(item)
             with open(item.readme_path, "r") as f:
                 data = f.readlines()
-            if data[1] != "## @qxcode\n":
+            if len(data) < 2 or data[1] != "## @qxcode\n":
                 data.insert(1, "## @qxcode\n")
                 with open(item.readme_path, "w") as f:
                     print("adicionando @qxcode no arquivo", item.hook)
