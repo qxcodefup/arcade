@@ -1,7 +1,7 @@
 ## @0060 #4_vet L1 - Joelison Fernandes - Soma do maior e menor!
 ## @qxcode
 
-![](https://i.ytimg.com/vi/EpjIkZ7lInI/hqdefault.jpg)
+![](capa.jpg)
 
 ### Motivação
 
@@ -15,33 +15,57 @@ Escreva um programa onde receba um vetor de tamanho 5 e que de como saída a som
 
 ### Entrada e Saída
 
-Entrada:
+## Entrada:
 
 *   Um vetor possuindo 5 elementos.
 
-Saída:
+## Saída:
 
 *   A soma do maior elemento com o menor.
 
-Exemplo:
+## Exemplo
 
-    >>
-    1 2 3 4 5
-    <<
-    6
+```
+>>>>>>>> 01
+1 2 3 4 5
+========
+6
+<<<<<<<<
+
+
+>>>>>>>> 02
+3 3 1 4 6
+========
+7
+<<<<<<<<
     
 
-* * *
+>>>>>>>> 03
+3 2 1 4 4
+========
+5
+<<<<<<<<
+```
 
-    >>
-    3 3 1 4 6
-    <<
-    7
-    
+<!---
+>>>>>>>> 04
+1 3 5 9 7
+========
+10
+<<<<<<<<
 
-* * *
 
-    >>
-    3 2 1 4 4
-    <<
-    5
+>>>>>>>> 05
+6 4 2 8 10
+========
+12
+<<<<<<<<
+
+
+>>>>>>>> 06
+30 10 11 25 8
+========
+38
+<<<<<<<<
+
+--->
