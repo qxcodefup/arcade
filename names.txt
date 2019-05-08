@@ -54,6 +54,7 @@
 0016: @0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
 0054: @0054 #3_rep L4 - Quebrador de Copos
 0060: @0060 #4_vet L1 - Joelison Fernandes - Soma do maior e menor!
+0061: @0061 #4_vet L2 - Capoeira invertendo vetor!
 0101: @0101 #4_vet L2 - Mostrar mão de cartas (Imprimir vetor formatado)
 0010: @0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
 0100: @0100 #4_vet L3 - Jogando pião na rodinha
@@ -61,4 +62,3 @@
 0009: @0009 #4_vet L4 - Segredo do cofre (OBI 2017 F1P1)
 0012: @0012 #5_mat L2 - Deu a louca no Imperador!
 0007: @0007 #5_mat L4 - Tetris (Fazendo a peça cair)
-0061: 0061 #4_vet L2 - Capoeira invertendo vetor!
