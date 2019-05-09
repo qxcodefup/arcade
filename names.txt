@@ -6,6 +6,7 @@
 0004: @0004 #1_ope L3 - Mete bala (Distância entre dois pontos)
 0006: @0006 #1_ope L4 - Zerinho ou um americano (Calcule o vencedor)
 0025: @0025 #2_sel L1 - Ambos Divisíveis
+0062: @0062 #2_sel L1 - Angulo Cartesiano - Operador Modular
 0015: @0015 #2_sel L1 - Calculadora
 0024: @0024 #2_sel L1 - Divisão Inteira e Quebrada
 0026: @0026 #2_sel L1 - Positivo, Nulo ou Negativo?

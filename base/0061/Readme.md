@@ -1,9 +1,6 @@
 ## @0061 #4_vet L2 - Capoeira invertendo vetor!
 ## @qxcode
 
--Todo
-    - Consertar código python
-
 ![](capa.jpg)
 
 ### Motivação
