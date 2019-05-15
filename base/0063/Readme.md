@@ -3,6 +3,8 @@
 
 ![](capa.jpg)
 
+### Motivação
+
 Faça um programa que conte o valor de uma mão de blackjack.  
 Ela recebe um vetor de cartas e calcula usando as seguntes regras. K, Q e J valem 10 pontos. ÁS vale 11 pontos. As outras cartas valem seu próprio valor.  
 Se a soma de pontos for maior que 21, o Ás passa a valer 1 ponto, diminuindo a soma total, tentando fazer o valor baixar para menos de 21.  

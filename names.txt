@@ -50,6 +50,7 @@
 0047: @0047 #3_rep L2 - Ônibus lotado
 0051: @0051 #3_rep L3 - Arremesso de pedra na lua
 0063: @0063 #3_rep L3 - Blackjack 21!
+0064: @0064 #3_rep L3 - Conta Dígitos
 0052: @0052 #3_rep L3 - Hoje tem sopa de coelho?
 0053: @0053 #3_rep L3 - OBI 2016 - Fuga em helicóptero
 0059: @0059 #3_rep L3 - Sapinho morrendo no poço
