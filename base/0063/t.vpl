@@ -1,0 +1,34 @@
+case = 1
+input =2 1 13
+output ="21"
+grade reduction = 100%
+
+case = 2
+input =1 1
+output ="11"
+grade reduction = 100%
+
+case = 3
+input =3 1 1 1
+output ="13"
+grade reduction = 100%
+
+case = 3
+input =4 1 1 1 2
+output ="15"
+grade reduction = 100%
+
+case = 4
+input =5 1 1 2 3 12
+output ="17"
+grade reduction = 100%
+
+case = 5
+input =5 1 1 2 10 12
+output ="24"
+grade reduction = 100%
+
+case = 6
+input =3 11 12 13
+output ="30"
+grade reduction = 100%
