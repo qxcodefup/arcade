@@ -72,6 +72,7 @@
 - [L3 - Sapinho morrendo no poço](base/0059/Readme.md#qxcode)
 - [L3 - Volta de 360 graus (Retirando os loops)](base/0016/Readme.md#qxcode)
 - [L4 - Quebrador de Copos](base/0054/Readme.md#qxcode)
+- [L4 - Sapinho matemático não morrendo no poço](base/0065/Readme.md#qxcode)
 
 ## 4_vet
 
