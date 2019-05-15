@@ -80,6 +80,7 @@
 - [L1 - Joelison Fernandes - Soma do maior e menor!](base/0060/Readme.md#qxcode)
 - [L2 - Capoeira invertendo vetor!](base/0061/Readme.md#qxcode)
 - [L2 - Mostrar mão de cartas (Imprimir vetor formatado)](base/0101/Readme.md#qxcode)
+- [L2 - Queda de dominós](base/0067/Readme.md#qxcode)
 - [L3 - Bolinhas viciadas(contagem de repetições)](base/0010/Readme.md#qxcode)
 - [L3 - Jogando pião na rodinha](base/0100/Readme.md#qxcode)
 - [L4 - Força Bruta (Gerando próxima combinação)](base/0008/Readme.md#qxcode)
