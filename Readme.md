@@ -65,6 +65,7 @@
 - [L2 - Sapinho no Poço](base/0049/Readme.md#qxcode)
 - [L2 - Ônibus lotado](base/0047/Readme.md#qxcode)
 - [L3 - Arremesso de pedra na lua](base/0051/Readme.md#qxcode)
+- [L3 - Blackjack 21!](base/0063/Readme.md#qxcode)
 - [L3 - Hoje tem sopa de coelho?](base/0052/Readme.md#qxcode)
 - [L3 - OBI 2016 - Fuga em helicóptero](base/0053/Readme.md#qxcode)
 - [L3 - Sapinho morrendo no poço](base/0059/Readme.md#qxcode)

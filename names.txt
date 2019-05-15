@@ -49,6 +49,7 @@
 0049: @0049 #3_rep L2 - Sapinho no Poço
 0047: @0047 #3_rep L2 - Ônibus lotado
 0051: @0051 #3_rep L3 - Arremesso de pedra na lua
+0063: @0063 #3_rep L3 - Blackjack 21!
 0052: @0052 #3_rep L3 - Hoje tem sopa de coelho?
 0053: @0053 #3_rep L3 - OBI 2016 - Fuga em helicóptero
 0059: @0059 #3_rep L3 - Sapinho morrendo no poço
@@ -63,4 +64,3 @@
 0009: @0009 #4_vet L4 - Segredo do cofre (OBI 2017 F1P1)
 0012: @0012 #5_mat L2 - Deu a louca no Imperador!
 0007: @0007 #5_mat L4 - Tetris (Fazendo a peça cair)
-0063: Motivação
