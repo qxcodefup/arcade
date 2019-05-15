@@ -57,6 +57,7 @@
 0016: @0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
 0054: @0054 #3_rep L4 - Quebrador de Copos
 0065: @0065 #3_rep L4 - Sapinho matemático não morrendo no poço
+0066: @0066 #4_rep L4 - Spok Palíndromo
 0060: @0060 #4_vet L1 - Joelison Fernandes - Soma do maior e menor!
 0061: @0061 #4_vet L2 - Capoeira invertendo vetor!
 0101: @0101 #4_vet L2 - Mostrar mão de cartas (Imprimir vetor formatado)

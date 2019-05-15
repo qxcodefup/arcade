@@ -74,6 +74,10 @@
 - [L4 - Quebrador de Copos](base/0054/Readme.md#qxcode)
 - [L4 - Sapinho matemático não morrendo no poço](base/0065/Readme.md#qxcode)
 
+## 4_rep
+
+- [L4 - Spok Palíndromo](base/0066/Readme.md#qxcode)
+
 ## 4_vet
 
 - [L1 - Joelison Fernandes - Soma do maior e menor!](base/0060/Readme.md#qxcode)
