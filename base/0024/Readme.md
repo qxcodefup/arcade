@@ -1,8 +1,6 @@
 ## @0024 #2_sel L1 - Divisão Inteira e Quebrada
 ## @qxcode
 
-## @qxcode
-
 ### Divisão Inteira e Quebrada
 
 #### ![Uma imagems mostrando onde fica o divisor, o quociente e o resto da divisão inteira.](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0024/capa.jpg)
@@ -108,13 +106,19 @@ Lembre de fazer os **casts** ou arredondamentos para conseguir divisão inteira 
 
 Para imprimir em **c ou c++** com duas casas decimais use:
 
+```
 //c ou c++
 #include <stdio.h>
-float num = 4.3243255;
-printf("%.2f", num);//4.32
-
+float a = 4.3243255;
+float b = 3.4334344;
+printf("a=%.2f e b=%.3f", a, b); //a=4.32 e b=3.433
+```
 
 
 Para **python**, você tem várias possibilidades.
 
-  >>> a=13.946>>>print(a)13.946>>>print("%.2f"% a)13.95
+```
+a = 4.3243255
+b = 3.4334344
+print("a=%.2f e b=%.3f" %(a, b)) //a=4.32 e b=3.433
+```
