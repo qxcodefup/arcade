@@ -61,9 +61,13 @@
 0060: @0060 #4_vet L1 - Joelison Fernandes - Soma do maior e menor!
 0061: @0061 #4_vet L2 - Capoeira invertendo vetor!
 0101: @0101 #4_vet L2 - Mostrar mão de cartas (Imprimir vetor formatado)
+0068: @0068 #4_vet L2 - Organizando a fila do RU - Separar Pares e Ímpares!
 0067: @0067 #4_vet L2 - Queda de dominós
 0010: @0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
+0070: @0070 #4_vet L3 - Cabeças vão rolar
 0100: @0100 #4_vet L3 - Jogando pião na rodinha
+0071: @0071 #4_vet L3 - Mário e o Assassins Creed - Parkour
+0069: @0069 #4_vet L3 - Zoo quantas especies!
 0008: @0008 #4_vet L4 - Força Bruta (Gerando próxima combinação)
 0009: @0009 #4_vet L4 - Segredo do cofre (OBI 2017 F1P1)
 0012: @0012 #5_mat L2 - Deu a louca no Imperador!

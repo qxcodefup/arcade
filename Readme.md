@@ -80,9 +80,13 @@
 - [L1 - Joelison Fernandes - Soma do maior e menor!](base/0060/Readme.md#qxcode)
 - [L2 - Capoeira invertendo vetor!](base/0061/Readme.md#qxcode)
 - [L2 - Mostrar mão de cartas (Imprimir vetor formatado)](base/0101/Readme.md#qxcode)
+- [L2 - Organizando a fila do RU - Separar Pares e Ímpares!](base/0068/Readme.md#qxcode)
 - [L2 - Queda de dominós](base/0067/Readme.md#qxcode)
 - [L3 - Bolinhas viciadas(contagem de repetições)](base/0010/Readme.md#qxcode)
+- [L3 - Cabeças vão rolar](base/0070/Readme.md#qxcode)
 - [L3 - Jogando pião na rodinha](base/0100/Readme.md#qxcode)
+- [L3 - Mário e o Assassins Creed - Parkour](base/0071/Readme.md#qxcode)
+- [L3 - Zoo quantas especies!](base/0069/Readme.md#qxcode)
 - [L4 - Força Bruta (Gerando próxima combinação)](base/0008/Readme.md#qxcode)
 - [L4 - Segredo do cofre (OBI 2017 F1P1)](base/0009/Readme.md#qxcode)
 
