@@ -64,6 +64,7 @@
 0068: @0068 #4_vet L2 - Organizando a fila do RU - Separar Pares e Ímpares!
 0067: @0067 #4_vet L2 - Queda de dominós
 0072: @0072 #4_vet L2 - Soldados Pequenos e Grandes!
+0073: @0073 #4_vet L3 - Batida Policial - Ordenando vetores
 0010: @0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
 0070: @0070 #4_vet L3 - Cabeças vão rolar
 0100: @0100 #4_vet L3 - Jogando pião na rodinha
