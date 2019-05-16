@@ -69,6 +69,7 @@
 0010: @0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
 0070: @0070 #4_vet L3 - Cabeças vão rolar
 0100: @0100 #4_vet L3 - Jogando pião na rodinha
+0078: @0078 #4_vet L3 - Jogo do Avesso
 0077: @0077 #4_vet L3 - Mercantil V3
 0071: @0071 #4_vet L3 - Mário e o Assassins Creed - Parkour
 0074: @0074 #4_vet L3 - OBI 2017 - Fase 1 - Botas Trocadas

@@ -88,6 +88,7 @@
 - [L3 - Bolinhas viciadas(contagem de repetições)](base/0010/Readme.md#qxcode)
 - [L3 - Cabeças vão rolar](base/0070/Readme.md#qxcode)
 - [L3 - Jogando pião na rodinha](base/0100/Readme.md#qxcode)
+- [L3 - Jogo do Avesso](base/0078/Readme.md#qxcode)
 - [L3 - Mercantil V3](base/0077/Readme.md#qxcode)
 - [L3 - Mário e o Assassins Creed - Parkour](base/0071/Readme.md#qxcode)
 - [L3 - OBI 2017 - Fase 1 - Botas Trocadas](base/0074/Readme.md#qxcode)
