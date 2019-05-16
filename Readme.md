@@ -82,6 +82,7 @@
 - [L2 - Mostrar mão de cartas (Imprimir vetor formatado)](base/0101/Readme.md#qxcode)
 - [L2 - Organizando a fila do RU - Separar Pares e Ímpares!](base/0068/Readme.md#qxcode)
 - [L2 - Queda de dominós](base/0067/Readme.md#qxcode)
+- [L2 - Soldados Pequenos e Grandes!](base/0072/Readme.md#qxcode)
 - [L3 - Bolinhas viciadas(contagem de repetições)](base/0010/Readme.md#qxcode)
 - [L3 - Cabeças vão rolar](base/0070/Readme.md#qxcode)
 - [L3 - Jogando pião na rodinha](base/0100/Readme.md#qxcode)
