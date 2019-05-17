@@ -65,6 +65,8 @@
 0067: @0067 #4_vet L2 - Queda de dominós
 0072: @0072 #4_vet L2 - Soldados Pequenos e Grandes!
 0075: @0075 #4_vet L3 - Abastecimento de água
+0083: @0083 #4_vet L3 - Anfíbios e Batráquios - Está contido
+0082: @0082 #4_vet L3 - As unhas de Luiza - Vetor para inteiro
 0080: @0079 #4_vet L3 - Baruel Ruel trocando figurinhas!
 0073: @0073 #4_vet L3 - Batida Policial - Ordenando vetores
 0010: @0010 #4_vet L3 - Bolinhas viciadas(contagem de repetições)
@@ -77,9 +79,9 @@
 0071: @0071 #4_vet L3 - Mário e o Assassins Creed - Parkour
 0074: @0074 #4_vet L3 - OBI 2017 - Fase 1 - Botas Trocadas
 0069: @0069 #4_vet L3 - Zoo quantas especies!
+0084: @0084 #4_vet L3 - Zoologico Um animal de cada tipo!
 0008: @0008 #4_vet L4 - Força Bruta (Gerando próxima combinação)
 0076: @0076 #4_vet L4 - OBI 2017 - Fase 1 - O segredo do Cofre
 0009: @0009 #4_vet L4 - Segredo do cofre (OBI 2017 F1P1)
 0012: @0012 #5_mat L2 - Deu a louca no Imperador!
 0007: @0007 #5_mat L4 - Tetris (Fazendo a peça cair)
-0082: @0082 @4_vet L3 - As unhas de Luiza - Vetor para inteiro
