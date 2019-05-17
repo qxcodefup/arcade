@@ -22,19 +22,17 @@ void show(int size_vet, int vet[size_vet]){
 
 int main(){
     int qtd = 0, size_vet = 0, grito = 0;
-    scanf("%d %d", &qtd, &size_vet);
+    scanf("%d ", &qtd);
 
-    int vet[size_vet];
-
-    for(int a = 0; a < size_vet; a++)
-        scanf("%d", &vet[a]);
+    int vet[100];
 
     for(int i = 0; i < qtd; i++){
-        scanf("%d", &grito);
+        scanf("%d %d", &size_vet, &grito);
+        for(int a = 0; a < size_vet; a++)
+            scanf("%d", &vet[a]);
         modifica_vetor(qtd, size_vet, grito, vet);
+        show(size_vet, vet);
     }
-
-    show(size_vet, vet);
 
     return 0;
 }

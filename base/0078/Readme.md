@@ -28,65 +28,73 @@ assim:
 O 8 volta ao normal e o 1 se agacha.
 
 Considere que nunca existem duas pessoas com o mesmo número no vetor.  
-Se o chefe disser um número errado, ninguém deve se mexer.Se o chefe disser um número que estiver agachado, ele permanece agachado.
+Se o chefe disser um número errado, ninguém deve se mexer.
 
 ### Entrada e Saída
 
 Entrada:
 
-*   A quantidade de casos de teste, o tamanho do vetor de operários (N < 100) e o vetor de operários, um valor inteiro para cada elemento (0 < 100).
+*   a quantidade de casos de teste.
 
-*   Para cada caso teste:  
-    \* O grito do chefe (0 < X < 100).
+*   Para cada caso teste,  
+    \*O tamanho do vetor de operários (N < 100) e o grito do chefe (0 < X < 100).  
+    \*O vetor de operários, um valor inteiro para cada elemento  (0 < 100).
 
 Saída:
 
-*   Vetor resultante.
+*   Vetor resultante.  
 
 ### Exemplo
-
 ```
 >>>>>>>>
-1 2
+1
+2 3
 3 1
-3
 ========
 [3 -1]
 <<<<<<<<
 
 >>>>>>>>
-1 2
+1
+2 3
 2 1
-3
 ========
 [2 1]
 <<<<<<<<
 
 >>>>>>>>
-1 2
-4 1
 1
+2 1
+4 1
 ========
 [-4 1]
 <<<<<<<<
 
 >>>>>>>>
-3 3
+3
+3 1
 4 1 5
-1
-4
-5
+3 5
+4 1 5
+3 4
+4 1 5
 ========
 [-4 1 -5]
+[4 -1 5]
+[4 -1 5]
 <<<<<<<<
 
 >>>>>>>>
-3 7
+3
+7 0
 3 4 8 9 1 5 6
-0
-4
-9
+7 4
+3 4 8 9 1 5 6
+7 9
+3 4 -8 9 1 5 6
 ========
-[-3 4 8 9 -1 5 6]
+[3 4 8 9 1 5 6]
+[-3 4 -8 9 1 5 6]
+[3 4 8 9 -1 5 6]
 <<<<<<<<
 ```
