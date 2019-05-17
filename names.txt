@@ -82,3 +82,4 @@
 0009: @0009 #4_vet L4 - Segredo do cofre (OBI 2017 F1P1)
 0012: @0012 #5_mat L2 - Deu a louca no Imperador!
 0007: @0007 #5_mat L4 - Tetris (Fazendo a peça cair)
+0119: @0101 #6_str L4 - Matéria e Antimatéia - Colisão entre palavras!

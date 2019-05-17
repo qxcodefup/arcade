@@ -6,15 +6,30 @@
 # TAGS
 
 
-## 1_ope
+## 4_vet
 
-- [L1 - Operações básicas (Imprimindo float formatado)](base/0000/Readme.md#qxcode)
-- [L2 - Formatando data (Zeros à esquerda)](base/0011/Readme.md#qxcode)
-- [L2 - Opala bebedor (Cálculo de desempenho)](base/0003/Readme.md#qxcode)
-- [L2 - Pintando a casa (Calculando a área do triângulo)](base/0002/Readme.md#qxcode)
-- [L3 - Ladrão de Goiabas (Contando viagens)](base/0005/Readme.md#qxcode)
-- [L3 - Mete bala (Distância entre dois pontos)](base/0004/Readme.md#qxcode)
-- [L4 - Zerinho ou um americano (Calcule o vencedor)](base/0006/Readme.md#qxcode)
+- [L1 - Joelison Fernandes - Soma do maior e menor!](base/0060/Readme.md#qxcode)
+- [L2 - Capoeira invertendo vetor!](base/0061/Readme.md#qxcode)
+- [L2 - Mostrar mão de cartas (Imprimir vetor formatado)](base/0101/Readme.md#qxcode)
+- [L2 - Organizando a fila do RU - Separar Pares e Ímpares!](base/0068/Readme.md#qxcode)
+- [L2 - Queda de dominós](base/0067/Readme.md#qxcode)
+- [L2 - Soldados Pequenos e Grandes!](base/0072/Readme.md#qxcode)
+- [L3 - Abastecimento de água](base/0075/Readme.md#qxcode)
+- [L3 - Baruel Ruel trocando figurinhas!](base/0080/Readme.md#qxcode)
+- [L3 - Batida Policial - Ordenando vetores](base/0073/Readme.md#qxcode)
+- [L3 - Bolinhas viciadas(contagem de repetições)](base/0010/Readme.md#qxcode)
+- [L3 - Cabeças vão rolar](base/0070/Readme.md#qxcode)
+- [L3 - Jogando pião na rodinha](base/0100/Readme.md#qxcode)
+- [L3 - Jogo do Avesso](base/0078/Readme.md#qxcode)
+- [L3 - Jogo do Avesso V2](base/0079/Readme.md#qxcode)
+- [L3 - Loucura de Marquinhos - Decompor um inteiro](base/0081/Readme.md#qxcode)
+- [L3 - Mercantil V3](base/0077/Readme.md#qxcode)
+- [L3 - Mário e o Assassins Creed - Parkour](base/0071/Readme.md#qxcode)
+- [L3 - OBI 2017 - Fase 1 - Botas Trocadas](base/0074/Readme.md#qxcode)
+- [L3 - Zoo quantas especies!](base/0069/Readme.md#qxcode)
+- [L4 - Força Bruta (Gerando próxima combinação)](base/0008/Readme.md#qxcode)
+- [L4 - OBI 2017 - Fase 1 - O segredo do Cofre](base/0076/Readme.md#qxcode)
+- [L4 - Segredo do cofre (OBI 2017 F1P1)](base/0009/Readme.md#qxcode)
 
 ## 2_sel
 
@@ -75,32 +90,21 @@
 - [L4 - Sapinho matemático não morrendo no poço](base/0065/Readme.md#qxcode)
 - [L4 - Spok Palíndromo](base/0066/Readme.md#qxcode)
 
-## 4_vet
+## 1_ope
 
-- [L1 - Joelison Fernandes - Soma do maior e menor!](base/0060/Readme.md#qxcode)
-- [L2 - Capoeira invertendo vetor!](base/0061/Readme.md#qxcode)
-- [L2 - Mostrar mão de cartas (Imprimir vetor formatado)](base/0101/Readme.md#qxcode)
-- [L2 - Organizando a fila do RU - Separar Pares e Ímpares!](base/0068/Readme.md#qxcode)
-- [L2 - Queda de dominós](base/0067/Readme.md#qxcode)
-- [L2 - Soldados Pequenos e Grandes!](base/0072/Readme.md#qxcode)
-- [L3 - Abastecimento de água](base/0075/Readme.md#qxcode)
-- [L3 - Baruel Ruel trocando figurinhas!](base/0080/Readme.md#qxcode)
-- [L3 - Batida Policial - Ordenando vetores](base/0073/Readme.md#qxcode)
-- [L3 - Bolinhas viciadas(contagem de repetições)](base/0010/Readme.md#qxcode)
-- [L3 - Cabeças vão rolar](base/0070/Readme.md#qxcode)
-- [L3 - Jogando pião na rodinha](base/0100/Readme.md#qxcode)
-- [L3 - Jogo do Avesso](base/0078/Readme.md#qxcode)
-- [L3 - Jogo do Avesso V2](base/0079/Readme.md#qxcode)
-- [L3 - Loucura de Marquinhos - Decompor um inteiro](base/0081/Readme.md#qxcode)
-- [L3 - Mercantil V3](base/0077/Readme.md#qxcode)
-- [L3 - Mário e o Assassins Creed - Parkour](base/0071/Readme.md#qxcode)
-- [L3 - OBI 2017 - Fase 1 - Botas Trocadas](base/0074/Readme.md#qxcode)
-- [L3 - Zoo quantas especies!](base/0069/Readme.md#qxcode)
-- [L4 - Força Bruta (Gerando próxima combinação)](base/0008/Readme.md#qxcode)
-- [L4 - OBI 2017 - Fase 1 - O segredo do Cofre](base/0076/Readme.md#qxcode)
-- [L4 - Segredo do cofre (OBI 2017 F1P1)](base/0009/Readme.md#qxcode)
+- [L1 - Operações básicas (Imprimindo float formatado)](base/0000/Readme.md#qxcode)
+- [L2 - Formatando data (Zeros à esquerda)](base/0011/Readme.md#qxcode)
+- [L2 - Opala bebedor (Cálculo de desempenho)](base/0003/Readme.md#qxcode)
+- [L2 - Pintando a casa (Calculando a área do triângulo)](base/0002/Readme.md#qxcode)
+- [L3 - Ladrão de Goiabas (Contando viagens)](base/0005/Readme.md#qxcode)
+- [L3 - Mete bala (Distância entre dois pontos)](base/0004/Readme.md#qxcode)
+- [L4 - Zerinho ou um americano (Calcule o vencedor)](base/0006/Readme.md#qxcode)
 
 ## 5_mat
 
 - [L2 - Deu a louca no Imperador!](base/0012/Readme.md#qxcode)
 - [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
+
+## 6_str
+
+- [L4 - Matéria e Antimatéia - Colisão entre palavras!](base/0119/Readme.md#qxcode)
