@@ -1,4 +1,4 @@
-lista = raw_input().split(" ")
+lista = input().split(" ")
 
 ordenado = True
 for x in range(len(lista) - 1):
