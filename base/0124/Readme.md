@@ -1,4 +1,5 @@
 ## @0073 #6_str L4 - Conversa de Traficantes - Substituições de substrings
+## @qxcode
 ## @qxcode  
 
 ### Motivação

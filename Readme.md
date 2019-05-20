@@ -16,31 +16,6 @@
 - [L3 - Mete bala (Distância entre dois pontos)](base/0004/Readme.md#qxcode)
 - [L4 - Zerinho ou um americano (Calcule o vencedor)](base/0006/Readme.md#qxcode)
 
-## 3_rep
-
-- [L1 - Calça Zeze de Camargo - Mínimo](base/0056/Readme.md#qxcode)
-- [L1 - Dividindo pares de sapatos pra três](base/0013/Readme.md#qxcode)
-- [L1 - Quantos Ultrons você vê - Contar Elemento](base/0055/Readme.md#qxcode)
-- [L1 - Somatório V2](base/0044/Readme.md#qxcode)
-- [L1 - Zero é par - Somatório de Pares!](base/0045/Readme.md#qxcode)
-- [L2 - Busca Intervalada](base/0058/Readme.md#qxcode)
-- [L2 - Cabo de Guerra Jedi](base/0048/Readme.md#qxcode)
-- [L2 - Castelos de Cubos](base/0050/Readme.md#qxcode)
-- [L2 - Jogo da Concentração](base/0046/Readme.md#qxcode)
-- [L2 - Revolta em Portugal](base/0057/Readme.md#qxcode)
-- [L2 - Sapinho no Poço](base/0049/Readme.md#qxcode)
-- [L2 - Ônibus lotado](base/0047/Readme.md#qxcode)
-- [L3 - Arremesso de pedra na lua](base/0051/Readme.md#qxcode)
-- [L3 - Blackjack 21!](base/0063/Readme.md#qxcode)
-- [L3 - Conta Dígitos](base/0064/Readme.md#qxcode)
-- [L3 - Hoje tem sopa de coelho?](base/0052/Readme.md#qxcode)
-- [L3 - OBI 2016 - Fuga em helicóptero](base/0053/Readme.md#qxcode)
-- [L3 - Sapinho morrendo no poço](base/0059/Readme.md#qxcode)
-- [L3 - Volta de 360 graus (Retirando os loops)](base/0016/Readme.md#qxcode)
-- [L4 - Quebrador de Copos](base/0054/Readme.md#qxcode)
-- [L4 - Sapinho matemático não morrendo no poço](base/0065/Readme.md#qxcode)
-- [L4 - Spok Palíndromo](base/0066/Readme.md#qxcode)
-
 ## 2_sel
 
 - [L1 - Ambos Divisíveis](base/0025/Readme.md#qxcode)
@@ -75,14 +50,30 @@
 - [L4 - Dorme Tarde Acordar Cedo!](base/0043/Readme.md#qxcode)
 - [L4 - Rufus e Ordenação!](base/0042/Readme.md#qxcode)
 
-## 5_mat
+## 3_rep
 
-- [L2 - Deu a louca no Imperador!](base/0012/Readme.md#qxcode)
-- [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
-
-## 6_str
-
-- [L4 - Matéria e Antimatéia - Colisão entre palavras!](base/0119/Readme.md#qxcode)
+- [L1 - Calça Zeze de Camargo - Mínimo](base/0056/Readme.md#qxcode)
+- [L1 - Dividindo pares de sapatos pra três](base/0013/Readme.md#qxcode)
+- [L1 - Quantos Ultrons você vê - Contar Elemento](base/0055/Readme.md#qxcode)
+- [L1 - Somatório V2](base/0044/Readme.md#qxcode)
+- [L1 - Zero é par - Somatório de Pares!](base/0045/Readme.md#qxcode)
+- [L2 - Busca Intervalada](base/0058/Readme.md#qxcode)
+- [L2 - Cabo de Guerra Jedi](base/0048/Readme.md#qxcode)
+- [L2 - Castelos de Cubos](base/0050/Readme.md#qxcode)
+- [L2 - Jogo da Concentração](base/0046/Readme.md#qxcode)
+- [L2 - Revolta em Portugal](base/0057/Readme.md#qxcode)
+- [L2 - Sapinho no Poço](base/0049/Readme.md#qxcode)
+- [L2 - Ônibus lotado](base/0047/Readme.md#qxcode)
+- [L3 - Arremesso de pedra na lua](base/0051/Readme.md#qxcode)
+- [L3 - Blackjack 21!](base/0063/Readme.md#qxcode)
+- [L3 - Conta Dígitos](base/0064/Readme.md#qxcode)
+- [L3 - Hoje tem sopa de coelho?](base/0052/Readme.md#qxcode)
+- [L3 - OBI 2016 - Fuga em helicóptero](base/0053/Readme.md#qxcode)
+- [L3 - Sapinho morrendo no poço](base/0059/Readme.md#qxcode)
+- [L3 - Volta de 360 graus (Retirando os loops)](base/0016/Readme.md#qxcode)
+- [L4 - Quebrador de Copos](base/0054/Readme.md#qxcode)
+- [L4 - Sapinho matemático não morrendo no poço](base/0065/Readme.md#qxcode)
+- [L4 - Spok Palíndromo](base/0066/Readme.md#qxcode)
 
 ## 4_vet
 
@@ -111,3 +102,24 @@
 - [L4 - Força Bruta (Gerando próxima combinação)](base/0008/Readme.md#qxcode)
 - [L4 - OBI 2017 - Fase 1 - O segredo do Cofre](base/0076/Readme.md#qxcode)
 - [L4 - Segredo do cofre (OBI 2017 F1P1)](base/0009/Readme.md#qxcode)
+
+## 5_mat
+
+- [L2 - Deu a louca no Imperador!](base/0012/Readme.md#qxcode)
+- [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
+
+## 6_str
+
+- [L2 - Crushômetro](base/0126/Readme.md#qxcode)
+- [L2 - Numerão Divisível por 11](base/0125/Readme.md#qxcode)
+- [L3 - Amo a Amora meu Amor - Contar Substrings!](base/0127/Readme.md#qxcode)
+- [L4 - Conversa de Traficantes - Substituições de substrings](base/0124/Readme.md#qxcode)
+- [L4 - Gansos Gamados - Verificar ordenação da frase!](base/0120/Readme.md#qxcode)
+- [L4 - Matéria e Antimatéia - Colisão entre palavras!](base/0119/Readme.md#qxcode)
+- [L4 - Mário e o Assassins Creed - Cenário](base/0121/Readme.md#qxcode)
+- [L4 - Nao se bububula - Gagueira V2!](base/0122/Readme.md#qxcode)
+- [L4 - Sorvete suor casaca chicletes - Letras em Comum!](base/0123/Readme.md#qxcode)
+
+## 7_char
+
+- [L3 - Identificando elementos](base/0108/Readme.md#qxcode)

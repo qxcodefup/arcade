@@ -85,4 +85,13 @@
 0009: @0009 #4_vet L4 - Segredo do cofre (OBI 2017 F1P1)
 0012: @0012 #5_mat L2 - Deu a louca no Imperador!
 0007: @0007 #5_mat L4 - Tetris (Fazendo a peça cair)
+0126: @0073 #6_str L2 - Crushômetro
+0125: @0073 #6_str L2 - Numerão Divisível por 11
+0127: @0073 #6_str L3 - Amo a Amora meu Amor - Contar Substrings!
+0124: @0073 #6_str L4 - Conversa de Traficantes - Substituições de substrings
+0120: @0101 #6_str L4 - Gansos Gamados - Verificar ordenação da frase!
 0119: @0101 #6_str L4 - Matéria e Antimatéia - Colisão entre palavras!
+0121: @0073 #6_str L4 - Mário e o Assassins Creed - Cenário
+0122: @0073 #6_str L4 - Nao se bububula - Gagueira V2!
+0123: @0073 #6_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
+0108: @0108 #7_char L3 - Identificando elementos
