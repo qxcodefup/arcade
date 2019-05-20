@@ -21,7 +21,7 @@ Se existir pelo menos um alfabético então é string.
 
 ## Saída:
 
-*   o tipo de cada palavra( str, float ou int) separado por esopaço.  
+*   o tipo de cada palavra( str, float ou int) separado por espaço.  
     
 
 ## Exemplos  
