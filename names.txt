@@ -85,6 +85,7 @@
 0008: @0008 #4_vet L4 - Força Bruta (Gerando próxima combinação)
 0089: @0089 #4_vet L4 - Mega Jokenpo!
 0076: @0076 #4_vet L4 - OBI 2017 - Fase 1 - O segredo do Cofre
+0088: @0088 #4_vet L4 - Se fosse a mediana eu tinha passado!
 0009: @0009 #4_vet L4 - Segredo do cofre (OBI 2017 F1P1)
 0087: @0087 #4_vet L4 - Zoologico Entrando na Arca de NoéAjuda com Arquivos de execução
 0091: @0091 #4_vet MMC
@@ -101,4 +102,3 @@
 0122: @0073 #6_str L4 - Nao se bububula - Gagueira V2!
 0123: @0073 #6_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
 0108: @0108 #7_char L3 - Identificando elementos
-0088: S## @0088 #4_vet L4 - Se fosse a mediana eu tinha passado!

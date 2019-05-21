@@ -104,11 +104,11 @@
 - [L4 - Força Bruta (Gerando próxima combinação)](base/0008/Readme.md#qxcode)
 - [L4 - Mega Jokenpo!](base/0089/Readme.md#qxcode)
 - [L4 - OBI 2017 - Fase 1 - O segredo do Cofre](base/0076/Readme.md#qxcode)
+- [L4 - Se fosse a mediana eu tinha passado!](base/0088/Readme.md#qxcode)
 - [L4 - Segredo do cofre (OBI 2017 F1P1)](base/0009/Readme.md#qxcode)
 - [L4 - Zoologico Entrando na Arca de NoéAjuda com Arquivos de execução](base/0087/Readme.md#qxcode)
 - [MMC](base/0091/Readme.md#qxcode)
 - [Primo](base/0090/Readme.md#qxcode)
-- [S## L4 - Se fosse a mediana eu tinha passado!](base/0088/Readme.md#qxcode)
 
 ## 5_mat
 
