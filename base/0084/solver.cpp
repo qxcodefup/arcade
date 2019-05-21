@@ -32,8 +32,7 @@ vector<int> carregar_vetor(int num){
     return vet;
 }
 
-int main ()
-{
+int main (){
     int qtd;
     cin >> qtd;
     vector<int> vet = carregar_vetor(qtd);

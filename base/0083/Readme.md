@@ -5,7 +5,7 @@
 
 ### Motivação
 
-Todo batráquio é anfíbio, mas nem todo anfíbio é batráquio. Todo sapo, rã e perereca são tanto anfíbios  
+Todo batráquio é anfíbio, mas nem todo anfíbio é batráquio. Todo sapo, rã e perereca são tanto anfíbios
 como batráquios.
 
 Assim, o conjunto dos sapos está contido no de batráquios que está contido no de anfíbio.
@@ -29,9 +29,9 @@ Dados dois vetores, verifique se o primeiro está contido no segundo.
 
 "sim" se o primeiro está condido no segundo e não caso contrário.
 
-Descubra se o vetor v1 está contido em v2 e retorne true se isso ocorrer.  
+Descubra se o vetor v1 está contido em v2 e retorne true se isso ocorrer.
   
-Dica: se todos os elementos de v1 existirem em v2, v1 só pode estar  
+Dica: se todos os elementos de v1 existirem em v2, v1 só pode estar
 contido em v2.
 
 ### Exemplos

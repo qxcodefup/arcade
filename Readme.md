@@ -77,6 +77,7 @@
 
 ## 4_vet
 
+- [ L3 - Exército - Perto da morte](base/0085/Readme.md#qxcode)
 - [L1 - Joelison Fernandes - Soma do maior e menor!](base/0060/Readme.md#qxcode)
 - [L2 - Capoeira invertendo vetor!](base/0061/Readme.md#qxcode)
 - [L2 - Mostrar mão de cartas (Imprimir vetor formatado)](base/0101/Readme.md#qxcode)
@@ -99,9 +100,15 @@
 - [L3 - OBI 2017 - Fase 1 - Botas Trocadas](base/0074/Readme.md#qxcode)
 - [L3 - Zoo quantas especies!](base/0069/Readme.md#qxcode)
 - [L3 - Zoologico Um animal de cada tipo!](base/0084/Readme.md#qxcode)
+- [L4 - Coleção de Tazos - Quantos se repetem mais](base/0086/Readme.md#qxcode)
 - [L4 - Força Bruta (Gerando próxima combinação)](base/0008/Readme.md#qxcode)
+- [L4 - Mega Jokenpo!](base/0089/Readme.md#qxcode)
 - [L4 - OBI 2017 - Fase 1 - O segredo do Cofre](base/0076/Readme.md#qxcode)
 - [L4 - Segredo do cofre (OBI 2017 F1P1)](base/0009/Readme.md#qxcode)
+- [L4 - Zoologico Entrando na Arca de NoéAjuda com Arquivos de execução](base/0087/Readme.md#qxcode)
+- [MMC](base/0091/Readme.md#qxcode)
+- [Primo](base/0090/Readme.md#qxcode)
+- [S## L4 - Se fosse a mediana eu tinha passado!](base/0088/Readme.md#qxcode)
 
 ## 5_mat
 

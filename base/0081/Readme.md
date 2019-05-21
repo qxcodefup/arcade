@@ -3,12 +3,12 @@
 
 ![](capa.jpg)
 
-### Motivação
+### Motivação'
 
-Marquinhos está para ficar louco. Hermeneutico o desafiou a fazer um código  
-que quebra inteiros em um vetor. Mas essa tarefa aparentemente simples está  
-acabando com os miolos de Marquinhos. Por favor, ajude Marquinhos a recuperar  
-sua paz de espírito fazendo esse código pra ele. Lembrando que a entrada deve  
+Marquinhos está para ficar louco. Hermeneutico o desafiou a fazer um código
+que quebra inteiros em um vetor. Mas essa tarefa aparentemente simples está
+acabando com os miolos de Marquinhos. Por favor, ajude Marquinhos a recuperar
+sua paz de espírito fazendo esse código pra ele. Lembrando que a entrada deve
 ser vários valores inteiros, e a saída um vetor com todos os inteiros da entrada.  
 \[DS\]  
 
@@ -22,13 +22,13 @@ OBS: Use os operadores de divisão e módulo para obter os números.
 
 #### Saida
 
-O valor decomposto em números(0 à 9)  
+O valor decomposto em números(0 à 9).
   
 ### Exemplos
 
 ```
 >>>>>>>>
-1235
+12345
 ========
 1 2 3 4 5
 <<<<<<<<
