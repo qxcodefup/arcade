@@ -1,15 +1,18 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(){
+int main () {
+	char frase[100];
+	fgets(frase, 100, stdin); 
 
-    char line[100];
+	for(int i = 0; i < strlen(frase); i++){
+		if(frase[i] >= 'a' && frase[i] <= 'z')
+			printf("%c", frase[i] - ('a' - 'A'));
+		else if(frase[i] >= 'A' && frase[i] <= 'Z')
+			printf("%c", frase[i] + ('a' - 'A'));
+		else
+			printf("%c", frase[i]);
+	}
 
-    gets(line);
-
-    for(int a = strlen(line) - 1; a >= 0; a--)
-        printf("%c", line[a]);
-    printf("\n");
-
-    return 0;
+	return 0;
 }

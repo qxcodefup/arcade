@@ -1,49 +1,55 @@
-## @0093 #6_str L1 - LP da Xura - Inverter String!
+## @0094 #6_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
 ## @qxcode
 
-![](capa.jpg)
+![]()
 
 ### Motivação
 
-"ra on odnalor at acopip ed oriehc a acopip"
-
-Tá ficando doido menino? Perguntou a mãe. Que marmota é essa que você tá fazendo com meu LP da Xuxa?
-
-Mamãe, é que eu ví na internet que se tocarmos as músicas da Xuxa ao contrário saem umas mensagens sinistras!
+*   Meu filho, você não sabe que quando a gente escreve tudo em caixa alta é como se a gente tivesse gritando.
+*   Sabia não.
+*   Como assim não sabia, sua mãe não é professora de informática?
+*   É.
+*   E ela não lhe ensinou o básico sobre etiqueta na internet?
+*   Não.
+*   Eu vou falar com sua mãe então.
+*   Tia, aproveita e pede pra ela não usar caixa alta quando eu mostrar o boletim pra ela.
 
 ### Ação
 
-Ajude Carlinhos a testar essa teoria.  
-Dado uma string, imprima a mesma string ao contrário.
+Dado um texto(max 100 char) mostre o texto invertido. O que for minúsculo imprima em maiúsculo e vice versa. Números e pontuação deixe inalterado.
 
 ### Entrada e Saída
 
 Entrada:
 
-*   Uma frase de até 100 caracteres.
+*   Um texto (max 100 char)
 
 Saída:
 
-*   Imprima a frase ao contrario.
+*   O texto com os caracteres invertido. O que for minúsculo imprima em maiúsculo e vice versa.
 
-### Exemplos
+Exemplos:
 
 ```
 >>>>>>>>
-ra on odnalor at acopip ed oriehc o
+O ovomaltine e GOSTOSO
 ========
-o cheiro de pipoca ta rolando no ar
+o OVOMALTINE E gostoso
 <<<<<<<<
 
 >>>>>>>>
-rahnos zaf em euq latsirc ed aul
+Paralelepipedarte-ei se NAO me passar a CARTEIRA
 ========
-lua de cristal que me faz sonhar
+pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
 <<<<<<<<
 
 >>>>>>>>
-oacaroc ues on x mu ieuqram
+1, Dois, 3 Indiozinhos
 ========
-marquei um x no seu coracao
+1, dOIS, 3 iNDIOZINHOS
 <<<<<<<<
 ```
+
+<!---
+
+--->
