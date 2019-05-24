@@ -96,6 +96,7 @@
 0126: @0073 #6_str L2 - Crushômetro
 0093: @0094 #6_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
 0125: @0073 #6_str L2 - Numerão Divisível por 11
+0094: @0094 #6_str L2 - Vogais e Consoantes - Identificação e Montagem!
 0127: @0073 #6_str L3 - Amo a Amora meu Amor - Contar Substrings!
 0124: @0073 #6_str L4 - Conversa de Traficantes - Substituições de substrings
 0120: @0101 #6_str L4 - Gansos Gamados - Verificar ordenação da frase!

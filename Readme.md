@@ -121,6 +121,7 @@
 - [L2 - Crushômetro](base/0126/Readme.md#qxcode)
 - [L2 - Gritando em Caixa Alta - Invertendo o Case da frase!](base/0093/Readme.md#qxcode)
 - [L2 - Numerão Divisível por 11](base/0125/Readme.md#qxcode)
+- [L2 - Vogais e Consoantes - Identificação e Montagem!](base/0094/Readme.md#qxcode)
 - [L3 - Amo a Amora meu Amor - Contar Substrings!](base/0127/Readme.md#qxcode)
 - [L4 - Conversa de Traficantes - Substituições de substrings](base/0124/Readme.md#qxcode)
 - [L4 - Gansos Gamados - Verificar ordenação da frase!](base/0120/Readme.md#qxcode)
