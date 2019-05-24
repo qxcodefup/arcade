@@ -118,6 +118,7 @@
 ## 6_str
 
 - [L1 - LP da Xura - Inverter String!](base/0092/Readme.md#qxcode)
+- [L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!](base/0095/Readme.md#qxcode)
 - [L2 - Crushômetro](base/0126/Readme.md#qxcode)
 - [L2 - Gritando em Caixa Alta - Invertendo o Case da frase!](base/0093/Readme.md#qxcode)
 - [L2 - Numerão Divisível por 11](base/0125/Readme.md#qxcode)
