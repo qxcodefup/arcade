@@ -102,7 +102,10 @@
 0094: @0094 #6_str L2 - Vogais e Consoantes - Identificação e Montagem!
 0127: @0073 #6_str L3 - Amo a Amora meu Amor - Contar Substrings!
 0099: @0099 #6_str L3 - Francês é Fresco - Juntar palavras
+0178: @0178 #6_str L3 - Jack Sparrow e o Beijinho - Alternar Case
 0098: @0098 #6_str L3 - Jason e Krueguer - busca de maior ocorrencia
+0102: @00102 #6_str L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados
+0179: @0179 #6_str L3 - Prof Muquirana - Busca máximo por critério
 0124: @0073 #6_str L4 - Conversa de Traficantes - Substituições de substrings
 0120: @0101 #6_str L4 - Gansos Gamados - Verificar ordenação da frase!
 0119: @0101 #6_str L4 - Matéria e Antimatéia - Colisão entre palavras!
