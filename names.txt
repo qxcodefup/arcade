@@ -94,6 +94,7 @@
 0007: @0007 #5_mat L4 - Tetris (Fazendo a peça cair)
 0092: @0093 #6_str L1 - LP da Xura - Inverter String!
 0095: @0095 #6_str L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!
+0096: @0096 #6_str L2 - Contar Leds
 0126: @0073 #6_str L2 - Crushômetro
 0093: @0094 #6_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
 0125: @0073 #6_str L2 - Numerão Divisível por 11
