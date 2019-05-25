@@ -1,0 +1,34 @@
+case = 0
+input=a
+output=A
+grade reduction = 100%
+
+case = 1
+input=X
+output=x
+grade reduction = 100%
+
+case = 2
+input=c
+output=C
+grade reduction = 100%
+
+case = 3
+input=B
+output=b
+grade reduction = 100%
+
+case = 4
+input=!
+output=!
+grade reduction = 100%
+
+case = 5
+input=-
+output=-
+grade reduction = 100%
+
+case = 6
+input=@
+output=@
+grade reduction = 100%

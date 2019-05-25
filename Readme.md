@@ -118,12 +118,14 @@
 ## 6_str
 
 - [L1 - LP da Xura - Inverter String!](base/0092/Readme.md#qxcode)
+- [L1 - Maiúsculo, Minusculo e Dígito!](base/0104/Readme.md#qxcode)
 - [L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!](base/0095/Readme.md#qxcode)
 - [L2 - Contar Leds](base/0096/Readme.md#qxcode)
 - [L2 - Crushômetro](base/0126/Readme.md#qxcode)
 - [L2 - Gagueira V1 - Duplicar Palavras](base/0097/Readme.md#qxcode)
 - [L2 - Gritando em Caixa Alta - Invertendo o Case da frase!](base/0093/Readme.md#qxcode)
 - [L2 - Numerão Divisível por 11](base/0125/Readme.md#qxcode)
+- [L2 - Valdiskley e a cifra V2!](base/0106/Readme.md#qxcode)
 - [L2 - Vogais e Consoantes - Identificação e Montagem!](base/0094/Readme.md#qxcode)
 - [L3 - Amo a Amora meu Amor - Contar Substrings!](base/0127/Readme.md#qxcode)
 - [L3 - Francês é Fresco - Juntar palavras](base/0099/Readme.md#qxcode)
@@ -131,11 +133,13 @@
 - [L3 - Jason e Krueguer - busca de maior ocorrencia](base/0098/Readme.md#qxcode)
 - [L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados](base/0102/Readme.md#qxcode)
 - [L3 - Prof Muquirana - Busca máximo por critério](base/0179/Readme.md#qxcode)
+- [L3 - Valdiskley e cifras históricas!](base/0105/Readme.md#qxcode)
 - [L4 - Conversa de Traficantes - Substituições de substrings](base/0124/Readme.md#qxcode)
 - [L4 - Gansos Gamados - Verificar ordenação da frase!](base/0120/Readme.md#qxcode)
 - [L4 - Matéria e Antimatéia - Colisão entre palavras!](base/0119/Readme.md#qxcode)
 - [L4 - Mário e o Assassins Creed - Cenário](base/0121/Readme.md#qxcode)
 - [L4 - Nao se bububula - Gagueira V2!](base/0122/Readme.md#qxcode)
+- [L4 - Separe Pneumatocito - Separação de Palavras!](base/0103/Readme.md#qxcode)
 - [L4 - Sorvete suor casaca chicletes - Letras em Comum!](base/0123/Readme.md#qxcode)
 
 ## 7_char
