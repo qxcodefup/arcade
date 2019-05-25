@@ -99,7 +99,9 @@
 0126: @0073 #6_str L2 - Crushômetro
 0097: @0097 #6_str L2 - Gagueira V1 - Duplicar Palavras
 0093: @0094 #6_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
+0180: @0180 #6_str L2 - Guerra Civil no Universo Marvel
 0125: @0073 #6_str L2 - Numerão Divisível por 11
+0181: @0181 #6_str L2 - Somando numeros
 0106: @0106 #6_str L2 - Valdiskley e a cifra V2!
 0094: @0094 #6_str L2 - Vogais e Consoantes - Identificação e Montagem!
 0127: @0073 #6_str L3 - Amo a Amora meu Amor - Contar Substrings!
