@@ -104,6 +104,7 @@
 0094: @0094 #6_str L2 - Vogais e Consoantes - Identificação e Montagem!
 0127: @0073 #6_str L3 - Amo a Amora meu Amor - Contar Substrings!
 0099: @0099 #6_str L3 - Francês é Fresco - Juntar palavras
+0108: @0108 #6_str L3 - Identificando elementos
 0178: @0178 #6_str L3 - Jack Sparrow e o Beijinho - Alternar Case
 0098: @0098 #6_str L3 - Jason e Krueguer - busca de maior ocorrencia
 0102: @00102 #6_str L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados
@@ -116,4 +117,3 @@
 0122: @0073 #6_str L4 - Nao se bububula - Gagueira V2!
 0103: @0103 #6_str L4 - Separe Pneumatocito - Separação de Palavras!
 0123: @0073 #6_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
-0108: @0108 #7_char L3 - Identificando elementos

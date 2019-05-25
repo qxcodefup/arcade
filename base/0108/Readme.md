@@ -1,4 +1,4 @@
-## @0108 #7_char L3 - Identificando elementos
+## @0108 #6_str L3 - Identificando elementos
 ## @qxcode
 
 ## Motivação

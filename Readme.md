@@ -129,6 +129,7 @@
 - [L2 - Vogais e Consoantes - Identificação e Montagem!](base/0094/Readme.md#qxcode)
 - [L3 - Amo a Amora meu Amor - Contar Substrings!](base/0127/Readme.md#qxcode)
 - [L3 - Francês é Fresco - Juntar palavras](base/0099/Readme.md#qxcode)
+- [L3 - Identificando elementos](base/0108/Readme.md#qxcode)
 - [L3 - Jack Sparrow e o Beijinho - Alternar Case](base/0178/Readme.md#qxcode)
 - [L3 - Jason e Krueguer - busca de maior ocorrencia](base/0098/Readme.md#qxcode)
 - [L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados](base/0102/Readme.md#qxcode)
@@ -141,7 +142,3 @@
 - [L4 - Nao se bububula - Gagueira V2!](base/0122/Readme.md#qxcode)
 - [L4 - Separe Pneumatocito - Separação de Palavras!](base/0103/Readme.md#qxcode)
 - [L4 - Sorvete suor casaca chicletes - Letras em Comum!](base/0123/Readme.md#qxcode)
-
-## 7_char
-
-- [L3 - Identificando elementos](base/0108/Readme.md#qxcode)
