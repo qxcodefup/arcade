@@ -117,3 +117,4 @@
 0122: @0073 #6_str L4 - Nao se bububula - Gagueira V2!
 0103: @0103 #6_str L4 - Separe Pneumatocito - Separação de Palavras!
 0123: @0073 #6_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
+0107: @0107 #6_str L4 - Valdiskley e a Cifra v3!

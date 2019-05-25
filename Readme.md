@@ -142,3 +142,4 @@
 - [L4 - Nao se bububula - Gagueira V2!](base/0122/Readme.md#qxcode)
 - [L4 - Separe Pneumatocito - Separação de Palavras!](base/0103/Readme.md#qxcode)
 - [L4 - Sorvete suor casaca chicletes - Letras em Comum!](base/0123/Readme.md#qxcode)
+- [L4 - Valdiskley e a Cifra v3!](base/0107/Readme.md#qxcode)
