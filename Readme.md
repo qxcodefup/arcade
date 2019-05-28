@@ -162,11 +162,7 @@
 
 ## 7_math
 
-- [-  Inteiro aleatório entre X e Y](base/0135/Readme.md#qxcode)
 - [-  MMC de vários números. Laboratório Virtual de Programação](base/0139/Readme.md#qxcode)
-- [- Embaralhar Texto Laboratório Virtual de Programação](base/0138/Readme.md#qxcode)
-- [- Embaralhar Vetor Laboratório Virtual de Programação](base/0137/Readme.md#qxcode)
-- [Random no vetor Laboratório Virtual de Programação](base/0136/Readme.md#qxcode)
 
 ## 7_rec
 

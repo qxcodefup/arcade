@@ -131,11 +131,7 @@
 0103: @0103 #6_str L4 - Separe Pneumatocito - Separação de Palavras!
 0123: @0073 #6_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
 0107: @0107 #6_str L4 - Valdiskley e a Cifra v3!
-0135: @0135 #7_math -  Inteiro aleatório entre X e Y
 0139: @139 #7_math -  MMC de vários números. Laboratório Virtual de Programação
-0138: @0138 #7_math - Embaralhar Texto Laboratório Virtual de Programação
-0137: @137 #7_math - Embaralhar Vetor Laboratório Virtual de Programação
-0136: @0136 #7_math Random no vetor Laboratório Virtual de Programação
 0145: @0145 #7_rec - Contando caracteres recursivamente
 0146: @0146 #7_rec - Torres de Hanoi
 0140: @0140 #87_math - Contando caracteres recursivamente Laboratório Virtual de Programação
