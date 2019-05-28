@@ -1,4 +1,4 @@
-# @0146 #7_rec - Torres de Hanoi
+# @0146 #8_rec - Torres de Hanoi
 ## @qxcode
 
 ![](capa.jpg)

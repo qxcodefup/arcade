@@ -1,4 +1,4 @@
-# @0143 #9_pont - Troca de valores de variáveis
+# @0143 #10_pont - Troca de valores de variáveis
 ## @qxcode
 
 ![](capa.jpg)

@@ -1,6 +1,8 @@
-0147: @0147 #10_dict - Duelo
-0148: @0148 #10_dict - Expressão
-0149: @0149 #10_dict - Operações
+0144: @0144 #10_pont - Função que retorna vários valores por referência
+0143: @0143 #10_pont - Troca de valores de variáveis
+0147: @0147 #11_dict - Duelo
+0148: @0148 #11_dict - Expressão
+0149: @0149 #11_dict - Operações
 0000: @0000 #1_ope L1 - Operações básicas (Imprimindo float formatado)
 0011: @0011 #1_ope L2 - Formatando data (Zeros à esquerda)
 0003: @0003 #1_ope L2 - Opala bebedor (Cálculo de desempenho)
@@ -132,10 +134,8 @@
 0123: @0073 #6_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
 0107: @0107 #6_str L4 - Valdiskley e a Cifra v3!
 0139: @139 #7_math -  MMC de vários números. Laboratório Virtual de Programação
-0145: @0145 #7_rec - Contando caracteres recursivamente
-0146: @0146 #7_rec - Torres de Hanoi
 0140: @0140 #87_math - Contando caracteres recursivamente Laboratório Virtual de Programação
-0142: @0142 #8_aloc - Vetor de strings com tamanhos variados
+0145: @0145 #8_rec - Contando caracteres recursivamente
+0146: @0146 #8_rec - Torres de Hanoi
 0141: @0141 #8_rec Números de Fibonacci
-0144: @0144 #9_pont - Função que retorna vários valores por referência
-0143: @0143 #9_pont - Troca de valores de variáveis
+0142: @0142 #9_aloc - Vetor de strings com tamanhos variados

@@ -6,7 +6,12 @@
 # TAGS
 
 
-## 10_dict
+## 10_pont
+
+- [- Função que retorna vários valores por referência](base/0144/Readme.md#qxcode)
+- [- Troca de valores de variáveis](base/0143/Readme.md#qxcode)
+
+## 11_dict
 
 - [- Duelo](base/0147/Readme.md#qxcode)
 - [- Expressão](base/0148/Readme.md#qxcode)
@@ -164,24 +169,16 @@
 
 - [-  MMC de vários números. Laboratório Virtual de Programação](base/0139/Readme.md#qxcode)
 
-## 7_rec
-
-- [- Contando caracteres recursivamente](base/0145/Readme.md#qxcode)
-- [- Torres de Hanoi](base/0146/Readme.md#qxcode)
-
 ## 87_math
 
 - [- Contando caracteres recursivamente Laboratório Virtual de Programação](base/0140/Readme.md#qxcode)
 
-## 8_aloc
-
-- [- Vetor de strings com tamanhos variados](base/0142/Readme.md#qxcode)
-
 ## 8_rec
 
+- [- Contando caracteres recursivamente](base/0145/Readme.md#qxcode)
+- [- Torres de Hanoi](base/0146/Readme.md#qxcode)
 - [Números de Fibonacci](base/0141/Readme.md#qxcode)
 
-## 9_pont
+## 9_aloc
 
-- [- Função que retorna vários valores por referência](base/0144/Readme.md#qxcode)
-- [- Troca de valores de variáveis](base/0143/Readme.md#qxcode)
+- [- Vetor de strings com tamanhos variados](base/0142/Readme.md#qxcode)

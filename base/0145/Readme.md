@@ -1,4 +1,4 @@
-# @0145 #7_rec - Contando caracteres recursivamente
+# @0145 #8_rec - Contando caracteres recursivamente
 ## @qxcode
 
 ![](capa.jpg)

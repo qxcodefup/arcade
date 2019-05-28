@@ -1,4 +1,4 @@
-# @0142 #8_aloc - Vetor de strings com tamanhos variados
+# @0142 #9_aloc - Vetor de strings com tamanhos variados
 ## @qxcode
 
 ![](capa.jpg)
