@@ -136,8 +136,12 @@
 
 ## 6_str
 
+- [L1 - Eribelton e a Ascologia V1 - Somar Asc](base/0173/Readme.md#qxcode)
 - [L1 - LP da Xura - Inverter String!](base/0092/Readme.md#qxcode)
 - [L1 - Maiúsculo, Minusculo e Dígito!](base/0104/Readme.md#qxcode)
+- [L1 - Marileuza e as Alcaparras - Contar Ocorrencias!](base/0177/Readme.md#qxcode)
+- [L1 - Substring na decoração - Obter Substrings!](base/0176/Readme.md#qxcode)
+- [L1 - Valdiskey e a cifra V1!](base/0174/Readme.md#qxcode)
 - [L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!](base/0095/Readme.md#qxcode)
 - [L2 - Contar Leds](base/0096/Readme.md#qxcode)
 - [L2 - Crushômetro](base/0126/Readme.md#qxcode)
@@ -155,6 +159,7 @@
 - [L3 - Jason e Krueguer - busca de maior ocorrencia](base/0098/Readme.md#qxcode)
 - [L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados](base/0102/Readme.md#qxcode)
 - [L3 - Prof Muquirana - Busca máximo por critério](base/0179/Readme.md#qxcode)
+- [L3 - Separando tokens](base/0175/Readme.md#qxcode)
 - [L3 - Valdiskley e cifras históricas!](base/0105/Readme.md#qxcode)
 - [L4 - Conversa de Traficantes - Substituições de substrings](base/0124/Readme.md#qxcode)
 - [L4 - Gansos Gamados - Verificar ordenação da frase!](base/0120/Readme.md#qxcode)
