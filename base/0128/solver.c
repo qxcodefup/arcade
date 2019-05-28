@@ -8,7 +8,7 @@ int somar(int mat[2][3]){
             sum += mat[y][x];
         }
     }
-    printf("%d", sum);
+    printf("%d\n", sum);
     return sum;
 }
 

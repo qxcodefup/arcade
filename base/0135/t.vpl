@@ -1,0 +1,17 @@
+case=0
+input=1
+output="1"
+
+case=
+input=2
+output="2"
+
+case=
+input=3
+output="3"
+grade reduction = 50%
+
+case=
+input=4
+output="4"
+grade reduction = 10%

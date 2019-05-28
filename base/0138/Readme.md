@@ -1,13 +1,11 @@
-# @0108 #8_math - Embaralhar Texto Laboratório Virtual de Programação
+# @0138 #7_math - Embaralhar Texto Laboratório Virtual de Programação
 ## @qxcode
 
-# @qxcode
-
-### Motivação
+![](capa.jpg)
 
 ### Ação
 
-Dado um texto,  gere aleatoriamente um anagrama desse texto.
+Dado um texto, gere aleatoriamente um anagrama desse texto.
 
 Gere um novo texto de anagrama, não altere o antigo.
 
@@ -19,14 +17,12 @@ Se for em python, retorne o anagrama, faça:
 
 def embaralhar(texto)
 
-  
-
 ### Entrada e Saida
 
-Entrada:
+#### Entrada:
 
 *   Um vetor de caracteres de tamanho n.
 
-Saida:
+#### Saida:
 
 *   Um novo vetor de caracteres com o anagrama gerado do texto informado pelo usuário.

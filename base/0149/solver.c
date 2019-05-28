@@ -7,8 +7,7 @@ typedef struct {
     int multiplicacao;
 } expressao;
 
-int main()
-{
+int main(){
     expressao e;
     int n1, n2;
     scanf("%d\n%d", &n1, &n2);
@@ -18,5 +17,5 @@ int main()
     e.divisao = (float) n1 / n2;
     e.multiplicacao = n1 * n2;
     
-    printf("%d %d %.1f %d", e.soma, e.subtracao, e.divisao, e.multiplicacao);
+    printf("%d %d %.1f %d\n", e.soma, e.subtracao, e.divisao, e.multiplicacao);
 }

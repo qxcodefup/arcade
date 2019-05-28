@@ -1,34 +1,18 @@
 #include <stdio.h>
+#include <string.h>
 
-/*
-Imprime os passos para solução da Torre de Hanoi.
-Entrada:
-- qte: números de discos que devem ser movidos da torre inicial para a torre final
-- ini: torre que é considerada como torre inicial
-- aux: torre que é considerada como torre auxiliar
-- fim: torre que é considerada como torre final
-
-Pseudocódigo:
-   se existe apenas 1 disco para mover
-      mova este único disco da torre inicial para a torre final
-   senão
-      recursivamente mova qte-1 discos da torre inicial para a torre auxiliar
-      mova o disco que sobrou da torre inicial para a torre final
-      recursivamente mova qte-1 discos da torre auxiliar para a torre final
-*/
-void hanoi(int qte, char ini, char aux, char fim)
-{
-   if (qte == 1) printf("%c -> %c\n", ini, fim);
-   else {
-      hanoi(qte-1, ini, fim, aux);
-      printf("%c -> %c\n", ini, fim);
-      hanoi(qte-1, aux, ini, fim);
-   }
+// Retorna o números de ocorrências do caractere 'c' na string 's' (com 'n' caracteres).
+// Algoritmo deve ser recursivo e sem comandos de repetição.
+int conta_char_rec(char s[], int n, char c){
+    if (n == 0) return 0;
+    if (s[n-1] == c) return 1 + conta_char_rec(s,n-1,c);
+    return 0 + conta_char_rec(s,n-1,c);
 }
 
-int main()
-{
-   int qte;
-   scanf("%d", &qte);
-   hanoi(qte, 'A', 'B', 'C');
+int main(){
+   char s[102], c;
+   fgets(s, sizeof(s), stdin);
+   scanf("%c", &c);
+   int n = strlen(s) - 1;
+   printf("%d\n", conta_char_rec(s,n,c));
 }

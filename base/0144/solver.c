@@ -19,5 +19,5 @@ int main()
    // minutos e segundos, gravando o resultado nas variáveis 'h', 'm' e 's'.
    converte_tempo(tempo, &h, &m, &s);
    
-   printf("%d:%d:%d", h, m, s);
+   printf("%d:%d:%d\n", h, m, s);
 }

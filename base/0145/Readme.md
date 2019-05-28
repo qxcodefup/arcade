@@ -1,60 +1,70 @@
-# @0145 #8_rec - Contando caracteres recursivamente
+# @0145 #7_rec - Contando caracteres recursivamente
 ## @qxcode
 
-# @qxcode
+![](capa.jpg)
 
-O objetivo do jogo das torres de hanoi é mover todos os discos da torre inicial para a torre final, sem colocar disco maior sobre disco menor. Inicialmente, a torre final e a torre auxiliar estão vazias. Você pode usar a torre auxiliar para lhe ajudar a mover os discos.
+### Ação
 
-    Exemplo:
-    
-                ++                  ++                 ++
-                ||                  ||                 ||
-                ||                  ||                 ||
-                ||                  ||                 ||
-                ||                  ||                 ||
-              +-++-+                ||                 ||
-              |    |                ||                 ||
-            +-+----+-+              ||                 ||
-            |        |              ||                 ||
-          +-+--------+-+            ||                 ||
-          |            |            ||                 ||
-          +------------+            ++                 ++
-          Torre inicial        Torre auxiliar      Torre final
-                A                   B                  C
-    
-    Solução:
-    A -> C
-    A -> B
-    C -> B
-    A -> C
-    B -> A
-    B -> C
-    A -> C
-    
-    Simule as jogadas em
-    http://www.dynamicdrive.com/dynamicindex12/towerhanoi.htm
-    
+Forneça um algoritmo recursivo para contar quantas vezes um determinado caractere ocorre em uma string. Não é permitido usar comandos de repetição nesta função. A função main e o protótipo da função recursiva são fornecidos no arquivo de envio logo abaixo.
 
-Este problema parece difícil de resolver para o caso geral com _n_ discos. Porém, como acontece em vários problemas, utilizando recursão chegamos em um algoritmo simples e elegante. Mova recursivamente os \\(n-1\\) primeiros discos para a torre auxiliar, depois mova o último disco da torre inicial para a torre final, e então mova recursivamente os \\(n-1\\) discos da torre auxiliar para a torre final.
+``` C
+#include <stdio.h>
+#include <string.h>
 
-    Entrada:
-    - Número de discos para mover da torre 'A' para a torre 'C'.
-    
-    Saída:
-    - Sequência de movimentos para mover todos os discos (um movimento por linha).
-    
-    Notação do movimento do disco no topo da torre: 
-    torre de origem -> torre de destino.
-    
-    Exemplo:
-    >>>>>>>>
-    3
-    ========
-    A -> C
-    A -> B
-    C -> B
-    A -> C
-    B -> A
-    B -> C
-    A -> C
-    <<<<<<<<
+// Retorna o números de ocorrências do caractere 'c' na string 's' (com 'n' caracteres).
+// Algoritmo deve ser recursivo e sem comandos de repetição.
+int conta_char_rec(char s[], int n, char c){
+
+}
+
+int main(){
+   char s[102], c;
+   fgets(s, sizeof(s), stdin);
+   scanf("%c", &c);
+   int n = strlen(s) - 1;
+   printf("%d", conta_char_rec(s,n,c));
+}
+```
+
+### Entrada e saída
+
+#### Entrada:
+    - Linha 1: string com até 100 caracteres.
+    - Linha 2: caractere (que será contado na string anterior)
+
+#### Saída:
+    - Número de ocorrências do caractere na string.
+
+### Exemplo
+
+```
+>>>>>>>>
+fundamentos de programacao
+a
+========
+4
+<<<<<<<<
+```
+
+<!---
+>>>>>>>> 01
+o rato roeu a roupa do rei de roma
+a
+========
+4
+<<<<<<<<
+
+>>>>>>>> 02
+o rato roeu a roupa do rei de roma
+x
+========
+0
+<<<<<<<<
+
+>>>>>>>> 03
+o rato roeu a roupa do rei de roma
+o
+========
+6
+<<<<<<<<
+--->

@@ -15,16 +15,14 @@ int soma_ds(int mat[][5]){
 }
 
 
-int sub(int mat[5][5]){
+void sub(int mat[5][5]){
    int subt = soma_dp(mat) - soma_ds(mat);
-   printf("%d", subt);
-   return subt;
+   printf("%d\n", subt);
 }
 
 
 
-int main()
-{
+int main(){
     int mat[5][5];
 
     for(int i = 0; i < 5;i++)

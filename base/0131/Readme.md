@@ -1,13 +1,13 @@
-# @0131 #5_Mat L3 - Matriz Simétrica
+# @0131 #5_mat L3 - Matriz Simétrica
 ## @qxcode
 
 # @qxcode
 
-![](capa.gif)
+![](capa.jpg)
 
 ### Motivação
 
-Joãozinho aprendeu na aula de matemática que uma matriz diz-se simétrica se coincidir com a sua transposta, ou seja, se A=AT. O professor de Joãozinho passou uma atividade sobre o conteúdo para que a turma resolve-se. Ajude Joãozinho a resolver a ativade.
+Joãozinho aprendeu na aula de matemática que uma matriz diz-se simétrica se coincidir com a sua transposta, ou seja, se A = AT. O professor de Joãozinho passou uma atividade sobre o conteúdo para que a turma resolve-se. Ajude Joãozinho a resolver a ativade.
 
 ### Ação
 
@@ -25,32 +25,62 @@ Saída:
 
 Exemplo:
 
-    >>>>>>>>
-    1 4 7 
-    4 1 8 
-    7 8 1
-    ========
-    sim
-    <<<<<<<<
-    
+```
+>>>>>>>>
+1 4 7
+4 1 8
+7 8 1
+========
+sim
+<<<<<<<<
 
-* * *
+>>>>>>>>
+3 3 3
+3 3 3
+3 3 3
+========
+sim
+<<<<<<<<
 
-    >>>>>>>>
-    3 3 3
-    3 3 3
-    3 3 3
-    ========
-    sim
-    <<<<<<<<
-    
+>>>>>>>>
+1 2 3
+4 5 6
+7 8 9
+========
+nao
+<<<<<<<<
+```
 
-* * *
+<!---
+>>>>>>>> 01
+2 7 6
+9 5 1
+4 3 8
+========
+nao
+<<<<<<<<
 
-    >>>>>>>>
-    1 2 3
-    4 5 6
-    7 8 9
-    ========
-    nao
-    <<<<<<<<
+>>>>>>>> 02
+8 1 6
+3 5 7
+4 9 2
+========
+nao
+<<<<<<<<
+
+>>>>>>>> 03
+1 4 7
+4 1 8
+7 8 1
+========
+sim
+<<<<<<<<
+
+>>>>>>>> 04
+1 4 7
+4 1 8
+7 9 1
+========
+nao
+<<<<<<<<
+--->

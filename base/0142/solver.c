@@ -2,10 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main()
-{
+int main(){
    int n, i, j, tam;
-   scanf("%d\n", &n);
+   scanf("%d", &n);
    char* v[n];
    
    for (i = 0; i < n; i++) {

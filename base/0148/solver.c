@@ -6,21 +6,19 @@ typedef struct {
    char operador;
 } expressao;
 
-void calcula_expressao(expressao e)
-{
+void calcula_expressao(expressao e){
    switch (e.operador) {
-      case '+': printf("%d", e.num1 + e.num2);
+      case '+': printf("%d\n", e.num1 + e.num2);
                 break;
-      case '-': printf("%d", e.num1 - e.num2);
+      case '-': printf("%d\n", e.num1 - e.num2);
                 break;
-      case '*': printf("%d", e.num1 * e.num2);
+      case '*': printf("%d\n", e.num1 * e.num2);
                 break;
-      case '/': printf("%d", e.num1 / e.num2);
+      case '/': printf("%d\n", e.num1 / e.num2);
    }   
 }
 
-int main()
-{
+int main(){
    expressao e;
    scanf("%d\n%d\n%c", &e.num1, &e.num2, &e.operador);
    calcula_expressao(e);

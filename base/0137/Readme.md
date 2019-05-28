@@ -1,11 +1,11 @@
-# @137 #8_math - Embaralhar Vetor Laboratório Virtual de Programação
+## @137 #7_math - Embaralhar Vetor Laboratório Virtual de Programação
 ## @qxcode
 
-### Motivação  
+![](capa.jpg)
 
 ### Ação
 
-Dado um vetor, embaralhe aleatoriamente os elementos desse vetor. 
+Dado um vetor, embaralhe aleatoriamente os elementos desse vetor.
 
 Se for em C faça:
 
@@ -13,11 +13,10 @@ void embaralhar(int \* vet, int tam)
 
 ### Entrada e Saida
 
-Entrada:
+#### Entrada:
 
     *   Um vetor do tipo inteiro de tamanho n.  
-    
 
-Saida:
+#### Saida:
 
     *   O vetor com os elementos embaralhados

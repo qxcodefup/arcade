@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int contar_fardamento_menor(int mat[3][3]){
+void contar_fardamento_menor(int mat[3][3]){
 
     int cont = 0;
     for (int i = 0; i < 3; ++i){
@@ -9,12 +9,10 @@ int contar_fardamento_menor(int mat[3][3]){
                 cont++;
         }
     }
-    printf("%d", cont);
-    return cont;
+    printf("%d\n", cont);
 }
 
-int main()
-{
+int main(){
     int mat[3][3];
 
     for(int i=0; i < 3;i++)

@@ -1,9 +1,7 @@
-# @139 #8_math -  MMC de vários números. Laboratório Virtual de Programação
+# @139 #7_math -  MMC de vários números. Laboratório Virtual de Programação
 ## @qxcode
 
-# @qxcode
-
-### Motivação
+![](capa.jpg)
 
 ### Ação
 
@@ -11,35 +9,32 @@ Faça uma função que receba um vetor e retorne e mmc dos números.
 
 ### Entrada e Saida
 
-Entrada:
+#### Entrada:
 
-*   Um número N (N < 50) seguindo de N números inteiros.  
-    
+*   Um número N (N < 50) seguindo de N números inteiros.
 
-Saida:
+#### Saida:
 
 *   O mmc dos N numeros.
 
 ### Exemplos
-***
-    >>>>>>>> 
-    4 2 5 4 6
-    ========
-    30
-    <<<<<<<<<
 
-***
+```
+>>>>>>>>
+4 2 5 4 6
+========
+30
+<<<<<<<<<
 
-    >>>>>>>> 
-    3 5 2 4
-    ========
-    20
-    <<<<<<<< 
+>>>>>>>>
+3 5 2 4
+========
+20
+<<<<<<<<
 
-***
-
-    >>>>>>>>
-    4 4 8 10 15 
-    ========
-    120
-    <<<<<<<< 
+>>>>>>>>
+4 4 8 10 15
+========
+120
+<<<<<<<<
+```

@@ -5,22 +5,20 @@ typedef struct {
    int ataque;
 } personagem;
 
-void duelo(personagem p1, personagem p2)
-{
+void duelo(personagem p1, personagem p2){
    while ((p1.vida > 0) && (p2.vida > 0)) {
       p1.vida -= p2.ataque;
       p2.vida -= p1.ataque;
    }
    if ((p1.vida <= 0) && (p2.vida <= 0))
-      printf("Empate");
+      printf("Empate\n");
    else if (p2.vida <= 0)
-      printf("Personagem 1");
+      printf("Personagem 1\n");
    else
-      printf("Personagem 2");
+      printf("Personagem 2\n");
 }
 
-int main()
-{
+int main(){
    personagem p1, p2;
    scanf("%d\n%d", &p1.vida, &p1.ataque);
    scanf("%d\n%d", &p2.vida, &p2.ataque);
