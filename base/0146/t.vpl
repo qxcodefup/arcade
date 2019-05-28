@@ -1,0 +1,35 @@
+case=1
+input=5
+output="A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+A -> B
+C -> B
+C -> A
+B -> A
+C -> B
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+B -> A
+C -> B
+C -> A
+B -> A
+B -> C
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+"
+grade reduction=100%

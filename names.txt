@@ -90,8 +90,17 @@
 0087: @0087 #4_vet L4 - Zoologico Entrando na Arca de NoéAjuda com Arquivos de execução
 0091: @0091 #4_vet MMC
 0090: @0090 #4_vet Primo
+0131: @0131 #5_Mat L3 - Matriz Simétrica
+0130: @0130 #5_mat L2 - Bingo!
 0012: @0012 #5_mat L2 - Deu a louca no Imperador!
+0134: @0134 #5_mat L2 - Quadrado Mágico
+0133: @0133 #5_mat L2 - Soldados em Posição
+0128: @0128 #5_mat L2 - Soma de elementos de em uma matriz
+0129: @0129 #5_mat L3 - Campo Minado
+0132: @0132 #5_mat L3 - Subdiagonais
 0007: @0007 #5_mat L4 - Tetris (Fazendo a peça cair)
+0150: @0150 #6_mat L2 - Soma de matrizes
+0160: @0160 #6_mat L2 - Soma de matrizes
 0092: @0093 #6_str L1 - LP da Xura - Inverter String!
 0104: @0104 #6_str L1 - Maiúsculo, Minusculo e Dígito!
 0095: @0095 #6_str L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!
@@ -120,3 +129,27 @@
 0103: @0103 #6_str L4 - Separe Pneumatocito - Separação de Palavras!
 0123: @0073 #6_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
 0107: @0107 #6_str L4 - Valdiskley e a Cifra v3!
+0142: @0141 #8_aloc - Vetor de strings com tamanhos variados
+0152: @0152 #8_aloc - Vetor de strings com tamanhos variados
+0147: @0147 #8_dict - Duelo
+0157: @0157 #8_dict - Duelo
+0148: @0148 #8_dict - Expressão
+0158: @0158 #8_dict - Expressão
+0149: @0149 #8_dict - Operações
+0159: @0159 #8_dict - Operações
+0135: @0135 #8_math -  Inteiro aleatório entre X e Y
+0139: @139 #8_math -  MMC de vários números. Laboratório Virtual de Programação
+0140: @0140 #8_math - Contando caracteres recursivamente Laboratório Virtual de Programação
+0138: @0108 #8_math - Embaralhar Texto Laboratório Virtual de Programação
+0137: @137 #8_math - Embaralhar Vetor Laboratório Virtual de Programação
+0136: @0136 #8_math - Random no vetor Laboratório Virtual de Programação
+0144: @0144 #8_pont - Função que retorna vários valores por referência
+0154: @0154 #8_pont - Função que retorna vários valores por referência Laboratório Virtual de Programação
+0143: @0143 #8_pont - Troca de valores de variáveis
+0153: @0153 #8_pont - Troca de valores de variáveis
+0145: @0145 #8_rec - Contando caracteres recursivamente
+0155: @0155 #8_rec - Contando caracteres recursivamente Laboratório Virtual de Programação
+0151: @0151 #8_rec - Numeros de Fibonnaci
+0141: @0141 #8_rec - Números de Fibonacci
+0146: @0146 #8_rec - Torres de Hanoi
+0156: @0156 #8_rec - Torres de Hanoi

@@ -1,0 +1,16 @@
+case=1
+input=6
+12 Gilberto Gil
+13 Maria Betania
+18 Osvaldo Montenegro
+14 Caetano Veloso
+6 Djavan
+12 Marisa Monte
+output="Caetano Veloso
+Djavan
+Gilberto Gil
+Maria Betania
+Marisa Monte
+Osvaldo Montenegro
+"
+grade reduction=100%

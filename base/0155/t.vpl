@@ -1,0 +1,17 @@
+case=1
+input=o rato roeu a roupa do rei de roma
+a
+output="4"
+grade reduction=100%
+
+case=2
+input=o rato roeu a roupa do rei de roma
+x
+output="0"
+grade reduction=100%
+
+case=3
+input=o rato roeu a roupa do rei de roma
+o
+output="6"
+grade reduction=100%

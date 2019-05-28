@@ -110,10 +110,25 @@
 - [MMC](base/0091/Readme.md#qxcode)
 - [Primo](base/0090/Readme.md#qxcode)
 
+## 5_Mat
+
+- [L3 - Matriz Simétrica](base/0131/Readme.md#qxcode)
+
 ## 5_mat
 
+- [L2 - Bingo!](base/0130/Readme.md#qxcode)
 - [L2 - Deu a louca no Imperador!](base/0012/Readme.md#qxcode)
+- [L2 - Quadrado Mágico](base/0134/Readme.md#qxcode)
+- [L2 - Soldados em Posição](base/0133/Readme.md#qxcode)
+- [L2 - Soma de elementos de em uma matriz](base/0128/Readme.md#qxcode)
+- [L3 - Campo Minado](base/0129/Readme.md#qxcode)
+- [L3 - Subdiagonais](base/0132/Readme.md#qxcode)
 - [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
+
+## 6_mat
+
+- [L2 - Soma de matrizes](base/0150/Readme.md#qxcode)
+- [L2 - Soma de matrizes](base/0160/Readme.md#qxcode)
 
 ## 6_str
 
@@ -145,3 +160,42 @@
 - [L4 - Separe Pneumatocito - Separação de Palavras!](base/0103/Readme.md#qxcode)
 - [L4 - Sorvete suor casaca chicletes - Letras em Comum!](base/0123/Readme.md#qxcode)
 - [L4 - Valdiskley e a Cifra v3!](base/0107/Readme.md#qxcode)
+
+## 8_aloc
+
+- [- Vetor de strings com tamanhos variados](base/0142/Readme.md#qxcode)
+- [- Vetor de strings com tamanhos variados](base/0152/Readme.md#qxcode)
+
+## 8_dict
+
+- [- Duelo](base/0147/Readme.md#qxcode)
+- [- Duelo](base/0157/Readme.md#qxcode)
+- [- Expressão](base/0148/Readme.md#qxcode)
+- [- Expressão](base/0158/Readme.md#qxcode)
+- [- Operações](base/0149/Readme.md#qxcode)
+- [- Operações](base/0159/Readme.md#qxcode)
+
+## 8_math
+
+- [-  Inteiro aleatório entre X e Y](base/0135/Readme.md#qxcode)
+- [-  MMC de vários números. Laboratório Virtual de Programação](base/0139/Readme.md#qxcode)
+- [- Contando caracteres recursivamente Laboratório Virtual de Programação](base/0140/Readme.md#qxcode)
+- [- Embaralhar Texto Laboratório Virtual de Programação](base/0138/Readme.md#qxcode)
+- [- Embaralhar Vetor Laboratório Virtual de Programação](base/0137/Readme.md#qxcode)
+- [- Random no vetor Laboratório Virtual de Programação](base/0136/Readme.md#qxcode)
+
+## 8_pont
+
+- [- Função que retorna vários valores por referência](base/0144/Readme.md#qxcode)
+- [- Função que retorna vários valores por referência Laboratório Virtual de Programação](base/0154/Readme.md#qxcode)
+- [- Troca de valores de variáveis](base/0143/Readme.md#qxcode)
+- [- Troca de valores de variáveis](base/0153/Readme.md#qxcode)
+
+## 8_rec
+
+- [- Contando caracteres recursivamente](base/0145/Readme.md#qxcode)
+- [- Contando caracteres recursivamente Laboratório Virtual de Programação](base/0155/Readme.md#qxcode)
+- [- Numeros de Fibonnaci](base/0151/Readme.md#qxcode)
+- [- Números de Fibonacci](base/0141/Readme.md#qxcode)
+- [- Torres de Hanoi](base/0146/Readme.md#qxcode)
+- [- Torres de Hanoi](base/0156/Readme.md#qxcode)

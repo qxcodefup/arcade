@@ -1,0 +1,27 @@
+case 1 = Test 1
+input =5
+5
++
+output ="10"
+grade reduction = 100%
+
+case 2 = Test 2
+input =5
+5
+-
+output ="0"
+grade reduction = 100%
+
+case 3 = Test 3
+input =5
+7
+*
+output ="35"
+grade reduction = 100%
+
+case 4 = Test 4
+input =35
+5
+/
+output ="7"
+grade reduction = 100%
