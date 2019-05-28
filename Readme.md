@@ -168,9 +168,6 @@
 ## 7_math
 
 - [-  MMC de vários números. Laboratório Virtual de Programação](base/0139/Readme.md#qxcode)
-
-## 87_math
-
 - [- Contando caracteres recursivamente Laboratório Virtual de Programação](base/0140/Readme.md#qxcode)
 
 ## 8_rec

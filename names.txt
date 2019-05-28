@@ -134,7 +134,7 @@
 0123: @0073 #6_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
 0107: @0107 #6_str L4 - Valdiskley e a Cifra v3!
 0139: @139 #7_math -  MMC de vários números. Laboratório Virtual de Programação
-0140: @0140 #87_math - Contando caracteres recursivamente Laboratório Virtual de Programação
+0140: @0140 #7_math - Contando caracteres recursivamente Laboratório Virtual de Programação
 0145: @0145 #8_rec - Contando caracteres recursivamente
 0146: @0146 #8_rec - Torres de Hanoi
 0141: @0141 #8_rec Números de Fibonacci
