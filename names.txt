@@ -103,7 +103,6 @@
 0131: @0131 #5_mat L3 - Matriz Simétrica
 0132: @0132 #5_mat L3 - Subdiagonais
 0007: @0007 #5_mat L4 - Tetris (Fazendo a peça cair)
-0160: @0160 #6_mat L2 - Soma de matrizes
 0092: @0093 #6_str L1 - LP da Xura - Inverter String!
 0104: @0104 #6_str L1 - Maiúsculo, Minusculo e Dígito!
 0095: @0095 #6_str L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!
@@ -141,15 +140,6 @@
 0146: @0146 #7_rec - Torres de Hanoi
 0140: @0140 #87_math - Contando caracteres recursivamente Laboratório Virtual de Programação
 0142: @0142 #8_aloc - Vetor de strings com tamanhos variados
-0152: @0152 #8_aloc - Vetor de strings com tamanhos variados
-0157: @0157 #8_dict - Duelo
-0158: @0158 #8_dict - Expressão
-0159: @0159 #8_dict - Operações
-0154: @0154 #8_pont - Função que retorna vários valores por referência Laboratório Virtual de Programação
-0153: @0153 #8_pont - Troca de valores de variáveis
-0155: @0155 #8_rec - Contando caracteres recursivamente Laboratório Virtual de Programação
-0151: @0151 #8_rec - Numeros de Fibonnaci
-0156: @0156 #8_rec - Torres de Hanoi
 0141: @0141 #8_rec Números de Fibonacci
 0144: @0144 #9_pont - Função que retorna vários valores por referência
 0143: @0143 #9_pont - Troca de valores de variáveis

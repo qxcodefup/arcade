@@ -129,10 +129,6 @@
 - [L3 - Subdiagonais](base/0132/Readme.md#qxcode)
 - [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
 
-## 6_mat
-
-- [L2 - Soma de matrizes](base/0160/Readme.md#qxcode)
-
 ## 6_str
 
 - [L1 - LP da Xura - Inverter String!](base/0092/Readme.md#qxcode)
@@ -184,24 +180,9 @@
 ## 8_aloc
 
 - [- Vetor de strings com tamanhos variados](base/0142/Readme.md#qxcode)
-- [- Vetor de strings com tamanhos variados](base/0152/Readme.md#qxcode)
-
-## 8_dict
-
-- [- Duelo](base/0157/Readme.md#qxcode)
-- [- Expressão](base/0158/Readme.md#qxcode)
-- [- Operações](base/0159/Readme.md#qxcode)
-
-## 8_pont
-
-- [- Função que retorna vários valores por referência Laboratório Virtual de Programação](base/0154/Readme.md#qxcode)
-- [- Troca de valores de variáveis](base/0153/Readme.md#qxcode)
 
 ## 8_rec
 
-- [- Contando caracteres recursivamente Laboratório Virtual de Programação](base/0155/Readme.md#qxcode)
-- [- Numeros de Fibonnaci](base/0151/Readme.md#qxcode)
-- [- Torres de Hanoi](base/0156/Readme.md#qxcode)
 - [Números de Fibonacci](base/0141/Readme.md#qxcode)
 
 ## 9_pont
