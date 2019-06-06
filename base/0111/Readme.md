@@ -1,9 +1,8 @@
 # @0111 #6_str L2 - Meu cachorro comeu minha tarefa - Retirar espaços
 ## @qxcode
-
 # @qxcode
 
-# ![](capa.jpg)
+![](capa.jpg)
 
 ### Motivação
 
@@ -32,17 +31,54 @@ Saída:
 
 ### Exemplos
 
-### 
+```
+>>>>>>>>
+galinha          pintadinha
+========
+galinha pintadinha
+<<<<<<<<
 
-\>>  
-galinha          pintadinha  
-<<  
-galinha pintadinha  
+>>>>>>>>
+a    almofada
+========
+a almofada
+<<<<<<<<
 
-### 
+>>>>>>>>
+comi    sorvete
+========
+comi sorvete
+<<<<<<<<
 
-    >>a    almofada<<a almofada
+>>>>>>>>
+meteoro        pegasus
+========
+meteoro pegasus
+<<<<<<<<
+```
 
-    >>comi    sorvete<<comi sorvete
+<!---
+>>>>>>>> 01
+a   almofada
+========
+a almofada
+<<<<<<<<
 
-    >>meteoro        pegasus<<meteoro pegasus
+>>>>>>>> 02
+comi    sorvete
+========
+comi sorvete
+<<<<<<<<
+
+>>>>>>>> 03
+meteoro          pegasus
+========
+meteoro pegasus
+<<<<<<<<
+
+>>>>>>>> 04
+galinha pintadinha
+========
+galinha pintadinha
+<<<<<<<<
+--->

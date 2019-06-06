@@ -1,9 +1,8 @@
 # @0115 #6_str L3 - Máquina de Datilografar Quebrada
 ## @qxcode
-
 # @qxcode
 
-# ![](capa.jpg)
+![](capa.jpg)
 
 ### Motivação
 
@@ -24,37 +23,50 @@ Faça um programa que dado um numero representando a tecla quebrada e o numero n
 
 ### Entrada e Saída
 
-### 
-
-Entrada:
+#### Entrada:
 
 *   A primeira um digito entre 1 e 9 representando a tecla quebrada
 *   A segunda o número que foi negociado inicialmente, com até 100 dígitos.
 
-Saída:
+#### Saída:
 
 *   Você deve imprimir uma linha contendo um único inteiro V, o valor numérico representado de fato no contrato.
 
 ### Exemplos
 
-### 
+```
+>>>>>>>>
+5
+5000000
+========
+0
+<<<<<<<<
 
-    
+>>>>>>>>
+3
+123456
+========
+12456
+<<<<<<<<
 
-### 
+>>>>>>>>
+9
+23454324543423
+========
+23454324543423
+<<<<<<<<
 
-    
+>>>>>>>>
+9
+99999999991999999
+========
+'1"
+<<<<<<<<
 
-### 
-
-    
-
-### 
-
-    
-
-    >>>>>>>>
-    7777
-    ========
-    0
-    <<<<<<<<
+>>>>>>>>
+7
+777
+========
+0
+<<<<<<<<
+```

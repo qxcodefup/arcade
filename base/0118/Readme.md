@@ -1,11 +1,8 @@
 # @0118 #6_str L3 - Aniquilando Ultrons V3
 ## @qxcode
-
 # @qxcode
 
-# ![](capa.jpg)
-
-### Motivação
+![](capa.jpg)
 
 ### Ação
 
@@ -18,8 +15,6 @@ indique que este pode ser ultron Chefe. Para ser Ultron, MAIS de 50%
 das letras precisa coincidir. Para cada pessoa no ambiente escreva  
 "pessoa", "ultron" ou "chefe".
 
-  
-
 Ex:  
 códido ultron: "ultron"  
 ambiente:"ruame ronuai Lion uuuaaaa ronia kkk luno"
@@ -28,42 +23,38 @@ Saida: "pessoa ultron chefe pessoa ultron pessoa chefe"
 
 ### Entrada e Saida
 
-### 
-
-Entrada:
+#### Entrada:
 
 *   linha 1: codigo ultron de N letras( 1 < N < 10)
 *   linha 2: linhas de ate X caracteres(1 < X < 500),  com varios codigos de pessoas, cada código de pessoas tem ate Y caracteres (1 < Y < 20) contendo apenas letras minusculas  
     maiusculas. Os codigos de pessoas são separados por espaço.
 
-Saida:
+#### Saida:
 
 *   uma linha contendo para cada pessoa a saida se ela é "ultron",  
     "pessoa" ou "chefe"
 
 ### Exemplos
-  
-    >>>>>>>>
-    ultron  
-    ruame ronuai Lion uuuaaaa ronia kkk luno  
-    ========
-    pessoa ultron chefe pessoa ultron pessoa chefe
-    <<<<<<<<
 
-### 
+```
+>>>>>>>>
+ultron
+ruame ronuai Lion uuuaaaa ronia kkk luno
+========
+pessoa ultron chefe pessoa ultron pessoa chefe
+<<<<<<<<
 
-    >>>>>>>>
-    aeiou  
-    arta euio auiaoauio riu pegasus
-    ========  
-    pessoa chefe chefe ultron pessoa
-    <<<<<<<<  
+>>>>>>>>
+aeiou  
+arta euio auiaoauio riu pegasus
+========  
+pessoa chefe chefe ultron pessoa
+<<<<<<<<
 
-### 
-
-    >>>>>>>>  
-    aer  
-    arta euio auiaoauio riu pegasus rea  
-    ========
-    ultron pessoa pessoa pessoa pessoa chefe
-    <<<<<<<<
+>>>>>>>>
+aer
+arta euio auiaoauio riu pegasus rea
+========
+ultron pessoa pessoa pessoa pessoa chefe
+<<<<<<<<
+```

@@ -1,9 +1,8 @@
 # @0114 6_str L3 - MeU WoRd QuEbRoU - Formatação de Case!
 ## @qxcode
-
 # @qxcode
 
-# ![](capa.jpg)
+![](capa.jpg)
 
 ### Motivação
 
@@ -19,52 +18,43 @@ A entrada é composta de minusculas, maiúsculas, números, pontuações e espa�
 
 ### Entrada e Saída
 
-Entrada:
+#### Entrada:
 
 *   Texto com até 100 caracteres.
 *   Caracteres representando a formatação (M, m, p, i).
 
-Saída:
+#### Saída:
 
-*   O texto formatado.  
-      
-    
+*   O texto formatado.
 
 ### Exemplos
 
-    >>>>>>>>
-    O Pato e o frango ja tao cozidos, comam!
-    M
-    ========
-    O PATO E O FRANGO JA TAO COZIDOS, COMAM!
-    <<<<<<<<
-    
+```
+>>>>>>>>
+O Pato e o frango ja tao cozidos, comam!
+M
+========
+O PATO E O FRANGO JA TAO COZIDOS, COMAM!
+<<<<<<<<
 
-* * *
+>>>>>>>>
+O Pato e o frango ja tao cozidos, comam!
+m
+========
+o pato e o frango ja tao cozidos, comam!
+<<<<<<<<
 
-    >>>>>>>>
-    O Pato e o frango ja tao cozidos, comam!
-    m
-    ========
-    o pato e o frango ja tao cozidos, comam!
-    <<<<<<<<
-    
+>>>>>>>>
+O Pato e o frango ja tao cozidos, comam!
+p
+========
+o Pato e o Frango Ja Tao Cozidos, Comam!
+<<<<<<<<
 
-* * *
-
-    >>>>>>>>
-    O Pato e o frango ja tao cozidos, comam!
-    p
-    ========
-    o Pato e o Frango Ja Tao Cozidos, Comam!
-    <<<<<<<<
-    
-
-* * *
-
-    >>>>>>>>
-    O Pato e o frango ja tao cozidos, comam!
-    i
-    ========
-    o pATO E O FRANGO JA TAO COZIDOS, COMAM!
-    <<<<<<<<
+>>>>>>>>
+O Pato e o frango ja tao cozidos, comam!
+i
+========
+o pATO E O FRANGO JA TAO COZIDOS, COMAM!
+<<<<<<<<
+```

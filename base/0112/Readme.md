@@ -1,9 +1,8 @@
 # @0112 #6_str L3 - Rocicleia e o Locioreca - Anagramas!
 ## @qxcode
+# @qxcode
 
- # @qxcode 
-
-### ![](capa.jpg)  
+![](capa.jpg)
 
 ### Motivação
 
@@ -12,69 +11,64 @@ Licioroca não sabia português, mas sabia programar. Ajude Licioroca a fazer um
 
 Uma palavra é anagrama de outra se é formada pelas mesmas letras nas mesmas QUANTIDADES, mas em qualquer ordem.
 
-  
-
 ### Ação
 
 Dadas duas palavras, imprima sim se elas são anagramas e não se não são anagramas.
 
-  
-
 ### Entrada e Saída
 
-### 
-
-Entrada:
+#### Entrada:
 
 *   A entrada são duas palavras, uma por linha, apenas caracteres minúsculos e sem espaços.
 
-Saída:
+#### Saída:
 
-*   A saída deve ser apenas "sim" ou "nao".  
-    
+*   A saída deve ser apenas "sim" ou "nao".
 
 ### Exemplos
 
-### 
+```
+>>>>>>>>
+paralelepipedo
+pepidoelelapar
+========
+sim
+<<<<<<<<
 
-    >>>>>>>>  
-    paralelepipedo  
-    pepidoelelapar  
-    ========
-    sim
-    <<<<<<<<  
+>>>>>>>>
+rocicleia
+licioreca
+========
+sim
+<<<<<<<<
 
-### 
+>>>>>>>>
+batata
+tabata
+========
+sim
+<<<<<<<<
 
-    >>>>>>>>  
-    rocicleia  
-    licioreca 
-    ======== 
-    sim
-    <<<<<<<<  
+>>>>>>>>
+borboleta
+brobuleta
+========
+nao
+<<<<<<<<
 
-### 
+>>>>>>>>
+amor
+roam
+========
+sim
+<<<<<<<<
+```
 
-    >>>>>>>>  
-    batata  
-    tabata
-    ========  
-    sim
-    <<<<<<<<  
-
-### 
-
-    \>>>>>>>>  
-    borboleta  
-    brobuleta 
-    ======== 
-    nao
-    <<<<<<<<  
-
-### 
-
-    >>>>>>>>
-    amorroam
-    ========
-    sim
-    <<<<<<<<
+<!---
+>>>>>>>> 01
+pegasus
+susgae
+========
+nao
+<<<<<<<<
+--->

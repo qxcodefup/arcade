@@ -1,9 +1,8 @@
 # @0116 #6_str L3 - Roda Roda Jequiti - Jogo da Forca!
 ## @qxcode
-
 # @qxocde
 
-### ![](capa.jpeg)  
+![](capa.jpeg)
 
 ### Motivação
 
@@ -37,24 +36,46 @@ Ex: "**Seu Pilantra!**" , "**yzxa**" , '**\***' -> "**\*\*\* \*\*\*a\*\*\*a!**"
 
 ### Entrada e Saída
 
-### 
-
-Entrada:
+#### Entrada:
 
 *   Frase(max 100 char),
 *   Chutes (max 26 char) 
 *   Caractere de marcação (1 char).
 
-Saída:
+#### Saída:
 
 *   Uma frase com as letras chutadas corretamente e o caractere marcador nas letras erradas.
 
 ### Exemplos
 
-### 
+```
+>>>>>>>>
+Teco-Teco!tbxyan_
+========
+T___-T___!
+<<<<<<<<
 
-    >>>>>>>>
-    Teco-Teco!tbxyan_
-    ========
-    T___-T___!
-    <<<<<<<<
+>>>>>>>>
+extraordinario
+aeioubcdfgh
+*
+========
+e***ao*di*a*io
+<<<<<<<<
+
+>>>>>>>>
+Teco-Teco!
+tbxyan
+_
+========
+T___-T___!
+<<<<<<<<
+
+>>>>>>>>
+Seu Pilantra!
+yzxa
+*
+========
+*** ***a***a!
+<<<<<<<<
+```

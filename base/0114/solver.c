@@ -1,16 +1,18 @@
 #include <stdio.h>
     
-    char minusculo (char c){
-    if(c >= 'A' && c <= 'Z') return c + ('a' - 'A');
-    return c;
-    }
-    
-    char maiusculo (char c){
-    if(c >= 'a' && c <= 'z') return c - ('a' - 'A');
+char minusculo (char c){
+    if(c >= 'A' && c <= 'Z')
+        return c + ('a' - 'A');
     return c;
 }
 
-    int main () {
+char maiusculo (char c){
+    if(c >= 'a' && c <= 'z')
+        return c - ('a' - 'A');
+    return c;
+}
+
+int main (){
     int i;
     
     char texto[100];
@@ -19,7 +21,7 @@
     scanf("%99[^\n]\n", texto);
     scanf("%c", &opcao);
     
-    switch (opcao) {
+    switch (opcao){
         
         case 'm':
             for(i = 0; texto[i] != 0; i++)
@@ -50,5 +52,6 @@
             }
             break;
     }
+    printf("\n");
     return 0;
 }
