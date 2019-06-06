@@ -1,0 +1,377 @@
+case=01
+input=35 60 75
+output="N
+"
+grade reduction=100%
+
+
+case=02
+input=33 40 20
+output="N
+"
+grade reduction=100%
+
+
+case=03
+input=80 80 40
+output="N
+"
+grade reduction=100%
+
+
+case=04
+input=40 40 30
+output="N
+"
+grade reduction=100%
+
+
+case=05
+input=55 68 67
+output="S
+"
+grade reduction=100%
+
+
+case=06
+input=66 80 80
+output="N
+"
+grade reduction=100%
+
+
+case=07
+input=71 47 15
+output="N
+"
+grade reduction=100%
+
+
+case=08
+input=62 55 27
+output="N
+"
+grade reduction=100%
+
+
+case=09
+input=0 0 0
+output="N
+"
+grade reduction=100%
+
+
+case=10
+input=33 50 60
+output="N
+"
+grade reduction=100%
+
+
+case=11
+input=44 50 20
+output="N
+"
+grade reduction=100%
+
+
+case=12
+input=33 60 50
+output="S
+"
+grade reduction=100%
+
+
+case=13
+input=71 32 32
+output="N
+"
+grade reduction=100%
+
+
+case=14
+input=90 91 90
+output="S
+"
+grade reduction=100%
+
+
+case=15
+input=90 91 91
+output="N
+"
+grade reduction=100%
+
+
+case=16
+input=90 91 94
+output="N
+"
+grade reduction=100%
+
+
+case=17
+input=2 18 48
+output="N
+"
+grade reduction=100%
+
+
+case=18
+input=61 62 60
+output="S
+"
+grade reduction=100%
+
+
+case=19
+input=61 60 62
+output="N
+"
+grade reduction=100%
+
+
+case=20
+input=80 80 80
+output="N
+"
+grade reduction=100%
+
+
+case=21
+input=30 28 32
+output="N
+"
+grade reduction=100%
+
+
+case=22
+input=40 50 45
+output="N
+"
+grade reduction=100%
+
+
+case=23
+input=90 60 92
+output="N
+"
+grade reduction=100%
+
+
+case=24
+input=90 90 92
+output="N
+"
+grade reduction=100%
+
+
+case=25
+input=32 74 19
+output="S
+"
+grade reduction=100%
+
+
+case=26
+input=75 75 75
+output="N
+"
+grade reduction=100%
+
+
+case=27
+input=100 100 100
+output="N
+"
+grade reduction=100%
+
+
+case=28
+input=23 97 70
+output="S
+"
+grade reduction=100%
+
+
+case=29
+input=14 8 62
+output="N
+"
+grade reduction=100%
+
+
+case=30
+input=10 12 12
+output="N
+"
+grade reduction=100%
+
+
+case=31
+input=100 95 97
+output="N
+"
+grade reduction=100%
+
+
+case=32
+input=99 96 93
+output="N
+"
+grade reduction=100%
+
+
+case=33
+input=10 10 10
+output="N
+"
+grade reduction=100%
+
+
+case=34
+input=0 0 0
+output="N
+"
+grade reduction=100%
+
+
+case=35
+input=50 50 50
+output="N
+"
+grade reduction=100%
+
+
+case=36
+input=96 91 14
+output="N
+"
+grade reduction=100%
+
+
+case=37
+input=49 51 49
+output="S
+"
+grade reduction=100%
+
+
+case=38
+input=50 49 50
+output="N
+"
+grade reduction=100%
+
+
+case=39
+input=50 50 50
+output="N
+"
+grade reduction=100%
+
+
+case=40
+input=51 50 49
+output="N
+"
+grade reduction=100%
+
+
+case=41
+input=55 55 10
+output="N
+"
+grade reduction=100%
+
+
+case=42
+input=10 40 60
+output="N
+"
+grade reduction=100%
+
+
+case=43
+input=10 51 60
+output="N
+"
+grade reduction=100%
+
+
+case=44
+input=10 65 40
+output="S
+"
+grade reduction=100%
+
+
+case=45
+input=20 30 7
+output="N
+"
+grade reduction=100%
+
+
+case=46
+input=77 3 77
+output="N
+"
+grade reduction=100%
+
+
+case=47
+input=49 49 49
+output="N
+"
+grade reduction=100%
+
+
+case=48
+input=50 50 50
+output="N
+"
+grade reduction=100%
+
+
+case=49
+input=51 51 51
+output="N
+"
+grade reduction=100%
+
+
+case=50
+input=3 3 77
+output="N
+"
+grade reduction=100%
+
+
+case=51
+input=77 3 3
+output="N
+"
+grade reduction=100%
+
+
+case=52
+input=3 77 3
+output="S
+"
+grade reduction=100%
+
+
+case=53
+input=77 77 3
+output="N
+"
+grade reduction=100%
+
+
+case=54
+input=3 77 77
+output="N
+"
+grade reduction=100%
+

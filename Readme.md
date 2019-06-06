@@ -29,10 +29,14 @@
 
 ## 2_sel
 
+- [Frota de Táxi - OBI 2005](base/0157/Readme.md#qxcode)
 - [L1 - Ambos Divisíveis](base/0025/Readme.md#qxcode)
 - [L1 - Angulo Cartesiano - Operador Modular](base/0062/Readme.md#qxcode)
 - [L1 - Calculadora](base/0015/Readme.md#qxcode)
 - [L1 - Divisão Inteira e Quebrada](base/0024/Readme.md#qxcode)
+- [L1 - OBI 2015 - Fase 2 - Nível 1 - Impedido!](base/0151/Readme.md#qxcode)
+- [L1 - OBI 2016 - Fase1 - Nível 1 - Jogo de par ou ímpar](base/0156/Readme.md#qxcode)
+- [L1 - OBI 2016 - Fase1 - Nível 1 - Plantação de Morangos!](base/0155/Readme.md#qxcode)
 - [L1 - Positivo, Nulo ou Negativo?](base/0026/Readme.md#qxcode)
 - [L2 - Adedonha na Califórnia](base/0027/Readme.md#qxcode)
 - [L2 - Arrendondar](base/0018/Readme.md#qxcode)
@@ -61,6 +65,11 @@
 - [L4 - Dorme Tarde Acordar Cedo!](base/0043/Readme.md#qxcode)
 - [L4 - Rufus e Ordenação!](base/0042/Readme.md#qxcode)
 
+## 3_REP
+
+- [Bafo - OBI 2005](base/0160/Readme.md#qxcode)
+- [Vivo ou Morto - OBI 2005](base/0161/Readme.md#qxcode)
+
 ## 3_rep
 
 - [L1 - Calça Zeze de Camargo - Mínimo](base/0056/Readme.md#qxcode)
@@ -85,6 +94,8 @@
 - [L4 - Quebrador de Copos](base/0054/Readme.md#qxcode)
 - [L4 - Sapinho matemático não morrendo no poço](base/0065/Readme.md#qxcode)
 - [L4 - Spok Palíndromo](base/0066/Readme.md#qxcode)
+- [Mini-Poker - OBI2005](base/0162/Readme.md#qxcode)
+- [Trilhas - OBI 2005](base/0158/Readme.md#qxcode)
 
 ## 4_vet
 
@@ -121,6 +132,14 @@
 - [MMC](base/0091/Readme.md#qxcode)
 - [Primo](base/0090/Readme.md#qxcode)
 
+## 5_
+
+- [mat L3 - OBI 2015 - Fase 2 - Nível Júnior - Código](base/0154/Readme.md#qxcode)
+
+## 5_MAT
+
+- [Campo de Minhocas - OBI 2005](base/0159/Readme.md#qxcode)
+
 ## 5_mat
 
 - [L2 - Bingo!](base/0130/Readme.md#qxcode)
@@ -131,8 +150,14 @@
 - [L2 - Soma de matrizes](base/0150/Readme.md#qxcode)
 - [L3 - Campo Minado](base/0129/Readme.md#qxcode)
 - [L3 - Matriz Simétrica](base/0131/Readme.md#qxcode)
+- [L3 - OBI 2015 - Fase 2 - Nível 1 - Torre](base/0153/Readme.md#qxcode)
 - [L3 - Subdiagonais](base/0132/Readme.md#qxcode)
 - [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
+
+## 6_char
+
+- [L2 - Eribelton e a Ascologia V2 - Buscando a perfeição](base/0109/Readme.md#qxcode)
+- [L3 - Eribelton e a Ascologia V3 - Busca do mínimo](base/0113/Readme.md#qxcode)
 
 ## 6_str
 
@@ -148,17 +173,24 @@
 - [L2 - Gagueira V1 - Duplicar Palavras](base/0097/Readme.md#qxcode)
 - [L2 - Gritando em Caixa Alta - Invertendo o Case da frase!](base/0093/Readme.md#qxcode)
 - [L2 - Guerra Civil no Universo Marvel](base/0180/Readme.md#qxcode)
+- [L2 - Meu cachorro comeu minha tarefa - Retirar espaços](base/0111/Readme.md#qxcode)
 - [L2 - Numerão Divisível por 11](base/0125/Readme.md#qxcode)
+- [L2 - Organizando Ru - Homens e Mulheres!](base/0110/Readme.md#qxcode)
 - [L2 - Somando numeros](base/0181/Readme.md#qxcode)
 - [L2 - Valdiskley e a cifra V2!](base/0106/Readme.md#qxcode)
 - [L2 - Vogais e Consoantes - Identificação e Montagem!](base/0094/Readme.md#qxcode)
 - [L3 - Amo a Amora meu Amor - Contar Substrings!](base/0127/Readme.md#qxcode)
+- [L3 - Aniquilando Ultrons V3](base/0118/Readme.md#qxcode)
 - [L3 - Francês é Fresco - Juntar palavras](base/0099/Readme.md#qxcode)
+- [L3 - Identificando Ultrons V2](base/0117/Readme.md#qxcode)
 - [L3 - Identificando elementos](base/0108/Readme.md#qxcode)
 - [L3 - Jack Sparrow e o Beijinho - Alternar Case](base/0178/Readme.md#qxcode)
 - [L3 - Jason e Krueguer - busca de maior ocorrencia](base/0098/Readme.md#qxcode)
 - [L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados](base/0102/Readme.md#qxcode)
+- [L3 - Máquina de Datilografar Quebrada](base/0115/Readme.md#qxcode)
 - [L3 - Prof Muquirana - Busca máximo por critério](base/0179/Readme.md#qxcode)
+- [L3 - Rocicleia e o Locioreca - Anagramas!](base/0112/Readme.md#qxcode)
+- [L3 - Roda Roda Jequiti - Jogo da Forca!](base/0116/Readme.md#qxcode)
 - [L3 - Separando tokens](base/0175/Readme.md#qxcode)
 - [L3 - Valdiskley e cifras históricas!](base/0105/Readme.md#qxcode)
 - [L4 - Conversa de Traficantes - Substituições de substrings](base/0124/Readme.md#qxcode)
@@ -166,6 +198,7 @@
 - [L4 - Matéria e Antimatéia - Colisão entre palavras!](base/0119/Readme.md#qxcode)
 - [L4 - Mário e o Assassins Creed - Cenário](base/0121/Readme.md#qxcode)
 - [L4 - Nao se bububula - Gagueira V2!](base/0122/Readme.md#qxcode)
+- [L4 - OBI 2015 - Fase 2 - Nível 1 - Letras](base/0152/Readme.md#qxcode)
 - [L4 - Separe Pneumatocito - Separação de Palavras!](base/0103/Readme.md#qxcode)
 - [L4 - Sorvete suor casaca chicletes - Letras em Comum!](base/0123/Readme.md#qxcode)
 - [L4 - Valdiskley e a Cifra v3!](base/0107/Readme.md#qxcode)

@@ -1,0 +1,23 @@
+case = 0
+input =O Pato e o frango ja tao cozidos, comam!
+M
+output="O PATO E O FRANGO JA TAO COZIDOS, COMAM!"
+grade reduction = 100%
+
+case = 0
+input =O Pato e o frango ja tao cozidos, comam!
+m
+output="o pato e o frango ja tao cozidos, comam!"
+grade reduction = 100%
+
+case = 0
+input =O Pato e o frango ja tao cozidos, comam!
+p
+output="o Pato e o Frango Ja Tao Cozidos, Comam!"
+grade reduction = 100%
+
+case = 0
+input =O Pato e o frango ja tao cozidos, comam!
+i
+output="o pATO E O FRANGO JA TAO COZIDOS, COMAM!"
+grade reduction = 100%

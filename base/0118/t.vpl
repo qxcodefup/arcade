@@ -1,0 +1,17 @@
+case=0
+input=ultron
+ruame ronuai luon uuuaaaa ronia kkk luno
+output="pessoa ultron chefe pessoa ultron pessoa chefe"
+grade reduction=100%
+
+case=1
+input=aeiou
+arta euio auiaoauio riu pegasus
+output="pessoa chefe chefe ultron pessoa"
+grade reduction=100%
+
+case=2
+input=aer
+arta euio auiaoauio riu pegasus rea
+output="ultron pessoa pessoa pessoa pessoa chefe"
+grade reduction=100%

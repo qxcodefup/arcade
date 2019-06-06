@@ -1,0 +1,29 @@
+case=0
+input=Ana
+output="sem sorte"
+grade reduction=100%
+
+case=1
+input=David
+output="Davidp"
+grade reduction=100%
+
+case=2
+input=Ticiany
+output="sem sorte"
+grade reduction=100%
+
+case=3
+input=Alfredo
+output="Alfredoc"
+grade reduction=100%
+
+case=4
+input=Maikou
+output="sem sorte"
+grade reduction=100%
+
+case=5
+input=Dhaquison
+output="Dhaquisonn"
+grade reduction=100%

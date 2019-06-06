@@ -1,0 +1,19 @@
+case=0
+input=a   almofada
+output="a almofada"
+grade reduction=100%
+
+case=1
+input=comi    sorvete
+output="comi sorvete"
+grade reduction=100%
+
+case=2
+input=meteoro          pegasus
+output="meteoro pegasus"
+grade reduction=100%
+
+case=3
+input=galinha pintadinha
+output="galinha pintadinha"
+grade reduction=100%
