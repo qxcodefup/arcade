@@ -148,11 +148,6 @@
 - [L3 - Subdiagonais](base/0132/Readme.md#qxcode)
 - [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
 
-## 6_char
-
-- [L2 - Eribelton e a Ascologia V2 - Buscando a perfeição](base/0109/Readme.md#qxcode)
-- [L3 - Eribelton e a Ascologia V3 - Busca do mínimo](base/0113/Readme.md#qxcode)
-
 ## 6_str
 
 - [L1 - Eribelton e a Ascologia V1 - Somar Asc](base/0173/Readme.md#qxcode)
@@ -164,6 +159,7 @@
 - [L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!](base/0095/Readme.md#qxcode)
 - [L2 - Contar Leds](base/0096/Readme.md#qxcode)
 - [L2 - Crushômetro](base/0126/Readme.md#qxcode)
+- [L2 - Eribelton e a Ascologia V2 - Buscando a perfeição](base/0109/Readme.md#qxcode)
 - [L2 - Gagueira V1 - Duplicar Palavras](base/0097/Readme.md#qxcode)
 - [L2 - Gritando em Caixa Alta - Invertendo o Case da frase!](base/0093/Readme.md#qxcode)
 - [L2 - Guerra Civil no Universo Marvel](base/0180/Readme.md#qxcode)
@@ -175,6 +171,7 @@
 - [L2 - Vogais e Consoantes - Identificação e Montagem!](base/0094/Readme.md#qxcode)
 - [L3 - Amo a Amora meu Amor - Contar Substrings!](base/0127/Readme.md#qxcode)
 - [L3 - Aniquilando Ultrons V3](base/0118/Readme.md#qxcode)
+- [L3 - Eribelton e a Ascologia V3 - Busca do mínimo](base/0113/Readme.md#qxcode)
 - [L3 - Francês é Fresco - Juntar palavras](base/0099/Readme.md#qxcode)
 - [L3 - Identificando Ultrons V2](base/0117/Readme.md#qxcode)
 - [L3 - Identificando elementos](base/0108/Readme.md#qxcode)

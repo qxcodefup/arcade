@@ -116,8 +116,6 @@
 0154: @0154 #5_mat L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
 0132: @0132 #5_mat L3 - Subdiagonais
 0007: @0007 #5_mat L4 - Tetris (Fazendo a peça cair)
-0109: @0109 #6_char L2 - Eribelton e a Ascologia V2 - Buscando a perfeição
-0113: @0113 #6_char L3 - Eribelton e a Ascologia V3 - Busca do mínimo
 0173: @0200 #6_str L1 - Eribelton e a Ascologia V1 - Somar Asc
 0092: @0093 #6_str L1 - LP da Xura - Inverter String!
 0104: @0104 #6_str L1 - Maiúsculo, Minusculo e Dígito!
@@ -127,6 +125,7 @@
 0095: @0095 #6_str L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!
 0096: @0096 #6_str L2 - Contar Leds
 0126: @0073 #6_str L2 - Crushômetro
+0109: @0109 #6_str L2 - Eribelton e a Ascologia V2 - Buscando a perfeição
 0097: @0097 #6_str L2 - Gagueira V1 - Duplicar Palavras
 0093: @0094 #6_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
 0180: @0180 #6_str L2 - Guerra Civil no Universo Marvel
@@ -138,6 +137,7 @@
 0094: @0094 #6_str L2 - Vogais e Consoantes - Identificação e Montagem!
 0127: @0073 #6_str L3 - Amo a Amora meu Amor - Contar Substrings!
 0118: @0118 #6_str L3 - Aniquilando Ultrons V3
+0113: @0113 #6_str L3 - Eribelton e a Ascologia V3 - Busca do mínimo
 0099: @0099 #6_str L3 - Francês é Fresco - Juntar palavras
 0117: @0117 #6_str L3 - Identificando Ultrons V2
 0108: @0108 #6_str L3 - Identificando elementos
