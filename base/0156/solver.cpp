@@ -1,19 +1,25 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() 
-{
-	ios::sync_with_stdio(0);
-	int n;	
-	cin >> n;
+int main() {
+	int p; 
+	cin >> p;
+
 	int a = 0, b = 0;
-	while (n--)
-	{
-		int x; cin >> x;
-		a = !a;
-		if (x == 2) b = !b;
-	}
-	cout << a << endl;
-	cout << b << endl;
+	cin >> a >> b;
+
+	if((a + b) % 2 == 0)
+		if(p == 0)
+			cout << "0" << endl;
+		else
+			cout << "1" << endl;
+	else
+		if(p == 0)
+			cout << "1" << endl;
+		else
+			cout << "0" << endl;
+	
+
+	return 0;
 }
 

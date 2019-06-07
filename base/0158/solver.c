@@ -4,14 +4,13 @@ int main() {
 	float a, g, ra, rg, al, ga;
 
 	scanf("%f %f %f %f", &a, &g, &ra, &rg);
-	al=a/ra;
-	ga=g/rg;
+	al = a / ra;
+	ga = g / rg;
 
-	if (al<ga) {
+	if (al<ga)
 		printf("A\n");
-	} else {
+	else
 		printf("G\n");
-	}
 
 	return 0;
 }

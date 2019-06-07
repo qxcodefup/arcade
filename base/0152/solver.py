@@ -1,5 +1,5 @@
 #!/usr/bin/env python2.7
-s = raw_input()
+s = input()
 n = len(s)
 ans = 0
 tab = {}
@@ -11,7 +11,7 @@ for i in range(n):
 	tab[s[i]] = tmp + 1
 	ans = tab[s[i]] if tab[s[i]] > ans else ans
 
-print ans
+print (ans)
 
  ############################################################################
  # Arthur Pratti Dadalto

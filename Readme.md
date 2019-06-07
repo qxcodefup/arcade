@@ -132,16 +132,9 @@
 - [MMC](base/0091/Readme.md#qxcode)
 - [Primo](base/0090/Readme.md#qxcode)
 
-## 5_
-
-- [mat L3 - OBI 2015 - Fase 2 - Nível Júnior - Código](base/0154/Readme.md#qxcode)
-
-## 5_MAT
-
-- [Campo de Minhocas - OBI 2005](base/0159/Readme.md#qxcode)
-
 ## 5_mat
 
+- [Campo de Minhocas - OBI 2005](base/0159/Readme.md#qxcode)
 - [L2 - Bingo!](base/0130/Readme.md#qxcode)
 - [L2 - Deu a louca no Imperador!](base/0012/Readme.md#qxcode)
 - [L2 - Quadrado Mágico](base/0134/Readme.md#qxcode)
@@ -151,6 +144,7 @@
 - [L3 - Campo Minado](base/0129/Readme.md#qxcode)
 - [L3 - Matriz Simétrica](base/0131/Readme.md#qxcode)
 - [L3 - OBI 2015 - Fase 2 - Nível 1 - Torre](base/0153/Readme.md#qxcode)
+- [L3 - OBI 2015 - Fase 2 - Nível Júnior - Código](base/0154/Readme.md#qxcode)
 - [L3 - Subdiagonais](base/0132/Readme.md#qxcode)
 - [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
 
