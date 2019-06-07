@@ -65,13 +65,9 @@
 - [L4 - Dorme Tarde Acordar Cedo!](base/0043/Readme.md#qxcode)
 - [L4 - Rufus e Ordenação!](base/0042/Readme.md#qxcode)
 
-## 3_REP
-
-- [Bafo - OBI 2005](base/0160/Readme.md#qxcode)
-- [Vivo ou Morto - OBI 2005](base/0161/Readme.md#qxcode)
-
 ## 3_rep
 
+- [Bafo - OBI 2005](base/0160/Readme.md#qxcode)
 - [L1 - Calça Zeze de Camargo - Mínimo](base/0056/Readme.md#qxcode)
 - [L1 - Dividindo pares de sapatos pra três](base/0013/Readme.md#qxcode)
 - [L1 - Quantos Ultrons você vê - Contar Elemento](base/0055/Readme.md#qxcode)
@@ -96,6 +92,7 @@
 - [L4 - Spok Palíndromo](base/0066/Readme.md#qxcode)
 - [Mini-Poker - OBI2005](base/0162/Readme.md#qxcode)
 - [Trilhas - OBI 2005](base/0158/Readme.md#qxcode)
+- [Vivo ou Morto - OBI 2005](base/0161/Readme.md#qxcode)
 
 ## 4_vet
 

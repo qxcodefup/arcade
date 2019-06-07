@@ -45,8 +45,7 @@
 0001: @0001 #2_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
 0043: @0043 #2_sel L4 - Dorme Tarde Acordar Cedo!
 0042: @0042 #2_sel L4 - Rufus e Ordenação!
-0160: @0160 #3_REP Bafo - OBI 2005
-0161: @0161 #3_REP Vivo ou Morto - OBI 2005
+0160: @0160 #3_rep Bafo - OBI 2005
 0056: @0056 #3_rep L1 - Calça Zeze de Camargo - Mínimo
 0013: @0013 #3_rep L1 - Dividindo pares de sapatos pra três
 0055: @0055 #3_rep L1 - Quantos Ultrons você vê - Contar Elemento
@@ -71,6 +70,7 @@
 0066: @0066 #3_rep L4 - Spok Palíndromo
 0162: @0162 #3_rep Mini-Poker - OBI2005
 0158: @0158 #3_rep Trilhas - OBI 2005
+0161: @0161 #3_rep Vivo ou Morto - OBI 2005
 0085: @0085 #4_vet  L3 - Exército - Perto da morte
 0060: @0060 #4_vet L1 - Joelison Fernandes - Soma do maior e menor!
 0061: @0061 #4_vet L2 - Capoeira invertendo vetor!
