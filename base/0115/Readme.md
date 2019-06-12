@@ -1,4 +1,4 @@
-# @0115 #6_str L3 - Máquina de Datilografar Quebrada
+## @0115 #05_str L3 - Máquina de Datilografar Quebrada
 ## @qxcode
 # @qxcode
 

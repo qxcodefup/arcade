@@ -1,4 +1,4 @@
-## @0057 #3_rep L2 - Revolta em Portugal
+## @0057 #03_rep L2 - Revolta em Portugal
 ## @qxcode
 
 ![](capa.jpg)

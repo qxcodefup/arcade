@@ -1,4 +1,4 @@
-## @0086 #4_vet L4 - Coleção de Tazos - Quantos se repetem mais
+## @0086 #04_vet L4 - Coleção de Tazos - Quantos se repetem mais
 ## @qxcode
 
 ![](capa.jpg)

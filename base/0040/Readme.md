@@ -1,4 +1,4 @@
-## @0040 #2_sel L3 - Está Trabalhand ou Não!
+## @0040 #02_sel L3 - Está Trabalhand ou Não!
 ## @qxcode
 
 ![Funcionário preguiçoso](capa.jpg)

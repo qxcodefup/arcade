@@ -1,4 +1,4 @@
-## @0073 #6_str L4 - Conversa de Traficantes - Substituições de substrings
+## @0073 #05_str L4 - Conversa de Traficantes - Substituições de substrings
 ## @qxcode
 ## @qxcode  
 

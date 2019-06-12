@@ -1,4 +1,4 @@
-## @00102 #6_str L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados
+## @0102 #05_str L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados
 ## @qxcode
 
 ![]()

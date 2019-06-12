@@ -1,4 +1,4 @@
-# @0112 #6_str L3 - Rocicleia e o Locioreca - Anagramas!
+## @0112 #05_str L3 - Rocicleia e o Locioreca - Anagramas!
 ## @qxcode
 # @qxcode
 

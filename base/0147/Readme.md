@@ -1,4 +1,4 @@
-# @0147 #11_dict - Duelo
+## @0147 #11_dict - Duelo
 ## @qxcode
 
 ![](capa.jpg)

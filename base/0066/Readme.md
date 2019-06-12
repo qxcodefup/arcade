@@ -1,4 +1,4 @@
-## @0066 #3_rep L4 - Spok Palíndromo
+## @0066 #03_rep L3 - Spok Palíndromo
 ## @qxcode
 
 ![](capa.jpg)

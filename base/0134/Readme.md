@@ -1,4 +1,4 @@
-# @0134 #5_mat L2 - Quadrado Mágico
+## @0134 #06_mat L2 - Quadrado Mágico
 ## @qxcode
 
 # @qxcode

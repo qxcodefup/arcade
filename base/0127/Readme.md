@@ -1,4 +1,4 @@
-## @0073 #6_str L3 - Amo a Amora meu Amor - Contar Substrings!
+## @0073 #05_str L3 - Amo a Amora meu Amor - Contar Substrings!
 ## @qxcode
 
 ### Motivação

@@ -1,4 +1,4 @@
-## @0096 #6_str L2 - Contar Leds
+## @0096 #05_str L2 - Contar Leds
 ## @qxcode
 ## @qxcode 
 

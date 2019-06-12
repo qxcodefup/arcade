@@ -1,4 +1,4 @@
-## @0180 #6_str L2 - Guerra Civil no Universo Marvel
+## @0180 #05_str L2 - Guerra Civil no Universo Marvel
 ## @qxcode
 
 ![]()

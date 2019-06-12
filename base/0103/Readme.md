@@ -1,4 +1,4 @@
-## @0103 #6_str L4 - Separe Pneumatocito - Separação de Palavras!
+## @0103 #05_str L4 - Separe Pneumatocito - Separação de Palavras!
 ## @qxcode
 
 ![](capa.jpg)

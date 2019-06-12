@@ -1,4 +1,4 @@
-## @0046 #3_rep L2 - Jogo da Concentração
+## @0046 #03_rep L2 - Jogo da Concentração
 ## @qxcode
 
 ![numeros](capa.jpeg)

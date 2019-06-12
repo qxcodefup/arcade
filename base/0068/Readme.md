@@ -1,4 +1,4 @@
-## @0068 #4_vet L2 - Organizando a fila do RU - Separar Pares e Ímpares!
+## @0068 #04_vet L2 - Organizando a fila do RU - Separar Pares e Ímpares!
 ## @qxcode
 ##qxcode
 

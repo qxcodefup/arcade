@@ -1,4 +1,4 @@
-## @0101 #6_str L4 - Matéria e Antimatéia - Colisão entre palavras!
+## @0101 #05_str L4 - Matéria e Antimatéia - Colisão entre palavras!
 ## @qxcode
 
 ### Motivação  

@@ -1,4 +1,4 @@
-## @0056 #3_rep L1 - Calça Zeze de Camargo - Mínimo
+## @0056 #03_rep L1 - Calça Zeze de Camargo - Mínimo
 ## @qxcode
 
 ![](capa.jpg)

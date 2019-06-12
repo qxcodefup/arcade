@@ -1,4 +1,4 @@
-# @0140 #7_math - Contando caracteres recursivamente Laboratório Virtual de Programação
+## @0140 #07_rec L3 - Contando caracteres recursivamente
 ## @qxcode
 
 ![](capa.jpg)

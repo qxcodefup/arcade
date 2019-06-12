@@ -1,4 +1,4 @@
-## @0107 #6_str L4 - Valdiskley e a Cifra v3!
+## @0107 #05_str L4 - Valdiskley e a Cifra v3!
 ## @qxcode
 
 ![](capa.jpg)

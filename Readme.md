@@ -6,18 +6,7 @@
 # TAGS
 
 
-## 10_pont
-
-- [- Função que retorna vários valores por referência](base/0144/Readme.md#qxcode)
-- [- Troca de valores de variáveis](base/0143/Readme.md#qxcode)
-
-## 11_dict
-
-- [- Duelo](base/0147/Readme.md#qxcode)
-- [- Expressão](base/0148/Readme.md#qxcode)
-- [- Operações](base/0149/Readme.md#qxcode)
-
-## 1_ope
+## 01_ope
 
 - [L1 - Operações básicas (Imprimindo float formatado)](base/0000/Readme.md#qxcode)
 - [L2 - Formatando data (Zeros à esquerda)](base/0011/Readme.md#qxcode)
@@ -27,9 +16,8 @@
 - [L3 - Mete bala (Distância entre dois pontos)](base/0004/Readme.md#qxcode)
 - [L4 - Zerinho ou um americano (Calcule o vencedor)](base/0006/Readme.md#qxcode)
 
-## 2_sel
+## 02_sel
 
-- [Frota de Táxi - OBI 2005](base/0157/Readme.md#qxcode)
 - [L1 - Ambos Divisíveis](base/0025/Readme.md#qxcode)
 - [L1 - Angulo Cartesiano - Operador Modular](base/0062/Readme.md#qxcode)
 - [L1 - Calculadora](base/0015/Readme.md#qxcode)
@@ -53,6 +41,7 @@
 - [L3 - A hora do próximo segundo](base/0038/Readme.md#qxcode)
 - [L3 - Está Trabalhand ou Não!](base/0040/Readme.md#qxcode)
 - [L3 - Formiga da bundona](base/0034/Readme.md#qxcode)
+- [L3 - Frota de Táxi - OBI 2005](base/0157/Readme.md#qxcode)
 - [L3 - Jokenpo 15](base/0037/Readme.md#qxcode)
 - [L3 - Jokenpo das tartarugas!](base/0023/Readme.md#qxcode)
 - [L3 - Mercantil V2](base/0039/Readme.md#qxcode)
@@ -65,9 +54,8 @@
 - [L4 - Dorme Tarde Acordar Cedo!](base/0043/Readme.md#qxcode)
 - [L4 - Rufus e Ordenação!](base/0042/Readme.md#qxcode)
 
-## 3_rep
+## 03_rep
 
-- [Bafo - OBI 2005](base/0160/Readme.md#qxcode)
 - [L1 - Calça Zeze de Camargo - Mínimo](base/0056/Readme.md#qxcode)
 - [L1 - Dividindo pares de sapatos pra três](base/0013/Readme.md#qxcode)
 - [L1 - Quantos Ultrons você vê - Contar Elemento](base/0055/Readme.md#qxcode)
@@ -81,22 +69,22 @@
 - [L2 - Sapinho no Poço](base/0049/Readme.md#qxcode)
 - [L2 - Ônibus lotado](base/0047/Readme.md#qxcode)
 - [L3 - Arremesso de pedra na lua](base/0051/Readme.md#qxcode)
+- [L3 - Bafo - OBI 2005](base/0160/Readme.md#qxcode)
 - [L3 - Blackjack 21!](base/0063/Readme.md#qxcode)
 - [L3 - Conta Dígitos](base/0064/Readme.md#qxcode)
 - [L3 - Hoje tem sopa de coelho?](base/0052/Readme.md#qxcode)
+- [L3 - Mini-Poker - OBI2005](base/0162/Readme.md#qxcode)
 - [L3 - OBI 2016 - Fuga em helicóptero](base/0053/Readme.md#qxcode)
 - [L3 - Sapinho morrendo no poço](base/0059/Readme.md#qxcode)
+- [L3 - Spok Palíndromo](base/0066/Readme.md#qxcode)
+- [L3 - Vivo ou Morto - OBI 2005](base/0161/Readme.md#qxcode)
 - [L3 - Volta de 360 graus (Retirando os loops)](base/0016/Readme.md#qxcode)
 - [L4 - Quebrador de Copos](base/0054/Readme.md#qxcode)
 - [L4 - Sapinho matemático não morrendo no poço](base/0065/Readme.md#qxcode)
-- [L4 - Spok Palíndromo](base/0066/Readme.md#qxcode)
-- [Mini-Poker - OBI2005](base/0162/Readme.md#qxcode)
-- [Trilhas - OBI 2005](base/0158/Readme.md#qxcode)
-- [Vivo ou Morto - OBI 2005](base/0161/Readme.md#qxcode)
+- [L4 - Trilhas - OBI 2005](base/0158/Readme.md#qxcode)
 
-## 4_vet
+## 04_vet
 
-- [ L3 - Exército - Perto da morte](base/0085/Readme.md#qxcode)
 - [L1 - Joelison Fernandes - Soma do maior e menor!](base/0060/Readme.md#qxcode)
 - [L2 - Capoeira invertendo vetor!](base/0061/Readme.md#qxcode)
 - [L2 - Mostrar mão de cartas (Imprimir vetor formatado)](base/0101/Readme.md#qxcode)
@@ -110,10 +98,12 @@
 - [L3 - Batida Policial - Ordenando vetores](base/0073/Readme.md#qxcode)
 - [L3 - Bolinhas viciadas(contagem de repetições)](base/0010/Readme.md#qxcode)
 - [L3 - Cabeças vão rolar](base/0070/Readme.md#qxcode)
+- [L3 - Exército - Perto da morte](base/0085/Readme.md#qxcode)
 - [L3 - Jogando pião na rodinha](base/0100/Readme.md#qxcode)
 - [L3 - Jogo do Avesso](base/0078/Readme.md#qxcode)
 - [L3 - Jogo do Avesso V2](base/0079/Readme.md#qxcode)
 - [L3 - Loucura de Marquinhos - Decompor um inteiro](base/0081/Readme.md#qxcode)
+- [L3 - MMC de vários números.](base/0139/Readme.md#qxcode)
 - [L3 - Mercantil V3](base/0077/Readme.md#qxcode)
 - [L3 - Mário e o Assassins Creed - Parkour](base/0071/Readme.md#qxcode)
 - [L3 - OBI 2017 - Fase 1 - Botas Trocadas](base/0074/Readme.md#qxcode)
@@ -129,23 +119,7 @@
 - [MMC](base/0091/Readme.md#qxcode)
 - [Primo](base/0090/Readme.md#qxcode)
 
-## 5_mat
-
-- [Campo de Minhocas - OBI 2005](base/0159/Readme.md#qxcode)
-- [L2 - Bingo!](base/0130/Readme.md#qxcode)
-- [L2 - Deu a louca no Imperador!](base/0012/Readme.md#qxcode)
-- [L2 - Quadrado Mágico](base/0134/Readme.md#qxcode)
-- [L2 - Soldados em Posição](base/0133/Readme.md#qxcode)
-- [L2 - Soma de elementos de em uma matriz](base/0128/Readme.md#qxcode)
-- [L2 - Soma de matrizes](base/0150/Readme.md#qxcode)
-- [L3 - Campo Minado](base/0129/Readme.md#qxcode)
-- [L3 - Matriz Simétrica](base/0131/Readme.md#qxcode)
-- [L3 - OBI 2015 - Fase 2 - Nível 1 - Torre](base/0153/Readme.md#qxcode)
-- [L3 - OBI 2015 - Fase 2 - Nível Júnior - Código](base/0154/Readme.md#qxcode)
-- [L3 - Subdiagonais](base/0132/Readme.md#qxcode)
-- [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
-
-## 6_str
+## 05_str
 
 - [L1 - Eribelton e a Ascologia V1 - Somar Asc](base/0173/Readme.md#qxcode)
 - [L1 - LP da Xura - Inverter String!](base/0092/Readme.md#qxcode)
@@ -174,6 +148,7 @@
 - [L3 - Identificando elementos](base/0108/Readme.md#qxcode)
 - [L3 - Jack Sparrow e o Beijinho - Alternar Case](base/0178/Readme.md#qxcode)
 - [L3 - Jason e Krueguer - busca de maior ocorrencia](base/0098/Readme.md#qxcode)
+- [L3 - MeU WoRd QuEbRoU - Formatação de Case!](base/0114/Readme.md#qxcode)
 - [L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados](base/0102/Readme.md#qxcode)
 - [L3 - Máquina de Datilografar Quebrada](base/0115/Readme.md#qxcode)
 - [L3 - Prof Muquirana - Busca máximo por critério](base/0179/Readme.md#qxcode)
@@ -191,17 +166,41 @@
 - [L4 - Sorvete suor casaca chicletes - Letras em Comum!](base/0123/Readme.md#qxcode)
 - [L4 - Valdiskley e a Cifra v3!](base/0107/Readme.md#qxcode)
 
-## 7_math
+## 06_mat
 
-- [-  MMC de vários números. Laboratório Virtual de Programação](base/0139/Readme.md#qxcode)
-- [- Contando caracteres recursivamente Laboratório Virtual de Programação](base/0140/Readme.md#qxcode)
+- [L2 - Bingo!](base/0130/Readme.md#qxcode)
+- [L2 - Deu a louca no Imperador!](base/0012/Readme.md#qxcode)
+- [L2 - Quadrado Mágico](base/0134/Readme.md#qxcode)
+- [L2 - Soldados em Posição](base/0133/Readme.md#qxcode)
+- [L2 - Soma de elementos de em uma matriz](base/0128/Readme.md#qxcode)
+- [L2 - Soma de matrizes](base/0150/Readme.md#qxcode)
+- [L3 - Campo Minado](base/0129/Readme.md#qxcode)
+- [L3 - Jogo da vida](base/0300/Readme.md#qxcode)
+- [L3 - Matriz Simétrica](base/0131/Readme.md#qxcode)
+- [L3 - OBI 2015 - Fase 2 - Nível 1 - Torre](base/0153/Readme.md#qxcode)
+- [L3 - OBI 2015 - Fase 2 - Nível Júnior - Código](base/0154/Readme.md#qxcode)
+- [L3 - Subdiagonais](base/0132/Readme.md#qxcode)
+- [L4 - Campo de Minhocas - OBI 2005](base/0159/Readme.md#qxcode)
+- [L4 - Tetris (Fazendo a peça cair)](base/0007/Readme.md#qxcode)
 
-## 8_rec
+## 07_rec
 
-- [- Contando caracteres recursivamente](base/0145/Readme.md#qxcode)
-- [- Torres de Hanoi](base/0146/Readme.md#qxcode)
-- [Números de Fibonacci](base/0141/Readme.md#qxcode)
+- [L2 - Contando caracteres recursivamente](base/0145/Readme.md#qxcode)
+- [L2 - Números de Fibonacci](base/0141/Readme.md#qxcode)
+- [L3 - Contando caracteres recursivamente](base/0140/Readme.md#qxcode)
+- [L3 - Torres de Hanoi](base/0146/Readme.md#qxcode)
 
-## 9_aloc
+## 09_aloc
 
-- [- Vetor de strings com tamanhos variados](base/0142/Readme.md#qxcode)
+- [L2 - Vetor de strings com tamanhos variados](base/0142/Readme.md#qxcode)
+
+## 10_pont
+
+- [- Função que retorna vários valores por referência](base/0144/Readme.md#qxcode)
+- [- Troca de valores de variáveis](base/0143/Readme.md#qxcode)
+
+## 11_dict
+
+- [- Duelo](base/0147/Readme.md#qxcode)
+- [- Expressão](base/0148/Readme.md#qxcode)
+- [- Operações](base/0149/Readme.md#qxcode)

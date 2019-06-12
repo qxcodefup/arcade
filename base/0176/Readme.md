@@ -1,4 +1,4 @@
-## @0203 #6_str L1 - Substring na decoração - Obter Substrings!
+## @0203 #05_str L1 - Substring na decoração - Obter Substrings!
 ## @qxcode
 
 ![Substring](substring.png)

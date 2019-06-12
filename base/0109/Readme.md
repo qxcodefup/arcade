@@ -1,4 +1,4 @@
-# @0109 #6_str L2 - Eribelton e a Ascologia V2 - Buscando a perfeição
+## @0109 #05_str L2 - Eribelton e a Ascologia V2 - Buscando a perfeição
 ## @qxcode
 # @qxcode
 

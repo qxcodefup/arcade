@@ -1,4 +1,4 @@
-## @0178 #6_str L3 - Jack Sparrow e o Beijinho - Alternar Case
+## @0178 #05_str L3 - Jack Sparrow e o Beijinho - Alternar Case
 ## @qxcode
 
 ![](capa.jpg)
