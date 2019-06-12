@@ -10,7 +10,7 @@
 0005: @0005 #1_ope L3 - Ladrão de Goiabas (Contando viagens)
 0004: @0004 #1_ope L3 - Mete bala (Distância entre dois pontos)
 0006: @0006 #1_ope L4 - Zerinho ou um americano (Calcule o vencedor)
-0157: @0157 #2_sel Frota de Táxi - OBI 2005
+0157: @0157 #2_sel L3 - Frota de Táxi - OBI 2005
 0025: @0025 #2_sel L1 - Ambos Divisíveis
 0062: @0062 #2_sel L1 - Angulo Cartesiano - Operador Modular
 0015: @0015 #2_sel L1 - Calculadora
@@ -45,7 +45,7 @@
 0001: @0001 #2_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
 0043: @0043 #2_sel L4 - Dorme Tarde Acordar Cedo!
 0042: @0042 #2_sel L4 - Rufus e Ordenação!
-0160: @0160 #3_rep Bafo - OBI 2005
+0160: @0160 #3_rep L3 - Bafo - OBI 2005
 0056: @0056 #3_rep L1 - Calça Zeze de Camargo - Mínimo
 0013: @0013 #3_rep L1 - Dividindo pares de sapatos pra três
 0055: @0055 #3_rep L1 - Quantos Ultrons você vê - Contar Elemento
@@ -67,11 +67,11 @@
 0016: @0016 #3_rep L3 - Volta de 360 graus (Retirando os loops)
 0054: @0054 #3_rep L4 - Quebrador de Copos
 0065: @0065 #3_rep L4 - Sapinho matemático não morrendo no poço
-0066: @0066 #3_rep L4 - Spok Palíndromo
-0162: @0162 #3_rep Mini-Poker - OBI2005
-0158: @0158 #3_rep Trilhas - OBI 2005
-0161: @0161 #3_rep Vivo ou Morto - OBI 2005
-0085: @0085 #4_vet  L3 - Exército - Perto da morte
+0066: @0066 #3_rep L3 - Spok Palíndromo
+0162: @0162 #3_rep L3 - Mini-Poker - OBI2005
+0158: @0158 #3_rep L4 - Trilhas - OBI 2005
+0161: @0161 #3_rep L3 - Vivo ou Morto - OBI 2005
+0085: @0085 #4_vet L3 - Exército - Perto da morte
 0060: @0060 #4_vet L1 - Joelison Fernandes - Soma do maior e menor!
 0061: @0061 #4_vet L2 - Capoeira invertendo vetor!
 0101: @0101 #4_vet L2 - Mostrar mão de cartas (Imprimir vetor formatado)
@@ -143,7 +143,7 @@
 0108: @0108 #6_str L3 - Identificando elementos
 0178: @0178 #6_str L3 - Jack Sparrow e o Beijinho - Alternar Case
 0098: @0098 #6_str L3 - Jason e Krueguer - busca de maior ocorrencia
-0102: @00102 #6_str L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados
+0102: @0102 #6_str L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados
 0115: @0115 #6_str L3 - Máquina de Datilografar Quebrada
 0179: @0179 #6_str L3 - Prof Muquirana - Busca máximo por critério
 0112: @0112 #6_str L3 - Rocicleia e o Locioreca - Anagramas!
@@ -159,10 +159,10 @@
 0103: @0103 #6_str L4 - Separe Pneumatocito - Separação de Palavras!
 0123: @0073 #6_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
 0107: @0107 #6_str L4 - Valdiskley e a Cifra v3!
-0139: @139 #7_math -  MMC de vários números. Laboratório Virtual de Programação
-0140: @0140 #7_math - Contando caracteres recursivamente Laboratório Virtual de Programação
-0145: @0145 #8_rec - Contando caracteres recursivamente
-0146: @0146 #8_rec - Torres de Hanoi
-0141: @0141 #8_rec Números de Fibonacci
-0142: @0142 #9_aloc - Vetor de strings com tamanhos variados
-0114: @0114 6_str L3 - MeU WoRd QuEbRoU - Formatação de Case!
+0139: @0139 #7_math L3 -  MMC de vários números. 
+0140: @0140 #7_math L3 - Contando caracteres recursivamente 
+0145: @0145 #8_rec L2 - Contando caracteres recursivamente
+0146: @0146 #8_rec L3 - Torres de Hanoi
+0141: @0141 #8_rec L2 - Números de Fibonacci
+0142: @0142 #9_aloc L2 - Vetor de strings com tamanhos variados
+0114: @0114 #6_str L3 - MeU WoRd QuEbRoU - Formatação de Case!
