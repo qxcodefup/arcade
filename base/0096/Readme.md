@@ -1,6 +1,5 @@
 ## @0096 #05_str L2 - Contar Leds
 ## @qxcode
-## @qxcode 
 
 ![](capa.jpg)
 
@@ -10,8 +9,10 @@ João quer montar um painel de leds contendo diversos números. Ele não possui 
   
 ### Ação
 
-Considerando a configuração dos leds dos números abaixo, faça um algoritmo que ajude João a descobrir a quantidade de leds necessário para montar o valor.  
-  
+Considerando a configuração dos leds dos números abaixo, faça um algoritmo que ajude João a descobrir a quantidade de leds necessário para montar o valor.
+
+![](leds.png)
+
 ### Entrada e Saída
 
 Entrada:
@@ -50,4 +51,23 @@ Agradecimentos a Cassio F.
 10 leds
 10 leds
 <<<<<<<<
+
+>>>>>>>>
+3
+115380
+2819311
+23456
+========
+27 leds
+29 leds
+25 leds
+<<<<<<<<
+
+>>>>>>>>
+1
+1234567890
+========
+49 leds
+<<<<<<<<
 ```
+
