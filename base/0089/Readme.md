@@ -1,4 +1,4 @@
-## @0089 #04_vet L4 - Mega Jokenpo!
+## @0089 #05_str L2 - Mega Jokenpo!
 ## @qxcode
 
 ![](capa.jpg)
@@ -33,7 +33,7 @@ empate, jog1 ou jog2.
 ```
 >>>>>>>> 01
 sponge
-paper
+gun
 ========
 jog1
 <<<<<<<<
