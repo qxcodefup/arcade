@@ -1,4 +1,4 @@
-## @0001 #06_mat L3 - Jogo da vida
+## @0300 #06_mat L3 - Jogo da vida
 ## @qxcode
 
 O objetivo dessa atividade é gerar uma nova geração do jogo da vida.
