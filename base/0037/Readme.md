@@ -1,4 +1,4 @@
-## @0037 #2_sel L3 - Jokenpo 15
+## @0037 #02_sel L3 - Jokenpo 15
 ## @qxcode
 
 Jokenpo 15

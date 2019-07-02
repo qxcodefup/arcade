@@ -1,4 +1,4 @@
-## @0062 #2_sel L1 - Angulo Cartesiano - Operador Modular
+## @0062 #02_sel L1 - Angulo Cartesiano - Operador Modular
 ## @qxcode
 
 ![](capa.jpg)

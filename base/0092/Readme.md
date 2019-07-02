@@ -1,4 +1,4 @@
-## @0093 #6_str L1 - LP da Xura - Inverter String!
+## @0093 #05_str L1 - LP da Xura - Inverter String!
 ## @qxcode
 
 ![](capa.jpg)

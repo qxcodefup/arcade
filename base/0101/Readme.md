@@ -1,4 +1,4 @@
-## @0101 #4_vet L2 - Mostrar mão de cartas (Imprimir vetor formatado)
+## @0101 #04_vet L2 - Mostrar mão de cartas (Imprimir vetor formatado)
 ## @qxcode
 
 Leia um vetor contendo uma mão de cartas e mostre as cartas para o usuário.

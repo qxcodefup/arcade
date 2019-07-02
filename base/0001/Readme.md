@@ -1,4 +1,4 @@
-## @0001 #2_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
+## @0001 #02_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
 ## @qxcode
 
 ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0001/capa.jpg)

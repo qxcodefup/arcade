@@ -1,4 +1,4 @@
-## @0201 #6_str L1 - Valdiskey e a cifra V1!
+## @0201 #05_str L1 - Valdiskey e a cifra V1!
 ## @qxcode
 
 ![](S6300474.JPG)

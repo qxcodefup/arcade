@@ -1,4 +1,4 @@
-# @0131 #5_mat L3 - Matriz Simétrica
+## @0131 #06_mat L3 - Matriz Simétrica
 ## @qxcode
 
 # @qxcode

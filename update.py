@@ -152,7 +152,7 @@ class Itens:
     def update_qxcode_link(self):
         for item in self.itens:
             data = []
-            print(item)
+            #print(item)
             with open(item.readme_path, "r") as f:
                 data = f.readlines()
             if len(data) < 2 or data[1] != "## @qxcode\n":

@@ -1,4 +1,4 @@
-## @0023 #2_sel L3 - Jokenpo das tartarugas!
+## @0023 #02_sel L3 - Jokenpo das tartarugas!
 ## @qxcode
 
 ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0023/capa.jpg)

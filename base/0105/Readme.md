@@ -1,4 +1,4 @@
-## @0104 #6_str L3 - Valdiskley e cifras históricas!
+## @0104 #05_str L3 - Valdiskley e cifras históricas!
 ## @qxcode
 
 ![](capa.jpg)

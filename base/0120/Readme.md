@@ -1,4 +1,4 @@
-## @0101 #6_str L4 - Gansos Gamados - Verificar ordenação da frase!
+## @0101 #05_str L4 - Gansos Gamados - Verificar ordenação da frase!
 ## @qxcode
 
 ### Motivação

@@ -1,4 +1,4 @@
-## @0028 #2_sel L2 - Cadê a cabeça da cobra
+## @0028 #02_sel L2 - Cadê a cabeça da cobra
 ## @qxcode
 
 ![Cobrinha](capa.jpg)

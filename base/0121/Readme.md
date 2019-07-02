@@ -1,4 +1,4 @@
-## @0073 #6_str L4 - Mário e o Assassins Creed - Cenário
+## @0073 #05_str L4 - Mário e o Assassins Creed - Cenário
 ## @qxcode
 
 ![](capa.jpg)

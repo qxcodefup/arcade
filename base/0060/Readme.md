@@ -1,4 +1,4 @@
-## @0060 #4_vet L1 - Joelison Fernandes - Soma do maior e menor!
+## @0060 #04_vet L1 - Joelison Fernandes - Soma do maior e menor!
 ## @qxcode
 
 ![](capa.jpg)

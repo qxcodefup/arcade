@@ -1,4 +1,4 @@
-## @0202 #6_str L3 - Separando tokens
+## @0202 #05_str L3 - Separando tokens
 ## @qxcode
 
 ### Motivação

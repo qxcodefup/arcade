@@ -1,4 +1,4 @@
-## @0094 #6_str L2 - Vogais e Consoantes - Identificação e Montagem!
+## @0094 #05_str L2 - Vogais e Consoantes - Identificação e Montagem!
 ## @qxcode
 
 ![](capa.jpg)

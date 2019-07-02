@@ -1,4 +1,4 @@
-## @0027 #2_sel L2 - Adedonha na Califórnia
+## @0027 #02_sel L2 - Adedonha na Califórnia
 ## @qxcode
 
 ![Califórnia](capa.png)

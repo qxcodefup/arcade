@@ -1,4 +1,4 @@
-## @0076 #4_vet L4 - OBI 2017 - Fase 1 - O segredo do Cofre
+## @0076 #04_vet L4 - OBI 2017 - Fase 1 - O segredo do Cofre
 ## @qxcode
 
 ![](capa.jpg)
@@ -32,30 +32,12 @@ Seu programa deve imprimir uma linha contendo 10 inteiros, representando o núme
 ### Exemplos
 
 ```
->>>>>>>>
-14 5
-9 4 3 9 1 2 4 5 1 1 9 7 0 5
-1 9 4 11 13
-========
-1 6 3 1 4 3 0 1 0 4
-<<<<<<<<
-
->>>>>>>>
-5 4
-5 8 0 5 1
-1 4 2 5
-========
-3 1 0 0 0 3 0 0 2 0
-<<<<<<<<
-```
-
-<!---
 >>>>>>>> 01
 14 5
 9 4 3 9 1 2 4 5 1 1 9 7 0 5
 1 9 4 11 13
 ========
-1 6 3 1 4 3 0 1 0 4
+[ 1 6 3 1 4 3 0 1 0 4 ]
 <<<<<<<<
 
 >>>>>>>> 02
@@ -63,15 +45,19 @@ Seu programa deve imprimir uma linha contendo 10 inteiros, representando o núme
 5 8 0 5 1
 1 4 2 5
 ========
-3 1 0 0 0 3 0 0 2 0
+[ 3 1 0 0 0 3 0 0 2 0 ]
 <<<<<<<<
+```
+
+<!---
+
 
 >>>>>>>> 03
 10 10
 6 6 7 7 2 8 9 2 0 0
 1 10 3 9 6 9 8 1 8 2
 ========
-5 0 13 0 0 0 6 11 7 8
+[ 5 0 13 0 0 0 6 11 7 8 ]
 <<<<<<<<
 
 >>>>>>>> 04
@@ -79,6 +65,6 @@ Seu programa deve imprimir uma linha contendo 10 inteiros, representando o núme
 8 2 5 6 8 0 0 7 3 3
 1 9 7 2 4 2 9 10 9 6
 ========
-8 0 3 4 0 5 4 4 4 0
+[ 8 0 3 4 0 5 4 4 4 0 ]
 <<<<<<<<
 --->

@@ -1,4 +1,4 @@
-## @0099 #6_str L3 - Francês é Fresco - Juntar palavras
+## @0099 #05_str L3 - Francês é Fresco - Juntar palavras
 ## @qxcode
 
 ![](capa.jpg)

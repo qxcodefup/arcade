@@ -1,4 +1,4 @@
-# @0113 #6_str L3 - Eribelton e a Ascologia V3 - Busca do mínimo
+## @0113 #05_str L3 - Eribelton e a Ascologia V3 - Busca do mínimo
 ## @qxcode
 # @qxcode
 

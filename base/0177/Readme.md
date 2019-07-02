@@ -1,4 +1,4 @@
-## @0204 #6_str L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
+## @0204 #05_str L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
 ## @qxcode
 
 ### Motivação

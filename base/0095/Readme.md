@@ -1,4 +1,4 @@
-## @0095 #6_str L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!
+## @0095 #05_str L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!
 ## @qxcode
 
 ![](capa.jpg)

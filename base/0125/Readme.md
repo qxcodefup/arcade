@@ -1,4 +1,4 @@
-## @0073 #6_str L2 - Numerão Divisível por 11
+## @0073 #05_str L2 - Numerão Divisível por 11
 ## @qxcode
 
 ### Motivação

@@ -1,4 +1,4 @@
-## @0055 #3_rep L1 - Quantos Ultrons você vê - Contar Elemento
+## @0055 #03_rep L1 - Quantos Ultrons você vê - Contar Elemento
 ## @qxcode
 
 ![](capa.jpeg)

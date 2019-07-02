@@ -1,4 +1,4 @@
-## @0094 #6_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
+## @0094 #05_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
 ## @qxcode
 
 ![]()

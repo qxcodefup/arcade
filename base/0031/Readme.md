@@ -1,4 +1,4 @@
-## @0031 #2_sel L2 - Fiquei de final
+## @0031 #02_sel L2 - Fiquei de final
 ## @qxcode
 
 ![Enzo de recuperação](capa.jpg)

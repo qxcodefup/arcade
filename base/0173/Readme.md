@@ -1,4 +1,4 @@
-## @0200 #6_str L1 - Eribelton e a Ascologia V1 - Somar Asc
+## @0200 #05_str L1 - Eribelton e a Ascologia V1 - Somar Asc
 ## @qxcode
 
 ### Motivação

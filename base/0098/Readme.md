@@ -1,4 +1,4 @@
-## @0098 #6_str L3 - Jason e Krueguer - busca de maior ocorrencia
+## @0098 #05_str L3 - Jason e Krueguer - busca de maior ocorrencia
 ## @qxcode
 
 ![](capa.jpg)

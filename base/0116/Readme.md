@@ -1,4 +1,4 @@
-# @0116 #6_str L3 - Roda Roda Jequiti - Jogo da Forca!
+## @0116 #05_str L3 - Roda Roda Jequiti - Jogo da Forca!
 ## @qxcode
 # @qxocde
 

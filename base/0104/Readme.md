@@ -1,4 +1,4 @@
-## @0104 #6_str L1 - Maiúsculo, Minusculo e Dígito!
+## @0104 #05_str L1 - Maiúsculo, Minusculo e Dígito!
 ## @qxcode
 
 ![](capa.jpg)

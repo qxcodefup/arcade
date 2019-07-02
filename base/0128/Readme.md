@@ -1,4 +1,4 @@
-# @0128 #5_mat L2 - Soma de elementos de em uma matriz
+## @0128 #06_mat L2 - Soma de elementos de em uma matriz
 ## @qxcode
 
 # @qxcode

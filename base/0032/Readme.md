@@ -1,4 +1,4 @@
-## @0032 #2_sel L2 - Bolada na fuça
+## @0032 #02_sel L2 - Bolada na fuça
 ## @qxcode
 
 

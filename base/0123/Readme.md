@@ -1,4 +1,4 @@
-## @0073 #6_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
+## @0073 #05_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
 ## @qxcode
 
 ### Motivação
