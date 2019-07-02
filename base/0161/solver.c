@@ -38,7 +38,7 @@ int main()
          }
       }
 
-      printf("%d\n\n", part[0]);
+      printf("%d\n", part[0]);
 
       scanf("%d %d", &participantes, &rodadas);
    }

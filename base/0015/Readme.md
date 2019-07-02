@@ -1,4 +1,4 @@
-## @0015 #02_sel L1 - Calculadora
+## @0015 #02_sel L1 - Calculadora Numérica
 ## @qxcode
 
 ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0015/capa.jpg)

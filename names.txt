@@ -7,7 +7,7 @@
 0006: @0006 #01_ope L4 - Zerinho ou um americano (Calcule o vencedor)
 0025: @0025 #02_sel L1 - Ambos Divisíveis
 0062: @0062 #02_sel L1 - Angulo Cartesiano - Operador Modular
-0015: @0015 #02_sel L1 - Calculadora
+0015: @0015 #02_sel L1 - Calculadora Numérica
 0024: @0024 #02_sel L1 - Divisão Inteira e Quebrada
 0151: @0151 #02_sel L1 - OBI 2015 - Fase 2 - Nível 1 - Impedido!
 0156: @0156 #02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Jogo de par ou ímpar
@@ -92,7 +92,6 @@
 0084: @0084 #04_vet L3 - Zoologico Um animal de cada tipo!
 0086: @0086 #04_vet L4 - Coleção de Tazos - Quantos se repetem mais
 0008: @0008 #04_vet L4 - Força Bruta (Gerando próxima combinação)
-0089: @0089 #04_vet L4 - Mega Jokenpo!
 0076: @0076 #04_vet L4 - OBI 2017 - Fase 1 - O segredo do Cofre
 0088: @0088 #04_vet L4 - Se fosse a mediana eu tinha passado!
 0009: @0009 #04_vet L4 - Segredo do cofre (OBI 2017 F1P1)
@@ -112,6 +111,7 @@
 0097: @0097 #05_str L2 - Gagueira V1 - Duplicar Palavras
 0093: @0094 #05_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
 0180: @0180 #05_str L2 - Guerra Civil no Universo Marvel
+0089: @0089 #05_str L2 - Mega Jokenpo!
 0111: @0111 #05_str L2 - Meu cachorro comeu minha tarefa - Retirar espaços
 0125: @0073 #05_str L2 - Numerão Divisível por 11
 0110: @0110 #05_str L2 - Organizando Ru - Homens e Mulheres!
@@ -150,7 +150,7 @@
 0128: @0128 #06_mat L2 - Soma de elementos de em uma matriz
 0150: @0150 #06_mat L2 - Soma de matrizes
 0129: @0129 #06_mat L3 - Campo Minado
-0300: @0001 #06_mat L3 - Jogo da vida
+0135: @0135 #06_mat L3 - Jogo da vida
 0131: @0131 #06_mat L3 - Matriz Simétrica
 0153: @0153 #06_mat L3 - OBI 2015 - Fase 2 - Nível 1 - Torre
 0154: @0154 #06_mat L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
@@ -161,6 +161,7 @@
 0141: @0141 #07_rec L2 - Números de Fibonacci
 0140: @0140 #07_rec L3 - Contando caracteres recursivamente
 0146: @0146 #07_rec L3 - Torres de Hanoi
+0301: @0301 #07_struct L3 - Mulher mais idosa
 0142: @0142 #09_aloc L2 - Vetor de strings com tamanhos variados
 0144: @0144 #10_pont - Função que retorna vários valores por referência
 0143: @0143 #10_pont - Troca de valores de variáveis

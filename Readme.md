@@ -20,7 +20,7 @@
 
 - [L1 - Ambos Divisíveis](base/0025/Readme.md#qxcode)
 - [L1 - Angulo Cartesiano - Operador Modular](base/0062/Readme.md#qxcode)
-- [L1 - Calculadora](base/0015/Readme.md#qxcode)
+- [L1 - Calculadora Numérica](base/0015/Readme.md#qxcode)
 - [L1 - Divisão Inteira e Quebrada](base/0024/Readme.md#qxcode)
 - [L1 - OBI 2015 - Fase 2 - Nível 1 - Impedido!](base/0151/Readme.md#qxcode)
 - [L1 - OBI 2016 - Fase1 - Nível 1 - Jogo de par ou ímpar](base/0156/Readme.md#qxcode)
@@ -111,7 +111,6 @@
 - [L3 - Zoologico Um animal de cada tipo!](base/0084/Readme.md#qxcode)
 - [L4 - Coleção de Tazos - Quantos se repetem mais](base/0086/Readme.md#qxcode)
 - [L4 - Força Bruta (Gerando próxima combinação)](base/0008/Readme.md#qxcode)
-- [L4 - Mega Jokenpo!](base/0089/Readme.md#qxcode)
 - [L4 - OBI 2017 - Fase 1 - O segredo do Cofre](base/0076/Readme.md#qxcode)
 - [L4 - Se fosse a mediana eu tinha passado!](base/0088/Readme.md#qxcode)
 - [L4 - Segredo do cofre (OBI 2017 F1P1)](base/0009/Readme.md#qxcode)
@@ -134,6 +133,7 @@
 - [L2 - Gagueira V1 - Duplicar Palavras](base/0097/Readme.md#qxcode)
 - [L2 - Gritando em Caixa Alta - Invertendo o Case da frase!](base/0093/Readme.md#qxcode)
 - [L2 - Guerra Civil no Universo Marvel](base/0180/Readme.md#qxcode)
+- [L2 - Mega Jokenpo!](base/0089/Readme.md#qxcode)
 - [L2 - Meu cachorro comeu minha tarefa - Retirar espaços](base/0111/Readme.md#qxcode)
 - [L2 - Numerão Divisível por 11](base/0125/Readme.md#qxcode)
 - [L2 - Organizando Ru - Homens e Mulheres!](base/0110/Readme.md#qxcode)
@@ -175,7 +175,7 @@
 - [L2 - Soma de elementos de em uma matriz](base/0128/Readme.md#qxcode)
 - [L2 - Soma de matrizes](base/0150/Readme.md#qxcode)
 - [L3 - Campo Minado](base/0129/Readme.md#qxcode)
-- [L3 - Jogo da vida](base/0300/Readme.md#qxcode)
+- [L3 - Jogo da vida](base/0135/Readme.md#qxcode)
 - [L3 - Matriz Simétrica](base/0131/Readme.md#qxcode)
 - [L3 - OBI 2015 - Fase 2 - Nível 1 - Torre](base/0153/Readme.md#qxcode)
 - [L3 - OBI 2015 - Fase 2 - Nível Júnior - Código](base/0154/Readme.md#qxcode)
@@ -189,6 +189,10 @@
 - [L2 - Números de Fibonacci](base/0141/Readme.md#qxcode)
 - [L3 - Contando caracteres recursivamente](base/0140/Readme.md#qxcode)
 - [L3 - Torres de Hanoi](base/0146/Readme.md#qxcode)
+
+## 07_struct
+
+- [L3 - Mulher mais idosa](base/0301/Readme.md#qxcode)
 
 ## 09_aloc
 
