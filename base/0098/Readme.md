@@ -11,7 +11,7 @@
 *   Mas pra onde a gente vai?
 *   Ouví falar de um canto que paga muito bem, não precisa de qualificação nenhuma e só tem gente assustadora.
 *   Qual cargo?
-*   12.800 mil pra motorista, graçom e assensorista lá no tribunal de contas em Brasília.
+*   12.800 pra motorista, graçom e assensorista lá no tribunal de contas em Brasília.
 *   Boa, vamos lá.
 
 Algum tempo depois...
@@ -71,39 +71,3 @@ baeoxuoiazzzzzzz
 oxau
 <<<<<<<<
 ```
-
-<!---
->>>>>>>> 01
-1
-aeb
-========
-ae
-<<<<<<<<
-
->>>>>>>> 02
-1
-aebeiocdu
-========
-eio
-<<<<<<<<
-
->>>>>>>> 03
-2
-abdeiuofaoi
-xaeioux
-========
-eiuo
-aeiou
-<<<<<<<<
-
->>>>>>>> 04
-3
-aebaibaobaub
-baeoxuoiaezzzzzz
-oxau
-========
-"ae
-uoiae
-au"
-<<<<<<<<
---->

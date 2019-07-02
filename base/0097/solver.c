@@ -4,17 +4,21 @@
 int main(){
 
     char frase[100];
-    char palavra[100];
+    int cont = 0;
 
     scanf("%[^\n]", frase);
 
     for(int i = 0; i < strlen(frase); i++){
         if(frase[i] != ' '){
-            palavra[i] = frase[i];
             printf("%c", frase[i]);
-        }else
-            for(int a = i + 1; a < strlen(palavra); a++)
-                printf("%c", palavra[a]);
+            cont++;
+        }else{
+            printf(" ");
+            for(int a = i - cont; (frase[a] != ' ' || frase[a] == '\0') ; a++)
+                printf("%c", frase[a]);
+            printf(" ");
+            cont = 0;
+        }
     }
 
     printf("\n");
