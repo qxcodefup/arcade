@@ -63,11 +63,11 @@ aeiou
 >>>>>>>>
 3
 aebaibaobaub
-baeoxuoiazzzzzzz
+baeoxuoiazzz
 oxau
 ========
 ae
-baeoxuoiazzzzzzz
-oxau
+uoia
+au
 <<<<<<<<
 ```

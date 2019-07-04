@@ -24,7 +24,7 @@ Dada uma frase, conforme o case da primeira letra, alterne o case de todas as le
 Entrada:
 
 *   Linha 1: A quantidade de casos de teste.
-*   Linha 2: Um texto com até 100 caracteres maiúsculos ou minúsculos e espaços por linha para cada caso de teste
+*   Linha 2: Um texto com até 100 caracteres maiúsculos ou minúsculos e espaços por linha, para cada caso de teste.
 
 Saida:
 
@@ -37,7 +37,7 @@ Saida:
 1
 a batata
 ========
-a BaTa
+a BaTaTa
 <<<<<<<<
 
 >>>>>>>>
@@ -45,8 +45,8 @@ a BaTa
 AAAAAAAA
 bBbBbBbB
 ========
-aAaAaAaA
-BbBbBbBb
+AaAaAaAa
+bBbBbBbB
 <<<<<<<<
 
 >>>>>>>>
@@ -61,29 +61,13 @@ BiGoDe ApArAdO
 
 <!---
 >>>>>>>> 01
-1
-a batata
-========
-a BaTaTa
-<<<<<<<<
-
->>>>>>>> 02
-2
-Morra Prea
-BigODE Aparado
-========
-MoRrA pReA
-BiGoDe ApArAdO
-<<<<<<<<
-
->>>>>>>> 03
 3
 a Morra Prea
 g BigODE Aparado
 abcd ef
 ========
-aMoRrA pReA
-BiGoDe ApArAdO
-aBcD ef
+a MoRrA pReA
+g BiGoDe ApArAdO
+aBcD eF
 <<<<<<<<
 --->

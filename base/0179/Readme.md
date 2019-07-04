@@ -20,7 +20,7 @@ Por exemplo: 026897 quer dizer : aluno 02, notas 6, 8, 9 e 7.
 
 ### Ação
 
-faça um programa para imprimir o id do aluno com a maior nota.  
+Faça um programa para imprimir o id do aluno com a maior nota.
 
 ### Entrada e Saida
 
@@ -33,8 +33,7 @@ Entrada:
 
 Saida:
 
-*   O id do aluno com melhor média. Se vários alunos ficarem com a mesma média  
-    máxima. Imprima o id de maior número.
+*   O id do aluno com melhor média. Se vários alunos ficarem com a mesma média máxima. Imprima o id de maior número.
 
 ### Exemplos
 
@@ -61,69 +60,27 @@ Saida:
 ========
 05
 <<<<<<<<
-
->>>>>>>>
-2
-028888 047989
-========
-04
-<<<<<<<<
-
->>>>>>>>
-4
-028888 047989 072213 199989
-========
-19
-<<<<<<<<
-
->>>>>>>>
-5
-028888 047989 059999 072213 199989
-========
-5
-<<<<<<<<
 ```
 
-<!---
->>>>>>>> 01
+<!------
+>>>>>>>>
 2
 028888 047989
 ========
 04
 <<<<<<<<
 
->>>>>>>> 02
+>>>>>>>>
 4
 028888 047989 072213 199989
 ========
 19
 <<<<<<<<
 
->>>>>>>> 03
+>>>>>>>>
 5
 028888 047989 059999 072213 199989
 ========
 05
 <<<<<<<<
-
->>>>>>>> 04
-6
-028888 047989 059999 072213 199989 019999
-========
-05
-<<<<<<<<
-
->>>>>>>> 05
-2
-014444 024444
-========
-02
-<<<<<<<<
-
->>>>>>>> 06
-2
-034444 024444
-========
-03
-<<<<<<<<
---->
+-----!>

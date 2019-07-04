@@ -8,8 +8,7 @@
 Joãozinho chega na escola com o trabalho digitado e a professora  
 pergunta:  
 \- Porque esse trabalho com esses espaços desse jeito?  
-"briofitas sao plantas e pteridofilas  
-sao dinossauros que voam"
+"briofitas sao plantas e pteridofilas  sao dinossauros que voam"
 
 \- É que meu poodle bateu no espaço do meu notebook e agora ele tá  
 doido fessora.  
@@ -39,52 +38,26 @@ Saida:
 
 ```
 >>>>>>>>
+a  almofada ta muito  fofa
+========
 a almofada ta muito fofa
-========
-a almofada ta muito fofa"
 <<<<<<<<
 
 >>>>>>>>
-ai bb cx
+ai  bb cx
 ========
 ai bb cx
 <<<<<<<<
 
 >>>>>>>>
-aiu bbk cxmp
+aiu  bbk cxmp
 ========
 aiu bbk cxmp
 <<<<<<<<
 
 >>>>>>>>
-a bola ta furada
+a  bola  ta furada
 ========
 a bola ta furada
 <<<<<<<<
 ```
-
-<!---
->>>>>>>> 01
-a almofada ta muito fofa
-========
-a almofada ta muito fofa
-<<<<<<<<
-
->>>>>>>> 02
-ai  bb  cx
-========
-ai bb cx
-<<<<<<<<
-
->>>>>>>> 03
-aiu bbk cxmp
-========
-aiu bbk cxmp
-<<<<<<<<
-
->>>>>>>> 04
-a bola ta furada
-========
-a bola ta furada
-<<<<<<<<
---->
