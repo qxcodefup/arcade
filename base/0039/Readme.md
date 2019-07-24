@@ -1,10 +1,9 @@
 ## @0039 #02_sel L3 - Mercantil V2
 ## @qxcode
 
-
 ![Silvio Santos](capa.jpg)
 
-### Descrição
+## Descrição
 
 Pedro e João foram no Silvio Santos. O programa era aquele
 que o Silvio mostrava um produto do mercantil e a pessoa
@@ -24,19 +23,21 @@ segundo errar a direção do chute.
 
 [DS]
 
-### I/O
+---
 
-Entrada:
+### Entrada:
 
 * linha 1: o chute do Primeiro Jogador(float)
 * linha 2: a escolha do Segundo Jogador(m para menor e M para maior)
 * linha 3: o valor real do produto(0.01 até 1000.0)
 
-Saida:
+### Saida:
 
 *  imprima quem foi o vencedor: "primeiro" ou "segundo"
 
-### Exemplos
+---
+
+## Exemplos
 ```
 
 >>>>>>>>
@@ -47,7 +48,6 @@ m
 segundo
 <<<<<<<<
 
-
 >>>>>>>>
 1.1
 M
@@ -55,7 +55,6 @@ M
 ========
 primeiro
 <<<<<<<<
-
 
 >>>>>>>>
 0.9
@@ -65,7 +64,6 @@ M
 segundo
 <<<<<<<<
 
-
 >>>>>>>>
 1.3
 m
@@ -73,8 +71,9 @@ m
 ========
 primeiro
 <<<<<<<<
-
 ```
+
+---
 
 <!---
 

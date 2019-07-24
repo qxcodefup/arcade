@@ -1,7 +1,9 @@
 ## @0005 #01_ope L3 - Ladrão de Goiabas (Contando viagens)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0005/capa.jpg)
+![](capa.jpg)
+
+## Motivação
 
 Chico deseja coletar todas as frutas do quintal vizinho. Porém, sem que seu vizinho o veja.
 Para isso, Chico precisa saber exatamente quanto tempo ele irá gastar na coleta.
@@ -13,27 +15,29 @@ Ele gasta exatamente 1 minuto para ir ao quintal vizinho, encher a cesta e volta
 
 ---
 
+## Ação
+
 Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minutos Chico precisará para coleta.
 Você pode considerar que há pelo menos uma fruta antes da coleta.
 
 ---
 
-Entrada:
+### Entrada:
 
 * Capacidade da cesta.
 * Quantidade de bananas.
 * Quantidade de goiabas.
 * Quantidade de mangas.
 
-Saída:
+### Saída:
 
 * Duração da coleta em minutos.
 
 ---
-## Testes
+## Exemplos
 
 ```
->>>>>>>> 01 conta exata
+>>>>>>>> conta exata
 3
 1
 1
@@ -42,7 +46,7 @@ Saída:
 1
 <<<<<<<<
 
->>>>>>>> 02 sobrando duas
+>>>>>>>> sobrando duas
 10
 4
 4
@@ -51,7 +55,7 @@ Saída:
 2
 <<<<<<<<
 
->>>>>>>> 03 sobrando uma
+>>>>>>>> sobrando uma
 2
 4
 2
@@ -61,14 +65,17 @@ Saída:
 <<<<<<<<
 ```
 
+---
+
 ## Aviso:
 
 Roubar frutas do seu vizinho é errado.
 
+---
+
 
 <!---
-
->>>>>>>> 04
+>>>>>>>>
 4
 1
 2
@@ -78,7 +85,7 @@ Roubar frutas do seu vizinho é errado.
 <<<<<<<<
 
 
->>>>>>>> 05
+>>>>>>>>
 20
 80
 20
@@ -88,7 +95,7 @@ Roubar frutas do seu vizinho é errado.
 <<<<<<<<
 
 
->>>>>>>> 06
+>>>>>>>>
 100
 5
 66
@@ -98,7 +105,7 @@ Roubar frutas do seu vizinho é errado.
 <<<<<<<<
 
 
->>>>>>>> 07
+>>>>>>>>
 7
 20
 13
@@ -108,7 +115,7 @@ Roubar frutas do seu vizinho é errado.
 <<<<<<<<
 
 
->>>>>>>> 08
+>>>>>>>>
 2
 15
 13

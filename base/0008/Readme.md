@@ -1,7 +1,9 @@
 ## @0008 #04_vet L4 - Força Bruta (Gerando próxima combinação)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0008/capa.jpg)
+![](capa.jpg)
+
+## Motivação
 
 Todo algoritmo de força bruta exige a geração de todas as combinações possíveis para a senha. Quanto mais informação se tem sobre a senha, menor o espaço de busca a ser testado.
 
@@ -12,21 +14,23 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 ```
 
 ---
+
+## Dica:
+
 É comum esses algoritmos de força bruta executarem por muitas horas e muitos dias. Então é importante guardar a última senha testada para no caso de ter que retornar os testes, retornar a partir do ponto que parou.
 
 ---
 
-Entrada
+### Entrada
 - 1a linha: S Q, respectivamente o tamanho da senha e a quantidade de novas senhas a serem geradas. S entre 1 e 50, Q entre 1 e 100.
 - 2a linha: algarismos que podem aparecer na senha.
 - 3a linha: senha de partida.
 
-
-Saída
+### Saída
 - As Q novas senhas a serem testadas uma por linha.
 
 ---
-## Testes
+## Exemplos
 
 ```
 >>>>>>>> numerico apenas
@@ -76,7 +80,11 @@ Saída
 0080
 0089
 <<<<<<<<
+```
 
+---
+
+<!---
 >>>>>>>> muitos
 6 50
 Zou29@#
@@ -133,6 +141,4 @@ ZZZZoo
 ZZZZou
 ZZZZo2
 <<<<<<<<
-
-
-```
+---!>

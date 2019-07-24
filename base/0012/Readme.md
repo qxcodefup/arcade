@@ -1,7 +1,9 @@
 ## @0012 #06_mat L2 - Deu a louca no Imperador!
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0012/capa.jpg)
+![](capa.jpg)
+
+## Motivação
 
 Na Roma antiga era comum existirem arenas para batalhas, uma das mais famosas é o Coliseu.
 Os gladiadores (pessoas que lutavam na arena) eram, na maioria, escravos, prisioneiros de guerra
@@ -18,6 +20,8 @@ na arena!
 
 ---
 
+## Ação
+
 Usando G para gladiadores, C para Condenados à morte e L para o Lẽao, o usuário preencherá a matriz quadrada.
 
 OBS: Como a economia em Roma estava precária, o Cyzar só possuía um Leão, logo só pode haver um L na arena.
@@ -31,20 +35,20 @@ Some todos os G's e C's e determine quem é o vencedor.
 
 ---
 
-Entrada
+### Entrada
 - 1a linha: Número de linhas e colunas da matriz
 - linhas seguintes, o conteúdo da matriz com três caracteres apenas
     - G para Gladiadores
     - C para Condenados a morte
     - L para Leão.
 
-Saída
+### Saída
 - "Gladiadores" caso G seja maior
 - "Condenados a morte" caso C seja maior
 - "Ninguém" caso contrário.
 
 ---
-## Testes
+## Exemplos
 
 ```
 >>>>>>>>
@@ -75,8 +79,11 @@ G C C
 ========
 Ninguem
 <<<<<<<<
+```
 
+---
 
+<!---
 >>>>>>>>
 3
 C G G
@@ -151,3 +158,4 @@ C G C C C
 ========
 Gladiadores
 <<<<<<<<<
+--->

@@ -6,7 +6,7 @@
 ### Motivação
 
 No capítulo 3 da saga de Valdiskey você vai escrever o algoritmo que faz a criptografia e descriptografia.  
-Valentina aceitou o namoro e vai usar a o seu código para ler o conteúdo das cartinhas de amor de Valdiskley.  
+Valentina aceitou o namoro e vai usar o seu código para ler o conteúdo das cartinhas de amor de Valdiskley.  
 Se você quiser pesquisar o nome dessa cifra é cifra de Vigenere.
 
 [http://pt.wikipedia.org/wiki/Cifra_de_Vigen%C3%A8re](http://pt.wikipedia.org/wiki/Cifra_de_Vigen%C3%A8re)

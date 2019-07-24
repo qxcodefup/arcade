@@ -1,9 +1,9 @@
 ## @0036 #02_sel L3 - Morre o do meio
 ## @qxcode
 
-### Motivação
-
 ![3 esquilos na árvore](capa.jpg)
+
+## Motivação
 
 Três esquilos gêmeos brincavam num toquinho de árvore quando de repente aparece uma raposa faminta. A raposa pula de um sopapo, encara e encurrala os três e eles percebem que não háverá fuga para todos. Alguém vai acabar morrendo naquele encontro.
 
@@ -21,26 +21,25 @@ Os esquilos ficaram juntinhos e bem esticadinhos. A raposa foi lá e numa bocada
 
 Moral da história: Não confie em pessoas que tem claramente interesses diferentes dos seus quando elas quiserem te ajudar.
 
+---
 
-
-### Ação
+## Ação
 
 Receba três valores e imprima o valor do meio.
 
+---
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 * Os três valores, uma por linha, todos os valores serão diferentes.
  
-
-Saída:
+### Saída
 
 * O valor do meio.
- 
 
-#### Exemplos
+---
+
+## Exemplos
 
 ```
 >>>>>>>>
@@ -79,6 +78,8 @@ Saída:
 <<<<<<<<
 
 ```
+
+---
 
 <!---
 

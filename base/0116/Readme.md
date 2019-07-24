@@ -50,12 +50,6 @@ Ex: "**Seu Pilantra!**" , "**yzxa**" , '**\***' -> "**\*\*\* \*\*\*a\*\*\*a!**"
 
 ```
 >>>>>>>>
-Teco-Teco!tbxyan_
-========
-T___-T___!
-<<<<<<<<
-
->>>>>>>>
 extraordinario
 aeioubcdfgh
 *

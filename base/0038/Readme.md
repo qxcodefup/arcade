@@ -3,45 +3,44 @@
 
 ![ponteiros de um relógio](capa.jpg)
 
-
-### Motivação
+## Motivação
 
 A mãe de João entrou em seu quarto e ficou furiosa por causa da bagunça. Ela deu um grito bem alto e acordou o coitado do João que estava no terceiro sono. Ele sonhando que estava contando as ovelhas que conseguiam pular a cerca da fazenda de seu pai, mas no sonho, ele só conseguia contar de 60 em 60.
 
 Após cair da cama, sua mãe lhe disse que se ele não se levantasse em um segundo e arrumasse seu quarto inteiro ficaria de castigo até o próximo ano bissexto, primo e quadrado perfeito.
 
-### Ação
+---
+
+## Ação
 
 Supondo que João seja sobre humano, seu trabalho é fazer um programa para calcular em qual hora minuto e segundo ele deve ter terminar de arrumar seu quarto.
 
-### Entrada e Saída
+---
 
-Entrada
+### Entrada
 
 * Três inteiros, hora, minuto e segundo inicial em uma linha.
 
-Saída:
+### Saída:
 
 * Hora, minuto e segundo final e uma linha.
 
-### Exemplos:
+---
 
-
+## Exemplos:
 ```
 
->>>>>>>> 
+>>>>>>>>
 12 10 11
-======== 
+========
 12 10 12
 <<<<<<<<
-
 
 >>>>>>>>
 12 10 59
 ========
 12 11 00
 <<<<<<<<
-
 
 >>>>>>>>
 12 59 59
@@ -54,17 +53,17 @@ Saída:
 ========
 00 00 00
 <<<<<<<<
-
 ```
 
-<!--- 
-    os testes vpl estavam todos duplicados
---->
+---
 
+## Dica
 
 Para imprimir um número inteiro colocando zeros a esquerda utilize o seguinte comando. Se o printf contiver %0xd, o número vai ser impresso completando com zeros a esquerda se o número tiver menos que x caracteres. Para imprimir com dois dígitos a variável **valor** use.
-```
+
+```C
 printf("%02d", valor); //c
 
 print'%02d'% valor # python
 ```
+---

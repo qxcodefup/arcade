@@ -1,24 +1,27 @@
 ## @0014 #02_sel L2 - Quantos são iguais? (Contando Repetidos)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0014/capa.jpg)
+![](capa.jpg)
 
-### Descrição
+## Motivação
 
 Três competidores olímpicos de arremesso de disco tinham desempenhos muito parecidos. Constantemente eles jogavam os discos à mesma distância. Decidiram então criar um algoritmo que informava quantos deles tinham conseguido o mesmo resultado.
 
-### Ação
+---
+
+## Ação
 
 Leia três valores do usuário e imprima quantos são iguais.
 
-### Entrada e Saida
+---
+### Entrada:
+- Leia três valores do usuário.
+### Saída:
+- Imprima a quantidade de valores iguais dentre os três.
 
-- Entrada:
-    - Leia três valores do usuário.
-- Saída:
-    - Imprima a quantidade de valores iguais dentre os três.
+---
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>> 01
@@ -46,6 +49,8 @@ Leia três valores do usuário e imprima quantos são iguais.
 3
 <<<<<<<<
 ```
+
+---
 
 <!---
 >>>>>>>> 04

@@ -10,6 +10,4 @@ p1 = input()
 p2 = input()
 p3 = input()
 
-print compara(p1, p2, p3),
-print compara(p2, p1, p3),
-print compara(p3, p1, p2)
+print (compara(p1, p2, p3), compara(p2, p1, p3), compara(p3, p1, p2))

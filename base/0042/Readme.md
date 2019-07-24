@@ -3,17 +3,17 @@
 
 ![](capa.png)
 
-### Motivação
-
+## Motivação
 
 Rufus precisa procriar a especie para passar seus genes valiosos.
 Rufus tem muitos filhinhos e os ama tanto que não consegue compará-los.
-\- Papai, eu sou maior que o Rufus Junior Terceiro não sou?? Perguntou Rufus Júnior Quadragésimo novo.
- 
+\- Papai, eu sou maior que o Rufus Junior Terceiro não sou?? Perguntou Rufus Júnior Quadragésimo novo. 
 Ajude Rufus com isso. Dados os tamanhos em cm de 3 Rufinhos, informe qual o maior(G) o menor(P) e o do meio(M). Os valores nunca serão iguais.
 \[DS\]
 
-### Exemplo:
+---
+
+## Exemplo:
 
 ```
 >>>>>>>>
@@ -41,6 +41,8 @@ G M P
 <<<<<<<<
 
 ```
+
+---
 
 <!---
 

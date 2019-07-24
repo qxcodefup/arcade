@@ -1,14 +1,11 @@
 ## @0032 #02_sel L2 - Bolada na fuça
 ## @qxcode
 
+![Resultado de imagem para haikyuu](capa.jpg)
 
-### ![Resultado de imagem para haikyuu](capa.png)
-
-### Motivação:
+## Motivação
 
 Haikyuu é um anime muito show de bola sobre vôlei. Se você já tiver terminado todas as questões de seleção do moodle, você pode ir conferir alguns episódios em [LINK](https://www.animesync.tv/v/V3Eo6xG9Wrjv/).
-
-
 
 Alan Brado é um treinador muito competente e determinado. Numa certa manhã, ele reuniu todo time e decidiu fazer um treino de saque para observar seus jogadores e o desempenho neles no jogo. Depois de alguns cálculos, ele percebeu um padrão e então criou uma fórmula para calcular o índice de poder dos saques. A fórmula é dada por:
 
@@ -30,23 +27,21 @@ Com isso, ele concluiu uma faixa de satisfação dos saques:
 
 Desenvolva o programa que dados os valores de entrada, imprima o resultado de satisfação.
 
+---
 
-
-### Entrada e Saída:
-
-Entrada:
+### Entrada
 
 * Tipo de saque (c ou b) do tipo char
  
 * Um inteiro para a força do atleta
 
-Saída:
+### Saída
 
 * A precisão do saque do atleta
 
+---
 
-
-### Exemplos:
+## Exemplos:
 
 ```
 >>>>>>>>
@@ -81,8 +76,9 @@ Satisfeito
 <<<<<<<<
 ```
 
-<!---
+---
 
+<!---
 >>>>>>>>
 c
 90
@@ -132,11 +128,11 @@ Fraco, nem passou
 
 --->
 
-### Dicas:
+## Dicas
 
 Quando for fazer os if elses, lembre que pode fazer os if elses apenas utilizando o intervalo superior.
 
-```
+```C
 if(valor < 150)
  fazer algo
 else if(valor < 180)
@@ -145,4 +141,5 @@ else if(valor < 210)
  fazer algo
 else
  fazer algo
- ```
+```
+---

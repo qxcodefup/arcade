@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main () {
+int main(){
 
 	float a, b, c;
 	float delta;
@@ -11,7 +11,7 @@ int main () {
 	scanf("%f ", &b);
 	scanf("%f", &c);
     
-    delta = b * b - (4 * a * c);
+    delta = (b * b) - (4 * a * c);
 
 	raizPositiva = ( -b + sqrt(delta) ) / (2 * a);
 	raizNegativa = ( -b - sqrt(delta) ) / (2 * a);
@@ -23,5 +23,6 @@ int main () {
     }else{
         printf("nao ha raiz real\n");
     }
+
 	return 0;
 }

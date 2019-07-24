@@ -1,9 +1,9 @@
 ## @0017 #02_sel L2 - Ovos de galinha (Procurando o Maior valor)
 ## @qxcode
 
-[![](capa.jpg)](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0017/capa.jpg)
+![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Margarida Maria levantou Gislene com carinho. Olhou nos olhos da penosa e disse.
 
@@ -19,23 +19,24 @@ Então como que procurando uma solução pro doloroso conflito entre consciênci
 
 empática e fome, decidiu comer só o ovo maiorzinho.
 
-### Ação
+---
+
+## Ação
 
 Leia 4 números e imprima o maior valor.
 
-### Entrada e Saída
-
-Entrada:
+---
+### Entrada:
 
 * Leia quatro valores inteiros do usuário.
 
-Saída:
+### Saída:
 
 * Imprima o maior valor lido.
- 
- 
 
-### Exemplos
+---
+
+## Exemplos
 
 ```
 >>>>>>>>
@@ -57,6 +58,8 @@ Saída:
 8
 <<<<<<<<
 ```
+
+---
 
 <!--- 
 >>>>>>>>
@@ -104,8 +107,7 @@ Saída:
 
 --->
 
-
-### Dica
+## Dica
 
 Ao invés de fazer muitos ifs e elses que tal criar uma variável `vmaior` que guarda o primeiro valor.
 
@@ -118,5 +120,4 @@ se o terceiro valor lido for maior que vmaior
 ...
 
 ```
-
-Autor: David Sena
+---

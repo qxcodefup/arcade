@@ -1,10 +1,9 @@
 ## @0049 #03_rep L2 - Sapinho no Poço
 ## @qxcode
 
-
-## Sapinho no poço
-
 ![sapinho](capa.jpg)
+
+## Motivação
 
 * Mamãe, minha namorada, a Myrellah disse que não vem mais aqui em casa.
 * Porquê meu filho?
@@ -23,21 +22,18 @@ para mostrar os saltos do sapo até a saída.
 
 Imprima todas as posições de aterrissagem dos saltos do sapinho.
 
-Entrada e saída
-===============
-
-* Entrada
- 
+---
+### Entrada
 
 * P, S, E inteiros, um por linhas. S sempre será maior que E.
- 
 
-* Saída
+### Saída
 
 * as posições de salto e aterrissagem do sapinho até que ele saia do poço.
 
-Exemplos
-========
+---
+
+## Exemplos
 
 ```
 
@@ -67,8 +63,9 @@ Exemplos
 400 700
 500 saiu
 <<<<<<<<
-
 ```
+
+---
 
 <!---
 
@@ -110,5 +107,4 @@ Exemplos
 225 280
 250 saiu
 <<<<<<<<
-
 --->

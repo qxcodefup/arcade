@@ -2,7 +2,8 @@
 ## @qxcode
 
 ![](capa.jpg)
-### Motivação
+
+## Motivação
 
 - Chaves, se eu tenho 5 bananas e como 5 bananas, com o que eu fico?
 - Prisão de ventre!
@@ -18,13 +19,15 @@ O Chaves não sabe diferenciar positivo, negativo e nulo, mas você sabe!
 Eu espero!
 
 ---
-### Ação
 
-**Entrada:**  Leia um valor inteiro do usuário.
+### Entrada
+- Leia um valor inteiro do usuário.
 
-**Saída:** Imprima "positivo", "nulo" ou "negativo" de acordo com o valor lido.
+### Saída
+- Imprima "positivo", "nulo" ou "negativo" de acordo com o valor lido.
 
 ---
+
 ### Exemplos
 
 ```
@@ -47,9 +50,9 @@ negativo
 ========
 nulo
 <<<<<<<<
-
-
 ```
+
+---
 
 <!---
 >>>>>>>>

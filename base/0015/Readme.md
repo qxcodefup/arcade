@@ -1,30 +1,30 @@
 ## @0015 #02_sel L1 - Calculadora Numérica
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0015/capa.jpg)
+![](capa.jpg)
 
 ### Motivação
 
 Quem nunca numa prova de matemática ou física no ensino médio escutou um coleguinha dizer: "Professor, pode usar a calculadora?" que atire a primeira pedra.
 
+---
 
 ### Ação
 
 Leia dois números inteiros e um símbolo e imprima o resultado.
 
-
-
-### Entrada e Saída:
-
-Entrada:
+---
+### Entrada:
 
 * Leia do usuário dois valores inteiros e um operador em caractere ('+', '-', '\*' ou '/')
 
-Saída:
+### Saída:
 
 * Imprima o resultado da operação em inteiro. Nunca haverá divisão por 0.
 
-### Exemplos
+---
+
+## Exemplos
 ```
 >>>>>>>>
 5
@@ -52,6 +52,9 @@ Saída:
 0
 <<<<<<<<
 ```
+
+---
+
 <!--- 
 >>>>>>>>
 5

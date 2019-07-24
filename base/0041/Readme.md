@@ -3,7 +3,8 @@
 
 ![par ou impar](capa.jpg)
 
-### Descrição
+## Motivação
+
 Rufus(minha tartaruga cibernética) quer entrar no campeonato de par ou impar entre tartarugas.
 
 Implemente o par ou impar no processador de RUFUS para que ele possa participar do campeonato
@@ -11,17 +12,19 @@ mundial de par ou impar e trazer o prêmio pra UFC.
 
 [DS]
 
-### I/O
+---
 
-Entrada:
+### Entrada:
 * linha 1: A opção do jogador1(p para par e i para impar)
 * linha 2: o número de dedos do primeiro jogador
 * linha 3: número de dedos do segundo jogador.
 
-Saída:
+### Saída:
 * "Venceu" se o jogador 1 venceu e "Perdeu" se ele perdeu.
 
-### Exemplos
+---
+
+## Exemplos
 ```
 >>>>>>>>
 p
@@ -31,7 +34,6 @@ p
 Venceu
 <<<<<<<<
 
-
 >>>>>>>>
 p
 0
@@ -40,7 +42,6 @@ p
 Perdeu
 <<<<<<<<
 
-
 >>>>>>>>
 i
 0
@@ -48,7 +49,6 @@ i
 ========
 Perdeu
 <<<<<<<<
-
 
 >>>>>>>>
 i
@@ -58,6 +58,8 @@ i
 Venceu
 <<<<<<<<
 ```
+
+---
 
 <!---
 
@@ -97,4 +99,3 @@ Venceu
 <<<<<<<<
 
 --->
-

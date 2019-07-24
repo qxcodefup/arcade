@@ -1,5 +1,5 @@
-A = input()
-B = input()
+A = int(input())
+B = int(input())
 
 cont = 0
 if A <= B:
@@ -7,6 +7,6 @@ if A <= B:
         if A % 2 == 0:
             cont += A
         A += 1
-    print cont
+    print (cont)
 else:
     print ("invalido")

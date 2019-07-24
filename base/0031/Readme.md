@@ -3,7 +3,7 @@
 
 ![Enzo de recuperação](capa.jpg)
 
-### Descrição
+## Descrição
 Use o pseudocódigo a seguir para implementar o algoritmo de calcular nota e decidir se você ficou aprovado, reprovado, aprovado na final ou reprovado na final.
 
 ```
@@ -23,15 +23,20 @@ se entre 4 e 7
       reprovado
 ```
 
+---
 
-#### Entrada
+### Entrada
 
 * 3 notas: nota1, nota2 e nota\_final, uma por linha
  
-* saida: aprovado, reprovado, aprovado na final ou reprovado na final
-* Obs: descarte a nota da final se ela não for necessária
+### Saída
+- aprovado, reprovado, aprovado na final ou reprovado na final  
 
-#### Exemplo
+Obs: descarte a nota da final se ela não for necessária
+
+---
+
+## Exemplo
 
 ```
 >>>>>>>>
@@ -65,12 +70,11 @@ reprovado
 ========
 reprovado na final
 <<<<<<<<
-
 ```
 
+---
+
 <!---
-
-
 >>>>>>>>
 4
 8

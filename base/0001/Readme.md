@@ -1,26 +1,34 @@
 ## @0001 #02_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0001/capa.jpg)
+![](capa.jpg)
+
+## Motivação
 
 Não sei se você amava ou odiava o tal do Bhaskara por inventar aquela fórmula das raízes. Agora é hora de implementar aquela conta pra nunca ter mais que fazer na mão.
 
 ---
+
+## Ação
+
 Dados os valores de A, B e C, calcule as raízes.
 
 ---
-Entrada:
+
+### Entrada:
 - Valores de A, B e C em ponto flutuante, um por linha.
 
-Saída:
+### Saída:
 - Caso delta seja positivo, a saída deve ser a raiz positiva e raiz negativa, com duas casas decimais, uma raiz por linha.
 - Caso delta seja igual a zero, uma única raiz deve ser considerada, com duas casas decimais.
 - Caso delta sela negativo, a saída deve ser "nao ha raiz real"
 
-## Testes
+---
+
+## Exemplos
 
 ```
->>>>>>>> 01 duas raízes
+>>>>>>>> duas raízes
 5.4
 25.0
 -12.0
@@ -29,7 +37,7 @@ Saída:
 -5.07
 <<<<<<<<
 
->>>>>>>> 02 duas raízes
+>>>>>>>> duas raízes
 3.0
 -7.0
 4.0
@@ -38,7 +46,7 @@ Saída:
 1.00
 <<<<<<<<
 
->>>>>>>> 03 uma raiz
+>>>>>>>> uma raiz
 9.0
 -12.0
 4.0
@@ -46,7 +54,7 @@ Saída:
 0.67
 <<<<<<<<
 
->>>>>>>> 04 sem raízes
+>>>>>>>> sem raízes
 5.0
 3.0
 5.0
@@ -54,6 +62,8 @@ Saída:
 nao ha raiz real
 <<<<<<<<
 ```
+
+---
 
 ## Ajuda
 
@@ -70,9 +80,11 @@ int main(){
 }
 ```
 
+---
+
 <!---
 
->>>>>>>> 05
+>>>>>>>>
 1.0
 -1.0
 -20.0
@@ -82,7 +94,7 @@ int main(){
 <<<<<<<<
 
 
->>>>>>>> 06
+>>>>>>>>
 2.00
 0.00
 0.00
@@ -91,7 +103,7 @@ int main(){
 <<<<<<<<
 
 
->>>>>>>> 07
+>>>>>>>>
 5.3
 3.4
 19.2

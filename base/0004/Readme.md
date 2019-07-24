@@ -1,8 +1,9 @@
 ## @0004 #01_ope L3 - Mete bala (Distância entre dois pontos)
 ## @qxcode
 
+![](capa.jpg)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0004/capa.jpg)
+## Motivação
 
 Um atirador de elite estava atirando a 400 metros de distância em em um papel milimetrado.
 Para calcular a imprecisão da arma, ele dava dois tiros e media a distância entre eles.
@@ -11,22 +12,26 @@ da distância entre os pontos.
 
 ---
 
+## Ação
+
 Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto,
 imprima a distância entre os pontos com duas casas decimais.
 
 ---
 
-Entrada:
+### Entrada:
 
 * Coordenada X e coordenada Y do primeiro ponto.
 * Coordenada X e coordenada Y do segundo ponto.
 
-Saída:
+### Saída:
 
 * A distância entre os pontos com duas casas decimais.
 
 
 ---
+
+## Exemplos
 
 ```
 >>>>>>>> 01
@@ -59,9 +64,10 @@ Saída:
 ```
 
 ---
-## Help
 
-Fórmula da distância entre dois pontos:
+## Ajuda
+
+Fórmula da distância entre dois pontos:  
 ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0004/formula.jpg)
 
 Lembre-se que distância é uma grandeza sempre positiva.
@@ -77,10 +83,11 @@ print ("%.2f" % valor)
 printf("%.2f", valor);
 ```
 
-
 Para calcular a raiz quadrada você deverá importar a biblioteca math.h em seu projeto e chamar a função sqrt() passando o valor que você deseja encontrar a raiz.
 
 Para elevar ao quadrado você pode usar a função pow(x,2) que retorna x², ou fazer x * x. A função pow() também pertence à math.h.
+
+---
 
 <!---
 

@@ -1,23 +1,27 @@
 #include <stdio.h>
-int main(void){
-    char c1, c2;
-    scanf("%c", &c1);
-    int soma = 0;
-    while(c1 != '\n'){
-        soma += c1;
-        scanf("%c", &c1);
-    }
-    int enc = 0;
-    for(c1 = 'a'; c1 <= 'z'; c1++)
-        if((soma + c1) % 50 == 0){
-            c2 = c1;
-            enc = 1;
-            break;
-        }
-    if(enc == 1)
-        printf("%c", c2);
-    else
-        printf("sem sorte");
+
+int main(){
+    char nome[100];
+    scanf("%99[^\n]", nome);
     
-    return 0;
+    int i;
+    int sum = 0;
+    for(i = 0; nome[i]; i++){
+        sum += nome[i];
+    }
+
+    int RestSum = sum%50;
+    int aux = 50 - RestSum;
+
+    if((aux > 46)){
+        nome[i] = aux + (50 * 1);
+        nome[i+1] = 0;
+        puts(nome);
+    }else if(aux < 23){
+        nome[i] = aux + (50 * 2);
+        nome[i+1] = 0;
+        puts(nome);
+    }else{
+        puts("sem sorte");
+    }
 }

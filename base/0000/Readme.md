@@ -1,27 +1,31 @@
 ## @0000 #01_ope L1 - Operações básicas (Imprimindo float formatado)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0000/capa.jpg)
+![](capa.jpg)
+
+## Ação
 
 Leia dois números e imprima a soma, a subtração, a multiplicação, a divisão e o resto da divisão entre eles respectivamente.
 
-## IO
+---
 
-Entrada:
+### Entrada:
 
 * Valores de A,B em inteiro, um por linha.
 
-Saída:
+### Saída:
 
 * Valores da soma, subtração, multiplicação e resto da divisão em inteiro, um por linha.
 
 * Valor da divisão em ponto flutuante de duas casas decimais.
 * O valor de B nunca será 0, então não se preocupe com divisão por 0.
 
-## Testes
+---
+
+## Exemplos
 
 ```
->>>>>>>> 01
+>>>>>>>>
 1
 4
 ========
@@ -32,7 +36,7 @@ Saída:
 1
 <<<<<<<<
 
->>>>>>>> 02
+>>>>>>>>
 3
 3
 ========
@@ -44,9 +48,11 @@ Saída:
 <<<<<<<<
 ```
 
+---
+
 <!---
 
->>>>>>>> 03
+>>>>>>>> 01
 2
 4
 ========
@@ -58,7 +64,7 @@ Saída:
 <<<<<<<<
 
 
->>>>>>>> 04
+>>>>>>>> 02
 9
 3
 ========
@@ -70,7 +76,7 @@ Saída:
 <<<<<<<<
 
 
->>>>>>>> 05
+>>>>>>>> 03
 3
 4
 ========

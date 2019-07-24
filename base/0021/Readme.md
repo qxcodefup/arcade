@@ -1,13 +1,9 @@
 ## @0021 #02_sel L2 - Aumento de Salário
 ## @qxcode
 
-TODO
-- falta figura
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0021/capa.jpg)
+![](capa.jpg)
 
-
-
-### Motivação
+## Motivação
 
 Mês de março, todos os funcionários da empresa vão receber aumento. Para promover os menos favorecidos foram dados aumentos maiores para os funcionários que recebem menos.
 
@@ -15,39 +11,41 @@ Os que recebem até 1000.00 reais, vão ganhar 20%. Quem recebe até 1500.00 vai
 
 Os funcionários estão nervosos pra saber quanto vão ganhar no novo contracheque. Você que sabe programar resolveu fazer um programinha no qual o funcionário entra com seu salário e você informa o novo salário.
 
+---
 
-### Ação
+## Ação
 
 Receba o valor do salário atual do funcionário e imprima o novo salário de acordo com as regras informadas na descrição.
 
+---
 
-### Entrada e Saída
-
-Entrada:
+### Entrada:
 
 * Salário atual do funcionário (float com até duas casas decimais).
 
-Saída:
+### Saída:
 
 * Novo Salário (float com duas casas decimais).
 
+---
 
-
-### Ajuda
+## Ajuda
 
 Se a variável total guarda o salário final, em python você pode forçar a saída a ter apenas duas casas decimais usando
 
+``` python
 print("%.2f" % total)
-
+```
 
 e em C e C++ você faria:
 
+```C
 printf("%.2f", total);
+```
 
+---
 
-####
-
-#### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -70,6 +68,8 @@ printf("%.2f", total);
 2105.46
 <<<<<<<<
 ```
+
+---
 
 <!---
 >>>>>>>>

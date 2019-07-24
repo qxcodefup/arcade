@@ -1,26 +1,32 @@
 ## @0003 #01_ope L2 - Opala bebedor (Cálculo de desempenho)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0003/capa.jpg)
+![](capa.jpg)
+
+## Ação
 
 Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em minutos e o consumo de um carro em litros e pediu que você faça um programa que calcule o desempenho do motor em km por litro.
 
-Dica: 
+---
+
+### Dica:
 
 - O tempo em hora eh tempo em minutos/60
 - A distancia percorrida é velocidade vezes tempo em horas
 - O desempenho é distancia / consumo.
 
 ---
-Entrada
+### Entrada
 - Velocidade em km/h
 - Tempo em minutos
 - Consumo em litros
 
-Saída
+### Saída
 - Desempenho com duas cadas decimais.
 
 ---
+
+## Exemplos
 
 ```
 >>>>>>>> corsa
@@ -38,7 +44,11 @@ Saída
 ========
 4.00
 <<<<<<<<
+```
 
+---
+
+<!---
 >>>>>>>> moto
 65
 45
@@ -54,5 +64,4 @@ Saída
 ========
 4.90
 <<<<<<<<
-
-```
+---!>

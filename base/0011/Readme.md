@@ -1,17 +1,21 @@
 ## @0011 #01_ope L2 - Formatando data (Zeros à esquerda)
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0011/capa.jpg)
+![](capa.jpg)
+
+## Motivação
 
 Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e imprima no formato hh:mm dd/mm/aa. Você deve certificar-se de imprimir um 0 à esquerda para garantir que todas as informações tenham 2 dígitos. A hora de entrada poderá aparecer no formato 24 horas, mas apresente-a na saída no formato 12h.
 
-## Entrada e Saída
+---
 
-Entrada:
+### Entrada:
 - hora, minuto, dia, mês e ano, um por linha.
 
-Saída:
+### Saída:
 - hh:mm dd/mm/aa, sendo hora de 0 a 11.
+
+---
 
 ## Exemplos
 
@@ -45,11 +49,11 @@ Saída:
 ========
 00:01 01/01/76
 <<<<<<<<
-
-
 ```
 
-## Help
+---
+
+## Ajuda
 
 Em C você pode imprimir zeros à esquerda informando quantas casas decimais você deseja obter na parte inteira.
 
@@ -57,6 +61,7 @@ O comando printf("%03d", value) imprime a variável value e se ela menos de 3 d�
 
 Você pode usar o operador de módulo para quebrar a parte da informação de você precisa para pegar apenas a hora ou a dezena e unidade do ano.
 
+---
 
 <!---
 >>>>>>>> 03

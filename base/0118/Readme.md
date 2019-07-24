@@ -38,13 +38,6 @@ Saida: "pessoa ultron chefe pessoa ultron pessoa chefe"
 
 ```
 >>>>>>>>
-ultron
-ruame ronuai Lion uuuaaaa ronia kkk luno
-========
-pessoa ultron chefe pessoa ultron pessoa chefe
-<<<<<<<<
-
->>>>>>>>
 aeiou  
 arta euio auiaoauio riu pegasus
 ========  

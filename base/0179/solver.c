@@ -1,27 +1,25 @@
 #include <stdio.h>
 
 int main(){
-    int n;
+    int n, id = 0;
+    float mediaAtual = 0, media = 0;
     scanf("%d", &n);
 
-    char vet[n][6];
-    float media[n];
+    int alunos[n];
+    for(int i = 0; i < n; i++)
+        scanf("%d", &alunos[i]);
 
-    for(int a = 0; a < n; a++){
-        scanf("%s", vet[a]);
-        for(int i = 2; i < 6; i++)
-            media[a] += vet[a][i] + '0';
-        media[a] /= 4;
+    for(int i = 0; i < n; i++){
+        for(int j = 0; j < 4; j++){
+            media += alunos[i] % 10;
+            alunos[i] /= 10;
+        }
+        media /= 4;
+        if(media > mediaAtual){
+            mediaAtual = media;
+            id = (id > alunos[i]) ? id : alunos[i];
+        }
     }
-
-    int maior = 0, i_maior = 0;
-
-    for(int a = 1; a < n; a++)
-        if(media[a] > media[maior])
-            if(((vet[a][0] + '0') + (vet[a][1] + '0')) > i_maior){
-                maior = a;
-                i_maior = (vet[a][0] + '0') + (vet[a][1] + '0');
-            }
-
-    printf("%c%c\n", vet[maior][0], vet[maior][1]);
+    printf(((id < 10) ? "0%d\n" : "%d\n"), id);
+    return 0;
 }
