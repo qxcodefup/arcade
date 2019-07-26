@@ -4,10 +4,8 @@
 ![](capa.jpg)
 
 ## Ação
-
+#
 Leia dois números e imprima a soma, a subtração, a multiplicação, a divisão e o resto da divisão entre eles respectivamente.
-
----
 
 ### Entrada:
 
