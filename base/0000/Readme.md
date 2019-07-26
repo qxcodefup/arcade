@@ -4,7 +4,7 @@
 ![](capa.jpg)
 
 ## Ação
-#
+
 Leia dois números e imprima a soma, a subtração, a multiplicação, a divisão e o resto da divisão entre eles respectivamente.
 
 ### Entrada:
@@ -17,8 +17,6 @@ Leia dois números e imprima a soma, a subtração, a multiplicação, a divisã
 
 * Valor da divisão em ponto flutuante de duas casas decimais.
 * O valor de B nunca será 0, então não se preocupe com divisão por 0.
-
----
 
 ## Exemplos
 
@@ -45,8 +43,7 @@ Leia dois números e imprima a soma, a subtração, a multiplicação, a divisã
 0
 <<<<<<<<
 ```
-
----
+#
 
 <!---
 
