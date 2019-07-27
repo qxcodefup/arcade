@@ -3,21 +3,19 @@
 
 ![](capa.jpg)
 
-### Ação
+## Ação
 
 Faça uma função que calcule e retorne o mmc de dois números.  
 
-### Entrada e Saida
-
-Entrada:
+### Entrada
 
 *   Dois numeros inteiros N e M.
 
-Saida:
+### Saida
 
 *   O mmc de N e M.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -38,3 +36,5 @@ Saida:
 6
 <<<<<<<<
 ```
+
+#

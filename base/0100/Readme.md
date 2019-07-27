@@ -1,8 +1,9 @@
 ## @0100 #04_vet L3 - Jogando pião na rodinha
 ## @qxcode
 
-
 ![](capa.jpg)
+
+## Motivação
 
 No jogo de pião lá de Ocara o mói de peia funciona assim:
 - N jogadores se reúnem cada um com seu pião.
@@ -11,20 +12,21 @@ No jogo de pião lá de Ocara o mói de peia funciona assim:
 - Quem ficou mais perto do centro ganha, desde que tenha jogado dentro da roda.
 - Quem ficou mais longe do centro leva um mói de peia.
 
-## I/O
+### Entrada
 
-- Entrada
-    - 1a linha: N e C, sendo N a quantidade de jogadores e C a circunferência do círculo.
-    - 2a linha: As N jogadas dos jogadores representadas por um número inteiro, que pode ser positivo ou negativo representando a distância do centro.
-- Saída
-    - 1a linha: o número do ganhador.
-        - (1o jogador tem índice 0).
-        - "nenhum" se nenhum conseguiu acertar dentro da circunferência.
-        - se houver empate, o primeiro o último a jogar será o ganhador.
-    - 2a linha: o número do perdedor
-        - se houver empate, será o último jogador empatado, na ordem das jogadas.
+- 1a linha: N e C, sendo N a quantidade de jogadores e C a circunferência do círculo.
 
-## Testes
+- 2a linha: As N jogadas dos jogadores representadas por um número inteiro, que pode ser positivo ou negativo representando a distância do centro.
+
+### Saída
+
+- 1a linha: o número do ganhador (1o jogador tem índice 0).
+    - "nenhum" se nenhum conseguiu acertar dentro da circunferência.
+    - se houver empate, o primeiro o último a jogar será o ganhador.
+- 2a linha: o número do perdedor
+    - se houver empate, será o último jogador empatado, na ordem das jogadas.
+
+## Exemplos
 
 ```
 >>>>>>>> 01
@@ -58,13 +60,11 @@ nenhum
 2
 1
 <<<<<<<<
-
-
 ```
 
+#
 
 <!---
-
 >>>>>>>> 05
 30 4
 -25 -26 24 1

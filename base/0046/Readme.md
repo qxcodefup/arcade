@@ -13,15 +13,12 @@ Se a pessoa estiver utilizando os números 1 e 10, ela deve manter na memória e
 1 10 2 9 3 8 4 7 5 6 6 5 7 4 8 3 9 2 10 1
 ```
 
----
-
 ## Ação
 
 Dados dois número A e B, com A sempre menor que B, gere a sequencia que o jogador deve realizar.
 
----
-
 ## Exemplos
+
 ```
 >>>>>>>>
 1 10
@@ -29,13 +26,11 @@ Dados dois número A e B, com A sempre menor que B, gere a sequencia que o jogad
 [ 1 10 2 9 3 8 4 7 5 6 6 5 7 4 8 3 9 2 10 1 ]
 <<<<<<<<
 
-
 >>>>>>>>
 1 5
 ========
 [ 1 5 2 4 3 3 4 2 5 1 ]
 <<<<<<<<
-
 
 >>>>>>>>
 2 7
@@ -56,6 +51,6 @@ Dados dois número A e B, com A sempre menor que B, gere a sequencia que o jogad
 <<<<<<<<
 ```
 
----
+#
 
 <!--- os testes no .vpl estavam todos duplicados --->

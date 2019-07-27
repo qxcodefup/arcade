@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 O filho tirou 5 notas durante o semestre: 6, 6, 7, 7.1, 7.2  
 \- Meu filho, sua média em português foi 6.7. Você tá de recuperação.  
@@ -13,9 +13,9 @@ O filho tirou 5 notas durante o semestre: 6, 6, 7, 7.1, 7.2
 
 \[DS\]
 
-##### Obs: NÃO use o método pronto de ordenar do PYTHON.
+#### Obs: NÃO use o método pronto de ordenar do PYTHON.
 
-### Ação
+## Ação
 
 O cálculo da mediana consiste em descobrir qual o valor intermediário
 do vetor ORDENADO. No vetor v = {1, 2, 3}, por exemplo, a mediana é 2, pois este
@@ -23,18 +23,16 @@ do vetor ORDENADO. No vetor v = {1, 2, 3}, por exemplo, a mediana é 2, pois est
 
 Assim, você deve ordenar o vetor antes de calcular a mediana.
 
-### I/0
+### Entrada
 
-##### Entrada: 
+- 1° linha: A quantidade de elementos do vetor.  
+- 2a linha: Os elementos em ponto flutuante de forma não ordenada.
 
-1° linha: A quantidade de elementos do vetor.  
-2a linha: Os elementos em ponto flutuante de forma não ordenada.
+### Saída
 
-##### Saída
+- O Valor da mediana com até uma casa decimal.
 
-O Valor da mediana com até uma casa decimal.
-
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -65,6 +63,8 @@ O Valor da mediana com até uma casa decimal.
 9.0
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01

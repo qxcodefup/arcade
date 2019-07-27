@@ -3,28 +3,26 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Luzia estava apaixonada. Mandou pintar em cada unha dos dedos das mãos o cpf do seu amor.  
 Pensava ela: "sozinhos esses números, não são nada, mas juntos são o número do meu xuxuzinho.
 
 \[DS\]
 
-### Ação  
+## Ação  
 
 Faça um programa que deve transformar um vetor em um número inteiro e retornar esse valor inteiro. Todos os elementos do vetor devem conter apenas um dígito.
 
-### I/0  
+### Entrada
 
-##### Entrada
+- Um numero que representa o tamanho do vetor e seus elementos, um por linha.  
 
-Um numero que representa o tamanho do vetor e seus elementos, um por linha.  
+### Saida
 
-##### Saida
+- O valor inteiro resultado do programa.
 
-O valor inteiro resultado do programa.
-
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -65,6 +63,8 @@ O valor inteiro resultado do programa.
 54321
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01

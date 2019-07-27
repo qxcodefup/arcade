@@ -19,8 +19,6 @@ Se ambos ficarem à mesma distancia do valor real, então houve empate.
 
 [DS]
 
----
-
 ### Entrada
 * linha 1: o valor do produto.(valor inteiro entre 1 e 100)
 * linha 2: o chute do Primeiro
@@ -31,12 +29,9 @@ Se ambos ficarem à mesma distancia do valor real, então houve empate.
 * "segundo" se o chute do Segundo for o mais próximo do valor do produto
 * "empate" caso ambos ficarem à mesma distancia
 
----
-
 ## Exemplos
 
 ```
-
 >>>>>>>>
 1
 2
@@ -53,7 +48,6 @@ primeiro
 segundo
 <<<<<<<<
 
-
 >>>>>>>>
 10
 11
@@ -62,7 +56,6 @@ segundo
 empate
 <<<<<<<<
 
-
 >>>>>>>>
 20
 21
@@ -70,7 +63,6 @@ empate
 ========
 primeiro
 <<<<<<<<
-
 
 >>>>>>>>
 20
@@ -81,7 +73,7 @@ empate
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 

@@ -9,14 +9,10 @@ Você está tentando ensinar sua tartaruga RUFUS a jogar jokenpo.
 
 Faça uma função que retorne o resultado do jogo pedra, papel e tesoura para que RUFUS tenha algo divertido para fazer durante os seus banhos de sol no açude do Cedro.
 
----
-
 ## Ação
 
 Receba as duas opções do jogadores e informe quem ganhou a partida.
 Os jogadores podem escolher entre R(rock), P(paper) e S(scissor), que correspondem ao nosso pedra, papel e tesoura.
-
----
 
 ### Entrada:
 
@@ -26,8 +22,6 @@ Os jogadores podem escolher entre R(rock), P(paper) e S(scissor), que correspond
 ### Saída:
 
 * O jogador que ganhou ou empate (jog1, jog2, empate).
-
----
 
 ### Exemplos
 
@@ -54,7 +48,7 @@ jog1
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 >>>>>>>> 04

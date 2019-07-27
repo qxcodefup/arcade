@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 O dono do zoologico quer a lista de todas as especies de animais  
 que existem no zoologico. Para isso ele te deu uma lista de todos  
@@ -16,18 +16,16 @@ Não use uma função de ordenar pronta.
 
 \[DS\]
 
-### I/O
+### Entrada
 
-#### Entrada 
+- linha 1: um número com a quantidade de elementos do vetor
+- linha 2: o vetor de inteiros  
 
-linha 1: um número com a quantidade de elementos do vetor  
-linha 2: o vetor de inteiros  
+### Saída
 
-#### Saída
+- O novo vetor ordenado contendo um exemplar de cada elemento.
 
-O novo vetor ordenado contendo um exemplar de cada elemento.
-
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -51,6 +49,8 @@ O novo vetor ordenado contendo um exemplar de cada elemento.
 1 2 3 4 9
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01

@@ -10,14 +10,10 @@ Para calcular a imprecisão da arma, ele dava dois tiros e media a distância en
 Como ele não tinha régua, ele pegou os pontos no plano cartesiano e a fórmula
 da distância entre os pontos.
 
----
-
 ## Ação
 
 Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto,
 imprima a distância entre os pontos com duas casas decimais.
-
----
 
 ### Entrada:
 
@@ -27,9 +23,6 @@ imprima a distância entre os pontos com duas casas decimais.
 ### Saída:
 
 * A distância entre os pontos com duas casas decimais.
-
-
----
 
 ## Exemplos
 
@@ -63,8 +56,6 @@ imprima a distância entre os pontos com duas casas decimais.
 
 ```
 
----
-
 ## Ajuda
 
 Fórmula da distância entre dois pontos:  
@@ -87,7 +78,7 @@ Para calcular a raiz quadrada você deverá importar a biblioteca math.h em seu 
 
 Para elevar ao quadrado você pode usar a função pow(x,2) que retorna x², ou fazer x * x. A função pow() também pertence à math.h.
 
----
+#
 
 <!---
 

@@ -18,8 +18,6 @@ perder caso a quantidade de Condenados à morte fosse maior ou melhor posicionad
 demoram a lutar, então Cyzar fica entediado e decide esquentar ainda mais as coisas, colocando um Leão
 na arena!
 
----
-
 ## Ação
 
 Usando G para gladiadores, C para Condenados à morte e L para o Lẽao, o usuário preencherá a matriz quadrada.
@@ -33,8 +31,6 @@ Regras do cálculo:
 
 Some todos os G's e C's e determine quem é o vencedor.
 
----
-
 ### Entrada
 - 1a linha: Número de linhas e colunas da matriz
 - linhas seguintes, o conteúdo da matriz com três caracteres apenas
@@ -47,7 +43,6 @@ Some todos os G's e C's e determine quem é o vencedor.
 - "Condenados a morte" caso C seja maior
 - "Ninguém" caso contrário.
 
----
 ## Exemplos
 
 ```
@@ -60,7 +55,6 @@ C G G
 Condenados a morte
 <<<<<<<<
 
-
 >>>>>>>>
 3
 G G C
@@ -69,7 +63,6 @@ G C C
 ========
 Condenados a morte
 <<<<<<<<
-
 
 >>>>>>>>
 3
@@ -81,7 +74,7 @@ Ninguem
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 >>>>>>>>

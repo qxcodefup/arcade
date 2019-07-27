@@ -9,8 +9,6 @@ Só quem depende do transporte público sabe o quanto um ônibus consegue desafi
 A quantidade de gente é tão grande que o motorista não consegue nem enxergar quantos entram ou quantos saem no busão.
 Em uma viagem, ele pediu para você, estudante de TI, que fizesse um programa que o ajude a decidir quando é a hora de partir.
 
----
-
 ## Ação
 
 Dado um inteiro **C**, que indica a capacidade do ônibus prevista pela legislação,
@@ -32,8 +30,6 @@ Você pode assumir:
 * Um número negativo representa a saída de pessoas.
 * Nunca vão sair mais pessoas do que tem no ônibus
 
----
-
 ### Entrada:
 
 * O inteiro **C** (capacidade).
@@ -42,8 +38,6 @@ Você pode assumir:
 ### Saída
 
 * O estado do ônibus para cada entrada ou saída de gente.
-
----
 
 ## Exemplos
 
@@ -92,6 +86,6 @@ hora de partir
 <<<<<<<<
 ```
 
----
+#
 
 <!--- os testes no .vpl são os mesmos do Readme.md --->

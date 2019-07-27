@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Todo batráquio é anfíbio, mas nem todo anfíbio é batráquio. Todo sapo, rã e perereca são tanto anfíbios
 como batráquios.
@@ -14,27 +14,26 @@ Não entendeu? Quem mandou gazear a aula de biologia. -_-
 
 \[DS\]
 
-### Ação
+## Ação
 
 Dados dois vetores, verifique se o primeiro está contido no segundo.
 
-### I/0  
+### Entrada
 
-##### Entrada
+- 1a linha: Número de elementos do primeiro vetor(1 a 50) seguido dos elementos.  
+- 2a linha: Número de elementos do segundo vetor(1 a 50) seguido dos elementos.
 
-1a linha: Número de elementos do primeiro vetor(1 a 50) seguido dos elementos.  
-2a linha: Número de elementos do segundo vetor(1 a 50) seguido dos elementos.
+### Saída
 
-##### Saída
+- "sim" se o primeiro está condido no segundo e não caso contrário.
 
-"sim" se o primeiro está condido no segundo e não caso contrário.
-
-Descubra se o vetor v1 está contido em v2 e retorne true se isso ocorrer.
+- Descubra se o vetor v1 está contido em v2 e retorne true se isso ocorrer.
   
-Dica: se todos os elementos de v1 existirem em v2, v1 só pode estar
+## Dica
+- Se todos os elementos de v1 existirem em v2, v1 só pode estar
 contido em v2.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -58,6 +57,8 @@ nao
 sim
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01

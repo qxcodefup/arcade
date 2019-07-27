@@ -1,10 +1,9 @@
 ## @0059 #03_rep L3 - Sapinho morrendo no poço
 ## @qxcode
 
-Sapinho no poço
-===============
-
 ![sapinho](capa.jpg)
+
+## Motivação
 
 * Mamãe, minha namorada, a Myrellah disse que não vem mais aqui em casa.
 * Porquê meu filho?
@@ -22,23 +21,16 @@ para mostrar os saltos do sapo até a saída.
 * Enquanto se recupera para o próximo salto, ele escorrega E centímetros.
 * A cada salto o sapinho fica mais cansado e o próximo salto será 10 cm menor.
 * Se ele ficar abaixo da agua ele morrerá afogado.
- 
 
-Entrada e saída
-===============
-
-* Entrada
- 
+### Entrada
 
 * P, S, E inteiros, um por linhas.
- 
 
-* Saída
+### Saída
 
 * as posições de salto e aterrissagem do sapinho até que ele saia ou morra afogado.
 
-Exemplos
-========
+## Exemplos
 
 ```
 >>>>>>>>
@@ -51,7 +43,6 @@ Exemplos
 390 670
 570 saiu
 <<<<<<<<
-
 
 >>>>>>>>
 800
@@ -83,7 +74,6 @@ Exemplos
 -110 morreu
 <<<<<<<<
 
-
 >>>>>>>>
 100
 50
@@ -97,7 +87,6 @@ Exemplos
 0 0
 -30 morreu
 <<<<<<<<
-
 
 >>>>>>>>
 100
@@ -115,6 +104,8 @@ Exemplos
 -30 morreu
 <<<<<<<<
 ```
+
+#
 
 <!---
 

@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 A brincadeira do avesso funciona assim.
 
@@ -12,7 +12,7 @@ Os operários ficam em fila.
 O chefe diz o nome de um operário e os dois operários que estavam perto dele tem que trocar de posição.  
 Se estavam em pé, ficam agachados e vice-versa.
 
-### Ação  
+## Ação
 
 Suponha a seguinte configuração onde cada número  
 representa uma pessoa.
@@ -30,21 +30,19 @@ O 8 volta ao normal e o 1 se agacha.
 Considere que nunca existem duas pessoas com o mesmo número no vetor.  
 Se o chefe disser um número errado, ninguém deve se mexer.
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   a quantidade de casos de teste.
+*   Para cada caso teste:  
+    \* O tamanho do vetor de operários (N < 100) e o grito do chefe (0 < X < 100).  
+    \* O vetor de operários, um valor inteiro para cada elemento  (0 < 100).
 
-*   Para cada caso teste,  
-    \*O tamanho do vetor de operários (N < 100) e o grito do chefe (0 < X < 100).  
-    \*O vetor de operários, um valor inteiro para cada elemento  (0 < 100).
-
-Saída:
+### Saída
 
 *   Vetor resultante.  
 
-### Exemplo
+## Exemplos
+
 ```
 >>>>>>>>
 1
@@ -98,3 +96,5 @@ Saída:
 [3 4 8 9 -1 5 6]
 <<<<<<<<
 ```
+
+#

@@ -8,13 +8,10 @@
 Você já jogou zerim ou um? Aposto que sim!
 Que tal implementar um código que lê os dedos e informa quem ganhou o jogo?
 
----
-
 ## Ação
 
 Receba três valores correspondentes dos jogadores e em seguida imprima quem foi o vencedor ou se ouve empate segundo as regras do zerim ou um.
 
----
 ### Entrada:
 
 * As opções dos 3 jogadores, uma por linha.
@@ -22,8 +19,6 @@ Receba três valores correspondentes dos jogadores e em seguida imprima quem foi
 ### Saída:
 
 * O jogador (jog1, jog2, jog3) que ganhou ou "empate".
-
----
 
 ## Exemplos
 ```
@@ -35,7 +30,6 @@ Receba três valores correspondentes dos jogadores e em seguida imprima quem foi
 empate
 <<<<<<<<
 
-
 >>>>>>>>
 0
 0
@@ -44,7 +38,6 @@ empate
 jog3
 <<<<<<<<
 
-
 >>>>>>>>
 1
 0
@@ -52,7 +45,6 @@ jog3
 ========
 jog1
 <<<<<<<<
-
 
 >>>>>>>>
 1
@@ -63,7 +55,7 @@ jog2
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 >>>>>>>>

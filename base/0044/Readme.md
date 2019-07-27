@@ -7,13 +7,9 @@
 
 Marilurdes tem muitos pares de sapatos. Só que vários deles ela compartilha com as irmãs Arilúcia e Barisilene. Quantos pares de sapato são divisíveis pelas 3 entre Arilúcia e Barislene?
 
----
-
 ## Ação
 
 Some todos os números inteiros pares que são divisíveis por 3 que estão entre A e B, inclusive A e B.
-
----
 
 ### Entrada
 
@@ -22,8 +18,6 @@ Some todos os números inteiros pares que são divisíveis por 3 que estão entr
 ### Saída
 
 * A soma de todos os números pares divisíveis por 3 ou "invalido" caso A seja maior que B.
-
----
 
 ## Exemplos
 
@@ -57,7 +51,7 @@ invalido
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 

@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 cvccvccv!
 
@@ -15,21 +15,19 @@ Pirou de vez menino? O que é vcvcvcvcvc, tá achando que a vida é um chat?
 
 É uma brincadeira Reumário! Eu pego uma frase e onde é vogal eu coloco v, onde é consoante eu coloco c. Onde é espaço eu ponho espaço. Então cvccvccv é o meu nome e cvvcvcvv ccccvcv o seu.
 
-### Ação
+## Ação
 
 Se você entendeu, faça o código que dada a frase de entrada(max 50 char), imprime a codificação de Pedrinho.
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   A frase. (max 50 char)
 
-Saída:
+### Saída
 
 *   A frase códificada.
 
-Exemplos:
+## Exemplos
 
 ```
 >>>>>>>>
@@ -51,16 +49,4 @@ vvccccccvv
 <<<<<<<<
 ```
 
-<!---
->>>>>>>> 01
-Reumario Albrito
-========
-cvvcvcvv vcccvcv
-<<<<<<<<
-
->>>>>>>> 02
-AaBbCcDdEe
-========
-vvccccccvv
-<<<<<<<<
---->
+#

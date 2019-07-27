@@ -27,8 +27,6 @@ Com isso, ele concluiu uma faixa de satisfação dos saques:
 
 Desenvolva o programa que dados os valores de entrada, imprima o resultado de satisfação.
 
----
-
 ### Entrada
 
 * Tipo de saque (c ou b) do tipo char
@@ -38,8 +36,6 @@ Desenvolva o programa que dados os valores de entrada, imprima o resultado de sa
 ### Saída
 
 * A precisão do saque do atleta
-
----
 
 ## Exemplos:
 
@@ -51,7 +47,6 @@ c
 Perfeito
 <<<<<<<<
 
-
 >>>>>>>>
 b
 68
@@ -59,14 +54,12 @@ b
 Fraco, nem passou
 <<<<<<<<
 
-
 >>>>>>>>
 c
 160
 ========
 Muito forte, bola fora
 <<<<<<<<
-
 
 >>>>>>>>
 b
@@ -76,7 +69,7 @@ Satisfeito
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 >>>>>>>>

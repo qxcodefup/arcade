@@ -12,8 +12,6 @@ mundial de par ou impar e trazer o prêmio pra UFC.
 
 [DS]
 
----
-
 ### Entrada:
 * linha 1: A opção do jogador1(p para par e i para impar)
 * linha 2: o número de dedos do primeiro jogador
@@ -22,9 +20,8 @@ mundial de par ou impar e trazer o prêmio pra UFC.
 ### Saída:
 * "Venceu" se o jogador 1 venceu e "Perdeu" se ele perdeu.
 
----
-
 ## Exemplos
+
 ```
 >>>>>>>>
 p
@@ -59,7 +56,7 @@ Venceu
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 

@@ -7,15 +7,11 @@
 
 Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e imprima no formato hh:mm dd/mm/aa. Você deve certificar-se de imprimir um 0 à esquerda para garantir que todas as informações tenham 2 dígitos. A hora de entrada poderá aparecer no formato 24 horas, mas apresente-a na saída no formato 12h.
 
----
-
 ### Entrada:
 - hora, minuto, dia, mês e ano, um por linha.
 
 ### Saída:
 - hh:mm dd/mm/aa, sendo hora de 0 a 11.
-
----
 
 ## Exemplos
 
@@ -51,7 +47,7 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 <<<<<<<<
 ```
 
----
+#
 
 ## Ajuda
 

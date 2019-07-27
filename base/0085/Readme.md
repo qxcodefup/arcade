@@ -3,23 +3,20 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Os soldados formaram uma fila no quartel. Essa fila está representada por um vetor de inteiros. O 1 representa um médico e o 0 soldado de combate. Todo soldado de combate perto de um médico tem mais chances de sobreviver. A pergunta é quantos soldados NÃO estão adjacentes a um médico.  
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   1ª linha:  quantidade de elementos do vetor.
-    
 *   2ª linha:  elementos do vetor.
 
-Saída:
+### Saída
 
 *   A quantidade de soldados que não tem médico à sua direita ou à sua esquerda.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -36,6 +33,8 @@ Saída:
 1
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01

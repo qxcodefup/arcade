@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 A divisão de Suprimentos de Botas e Calçados do Exército comprou um grande número de pares de botas de vários tamanhos para seus soldados. No entanto, por uma falha de empacotamento da fábrica contratada, nem todas as caixas entregues continham um par de botas correto, com duas botas do mesmo tamanho, uma para cada pé. O sargento mandou que os recrutas retirassem todas as botas de todas as caixas para reembalá-las, desta vez corretamente.
 
@@ -11,20 +11,20 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 
 ### Entrada
 
-A primeira linha da entrada contém um inteiro N indicando o número de botas individuais entregues. Cada uma das N linhas seguintes descreve uma bota, contendo um número inteiro M e uma letra L, separados por um espaço em branco. M indica o número do tamanho da bota e L indica o pé da bota: L= 'D' indica que a bota é para o pé direito, L= 'E' indica que a bota é para o pé esquerdo.
+- A primeira linha da entrada contém um inteiro N indicando o número de botas individuais entregues. Cada uma das N linhas seguintes descreve uma bota, contendo um número inteiro M e uma letra L, separados por um espaço em branco. M indica o número do tamanho da bota e L indica o pé da bota: L= 'D' indica que a bota é para o pé direito, L= 'E' indica que a bota é para o pé esquerdo.
 
 ### Saída
 
-Seu programa deve imprimir uma única linha contendo um único número inteiro indicando o número total de pares corretos de botas que podem ser formados.
+- Seu programa deve imprimir uma única linha contendo um único número inteiro indicando o número total de pares corretos de botas que podem ser formados.
 
-### Restrições
+## Restrições
 
 *   2 ≤ N ≤ 104
 *   N é par
 *   30 ≤ M ≤ 60
 *   L é o caractere 'D' ou o caractere 'E'
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -52,28 +52,6 @@ Seu programa deve imprimir uma única linha contendo um único número inteiro i
 
 <!---
 >>>>>>>> 01
-4
-40 D
-41 E
-41 D
-40 E
-========
-2
-<<<<<<<<
-
->>>>>>>> 02
-6
-38 E
-39 E
-40 D
-38 D
-40 D
-37 E
-========
-1
-<<<<<<<<
-
->>>>>>>> 03
 10
 30 E
 31 E
@@ -89,7 +67,7 @@ Seu programa deve imprimir uma única linha contendo um único número inteiro i
 4
 <<<<<<<<
 
->>>>>>>> 04
+>>>>>>>> 02
 10
 44 D
 40 E
@@ -105,7 +83,7 @@ Seu programa deve imprimir uma única linha contendo um único número inteiro i
 3
 <<<<<<<<
 
->>>>>>>> 05
+>>>>>>>> 03
 10
 59 D
 59 E
@@ -121,7 +99,7 @@ Seu programa deve imprimir uma única linha contendo um único número inteiro i
 3
 <<<<<<<<
 
->>>>>>>> 06
+>>>>>>>> 04
 12
 56 D
 59 D

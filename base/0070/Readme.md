@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Um grupo de N amigos decidem brincar de um esporte sangrento. O vencedor leva a princesa bonita pra sua casa.  
 Eles ficam em uma fila circular e escrevem em suas camisas números sequenciais onde o primeiro usa o número 1 e o último o número N.  
@@ -15,12 +15,11 @@ Highlander Mode On!
   
 Dica: Não faça isso em casa.  
   
-### Ação
+## Ação
 
 Remova elementos intercaladamente em uma lista circular.  
-  
-  
-**\*\*Simulação\*\***  
+
+**\*\*Simulação\*\***
   
 Cinco pessoas e a princesa escolhe o 3.  
   
@@ -33,19 +32,16 @@ Cinco pessoas e a princesa escolhe o 3.
 Sobra o cinco.  
 Dica: Não faça isso em casa.
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   O número N de participantes.  
-    
 *   O número X do participante que inicia o jogo.  
 
-Saída:
+### Saída
 
 *   O número do jogador vencedor.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -62,6 +58,8 @@ Saída:
 4
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01

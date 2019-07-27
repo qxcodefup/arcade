@@ -1,9 +1,9 @@
 ## @0094 #05_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
 ## @qxcode
 
-![]()
+![](capa.jpg)
 
-### Motivação
+## Motivação
 
 *   Meu filho, você não sabe que quando a gente escreve tudo em caixa alta é como se a gente tivesse gritando.
 *   Sabia não.
@@ -14,21 +14,19 @@
 *   Eu vou falar com sua mãe então.
 *   Tia, aproveita e pede pra ela não usar caixa alta quando eu mostrar o boletim pra ela.
 
-### Ação
+## Ação
 
 Dado um texto(max 100 char) mostre o texto invertido. O que for minúsculo imprima em maiúsculo e vice versa. Números e pontuação deixe inalterado.
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   Um texto (max 100 char)
 
-Saída:
+### Saída
 
 *   O texto com os caracteres invertido. O que for minúsculo imprima em maiúsculo e vice versa.
 
-Exemplos:
+## Exemplos
 
 ```
 >>>>>>>>
@@ -50,6 +48,4 @@ pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
 <<<<<<<<
 ```
 
-<!---
-
---->
+#

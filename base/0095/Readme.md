@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 \- Mamãe, quantos 'a's existem na frase:  
 "A Andreia alimentou a avestruz com alcaparras"  
@@ -12,26 +12,22 @@ Um silêncio toma conta do ambiente. Mamãe olha pro teto como quem conta algo. 
 Mamãe se sentindo superada por uma menina de 6 anos responde!  
 \- Menina, vai programar que é mais futuro.
 
-### Ação
+## Ação
 
 Ajude Emanuelita a fazer o código que conta quantas vezes um caractere aparece numa frase (max 100 char).  
 Conte os caracteres MAIÚSCULOS e MINÚSCULOS.
 
 OBS: Não use o método count do python.
 
-### Entrada e Saída
-
-### 
-
-Entrada:
+### Entrada
 
 *   Uma frase de até 100 caracteres e uma letra.
 
-Saida:
+### Saída
 
 *   O número de vezes que a letra aparece na frase.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -55,6 +51,8 @@ x
 0
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01 !%

@@ -11,13 +11,9 @@ Os que recebem até 1000.00 reais, vão ganhar 20%. Quem recebe até 1500.00 vai
 
 Os funcionários estão nervosos pra saber quanto vão ganhar no novo contracheque. Você que sabe programar resolveu fazer um programinha no qual o funcionário entra com seu salário e você informa o novo salário.
 
----
-
 ## Ação
 
 Receba o valor do salário atual do funcionário e imprima o novo salário de acordo com as regras informadas na descrição.
-
----
 
 ### Entrada:
 
@@ -26,8 +22,6 @@ Receba o valor do salário atual do funcionário e imprima o novo salário de ac
 ### Saída:
 
 * Novo Salário (float com duas casas decimais).
-
----
 
 ## Ajuda
 
@@ -43,8 +37,6 @@ e em C e C++ você faria:
 printf("%.2f", total);
 ```
 
----
-
 ## Exemplos
 
 ```
@@ -54,13 +46,11 @@ printf("%.2f", total);
 1080.00
 <<<<<<<<
 
-
 >>>>>>>>
 1500.00
 ========
 1725.00
 <<<<<<<<
-
 
 >>>>>>>>
 2005.20
@@ -69,7 +59,7 @@ printf("%.2f", total);
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 >>>>>>>>

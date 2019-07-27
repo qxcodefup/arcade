@@ -13,13 +13,9 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 00, 01, 03, 10, 11, 13, 30, 31, 33 
 ```
 
----
-
 ## Dica:
 
 É comum esses algoritmos de força bruta executarem por muitas horas e muitos dias. Então é importante guardar a última senha testada para no caso de ter que retornar os testes, retornar a partir do ponto que parou.
-
----
 
 ### Entrada
 - 1a linha: S Q, respectivamente o tamanho da senha e a quantidade de novas senhas a serem geradas. S entre 1 e 50, Q entre 1 e 100.
@@ -29,7 +25,6 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 ### Saída
 - As Q novas senhas a serem testadas uma por linha.
 
----
 ## Exemplos
 
 ```
@@ -82,7 +77,7 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 >>>>>>>> muitos

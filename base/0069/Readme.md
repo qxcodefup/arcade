@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 O dono do zoológico quer a lista de todas as especies de animais  
 que existem no zoológico. Para isso, ele te deu uma lista de todos os animais.
@@ -11,24 +11,22 @@ que existem no zoológico. Para isso, ele te deu uma lista de todos os animais.
 Ele quer que você faça um programa que retorne a quantidade de espécies diferentes.  
 Considere que um número representa uma especie.
 
-### Ação
+## Ação
 
 Faça um programa para calcular a quantidade de numero diferentes inseridos dado um vetor e seu tamanho como entrada.
 
 Obs.: Não use uma função de ordenar pronta.  
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   Inteiro com a quantidade de elementos do vetor (1 até 50).
 *   Elementos inteiros do vetor.  
 
-Saída:
+### Saída
 
 *   Quantidade de espécies.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -52,6 +50,8 @@ Saída:
 5
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01

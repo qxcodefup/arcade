@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### 360 Graus
+## Motivação
 
 Aline: Ei André, minha vida deu uma volta de 360 graus.  
 André: Vai pro colégio não tu? 360 graus volta pro mesmo lugar.  
@@ -13,7 +13,7 @@ Aline: Não, é 360 mesmo, eu levei a carteira pra casa.
 André: E?????  
 Aline: Descobri que era do meu pai.
 
-### Ação
+## Ação
 
 ![](angulos.png)
 
@@ -23,7 +23,7 @@ Seu objetivo é transformar os ângulos para recolocá-los dentro do cartesiano.
   
 Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano entre 0 e 355.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -63,13 +63,9 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 <<<<<<<<
 ```
 
-<!---
->>>>>>>> 01
-360
-========
-0
-<<<<<<<<
+#
 
+<!---
 >>>>>>>> 02
 -1
 ========

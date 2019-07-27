@@ -3,22 +3,20 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 O Dono do zoológico que fazer uma grande arca e colocar os animais dentro. Acontece que os animais só podem entrar na arca aos pares. Um número representa uma espécie. Se esse número for positivo, é um animal macho e se for um número negativo, é um animal fêmea. Um casal precisa ter um macho e uma fêmea da mesma espécie.
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   linha 1: um número com a quantidade de elementos do vetor (até 50)
 *   linha 2: o vetor de inteiros
 
-Saída:
+### Saída
 
 *   A quantidade de casais formados.
 
-Exemplos:
+## Exemplos
 
 ```
 >>>>>>>>
@@ -42,3 +40,5 @@ Exemplos:
 3
 <<<<<<<<
 ```
+
+#

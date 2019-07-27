@@ -17,17 +17,13 @@ Aline: Descobri que era do meu pai.
 
 ## Ação
 
-
-
-![angulos](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0016/angulos.png)
+![angulos](angulos.png)
 
 Nosso sistema de ângulos no plano cartesiano é definido em graus. O ângulo 0 aponta para esquerda, o 90 aponta para cima, o 180 para direita e por aí vai. O 360 graus equivale voltar ao 0.
 
 Seu objetivo é transformar os ângulos para recolocá-los dentro do cartesiano. O ângulo 361 equivale ao 1. Ângulos negativos equivalem a andar no sentido horário. Por exemplo, -1 equivale ao 355.
 
 Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano entre 0 e 355.
-
----
 
 ## Exemplos
 
@@ -38,13 +34,11 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 0
 <<<<<<<<
 
-
 >>>>>>>> 02
 360
 ========
 0
 <<<<<<<<
-
 
 >>>>>>>> 03
 361
@@ -52,13 +46,11 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 1
 <<<<<<<<
 
-
 >>>>>>>> 04
 722
 ========
 2
 <<<<<<<<
-
 
 >>>>>>>> 05
 -2
@@ -66,19 +58,16 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 358
 <<<<<<<<
 
-
 >>>>>>>> 06
 -350
 ========
 10
 <<<<<<<<
-
-
 ```
+
+#
+
 <!---
-
-
-
 >>>>>>>> 07
 -1
 ========

@@ -9,8 +9,7 @@ A brincadeira do avesso funciona assim.
 
 Tem um chefe e os operários. Os operarios ficam em fila. O chefe diz o nome de um operario e os dois operários que estavam perto dele tem que trocar de posição. Se estavam em pé, ficam agachados.
 
-Ação
-----
+## Ação
 
 Suponha a seguinte configuração onde cada número representa uma pessoa.
 
@@ -23,19 +22,17 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 
 \[DS\]
 
-I/O
----
-
-**Entrada**:
+### Entrada
 
 *   linha 1: o tamanho N do vetor de operarios(0 < N < 100) e a quantidade X de gritos do chefe( 0 < X < 100)
 *   linha 2: o vetor de operarios, cada elemento entre (0 < 100)
 *   linha 3: o vetor de gritos, cada elemento entre (0 < 100)
 
-**Saída**: o novo vetor
+### Saída
+- o novo vetor.
 
-Exemplos
---------
+## Exemplos
+
 ```
 >>>>>>>>
 3 1
@@ -61,3 +58,5 @@ Exemplos
 [3 4 8 9 1 5 6]
 <<<<<<<<
 ```
+
+#

@@ -1,33 +1,30 @@
 ## @0068 #04_vet L2 - Organizando a fila do RU - Separar Pares e Ímpares!
 ## @qxcode
-##qxcode
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Você ganhou uma bolsa de auxílio pra organizar a fila do RU.  
 Então teve uma brilhante ideia para organizar as filas.  
 Ao invés de uma única fila você vai fazer uma para os professores  
 e STAs (seu professor agradece) e uma para alunos.
 
-### Ação
+## Ação
 
 Imprima todos os números ímpares na ordem em que foram inseridos na primeira linha, e imprima todos os pares na segunda linha de forma análoga.
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   Quantidade N de pessoas na fila.
 *   N valores inteiros onde um número ímpar representa um aluno e um par representa um servidor.  
 
-Saída:
+### Saída
 
 *   Os números ímpares na ordem que aparecem na entrada.
 *   Os números pares na ordem que aparecem na entrada.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -54,6 +51,8 @@ Saída:
 [ 2 4 ]
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01 vazio 10%

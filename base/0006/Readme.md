@@ -17,15 +17,12 @@ No zerim ou um americano cada participante coloca quantos dedos quiser na roda. 
 
 Suponha que existem 4 jogadores. O contador, o jogador 1, aponta pra cima e diz "zero", e então aponta pra si mesmo e diz "um", aponta pro jogador 2 e diz "dois", pro jogador 3 e diz "três", pro jogador 4 e diz "quatro", volta a apontar pra si e diz "cinco" e assim até que os números acabem.
 
----
-
 ### Entrada
 - Os números dos 4 jogadores, um por linha.
 
 ### Saída
 - "nenhum" se a soma deu 0, jog1, jog2, jog3 ou jog4.
 
----
 ## Exemplos
 
 ```
@@ -57,7 +54,7 @@ jog4
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 >>>>>>>> 04

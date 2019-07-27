@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 *   As pessoas perderam a fé na sexta feira 13. Diz Jason por trás da máscara.
 *   A vida tá ficando difícil mesmo. Fala Freddy Krueguer com o dedo enfiado numa nota de 50.
@@ -20,21 +20,19 @@ Algum tempo depois...
 *   Ditongo!!! Grita Freddy.
 *   Ieie, pegadinha do malandro Kruguinho: Caiu na casca de banana: vogais juntas são um encontro vocálico, que pode ser ditongo ou hiato, dependendo se estão ou não na mesma sílaba.
 
-### Ação
+## Ação
 
 Faça um programa que dada uma string retorne uma linha contendo o subtexto com a maior quantidade de vogais juntas.
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   1a linha: a quantidade de casos de teste(1 a 50). Uma linha por caso de teste contendo uma frase de até 50 caracteres, apenas com minuscula.
 
-Saida:
+### Saida
 
 *   Para cada de teste retorne uma linha contendo o subtexto com a maior quantidade de vogais juntas. Se existir empate, retorne o que aparece primeiro no texto.
 
-Exemplos:
+## Exemplos
 
 ```
 >>>>>>>>
@@ -71,3 +69,5 @@ uoia
 au
 <<<<<<<<
 ```
+
+#

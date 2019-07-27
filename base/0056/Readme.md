@@ -3,31 +3,25 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Tem mulheres que gostam de roupa apertada. E homens sertanejos também. Mariana olhou em seu armário  
 e se vestiu para lacrar na festa do Luan Santana. Então pegou 5 de suas melhores calças jeans e decidiu  
 escolher a mais justa.  
-  
 
-### Ação
+## Ação
 
 Faça um programa que receba cinco valores inteiros e encontre o menor deles.  
-  
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   5 valores inteiros (entre 1 e 30), um por linha.
 
-Saída:
+### Saída
 
 *   O menor valor inteiro.  
-      
-    
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -40,7 +34,6 @@ Saída:
 1
 <<<<<<<<
 
-
 >>>>>>>>
 4
 7
@@ -52,9 +45,9 @@ Saída:
 <<<<<<<<
 ```
 
+#
+
 <!---
-
-
 >>>>>>>>
 4
 2

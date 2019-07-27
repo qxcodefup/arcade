@@ -14,13 +14,10 @@ Eles podem, porém, ter acesso a todas as jogadas passadas que aconteceram.
 
 Então você teve uma ideia! Que tal analisar a frequência de ocorrência dos números e verificar o número que se repete mais. Talvez seja uma bila com mais peso que as outras, ou várias bilas com o mesmo número.
 
----
-
 ## Ação
 
 Conte as ocorrências e descubra qual elemento ocorre mais vezes no vetor.
 
----
 ### Entrada:
 * linha 1: um número com a quantidade de elementos do vetor (até 5000)
 * linha 2: o vetor de inteiros.
@@ -58,7 +55,7 @@ crescente.
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 

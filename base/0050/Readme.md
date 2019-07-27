@@ -17,14 +17,10 @@ Zezim da Carroça ganhou bloquinhos de montar do seu pai. Como ele não tinha co
 
 Algum tempo depois descobriu que esses números, 1, 2, 4, 9, 16, 25, etc eram chamados números quadrados ou quadrados perfeitos. Se quiser conhecer mais sobre as propriedades desse números acesse [https://pt.wikipedia.org/wiki/N%C3%BAmero\_quadrado](https://pt.wikipedia.org/wiki/N%C3%BAmero_quadrado)
 
----
-
 ## Ação
 
 Dado um inteiro lido do usuário, determine, sem uso de operadores reais  
 (como raiz quadrada, por exemplo), se ele é um quadrado perfeito, imprimindo "sim" se ele for quadrado perfeito e "nao", caso contrário.  
-
----
 
 ### Entrada
 
@@ -33,8 +29,6 @@ Dado um inteiro lido do usuário, determine, sem uso de operadores reais
 ### Saída
 
 - sim ou nao
-
----
 
 ## Exemplos
 
@@ -58,7 +52,7 @@ sim
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 >>>>>>>>

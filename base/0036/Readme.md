@@ -21,23 +21,17 @@ Os esquilos ficaram juntinhos e bem esticadinhos. A raposa foi lá e numa bocada
 
 Moral da história: Não confie em pessoas que tem claramente interesses diferentes dos seus quando elas quiserem te ajudar.
 
----
-
 ## Ação
 
 Receba três valores e imprima o valor do meio.
 
----
-
 ### Entrada
 
 * Os três valores, uma por linha, todos os valores serão diferentes.
- 
+
 ### Saída
 
 * O valor do meio.
-
----
 
 ## Exemplos
 
@@ -50,7 +44,6 @@ Receba três valores e imprima o valor do meio.
 4
 <<<<<<<<
 
-
 >>>>>>>>
 6
 5
@@ -58,7 +51,6 @@ Receba três valores e imprima o valor do meio.
 ========
 6
 <<<<<<<<
-
 
 >>>>>>>>
 1
@@ -68,7 +60,6 @@ Receba três valores e imprima o valor do meio.
 1
 <<<<<<<<
 
-
 >>>>>>>>
 4
 6
@@ -76,10 +67,9 @@ Receba três valores e imprima o valor do meio.
 ========
 5
 <<<<<<<<
-
 ```
 
----
+#
 
 <!---
 

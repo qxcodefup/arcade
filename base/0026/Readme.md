@@ -18,15 +18,11 @@ e você comeu 5 sanduíches, com quanto você fica?
 O Chaves não sabe diferenciar positivo, negativo e nulo, mas você sabe!
 Eu espero!
 
----
-
 ### Entrada
 - Leia um valor inteiro do usuário.
 
 ### Saída
 - Imprima "positivo", "nulo" ou "negativo" de acordo com o valor lido.
-
----
 
 ### Exemplos
 
@@ -37,13 +33,11 @@ Eu espero!
 positivo
 <<<<<<<<
 
-
 >>>>>>>>
 -1
 ========
 negativo
 <<<<<<<<
-
 
 >>>>>>>>
 0
@@ -52,7 +46,7 @@ nulo
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 >>>>>>>>

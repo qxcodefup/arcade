@@ -22,7 +22,6 @@ para mostrar os saltos do sapo até a saída.
 
 Imprima todas as posições de aterrissagem dos saltos do sapinho.
 
----
 ### Entrada
 
 * P, S, E inteiros, um por linhas. S sempre será maior que E.
@@ -31,12 +30,9 @@ Imprima todas as posições de aterrissagem dos saltos do sapinho.
 
 * as posições de salto e aterrissagem do sapinho até que ele saia do poço.
 
----
-
 ## Exemplos
 
 ```
-
 >>>>>>>>
 500
 100
@@ -49,7 +45,6 @@ Imprima todas as posições de aterrissagem dos saltos do sapinho.
 320 420
 400 saiu
 <<<<<<<<
-
 
 >>>>>>>>
 800
@@ -65,7 +60,7 @@ Imprima todas as posições de aterrissagem dos saltos do sapinho.
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 

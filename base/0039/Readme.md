@@ -23,8 +23,6 @@ segundo errar a direção do chute.
 
 [DS]
 
----
-
 ### Entrada:
 
 * linha 1: o chute do Primeiro Jogador(float)
@@ -35,11 +33,9 @@ segundo errar a direção do chute.
 
 *  imprima quem foi o vencedor: "primeiro" ou "segundo"
 
----
-
 ## Exemplos
-```
 
+```
 >>>>>>>>
 1.1
 m
@@ -73,7 +69,7 @@ primeiro
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 

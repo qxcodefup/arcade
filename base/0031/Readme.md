@@ -23,8 +23,6 @@ se entre 4 e 7
       reprovado
 ```
 
----
-
 ### Entrada
 
 * 3 notas: nota1, nota2 e nota\_final, uma por linha
@@ -32,9 +30,7 @@ se entre 4 e 7
 ### Saída
 - aprovado, reprovado, aprovado na final ou reprovado na final  
 
-Obs: descarte a nota da final se ela não for necessária
-
----
+Obs: descarte a nota da final se ela não for necessária.
 
 ## Exemplo
 
@@ -72,7 +68,7 @@ reprovado na final
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 >>>>>>>>

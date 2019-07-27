@@ -9,13 +9,9 @@ A mãe de João entrou em seu quarto e ficou furiosa por causa da bagunça. Ela 
 
 Após cair da cama, sua mãe lhe disse que se ele não se levantasse em um segundo e arrumasse seu quarto inteiro ficaria de castigo até o próximo ano bissexto, primo e quadrado perfeito.
 
----
-
 ## Ação
 
 Supondo que João seja sobre humano, seu trabalho é fazer um programa para calcular em qual hora minuto e segundo ele deve ter terminar de arrumar seu quarto.
-
----
 
 ### Entrada
 
@@ -25,11 +21,9 @@ Supondo que João seja sobre humano, seu trabalho é fazer um programa para calc
 
 * Hora, minuto e segundo final e uma linha.
 
----
-
 ## Exemplos:
-```
 
+```
 >>>>>>>>
 12 10 11
 ========
@@ -55,8 +49,6 @@ Supondo que João seja sobre humano, seu trabalho é fazer um programa para calc
 <<<<<<<<
 ```
 
----
-
 ## Dica
 
 Para imprimir um número inteiro colocando zeros a esquerda utilize o seguinte comando. Se o printf contiver %0xd, o número vai ser impresso completando com zeros a esquerda se o número tiver menos que x caracteres. Para imprimir com dois dígitos a variável **valor** use.
@@ -66,4 +58,5 @@ printf("%02d", valor); //c
 
 print'%02d'% valor # python
 ```
----
+
+#

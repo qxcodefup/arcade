@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 "ra on odnalor at acopip ed oriehc a acopip"
 
@@ -11,22 +11,20 @@ Tá ficando doido menino? Perguntou a mãe. Que marmota é essa que você tá fa
 
 Mamãe, é que eu ví na internet que se tocarmos as músicas da Xuxa ao contrário saem umas mensagens sinistras!
 
-### Ação
+## Ação
 
 Ajude Carlinhos a testar essa teoria.  
 Dado uma string, imprima a mesma string ao contrário.
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   Uma frase de até 100 caracteres.
 
-Saída:
+### Saída
 
 *   Imprima a frase ao contrario.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -47,3 +45,5 @@ oacaroc ues on x mu ieuqram
 marquei um x no seu coracao
 <<<<<<<<
 ```
+
+#

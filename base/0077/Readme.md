@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Essa é a segunda versão do jogo do Mercantil.
 
@@ -21,24 +21,20 @@ concorrente.
 
 Se ambos vencerem a mesma quantidade então acontece o empate.
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   1ª linha: a quantidade de produtos.  
-    
 *   2ª linha: o valor dos produtos.
-    
 *   3ª linha: os chutes do primeiro (float).
-
 *   4ª linha: as escolhas do segundo (m para menor, M para maior).  
 
-Saída:
+### Saída
 
-*   Resultado do jogo ("primeiro" ou "segundo" ou "empate").  
+*   Resultado do jogo ("primeiro" ou "segundo" ou "empate").
 
-### Exemplos  
+## Exemplos  
 
+```
 >>>>>>>>
 1  
 1.0  
@@ -92,6 +88,9 @@ M m m
 ========
 segundo
 <<<<<<<<
+```
+
+#
 
 <!---
 >>>>>>>> 01
@@ -110,41 +109,5 @@ primeiro
 m m
 ========
 empate
-<<<<<<<<
-
->>>>>>>> 03
-2
-1.0 2.0
-1.0 2.1
-m M
-========
-primeiro
-<<<<<<<<
-
->>>>>>>> 04
-2
-1.0 2.0
-1.1 2.1
-m M
-========
-empate
-<<<<<<<<
-
->>>>>>>> 05
-3
-1.0 2.0 4.0
-1.1 2.1 4.0
-m M m
-========
-primeiro
-<<<<<<<<
-
->>>>>>>> 06
-3
-1.0 2.0 4.02
-1.1 2.1 4.1
-M m m
-========
-segundo
 <<<<<<<<
 --->

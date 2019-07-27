@@ -11,8 +11,6 @@ Rufus tem muitos filhinhos e os ama tanto que não consegue compará-los.
 Ajude Rufus com isso. Dados os tamanhos em cm de 3 Rufinhos, informe qual o maior(G) o menor(P) e o do meio(M). Os valores nunca serão iguais.
 \[DS\]
 
----
-
 ## Exemplo:
 
 ```
@@ -39,10 +37,9 @@ P G M
 ========
 G M P
 <<<<<<<<
-
 ```
 
----
+#
 
 <!---
 

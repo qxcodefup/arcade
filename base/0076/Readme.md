@@ -15,21 +15,21 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 
 ### Entrada
 
-A primeira linha da entrada contém dois inteiros N e M, representando o número de posições na barra do cofre e o número de posições na sequência que o dono vai seguir para deslizar o controle. A segunda linha contém N inteiros entre 0 e 9, definindo a barra do cofre. A terceira linha contém M inteiros representando a sequência de posições que o dono vai seguir. A primeira posição nessa sequência é sempre 1 e não há duas posições consecutivas iguais.
+- A primeira linha da entrada contém dois inteiros N e M, representando o número de posições na barra do cofre e o número de posições na sequência que o dono vai seguir para deslizar o controle. A segunda linha contém N inteiros entre 0 e 9, definindo a barra do cofre. A terceira linha contém M inteiros representando a sequência de posições que o dono vai seguir. A primeira posição nessa sequência é sempre 1 e não há duas posições consecutivas iguais.
 
 ### Saída
 
-Seu programa deve imprimir uma linha contendo 10 inteiros, representando o número de vezes que cada inteiro, entre 0 e 9, vai aparecer no controle da barra.
+- Seu programa deve imprimir uma linha contendo 10 inteiros, representando o número de vezes que cada inteiro, entre 0 e 9, vai aparecer no controle da barra.
 
-### Restrições
+## Restrições
 
 *   2 ≤ N ≤ 105 e 2 ≤ M ≤ 105
 
-### Informações sobre a pontuação
+## Informações sobre a pontuação
 
 *   Em um conjunto de testes somando 40 pontos, N ≤ 1000 e M ≤ 1000
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>> 01
@@ -49,9 +49,9 @@ Seu programa deve imprimir uma linha contendo 10 inteiros, representando o núme
 <<<<<<<<
 ```
 
+#
+
 <!---
-
-
 >>>>>>>> 03
 10 10
 6 6 7 7 2 8 9 2 0 0

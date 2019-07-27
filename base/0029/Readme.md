@@ -49,8 +49,6 @@ Número de acertos | Saída do programa
 3               | Fa
 4               | Super Fa
 
----
-
 ### Entrada
 - 4 letras(abcd) uma por linha.
 ### Saída
@@ -70,7 +68,6 @@ d
 Ja ouviu falar
 <<<<<<<<
 
-
 >>>>>>>>
 d
 a
@@ -79,8 +76,9 @@ d
 ========
 Super Fa
 <<<<<<<<
-
 ```
+
+#
 
 <!---
 

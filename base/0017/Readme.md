@@ -19,13 +19,10 @@ Então como que procurando uma solução pro doloroso conflito entre consciênci
 
 empática e fome, decidiu comer só o ovo maiorzinho.
 
----
-
 ## Ação
 
 Leia 4 números e imprima o maior valor.
 
----
 ### Entrada:
 
 * Leia quatro valores inteiros do usuário.
@@ -33,8 +30,6 @@ Leia 4 números e imprima o maior valor.
 ### Saída:
 
 * Imprima o maior valor lido.
-
----
 
 ## Exemplos
 
@@ -48,7 +43,6 @@ Leia 4 números e imprima o maior valor.
 3
 <<<<<<<<
 
-
 >>>>>>>>
 5
 1
@@ -59,7 +53,7 @@ Leia 4 números e imprima o maior valor.
 <<<<<<<<
 ```
 
----
+#
 
 <!--- 
 >>>>>>>>

@@ -7,13 +7,10 @@
 
 Quem nunca numa prova de matemática ou física no ensino médio escutou um coleguinha dizer: "Professor, pode usar a calculadora?" que atire a primeira pedra.
 
----
-
 ### Ação
 
 Leia dois números inteiros e um símbolo e imprima o resultado.
 
----
 ### Entrada:
 
 * Leia do usuário dois valores inteiros e um operador em caractere ('+', '-', '\*' ou '/')
@@ -21,8 +18,6 @@ Leia dois números inteiros e um símbolo e imprima o resultado.
 ### Saída:
 
 * Imprima o resultado da operação em inteiro. Nunca haverá divisão por 0.
-
----
 
 ## Exemplos
 ```
@@ -34,7 +29,6 @@ Leia dois números inteiros e um símbolo e imprima o resultado.
 2
 <<<<<<<<
 
-
 >>>>>>>>
 3
 5
@@ -42,7 +36,6 @@ Leia dois números inteiros e um símbolo e imprima o resultado.
 ========
 8
 <<<<<<<<
-
 
 >>>>>>>>
 7
@@ -53,7 +46,7 @@ Leia dois números inteiros e um símbolo e imprima o resultado.
 <<<<<<<<
 ```
 
----
+#
 
 <!--- 
 >>>>>>>>

@@ -7,13 +7,9 @@
 
 Não sei se você amava ou odiava o tal do Bhaskara por inventar aquela fórmula das raízes. Agora é hora de implementar aquela conta pra nunca ter mais que fazer na mão.
 
----
-
 ## Ação
 
 Dados os valores de A, B e C, calcule as raízes.
-
----
 
 ### Entrada:
 - Valores de A, B e C em ponto flutuante, um por linha.
@@ -22,8 +18,6 @@ Dados os valores de A, B e C, calcule as raízes.
 - Caso delta seja positivo, a saída deve ser a raiz positiva e raiz negativa, com duas casas decimais, uma raiz por linha.
 - Caso delta seja igual a zero, uma única raiz deve ser considerada, com duas casas decimais.
 - Caso delta sela negativo, a saída deve ser "nao ha raiz real"
-
----
 
 ## Exemplos
 
@@ -63,8 +57,6 @@ nao ha raiz real
 <<<<<<<<
 ```
 
----
-
 ## Ajuda
 
 Para calcular a raiz quadrada você deverá importar a biblioteca math em seu projeto e chamar a função sqrt() passando o valor que você deseja encontrar a raiz. Declare uma variável para armazenar o valor de delta, isso tornará o código mais simples.
@@ -80,7 +72,7 @@ int main(){
 }
 ```
 
----
+#
 
 <!---
 

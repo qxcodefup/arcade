@@ -9,19 +9,13 @@
 * Pares são números que formam um casalzinho. Tipo 2 passarinhos. Mas também vale pra vários pares tipo 4, 6, 8, 10, etc.
 * Papai, e se não tiver nenhum passarinho pra botar na arca, 0 é par?
 
----
-
 ## Ação
 
 Some todos os números inteiros pares que estão entre A e B, inclusive A e B.
 
----
-
 ## Zero é par?
 
 Descubra em http://www.profcardy.com/cardicas/tirateima.php?id=1
-
----
 
 ### Entrada
 
@@ -30,8 +24,6 @@ Descubra em http://www.profcardy.com/cardicas/tirateima.php?id=1
 ### Saída
 
 * A soma de todos os números pares ou invalido caso A seja maior que B.
-
----
 
 ## Exemplos
 ```
@@ -42,7 +34,6 @@ Descubra em http://www.profcardy.com/cardicas/tirateima.php?id=1
 30
 <<<<<<<<
 
-
 >>>>>>>>
 1
 5
@@ -50,14 +41,12 @@ Descubra em http://www.profcardy.com/cardicas/tirateima.php?id=1
 6
 <<<<<<<<
 
-
 >>>>>>>>
 5
 1
 ========
 invalido
 <<<<<<<<
-
 
 >>>>>>>>
 6
@@ -67,7 +56,7 @@ invalido
 <<<<<<<<
 ```
 
----
+#
 
 <!---
 
