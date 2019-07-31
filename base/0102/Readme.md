@@ -1,9 +1,9 @@
 ## @0102 #05_str L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados
 ## @qxcode
 
-![]()
+![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Joãozinho chega na escola com o trabalho digitado e a professora  
 pergunta:  
@@ -16,25 +16,19 @@ doido fessora.
 dinossauros. E número 2, eu não aceito mais desculpas de cachorros  
 pra não entregar a lição de casa. A moda agora é cloud computing.
 
-### Ação
+## Ação
 
 Faça um código que retire os espaços duplicados no meio da frase.
 
-### Entrada e Saida
-
-### 
-
-Entrada:
+### Entrada
 
 *   um texto(até 200 chars) só com minúsculas e espaço.
 
-Saida:
+### Saida
 
 *   texto sem espaços duplicados no meio da frase.
 
-### Exemplos
-
-### 
+## Exemplos
 
 ```
 >>>>>>>>
@@ -61,3 +55,5 @@ a  bola  ta furada
 a bola ta furada
 <<<<<<<<
 ```
+
+#

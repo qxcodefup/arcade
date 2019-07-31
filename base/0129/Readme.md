@@ -1,11 +1,9 @@
 ## @0129 #06_mat L3 - Campo Minado
 ## @qxcode
 
-# @qxcode
-
 ![](capa.jpg)
 
-### Motivação:
+## Motivação
 
 Robert Donner, em 1989, criou um jogo cujo objetivo seria revelar a localização de minas em um campo sem que nenhuma seja detonada.  
 
@@ -13,14 +11,12 @@ Para isso o tabuleiro é formado de minas, números e espaços vazios.
 
 As regras são simples :
 
-*   Se um bloco é um número, ele informará quantas minas estão escondidas nos oito quadrados que o cercam.  
-    
-*   Se um bloco é vazio, é porque não há nenhuma mina ao seu redor.
-*   Um bloco pode ser uma mina, nesse caso ele é representado por um símbolo.
+* Se um bloco é um número, ele informará quantas minas estão escondidas nos oito quadrados que o cercam.  
+
+* Se um bloco é vazio, é porque não há nenhuma mina ao seu redor.
+* Um bloco pode ser uma mina, nesse caso ele é representado por um símbolo.
 
 O jogador deve usar essas informações para deduzir em que quadrados próximos é seguro clicar.  
-
-  
 
 Dada uma matriz com a posição de cada mina, seu o programa deve preencher o resto do campo (matriz) com números ou com vazios, por exemplo:
 
@@ -38,31 +34,25 @@ Dada uma matriz com a posição de cada mina, seu o programa deve preencher o re
     121
     ---
 
-  
-
 As minas são simbolizadas com asteriscos \* e os campos vazios são simbolizados com sinal de menos -  
 Mais exemplos no final da página.
 
-### Ação
+## Ação
 
 Leia uma matriz com **n** linhas e **m** colunas com a posição das minas. Preencha o restante da matriz seguindo as regras citadas.  
 Considere ( 1 <=  **n, m **<= 50).
 
-  
-
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   O número **n **(linhas)e **m**(colunas) .  
-    
+
 *   Cada elemento da matriz: \* ou -  
 
-Saída:
+### Saída
 
 *   Campo preenchido com minas, vazios e números.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -108,30 +98,8 @@ Saída:
 
 <!---
 >>>>>>>> 01
-3 3
----
--*-
----
-========
-111
-1*1
-111
-<<<<<<<<
-
->>>>>>>> 02
-3 3
-***
---*
---*
-========
-***
-25*
--2*
-<<<<<<<<
-
->>>>>>>> 03
 4 5
----*- 
+---*-
 -****
 *---*
 -----
@@ -142,7 +110,7 @@ Saída:
 11-11
 <<<<<<<<
 
->>>>>>>> 04
+>>>>>>>> 02
 4 10
 *-*----*-*
 --*-*--*--
@@ -156,21 +124,17 @@ Saída:
 <<<<<<<<
 --->
 
-### Mais exemplos:
+## Mais exemplos
 
 O quadrado amarelo é quem é calculado no momento, e os vermelhos são as minas consideradas no cálculo. 
 
-    ![ex1](q3.png)  
+![ex1](q3.png)
 
-  
+![ex2](q4.png)
 
- ![ex2](q4.png)  
-
-  
-
-    ![ex3](q5.png)  
-
-  
+![ex3](q5.png)  
 
 Se ainda tiver dúvidas de como funciona, tente jogar um pouco.
 https://minesweeper.online/pt/new-game
+
+#

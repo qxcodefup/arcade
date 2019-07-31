@@ -1,8 +1,9 @@
 ## @0162 #03_rep L3 - Mini-Poker - OBI2005
 ## @qxcode
-# @qxcode
 
-![](capa.jfif)
+![](capa.jpg)
+
+## Motivação
 
 Mini-Poker é o nome de um jogo de cartas que é uma simplificação de Poker, um dos mais famosos  
 jogos de cartas do mundo. Mini-Poker é jogado com um baralho normal de 52 cartas, com quatro  
@@ -34,29 +35,35 @@ em que x > y Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontu
 cartas são x, x, y, z e t), a pontuação é x pontos. Por exemplo, se as cartas recebidas são 12, 13,  
 5, 8 e 13, a pontuação é 13 pontos.  
 7\. Se todas as cartas são distintas, não há pontuação.  
-**  
-Tarefa**  
+
+## Ação
+
 Escreva um programa que, fornecidas as cartas dadas a um jogador, calcule pontuação do jogador  
 naquela jogada.  
   
-**Entrada**  
-A entrada é composta por vários casos de teste, cada um correspondendo a uma jogada. A primeira  
-linha da entrada contém um inteiro N que indica o número de casos de teste (1 ≤ N ≤ 10). Cada  
-uma das N linhas seguintes contém cinco números inteiros C1 , C2 , C3 , C4 e C5 , representando as cinco  
+### Entrada
+
+- A entrada é composta por vários casos de teste, cada um correspondendo a uma jogada. A primeira
+linha da entrada contém um inteiro N que indica o número de casos de teste (1 ≤ N ≤ 10). Cada
+uma das N linhas seguintes contém cinco números inteiros C1 , C2 , C3 , C4 e C5 , representando as cinco
 cartas recebidas por um jogador (1 ≤ C1 , C2 , C3 , C4 , C5 ≤ 13). A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado).  
-**  
-Saı́da**  
-Para cada caso de teste da entrada, seu programa deve produzir três linhas na saı́da. A primeira linha  
-deve conter um identificador do caso de teste, no formato "Teste n”, onde n é numerado seqüencialmente a partir de 1. A segunda linha deve conter a pontuação do jogador considerando as cinco cartas  
-recebidas. A terceira linha deve ser deixada em branco. A grafia mostrada no Exemplo de Saı́da,  
-abaixo, deve ser seguida rigorosamente.  
+
+### Saída
+
+- Para cada caso de teste da entrada, seu programa deve produzir três linhas na saı́da. A primeira linha
+deve conter um identificador do caso de teste, no formato "Teste n”, onde n é numerado seqüencialmente a partir de 1. A segunda linha deve conter a pontuação do jogador considerando as cinco cartas
+recebidas. A terceira linha deve ser deixada em branco. A grafia mostrada no Exemplo de Saı́da,
+abaixo, deve ser seguida rigorosamente.
 A saı́da deve ser escrita no dispositivo de saı́da padrão (normalmente a tela).  
-**  
-Restrições**  
+
+## Restrições
+
 1 ≤ N ≤ 100  
 1 ≤ C1 , C2 , C3 , C4 , C5 ≤ 13
 
-<!---
+## Exemplos
+
+```
 >>>>>>>> 01
 5
 1 2 3 4 5
@@ -81,8 +88,11 @@ Teste 5
 28
 
 <<<<<<<<
+```
 
+#
 
+<!---
 >>>>>>>> 02
 100
 11 7 11 11 8

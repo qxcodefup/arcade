@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Considere o seguinte formato de dicionário que deve ser usada em seu programa:  
   
@@ -13,14 +13,14 @@ Usando a definição acima, crie um programa que leia os dados (vida e ataque) 
   
 A função duelo recebe como entrada dois dicionários, onde cada um deles representa um personagem. Ela deve imprimir "Personagem 1" se o primeiro personagem venceu o duelo, "Personagem 2" se o segundo personagem venceu o duelo e "Empate" caso nenhum deles tenha vencido o duelo. O duelo consiste em uma sequência de rodadas onde em cada rodada o primeiro personagem ataca o segundo (tira-se da vida do 2o personagem o valor do ataque do 1o personagem) e o segundo ataca o primeiro (tira-se da vida do 1o personagem o valor do ataque do 2o personagem) ao mesmo tempo. O duelo acaba quando pelo menos um dos personagens fica com vida menor ou igual a 0.  
   
-### Entrada: 
+### Entrada
 
     1a linha - vida do 1o personagem  
     2a linha - ataque do 1o personagem  
     3a linha - vida do 2o personagem  
     4a linha - ataque do 2o personagem  
 
-### Exemplo:
+## Exemplos
 
 ```
 >>>>>>>>
@@ -31,9 +31,7 @@ A função duelo recebe como entrada dois dicionários, onde cada um deles repre
 ========
 Personagem 1
 <<<<<<<<
-```
 
-<!---
 >>>>>>>>
 100
 20
@@ -60,4 +58,6 @@ Personagem 2
 ========
 Empate
 <<<<<<<<
---->
+```
+
+#

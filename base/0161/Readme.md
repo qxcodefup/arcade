@@ -1,8 +1,9 @@
 ## @0161 #03_rep L3 - Vivo ou Morto - OBI 2005
 ## @qxcode
-# @qxcode
 
-![](capa.jfif)
+![](capa.jpg)
+
+## Motivação
 
 Toda criança certamente já brincou de "vivo ou morto”. A brincadeira é dirigida por um "chefe” (um  
 adulto), que comanda dois ou mais participantes (crianças). A brincadeira é composta de rodadas.  
@@ -19,13 +20,15 @@ forem eliminados os participantes 2 e 4, a fila da segunda rodada será formada
 segunda rodada for eliminado o participante 1, a fila da terceira rodada será formada por 3 → 5. Se  
 na terceira rodada o participante 3 for eliminado, o vencedor da brincadeira será o participante 5.  
   
-**Tarefa**  
+## Ação
+
 Sua tarefa é escrever um programa que determine o vencedor de uma partida de "vivo ou morto”, a  
 partir da informação das ordens dadas pelo chefe e das ações executadas pelos participantes em cada  
 rodada.  
   
-**Entrada**  
-A entrada é constituı́da de vários casos de teste, cada um representando uma partida. A primeira  
+### Entrada
+
+- A entrada é constituı́da de vários casos de teste, cada um representando uma partida. A primeira  
 linha de um caso de teste contém dois números inteiros P e R indicando respectivamente a quantidade  
 inicial de participantes (2 ≤ P ≤ 100) e quantidade de rodadas da partida (1 ≤ R ≤ 100). Os  
 participantes são identificados por números de 1 a P . A segunda linha de um caso de teste descreve  
@@ -40,8 +43,9 @@ zero. Cada partida tem exatamente um vencedor, determinado somente na última r
 no caso de teste correspondente. O final da entrada é indicado por P = R = 0.  
 A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado).  
   
-**Saı́da**  
-Para cada caso de teste seu programa deve produzir três linhas. A primeira identifica o conjunto  
+### Saída
+
+- Para cada caso de teste seu programa deve produzir três linhas. A primeira identifica o conjunto  
 de teste no formato "Teste n”, onde n é numerado a partir de 1. A segunda linha deve conter  
 o identificador do vencedor. A terceira linha deve ser deixada em branco. A grafia mostrada no  
 Exemplo de Saı́da, abaixo, deve ser seguida rigorosamente.  
@@ -49,7 +53,8 @@ A saı́da deve ser escrita no dispositivo de saı́da padrão (normalmente a t
   
 Olimpı́ada Brasileira de Informática - OBI2005 - Modalidade Programação Nı́vel 2  
   
-**Restrições**  
+## Restrições
+
 2 ≤ P ≤ 100 (P = 0 apenas para indicar o fim da entrada)  
 1 ≤ R ≤ 100 (R = 0 apenas para indicar o fim da entrada)  
 1 ≤ xi ≤ P , para 1 ≤ i ≤ P  
@@ -57,8 +62,8 @@ A saı́da deve ser escrita no dispositivo de saı́da padrão (normalmente a t
 0≤J ≤1  
 0 ≤ Ai ≤ 1, para 1 ≤ i ≤ N
 
-
 ## Exemplos
+
 ```
 >>>>>>>> 01
 5 4
@@ -86,14 +91,11 @@ Teste 2
 Teste 3
 2
 <<<<<<<<
-
 ```
 
+#
+
 <!---
-ls
-
-
-
 >>>>>>>> 03
 10 7
 5 6 1 8 10 4 2 7 9 3
@@ -242,7 +244,4 @@ Teste 9
 Teste 10
 2
 <<<<<<<<
-
-
-
 --->

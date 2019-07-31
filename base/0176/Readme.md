@@ -1,9 +1,9 @@
-## @0203 #05_str L1 - Substring na decoração - Obter Substrings!
+## @0176 #05_str L1 - Substring na decoração - Obter Substrings!
 ## @qxcode
 
-![Substring](substring.png)
+![Substring](capa.jpg)
 
-### Motivação
+## Motivação
 
 Durante a arrumação do buffet para festa de casamento, Fernando fala pra Coralina:
 
@@ -16,23 +16,21 @@ Durante a arrumação do buffet para festa de casamento, Fernando fala pra Coral
 
 Coisas de nerds da computação.
 
-### Ação
+## Ação
 
 Faça uma função que retorna uma substring dada a String passada, o ÍNDICE da posição inicial e o número de caracteres. Se os valores de inicio forem inválidos, retorne uma String vazia. Retorne a quantidade de caracteres pedidos ou até terminar a palavra.
 
-### Entrada e Saída
-
-Entrada
+### Entrada
 
 * Um texto, no máximo 100 chars.
 * O índice do primeiro caractere.
 * Quantidade de caracteres.
 
-Saída:
+### Saída
 
 * A substring.
 
-### Exemplos:
+## Exemplos
 
 ```
 
@@ -55,13 +53,15 @@ r Ranger
 
 ```
 
-**Dicas**:
+## Dicas
 
 * Se estiver em Python, faça usando um laço para montar a substring.
 
 * Crie uma variável resposta como String vazia.
 
 * Faca um laço que percorra os caracteres que você precisa da palavra e adicione na String resposta.
+
+#
 
 <!--- 
 >>>>>>>> 03

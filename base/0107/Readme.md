@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 No capítulo 3 da saga de Valdiskey você vai escrever o algoritmo que faz a criptografia e descriptografia.  
 Valentina aceitou o namoro e vai usar o seu código para ler o conteúdo das cartinhas de amor de Valdiskley.  
@@ -11,7 +11,7 @@ Se você quiser pesquisar o nome dessa cifra é cifra de Vigenere.
 
 [http://pt.wikipedia.org/wiki/Cifra_de_Vigen%C3%A8re](http://pt.wikipedia.org/wiki/Cifra_de_Vigen%C3%A8re)
 
-### Ação
+## Ação
 
 Primeiro a criptografia:
 
@@ -30,9 +30,7 @@ texto: "quando vi voce eu buguei"
 senha: "prince sa prin ce saprin"  
 saida: "fliafs ni kfkr gy tuvlmv"
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   A frase a ser operada, apenas caracteres minúsculos e pontuação.
 *   A palavra chave, apenas caracteres minúsculos e sem espaços ou pontuação.
@@ -40,11 +38,11 @@ Entrada:
 
 A operação de descifrar é o contrário da cifragem.
 
-Saída:
+### Saída
 
 *   O resultado da operação.
 
-### Exemplos:
+## Exemplos
 
 ```
 >>>>>>>>
@@ -87,37 +85,5 @@ ab
 -
 ========
 o bobe!
-<<<<<<<<
-
->>>>>>>> 03
-o bobe!
-abc
-+
-========
-o cqbf!
-<<<<<<<<
-
->>>>>>>> 04
-batata? sim! frita!!
-abac
-+
-========
-bbtctb? skm! grktb!!
-<<<<<<<<
-
->>>>>>>> 05 !%
-quando vi voce eu buguei
-princesa
-+
-========
-fliafs ni kfkr gy tuvlmv
-<<<<<<<<
-
->>>>>>>> 06 !%
-a data ua bbfrua
-ab
--
-========
-a casa ta aberta
 <<<<<<<<
 --->

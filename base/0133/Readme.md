@@ -1,11 +1,9 @@
 ## @0133 #06_mat L2 - Soldados em Posição
 ## @qxcode
 
-# @qxcode
-
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Os soldados se colocaram em formação no quartel. Na formação eles formaram uma matriz 3x3.
 
@@ -13,23 +11,21 @@ Cada soldado tem uma numeração na sua farda, logo o Comandante querendo tripud
 
 Você que não é besta, fez um código pra isso.
 
-### Ação
+## Ação
 
 Faça um programa que conte quantos soldados com numeração de fardamento menor está atrás de um maior.
 
 **Obs**: Você tem que conferir as numerações verticalmente.
 
-### Entrada e Saída
+### Entrada
 
-Entrada
-
-*   Uma matriz 3x3 contendo os valores que representam os soldados.
+* Uma matriz 3x3 contendo os valores que representam os soldados.
 
 Saída
 
-*   Quantas vezes foram encontrados.
+* Quantas vezes foram encontrados.
 
-Exemplo
+## Exemplos
 
 ```
 >>>>>>>>
@@ -39,10 +35,8 @@ Exemplo
 ========
 3
 <<<<<<<<
-```
 
-<!---
->>>>>>>> 01
+>>>>>>>>
 5 1 9
 3 8 4
 7 3 2
@@ -50,11 +44,11 @@ Exemplo
 4
 <<<<<<<<
 
->>>>>>>> 02
+>>>>>>>>
 6 2 3
 5 4 9
 1 8 7
 ========
 3
 <<<<<<<<
---->
+```

@@ -1,37 +1,36 @@
-## @0101 #05_str L4 - Matéria e Antimatéia - Colisão entre palavras!
+## @0119 #05_str L4 - Matéria e Antimatéia - Colisão entre palavras!
 ## @qxcode
 
-### Motivação  
+![](capa.jpg)
+
+## Motivação
 
 Marquinhos (12 anos) chega em casa e fala pro seu irmão mais velho:  
 \- Lá no consultório do dentista, vi numa revista que existe antimatéria!!!  
 Ela destroi toda matéria que toca e os dois desaparecem.  
 O irmão mais velho responde alfinetando.  
 \- Saquei, então você é o meu irmão antimatéria. Toda vez que você vai brincar, você quebra tudo que toca e some! Vai estudar Marquinhos!  
-  
 
 Marquinhos, indignado propôs ao seu irmão "sabido" o seguinte desafio:  
-Irmão, imagine duas palavras, a primeira vai ser a matéria e a segunda a antimatéria. 
+Irmão, imagine duas palavras, a primeira vai ser a matéria e a segunda a antimatéria.
 
 Quando as duas se encontram e o final de uma string é igual ao começo de outra, anule-os como se fosse uma colisão.  
 Como se você juntasse as duas palavras, mas excluísse as letras até que não sejam iguais as letras de contato.  
-  
 
-### Ação
+## Ação
 
-Faça um programa que dado duas palavra, a matéria e a anti-matéria, imprima no final somente as letras que estão na , matéria mas não estão na antimatéria.  
-  
+Faça um programa que dado duas palavra, a matéria e a anti-matéria, imprima no final somente as letras que estão na, matéria mas não estão na antimatéria.
 
-### Entrada e Saída
-- Entrada:  
+### Entrada
 
-  - Duas palavras, uma por linha.   
-    
+- Duas palavras, uma por linha.
 
-- Saída:
+### Saída
 
-  - A colisão entre as palavras.  
-      
+- A colisão entre as palavras.  
+
+## Exemplos
+
 ```
 >>>>>>>>  
 mel
@@ -39,7 +38,6 @@ lema
 ========
 a
 <<<<<<<<
- 
 
 >>>>>>>>  
 pegasus
@@ -47,7 +45,6 @@ suspiro
 ========
 pegapiro
 <<<<<<<<
- 
 
 >>>>>>>>  
 olho
@@ -56,12 +53,12 @@ ohio
 olio
 <<<<<<<<
 
-
 >>>>>>>>
 minhoca
 arvore
-
 ========
 minhocrvore
 <<<<<<<<
 ```
+
+#

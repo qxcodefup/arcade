@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 \- Menino solta esse tal de Angri Bids e vai estudar que tem prova de português amanhã.  
 \- Já sei de tudo mãe.  
@@ -16,22 +16,21 @@ Agora só devolvo seu celular quando você souber separar pneumoradiologia.
 \- Mãe, pra essa daí você só precisa da regra básica.  
 \- Pedrinho, já de castigo!
 
-### Ação
+## Ação
 
 Faça um programa que receba uma palavra e separe suas silabas levando em consideração o seguinte critério:  
 Se após uma vogal existir uma consoante, deve-se separar a sílaba.
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   Uma linha com um texto.
 
-Saída:
+### Saída
 
-*   O mesmo texto com**  -  (hífen)** entre as sílabas.
+*   O mesmo texto com **- (hífen)** entre as sílabas.
 
-### Exemplos
+## Exemplos
+
 ```
 >>>>>>>>
 Paralelepipedo
@@ -51,3 +50,5 @@ Floresta Amazonica
 Flo-re-sta A-ma-zo-ni-ca
 <<<<<<<<
 ```
+
+#

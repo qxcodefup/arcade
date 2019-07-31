@@ -1,9 +1,9 @@
-## @0073 #05_str L4 - Nao se bububula - Gagueira V2!
+## @0122 #05_str L4 - Nao se bububula - Gagueira V2!
 ## @qxcode
 
-![](capa.jpg)  
+![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Arnoldo filho trabalhava nos bastidores do filme. Matança no sertão de Quixadá. O primo dele tinha que interpretar um cangaceiro gago, mas o pobre coitado não sabia gaguejar.  
 Desesperado e com medo de perder o papel ele pede:
@@ -15,28 +15,22 @@ _"VoVoVolte cá seu cacacabra sasasafado!"_
 
 Arnoldo que tá se formando em computação aceitou cobrando metade do cachê!
 
-### Ação
+## Ação
 
 O código de Arnoldo pega as palavras e todas palavra que tem mais de uma sílaba, repete três vezes a mesma sílaba.  
 Para uma "falsa" separação silábica Arnaldo definiu que toda vogal seguida de consoante separa sílaba.
 
 Implemente o código de Arnoldo.
 
-  
+### Entrada
 
-### Entrada e Saída
+- Uma linha de texto.
 
-- Entrada:
+### Saída
 
-  -   Uma linha de texto.
+- A linha de texto gaguejada.
 
-- Saída:
-
-  -  A linha de texto gaguejada.
-
-  
-
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -57,20 +51,17 @@ Solte essa faca ou eu arranco suas tripas no dente!
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
 <<<<<<<<
 ```
+
+#
+
 <!---
 >>>>>>>> 01
-Morreu Maria Prea
-========
-MoMoMorreu MaMaMaria Prea
-<<<<<<<<
-
->>>>>>>> 02
 Solte essa faca ou eu arranco suas tripas no dente
 ========
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente
 <<<<<<<<
 
->>>>>>>> 03
+>>>>>>>> 02
 Nao se bula ou eu te mato
 ========
 Nao se bububula ou eu te mamamato

@@ -1,14 +1,13 @@
 ## @0114 #05_str L3 - MeU WoRd QuEbRoU - Formatação de Case!
 ## @qxcode
-# @qxcode
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 O seu editor de texto deu problema. Seu orientador pediu que você formatasse toda uma seção do seu trabalho em caixa alta. Como você é um fantástico programador resolveu logo fazer algo mais completo.
 
-### Ação
+## Ação
 
 Dado um texto, formate como for pedido (M - Toda maiúscula, m - toda minuscula, p - primeira maiúscula, i - inverter case). Observe que no primeiro maiúscula deixa como minuscula palavras de tamanho 1 como os artigos 'a', 'e', 'o'.
 
@@ -16,18 +15,16 @@ Ignore pontuação, espaço e números.
 
 A entrada é composta de minusculas, maiúsculas, números, pontuações e espaços simples.
 
-### Entrada e Saída
-
-#### Entrada:
+### Entrada
 
 *   Texto com até 100 caracteres.
 *   Caracteres representando a formatação (M, m, p, i).
 
-#### Saída:
+### Saída
 
 *   O texto formatado.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -58,3 +55,5 @@ i
 o pATO E O FRANGO JA TAO COZIDOS, COMAM!
 <<<<<<<<
 ```
+
+#

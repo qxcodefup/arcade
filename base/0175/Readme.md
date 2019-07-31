@@ -1,30 +1,24 @@
-## @0202 #05_str L3 - Separando tokens
+## @0175 #05_str L3 - Separando a partir de tokens
 ## @qxcode
 
-### Motivação
+![](capa.jpg)
 
-### Ação
+## Ação
 
-Dada uma frase(max 100 char) com palavras(letras minusculas), números, espaço separe os elementos usando os tokens # e ;  
-A frase sempre termina em um token ;
+Dada uma frase (max 100 char) com palavras (letras minusculas), números e espaço, divida os elementos em n frases usando os tokens ' # ' e ' ; ' como referência de fim para aquela frase.
 
-### Entrada e Saida
+### Entrada
 
-### 
+* Uma frase (max 100 char) com palavras (letras minusculas), números e espaços que podem ser separados por tokens.
 
-Entrada:
+### Saida
 
-* Uma frase(max 100 char) com palavras(letras minusculas), números, espaço
+* n frases sem os tokens.
 
-### Saida:
-
-* n frases sepadas por token.  
-
-### Exemplos  
+## Exemplos
 
 ```
-
->>>>>>>> 01
+>>>>>>>>
 mamae me ama#15#1.76;
 ========
 mamae me ama
@@ -32,20 +26,7 @@ mamae me ama
 1.76
 <<<<<<<<
 
-
->>>>>>>> 02
-o Brasil# nunca teve uma lona # gigantesca para #ter sido descoberto;
-========
-o Brasil
- nunca teve uma lona 
- gigantesca para 
-ter sido descoberto
-<<<<<<<<
-
-```
-
-<!--- 
->>>>>>>> 03
+>>>>>>>>
 aa 4#1 -f; -2.0;
 ========
 aa 4
@@ -53,8 +34,7 @@ aa 4
  -2.0
 <<<<<<<<
 
-
->>>>>>>> 04
+>>>>>>>>
 coca zero;1.75#8;U;
 ========
 coca zero
@@ -62,5 +42,6 @@ coca zero
 8
 U
 <<<<<<<<
+```
 
---->
+#

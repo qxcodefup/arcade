@@ -1,10 +1,9 @@
 ## @0115 #05_str L3 - Máquina de Datilografar Quebrada
 ## @qxcode
-# @qxcode
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Durante anos, todos os contratos da Associação de Contratos da Modernolândia (ACM) foram datilografados em uma velha máquina de datilografia.
 
@@ -17,22 +16,20 @@ Note que o Sr. Miranda quer saber o valor numérico representado no contrato, ou
 
 Maratona de Programação da SBC 2010.  
 
-### Ação
+## Ação
 
 Faça um programa que dado um numero representando a tecla quebrada e o numero negociado inicialmente, imprima o numero representado no contrato.
 
-### Entrada e Saída
-
-#### Entrada:
+### Entrada
 
 *   A primeira um digito entre 1 e 9 representando a tecla quebrada
 *   A segunda o número que foi negociado inicialmente, com até 100 dígitos.
 
-#### Saída:
+### Saída
 
 *   Você deve imprimir uma linha contendo um único inteiro V, o valor numérico representado de fato no contrato.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -77,3 +74,5 @@ Faça um programa que dado um numero representando a tecla quebrada e o numero n
 0
 <<<<<<<<
 ```
+
+#

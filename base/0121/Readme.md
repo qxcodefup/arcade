@@ -1,21 +1,19 @@
-## @0073 #05_str L4 - Mário e o Assassins Creed - Cenário
+## @0121 #05_str L4 - Mário e o Assassins Creed - Cenário
 ## @qxcode
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Thaiquovisqui da Silva está fazendo um joguinho com uma mistura de Super Mário e Assassins Creed.  
 Nele, o Mário anda em um cenário 2D, mas ao invés de pular na cabeça dos inimigos ele mata com uma chave de fenda.  
 Lembre-se que o Mário é encanador! Então isso faz todo sentido jogabilístico.
 
-### Ação  
+## Ação  
 
 Faça um programa que dado um vetor de números inteiros positivos mostre o cenário que esse vetor representa.  
 Um cenário é um vetor de números positivos onde o vetor representa a altura dos blocos.  
 O vetor 1312 seria o seguinte cenário. (Onde não houver nada coloque  **\_ **)
-
-  
 
     _#__
     _#_#
@@ -29,22 +27,19 @@ E o vetor 1133464221 seria como o seguinte cenário:
     __#####___
     __#######_
     ##########
-    
 
-### Entrada e Saída
+### Entrada
 
-- Entrada:
+- A quantidade de elementos no vetor (1 à 20).  
 
-  -  A quantidade de elementos no vetor (1 à 20).  
-    
-  -  O vetor de números, sendo cada número entre 1 e 20.  
-    
+- O vetor de números, sendo cada número entre 1 e 20.  
 
-- Saída:
+### Saída:
 
-  -   Cenário representado por  **\_**  e  **#**
+- Cenário representado por  **\_**  e  **#**
 
-  
+## Exemplos
+
 ``` 
 >>>>>>>>
 4
@@ -65,29 +60,8 @@ _#__#
 _#_##
 #####
 <<<<<<<<
-```
-<!---
->>>>>>>> 01
-4
-1 3 1 2
-========
-_#__
-_#_#
-####
-<<<<<<<<
 
->>>>>>>> 02
-5
-1 3 1 2 5
-========
-____#
-____#
-_#__#
-_#_##
-#####
-<<<<<<<<
-
->>>>>>>> 03
+>>>>>>>>
 10
 1 1 3 3 4 6 4 2 2 1
 ========
@@ -98,4 +72,6 @@ __#####___
 __#######_
 ##########
 <<<<<<<<
---->
+```
+
+#

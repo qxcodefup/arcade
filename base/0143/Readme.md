@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Ação
+## Ação
 
 Implemente a função 'troca', que recebe como parâmetro duas variáveis inteiras passadas por referência, e troca os valores destas variáveis.
 
@@ -33,7 +33,7 @@ Você deverá:
 - Implementar a função 'troca'.
 - Chamar a função 'troca' dentro da função 'main'.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -54,3 +54,5 @@ Você deverá:
 0 0
 <<<<<<<<
 ```
+
+#

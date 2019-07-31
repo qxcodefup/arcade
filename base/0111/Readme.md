@@ -1,10 +1,9 @@
 ## @0111 #05_str L2 - Meu cachorro comeu minha tarefa - Retirar espaços
 ## @qxcode
-# @qxcode
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Joãozinho chega na escola com o trabalho digitado e a professora
 
@@ -15,21 +14,19 @@ Pergunta:
 \- É que meu poodle bateu no espaço do meu notebook e agora ele tá doido, fessora.  
 \- Mas, número 1, pteridófitas são plantas, pterodáctilos que são dinossauros. E número 2, eu não aceito mais desculpas de cachorros pra não entregar a lição de casa. A moda agora é cloud computing.
 
-### Ação
+## Ação
 
 Faça um código que retire os espaços duplicados que existem entre duas palavras.
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 *   Um texto(até 200 chars) com duas palavras e vários espaços entre elas.
 
-Saída:
+### Saída
 
 *   O menor valor inteiro.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -57,6 +54,8 @@ meteoro pegasus
 <<<<<<<<
 ```
 
+#
+
 <!---
 >>>>>>>> 01
 a   almofada
@@ -65,18 +64,12 @@ a almofada
 <<<<<<<<
 
 >>>>>>>> 02
-comi    sorvete
-========
-comi sorvete
-<<<<<<<<
-
->>>>>>>> 03
 meteoro          pegasus
 ========
 meteoro pegasus
 <<<<<<<<
 
->>>>>>>> 04
+>>>>>>>> 03
 galinha pintadinha
 ========
 galinha pintadinha

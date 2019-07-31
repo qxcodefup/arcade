@@ -1,10 +1,9 @@
 ## @0116 #05_str L3 - Roda Roda Jequiti - Jogo da Forca!
 ## @qxcode
-# @qxocde
 
 ![](capa.jpeg)
 
-### Motivação
+## Motivação
 
 Dona Vanessa, nova consultora Jequiti, chega correndo e expulsa Fernandinho da televisão.  
 \- Sai rápido minino, deixa esses desenhos véi, tá na hora do roda roda.  
@@ -19,7 +18,7 @@ me deixa assistir o Dragon Ball?
 A mãe olha com um misto de admiração e espanto e pergunta desconfiada:  
 \- O que é "implementar" minino?
 
-### Ação
+## Ação
 
 Faça um código que simule o comportamento do jogo da forca.  
 Você recebe como parâmetro a palavra real e todos as letras que já foram chutadas pelo participante e deve retornar a palavra cifrada a ser apresentada pelo programa.
@@ -34,19 +33,17 @@ Ex: "**extraordinario**", "**aeioubcdfgh**" , '**\***' -> "**e\*\*\*ao\*di\*a\*i
 Ex: "**Teco-Teco!**" , "**tbxyan**" , '**\_**' -> "**T\_\_\_-T\_\_\_!**"  
 Ex: "**Seu Pilantra!**" , "**yzxa**" , '**\***' -> "**\*\*\* \*\*\*a\*\*\*a!**"
 
-### Entrada e Saída
-
-#### Entrada:
+### Entrada
 
 *   Frase(max 100 char),
 *   Chutes (max 26 char) 
 *   Caractere de marcação (1 char).
 
-#### Saída:
+### Saída
 
 *   Uma frase com as letras chutadas corretamente e o caractere marcador nas letras erradas.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -73,3 +70,5 @@ yzxa
 *** ***a***a!
 <<<<<<<<
 ```
+
+#

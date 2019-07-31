@@ -1,10 +1,9 @@
 ## @0118 #05_str L3 - Aniquilando Ultrons V3
 ## @qxcode
-# @qxcode
 
 ![](capa.jpg)
 
-### Ação
+## Ação
 
 Seu objetivo aqui é dado o código ultron e,  
 um vetor de códigos de pessoas, retornar o mapeamento  
@@ -21,20 +20,18 @@ ambiente:"ruame ronuai Lion uuuaaaa ronia kkk luno"
 
 Saida: "pessoa ultron chefe pessoa ultron pessoa chefe"
 
-### Entrada e Saida
-
-#### Entrada:
+### Entrada
 
 *   linha 1: codigo ultron de N letras( 1 < N < 10)
 *   linha 2: linhas de ate X caracteres(1 < X < 500),  com varios codigos de pessoas, cada código de pessoas tem ate Y caracteres (1 < Y < 20) contendo apenas letras minusculas  
     maiusculas. Os codigos de pessoas são separados por espaço.
 
-#### Saida:
+### Saida
 
 *   uma linha contendo para cada pessoa a saida se ela é "ultron",  
     "pessoa" ou "chefe"
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -51,3 +48,5 @@ arta euio auiaoauio riu pegasus rea
 ultron pessoa pessoa pessoa pessoa chefe
 <<<<<<<<
 ```
+
+#

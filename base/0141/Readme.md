@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Os números de Fibonacci são definidos recursivamente de acordo com a expressão abaixo:
 
@@ -13,7 +13,7 @@ Os números de Fibonacci são definidos recursivamente de acordo com a expressã
     n         1  2  3  4  5  6   7   8   9
     fib(n)    1  1  2  3  5  8  13  21  34
 
-### Ação
+## Ação
 
 A função fib abaixo retorna o n-ésimo número de Fibonacci, mas de forma não recursiva. Forneça uma função fib que seja recursiva.
 
@@ -35,7 +35,7 @@ A função fib abaixo retorna o n-ésimo número de Fibonacci, mas de forma não
     }
 ```
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>> 01
@@ -62,6 +62,8 @@ A função fib abaixo retorna o n-ésimo número de Fibonacci, mas de forma não
 3
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 05

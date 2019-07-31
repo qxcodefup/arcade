@@ -1,9 +1,9 @@
-## @0201 #05_str L1 - Valdiskey e a cifra V1!
+## @0174 #05_str L1 - Valdiskey e a cifra V1!
 ## @qxcode
 
-![](S6300474.JPG)
+![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Valdisklei chegou em casa com sua tarefinha sobre o alfabeto.
 
@@ -17,22 +17,20 @@ Valdisklei chegou em casa com sua tarefinha sobre o alfabeto.
 * 'K' grita Valdisklei, é mesmo 'k' mamãe. 24 depois do 'm' é k.
 * Mamãe, quando eu crescer quero ser que nem você! E os dois se abraçam celebrando a beleza da dupla ignorancia.
 
-### Ação
+## Ação
 
 Dado uma letra e um valor de rotação retorne a letra resultante.
 
-### Entrada e Saída
-
-Entrada:
+### Entrada
 
 * Letra minuscula entre 'a' e 'z'
 * Um valor inteiro positivo ou negativo onde negativo significa um rotação pra frente e negativo uma rotação pra trás.
 
-Saída:
+### Saída
 
 * A letra resultante
 
-Exemplos:
+### Exemplos
 
 ```
 >>>>>>>> 01
@@ -42,14 +40,12 @@ a
 a
 <<<<<<<<
 
-
 >>>>>>>> 02
 b
 3
 ========
 e
 <<<<<<<<
-
 
 >>>>>>>> 03
 z
@@ -58,7 +54,6 @@ z
 b
 <<<<<<<<
 
-
 >>>>>>>> 04
 f
 -3
@@ -66,14 +61,13 @@ f
 c
 <<<<<<<<
 
-
 >>>>>>>> 05
 b
 -2
 ========
 z
 <<<<<<<<
-
 ```
 
+#
 <!--- Todos os testes estão duplicados --->

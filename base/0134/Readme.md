@@ -1,29 +1,25 @@
 ## @0134 #06_mat L2 - Quadrado Mágico
 ## @qxcode
 
-# @qxcode
-
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Dizemos que uma matriz quadrada inteira é um quadrado mágico se a soma dos elementos de cada linha, a soma dos elementos de cada coluna e a soma dos elementos das diagonais principal e secundária são todas iguais.  
   
-### Ação
+## Ação
 
 Diga se a uma matriz de elementos inteiros 3x3 dada como entrada é quadrado mágico ou não.  
   
-### Entrada e Saída
-
-Entrada
+### Entrada
 
 *   A matriz 3x3
 
-Saída
+### Saída
 
 *   "sim" se for quadrado mágico e "nao" caso contrário.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -33,10 +29,8 @@ Saída
 ========
 nao
 <<<<<<<<
-```
 
-<!---
->>>>>>>> 01
+>>>>>>>>
 2 7 6
 9 5 1
 4 3 8
@@ -44,11 +38,13 @@ nao
 sim
 <<<<<<<<
 
->>>>>>>> 02
+>>>>>>>>
 8 1 6
 3 5 7
 4 9 2
 ========
 sim
 <<<<<<<<
---->
+```
+
+#

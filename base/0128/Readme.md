@@ -1,29 +1,25 @@
 ## @0128 #06_mat L2 - Soma de elementos de em uma matriz
 ## @qxcode
 
-# @qxcode
-
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 "Mamãe me perguntou: Se somar essas notas todas do teu boletim num 10 né menino. Eu disse: Dá sim mamãe e eu ainda faço um programa pra isso!"
 
-### Ação
+## Ação
 
 Receba uma matriz 2x3 de notas inteiras e retorne a soma de todas as notas.
 
-### Entrada e Saída
+### Entrada
 
-Entrada:
+* Os valores da matriz
 
-*   Os valores da matriz
+### Saída
 
-Saída:
+* A soma dos valores da matriz
 
-*   A soma dos valores da matriz
-
-Exemplo:
+## Exemplos
 
 ```
 >>>>>>>>
@@ -47,3 +43,5 @@ Exemplo:
 14
 <<<<<<<<
 ```
+
+#

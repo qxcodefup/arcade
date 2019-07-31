@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Tia Dalma (Calipso) e Jack Sparrow estavam conversando.  
 Jack depois da terceira garrafa de run diz:  
@@ -13,24 +13,20 @@ Jack depois da terceira garrafa de run diz:
 
 Não sei se você já notou, mas o Jack fala de uma forma muito peculiar.
 
-### Ação
+## Ação
 
 Dada uma frase, conforme o case da primeira letra, alterne o case de todas as letras seguintes.
 
-### Entrada e Saida
-
-### 
-
-Entrada:
+### Entrada
 
 *   Linha 1: A quantidade de casos de teste.
 *   Linha 2: Um texto com até 100 caracteres maiúsculos ou minúsculos e espaços por linha, para cada caso de teste.
 
-Saida:
+### Saida
 
 *   Dado o case do primeiro caractere, refaça os cases de todos os caracteres, desconsiderando o espaço.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -58,6 +54,8 @@ MoRrA pReA
 BiGoDe ApArAdO
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01

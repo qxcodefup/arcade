@@ -3,25 +3,19 @@
 
 ![](capa.jpg)
 
-### Motivação
-
-### Ação
+## Ação
 
 Dada uma frase(max 100 char) com palavras(letras minusculas), números e espaço, some todos os números que encontrar. Numa palavra existem apenas números ou apenas alfabéticos. Palavras são separadas por 1 espaço.
 
-### Entrada e Saida
+### Entrada
 
-### 
+* Uma frase(max 100 char) com palavras (letras minusculas), números e espaço
 
-Entrada:
+### Saida
 
-*   Uma frase(max 100 char) com palavras (letras minusculas), números e espaço
+* o somatorio dos numeros.
 
-Saida:
-
-*   o somatorio dos numeros.
-
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -42,6 +36,8 @@ os 2 irmãos de maria durmiram os ultimos 2 dias na casa de seus avós
 4
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01

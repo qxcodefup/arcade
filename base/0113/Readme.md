@@ -4,23 +4,21 @@
 
 ![](capa.jpg)
 
-### Ação
+## Ação
 
 Diferente da versão 2 em que você ou encontrava um nome perfeito ou digitava estou sem sorte, use a mesma regra de apenas colocar um caractere minúsculo para procurar o melhor valor, mesmo que não seja zero. Se adicionando um caractere não melhorar o valor, deixe sem o caractere adicional.
 
-### Entrada e Saída
-
-#### Entrada
+### Entrada
 
 *   Uma palavra(max 50 char) com apenas minusculos e maiúsculos sem espaços.
 
-#### Saida
+### Saida
 
 *   1a linha: o valor da palavra original.
 *   2a linha: A nova palavra.
 *   3a linha: o valor ascológico da nova palavra.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -63,3 +61,5 @@ Ariatesa
 10
 <<<<<<<<
 ```
+
+#

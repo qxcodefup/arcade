@@ -75,7 +75,7 @@
 0075: @0075 #04_vet L3 - Abastecimento de água
 0083: @0083 #04_vet L3 - Anfíbios e Batráquios - Está contido
 0082: @0082 #04_vet L3 - As unhas de Luiza - Vetor para inteiro
-0080: @0079 #04_vet L3 - Baruel Ruel trocando figurinhas!
+0080: @0080 #04_vet L3 - Baruel Ruel trocando figurinhas!
 0073: @0073 #04_vet L3 - Batida Policial - Ordenando vetores
 0010: @0010 #04_vet L3 - Bolinhas viciadas(contagem de repetições)
 0070: @0070 #04_vet L3 - Cabeças vão rolar
@@ -83,7 +83,7 @@
 0100: @0100 #04_vet L3 - Jogando pião na rodinha
 0078: @0078 #04_vet L3 - Jogo do Avesso
 0079: @0079 #04_vet L3 - Jogo do Avesso V2
-0081: @0080 #04_vet L3 - Loucura de Marquinhos - Decompor um inteiro
+0081: @0081 #04_vet L3 - Loucura de Marquinhos - Decompor um inteiro
 0139: @0139 #04_vet L3 - MMC de vários números.
 0077: @0077 #04_vet L3 - Mercantil V3
 0071: @0071 #04_vet L3 - Mário e o Assassins Creed - Parkour
@@ -98,27 +98,27 @@
 0087: @0087 #04_vet L4 - Zoologico Entrando na Arca de Noé
 0091: @0091 #04_vet MMC
 0090: @0090 #04_vet Primo
-0173: @0200 #05_str L1 - Eribelton e a Ascologia V1 - Somar Asc
+0173: @0173 #05_str L1 - Eribelton e a Ascologia V1 - Somar Asc
 0092: @0093 #05_str L1 - LP da Xura - Inverter String!
 0104: @0104 #05_str L1 - Maiúsculo, Minusculo e Dígito!
-0177: @0204 #05_str L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
-0176: @0203 #05_str L1 - Substring na decoração - Obter Substrings!
-0174: @0201 #05_str L1 - Valdiskey e a cifra V1!
+0177: @0177 #05_str L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
+0176: @0176 #05_str L1 - Substring na decoração - Obter Substrings!
+0174: @0174 #05_str L1 - Valdiskey e a cifra V1!
 0095: @0095 #05_str L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!
 0096: @0096 #05_str L2 - Contar Leds
-0126: @0073 #05_str L2 - Crushômetro
+0126: @0126 #05_str L2 - Crushômetro
 0109: @0109 #05_str L2 - Eribelton e a Ascologia V2 - Buscando a perfeição
 0097: @0097 #05_str L2 - Gagueira V1 - Duplicar Palavras
 0093: @0094 #05_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
 0180: @0180 #05_str L2 - Guerra Civil no Universo Marvel
 0089: @0089 #05_str L2 - Mega Jokenpo!
 0111: @0111 #05_str L2 - Meu cachorro comeu minha tarefa - Retirar espaços
-0125: @0073 #05_str L2 - Numerão Divisível por 11
+0125: @0125 #05_str L2 - Numerão Divisível por 11
 0110: @0110 #05_str L2 - Organizando Ru - Homens e Mulheres!
 0181: @0181 #05_str L2 - Somando numeros
 0106: @0106 #05_str L2 - Valdiskley e a cifra V2!
 0094: @0094 #05_str L2 - Vogais e Consoantes - Identificação e Montagem!
-0127: @0073 #05_str L3 - Amo a Amora meu Amor - Contar Substrings!
+0127: @0127 #05_str L3 - Amo a Amora meu Amor - Contar Substrings!
 0118: @0118 #05_str L3 - Aniquilando Ultrons V3
 0113: @0113 #05_str L3 - Eribelton e a Ascologia V3 - Busca do mínimo
 0099: @0099 #05_str L3 - Francês é Fresco - Juntar palavras
@@ -132,16 +132,16 @@
 0179: @0179 #05_str L3 - Prof Muquirana - Busca máximo por critério
 0112: @0112 #05_str L3 - Rocicleia e o Locioreca - Anagramas!
 0116: @0116 #05_str L3 - Roda Roda Jequiti - Jogo da Forca!
-0175: @0202 #05_str L3 - Separando tokens
+0175: @0175 #05_str L3 - Separando a partir de tokens
 0105: @0104 #05_str L3 - Valdiskley e cifras históricas!
-0124: @0073 #05_str L4 - Conversa de Traficantes - Substituições de substrings
-0120: @0101 #05_str L4 - Gansos Gamados - Verificar ordenação da frase!
-0119: @0101 #05_str L4 - Matéria e Antimatéia - Colisão entre palavras!
-0121: @0073 #05_str L4 - Mário e o Assassins Creed - Cenário
-0122: @0073 #05_str L4 - Nao se bububula - Gagueira V2!
+0124: @0124 #05_str L4 - Conversa de Traficantes - Substituições de substrings
+0120: @0120 #05_str L4 - Gansos Gamados - Verificar ordenação da frase!
+0119: @0119 #05_str L4 - Matéria e Antimatéia - Colisão entre palavras!
+0121: @0121 #05_str L4 - Mário e o Assassins Creed - Cenário
+0122: @0122 #05_str L4 - Nao se bububula - Gagueira V2!
 0152: @0152 #05_str L4 - OBI 2015 - Fase 2 - Nível 1 - Letras
 0103: @0103 #05_str L4 - Separe Pneumatocito - Separação de Palavras!
-0123: @0073 #05_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
+0123: @0123 #05_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
 0107: @0107 #05_str L4 - Valdiskley e a Cifra v3!
 0130: @0130 #06_mat L2 - Bingo!
 0012: @0012 #06_mat L2 - Deu a louca no Imperador!
@@ -161,7 +161,7 @@
 0141: @0141 #07_rec L2 - Números de Fibonacci
 0140: @0140 #07_rec L3 - Contando caracteres recursivamente
 0146: @0146 #07_rec L3 - Torres de Hanoi
-0301: @0301 #07_struct L3 - Mulher mais idosa
+0182: @0182 #07_struct L3 - Mulher mais idosa
 0142: @0142 #09_aloc L2 - Vetor de strings com tamanhos variados
 0144: @0144 #10_pont - Função que retorna vários valores por referência
 0143: @0143 #10_pont - Troca de valores de variáveis

@@ -1,31 +1,31 @@
-## @0073 #05_str L2 - Numerão Divisível por 11
+## @0125 #05_str L2 - Numerão Divisível por 11
 ## @qxcode
 
-### Motivação
+![](capa.jpg)
 
-Algumas linguagens não suportam números muito grandes. O tipo inteiro (int), por exemplo, suporta 4294967295 números diferentes.   
-Pensando nisso, uma alternativa é a representação de números grandes (Big numbers) é o uso de Strings.   
+## Motivação
+
+Algumas linguagens não suportam números muito grandes. O tipo inteiro (int), por exemplo, suporta 4294967295 números diferentes.  
+Pensando nisso, uma alternativa é a representação de números grandes (Big numbers) é o uso de Strings.  
 Mas como realizar operações com estes números?
 
-### Ação
+## Ação
 
 Comece com uma operação simples, faça uma função que receba um número gigante com até 20 casas e retorne true se ele é divisível por 11.  
 Existem formas para se determinar essa divisibilidade. Pesquise um pouco.
 
 [http://www.escolakids.com/divisibilidade-por-11.htm](http://www.escolakids.com/divisibilidade-por-11.htm)  
 
-### Entrada e Saída
+### Entrada
 
-- Entrada:
+* Um "número" com até 20 dígitos.
 
-  *   Um "número" com até 20 dígitos.
+### Saída
 
-- Saída:
+* "sim" se o numero for divisível por 11 e "nao" caso contrário.  
 
-  *   "sim" se o numero for divisível por 11 e "nao" caso contrário.  
-    
+## Exemplos
 
-### Exemplos  
 ```
 >>>>>>>>
 11
@@ -38,13 +38,15 @@ sim
 ========
 sim
 <<<<<<<<
-    
+
 >>>>>>>>
 123
 ========
 nao
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01
@@ -54,30 +56,24 @@ nao
 <<<<<<<<
 
 >>>>>>>> 02
-110
-========
-sim
-<<<<<<<<
-
->>>>>>>> 03
 121
 ========
 sim
 <<<<<<<<
 
->>>>>>>> 04
+>>>>>>>> 03
 120
 ========
 nao
 <<<<<<<<
 
->>>>>>>> 05
+>>>>>>>> 04
 12100000000
 ========
 sim
 <<<<<<<<
 
->>>>>>>> 06
+>>>>>>>> 05
 12109020000
 ========
 sim

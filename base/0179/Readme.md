@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Um professor muquirana quer descobrir qual o aluno que tirou a maior nota.  
 Ele prometeu um piper de premio para o melhor aluno.
@@ -18,26 +18,20 @@ dá nota 10.
 
 Por exemplo: 026897 quer dizer : aluno 02, notas 6, 8, 9 e 7.
 
-### Ação
+## Ação
 
 Faça um programa para imprimir o id do aluno com a maior nota.
 
-### Entrada e Saida
+### Entrada
 
-### 
+* 1a linha: A quantidade de elementos no vetor(1 a 50).
+* 2a linha: O vetor com os ids e notas dos alunos.
 
-Entrada:
+### Saida
 
-*   1a linha: A quantidade de elementos no vetor(1 a 50).
-*   2a linha: O vetor com os ids e notas dos alunos.
-
-Saida:
-
-*   O id do aluno com melhor média. Se vários alunos ficarem com a mesma média máxima. Imprima o id de maior número.
+* O id do aluno com melhor média. Se vários alunos ficarem com a mesma média máxima. Imprima o id de maior número.
 
 ### Exemplos
-
-### 
 
 ```
 >>>>>>>>
@@ -61,6 +55,8 @@ Saida:
 05
 <<<<<<<<
 ```
+
+#
 
 <!------
 >>>>>>>>

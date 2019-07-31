@@ -1,7 +1,9 @@
-## @0101 #05_str L4 - Gansos Gamados - Verificar ordenação da frase!
+## @0120 #05_str L4 - Gansos Gamados - Verificar ordenação da frase!
 ## @qxcode
 
-### Motivação
+![](capa.jpg)
+
+## Motivação
 
 \- Ei Manoel, saca só minha frase:
 
@@ -17,22 +19,19 @@ _\- Alface cresce no chão e não no pé!_
 _\- É muito suspeita! Responde Manoel. Tô desconfiando de você._  
 \- Deixa de ser burro Manoel, as palavras tão ordenadas lexicograficamente!
 
-### Ação
+## Ação
 
 Dada uma frase, imprima "sim" se as palavras estiverem ordenadas e "nao" caso contrario.
 
-  
-
-### Entrada e Saída
-
-- Entrada:
+### Entrada
 
   -  Uma frase de até 100 caracteres minúsculos e sem acento.
 
-- Saída:
+### Saída
 
-  -   "sim" ou "nao".  
-    
+  -   "sim" ou "nao".
+
+## Exemplos
 
 ```
 >>>>>>>>
@@ -46,33 +45,36 @@ o rato roeu a roupa
 ========
 nao
 <<<<<<<<
-```
-<!---
->>>>>>>> 01
+
+>>>>>>>>
 a b c d e f
 ========
 sim
 <<<<<<<<
 
->>>>>>>> 02
+>>>>>>>>
 a b c d a f
 ========
 nao
 <<<<<<<<
+```
 
->>>>>>>> 03
+#
+
+<!---
+>>>>>>>> 01
 ab a ba
 ========
 nao
 <<<<<<<<
 
->>>>>>>> 04
+>>>>>>>> 02
 a amiga da minha vizinha zooume
 ========
 sim
 <<<<<<<<
 
->>>>>>>> 05
+>>>>>>>> 03
 arrocha arregao
 ========
 nao

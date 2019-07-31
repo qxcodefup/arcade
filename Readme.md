@@ -154,7 +154,7 @@
 - [L3 - Prof Muquirana - Busca máximo por critério](base/0179/Readme.md#qxcode)
 - [L3 - Rocicleia e o Locioreca - Anagramas!](base/0112/Readme.md#qxcode)
 - [L3 - Roda Roda Jequiti - Jogo da Forca!](base/0116/Readme.md#qxcode)
-- [L3 - Separando tokens](base/0175/Readme.md#qxcode)
+- [L3 - Separando a partir de tokens](base/0175/Readme.md#qxcode)
 - [L3 - Valdiskley e cifras históricas!](base/0105/Readme.md#qxcode)
 - [L4 - Conversa de Traficantes - Substituições de substrings](base/0124/Readme.md#qxcode)
 - [L4 - Gansos Gamados - Verificar ordenação da frase!](base/0120/Readme.md#qxcode)
@@ -192,7 +192,7 @@
 
 ## 07_struct
 
-- [L3 - Mulher mais idosa](base/0301/Readme.md#qxcode)
+- [L3 - Mulher mais idosa](base/0182/Readme.md#qxcode)
 
 ## 09_aloc
 

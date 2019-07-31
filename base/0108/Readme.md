@@ -1,7 +1,9 @@
 ## @0108 #05_str L3 - Identificando elementos
 ## @qxcode
 
-## Motivação
+![](capa.jpg)
+
+## Ação
 
 Dada uma frase(max 100 char) com palavras(letras minusculas), números, espaço e ponto, identifique os elementos como str, int ou float.
 
@@ -13,16 +15,14 @@ Float tem o ponto.
 Int contem não tem ponto.  
 Int e float podem ser negativos.  
 Se existir pelo menos um alfabético então é string.
- 
 
-## Entrada:
+### Entrada
 
 *   Uma frase(max 100 char) com palavras(letras minusculas), números, espaço e ponto
 
-## Saída:
+### Saída
 
 *   o tipo de cada palavra( str, float ou int) separado por espaço.  
-    
 
 ## Exemplos  
 
@@ -40,6 +40,8 @@ a proxima eleição presidencial no Brasil ocorrerá em 2 de outubro de 2018
 str str str str str str str str int str str str int
 <<<<<<<<
 ```
+
+#
 
 <!--
 >>>>>>>> 03

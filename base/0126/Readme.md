@@ -1,9 +1,9 @@
-## @0073 #05_str L2 - Crushômetro
+## @0126 #05_str L2 - Crushômetro
 ## @qxcode
 
-![](capa.jpg)  
+![](capa.jpg)
 
-### Motivação: 
+## Motivação
 
 Depois de muitos Spotteds-VSF de amor no Facebook, um aluno fez um estudo e percebeu que os atributos necessários para comparar a compatibilidade entre
 
@@ -21,9 +21,7 @@ você e o crush são:
 
 Devolva a porcentagem de chances do crush funcionar com você (Lembrando que porcentagens não podem ser negativas!).
 
-  
-
-### Observação:
+## Observação
 
 Para fazer o cálculo, some todos os pontos e imprima da seguinte forma:
 
@@ -33,18 +31,17 @@ para imprimir o '%', basta coloca-lo duas vezes, assim:
 
 printf("%%");
 
-### Entrada e Saída:
+### Entrada
 
-- Entrada:
+* Seu primeiro nome
+* Primeiro nome do seu crush
 
-  *   Seu primeiro nome
-  *   Primeiro nome do seu crush
+### Saída
 
-- Saída:
+* Porcentagem de chances do crush te dar bola
 
-  *   Porcentagem de chances do crush te dar bola
+## Exemplos
 
-### Exemplos:
 ```
 >>>>>>>>
 Yudi
@@ -80,7 +77,11 @@ Hyoga
 ========
 As chances do crush te dar bola sao: 0%!
 <<<<<<<<
+```
 
+#
+
+<!---
 >>>>>>>>
 Sabrina
 Sheehan
@@ -101,8 +102,7 @@ Helainete
 ========
 As chances do crush te dar bola sao: 80%!
 <<<<<<<<
-```
-<!---
+
 >>>>>>>> 01
 Will
 Ana
@@ -143,61 +143,5 @@ Sakura
 Sasuke
 ========
 As chances do crush te dar bola sao: 100%!
-<<<<<<<<
-
->>>>>>>> 07
-Yudi
-Priscilla
-========
-As chances do crush te dar bola sao: 20%!
-<<<<<<<<
-
->>>>>>>> 08
-Shun
-Hyoga
-========
-As chances do crush te dar bola sao: 0%!
-<<<<<<<<
-
->>>>>>>> 09
-Zeus
-Thor
-========
-As chances do crush te dar bola sao: 50%!
-<<<<<<<<
-
->>>>>>>> 10
-Paula
-Paulo
-========
-As chances do crush te dar bola sao: 100%!
-<<<<<<<<
-
->>>>>>>> 11
-Shiryu
-Shun
-========
-As chances do crush te dar bola sao: 10%!
-<<<<<<<<
-
->>>>>>>> 12
-Sabrina
-Sheehan
-========
-As chances do crush te dar bola sao: 70%!
-<<<<<<<<
-
->>>>>>>> 13
-Cosette
-Caboclos
-========
-As chances do crush te dar bola sao: 40%!
-<<<<<<<<
-
->>>>>>>> 14
-Ermanoteu
-Helainete
-========
-As chances do crush te dar bola sao: 80%!
 <<<<<<<<
 --->

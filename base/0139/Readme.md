@@ -3,21 +3,19 @@
 
 ![](capa.jpg)
 
-### Ação
+## Ação
 
 Faça uma função que receba um vetor e retorne e mmc dos números.  
 
-### Entrada e Saida
-
-#### Entrada:
+### Entrada
 
 *   Um número N (N < 50) seguindo de N números inteiros.
 
-#### Saida:
+### Saida
 
 *   O mmc dos N numeros.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -38,3 +36,5 @@ Faça uma função que receba um vetor e retorne e mmc dos números.
 120
 <<<<<<<<
 ```
+
+#

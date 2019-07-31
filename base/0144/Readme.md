@@ -3,7 +3,7 @@
 
 ![](capa.jpg)
 
-### Motivação
+## Motivação
 
 Quando precisamos que uma função retorne vários valores, temos duas opções:
 1) Retornar uma estrutura, onde cada campo armazena um valor que desejamos retornar na função; ou
@@ -35,13 +35,13 @@ int main(){
 }
 ```
 
-### Ação
+## Ação
 
 Você deverá:
 - Implementar a função 'converte_tempo'.
 - Chamar a função 'converte_tempo' dentro da função 'main'.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -62,3 +62,5 @@ Você deverá:
 0:1:0
 <<<<<<<<
 ```
+
+#

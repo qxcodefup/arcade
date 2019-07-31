@@ -1,19 +1,15 @@
 ## @0130 #06_mat L2 - Bingo!
 ## @qxcode
 
-# qxcode
-
 ![](capa.jpg)
 
-#### Motivação  
+## Motivação
 
 Sua vó, que é uma frenquentadora assídua do bingo dos idosos, estava tendo dificuldades para saber quantos números estava acertando por partida.
 
-  
-
 Sendo um bom netinho que você é, você desisdiu criar um programa que ajudasse sua vovozinha.
 
-#### Ação  
+## Ação
 
 Dado um vetor de tamanho 6 de elementos inteiros, verifique quantos elementos deste vetor estão nesta matriz de elementos inteiros 4x4.
 
@@ -22,17 +18,15 @@ Dado um vetor de tamanho 6 de elementos inteiros, verifique quantos elementos de
 30 87 55 69  
 13 60 99 66
 
-#### Entrada e Saída  
+### Entrada
 
-Entrada:
+*   Entrada de 6 numero inteiros
 
-*   Entrada de 6 numero inteiros 
-
-Saída:
+### Saída
 
 *   Número de vezes que os elementos do vetor e repetem na matriz 4x4.  
 
-#### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -53,6 +47,8 @@ Saída:
 6
 <<<<<<<<
 ```
+
+#
 
 <!---
 >>>>>>>> 01

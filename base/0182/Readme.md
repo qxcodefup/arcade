@@ -1,19 +1,27 @@
-## @0301 #07_struct L3 - Mulher mais idosa
+## @0182 #07_struct L3 - Mulher mais idosa
 ## @qxcode
+
+![](capa.jpg)
+
+## Ação
 
 Leia um grupo de pessoas e informe o nome da mulher mais idosa do grupo.
 
 Cada pessoa tem nome(string até 20 char, sem whitespace), idade(int) e sexo(char 'm' ou 'f').
 
-- Entrada
-    - 1a linha: o número de pessoas, seguido por uma pessoa por linha.
-- Saída
-    - O nome da mulher mais idosa, ou 'nao ha mulher' se não houverem mulheres no grupo.
-    
-## Orientações
-- Antes e fazer a busca pela mulher mais idosa, você deve ler os dados e armazená-los em um vetor de struct.
+### Entrada
 
-## Testes
+- 1a linha: o número de pessoas, seguido por uma pessoa por linha.
+
+### Saída
+
+- O nome da mulher mais idosa, ou 'nao ha mulher' se não houverem mulheres no grupo.
+
+## Orientações
+
+Antes e fazer a busca pela mulher mais idosa, você deve ler os dados e armazená-los em um vetor de struct.
+
+## Exemplos
 
 ```
 >>>>>>>> 01
@@ -24,7 +32,6 @@ joao 43 m
 ana
 <<<<<<<<
 
-
 >>>>>>>> 02
 2
 jose 80 m
@@ -32,7 +39,6 @@ joao 43 m
 ========
 nao tem mulher
 <<<<<<<<
-
 
 >>>>>>>> 03
 3
@@ -43,7 +49,6 @@ melissa 34 f
 ana
 <<<<<<<<
 
-
 >>>>>>>> 04
 3
 joao 88 m
@@ -52,8 +57,9 @@ melissa 84 f
 ========
 melissa
 <<<<<<<<
-
 ```
+
+#
 
 <!---
 
