@@ -19,7 +19,7 @@ Dada uma frase(max 100 char) com palavras(letras minusculas), números e espaço
 
 ```
 >>>>>>>>
-apesar de 2 jogadores serem expulsos, a seleção brasileira venceu a seleção italiana por 5x1
+apesar de 2 jogadores serem expulsos, a seleção brasileira venceu a seleção italiana por 5 x 1
 ========
 8
 <<<<<<<<
@@ -43,7 +43,7 @@ os 2 irmãos de maria durmiram os ultimos 2 dias na casa de seus avós
 >>>>>>>> 01
 02 x dhgh 111 b 2 c d xf 31
 ========
-145
+146
 <<<<<<<<
 
 >>>>>>>> 02

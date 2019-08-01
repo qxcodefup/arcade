@@ -4,18 +4,18 @@
 int main(){
     int casos;
     scanf("%d", &casos);
-    getchar();
 
     for(int a = 0; a < casos; a++){
         char valor[50];
+        getchar();
         scanf("%[^\n]", valor);
 
         char vogais[50][50];
         int x, y = 0;
 
         for(int i = 0; i < strlen(valor); i++){
-            if(valor[a] == 'a' || valor[a] == 'e' || valor[a] == 'i' || valor[a] == 'o' || valor[a] == 'u'){
-                vogais[i][y] = valor[a];
+            if(valor[i] == 'a' || valor[i] == 'e' || valor[i] == 'i' || valor[i] == 'o' || valor[i] == 'u'){
+                vogais[x][y] = valor[i];
                 y++;
                 continue;
             }
@@ -25,11 +25,10 @@ int main(){
 
         char maior[50];
         strcpy(maior, vogais[0]);
-        for(int a = 0; a < x; a++)
-            if(strlen(vogais[a]) > strlen(maior))
-                strcpy(maior, vogais[a]);
 
-        printf("%s", maior);
+        for(int l = 1; l < x; l++)
+            if(strlen(vogais[l]) > strlen(maior))
+                strcpy(maior, vogais[l]);
+        printf("%s\n", maior);
     }
-
 }

@@ -25,11 +25,11 @@ Dada uma frase, imprima "sim" se as palavras estiverem ordenadas e "nao" caso co
 
 ### Entrada
 
-  -  Uma frase de até 100 caracteres minúsculos e sem acento.
+- Uma frase de até 100 caracteres minúsculos e sem acento.
 
 ### Saída
 
-  -   "sim" ou "nao".
+- "sim" ou "nao".
 
 ## Exemplos
 
@@ -65,7 +65,7 @@ nao
 >>>>>>>> 01
 ab a ba
 ========
-nao
+sim
 <<<<<<<<
 
 >>>>>>>> 02
@@ -77,6 +77,6 @@ sim
 >>>>>>>> 03
 arrocha arregao
 ========
-nao
+sim
 <<<<<<<<
 --->

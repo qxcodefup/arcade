@@ -31,7 +31,7 @@ Faça um programa para imprimir o id do aluno com a maior nota.
 
 * O id do aluno com melhor média. Se vários alunos ficarem com a mesma média máxima. Imprima o id de maior número.
 
-### Exemplos
+## Exemplos
 
 ```
 >>>>>>>>
@@ -64,13 +64,6 @@ Faça um programa para imprimir o id do aluno com a maior nota.
 028888 047989
 ========
 04
-<<<<<<<<
-
->>>>>>>>
-4
-028888 047989 072213 199989
-========
-19
 <<<<<<<<
 
 >>>>>>>>

@@ -13,15 +13,13 @@ Ela descobriu que tinha o subtexto "amo" 5 vezes apenas nessa frase.
   
 ## Ação
 
-Ajude Amora e faça um programa que recebe duas entradas uma por linha,  
-
-a primeira linha contento o texto completo e a segunda o trecho.  
+Ajude Amora e faça um programa que recebe duas entradas uma por linha,na primeira linha contento o texto completo e a segunda o trecho.
 Conte e escreva quantas vezes aparece o subtexto no texto maior.
 
 ### Entrada
 
-* Uma frase
-* Um trecho da frase
+* Uma frase (maximo de 100 caracteres)
+* Um trecho da frase (máximo de 20 caracteres)
 
 ### Saída
 
@@ -38,7 +36,7 @@ amo
 <<<<<<<<
 
 >>>>>>>>
-o rato ratificou o carate que rateamos no cerato.
+o rato ratificou o carate que rateamos no cerato
 rat
 ========
 5
@@ -49,37 +47,23 @@ rat
 
 <!---
 >>>>>>>> 01
-amo o amor que me amou, oh amora amortecida
-amo
-========
-5
-<<<<<<<<
-
->>>>>>>> 02
 lua de cristal que me faz sonhar menos
 me
 ========
 2
 <<<<<<<<
 
->>>>>>>> 03
+>>>>>>>> 02
 marquei um x no seu umbigo de zumbak
 um
 ========
 3
 <<<<<<<<
 
->>>>>>>> 04
+>>>>>>>> 03
 super golpe de kungfu
 kungfu
 ========
 1
-<<<<<<<<
-
->>>>>>>> 05
-o rato ratificou o carate que rateamos no cerato.
-rat
-========
-5
 <<<<<<<<
 --->

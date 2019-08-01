@@ -55,16 +55,9 @@ Faça um programa que dado um numero representando a tecla quebrada e o numero n
 
 >>>>>>>>
 9
-23454324543423
-========
-23454324543423
-<<<<<<<<
-
->>>>>>>>
-9
 99999999991999999
 ========
-'1"
+1
 <<<<<<<<
 
 >>>>>>>>

@@ -1,44 +1,29 @@
 #include <stdio.h>
 #include <string.h>
 
-void move(char value[100], int t, int i){
-    int aux = value[t];
-    for(int a = t; a < i - 1; a++)
-        value[a] = value[a + 1];
-    value[i] = aux;
+int power(int a, int b){
+    int tmp = 1;
+    while(b > 0){
+        tmp *= a;
+        b--;
+    }
+    return tmp;
 }
 
 int main(){
-    char broken[2];
-    char value[100];
-
-    scanf("%s", broken);
-    scanf("%s", value);
-
-    int t = strlen(value);
-    for(int i = 0; i < t; i++){
-        if(value[i] == broken[0]){
-            move(value, t, i);
-            value[t - 1] = 0;
-            t--;
-            i--;
+    char broken, num[100];
+    scanf("%c", &broken);
+    scanf(" %s", num);
+    int size = strlen(num);
+    for(int i = 0; i < size; i++){
+        if(num[i] == broken) num[i] = '#';
+    }
+    int total = 0, temp = 0;
+    for(int j = size - 1; j >= 0; j--){
+        if(num[j] != '#'){
+            total += (num[j] - '0') * power(10, temp);
+            temp++;
         }
     }
-    if(value[0] != '0' && value[0] != 0){
-        printf("%s", value);
-    }else{
-        int aux = 1;
-        for(int i = 0; i < t; i++){
-            if(value[i] != '0'){
-                aux = 0;
-            }
-            if(!aux){
-                printf("%c", value[i]);
-            }
-        }
-        if(aux){
-            printf("0");
-        }
-    }
-    printf("\n");
+    printf("%d\n", total);
 }

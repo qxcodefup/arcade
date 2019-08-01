@@ -29,7 +29,7 @@ Dada uma frase com até 100 caracteres, será que você consegue me dizer a quan
 
 ### Saída
 
-- Um inteiro representando a quantidade de letras em comum. 
+- Um inteiro representando a quantidade de letras em comum.
 
 ## Exemplos
 
@@ -41,7 +41,7 @@ sorvete suor casaca chicletes pegasus
 <<<<<<<<
 
 >>>>>>>>
-minhoca quixe tempero musica roubo output=
+minhoca quixe tempero musica roubo
 ========
 0
 <<<<<<<<
@@ -53,7 +53,7 @@ acaro cocegas cagado aquecido
 <<<<<<<<
 
 >>>>>>>>
-aaabbcc bbac bbbaacc ccbddbabda  basdbdc
+aaabbcc bbac bbbaacc ccbddbabda basdbdc
 ========
 3
 <<<<<<<<
