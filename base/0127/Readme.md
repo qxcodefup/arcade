@@ -36,7 +36,7 @@ amo
 <<<<<<<<
 
 >>>>>>>>
-o rato ratificou o carate que rateamos no cerato
+o rato ratificou o carate que rateamos no cerato.
 rat
 ========
 5
