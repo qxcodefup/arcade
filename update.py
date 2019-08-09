@@ -61,7 +61,7 @@ class ItemGenerator:
             line = line[:-1]
         parts = line.split(":")
         hook = parts[0]
-        title = " ".join(parts[1:])
+        title = " ".join(parts[1:]) #skip index
         return Item(hook.strip(), title.strip())
 
 class Item:
@@ -69,14 +69,16 @@ class Item:
         words = title.split(" ")            #removendo os # no começo da linha
         if Text.has_only_hashtags(words[0]):
             del words[0]
-        self.title = " ".join(words)
+        self.index = words[0][1:] # index sem o @
+        self.title = " ".join(words[1:])
         self.hook = hook
         self.tags = [x[1:] for x in words if x.startswith("#")]
         self.dir = SOURCE_FOLDER + os.sep + self.hook
         self.readme_path = self.dir + os.sep + "Readme.md"
 
     def filter_by_prefix(self, targets):
-        words = self.title.split(" ")
+        fulltitle = "@" + self.index + " " + self.title
+        words = fulltitle.split(" ")
         for c in targets:
             words = [x for x in words if not x.startswith(c)]
         return " ".join(words)
@@ -85,7 +87,7 @@ class Item:
         return Text.filter_punct(self.filter_by_prefix("@#").strip())
 
     def __str__(self):
-        return self.hook + ": " + self.title
+        return self.hook + ": @" + self.index + " " + self.title
 
 
 class Itens:
@@ -145,9 +147,25 @@ class Itens:
                 with open(readme_path, "r") as f: #le conteudo
                     data = f.readlines()
                 with open(readme_path, "w") as f: #reescreve linha1
-                    data[0] = ("## " + item.title + "\n")
+                    data[0] = ("## @" + item.index + " " + item.title + "\n")
                     f.write("".join(data))
 
+    def verify_integrity(self):
+        for item in self.itens:
+            if item.index != item.hook:
+                print("warning: hook=", item.hook, "index=", item.index)
+
+    def update_hook_from_index(self):
+        changes = False
+        for item in self.itens:
+            if item.index != item.hook:
+                if os.path.isdir(SOURCE_FOLDER + os.sep + item.index):
+                    print("warning: cannot move hook", item.hook, "to", item.index)
+                else:
+                    os.rename(SOURCE_FOLDER + os.sep + item.hook, SOURCE_FOLDER + os.sep + item.index)
+                    changes = True
+        return changes
+        
 
     def update_qxcode_link(self):
         for item in self.itens:
@@ -201,9 +219,16 @@ def main():
         print("obtendo nomes do arquivo names.txt")
         itens.parse_from_names_file()
         itens.update_first_line()
+        changes = itens.update_hook_from_index()
+        if changes:
+            itens = Itens()
+            itens.parse_from_dirs()
+            itens.verify_integrity()
+
     else:
         print("obtendo nomes dos títulos dos arquivos")
         itens.parse_from_dirs()
+        itens.verify_integrity()
 
     itens.update_qxcode_link()
     print("atualizado: recriando title.md")

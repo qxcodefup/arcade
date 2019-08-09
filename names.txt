@@ -1,170 +1,170 @@
-0000: @0000 #01_ope L1 - Operações básicas (Imprimindo float formatado)
-0011: @0011 #01_ope L2 - Formatando data (Zeros à esquerda)
-0003: @0003 #01_ope L2 - Opala bebedor (Cálculo de desempenho)
-0002: @0002 #01_ope L2 - Pintando a casa (Calculando a área do triângulo)
-0005: @0005 #01_ope L3 - Ladrão de Goiabas (Contando viagens)
-0004: @0004 #01_ope L3 - Mete bala (Distância entre dois pontos)
-0006: @0006 #01_ope L4 - Zerinho ou um americano (Calcule o vencedor)
-0025: @0025 #02_sel L1 - Ambos Divisíveis
-0062: @0062 #02_sel L1 - Angulo Cartesiano - Operador Modular
-0015: @0015 #02_sel L1 - Calculadora Numérica
-0024: @0024 #02_sel L1 - Divisão Inteira e Quebrada
-0151: @0151 #02_sel L1 - OBI 2015 - Fase 2 - Nível 1 - Impedido!
-0156: @0156 #02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Jogo de par ou ímpar
-0155: @0155 #02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Plantação de Morangos!
-0026: @0026 #02_sel L1 - Positivo, Nulo ou Negativo?
-0027: @0027 #02_sel L2 - Adedonha na Califórnia
-0018: @0018 #02_sel L2 - Arrendondar
-0021: @0021 #02_sel L2 - Aumento de Salário
-0032: @0032 #02_sel L2 - Bolada na fuça
-0028: @0028 #02_sel L2 - Cadê a cabeça da cobra
-0031: @0031 #02_sel L2 - Fiquei de final
-0030: @0030 #02_sel L2 - Mercantil V1
-0019: @0019 #02_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
-0017: @0017 #02_sel L2 - Ovos de galinha (Procurando o Maior valor)
-0014: @0014 #02_sel L2 - Quantos são iguais? (Contando Repetidos)
-0029: @0029 #02_sel L2 - Quiz do Harry Potter
-0020: @0020 #02_sel L2 - Zerinho ou Um!
-0038: @0038 #02_sel L3 - A hora do próximo segundo
-0040: @0040 #02_sel L3 - Está Trabalhand ou Não!
-0034: @0034 #02_sel L3 - Formiga da bundona
-0157: @0157 #02_sel L3 - Frota de Táxi - OBI 2005
-0037: @0037 #02_sel L3 - Jokenpo 15
-0023: @0023 #02_sel L3 - Jokenpo das tartarugas!
-0039: @0039 #02_sel L3 - Mercantil V2
-0036: @0036 #02_sel L3 - Morre o do meio
-0035: @0035 #02_sel L3 - OBI 2017 - Fase 1 - Drone de Entrega
-0022: @0022 #02_sel L3 - OBI 2017 - Fase 1 - Teleférico
-0033: @0033 #02_sel L3 - Professor Bonzinho
-0041: @0041 #02_sel L3 - Rufus e Par ou Ímpar!
-0001: @0001 #02_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
-0043: @0043 #02_sel L4 - Dorme Tarde Acordar Cedo!
-0042: @0042 #02_sel L4 - Rufus e Ordenação!
-0056: @0056 #03_rep L1 - Calça Zeze de Camargo - Mínimo
-0013: @0013 #03_rep L1 - Dividindo pares de sapatos pra três
-0055: @0055 #03_rep L1 - Quantos Ultrons você vê - Contar Elemento
-0044: @0044 #03_rep L1 - Somatório V2
-0045: @0045 #03_rep L1 - Zero é par - Somatório de Pares!
-0058: @0058 #03_rep L2 - Busca Intervalada
-0048: @0048 #03_rep L2 - Cabo de Guerra Jedi
-0050: @0050 #03_rep L2 - Castelos de Cubos
-0046: @0046 #03_rep L2 - Jogo da Concentração
-0057: @0057 #03_rep L2 - Revolta em Portugal
-0049: @0049 #03_rep L2 - Sapinho no Poço
-0047: @0047 #03_rep L2 - Ônibus lotado
-0051: @0051 #03_rep L3 - Arremesso de pedra na lua
-0160: @0160 #03_rep L3 - Bafo - OBI 2005
-0063: @0063 #03_rep L3 - Blackjack 21!
-0064: @0064 #03_rep L3 - Conta Dígitos
-0052: @0052 #03_rep L3 - Hoje tem sopa de coelho?
-0162: @0162 #03_rep L3 - Mini-Poker - OBI2005
-0053: @0053 #03_rep L3 - OBI 2016 - Fuga em helicóptero
-0059: @0059 #03_rep L3 - Sapinho morrendo no poço
-0066: @0066 #03_rep L3 - Spok Palíndromo
-0161: @0161 #03_rep L3 - Vivo ou Morto - OBI 2005
-0016: @0016 #03_rep L3 - Volta de 360 graus (Retirando os loops)
-0054: @0054 #03_rep L4 - Quebrador de Copos
-0065: @0065 #03_rep L4 - Sapinho matemático não morrendo no poço
-0158: @0158 #03_rep L4 - Trilhas - OBI 2005
-0060: @0060 #04_vet L1 - Joelison Fernandes - Soma do maior e menor!
-0061: @0061 #04_vet L2 - Capoeira invertendo vetor!
-0101: @0101 #04_vet L2 - Mostrar mão de cartas (Imprimir vetor formatado)
-0068: @0068 #04_vet L2 - Organizando a fila do RU - Separar Pares e Ímpares!
-0067: @0067 #04_vet L2 - Queda de dominós
-0072: @0072 #04_vet L2 - Soldados Pequenos e Grandes!
-0075: @0075 #04_vet L3 - Abastecimento de água
-0083: @0083 #04_vet L3 - Anfíbios e Batráquios - Está contido
-0082: @0082 #04_vet L3 - As unhas de Luiza - Vetor para inteiro
-0080: @0080 #04_vet L3 - Baruel Ruel trocando figurinhas!
-0073: @0073 #04_vet L3 - Batida Policial - Ordenando vetores
-0010: @0010 #04_vet L3 - Bolinhas viciadas(contagem de repetições)
-0070: @0070 #04_vet L3 - Cabeças vão rolar
-0085: @0085 #04_vet L3 - Exército - Perto da morte
-0100: @0100 #04_vet L3 - Jogando pião na rodinha
-0078: @0078 #04_vet L3 - Jogo do Avesso
-0079: @0079 #04_vet L3 - Jogo do Avesso V2
-0081: @0081 #04_vet L3 - Loucura de Marquinhos - Decompor um inteiro
-0139: @0139 #04_vet L3 - MMC de vários números.
-0077: @0077 #04_vet L3 - Mercantil V3
-0071: @0071 #04_vet L3 - Mário e o Assassins Creed - Parkour
-0074: @0074 #04_vet L3 - OBI 2017 - Fase 1 - Botas Trocadas
-0069: @0069 #04_vet L3 - Zoo quantas especies!
-0084: @0084 #04_vet L3 - Zoologico Um animal de cada tipo!
-0086: @0086 #04_vet L4 - Coleção de Tazos - Quantos se repetem mais
-0008: @0008 #04_vet L4 - Força Bruta (Gerando próxima combinação)
-0076: @0076 #04_vet L4 - OBI 2017 - Fase 1 - O segredo do Cofre
-0088: @0088 #04_vet L4 - Se fosse a mediana eu tinha passado!
-0009: @0009 #04_vet L4 - Segredo do cofre (OBI 2017 F1P1)
-0087: @0087 #04_vet L4 - Zoologico Entrando na Arca de Noé
-0091: @0091 #04_vet MMC
-0090: @0090 #04_vet Primo
-0173: @0173 #05_str L1 - Eribelton e a Ascologia V1 - Somar Asc
-0092: @0093 #05_str L1 - LP da Xura - Inverter String!
-0104: @0104 #05_str L1 - Maiúsculo, Minusculo e Dígito!
-0177: @0177 #05_str L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
-0176: @0176 #05_str L1 - Substring na decoração - Obter Substrings!
-0174: @0174 #05_str L1 - Valdiskey e a cifra V1!
-0095: @0095 #05_str L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!
-0096: @0096 #05_str L2 - Contar Leds
-0126: @0126 #05_str L2 - Crushômetro
-0109: @0109 #05_str L2 - Eribelton e a Ascologia V2 - Buscando a perfeição
-0097: @0097 #05_str L2 - Gagueira V1 - Duplicar Palavras
-0093: @0094 #05_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
-0180: @0180 #05_str L2 - Guerra Civil no Universo Marvel
-0089: @0089 #05_str L2 - Mega Jokenpo!
-0111: @0111 #05_str L2 - Meu cachorro comeu minha tarefa - Retirar espaços
-0125: @0125 #05_str L2 - Numerão Divisível por 11
-0110: @0110 #05_str L2 - Organizando Ru - Homens e Mulheres!
-0181: @0181 #05_str L2 - Somando numeros
-0106: @0106 #05_str L2 - Valdiskley e a cifra V2!
-0094: @0094 #05_str L2 - Vogais e Consoantes - Identificação e Montagem!
-0127: @0127 #05_str L3 - Amo a Amora meu Amor - Contar Substrings!
-0118: @0118 #05_str L3 - Aniquilando Ultrons V3
-0113: @0113 #05_str L3 - Eribelton e a Ascologia V3 - Busca do mínimo
-0099: @0099 #05_str L3 - Francês é Fresco - Juntar palavras
-0117: @0117 #05_str L3 - Identificando Ultrons V2
-0108: @0108 #05_str L3 - Identificando elementos
-0178: @0178 #05_str L3 - Jack Sparrow e o Beijinho - Alternar Case
-0098: @0098 #05_str L3 - Jason e Krueguer - busca de maior ocorrencia
-0114: @0114 #05_str L3 - MeU WoRd QuEbRoU - Formatação de Case!
-0102: @0102 #05_str L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados
-0115: @0115 #05_str L3 - Máquina de Datilografar Quebrada
-0179: @0179 #05_str L3 - Prof Muquirana - Busca máximo por critério
-0112: @0112 #05_str L3 - Rocicleia e o Locioreca - Anagramas!
-0116: @0116 #05_str L3 - Roda Roda Jequiti - Jogo da Forca!
-0175: @0175 #05_str L3 - Separando a partir de tokens
-0105: @0104 #05_str L3 - Valdiskley e cifras históricas!
-0124: @0124 #05_str L4 - Conversa de Traficantes - Substituições de substrings
-0120: @0120 #05_str L4 - Gansos Gamados - Verificar ordenação da frase!
-0119: @0119 #05_str L4 - Matéria e Antimatéia - Colisão entre palavras!
-0121: @0121 #05_str L4 - Mário e o Assassins Creed - Cenário
-0122: @0122 #05_str L4 - Nao se bububula - Gagueira V2!
-0152: @0152 #05_str L4 - OBI 2015 - Fase 2 - Nível 1 - Letras
-0103: @0103 #05_str L4 - Separe Pneumatocito - Separação de Palavras!
-0123: @0123 #05_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
-0107: @0107 #05_str L4 - Valdiskley e a Cifra v3!
-0130: @0130 #06_mat L2 - Bingo!
-0012: @0012 #06_mat L2 - Deu a louca no Imperador!
-0134: @0134 #06_mat L2 - Quadrado Mágico
-0133: @0133 #06_mat L2 - Soldados em Posição
-0128: @0128 #06_mat L2 - Soma de elementos de em uma matriz
-0150: @0150 #06_mat L2 - Soma de matrizes
-0129: @0129 #06_mat L3 - Campo Minado
-0135: @0135 #06_mat L3 - Jogo da vida
-0131: @0131 #06_mat L3 - Matriz Simétrica
-0153: @0153 #06_mat L3 - OBI 2015 - Fase 2 - Nível 1 - Torre
-0154: @0154 #06_mat L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
-0132: @0132 #06_mat L3 - Subdiagonais
-0159: @0159 #06_mat L4 - Campo de Minhocas - OBI 2005
-0007: @0007 #06_mat L4 - Tetris (Fazendo a peça cair)
-0145: @0145 #07_rec L2 - Contando caracteres recursivamente
-0141: @0141 #07_rec L2 - Números de Fibonacci
-0140: @0140 #07_rec L3 - Contando caracteres recursivamente
-0146: @0146 #07_rec L3 - Torres de Hanoi
-0182: @0182 #07_struct L3 - Mulher mais idosa
-0142: @0142 #09_aloc L2 - Vetor de strings com tamanhos variados
-0144: @0144 #10_pont - Função que retorna vários valores por referência
-0143: @0143 #10_pont - Troca de valores de variáveis
-0147: @0147 #11_dict - Duelo
-0148: @0148 #11_dict - Expressão
-0149: @0149 #11_dict - Operações
+000: @000 #01_ope L1 - Operações básicas (Imprimindo float formatado)
+011: @011 #01_ope L2 - Formatando data (Zeros à esquerda)
+003: @003 #01_ope L2 - Opala bebedor (Cálculo de desempenho)
+002: @002 #01_ope L2 - Pintando a casa (Calculando a área do triângulo)
+005: @005 #01_ope L3 - Ladrão de Goiabas (Contando viagens)
+004: @004 #01_ope L3 - Mete bala (Distância entre dois pontos)
+006: @006 #01_ope L4 - Zerinho ou um americano (Calcule o vencedor)
+025: @025 #02_sel L1 - Ambos Divisíveis
+062: @062 #02_sel L1 - Angulo Cartesiano - Operador Modular
+015: @015 #02_sel L1 - Calculadora Numérica
+024: @024 #02_sel L1 - Divisão Inteira e Quebrada
+151: @151 #02_sel L1 - OBI 2015 - Fase 2 - Nível 1 - Impedido!
+156: @156 #02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Jogo de par ou ímpar
+155: @155 #02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Plantação de Morangos!
+026: @026 #02_sel L1 - Positivo, Nulo ou Negativo?
+027: @027 #02_sel L2 - Adedonha na Califórnia
+018: @018 #02_sel L2 - Arrendondar
+021: @021 #02_sel L2 - Aumento de Salário
+032: @032 #02_sel L2 - Bolada na fuça
+028: @028 #02_sel L2 - Cadê a cabeça da cobra
+031: @031 #02_sel L2 - Fiquei de final
+030: @030 #02_sel L2 - Mercantil V1
+019: @019 #02_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
+017: @017 #02_sel L2 - Ovos de galinha (Procurando o Maior valor)
+014: @014 #02_sel L2 - Quantos são iguais? (Contando Repetidos)
+029: @029 #02_sel L2 - Quiz do Harry Potter
+020: @020 #02_sel L2 - Zerinho ou Um!
+038: @038 #02_sel L3 - A hora do próximo segundo
+040: @040 #02_sel L3 - Está Trabalhand ou Não!
+034: @034 #02_sel L3 - Formiga da bundona
+157: @157 #02_sel L3 - Frota de Táxi - OBI 2005
+037: @037 #02_sel L3 - Jokenpo 15
+023: @023 #02_sel L3 - Jokenpo das tartarugas!
+039: @039 #02_sel L3 - Mercantil V2
+036: @036 #02_sel L3 - Morre o do meio
+035: @035 #02_sel L3 - OBI 2017 - Fase 1 - Drone de Entrega
+022: @022 #02_sel L3 - OBI 2017 - Fase 1 - Teleférico
+033: @033 #02_sel L3 - Professor Bonzinho
+041: @041 #02_sel L3 - Rufus e Par ou Ímpar!
+001: @001 #02_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
+043: @043 #02_sel L4 - Dorme Tarde Acordar Cedo!
+042: @042 #02_sel L4 - Rufus e Ordenação!
+056: @056 #03_rep L1 - Calça Zeze de Camargo - Mínimo
+013: @013 #03_rep L1 - Dividindo pares de sapatos pra três
+055: @055 #03_rep L1 - Quantos Ultrons você vê - Contar Elemento
+044: @044 #03_rep L1 - Somatório V2
+045: @045 #03_rep L1 - Zero é par - Somatório de Pares!
+058: @058 #03_rep L2 - Busca Intervalada
+048: @048 #03_rep L2 - Cabo de Guerra Jedi
+050: @050 #03_rep L2 - Castelos de Cubos
+046: @046 #03_rep L2 - Jogo da Concentração
+057: @057 #03_rep L2 - Revolta em Portugal
+049: @049 #03_rep L2 - Sapinho no Poço
+047: @047 #03_rep L2 - Ônibus lotado
+051: @051 #03_rep L3 - Arremesso de pedra na lua
+160: @160 #03_rep L3 - Bafo - OBI 2005
+063: @063 #03_rep L3 - Blackjack 21!
+064: @064 #03_rep L3 - Conta Dígitos
+052: @052 #03_rep L3 - Hoje tem sopa de coelho?
+162: @162 #03_rep L3 - Mini-Poker - OBI2005
+053: @053 #03_rep L3 - OBI 2016 - Fuga em helicóptero
+059: @059 #03_rep L3 - Sapinho morrendo no poço
+066: @066 #03_rep L3 - Spok Palíndromo
+161: @161 #03_rep L3 - Vivo ou Morto - OBI 2005
+016: @016 #03_rep L3 - Volta de 360 graus (Retirando os loops)
+054: @054 #03_rep L4 - Quebrador de Copos
+065: @065 #03_rep L4 - Sapinho matemático não morrendo no poço
+158: @158 #03_rep L4 - Trilhas - OBI 2005
+060: @060 #04_vet L1 - Joelison Fernandes - Soma do maior e menor!
+061: @061 #04_vet L2 - Capoeira invertendo vetor!
+101: @101 #04_vet L2 - Mostrar mão de cartas (Imprimir vetor formatado)
+068: @068 #04_vet L2 - Organizando a fila do RU - Separar Pares e Ímpares!
+067: @067 #04_vet L2 - Queda de dominós
+072: @072 #04_vet L2 - Soldados Pequenos e Grandes!
+075: @075 #04_vet L3 - Abastecimento de água
+083: @083 #04_vet L3 - Anfíbios e Batráquios - Está contido
+082: @082 #04_vet L3 - As unhas de Luiza - Vetor para inteiro
+080: @080 #04_vet L3 - Baruel Ruel trocando figurinhas!
+073: @073 #04_vet L3 - Batida Policial - Ordenando vetores
+010: @010 #04_vet L3 - Bolinhas viciadas(contagem de repetições)
+070: @070 #04_vet L3 - Cabeças vão rolar
+085: @085 #04_vet L3 - Exército - Perto da morte
+100: @100 #04_vet L3 - Jogando pião na rodinha
+078: @078 #04_vet L3 - Jogo do Avesso
+079: @079 #04_vet L3 - Jogo do Avesso V2
+081: @081 #04_vet L3 - Loucura de Marquinhos - Decompor um inteiro
+139: @139 #04_vet L3 - MMC de vários números.
+077: @077 #04_vet L3 - Mercantil V3
+071: @071 #04_vet L3 - Mário e o Assassins Creed - Parkour
+074: @074 #04_vet L3 - OBI 2017 - Fase 1 - Botas Trocadas
+069: @069 #04_vet L3 - Zoo quantas especies!
+084: @084 #04_vet L3 - Zoologico Um animal de cada tipo!
+086: @086 #04_vet L4 - Coleção de Tazos - Quantos se repetem mais
+008: @008 #04_vet L4 - Força Bruta (Gerando próxima combinação)
+076: @076 #04_vet L4 - OBI 2017 - Fase 1 - O segredo do Cofre
+088: @088 #04_vet L4 - Se fosse a mediana eu tinha passado!
+009: @009 #04_vet L4 - Segredo do cofre (OBI 2017 F1P1)
+087: @087 #04_vet L4 - Zoologico Entrando na Arca de Noé
+091: @091 #04_vet MMC
+090: @090 #04_vet Primo
+173: @173 #05_str L1 - Eribelton e a Ascologia V1 - Somar Asc
+092: @092 #05_str L1 - LP da Xura - Inverter String!
+104: @104 #05_str L1 - Maiúsculo, Minusculo e Dígito!
+177: @177 #05_str L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
+176: @176 #05_str L1 - Substring na decoração - Obter Substrings!
+174: @174 #05_str L1 - Valdiskey e a cifra V1!
+095: @095 #05_str L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!
+096: @096 #05_str L2 - Contar Leds
+126: @126 #05_str L2 - Crushômetro
+109: @109 #05_str L2 - Eribelton e a Ascologia V2 - Buscando a perfeição
+097: @097 #05_str L2 - Gagueira V1 - Duplicar Palavras
+093: @093 #05_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
+180: @180 #05_str L2 - Guerra Civil no Universo Marvel
+089: @089 #05_str L2 - Mega Jokenpo!
+111: @111 #05_str L2 - Meu cachorro comeu minha tarefa - Retirar espaços
+125: @125 #05_str L2 - Numerão Divisível por 11
+110: @110 #05_str L2 - Organizando Ru - Homens e Mulheres!
+181: @181 #05_str L2 - Somando numeros
+106: @106 #05_str L2 - Valdiskley e a cifra V2!
+094: @094 #05_str L2 - Vogais e Consoantes - Identificação e Montagem!
+127: @127 #05_str L3 - Amo a Amora meu Amor - Contar Substrings!
+118: @118 #05_str L3 - Aniquilando Ultrons V3
+113: @113 #05_str L3 - Eribelton e a Ascologia V3 - Busca do mínimo
+099: @099 #05_str L3 - Francês é Fresco - Juntar palavras
+117: @117 #05_str L3 - Identificando Ultrons V2
+108: @108 #05_str L3 - Identificando elementos
+178: @178 #05_str L3 - Jack Sparrow e o Beijinho - Alternar Case
+098: @098 #05_str L3 - Jason e Krueguer - busca de maior ocorrencia
+114: @114 #05_str L3 - MeU WoRd QuEbRoU - Formatação de Case!
+102: @102 #05_str L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados
+115: @115 #05_str L3 - Máquina de Datilografar Quebrada
+179: @179 #05_str L3 - Prof Muquirana - Busca máximo por critério
+112: @112 #05_str L3 - Rocicleia e o Locioreca - Anagramas!
+116: @116 #05_str L3 - Roda Roda Jequiti - Jogo da Forca!
+175: @175 #05_str L3 - Separando a partir de tokens
+105: @105 #05_str L3 - Valdiskley e cifras históricas!
+124: @124 #05_str L4 - Conversa de Traficantes - Substituições de substrings
+120: @120 #05_str L4 - Gansos Gamados - Verificar ordenação da frase!
+119: @119 #05_str L4 - Matéria e Antimatéia - Colisão entre palavras!
+121: @121 #05_str L4 - Mário e o Assassins Creed - Cenário
+122: @122 #05_str L4 - Nao se bububula - Gagueira V2!
+152: @152 #05_str L4 - OBI 2015 - Fase 2 - Nível 1 - Letras
+103: @103 #05_str L4 - Separe Pneumatocito - Separação de Palavras!
+123: @123 #05_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
+107: @107 #05_str L4 - Valdiskley e a Cifra v3!
+130: @130 #06_mat L2 - Bingo!
+012: @012 #06_mat L2 - Deu a louca no Imperador!
+134: @134 #06_mat L2 - Quadrado Mágico
+133: @133 #06_mat L2 - Soldados em Posição
+128: @128 #06_mat L2 - Soma de elementos de em uma matriz
+150: @150 #06_mat L2 - Soma de matrizes
+129: @129 #06_mat L3 - Campo Minado
+135: @135 #06_mat L3 - Jogo da vida
+131: @131 #06_mat L3 - Matriz Simétrica
+153: @153 #06_mat L3 - OBI 2015 - Fase 2 - Nível 1 - Torre
+154: @154 #06_mat L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
+132: @132 #06_mat L3 - Subdiagonais
+159: @159 #06_mat L4 - Campo de Minhocas - OBI 2005
+007: @007 #06_mat L4 - Tetris (Fazendo a peça cair)
+145: @145 #07_rec L2 - Contando caracteres recursivamente
+141: @141 #07_rec L2 - Números de Fibonacci
+140: @140 #07_rec L3 - Contando caracteres recursivamente
+146: @146 #07_rec L3 - Torres de Hanoi
+182: @182 #07_struct L3 - Mulher mais idosa
+142: @142 #09_aloc L2 - Vetor de strings com tamanhos variados
+144: @144 #10_pont - Função que retorna vários valores por referência
+143: @143 #10_pont - Troca de valores de variáveis
+147: @147 #11_dict - Duelo
+148: @148 #11_dict - Expressão
+149: @149 #11_dict - Operações

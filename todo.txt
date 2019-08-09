@@ -1,0 +1,10 @@
+update folders
+    hook: @index
+    da um update para pegar os hooks e index
+
+    muda o index no titulo do arquivo no names.txt
+    da um update -s
+        muda o titulo no readme do hook
+        move a pasta do hook antigo para novo indice se não tiver conflito
+        dá o update pra pegar os novos valores
+
