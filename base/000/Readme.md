@@ -1,7 +1,7 @@
 ## @000 #01_ope L1 - Operações básicas (Imprimindo float formatado)
 ## @qxcode
 
-![](capa.jpg)
+![Imagem](__capa.jpg)
 
 ## Ação
 

@@ -6,6 +6,7 @@ import argparse
 import unicodedata
 import string
 import configparser
+import subprocess
 
 SOURCE_FOLDER = ""
 
@@ -202,6 +203,13 @@ class Itens:
                 for item in lista:
                     f.write("- [" + item.filter_by_prefix("#@") + "](" + item.readme_path + "#qxcode" ")\n")       
         
+    def generate_html(self):
+        for item in self.itens:
+            infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
+            outfile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "z.html"
+
+            cmd = "pandoc " + infile + " -s -o " + outfile
+            subprocess.Popen(cmd.split(" "))
 
 def main():
     parser = argparse.ArgumentParser(prog='th.py')
@@ -230,6 +238,7 @@ def main():
         itens.parse_from_dirs()
         itens.verify_integrity()
 
+    itens.generate_html()
     itens.update_qxcode_link()
     print("atualizado: recriando title.md")
     itens.update_title_md_links()
