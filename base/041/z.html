@@ -16,83 +16,95 @@
   <![endif]-->
 </head>
 <body>
-<h2 id="ope-l1---operações-básicas-imprimindo-float-formatado"><span class="citation" data-cites="000">@000</span> #01_ope L1 - Operações básicas (Imprimindo float formatado)</h2>
+<h2 id="sel-l3---rufus-e-par-ou-ímpar"><span class="citation" data-cites="041">@041</span> #02_sel L3 - Rufus e Par ou Ímpar!</h2>
 <h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
 <figure>
-<img src="__capa.jpg" alt="" /><figcaption>Imagem</figcaption>
+<img src="capa.jpg" alt="" /><figcaption>par ou impar</figcaption>
 </figure>
-<h2 id="ação">Ação</h2>
-<p>Leia dois números e imprima a soma, a subtração, a multiplicação, a divisão e o resto da divisão entre eles respectivamente.</p>
+<h2 id="motivação">Motivação</h2>
+<p>Rufus(minha tartaruga cibernética) quer entrar no campeonato de par ou impar entre tartarugas.</p>
+<p>Implemente o par ou impar no processador de RUFUS para que ele possa participar do campeonato mundial de par ou impar e trazer o prêmio pra UFC.</p>
+<p>[DS]</p>
 <h3 id="entrada">Entrada:</h3>
 <ul>
-<li>Valores de A,B em inteiro, um por linha.</li>
+<li>linha 1: A opção do jogador1(p para par e i para impar)</li>
+<li>linha 2: o número de dedos do primeiro jogador</li>
+<li>linha 3: número de dedos do segundo jogador.</li>
 </ul>
 <h3 id="saída">Saída:</h3>
 <ul>
-<li><p>Valores da soma, subtração, multiplicação e resto da divisão em inteiro, um por linha.</p></li>
-<li><p>Valor da divisão em ponto flutuante de duas casas decimais.</p></li>
-<li><p>O valor de B nunca será 0, então não se preocupe com divisão por 0.</p></li>
+<li>“Venceu” se o jogador 1 venceu e “Perdeu” se ele perdeu.</li>
 </ul>
 <h2 id="exemplos">Exemplos</h2>
 <pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+p
 1
-4
+1
 ========
-5
--3
-4
-0.25
-1
+Venceu
 &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
 
 &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
-3
-3
+p
+0
+1
 ========
-6
+Perdeu
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+i
 0
-9
-1.00
 0
+========
+Perdeu
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+i
+1
+0
+========
+Venceu
 &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
 <h1 id="section"></h1>
 <!---
 
->>>>>>>> 01
+>>>>>>>>
+p
+1 
 2
-4
 ========
-6
--2
-8
-0.50
+Perdeu
+<<<<<<<<
+
+
+>>>>>>>>
+p
+2 
 2
-<<<<<<<<
-
-
->>>>>>>> 02
-9
-3
 ========
-12
-6
-27
-3.00
-0
+Venceu
 <<<<<<<<
 
 
->>>>>>>> 03
-3
-4
+>>>>>>>>
+i
+2 
+2
 ========
-7
--1
-12
-0.75
-3
+Perdeu
 <<<<<<<<
 
--->
+
+>>>>>>>>
+i
+1 
+2
+========
+Venceu
+<<<<<<<<
+
+--->
 </body>
 </html>

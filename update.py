@@ -208,7 +208,7 @@ class Itens:
             infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
             outfile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "z.html"
 
-            cmd = "pandoc " + infile + " -s -o " + outfile
+            cmd = "pandoc " + infile + ' --metadata pagetitle=qxcode -s -o ' + outfile
             subprocess.Popen(cmd.split(" "))
 
 def main():

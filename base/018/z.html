@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Readme</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="sel-l2---arrendondar"><span class="citation" data-cites="018">@018</span> #02_sel L2 - Arrendondar</h2>
+<h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
+<p><img src="capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Um aluno ficou implorando para o seu professor de FUP arredondar seu 6.9999999999 para 10 porque ele precisa de um 10 para passar de semestre. Seu trabalho é implementar as funções ceil, floor e round para ajudar o professor a calcular as notas dos alunos .</p>
+<h2 id="ação">Ação</h2>
+<p>Faça as funções round, ceil e floor. Todas recebem um float e retornam um inteiro. Ceil sempre arredonda pra cima, floor sempre arredonda pra baixo. Round arredonda pra baixo se a parte fracionada for menor que 0.5 e arredonda para cima se a parte fracionaria for maior ou igual a 0.5.</p>
+<p>Protótipos:<br />
+int round(float num);<br />
+int floor(float num);<br />
+int ceil(float num);</p>
+<h3 id="entrada">Entrada:</h3>
+<ul>
+<li>Na main leia um char representando a operação (r, f, c) e um float.</li>
+</ul>
+<h3 id="saida">Saida</h3>
+<ul>
+<li>imprima um inteiro de acordo com a operação pedida.</li>
+</ul>
+<h3 id="exemplos">Exemplos:</h3>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+c  
+5.5  
+========
+6
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+f  
+6.99  
+========
+6
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+c  
+6.99  
+========
+7
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+r  
+5.5  
+========
+6
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+r  
+5.4  
+========
+5
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h1 id="section"></h1>
+<!--- 
+>>>>>>>> 
+c
+0.5
+========
+1
+<<<<<<<<
+
+
+>>>>>>>>
+f
+6.7
+========
+6
+<<<<<<<<
+
+
+>>>>>>>>
+f
+0.5
+========
+0
+<<<<<<<<
+
+
+>>>>>>>>
+r
+7.3
+========
+7
+<<<<<<<<
+
+
+>>>>>>>>
+r
+7.5
+========
+8
+<<<<<<<<
+
+
+>>>>>>>>
+f
+3.33
+========
+3
+<<<<<<<<
+
+
+>>>>>>>>
+r
+9.7
+========
+10
+<<<<<<<<
+
+--->
+</body>
+</html>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Readme</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="mat-l3---campo-minado"><span class="citation" data-cites="129">@129</span> #06_mat L3 - Campo Minado</h2>
+<h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
+<p><img src="capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Robert Donner, em 1989, criou um jogo cujo objetivo seria revelar a localização de minas em um campo sem que nenhuma seja detonada.</p>
+<p>Para isso o tabuleiro é formado de minas, números e espaços vazios.</p>
+<p>As regras são simples :</p>
+<ul>
+<li><p>Se um bloco é um número, ele informará quantas minas estão escondidas nos oito quadrados que o cercam.</p></li>
+<li><p>Se um bloco é vazio, é porque não há nenhuma mina ao seu redor.</p></li>
+<li><p>Um bloco pode ser uma mina, nesse caso ele é representado por um símbolo.</p></li>
+</ul>
+<p>O jogador deve usar essas informações para deduzir em que quadrados próximos é seguro clicar.</p>
+<p>Dada uma matriz com a posição de cada mina, seu o programa deve preencher o resto do campo (matriz) com números ou com vazios, por exemplo:</p>
+<p>  <img src="q.jpg" alt="1" /></p>
+<pre><code>*-*
+---
+---</code></pre>
+<p>^ Esse é um campo 3x3 que tem duas minas (simbolizadas por *). Devemos preencher dessa forma:</p>
+<p>  <img src="q2.jpg" alt="todos" /></p>
+<pre><code>*2*
+121
+---</code></pre>
+<p>As minas são simbolizadas com asteriscos * e os campos vazios são simbolizados com sinal de menos -<br />
+Mais exemplos no final da página.</p>
+<h2 id="ação">Ação</h2>
+<p>Leia uma matriz com <strong>n</strong> linhas e <strong>m</strong> colunas com a posição das minas. Preencha o restante da matriz seguindo as regras citadas.<br />
+Considere ( 1 &lt;=  <strong>n, m </strong>&lt;= 50).</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li><p>O número <strong>n </strong>(linhas)e <strong>m</strong>(colunas) .</p></li>
+<li><p>Cada elemento da matriz: * ou -</p></li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>Campo preenchido com minas, vazios e números.</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3 3
+***
+--*
+--*
+========
+***
+25*
+-2*
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3 3
+---
+-*-
+---
+========
+111
+1*1
+111
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3 5
+*----
+----*
+---**
+========
+*1-11
+1113*
+--1**
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+1 1
+*
+========
+*
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<!---
+>>>>>>>> 01
+4 5
+---*-
+-****
+*---*
+-----
+========
+124*3
+2****
+*334*
+11-11
+<<<<<<<<
+
+>>>>>>>> 02
+4 10
+*-*----*-*
+--*-*--*--
+-----*----
+*--------*
+========
+*3*3112*3*
+13*3*23*31
+12122*2121
+*1--111-1*
+<<<<<<<<
+--->
+<h2 id="mais-exemplos">Mais exemplos</h2>
+<p>O quadrado amarelo é quem é calculado no momento, e os vermelhos são as minas consideradas no cálculo. </p>
+<figure>
+<img src="q3.png" alt="" /><figcaption>ex1</figcaption>
+</figure>
+<figure>
+<img src="q4.png" alt="" /><figcaption>ex2</figcaption>
+</figure>
+<figure>
+<img src="q5.png" alt="" /><figcaption>ex3</figcaption>
+</figure>
+<p>Se ainda tiver dúvidas de como funciona, tente jogar um pouco. https://minesweeper.online/pt/new-game</p>
+<h1 id="section"></h1>
+</body>
+</html>
