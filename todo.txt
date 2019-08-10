@@ -1,8 +1,2 @@
 fazer uma pasta de links nesse nivel aqui e colocar os arquivos que tem links pro readme e que tem os nomes dos títulos
 
-auto
-	000_buraco_de_minhocas.md
-	000.html
-	000.vlp
-
-só no set que tem mudança de lugar e nome que refaz todos os arquivos

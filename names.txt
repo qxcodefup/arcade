@@ -162,7 +162,7 @@
 140: @140 #07_rec L3 - Contando caracteres recursivamente
 146: @146 #07_rec L3 - Torres de Hanoi
 182: @182 #07_struct L3 - Mulher mais idosa
-142: @142 #09_aloc L2 - Vetor de strings com tamanhos variados
+142: @142 #09_alo L2 - Vetor de strings com variados tamanhos
 144: @144 #10_pont - Função que retorna vários valores por referência
 143: @143 #10_pont - Troca de valores de variáveis
 147: @147 #11_dict - Duelo

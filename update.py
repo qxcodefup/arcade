@@ -24,7 +24,7 @@ class Text:
 
     @staticmethod
     def filter_punct(title):
-        title = Text.strip_accents(title).lower()
+        title = Text.strip_accents(title)
         new_title = ""
         for c in title:
             if c in string.punctuation or c in string.whitespace:
@@ -122,22 +122,41 @@ class Itens:
             names.write("\n".join([str(x) for x in self.itens]))
 
     def update_title_md_links(self):
+        #for item in self.itens:
+        #    title = item.generate_link_name() #generating name of file .title.md
+        #    files = os.listdir(item.dir) #getting files and directories
+        #    old_titles = [x for x in files if x.endswith(".title.md")]
+        #    old_titles = [(item.dir + os.sep + x) for x in old_titles]
+        #    new_title = item.dir + os.sep + title + ".title.md"
+
+        #    if (len(old_titles) == 1) and (old_titles[0] == new_title): #doesn't have change
+        #        continue
+
+        #    for file in old_titles:
+        #        os.remove(file)
+        #    print("recriando link do titulo", new_title)
+        #    with open(new_title, "w") as f:
+        #        f.write("[README](Readme.md)\n")
+        #files = os.listdir(DESTIN_FOLDER) #getting files and directories
+        #old_titles = [x for x in files if x.endswith(".md")]
+        #for file in old_titles:
+        #    os.remove(DESTIN_FOLDER + os.sep + file)
+
         for item in self.itens:
             title = item.generate_link_name() #generating name of file .title.md
-            files = os.listdir(item.dir) #getting files and directories
-            old_titles = [x for x in files if x.endswith(".title.md")]
-            old_titles = [(item.dir + os.sep + x) for x in old_titles]
-            new_title = item.dir + os.sep + title + ".title.md"
+            files = os.listdir(DESTIN_FOLDER) #getting files and directories
+            old_titles = [x for x in files if (x.startswith(item.hook) and x.endswith(".md"))]
+            old_titles = [(DESTIN_FOLDER + os.sep +  x) for x in old_titles]
+            new_title = DESTIN_FOLDER + os.sep + item.hook + '.a.' + title + ".md"
+            
+            if(len(old_titles) == 0 or (old_titles[0] != new_title)):
+                if len(old_titles) > 0:
+                    os.remove(old_titles[0])
+                with open(new_title, "w") as f:
+                    print("changing title of hook", item.hook)
+                    f.write("@" + item.hook + " " + item.title + "\n\n")
+                    f.write("[README](.." + os.sep + SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md)\n")
 
-            if (len(old_titles) == 1) and (old_titles[0] == new_title): #doesn't have change
-                continue
-
-            for file in old_titles:
-                os.remove(file)
-            print("recriando link do titulo", new_title)
-            with open(new_title, "w") as f:
-                f.write("[README](Readme.md)\n")
-   
     def update_first_line(self):
         for item in self.itens:
             data = []
@@ -149,9 +168,12 @@ class Itens:
             else:                
                 with open(readme_path, "r") as f: #le conteudo
                     data = f.readlines()
-                with open(readme_path, "w") as f: #reescreve linha1
-                    data[0] = ("## @" + item.index + " " + item.title + "\n")
-                    f.write("".join(data))
+                old_first_line = data[0]
+                new_first_line = "## @" + item.index + " " + item.title + "\n"
+                if(old_first_line != new_first_line):
+                    with open(readme_path, "w") as f: #reescreve linha 0
+                        data[0] = new_first_line
+                        f.write("".join(data))
 
     def verify_integrity(self):
         for item in self.itens:
@@ -166,6 +188,12 @@ class Itens:
                     print("warning: cannot move hook", item.hook, "to", item.index)
                 else:
                     os.rename(SOURCE_FOLDER + os.sep + item.hook, SOURCE_FOLDER + os.sep + item.index)
+                    #removing old html, title and vpl
+                    files = os.listdir(DESTIN_FOLDER) #getting files and directories
+                    filter_by_hook = [x for x in files if x.startswith(item.hook + ".")]
+                    for file in filter_by_hook:
+                        print("removing ", file)
+                        os.remove(DESTIN_FOLDER + os.sep + file)
                     changes = True
         return changes
         
@@ -208,7 +236,8 @@ class Itens:
     def generate_html_and_vpl(self):
         for item in self.itens:
             infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
-            outfile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "z.html"
+            outfile = DESTIN_FOLDER + os.sep + item.hook  + ".b.html"
+
             if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
             #if True:
                 print("updating html from hook", item.hook)
@@ -230,10 +259,9 @@ class Itens:
                 except:
                     print("Error changing local references to remote on hook", item.hook)
 
-
         for item in self.itens:
             infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
-            outfile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "z.vpl"
+            outfile = DESTIN_FOLDER + os.sep + item.hook + ".c.vpl"
             if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
                 print("updating vpl from hook", item.hook)
                 cmd = "th build " + outfile + ' ' + infile
@@ -274,13 +302,13 @@ def main():
 
     itens.generate_html_and_vpl()
     itens.update_qxcode_link()
-    print("atualizado: recriando title.md")
+    #print("atualizado: recriando title.md")
     itens.update_title_md_links()
-    print("atualizado: nomes dos arquivos")
+    #print("atualizado: nomes dos arquivos")
     itens.update_names_txt()
-    print("atualizado: names.txt")
+    #print("atualizado: names.txt")
     itens.update_indices()
-    print("atualizado: indices")
-
+    #print("atualizado: indices")
+    print("all done")
 
 main()

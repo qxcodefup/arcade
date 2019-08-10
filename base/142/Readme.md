@@ -1,4 +1,4 @@
-## @142 #09_aloc L2 - Vetor de strings com tamanhos variados
+## @142 #09_alo L2 - Vetor de strings com variados tamanhos
 ## @qxcode
 
 ![](__capa.jpg)

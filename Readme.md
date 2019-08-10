@@ -194,9 +194,9 @@
 
 - [L3 - Mulher mais idosa](base/182/Readme.md#qxcode)
 
-## 09_aloc
+## 09_alo
 
-- [L2 - Vetor de strings com tamanhos variados](base/142/Readme.md#qxcode)
+- [L2 - Vetor de strings com variados tamanhos](base/142/Readme.md#qxcode)
 
 ## 10_pont
 
