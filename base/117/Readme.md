@@ -1,7 +1,7 @@
 ## @117 #05_str L3 - Identificando Ultrons V2
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

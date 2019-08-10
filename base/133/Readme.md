@@ -1,7 +1,7 @@
 ## @133 #06_mat L2 - Soldados em Posição
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

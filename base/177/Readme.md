@@ -1,7 +1,7 @@
 ## @177 #05_str L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

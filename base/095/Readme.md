@@ -1,7 +1,7 @@
 ## @095 #05_str L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

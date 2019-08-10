@@ -1,7 +1,7 @@
 ## @091 #04_vet MMC
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

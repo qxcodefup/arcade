@@ -1,7 +1,7 @@
 ## @010 #04_vet L3 - Bolinhas viciadas(contagem de repetições)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

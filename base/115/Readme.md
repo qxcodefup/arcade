@@ -1,7 +1,7 @@
 ## @115 #05_str L3 - Máquina de Datilografar Quebrada
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

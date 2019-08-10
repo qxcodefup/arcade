@@ -1,7 +1,7 @@
 ## @030 #02_sel L2 - Mercantil V1
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Descrição
 

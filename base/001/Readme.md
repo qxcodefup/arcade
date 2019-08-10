@@ -1,7 +1,7 @@
 ## @001 #02_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## @084 #04_vet L3 - Zoologico Um animal de cada tipo!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

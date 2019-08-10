@@ -1,7 +1,7 @@
 ## @139 #04_vet L3 - MMC de vários números.
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

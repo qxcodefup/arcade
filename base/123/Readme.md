@@ -1,7 +1,7 @@
 ## @123 #05_str L4 - Sorvete suor casaca chicletes - Letras em Comum!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

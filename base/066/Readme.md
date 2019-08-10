@@ -1,7 +1,7 @@
 ## @066 #03_rep L3 - Spok Palíndromo
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

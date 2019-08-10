@@ -1,7 +1,7 @@
 ## @159 #06_mat L4 - Campo de Minhocas - OBI 2005
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

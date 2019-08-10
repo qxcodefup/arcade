@@ -1,7 +1,7 @@
 ## @076 #04_vet L4 - OBI 2017 - Fase 1 - O segredo do Cofre
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

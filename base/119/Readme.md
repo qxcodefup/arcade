@@ -1,7 +1,7 @@
 ## @119 #05_str L4 - Matéria e Antimatéia - Colisão entre palavras!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

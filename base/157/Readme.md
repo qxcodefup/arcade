@@ -1,7 +1,7 @@
 ## @157 #02_sel L3 - Frota de Táxi - OBI 2005
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

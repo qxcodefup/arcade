@@ -1,7 +1,7 @@
 ## @025 #02_sel L1 - Ambos Divisíveis
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

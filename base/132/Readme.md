@@ -1,7 +1,7 @@
 ## @132 #06_mat L3 - Subdiagonais
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

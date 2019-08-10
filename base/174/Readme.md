@@ -1,7 +1,7 @@
 ## @174 #05_str L1 - Valdiskey e a cifra V1!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

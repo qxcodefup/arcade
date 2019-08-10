@@ -1,7 +1,7 @@
 ## @098 #05_str L3 - Jason e Krueguer - busca de maior ocorrencia
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

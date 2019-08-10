@@ -1,7 +1,7 @@
 ## @022 #02_sel L3 - OBI 2017 - Fase 1 - Teleférico
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

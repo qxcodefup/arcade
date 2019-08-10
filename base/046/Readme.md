@@ -1,7 +1,7 @@
 ## @046 #03_rep L2 - Jogo da Concentração
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

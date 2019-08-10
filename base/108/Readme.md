@@ -1,7 +1,7 @@
 ## @108 #05_str L3 - Identificando elementos
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

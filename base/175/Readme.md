@@ -1,7 +1,7 @@
 ## @175 #05_str L3 - Separando a partir de tokens
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

@@ -1,7 +1,7 @@
 ## @061 #04_vet L2 - Capoeira invertendo vetor!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

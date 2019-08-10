@@ -1,7 +1,7 @@
 ## @016 #03_rep L3 - Volta de 360 graus (Retirando os loops)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

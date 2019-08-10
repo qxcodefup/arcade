@@ -1,7 +1,7 @@
 ## @004 #01_ope L3 - Mete bala (Distância entre dois pontos)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 
@@ -14,6 +14,8 @@ da distância entre os pontos.
 
 Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto,
 imprima a distância entre os pontos com duas casas decimais.
+
+![](__formula.jpg)
 
 ### Entrada:
 
@@ -59,7 +61,7 @@ imprima a distância entre os pontos com duas casas decimais.
 ## Ajuda
 
 Fórmula da distância entre dois pontos:  
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0004/formula.jpg)
+![](__formula.jpg)
 
 Lembre-se que distância é uma grandeza sempre positiva.
 

@@ -1,7 +1,7 @@
 ## @156 #02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Jogo de par ou ímpar
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

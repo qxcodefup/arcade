@@ -1,7 +1,7 @@
 ## @055 #03_rep L1 - Quantos Ultrons você vê - Contar Elemento
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

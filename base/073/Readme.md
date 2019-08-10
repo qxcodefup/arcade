@@ -1,7 +1,7 @@
 ## @073 #04_vet L3 - Batida Policial - Ordenando vetores
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

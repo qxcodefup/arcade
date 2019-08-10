@@ -1,7 +1,7 @@
 ## @113 #05_str L3 - Eribelton e a Ascologia V3 - Busca do mínimo
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

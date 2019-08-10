@@ -1,7 +1,7 @@
 ## @131 #06_mat L3 - Matriz Simétrica
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

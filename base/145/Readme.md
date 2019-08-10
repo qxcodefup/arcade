@@ -1,7 +1,7 @@
 ## @145 #07_rec L2 - Contando caracteres recursivamente
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

@@ -1,7 +1,7 @@
 ## @012 #06_mat L2 - Deu a louca no Imperador!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

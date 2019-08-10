@@ -1,7 +1,7 @@
 ## @042 #02_sel L4 - Rufus e Ordenação!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

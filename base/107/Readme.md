@@ -1,7 +1,7 @@
 ## @107 #05_str L4 - Valdiskley e a Cifra v3!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

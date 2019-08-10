@@ -1,7 +1,7 @@
 ## @179 #05_str L3 - Prof Muquirana - Busca máximo por critério
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

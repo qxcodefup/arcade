@@ -1,7 +1,7 @@
 ## @024 #02_sel L1 - Divisão Inteira e Quebrada
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

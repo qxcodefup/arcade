@@ -1,7 +1,7 @@
 ## @158 #03_rep L4 - Trilhas - OBI 2005
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

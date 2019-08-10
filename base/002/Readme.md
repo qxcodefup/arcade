@@ -1,7 +1,7 @@
 ## @002 #01_ope L2 - Pintando a casa (Calculando a área do triângulo)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 
@@ -11,7 +11,7 @@ Fernando comprou uma casa triangular. Na hora de calcular a quantidade de tinta 
 
 Utilize a seguinte fórmula para calcular a área de um triângulo a partir do tamanho de seus lados.
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/0002/heron.jpg)
+![](__heron.jpg)
 
 ### Entrada
 - 3 lados em float, um por linha

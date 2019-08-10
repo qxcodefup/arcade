@@ -1,7 +1,7 @@
 ## @038 #02_sel L3 - A hora do próximo segundo
 ## @qxcode
 
-![ponteiros de um relógio](capa.jpg)
+![ponteiros de um relógio](__capa.jpg)
 
 ## Motivação
 

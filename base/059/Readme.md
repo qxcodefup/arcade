@@ -1,7 +1,7 @@
 ## @059 #03_rep L3 - Sapinho morrendo no poço
 ## @qxcode
 
-![sapinho](capa.jpg)
+![sapinho](__capa.jpg)
 
 ## Motivação
 

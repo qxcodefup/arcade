@@ -1,7 +1,7 @@
 ## @122 #05_str L4 - Nao se bububula - Gagueira V2!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

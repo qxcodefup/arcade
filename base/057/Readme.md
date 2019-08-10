@@ -1,7 +1,7 @@
 ## @057 #03_rep L2 - Revolta em Portugal
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

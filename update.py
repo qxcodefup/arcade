@@ -9,6 +9,7 @@ import configparser
 import subprocess
 from subprocess import run, PIPE
 SOURCE_FOLDER = ""
+REMOTE_DATABASE = "https://github.com/qxcodefup/arcade/blob/master/base"
 
 class Text:
     @staticmethod
@@ -205,13 +206,10 @@ class Itens:
         
     def generate_html_and_vpl(self):
         for item in self.itens:
-            infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "capa.jpg"
-            outfile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "__capa.jpg"
-            os.rename(infile, outfile)
-        for item in self.itens:
             infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
             outfile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "z.html"
-            if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
+            #if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
+            if True:
                 print("updating html from hook", item.hook)
                 cmd = "pandoc " + infile + ' --metadata pagetitle=qxcode -s -o ' + outfile
                 try:
@@ -222,6 +220,18 @@ class Itens:
                         print(stderr)
                 except:
                     print("Erro no comando pandoc")
+                try:
+                    text = ""
+                    with open(outfile, 'r') as f:
+                        text = f.read().replace('<img src="__', '<img src="' + REMOTE_DATABASE + '/' + item.hook + "/" + "__")
+                    with open(outfile, 'w') as f:
+                        f.write(text)
+                except:
+                    print("Error changing local references to remote on hook", item.hook)
+
+
+        for item in self.itens:
+            infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
             outfile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "z.vpl"
             if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
                 print("updating vpl from hook", item.hook)

@@ -1,7 +1,7 @@
 ## @015 #02_sel L1 - Calculadora Numérica
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ### Motivação
 

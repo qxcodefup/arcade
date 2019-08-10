@@ -1,7 +1,7 @@
 ## @135 #06_mat L3 - Jogo da vida
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

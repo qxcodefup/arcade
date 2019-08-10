@@ -1,7 +1,7 @@
 ## @134 #06_mat L2 - Quadrado Mágico
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

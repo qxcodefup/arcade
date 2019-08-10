@@ -1,7 +1,7 @@
 ## @143 #10_pont - Troca de valores de variáveis
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

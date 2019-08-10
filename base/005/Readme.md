@@ -1,7 +1,7 @@
 ## @005 #01_ope L3 - Ladrão de Goiabas (Contando viagens)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

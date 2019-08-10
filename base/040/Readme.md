@@ -1,7 +1,7 @@
 ## @040 #02_sel L3 - Está Trabalhand ou Não!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 Um funcionário trabalha de segunda a sexta, de 8 até 11:59 e de

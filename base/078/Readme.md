@@ -1,7 +1,7 @@
 ## @078 #04_vet L3 - Jogo do Avesso
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

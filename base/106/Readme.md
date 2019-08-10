@@ -1,7 +1,7 @@
 ## @106 #05_str L2 - Valdiskley e a cifra V2!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

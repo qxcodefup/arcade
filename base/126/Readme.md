@@ -1,7 +1,7 @@
 ## @126 #05_str L2 - Crushômetro
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

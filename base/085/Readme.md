@@ -1,7 +1,7 @@
 ## @085 #04_vet L3 - Exército - Perto da morte
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

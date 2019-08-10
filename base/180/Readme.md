@@ -1,7 +1,7 @@
 ## @180 #05_str L2 - Guerra Civil no Universo Marvel
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

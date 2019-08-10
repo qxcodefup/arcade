@@ -1,7 +1,7 @@
 ## @105 #05_str L3 - Valdiskley e cifras históricas!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

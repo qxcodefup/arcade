@@ -1,7 +1,7 @@
 ## @064 #03_rep L3 - Conta Dígitos
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

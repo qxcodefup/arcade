@@ -1,7 +1,7 @@
 ## @071 #04_vet L3 - Mário e o Assassins Creed - Parkour
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

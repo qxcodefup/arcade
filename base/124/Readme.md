@@ -1,7 +1,7 @@
 ## @124 #05_str L4 - Conversa de Traficantes - Substituições de substrings
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

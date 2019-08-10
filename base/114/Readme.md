@@ -1,7 +1,7 @@
 ## @114 #05_str L3 - MeU WoRd QuEbRoU - Formatação de Case!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## @161 #03_rep L3 - Vivo ou Morto - OBI 2005
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

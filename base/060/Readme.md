@@ -1,7 +1,7 @@
 ## @060 #04_vet L1 - Joelison Fernandes - Soma do maior e menor!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

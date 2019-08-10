@@ -1,7 +1,7 @@
 ## @033 #02_sel L3 - Professor Bonzinho
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

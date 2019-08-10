@@ -1,7 +1,7 @@
 ## @014 #02_sel L2 - Quantos são iguais? (Contando Repetidos)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

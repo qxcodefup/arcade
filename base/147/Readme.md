@@ -1,7 +1,7 @@
 ## @147 #11_dict - Duelo
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## @120 #05_str L4 - Gansos Gamados - Verificar ordenação da frase!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

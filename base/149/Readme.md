@@ -1,7 +1,7 @@
 ## @149 #11_dict - Operações
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

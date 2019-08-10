@@ -1,7 +1,7 @@
 ## @017 #02_sel L2 - Ovos de galinha (Procurando o Maior valor)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

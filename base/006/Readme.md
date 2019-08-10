@@ -1,7 +1,7 @@
 ## @006 #01_ope L4 - Zerinho ou um americano (Calcule o vencedor)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

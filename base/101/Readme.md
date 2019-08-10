@@ -1,7 +1,7 @@
 ## @101 #04_vet L2 - Mostrar mão de cartas (Imprimir vetor formatado)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

@@ -1,7 +1,7 @@
 ## @020 #02_sel L2 - Zerinho ou Um!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

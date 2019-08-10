@@ -1,7 +1,7 @@
 ## @043 #02_sel L4 - Dorme Tarde Acordar Cedo!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## @075 #04_vet L3 - Abastecimento de água
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

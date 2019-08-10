@@ -1,7 +1,7 @@
 ## @062 #02_sel L1 - Angulo Cartesiano - Operador Modular
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

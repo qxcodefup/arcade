@@ -1,7 +1,7 @@
 ## @103 #05_str L4 - Separe Pneumatocito - Separação de Palavras!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

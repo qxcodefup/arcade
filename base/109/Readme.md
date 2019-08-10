@@ -1,7 +1,7 @@
 ## @109 #05_str L2 - Eribelton e a Ascologia V2 - Buscando a perfeição
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

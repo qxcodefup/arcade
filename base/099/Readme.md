@@ -1,7 +1,7 @@
 ## @099 #05_str L3 - Francês é Fresco - Juntar palavras
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

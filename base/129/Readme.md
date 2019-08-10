@@ -1,7 +1,7 @@
 ## @129 #06_mat L3 - Campo Minado
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

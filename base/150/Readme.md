@@ -1,7 +1,7 @@
 ## @150 #06_mat L2 - Soma de matrizes
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

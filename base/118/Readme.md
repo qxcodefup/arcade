@@ -1,7 +1,7 @@
 ## @118 #05_str L3 - Aniquilando Ultrons V3
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

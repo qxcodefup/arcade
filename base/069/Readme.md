@@ -1,7 +1,7 @@
 ## @069 #04_vet L3 - Zoo quantas especies!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

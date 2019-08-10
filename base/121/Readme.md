@@ -1,7 +1,7 @@
 ## @121 #05_str L4 - Mário e o Assassins Creed - Cenário
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

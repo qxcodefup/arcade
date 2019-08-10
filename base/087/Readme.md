@@ -1,7 +1,7 @@
 ## @087 #04_vet L4 - Zoologico Entrando na Arca de Noé
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

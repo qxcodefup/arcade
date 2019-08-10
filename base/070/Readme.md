@@ -1,7 +1,7 @@
 ## @070 #04_vet L3 - Cabeças vão rolar
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

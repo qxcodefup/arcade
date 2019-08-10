@@ -1,7 +1,7 @@
 ## @094 #05_str L2 - Vogais e Consoantes - Identificação e Montagem!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

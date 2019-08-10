@@ -1,7 +1,7 @@
 ## @036 #02_sel L3 - Morre o do meio
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

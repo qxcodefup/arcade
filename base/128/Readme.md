@@ -1,7 +1,7 @@
 ## @128 #06_mat L2 - Soma de elementos de em uma matriz
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## @045 #03_rep L1 - Zero é par - Somatório de Pares!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

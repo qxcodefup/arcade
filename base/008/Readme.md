@@ -1,7 +1,7 @@
 ## @008 #04_vet L4 - Força Bruta (Gerando próxima combinação)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

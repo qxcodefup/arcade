@@ -1,7 +1,7 @@
 ## @092 #05_str L1 - LP da Xura - Inverter String!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

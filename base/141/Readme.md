@@ -1,7 +1,7 @@
 ## @141 #07_rec L2 - Números de Fibonacci
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

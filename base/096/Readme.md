@@ -1,7 +1,7 @@
 ## @096 #05_str L2 - Contar Leds
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

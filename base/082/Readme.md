@@ -1,7 +1,7 @@
 ## @082 #04_vet L3 - As unhas de Luiza - Vetor para inteiro
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

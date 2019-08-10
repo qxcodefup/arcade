@@ -1,7 +1,7 @@
 ## @173 #05_str L1 - Eribelton e a Ascologia V1 - Somar Asc
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

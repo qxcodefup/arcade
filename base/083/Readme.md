@@ -1,7 +1,7 @@
 ## @083 #04_vet L3 - Anfíbios e Batráquios - Está contido
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

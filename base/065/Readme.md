@@ -1,7 +1,7 @@
 ## @065 #03_rep L4 - Sapinho matemático não morrendo no poço
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

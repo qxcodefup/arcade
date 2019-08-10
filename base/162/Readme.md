@@ -1,7 +1,7 @@
 ## @162 #03_rep L3 - Mini-Poker - OBI2005
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

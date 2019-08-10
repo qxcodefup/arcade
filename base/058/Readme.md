@@ -1,7 +1,7 @@
 ## @058 #03_rep L2 - Busca Intervalada
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## @181 #05_str L2 - Somando numeros
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

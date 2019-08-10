@@ -1,7 +1,7 @@
 ## @097 #05_str L2 - Gagueira V1 - Duplicar Palavras
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

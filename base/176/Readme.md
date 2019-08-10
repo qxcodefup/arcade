@@ -1,7 +1,7 @@
 ## @176 #05_str L1 - Substring na decoração - Obter Substrings!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

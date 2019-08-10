@@ -1,7 +1,7 @@
 ## @018 #02_sel L2 - Arrendondar
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

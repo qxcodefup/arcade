@@ -1,7 +1,7 @@
 ## @067 #04_vet L2 - Queda de dominós
 ## @qxcode
   
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

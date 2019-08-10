@@ -1,7 +1,7 @@
 ## @028 #02_sel L2 - Cadê a cabeça da cobra
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Descrição
 

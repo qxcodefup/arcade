@@ -1,7 +1,7 @@
 ## @054 #03_rep L4 - Quebrador de Copos
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## @063 #03_rep L3 - Blackjack 21!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

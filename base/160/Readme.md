@@ -1,7 +1,7 @@
 ## @160 #03_rep L3 - Bafo - OBI 2005
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## MOtivação
 

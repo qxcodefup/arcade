@@ -1,7 +1,7 @@
 ## @044 #03_rep L1 - Somatório V2
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

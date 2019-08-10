@@ -1,7 +1,7 @@
 ## @089 #05_str L2 - Mega Jokenpo!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

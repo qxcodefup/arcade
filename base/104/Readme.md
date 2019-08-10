@@ -1,7 +1,7 @@
 ## @104 #05_str L1 - Maiúsculo, Minusculo e Dígito!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## @032 #02_sel L2 - Bolada na fuça
 ## @qxcode
 
-![Resultado de imagem para haikyuu](capa.jpg)
+![Resultado de imagem para haikyuu](__capa.jpg)
 
 ## Motivação
 

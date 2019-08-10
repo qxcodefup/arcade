@@ -1,7 +1,7 @@
 ## @102 #05_str L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

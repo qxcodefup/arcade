@@ -1,7 +1,7 @@
 ## @051 #03_rep L3 - Arremesso de pedra na lua
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

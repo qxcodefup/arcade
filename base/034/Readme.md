@@ -6,7 +6,7 @@
 Uma formiginha está andando na borda de um relógio redondo analógico. Como sua dieta é muito baseada em açúcar, sua nutricionista recomendou que ela caminhasse todos os dias para
 emagrecer.
 
-![formiga](capa.jpg)
+![formiga](__capa.jpg)
 
 A distância entre os dois marcadores em horas consecutivas é 6 centímetros. Ou seja, se a formiga sai do ponto 12:00 e anda até 01:00, ela anda 6 centímetros, o que equivale a dizer que cada 10 min para o ponteiro das horas equivale a 1 cm. De 02:00 até 03:30 são então 9 centímetros. Para simplificar, a formiga sempre vai iniciar sua caminhada em valores múltiplos de 10 nos minutos.
 

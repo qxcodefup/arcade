@@ -1,7 +1,7 @@
 ## @052 #03_rep L3 - Hoje tem sopa de coelho?
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

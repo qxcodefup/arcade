@@ -1,7 +1,7 @@
 ## @148 #11_dict - Expressão
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## @127 #05_str L3 - Amo a Amora meu Amor - Contar Substrings!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

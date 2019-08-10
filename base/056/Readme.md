@@ -1,7 +1,7 @@
 ## @056 #03_rep L1 - Calça Zeze de Camargo - Mínimo
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

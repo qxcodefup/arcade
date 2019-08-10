@@ -1,7 +1,7 @@
 ## @011 #01_ope L2 - Formatando data (Zeros à esquerda)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

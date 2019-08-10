@@ -1,7 +1,7 @@
 ## @086 #04_vet L4 - Coleção de Tazos - Quantos se repetem mais
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

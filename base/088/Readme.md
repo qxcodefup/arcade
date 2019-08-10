@@ -1,7 +1,7 @@
 ## @088 #04_vet L4 - Se fosse a mediana eu tinha passado!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## @144 #10_pont - Função que retorna vários valores por referência
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## @110 #05_str L2 - Organizando Ru - Homens e Mulheres!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

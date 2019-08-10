@@ -1,7 +1,7 @@
 ## @090 #04_vet Primo
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

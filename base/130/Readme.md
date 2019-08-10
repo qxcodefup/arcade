@@ -1,7 +1,7 @@
 ## @130 #06_mat L2 - Bingo!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

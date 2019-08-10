@@ -1,7 +1,7 @@
 ## @125 #05_str L2 - Numerão Divisível por 11
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

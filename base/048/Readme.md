@@ -1,7 +1,7 @@
 ## @048 #03_rep L2 - Cabo de Guerra Jedi
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

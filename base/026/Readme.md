@@ -1,7 +1,7 @@
 ## @026 #02_sel L1 - Positivo, Nulo ou Negativo?
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

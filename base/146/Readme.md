@@ -1,7 +1,7 @@
 ## @146 #07_rec L3 - Torres de Hanoi
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

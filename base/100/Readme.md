@@ -1,7 +1,7 @@
 ## @100 #04_vet L3 - Jogando pião na rodinha
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

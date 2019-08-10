@@ -1,7 +1,7 @@
 ## @112 #05_str L3 - Rocicleia e o Locioreca - Anagramas!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

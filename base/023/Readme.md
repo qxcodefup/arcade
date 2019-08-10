@@ -1,7 +1,7 @@
 ## @023 #02_sel L3 - Jokenpo das tartarugas!
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

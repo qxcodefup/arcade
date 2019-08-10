@@ -1,7 +1,7 @@
 ## @027 #02_sel L2 - Adedonha na Califórnia
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

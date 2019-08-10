@@ -1,7 +1,7 @@
 ## @081 #04_vet L3 - Loucura de Marquinhos - Decompor um inteiro
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

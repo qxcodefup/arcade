@@ -1,7 +1,7 @@
 ## @178 #05_str L3 - Jack Sparrow e o Beijinho - Alternar Case
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

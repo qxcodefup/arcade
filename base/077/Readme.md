@@ -1,7 +1,7 @@
 ## @077 #04_vet L3 - Mercantil V3
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

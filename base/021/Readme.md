@@ -1,7 +1,7 @@
 ## @021 #02_sel L2 - Aumento de Salário
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 

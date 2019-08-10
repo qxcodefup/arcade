@@ -1,7 +1,7 @@
 ## @007 #06_mat L4 - Tetris (Fazendo a peça cair)
 ## @qxcode
 
-![](capa.jpg)
+![](__capa.jpg)
 
 ## Motivação
 
