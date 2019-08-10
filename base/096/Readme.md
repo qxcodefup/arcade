@@ -11,7 +11,7 @@ João quer montar um painel de leds contendo diversos números. Ele não possui 
 
 Considerando a configuração dos leds dos números abaixo, faça um algoritmo que ajude João a descobrir a quantidade de leds necessário para montar o valor.
 
-![](leds.png)
+![](__leds.png)
 
 ### Entrada
 
