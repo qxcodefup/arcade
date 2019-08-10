@@ -1,0 +1,22 @@
+case=01
+input=5 3
+2 3 6
+output="0
+"
+grade reduction=100%
+
+
+case=02
+input=0 4
+0 0 1 0
+output="3
+"
+grade reduction=100%
+
+
+case=03
+input=2 8
+2 4 2 6 2 0 2 2
+output="5
+"
+grade reduction=100%

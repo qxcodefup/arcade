@@ -1,7 +1,7 @@
 ## @036 #02_sel L3 - Morre o do meio
 ## @qxcode
 
-![3 esquilos na árvore](capa.jpg)
+![](capa.jpg)
 
 ## Motivação
 

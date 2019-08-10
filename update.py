@@ -7,7 +7,7 @@ import unicodedata
 import string
 import configparser
 import subprocess
-
+from subprocess import run, PIPE
 SOURCE_FOLDER = ""
 
 class Text:
@@ -203,13 +203,38 @@ class Itens:
                 for item in lista:
                     f.write("- [" + item.filter_by_prefix("#@") + "](" + item.readme_path + "#qxcode" ")\n")       
         
-    def generate_html(self):
+    def generate_html_and_vpl(self):
+        for item in self.itens:
+            infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "capa.jpg"
+            outfile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "__capa.jpg"
+            os.rename(infile, outfile)
         for item in self.itens:
             infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
             outfile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "z.html"
-
-            cmd = "pandoc " + infile + ' --metadata pagetitle=qxcode -s -o ' + outfile
-            subprocess.Popen(cmd.split(" "))
+            if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
+                print("updating html from hook", item.hook)
+                cmd = "pandoc " + infile + ' --metadata pagetitle=qxcode -s -o ' + outfile
+                try:
+                    p = subprocess.Popen(cmd.split(" "), stdout=PIPE, stderr=PIPE, universal_newlines=True)
+                    stdout, stderr = p.communicate()
+                    if(stdout != "" or stderr != ""):
+                        print(stdout)
+                        print(stderr)
+                except:
+                    print("Erro no comando pandoc")
+            outfile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "z.vpl"
+            if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
+                print("updating vpl from hook", item.hook)
+                cmd = "th build " + outfile + ' ' + infile
+                print(cmd)
+                try:
+                    p = subprocess.Popen(cmd.split(" "), stdout=PIPE, stderr=PIPE, universal_newlines=True)
+                    stdout, stderr = p.communicate()
+                    if(stdout != "" or stderr != ""):
+                        print(stdout)
+                        print(stderr)
+                except Exception as e:
+                    print("Erro no comando th", e)
 
 def main():
     parser = argparse.ArgumentParser(prog='th.py')
@@ -238,7 +263,7 @@ def main():
         itens.parse_from_dirs()
         itens.verify_integrity()
 
-    itens.generate_html()
+    itens.generate_html_and_vpl()
     itens.update_qxcode_link()
     print("atualizado: recriando title.md")
     itens.update_title_md_links()

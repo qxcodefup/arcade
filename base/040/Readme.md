@@ -1,7 +1,7 @@
 ## @040 #02_sel L3 - Está Trabalhand ou Não!
 ## @qxcode
 
-![Funcionário preguiçoso](capa.jpg)
+![](capa.jpg)
 
 ## Motivação
 Um funcionário trabalha de segunda a sexta, de 8 até 11:59 e de

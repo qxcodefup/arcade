@@ -1,0 +1,62 @@
+case=01
+input=5
+1 2 3 4 4
+output="ok
+"
+grade reduction=100%
+
+
+case=02
+input=6
+2 4 2 6 8 10
+output="precisa de ajuste
+"
+grade reduction=100%
+
+
+case=03
+input=1
+2
+output="ok
+"
+grade reduction=100%
+
+
+case=04
+input=4
+1 1 2 3
+output="ok
+"
+grade reduction=100%
+
+
+case=05
+input=5
+1 2 6 8 3
+output="precisa de ajuste
+"
+grade reduction=100%
+
+
+case=06
+input=1
+500
+output="ok
+"
+grade reduction=100%
+
+
+case=07
+input=8
+1 2 6 12 45 54 99 100
+output="ok
+"
+grade reduction=100%
+
+
+case=08
+input=4
+2 3 4 1
+output="precisa de ajuste
+"
+grade reduction=100%

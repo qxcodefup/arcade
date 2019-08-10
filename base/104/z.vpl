@@ -1,0 +1,54 @@
+case=01
+input=a
+output="A
+"
+grade reduction=100%
+
+
+case=02
+input=B
+output="b
+"
+grade reduction=100%
+
+
+case=03
+input=5
+output="5
+"
+grade reduction=100%
+
+
+case=04
+input=!
+output="!
+"
+grade reduction=100%
+
+
+case=05
+input=X
+output="x
+"
+grade reduction=100%
+
+
+case=06
+input=c
+output="C
+"
+grade reduction=100%
+
+
+case=07
+input=-
+output="-
+"
+grade reduction=100%
+
+
+case=08
+input=@
+output="@
+"
+grade reduction=100%

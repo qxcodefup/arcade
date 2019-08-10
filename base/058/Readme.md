@@ -1,7 +1,7 @@
 ## @058 #03_rep L2 - Busca Intervalada
 ## @qxcode
 
-![Resultado de imagem para amarelinha](capa.jpg)
+![](capa.jpg)
 
 ## Motivação
 

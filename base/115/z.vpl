@@ -1,0 +1,38 @@
+case=01
+input=5
+5000000
+output="0
+"
+grade reduction=100%
+
+
+case=02
+input=5
+5004000
+output="4000
+"
+grade reduction=100%
+
+
+case=03
+input=3
+123456
+output="12456
+"
+grade reduction=100%
+
+
+case=04
+input=9
+99999999991999999
+output="1
+"
+grade reduction=100%
+
+
+case=05
+input=7
+777
+output="0
+"
+grade reduction=100%

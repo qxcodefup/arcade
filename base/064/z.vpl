@@ -1,0 +1,78 @@
+case=01
+input=2
+99102030
+output="1
+"
+grade reduction=100%
+
+
+case=02
+input=9
+44902391
+output="2
+"
+grade reduction=100%
+
+
+case=03
+input=4
+5939
+output="0
+"
+grade reduction=100%
+
+
+case=04
+input=0
+51007140
+output="3
+"
+grade reduction=100%
+
+
+case=05 t2
+input=1
+99123321
+output="2
+"
+grade reduction=100%
+
+
+case=06 t3
+input=9
+95398900
+output="3
+"
+grade reduction=100%
+
+
+case=07 t4
+input=1
+99176810
+output="2
+"
+grade reduction=100%
+
+
+case=08 t5
+input=3
+432
+output="1
+"
+grade reduction=100%
+
+
+case=09 t6
+input=4
+44449999
+output="4
+"
+grade reduction=100%
+
+
+case=10 t7
+input=0
+100101010
+output="5
+"
+grade reduction=100%

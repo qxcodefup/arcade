@@ -1,0 +1,26 @@
+case=01
+input=mamae me ama#15#1.76;
+output="mamae me ama
+15
+1.76
+"
+grade reduction=100%
+
+
+case=02
+input=aa 4#1 -f; -2.0;
+output="aa 4
+1 -f
+ -2.0
+"
+grade reduction=100%
+
+
+case=03
+input=coca zero;1.75#8;U;
+output="coca zero
+1.75
+8
+U
+"
+grade reduction=100%

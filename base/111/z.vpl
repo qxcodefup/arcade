@@ -1,0 +1,47 @@
+case=01
+input=galinha          pintadinha
+output="galinha pintadinha
+"
+grade reduction=100%
+
+
+case=02
+input=a    almofada
+output="a almofada
+"
+grade reduction=100%
+
+
+case=03
+input=comi    sorvete
+output="comi sorvete
+"
+grade reduction=100%
+
+
+case=04
+input=meteoro        pegasus
+output="meteoro pegasus
+"
+grade reduction=100%
+
+
+case=05
+input=a   almofada
+output="a almofada
+"
+grade reduction=100%
+
+
+case=06
+input=meteoro          pegasus
+output="meteoro pegasus
+"
+grade reduction=100%
+
+
+case=07
+input=galinha pintadinha
+output="galinha pintadinha
+"
+grade reduction=100%

@@ -1,0 +1,34 @@
+case=01
+input=Opa amigo xarles 2o
+a
+x
+output="Opx xmigo axrles 2o
+"
+grade reduction=100%
+
+
+case=02
+input=minha chinela
+abcdefghijlm
+nopqrtuvwxyz
+output="zwavn pvwaryn
+"
+grade reduction=100%
+
+
+case=03
+input=aquoso estrela
+aeios
+43102
+output="4qu020 32tr3l4
+"
+grade reduction=100%
+
+
+case=04
+input=eu desejo eu quero eu vou
+eo
+ta
+output="tu dtstja tu qutra tu vau
+"
+grade reduction=100%

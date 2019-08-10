@@ -1,0 +1,33 @@
+case=01
+input=Volte cá seu cabra safado
+output="VoVoVolte cá seu cacacabra sasasafado
+"
+grade reduction=100%
+
+
+case=02
+input=Morreu Maria Prea
+output="MoMoMorreu MaMaMaria Prea
+"
+grade reduction=100%
+
+
+case=03
+input=Solte essa faca ou eu arranco suas tripas no dente!
+output="SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
+"
+grade reduction=100%
+
+
+case=04
+input=Solte essa faca ou eu arranco suas tripas no dente
+output="SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente
+"
+grade reduction=100%
+
+
+case=05
+input=Nao se bula ou eu te mato
+output="Nao se bububula ou eu te mamamato
+"
+grade reduction=100%

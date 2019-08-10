@@ -1,7 +1,7 @@
 ## @031 #02_sel L2 - Fiquei de final
 ## @qxcode
 
-![Enzo de recuperação](capa.jpg)
+![](capa.jpg)
 
 ## Descrição
 Use o pseudocódigo a seguir para implementar o algoritmo de calcular nota e decidir se você ficou aprovado, reprovado, aprovado na final ou reprovado na final.

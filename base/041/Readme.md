@@ -1,7 +1,7 @@
 ## @041 #02_sel L3 - Rufus e Par ou Ímpar!
 ## @qxcode
 
-![par ou impar](capa.jpg)
+![](capa.jpg)
 
 ## Motivação
 

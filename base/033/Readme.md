@@ -21,7 +21,7 @@ A ordem da entrada é importante nessa questão. As três primeira entradas são
 
 ### Saída
 
-*   "Aprovado com _$nota_" ou "Final com _$nota_" onde _$nota_ é o valor da nota com uma casa decimal.  
+*   "Aprovado com $nota" ou "Final com $nota" onde $nota é o valor da nota com uma casa decimal.  
 
 ## Exemplos
 

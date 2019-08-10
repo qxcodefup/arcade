@@ -1,7 +1,7 @@
 ## @035 #02_sel L3 - OBI 2017 - Fase 1 - Drone de Entrega
 ## @qxcode
 
-![drone de entrega](capa.jpg)
+![](capa.jpg)
 
 ## Motivação
 

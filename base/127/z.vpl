@@ -1,0 +1,38 @@
+case=01
+input=amo o amor que me amou, oh amora amortecida
+amo
+output="5
+"
+grade reduction=100%
+
+
+case=02
+input=o rato ratificou o carate que rateamos no cerato
+rat
+output="5
+"
+grade reduction=100%
+
+
+case=03
+input=lua de cristal que me faz sonhar menos
+me
+output="2
+"
+grade reduction=100%
+
+
+case=04
+input=marquei um x no seu umbigo de zumbak
+um
+output="3
+"
+grade reduction=100%
+
+
+case=05
+input=super golpe de kungfu
+kungfu
+output="1
+"
+grade reduction=100%

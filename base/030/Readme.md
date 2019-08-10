@@ -1,9 +1,7 @@
 ## @030 #02_sel L2 - Mercantil V1
 ## @qxcode
 
-## @qxcode
-
-![Silvio Santos no chão](capa.jpg)
+![](capa.jpg)
 
 ## Descrição
 

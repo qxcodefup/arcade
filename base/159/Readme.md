@@ -17,8 +17,6 @@ do desenvolvimento das minhocas em cada célula, e têm uma estimativa extrema
 produtividade em cada uma das células. A figura abaixo mostra um mapa da fazenda, mostrando a  
 produtividade estimada de cada uma das células.  
 
-![](capa.jpeg)
-
 Um pesquisador da OBM inventou e construiu uma máquina colhedeira de minhocas, e quer testála na fazenda. A máquina tem a largura de uma célula, e em uma passada pelo terreno de uma  
 célula colhe todas as minhocas dessa célula, separando-as, limpando-as e empacotando-as. Ou seja,  
 a máquina eliminará uma das etapas mais intensivas de mão de obra no processo de produção de  
