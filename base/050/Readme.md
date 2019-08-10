@@ -5,15 +5,15 @@
 
 Zezim da Carroça ganhou bloquinhos de montar do seu pai. Como ele não tinha computador pra jogar Minecraft, resolveu criar construções magníficas com seus bloquinhos de montar. Decidiu organizar vários níveis usando a seguinte lógica:
 
-1² = 1 [![Square number 1.png](https://upload.wikimedia.org/wikipedia/commons/7/78/Square_number_1.png)](quadrado1.png)
+1² = 1 [![Square number 1.png](https://upload.wikimedia.org/wikipedia/commons/7/78/Square_number_1.png)](__quadrado1.png)
 
-2² = 4 [![Square number 4.png](https://upload.wikimedia.org/wikipedia/commons/e/e1/Square_number_4.png)](quadrado2.png)
+2² = 4 [![Square number 4.png](https://upload.wikimedia.org/wikipedia/commons/e/e1/Square_number_4.png)](__quadrado2.png)
 
-3² = 9 [![Square number 9.png](https://upload.wikimedia.org/wikipedia/commons/4/4c/Square_number_9.png)](quadrado9.png)  
+3² = 9 [![Square number 9.png](https://upload.wikimedia.org/wikipedia/commons/4/4c/Square_number_9.png)](__quadrado9.png)  
 
-4² = 16 [![Square number 16.png](https://upload.wikimedia.org/wikipedia/commons/f/f8/Square_number_16.png)](quadrado16.png)  
+4² = 16 [![Square number 16.png](https://upload.wikimedia.org/wikipedia/commons/f/f8/Square_number_16.png)](__quadrado16.png)  
 
-5² = 25 [![Square number 25.png](https://upload.wikimedia.org/wikipedia/commons/0/0a/Square_number_25.png)](quadrado25.png)
+5² = 25 [![Square number 25.png](https://upload.wikimedia.org/wikipedia/commons/0/0a/Square_number_25.png)](__quadrado25.png)
 
 Algum tempo depois descobriu que esses números, 1, 2, 4, 9, 16, 25, etc eram chamados números quadrados ou quadrados perfeitos. Se quiser conhecer mais sobre as propriedades desse números acesse [https://pt.wikipedia.org/wiki/N%C3%BAmero\_quadrado](https://pt.wikipedia.org/wiki/N%C3%BAmero_quadrado)
 

@@ -9,7 +9,7 @@ import configparser
 import subprocess
 from subprocess import run, PIPE
 SOURCE_FOLDER = ""
-REMOTE_DATABASE = "https://github.com/qxcodefup/arcade/blob/master/base"
+REMOTE_DATABASE = "https://raw.githubusercontent.com/qxcodefup/arcade/master/base"
 
 class Text:
     @staticmethod
@@ -208,8 +208,8 @@ class Itens:
         for item in self.itens:
             infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
             outfile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "z.html"
-            #if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
-            if True:
+            if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
+            #if True:
                 print("updating html from hook", item.hook)
                 cmd = "pandoc " + infile + ' --metadata pagetitle=qxcode -s -o ' + outfile
                 try:
@@ -236,12 +236,10 @@ class Itens:
             if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
                 print("updating vpl from hook", item.hook)
                 cmd = "th build " + outfile + ' ' + infile
-                print(cmd)
                 try:
                     p = subprocess.Popen(cmd.split(" "), stdout=PIPE, stderr=PIPE, universal_newlines=True)
                     stdout, stderr = p.communicate()
-                    if(stdout != "" or stderr != ""):
-                        print(stdout)
+                    if(stderr != ""):
                         print(stderr)
                 except Exception as e:
                     print("Erro no comando th", e)

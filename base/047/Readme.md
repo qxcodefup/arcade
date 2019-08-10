@@ -1,7 +1,7 @@
 ## @047 #03_rep L2 - Ônibus lotado
 ## @qxcode
 
-![](capa.gif)
+![](__capa.gif)
 
 ## Motivação:
 

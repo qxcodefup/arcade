@@ -88,7 +88,7 @@ precisa de ajuste
 
 ### Dica
 
-Um vetor ![](vetor.svg) está ordenado de forma crescente se ![](condicao.svg).
+Um vetor ![](__vetor.svg) está ordenado de forma crescente se ![](__condicao.svg).
 Para todo elemento na posição **\[** **i \] **temos que ele é menor que o elemento na posição posterior** \[** **i +1\]** . Ou seja, caso um elemento na posição **\[ i \]** seja maior que seu vizinho da frente ( posição **\[** **i +1\]** ) o vetor não é ordenado.
 
 #
