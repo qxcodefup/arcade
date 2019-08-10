@@ -8,7 +8,8 @@ import string
 import configparser
 import subprocess
 from subprocess import run, PIPE
-SOURCE_FOLDER = ""
+SOURCE_FOLDER = "base"
+DESTIN_FOLDER = "auto"
 REMOTE_DATABASE = "https://raw.githubusercontent.com/qxcodefup/arcade/master/base"
 
 class Text:
