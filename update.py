@@ -70,11 +70,13 @@ class ItemGenerator:
 class Item:
     def __init__(self, hook, title):
         words = title.split(" ")            #removendo os # no começo da linha
+        
         if Text.has_only_hashtags(words[0]):
             del words[0]
+        self.fulltitle = " ".join(words) # title without the ##
         self.index = words[0][1:] # index sem o @
-        self.title = " ".join(words[1:])
-        self.hook = hook
+        self.title = " ".join(words[1:]) # fulltitle without the @index
+        self.hook = hook # directory
         self.tags = [x[1:] for x in words if x.startswith("#")]
         self.dir = SOURCE_FOLDER + os.sep + self.hook
         self.readme_path = self.dir + os.sep + "Readme.md"
@@ -154,7 +156,7 @@ class Itens:
                     os.remove(old_titles[0])
                 with open(new_title, "w") as f:
                     print("changing title of hook", item.hook)
-                    f.write("@" + item.hook + " " + item.title + "\n\n")
+                    f.write(item.fulltitle + "\n\n")
                     f.write("[README](.." + os.sep + SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md)\n")
 
     def update_first_line(self):
@@ -236,20 +238,27 @@ class Itens:
     def generate_html_and_vpl(self):
         for item in self.itens:
             infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
-            outfile = DESTIN_FOLDER + os.sep + item.hook  + ".b.html"
+            #outfile = DESTIN_FOLDER + os.sep + item.hook  + ".b.html"
+            outfile = DESTIN_FOLDER + os.sep + item.fulltitle + ".html"
+
 
             if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
             #if True:
                 print("updating html from hook", item.hook)
-                cmd = "pandoc " + infile + ' --metadata pagetitle=qxcode -s -o ' + outfile
+                # adaptando titulo para execucao no bash
+                #fulltitle = Text.strip_accents(item.fulltitle)
+                fulltitle = item.fulltitle.replace('!', '\\!').replace('?', '\\?')
+                cmd = ["pandoc", infile, '--metadata', 'pagetitle=' + fulltitle, '-s',  '-o', outfile]
+                print(cmd)
                 try:
-                    p = subprocess.Popen(cmd.split(" "), stdout=PIPE, stderr=PIPE, universal_newlines=True)
+                    p = subprocess.Popen(cmd, stdout=PIPE, stderr=PIPE, universal_newlines=True)
                     stdout, stderr = p.communicate()
                     if(stdout != "" or stderr != ""):
                         print(stdout)
                         print(stderr)
-                except:
-                    print("Erro no comando pandoc")
+                except Exception as e:
+                    print("Erro no comando pandoc:", e)
+                    exit(1)
                 try:
                     text = ""
                     with open(outfile, 'r') as f:
@@ -258,10 +267,11 @@ class Itens:
                         f.write(text)
                 except:
                     print("Error changing local references to remote on hook", item.hook)
+                    exit(1)
 
         for item in self.itens:
             infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
-            outfile = DESTIN_FOLDER + os.sep + item.hook + ".c.vpl"
+            outfile = DESTIN_FOLDER + os.sep + '@' + item.hook + "_.vpl"
             if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
                 print("updating vpl from hook", item.hook)
                 cmd = "th build " + outfile + ' ' + infile
@@ -303,7 +313,7 @@ def main():
     itens.generate_html_and_vpl()
     itens.update_qxcode_link()
     #print("atualizado: recriando title.md")
-    itens.update_title_md_links()
+    #itens.update_title_md_links()
     #print("atualizado: nomes dos arquivos")
     itens.update_names_txt()
     #print("atualizado: names.txt")

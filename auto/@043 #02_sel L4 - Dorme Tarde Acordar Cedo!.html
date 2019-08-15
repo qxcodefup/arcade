@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@043 #02_sel L4 - Dorme Tarde Acordar Cedo\!</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="sel-l4---dorme-tarde-acordar-cedo"><span class="citation" data-cites="043">@043</span> #02_sel L4 - Dorme Tarde Acordar Cedo!</h2>
+<h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
+<p><img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/043/__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Já colocou o despertador no seu celular e ele lhe informou que você só tinha algumas poucas horas de sono? Quem mandou dormir às 2 da manhã e ter que acordar às 5:30!</p>
+<h2 id="ação">Ação</h2>
+<p>Faça um código que receba horas minutos e segundos tanto da hora atual e da hora do despertador e retorne quantas horas minutos e segundos você tem de sono. Se o segundo horário for menor que o primeiro, compreenda que é no outro dia. Se você dormir 23:00 e acorda às 6:00 então você tem 7:00 horas de sono. [DS]</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>linha 1: hora minuto segundo (do horário que vai dormir).</li>
+<li>linha 2: hora minuto segundo (do horário que vai acordar).</li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>hora minuto segundo (do tempo de sono que resta).</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+01 00 00
+03 00 00
+========
+02 00 00
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+02 11 00
+03 10 10
+========
+00 59 10
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+04 10 00
+03 10 10
+========
+23 00 10
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+04 00 01
+03 00 00
+========
+22 59 59
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h2 id="ajuda">Ajuda</h2>
+<p>Em python2 você pode pegar as strings assim:</p>
+<pre><code>h1, m1, s1 = raw\_input().split(&quot; &quot;)
+h2, m2, s2 = raw\_input().split(&quot; &quot;)</code></pre>
+<p>Em python3 você pode pegar as strings assim:</p>
+<pre><code>h1, m1, s1 = input().split(&quot; &quot;)
+h2, m2, s2 = input().split(&quot; &quot;)</code></pre>
+<p>As variáveis serão string.Para converter para int use:</p>
+<pre><code>h1 = int(h1) h2 = int(h2) </code></pre>
+<p>etc.</p>
+<h1 id="section"></h1>
+<!---
+>>>>>>>>
+0 0 0
+1 1 1
+========
+01 01 01
+<<<<<<<<
+
+
+>>>>>>>>
+10 0 0
+11 12 13
+========
+01 12 13
+<<<<<<<<
+
+
+>>>>>>>>
+04 05 00
+03 05 00
+========
+23 00 00
+<<<<<<<<
+
+
+>>>>>>>>
+03 15 32
+21 34 07
+========
+18 18 35
+<<<<<<<<
+
+
+>>>>>>>>
+21 15 32
+06 34 09
+========
+09 18 37
+<<<<<<<<
+
+--->
+</body>
+</html>
