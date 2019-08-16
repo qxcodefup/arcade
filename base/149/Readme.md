@@ -1,4 +1,4 @@
-## @149 #11_dict - Operações
+## @149 #07_dic L1 - Operações
 ## @qxcode
 
 ![](__capa.jpg)

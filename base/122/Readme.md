@@ -1,4 +1,4 @@
-## @122 #05_str L4 - Nao se bububula - Gagueira V2!
+## @122 #05_str L3 - Nao se bububula - Gagueira V2!
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## @065 #03_rep L4 - Sapinho matemático não morrendo no poço
+## @065 #03_rep L3 - Sapinho matemático não morrendo no poço
 ## @qxcode
 
 ![](__capa.jpg)

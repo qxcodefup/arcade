@@ -1,4 +1,4 @@
-## @144 #10_pont - Função que retorna vários valores por referência
+## @144 #10_ptr L2 - Função que retorna vários valores por referência
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## @158 #03_rep L4 - Trilhas - OBI 2005
+## @158 #03_rep L3 - Trilhas - OBI 2005
 ## @qxcode
 
 ![](__capa.jpg)

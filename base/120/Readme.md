@@ -1,4 +1,4 @@
-## @120 #05_str L4 - Gansos Gamados - Verificar ordenação da frase!
+## @120 #05_str L3 - Gansos Gamados - Verificar ordenação da frase!
 ## @qxcode
 
 ![](__capa.jpg)

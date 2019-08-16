@@ -249,7 +249,6 @@ class Itens:
                 #fulltitle = Text.strip_accents(item.fulltitle)
                 fulltitle = item.fulltitle.replace('!', '\\!').replace('?', '\\?')
                 cmd = ["pandoc", infile, '--metadata', 'pagetitle=' + fulltitle, '-s',  '-o', outfile]
-                print(cmd)
                 try:
                     p = subprocess.Popen(cmd, stdout=PIPE, stderr=PIPE, universal_newlines=True)
                     stdout, stderr = p.communicate()

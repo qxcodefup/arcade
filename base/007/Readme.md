@@ -1,4 +1,4 @@
-## @007 #06_mat L4 - Tetris (Fazendo a peça cair)
+## @007 #06_mat L3 - Tetris (Fazendo a peça cair)
 ## @qxcode
 
 ![](__capa.jpg)

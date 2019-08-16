@@ -1,4 +1,4 @@
-## @006 #01_ope L4 - Zerinho ou um americano (Calcule o vencedor)
+## @006 #01_ope L3 - Zerinho ou um americano (Calcule o vencedor)
 ## @qxcode
 
 ![](__capa.jpg)

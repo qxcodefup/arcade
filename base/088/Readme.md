@@ -1,4 +1,4 @@
-## @088 #04_vet L4 - Se fosse a mediana eu tinha passado!
+## @088 #04_vet L3 - Se fosse a mediana eu tinha passado!
 ## @qxcode
 
 ![](__capa.jpg)

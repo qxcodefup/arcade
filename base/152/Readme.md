@@ -1,4 +1,4 @@
-## @152 #05_str L4 - OBI 2015 - Fase 2 - Nível 1 - Letras
+## @152 #05_str L3 - OBI 2015 - Fase 2 - Nível 1 - Letras
 ## @qxcode
 
 ![](__capa.jpg)

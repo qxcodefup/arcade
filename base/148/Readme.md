@@ -1,4 +1,4 @@
-## @148 #11_dict - Expressão
+## @148 #07_dic L1 - Expressão
 ## @qxcode
 
 ![](__capa.jpg)

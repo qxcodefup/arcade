@@ -1,4 +1,4 @@
-## @147 #11_dict - Duelo
+## @147 #10_ptr L1 - Duelo
 ## @qxcode
 
 ![](__capa.jpg)
