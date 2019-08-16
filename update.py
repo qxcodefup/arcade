@@ -12,41 +12,8 @@ SOURCE_FOLDER = "base"
 DESTIN_FOLDER = "auto"
 REMOTE_DATABASE = "https://raw.githubusercontent.com/qxcodefup/arcade/master/base"
 
-class Text:
-    @staticmethod
-    def strip_accents(text):
-        try:
-            text = unicode(text, 'utf-8')
-        except NameError: # unicode is a default on python 3 
-            pass
-        text = unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode("utf-8")
-        return str(text)
-
-    @staticmethod
-    def filter_punct(title):
-        title = Text.strip_accents(title)
-        new_title = ""
-        for c in title:
-            if c in string.punctuation or c in string.whitespace:
-                new_title += "_"
-            else:
-                new_title += c
-        while "__" in new_title:
-            new_title = new_title.replace("__", "_")
-        if new_title.endswith("_"):
-            new_title = new_title[:-1]
-        return new_title
-    
-
-    @staticmethod
-    def has_only_hashtags(word):
-        for c in word:
-            if c != "#":
-                return False
-        return True
-
-
 class ItemGenerator:
+    # load Item description from folder
     @staticmethod
     def make_from_hook(hook):
         readme_path = SOURCE_FOLDER + os.sep + hook + os.sep + "Readme.md"
@@ -58,6 +25,7 @@ class ItemGenerator:
                 exit(1)
             return item
 
+    # load item description from a single line in names.txt
     @staticmethod
     def make_from_line(line):
         if(line[-1] == "\n"): #removing \n
@@ -68,11 +36,17 @@ class ItemGenerator:
         return Item(hook.strip(), title.strip())
 
 class Item:
-    def __init__(self, hook, title):
-        words = title.split(" ")            #removendo os # no começo da linha
-        
-        if Text.has_only_hashtags(words[0]):
+
+    # get first line from file to mount Item
+    def __init__(self, hook, line):
+        words = line.split(" ")            # removing ## used to set title
+        keep = False
+        for c in words[0]:
+            if c != "#":
+                keep = True
+        if not keep:
             del words[0]
+
         self.fulltitle = " ".join(words) # title without the ##
         self.index = words[0][1:] # index sem o @
         self.title = " ".join(words[1:]) # fulltitle without the @index
@@ -81,18 +55,17 @@ class Item:
         self.dir = SOURCE_FOLDER + os.sep + self.hook
         self.readme_path = self.dir + os.sep + "Readme.md"
 
+    #return all the words in fulltitle that dont start with any of the targets
+    #targets example "#" or "#@"
     def filter_by_prefix(self, targets):
-        fulltitle = "@" + self.index + " " + self.title
-        words = fulltitle.split(" ")
+        words = self.fulltitle.split(" ")
         for c in targets:
             words = [x for x in words if not x.startswith(c)]
         return " ".join(words)
 
-    def generate_link_name(self):
-        return Text.filter_punct(self.filter_by_prefix("@#").strip())
-
+    #return 
     def __str__(self):
-        return self.hook + ": @" + self.index + " " + self.title
+        return self.hook + ": " + self.fulltitle
 
 
 class Itens:
@@ -114,7 +87,6 @@ class Itens:
             for line in names_list:
                 self.itens.append(ItemGenerator.make_from_line(line))
         
-
     def __str__(self):
         return "\n".join(str(v) for v in self.itens)
 
@@ -122,42 +94,6 @@ class Itens:
         self.itens.sort(key=lambda x: x.filter_by_prefix("@"))
         with open("names.txt", "w") as names:
             names.write("\n".join([str(x) for x in self.itens]))
-
-    def update_title_md_links(self):
-        #for item in self.itens:
-        #    title = item.generate_link_name() #generating name of file .title.md
-        #    files = os.listdir(item.dir) #getting files and directories
-        #    old_titles = [x for x in files if x.endswith(".title.md")]
-        #    old_titles = [(item.dir + os.sep + x) for x in old_titles]
-        #    new_title = item.dir + os.sep + title + ".title.md"
-
-        #    if (len(old_titles) == 1) and (old_titles[0] == new_title): #doesn't have change
-        #        continue
-
-        #    for file in old_titles:
-        #        os.remove(file)
-        #    print("recriando link do titulo", new_title)
-        #    with open(new_title, "w") as f:
-        #        f.write("[README](Readme.md)\n")
-        #files = os.listdir(DESTIN_FOLDER) #getting files and directories
-        #old_titles = [x for x in files if x.endswith(".md")]
-        #for file in old_titles:
-        #    os.remove(DESTIN_FOLDER + os.sep + file)
-
-        for item in self.itens:
-            title = item.generate_link_name() #generating name of file .title.md
-            files = os.listdir(DESTIN_FOLDER) #getting files and directories
-            old_titles = [x for x in files if (x.startswith(item.hook) and x.endswith(".md"))]
-            old_titles = [(DESTIN_FOLDER + os.sep +  x) for x in old_titles]
-            new_title = DESTIN_FOLDER + os.sep + item.hook + '.a.' + title + ".md"
-            
-            if(len(old_titles) == 0 or (old_titles[0] != new_title)):
-                if len(old_titles) > 0:
-                    os.remove(old_titles[0])
-                with open(new_title, "w") as f:
-                    print("changing title of hook", item.hook)
-                    f.write(item.fulltitle + "\n\n")
-                    f.write("[README](.." + os.sep + SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md)\n")
 
     def update_first_line(self):
         for item in self.itens:
@@ -212,7 +148,7 @@ class Itens:
                     print("adicionando @qxcode no arquivo", item.hook)
                     f.write("".join(data))
 
-
+    # update Readme.md
     def update_indices(self):
         def tree_generate(itens):
             tree = {}
@@ -246,7 +182,6 @@ class Itens:
             #if True:
                 print("updating html from hook", item.hook)
                 # adaptando titulo para execucao no bash
-                #fulltitle = Text.strip_accents(item.fulltitle)
                 fulltitle = item.fulltitle.replace('!', '\\!').replace('?', '\\?')
                 cmd = ["pandoc", infile, '--metadata', 'pagetitle=' + fulltitle, '-s',  '-o', outfile]
                 try:
@@ -311,13 +246,8 @@ def main():
 
     itens.generate_html_and_vpl()
     itens.update_qxcode_link()
-    #print("atualizado: recriando title.md")
-    #itens.update_title_md_links()
-    #print("atualizado: nomes dos arquivos")
     itens.update_names_txt()
-    #print("atualizado: names.txt")
     itens.update_indices()
-    #print("atualizado: indices")
     print("all done")
 
 main()
