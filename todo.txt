@@ -1,1 +1,7 @@
-colocar o titulo da questão integral no title.md
+- fazer o update
+- subir o os solvers junto com a questão
+- passar a pasta com os dados ao invés dos htmls e vpls
+    - pode adicionar os arquivos adicionais
+    - pode adicionar atualizar sem precisar do update
+    - colocar .txt no final de tudo que comece com solver ou Solver
+    - ignorar tudo que tem __ no começo do arquivo
