@@ -114,7 +114,6 @@
 - [L3 - OBI 2017 - Fase 1 - Botas Trocadas](base/074/Readme.md#qxcode)
 - [L3 - OBI 2017 - Fase 1 - O segredo do Cofre](base/076/Readme.md#qxcode)
 - [L3 - Se fosse a mediana eu tinha passado!](base/088/Readme.md#qxcode)
-- [L3 - Segredo do cofre (OBI 2017 F1P1)](base/009/Readme.md#qxcode)
 - [L3 - Zoo quantas especies!](base/069/Readme.md#qxcode)
 - [L3 - Zoologico Entrando na Arca de Noé](base/087/Readme.md#qxcode)
 - [L3 - Zoologico Um animal de cada tipo!](base/084/Readme.md#qxcode)

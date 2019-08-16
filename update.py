@@ -192,7 +192,7 @@ class Itens:
                     os.rename(SOURCE_FOLDER + os.sep + item.hook, SOURCE_FOLDER + os.sep + item.index)
                     #removing old html, title and vpl
                     files = os.listdir(DESTIN_FOLDER) #getting files and directories
-                    filter_by_hook = [x for x in files if x.startswith(item.hook + ".")]
+                    filter_by_hook = [x for x in files if x.startswith("@" + item.hook)]
                     for file in filter_by_hook:
                         print("removing ", file)
                         os.remove(DESTIN_FOLDER + os.sep + file)

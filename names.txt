@@ -95,7 +95,6 @@
 074: @074 #04_vet L3 - OBI 2017 - Fase 1 - Botas Trocadas
 076: @076 #04_vet L3 - OBI 2017 - Fase 1 - O segredo do Cofre
 088: @088 #04_vet L3 - Se fosse a mediana eu tinha passado!
-009: @009 #04_vet L3 - Segredo do cofre (OBI 2017 F1P1)
 069: @069 #04_vet L3 - Zoo quantas especies!
 087: @087 #04_vet L3 - Zoologico Entrando na Arca de Noé
 084: @084 #04_vet L3 - Zoologico Um animal de cada tipo!
