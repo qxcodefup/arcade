@@ -6,6 +6,9 @@
 # TAGS
 
 
+## __tagless
+
+
 ## 01_ope
 
 - [L1 - Formatando data (Zeros à esquerda)](base/011/Readme.md#qxcode)
@@ -74,7 +77,6 @@
 - [L3 - Blackjack 21!](base/063/Readme.md#qxcode)
 - [L3 - Conta Dígitos](base/064/Readme.md#qxcode)
 - [L3 - Hoje tem sopa de coelho?](base/052/Readme.md#qxcode)
-- [L3 - Mini-Poker - OBI2005](base/162/Readme.md#qxcode)
 - [L3 - OBI 2016 - Fuga em helicóptero](base/053/Readme.md#qxcode)
 - [L3 - Quebrador de Copos](base/054/Readme.md#qxcode)
 - [L3 - Sapinho matemático não morrendo no poço](base/065/Readme.md#qxcode)
@@ -83,6 +85,10 @@
 - [L3 - Trilhas - OBI 2005](base/158/Readme.md#qxcode)
 - [L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md#qxcode)
 - [L3 - Volta de 360 graus (Retirando os loops)](base/016/Readme.md#qxcode)
+
+## 03_vet
+
+- [L3 - Mini-Poker - OBI2005](base/162/Readme.md#qxcode)
 
 ## 04_vet
 
@@ -205,3 +211,7 @@
 - [L1 - Duelo](base/147/Readme.md#qxcode)
 - [L1 - Troca de valores de variáveis](base/143/Readme.md#qxcode)
 - [L2 - Função que retorna vários valores por referência](base/144/Readme.md#qxcode)
+
+## 11_cla
+
+- [L3 - Motivando a turma de secundaristas](base/184/Readme.md#qxcode)

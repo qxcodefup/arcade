@@ -152,11 +152,15 @@ class Itens:
     def update_indices(self):
         def tree_generate(itens):
             tree = {}
+            tree['__tagless'] = []
             for item in itens:
-                for tag in item.tags:
-                    if not tag in tree:
-                        tree[tag] = []
-                    tree[tag].append(item)
+                if len(item.tags) == 0:
+                    tree['__tagless'].append(item)
+                else:
+                    for tag in item.tags:
+                        if not tag in tree:
+                            tree[tag] = []
+                        tree[tag].append(item)
             return tree
 
         self.itens.sort(key=lambda x: x.filter_by_prefix("@"))

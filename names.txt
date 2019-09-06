@@ -58,7 +58,6 @@
 063: @063 #03_rep L3 - Blackjack 21!
 064: @064 #03_rep L3 - Conta Dígitos
 052: @052 #03_rep L3 - Hoje tem sopa de coelho?
-162: @162 #03_rep L3 - Mini-Poker - OBI2005
 053: @053 #03_rep L3 - OBI 2016 - Fuga em helicóptero
 054: @054 #03_rep L3 - Quebrador de Copos
 065: @065 #03_rep L3 - Sapinho matemático não morrendo no poço
@@ -67,6 +66,7 @@
 158: @158 #03_rep L3 - Trilhas - OBI 2005
 161: @161 #03_rep L3 - Vivo ou Morto - OBI 2005
 016: @016 #03_rep L3 - Volta de 360 graus (Retirando os loops)
+162: @162 #03_vet L3 - Mini-Poker - OBI2005
 060: @060 #04_vet L1 - Joelison Fernandes - Soma do maior e menor!
 061: @061 #04_vet L2 - Capoeira invertendo vetor!
 078: @078 #04_vet L2 - Jogo do Avesso
@@ -168,3 +168,4 @@
 147: @147 #10_ptr L1 - Duelo
 143: @143 #10_ptr L1 - Troca de valores de variáveis
 144: @144 #10_ptr L2 - Função que retorna vários valores por referência
+184: @184 #11_cla L3 - Motivando a turma de secundaristas
