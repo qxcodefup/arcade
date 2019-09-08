@@ -164,50 +164,7 @@ class Itens:
                 lista.sort(key=lambda x: x.filter_by_prefix("@"))
                 for item in lista:
                     f.write("- [" + item.filter_by_prefix("#@") + "](" + item.readme_path + "#qxcode" ")\n")       
-"""     
-    def generate_html_and_vpl(self):
-        for item in self.itens:
-            infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
-            outfile = MOODLE_FOLDER + os.sep + item.fulltitle + ".html"
 
-            if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
-                print("updating html from hook", item.hook)
-                # adaptando titulo para execucao no bash
-                fulltitle = item.fulltitle.replace('!', '\\!').replace('?', '\\?')
-                cmd = ["pandoc", infile, '--metadata', 'pagetitle=' + fulltitle, '-s',  '-o', outfile]
-                try:
-                    p = subprocess.Popen(cmd, stdout=PIPE, stderr=PIPE, universal_newlines=True)
-                    stdout, stderr = p.communicate()
-                    if(stdout != "" or stderr != ""):
-                        print(stdout)
-                        print(stderr)
-                except Exception as e:
-                    print("Erro no comando pandoc:", e)
-                    exit(1)
-                try:
-                    text = ""
-                    with open(outfile, 'r') as f:
-                        text = f.read().replace('<img src="__', '<img src="' + REMOTE_DATABASE + '/' + item.hook + "/" + "__")
-                    with open(outfile, 'w') as f:
-                        f.write(text)
-                except:
-                    print("Error changing local references to remote on hook", item.hook)
-                    exit(1)
-
-        for item in self.itens:
-            infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
-            outfile = MOODLE_FOLDER + os.sep + '@' + item.hook + "_.vpl"
-            if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
-                print("updating vpl from hook", item.hook)
-                cmd = "th build " + outfile + ' ' + infile
-                try:
-                    p = subprocess.Popen(cmd.split(" "), stdout=PIPE, stderr=PIPE, universal_newlines=True)
-                    stdout, stderr = p.communicate()
-                    if(stderr != ""):
-                        print(stderr)
-                except Exception as e:
-                    print("Erro no comando th", e)
-"""
 def main():
     parser = argparse.ArgumentParser(prog='th.py')
     parser.add_argument('-s', action='store_true', help='set titles using names.txt')
