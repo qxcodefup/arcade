@@ -1,0 +1,15 @@
+{
+  "name": "@175 #05_str L3 - Separando a partir de tokens\n",
+  "description": "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"\" xml:lang=\"\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"generator\" content=\"pandoc\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\" />\n  <title>@175 #05_str L3 - Separando a partir de tokens</title>\n  <style>\n      code{white-space: pre-wrap;}\n      span.smallcaps{font-variant: small-caps;}\n      span.underline{text-decoration: underline;}\n      div.column{display: inline-block; vertical-align: top; width: 50%;}\n  </style>\n  <!--[if lt IE 9]>\n    <script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js\"></script>\n  <![endif]-->\n</head>\n<body>\n<h2 id=\"str-l3---separando-a-partir-de-tokens\"><span class=\"citation\" data-cites=\"175\">@175</span> #05_str L3 - Separando a partir de tokens</h2>\n<h2 id=\"qxcode\"><span class=\"citation\" data-cites=\"qxcode\">@qxcode</span></h2>\n<p><img src=\"https://raw.githubusercontent.com/qxcodefup/arcade/master/base/175/__capa.jpg\" /></p>\n<h2 id=\"a\u00e7\u00e3o\">A\u00e7\u00e3o</h2>\n<p>Dada uma frase (max 100 char) com palavras (letras minusculas), n\u00fameros e espa\u00e7o, divida os elementos em n frases usando os tokens \u2019 # \u2019 e \u2019 ; \u2019 como refer\u00eancia de fim para aquela frase.</p>\n<h3 id=\"entrada\">Entrada</h3>\n<ul>\n<li>Uma frase (max 100 char) com palavras (letras minusculas), n\u00fameros e espa\u00e7os que podem ser separados por tokens.</li>\n</ul>\n<h3 id=\"saida\">Saida</h3>\n<ul>\n<li>n frases sem os tokens.</li>\n</ul>\n<h2 id=\"exemplos\">Exemplos</h2>\n<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;\nmamae me ama#15#1.76;\n========\nmamae me ama\n15\n1.76\n&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;\n\n&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;\naa 4#1 -f; -2.0;\n========\naa 4\n1 -f\n -2.0\n&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;\n\n&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;\ncoca zero;1.75#8;U;\n========\ncoca zero\n1.75\n8\nU\n&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>\n<h1 id=\"section\"></h1>\n</body>\n</html>\n",
+  "executionFiles": [
+    {
+      "name": "vpl_evaluate.cases",
+      "contents": "case=01\ninput=mamae me ama#15#1.76;\noutput=\"mamae me ama\n15\n1.76\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=aa 4#1 -f; -2.0;\noutput=\"aa 4\n1 -f\n -2.0\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=coca zero;1.75#8;U;\noutput=\"coca zero\n1.75\n8\nU\n\"\ngrade reduction=100%\n"
+    },
+    {
+      "name": "solver.c.txt",
+      "contents": "#include <stdio.h>\n\n#define MAX_SIZE 100\n\nint main(){\n\n    char frase[MAX_SIZE];\n\n    scanf(\"%[^\\n]\", frase);\n\n    for(int i = 0; i < MAX_SIZE; i++){\n        if(frase[i] == '#' || frase[i] == ';')\n            frase[i] = '\\n';\n    }\n\n    printf(\"%s\", frase);\n\n    return 0;\n}"
+    }
+  ],
+  "requiredFile": null
+}

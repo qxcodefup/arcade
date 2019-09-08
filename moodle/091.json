@@ -1,0 +1,15 @@
+{
+  "name": "@091 #04_vet L2 - MMC\n",
+  "description": "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"\" xml:lang=\"\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"generator\" content=\"pandoc\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\" />\n  <title>@091 #04_vet L2 - MMC</title>\n  <style>\n      code{white-space: pre-wrap;}\n      span.smallcaps{font-variant: small-caps;}\n      span.underline{text-decoration: underline;}\n      div.column{display: inline-block; vertical-align: top; width: 50%;}\n  </style>\n  <!--[if lt IE 9]>\n    <script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js\"></script>\n  <![endif]-->\n</head>\n<body>\n<h2 id=\"vet-l2---mmc\"><span class=\"citation\" data-cites=\"091\">@091</span> #04_vet L2 - MMC</h2>\n<h2 id=\"qxcode\"><span class=\"citation\" data-cites=\"qxcode\">@qxcode</span></h2>\n<p><img src=\"https://raw.githubusercontent.com/qxcodefup/arcade/master/base/091/__capa.jpg\" /></p>\n<h2 id=\"a\u00e7\u00e3o\">A\u00e7\u00e3o</h2>\n<p>Fa\u00e7a uma fun\u00e7\u00e3o que calcule e retorne o mmc de dois n\u00fameros.</p>\n<h3 id=\"entrada\">Entrada</h3>\n<ul>\n<li>Dois numeros inteiros N e M.</li>\n</ul>\n<h3 id=\"saida\">Saida</h3>\n<ul>\n<li>O mmc de N e M.</li>\n</ul>\n<h2 id=\"exemplos\">Exemplos</h2>\n<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;\n6 9\n========\n18\n&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;\n\n&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;\n3 4\n========\n12\n&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;\n\n&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;\n3 6\n========\n6\n&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>\n<h1 id=\"section\"></h1>\n</body>\n</html>\n",
+  "executionFiles": [
+    {
+      "name": "vpl_evaluate.cases",
+      "contents": "case=01\ninput=6 9\noutput=\"18\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3 4\noutput=\"12\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=3 6\noutput=\"6\n\"\ngrade reduction=100%\n"
+    },
+    {
+      "name": "solver.c.txt",
+      "contents": "#include <stdio.h>\n\nint mmc(int n1, int n2){\n    int a = n1;\n    while(1){\n        if((a % n1 == 0) && (a % n2 == 0))\n            return a;\n        a++;\n    }\n}\n\nint main(){\n\n    int n1 = 0, n2 = 0;\n\n    scanf(\"%d %d \", &n1, &n2);\n\n    if(n1 > n2)\n        printf(\"%d\\n\", mmc(n1, n2));\n    else\n        printf(\"%d\\n\", mmc(n2, n1));\n\n    return 0;\n}"
+    }
+  ],
+  "requiredFile": null
+}
