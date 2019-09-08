@@ -1,0 +1,34 @@
+case=01
+input=5
+5
++
+output="10
+"
+grade reduction=100%
+
+
+case=02
+input=5
+5
+-
+output="0
+"
+grade reduction=100%
+
+
+case=03
+input=5
+7
+*
+output="35
+"
+grade reduction=100%
+
+
+case=04
+input=35
+5
+/
+output="7
+"
+grade reduction=100%

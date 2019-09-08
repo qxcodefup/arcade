@@ -1,0 +1,99 @@
+case=01
+input=2
+ana 80 f
+joao 43 m
+output="ana
+"
+grade reduction=100%
+
+
+case=02
+input=2
+jose 80 m
+joao 43 m
+output="nao tem mulher
+"
+grade reduction=100%
+
+
+case=03
+input=3
+joao 43 m
+ana 80 f
+melissa 34 f
+output="ana
+"
+grade reduction=100%
+
+
+case=04
+input=3
+joao 88 m
+ana 80 f
+melissa 84 f
+output="melissa
+"
+grade reduction=100%
+
+
+case=05
+input=3
+joao 88 m
+ferrim 80 m
+melios 84 m
+output="nao tem mulher
+"
+grade reduction=100%
+
+
+case=06
+input=7
+maria 11 f
+joao 43 m
+francisco 12 m
+meire 71 f
+sergio 14 m
+strange 81 m
+mogli 45 m
+output="meire
+"
+grade reduction=100%
+
+
+case=07
+input=6
+maria 11 f
+joao 43 m
+francisco 12 m
+meire 71 f
+strange 81 m
+sergio 101 m
+output="meire
+"
+grade reduction=100%
+
+
+case=08
+input=5
+maria 99 f
+strange 81 m
+joao 43 m
+meire 71 f
+sergio 14 m
+output="maria
+"
+grade reduction=100%
+
+
+case=09
+input=7
+mario 80 m
+joao 43 m
+francisco 12 m
+meire 73 f
+sergio 72 f
+strange 81 m
+mogli 45 m
+output="meire
+"
+grade reduction=100%

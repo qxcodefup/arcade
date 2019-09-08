@@ -1,0 +1,61 @@
+case=01
+input=Coralina
+0
+4
+output="Cora
+"
+grade reduction=100%
+
+
+case=02
+input=Power Ranger
+4
+20
+output="r Ranger
+"
+grade reduction=100%
+
+
+case=03
+input=Coralina
+0
+1
+output="C
+"
+grade reduction=100%
+
+
+case=04
+input=Coralina
+1
+1
+output="o
+"
+grade reduction=100%
+
+
+case=05
+input=Coralina
+1
+4
+output="oral
+"
+grade reduction=100%
+
+
+case=06
+input=Power Ranger
+4
+30
+output="r Ranger
+"
+grade reduction=100%
+
+
+case=07
+input=Decoracao
+4
+5
+output="racao
+"
+grade reduction=100%

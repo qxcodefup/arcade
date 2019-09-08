@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@100 #04_vet L3 - Jogando pião na rodinha</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="vet-l3---jogando-pião-na-rodinha"><span class="citation" data-cites="100">@100</span> #04_vet L3 - Jogando pião na rodinha</h2>
+<h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
+<p><img src="__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>No jogo de pião lá de Ocara o mói de peia funciona assim: - N jogadores se reúnem cada um com seu pião. - Um nobre rapaz faz uma rodinha na areia. - Todos os participantes jogam o pião na rodinha um de cada vez e eles decoram a distância que o pião caiu do centro. - Quem ficou mais perto do centro ganha, desde que tenha jogado dentro da roda. - Quem ficou mais longe do centro leva um mói de peia.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li><p>1a linha: N e C, sendo N a quantidade de jogadores e C a circunferência do círculo.</p></li>
+<li><p>2a linha: As N jogadas dos jogadores representadas por um número inteiro, que pode ser positivo ou negativo representando a distância do centro.</p></li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>1a linha: o número do ganhador (1o jogador tem índice 0).
+<ul>
+<li>“nenhum” se nenhum conseguiu acertar dentro da circunferência.</li>
+<li>se houver empate, o primeiro o último a jogar será o ganhador.</li>
+</ul></li>
+<li>2a linha: o número do perdedor
+<ul>
+<li>se houver empate, será o último jogador empatado, na ordem das jogadas.</li>
+</ul></li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 01
+30 3
+-35 15 22
+========
+1
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 02
+30 3
+-35 32 40
+========
+nenhum
+2
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 03
+30 3
+-35 -36 36
+========
+nenhum
+2
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 04
+30 3
+-25 -26 24
+========
+2
+1
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h1 id="section"></h1>
+<!---
+>>>>>>>> 05
+30 4
+-25 -26 24 1
+========
+3
+1
+<<<<<<<<
+
+>>>>>>>> 06
+30 6
+-25 -26 24 1 20 -2
+========
+3
+1
+<<<<<<<<
+
+
+
+--->
+</body>
+</html>

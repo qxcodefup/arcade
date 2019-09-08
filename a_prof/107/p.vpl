@@ -1,0 +1,43 @@
+case=01
+input=batata? sim! frita!!
+abac
++
+output="bbtctb? skm! grktb!!
+"
+grade reduction=100%
+
+
+case=02
+input=quando vi voce eu buguei
+princesa
++
+output="fliafs ni kfkr gy tuvlmv
+"
+grade reduction=100%
+
+
+case=03
+input=a data ua bbfrua
+ab
+-
+output="a casa ta aberta
+"
+grade reduction=100%
+
+
+case=04
+input=o bobe!
+ab
++
+output="o coce!
+"
+grade reduction=100%
+
+
+case=05
+input=o coce!
+ab
+-
+output="o bobe!
+"
+grade reduction=100%

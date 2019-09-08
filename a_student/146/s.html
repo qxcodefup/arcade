@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@146 #07_rec L3 - Torres de Hanoi</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="rec-l3---torres-de-hanoi"><span class="citation" data-cites="146">@146</span> #07_rec L3 - Torres de Hanoi</h2>
+<h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
+<p><img src="__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>O objetivo do jogo das torres de hanoi é mover todos os discos da torre inicial para a torre final, sem colocar disco maior sobre disco menor. Inicialmente, a torre final e a torre auxiliar estão vazias. Você pode usar a torre auxiliar para lhe ajudar a mover os discos.</p>
+<h2 id="exemplo">Exemplo</h2>
+<pre><code>            ++                  ++                 ++
+            ||                  ||                 ||
+            ||                  ||                 ||
+            ||                  ||                 ||
+            ||                  ||                 ||
+          +-++-+                ||                 ||
+          |    |                ||                 ||
+        +-+----+-+              ||                 ||
+        |        |              ||                 ||
+      +-+--------+-+            ||                 ||
+      |            |            ||                 ||
+      +------------+            ++                 ++
+      Torre inicial        Torre auxiliar      Torre final
+            A                   B                  C</code></pre>
+<p>Solução: A -&gt; C A -&gt; B C -&gt; B A -&gt; C B -&gt; A B -&gt; C A -&gt; C</p>
+<p>Simule as jogadas em http://www.dynamicdrive.com/dynamicindex12/towerhanoi.htm</p>
+<p>Este problema parece difícil de resolver para o caso geral com <em>n</em> discos. Porém, como acontece em vários problemas, utilizando recursão chegamos em um algoritmo simples e elegante. Mova recursivamente os \(n-1\) primeiros discos para a torre auxiliar, depois mova o último disco da torre inicial para a torre final, e então mova recursivamente os \(n-1\) discos da torre auxiliar para a torre final.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>Número de discos para mover da torre ‘A’ para a torre ‘C’.</li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>Sequência de movimentos para mover todos os discos (um movimento por linha).</li>
+<li>Notação do movimento do disco no topo da torre:
+<ul>
+<li>torre de origem -&gt; torre de destino.</li>
+</ul></li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3
+========
+A -&gt; C
+A -&gt; B
+C -&gt; B
+A -&gt; C
+B -&gt; A
+B -&gt; C
+A -&gt; C
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<!---
+>>>>>>>> 01
+5
+========
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+A -> B
+C -> B
+C -> A
+B -> A
+C -> B
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+B -> A
+C -> B
+C -> A
+B -> A
+B -> C
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+<<<<<<<<
+--->
+</body>
+</html>

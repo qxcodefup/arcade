@@ -6,14 +6,15 @@ import subprocess
 import json
 import tempfile
 from shutil import copyfile
+from shutil import rmtree
 from subprocess import run, PIPE
 
 REMOTE_DATABASE = "https://raw.githubusercontent.com/qxcodefup/arcade/master/base"
 
 BASE    = "base"
-PROF    = "prof"
-STUDENT = "student"
-MOODLE  = "moodle"
+PROF    = "a_prof"
+STUDENT = "a_student"
+MOODLE  = "a_moodle"
 
 
 def extract_index_name(target_dir):
@@ -86,19 +87,33 @@ def make_file_dict(hook):
     fdict["tests"]    = [x for x in tests]
     return fdict
 
-def update_student(hook, name, description, fdict):
+def update_student(hook, name, cases_tio, description, fdict):
     dest = STUDENT + os.sep + hook
-    os.rmdir(dest)
+    rmtree(dest, ignore_errors=True)
     os.mkdir(dest)
-    with open(dest + os.sep + "s.html") as f:
+    with open(dest + os.sep + "s.html", 'w') as f:
         f.write(description)
-    files = fdict["tests"] + fdict["others"] + fdict["figs"] + fdict["required"]
+    with open(dest + os.sep + "s.tio", 'w') as f:
+        f.write(cases_tio)
+    files = fdict["others"] + fdict["figs"] + fdict["required"]
     for f in files:
-        copyfile(BASE + os.sep + hook + os.sep + f, STUDENT + os.sep + hook + os.sep + f)
+        copyfile(BASE + os.sep + hook + os.sep + f, dest + os.sep + f)
 
+def update_prof(hook, name, cases_vpl, description_filtered, fdict):
+    dest = PROF + os.sep + hook
+    rmtree(dest, ignore_errors=True)
+    os.mkdir(dest)
+    with open(dest + os.sep + "p.html", 'w') as f:
+        f.write(description_filtered)
+    with open(dest + os.sep + "p.vpl", 'w') as f:
+        f.write(cases_vpl)
+    files = fdict["others"] + fdict["required"] + fdict["vpls"] + fdict["solvers"]
+    for f in files:
+        copyfile(BASE + os.sep + hook + os.sep + f, dest + os.sep + f)
 
 
 def update_all(hook):
+    print("making", hook)
     [index, name] = extract_index_name(BASE + os.sep + hook)
     pathReadme = BASE + os.sep + hook + os.sep + "Readme.md"
     
@@ -107,23 +122,25 @@ def update_all(hook):
 
     fdict = make_file_dict(hook)
 
-    cases = generate_cases([pathReadme] + fdict["tests"])
+    cases_vpl = generate_cases([pathReadme] + fdict["tests"], ".vpl")
+    cases_tio = generate_cases([pathReadme] + fdict["tests"], ".tio")
 
-    moodle = generate_json(hook, name, description_filtered, cases, fdict)
+    moodle = generate_json(hook, name, description_filtered, cases_vpl, fdict)
     with open(MOODLE + os.sep + hook + ".json", "w") as f:
         f.write(moodle)
 
-    update_student(hook, name, description, fdict)
+    update_student(hook, name, cases_tio, description, fdict)
+    update_prof(hook, name, cases_vpl, description_filtered, fdict)
     
     
-def generate_cases(infiles):
+def generate_cases(infiles, extension):
     tempDir = tempfile.TemporaryDirectory()
-    outfile = tempDir.name + os.sep + "t.vpl"
+    outfile = tempDir.name + os.sep + "t" + extension
     cmd = ["th", "build", outfile]
     for infile in infiles:
         if os.path.isfile(infile):
             cmd.append(infile)
-    cmd.append("-s")
+    cmd.append("-q")
     try:
         p = subprocess.Popen(cmd, stdout=PIPE, stderr=PIPE, universal_newlines=True)
         stdout, stderr = p.communicate()
@@ -164,9 +181,11 @@ def main():
     files = os.listdir(BASE)
     
     folders = [x for x in files if os.path.isdir(BASE + os.sep + x)]
-    print(folders)
     for f in folders:
-        update_json(f)
+        source = BASE + os.sep + f + os.sep + "Readme.md"
+        target = MOODLE + os.sep + f + ".json"
+        if not os.path.exists(target) or (os.path.getmtime(source) > os.path.getmtime(target)):
+            update_all(f)
 
 if __name__ == '__main__':
     main()

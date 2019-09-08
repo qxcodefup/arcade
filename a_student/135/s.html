@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@135 #06_mat L3 - Jogo da vida</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="mat-l3---jogo-da-vida"><span class="citation" data-cites="135">@135</span> #06_mat L3 - Jogo da vida</h2>
+<h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
+<p><img src="__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>O objetivo dessa atividade é gerar uma nova geração do jogo da vida.</p>
+<p>Regras:</p>
+<ul>
+<li>Qualquer célula viva com menos de dois vizinhos vivos morre de solidão.</li>
+<li>Qualquer célula viva com mais de três vizinhos vivos morre de superpopulação.</li>
+<li>Qualquer célula morta com exatamente três vizinhos vivos se torna uma célula viva.</li>
+<li>Qualquer célula viva com dois ou três vizinhos vivos continua no mesmo estado para a próxima geração.</li>
+</ul>
+<p>É importante entender que todos os nascimentos e mortes ocorrem simultaneamente. Juntos eles constituem uma geração ou, como podemos chamá-los, um “instante” na história da vida completa da configuração inicial. Mais informações: Procure sobre Jogo da vida na Wikipedia</p>
+<h3 id="entrada">Entrada</h3>
+<pre><code>- NL, NC, seguida da matriz de char
+- Na matriz, uma célula morta é representada com o char `.` e uma célula viva por `#`.</code></pre>
+<h3 id="saída">Saída</h3>
+<pre><code>- Próxima geração do jogo.</code></pre>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+4 8
+........
+........
+..####..
+........
+========
+........
+...##...
+...##...
+...##...
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+4 8
+......#.
+.##...#.
+.#.#..#.
+..#.....
+========
+........
+.##..###
+.#.#....
+..#.....
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+7 18
+..................
+.###..............
+.#................
+..#.............#.
+..............#.#.
+.....##........##.
+.....##...........
+========
+..#...............
+.##...............
+.#.#..............
+...............#..
+................##
+.....##........##.
+.....##...........
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h1 id="section"></h1>
+<!---
+>>>>>>>> 01
+7 16
+.......##.......
+.......##.......
+.#..#......#....
+#........#...#..
+#...#......####.
+####......#.....
+................
+========
+.......##.......
+.......##.......
+........#.......
+##........##.##.
+#.##......#####.
+####.......###..
+.##.............
+<<<<<<<<
+--->
+</body>
+</html>

@@ -1,0 +1,138 @@
+case=01
+input=1.00 1.00 8.00 8.01
+output="G
+"
+grade reduction=100%
+
+
+case=02
+input=10.00 0.01 10.01 0.01
+output="A
+"
+grade reduction=100%
+
+
+case=03
+input=2.15 3.17 19.34 18.22
+output="A
+"
+grade reduction=100%
+
+
+case=04
+input=3.90 3.80 19.01 19.99
+output="G
+"
+grade reduction=100%
+
+
+case=05
+input=4.15 3.17 16.64 19.22
+output="G
+"
+grade reduction=100%
+
+
+case=06
+input=1.15 3.02 9.02 8.92
+output="A
+"
+grade reduction=100%
+
+
+case=07
+input=9.15 9.17 9.43 8.76
+output="A
+"
+grade reduction=100%
+
+
+case=08
+input=9.15 9.76 1.37 1.44
+output="A
+"
+grade reduction=100%
+
+
+case=09
+input=9.85 8.71 1.76 1.94
+output="G
+"
+grade reduction=100%
+
+
+case=10
+input=3.77 3.61 10.43 11.88
+output="G
+"
+grade reduction=100%
+
+
+case=11
+input=0.30 0.31 19.02 19.99
+output="G
+"
+grade reduction=100%
+
+
+case=12
+input=1.20 2.30 10.00 16.00
+output="A
+"
+grade reduction=100%
+
+
+case=13
+input=1.37 1.76 1.76 1.35
+output="A
+"
+grade reduction=100%
+
+
+case=14
+input=1.00 1.00 2.00 2.00
+output="G
+"
+grade reduction=100%
+
+
+case=15
+input=0.01 0.01 20.00 20.00
+output="G
+"
+grade reduction=100%
+
+
+case=16
+input=0.02 0.01 20.00 20.00
+output="G
+"
+grade reduction=100%
+
+
+case=17
+input=0.01 0.02 20.00 20.00
+output="A
+"
+grade reduction=100%
+
+
+case=18
+input=10.00 0.01 20.00 20.00
+output="G
+"
+grade reduction=100%
+
+
+case=19
+input=0.01 10.00 20.00 20.00
+output="A
+"
+grade reduction=100%
+
+
+case=20
+input=10.00 0.01 10.00 0.01
+output="G
+"
+grade reduction=100%

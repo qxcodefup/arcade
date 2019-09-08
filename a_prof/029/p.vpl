@@ -1,0 +1,58 @@
+case=01
+input=a
+c
+d
+d
+output="Ja ouviu falar
+"
+grade reduction=100%
+
+
+case=02
+input=d
+a
+c
+d
+output="Super Fa
+"
+grade reduction=100%
+
+
+case=03
+input=b
+b
+b
+b
+output="Nunca assistiu
+"
+grade reduction=100%
+
+
+case=04
+input=d
+b
+b
+b
+output="Ja ouviu falar
+"
+grade reduction=100%
+
+
+case=05
+input=d
+b
+b
+d
+output="Interessado no assunto
+"
+grade reduction=100%
+
+
+case=06
+input=d
+b
+c
+d
+output="Fa
+"
+grade reduction=100%

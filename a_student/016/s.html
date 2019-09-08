@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@016 #03_rep L3 - Volta de 360 graus (Retirando os loops)</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="rep-l3---volta-de-360-graus-retirando-os-loops"><span class="citation" data-cites="016">@016</span> #03_rep L3 - Volta de 360 graus (Retirando os loops)</h2>
+<h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
+<p><img src="__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Aline: Ei André, minha vida deu uma volta de 360 graus. André: Vai pro colégio não tu? 360 graus volta pro mesmo lugar. Aline: Eu sei, é porque eu achei na rua uma carteira sem nenhum documento e cheia de dinheiro na rua. André: Então é 180 graus, mulher, tu agora tá estribada. Aline: Não, é 360 mesmo, eu levei a carteira pra casa. André: E????? Aline: Descobri que era do meu pai.</p>
+<hr />
+<h2 id="ação">Ação</h2>
+<figure>
+<img src="__angulos.png" alt="" /><figcaption>angulos</figcaption>
+</figure>
+<p>Nosso sistema de ângulos no plano cartesiano é definido em graus. O ângulo 0 aponta para esquerda, o 90 aponta para cima, o 180 para direita e por aí vai. O 360 graus equivale voltar ao 0.</p>
+<p>Seu objetivo é transformar os ângulos para recolocá-los dentro do cartesiano. O ângulo 361 equivale ao 1. Ângulos negativos equivalem a andar no sentido horário. Por exemplo, -1 equivale ao 355.</p>
+<p>Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano entre 0 e 355.</p>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 01
+0
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 02
+360
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 03
+361
+========
+1
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 04
+722
+========
+2
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 05
+-2
+========
+358
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 06
+-350
+========
+10
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h1 id="section"></h1>
+<!---
+>>>>>>>> 07
+-1
+========
+359
+<<<<<<<<
+
+
+>>>>>>>> 08
+362
+========
+2
+<<<<<<<<
+
+
+>>>>>>>> 09
+-360
+========
+0
+<<<<<<<<
+
+
+>>>>>>>> 10
+-361
+========
+359
+<<<<<<<<
+
+
+>>>>>>>> 11
+750
+========
+30
+<<<<<<<<
+
+
+>>>>>>>> 12
+-730
+========
+350
+<<<<<<<<
+
+
+>>>>>>>> 13
+1000
+========
+280
+<<<<<<<<
+
+
+>>>>>>>> 14
+-1300
+========
+140
+<<<<<<<<
+
+
+--->
+<hr />
+<h2 id="ajuda">Ajuda</h2>
+<p>Observe que recolocar o ângulo dentro da faixa equivale a uma operação de resto da divisão, ou como dizemos em computação, uma operação de módulo. Isso equivale a remover os loops.</p>
+<p>0 % 360 é  0<br />
+360 % 360 é 0<br />
+720 % 360 é 0<br />
+361 % 360 é 1<br />
+730 % 360 é 10</p>
+<p>Se o valor operado é positivo, a operação de módulo é suficiente para consertar. Se o valor é negativo, vamos precisar de uma correção.</p>
+<p>-1 é  359<br />
+-10 é 350<br />
+-350 é 10<br />
+-360 é 0<br />
+-370 é 350<br />
+-380 é 340</p>
+<p>A primeira coisa é recolocar remover as voltas completas, o que equivale a fazer o resto da divisão por 360. Em linguagem C, o valor sairia assim:</p>
+<p>-1 % 360 é -1<br />
+-10 % 360 é -10<br />
+-350 % 360 é -350<br />
+-360 % 360 é 0<br />
+-370 % 360 é -10<br />
+-380 % 360 é -20</p>
+<p>Perceba que nossos números negativos estão entre 0 e - 365. Para consertá-los, basta adicionar 360.</p>
+<p>-1 % 360 + 360 é 359<br />
+-10 % 360 + 360 é 350<br />
+-350 % 360 + 360 é 10<br />
+-360 % 360 é 0<br />
+-370 % 360 + 360 é 350<br />
+-380 % 360 + 360 é 340</p>
+<p>Para generalizar, nosso algoritmo fica assim:</p>
+<pre><code>leia angulo 
+ angulo = angulo % 360  # para retirar os loops
+ se angulo &lt; 0
+    angulo = angulo + 360 # para consertar os números negativos</code></pre>
+<hr />
+</body>
+</html>

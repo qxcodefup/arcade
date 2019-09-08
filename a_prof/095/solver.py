@@ -1,0 +1,5 @@
+texto = input()
+sub = input()
+texto = texto.lower()
+sub = sub.lower()
+print (texto.count(sub))

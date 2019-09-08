@@ -1,0 +1,63 @@
+case=01
+input=2
+3
+1 2 3
+4 5 6
+1 1 1
+2 2 2
+output="2 3 4
+6 7 8
+"
+grade reduction=100%
+
+
+case=02
+input=2
+1
+1
+2
+3
+4
+output="4
+6
+"
+grade reduction=100%
+
+
+case=03
+input=3
+3
+6 1 8
+0 7 5
+3 2 4
+1 6 0
+7 5 4
+3 8 2
+output="7 7 8
+7 12 9
+6 10 6
+"
+grade reduction=100%
+
+
+case=04
+input=1
+1
+2
+3
+output="5
+"
+grade reduction=100%
+
+
+case=05
+input=2
+2
+0 0
+0 0
+-1 0
+1 2
+output="-1 0
+1 2
+"
+grade reduction=100%

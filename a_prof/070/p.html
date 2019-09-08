@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@070 #04_vet L3 - Cabeças vão rolar</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="vet-l3---cabeças-vão-rolar"><span class="citation" data-cites="070">@070</span> #04_vet L3 - Cabeças vão rolar</h2>
+<h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
+<p><img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/070/__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Um grupo de N amigos decidem brincar de um esporte sangrento. O vencedor leva a princesa bonita pra sua casa.<br />
+Eles ficam em uma fila circular e escrevem em suas camisas números sequenciais onde o primeiro usa o número 1 e o último o número N.<br />
+A mocinha vendada então diz um número entre 1 e N.<br />
+O número escolhido pega a espada e decapita o companheiro da sua frente. Depois passa a espada para o próximo vivo que decapita o colega da frente.</p>
+<p>Assim continue até que só sobre um.<br />
+Highlander Mode On!</p>
+<p>Dica: Não faça isso em casa.</p>
+<h2 id="ação">Ação</h2>
+<p>Remova elementos intercaladamente em uma lista circular.</p>
+<p><strong>**Simulação**</strong></p>
+<p>Cinco pessoas e a princesa escolhe o 3.</p>
+<pre><code>1 2 3 4 5  : O 3 mata o 4 e a espada vai pro 5.  
+1 2 3 5     : O 5 mata o 1 e a espada vai pro 2.  
+2 3 5        : O 2 mata o 3 e a espada vai pro 5.  
+2 5           : O 5 mata o 2.  
+5  </code></pre>
+<p>Sobra o cinco.<br />
+Dica: Não faça isso em casa.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>O número N de participantes.<br />
+</li>
+<li>O número X do participante que inicia o jogo.</li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>O número do jogador vencedor.</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+5 
+3
+========
+5
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+6
+6
+========
+4
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h1 id="section"></h1>
+<!---
+>>>>>>>> 01
+5 3
+========
+5
+<<<<<<<<
+
+>>>>>>>> 02
+2 1
+========
+1
+<<<<<<<<
+
+>>>>>>>> 03
+3 2
+========
+1
+<<<<<<<<
+
+>>>>>>>> 04
+6 6
+========
+4
+<<<<<<<<
+
+>>>>>>>> 05
+16 2
+========
+2
+<<<<<<<<
+--->
+</body>
+</html>

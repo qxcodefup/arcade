@@ -1,0 +1,78 @@
+case=01
+input=0
+0
+0
+0
+output="nenhum
+"
+grade reduction=100%
+
+
+case=02
+input=0
+0
+2
+0
+output="jog2
+"
+grade reduction=100%
+
+
+case=03
+input=2
+2
+2
+2
+output="jog4
+"
+grade reduction=100%
+
+
+case=04
+input=1
+0
+0
+0
+output="jog1
+"
+grade reduction=100%
+
+
+case=05
+input=0
+3
+0
+0
+output="jog3
+"
+grade reduction=100%
+
+
+case=06
+input=1
+1
+1
+1
+output="jog4
+"
+grade reduction=100%
+
+
+case=07
+input=2
+1
+1
+1
+output="jog1
+"
+grade reduction=100%
+
+
+case=08
+input=2
+10
+1
+1
+output="jog2
+"
+grade reduction=100%

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@154 #06_mat L3 - OBI 2015 - Fase 2 - Nível Júnior - Código</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="mat-l3---obi-2015---fase-2---nível-júnior---código"><span class="citation" data-cites="154">@154</span> #06_mat L3 - OBI 2015 - Fase 2 - Nível Júnior - Código</h2>
+<h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
+<p><img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/154/__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Gabriel inventou um código para representar números naturais, usando uma sequência de zeros e uns. Funciona assim, o número natural é representado pela quantidade de vezes que o padrão “100” aparece na sequência. Por exemplo, na sequência 11101001010011110, o padrão aparece duas vezes; e na sequência 11101010111110111010101 ele não aparece nenhuma vez. Você deve ajudar Gabriel e implementar um programa que, dada a sequência de zeros e uns, calcule quantas vezes o padrão “100” aparece nela.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>A primeira linha da entrada contém um inteiro N, o tamanho da sequência. A segunda linha contém a sequência de N zeros e uns, separados por espaço em branco.</li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>Seu programa deve imprimir um inteiro, quantas vezes o padrão “100” aparece na sequência.</li>
+</ul>
+<h2 id="restrições">Restrições</h2>
+<ul>
+<li>3 ≤ N ≤ 104</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+17
+1 1 1 0 1 0 0 1 0 1 0 0 1 1 1 1 0
+========
+2
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+8
+1 1 1 1 0 1 1 1
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3
+1 0 0
+========
+1
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3
+0 1 0
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<!---
+>>>>>>>> 01
+10
+0 0 0 0 0 1 0 1 1 0
+========
+0
+<<<<<<<<
+
+
+>>>>>>>> 02
+10
+0 1 1 1 1 1 0 0 1 1
+========
+1
+<<<<<<<<
+
+
+>>>>>>>> 03
+10
+1 1 1 1 0 1 1 0 1 1
+========
+0
+<<<<<<<<
+
+
+>>>>>>>> 04
+10
+1 1 0 1 1 1 0 1 1 1
+========
+0
+<<<<<<<<
+
+
+>>>>>>>> 05
+10
+1 0 0 1 1 0 1 1 0 0
+========
+2
+<<<<<<<<
+
+
+>>>>>>>> 06
+100
+1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 0 1 0 1 0 0 1 1 1 0 0 1 1 0 0 1 0 0 1 0 1 0 1 0 1 0 0 0 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 0 1 1 0 0 0 1 1 1 1 1 1 0 0 1 0 1 1 1 0 0 0 0 1 0 1 1 0 1 0 0 1
+========
+13
+<<<<<<<<
+
+
+>>>>>>>> 07
+100
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 0 1 0 1 0 1 0 0 0 0 1 1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 0 0 1 0 1 0 1 1 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 0 0 0 0
+========
+6
+<<<<<<<<
+
+
+>>>>>>>> 08
+100
+0 0 0 1 1 1 1 0 0 1 0 0 1 1 1 0 1 1 1 1 0 0 0 0 1 0 1 1 0 0 1 1 1 1 1 1 0 0 0 1 1 0 1 1 1 1 1 0 0 1 0 0 1 1 1 0 1 0 1 1 0 0 0 0 1 0 0 0 0 1 0 1 1 1 1 1 0 0 1 1 1 1 1 0 0 0 0 1 1 0 0 0 1 1 0 0 1 1 1 1
+========
+13
+<<<<<<<<
+
+
+>>>>>>>> 09
+100
+0 1 1 1 1 0 1 0 1 0 1 0 0 0 0 1 0 1 0 0 1 0 0 1 1 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 1 0 1 0 1 1 1 1 1 0 0 1 1 0 1 0 0 0 1 1 0 0 1 0 1 0 1 0 0 0 0 1 0 1 0 1 1 0 0 0 1 0 1 1 1 0 1 1 0 0 1 0 0 1 1 0 1 0 1
+========
+12
+<<<<<<<<
+
+
+>>>>>>>> 10
+100
+1 0 0 1 1 1 1 0 0 0 0 1 0 0 1 1 1 0 1 1 1 1 0 1 0 0 0 1 0 1 0 1 1 0 0 1 0 1 1 1 0 1 1 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 1 0 0 1 1 1 1 1 0 1 1 1 0 1 0 1 0 1 1 0 0 1 0 0 0 1 0 0 1 1 1 1 0 1 0 0 0 0 1 0 0 0
+========
+15
+<<<<<<<<
+
+
+>>>>>>>> 11
+100
+0 1 1 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0 1 0 0 0 1 1 0 0 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 0 0 1 1 1 1 1 0 1 1 1 0 0 1 0 0 0 1 1 0 1 0 1 0 0 1 0 1 1 0 0 1 1 0 0 1 0 0 1 0 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0
+========
+16
+<<<<<<<<
+--->
+</body>
+</html>

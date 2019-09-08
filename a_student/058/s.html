@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@058 #03_rep L2 - Busca Intervalada</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="rep-l2---busca-intervalada"><span class="citation" data-cites="058">@058</span> #03_rep L2 - Busca Intervalada</h2>
+<h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
+<p><img src="__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>No jogo de amarelinha é necessário jogar a pedrinha no número certo. Não vale jogar no número maior nem no número menor. Pra ficar mais divertido, dois amigos decidiram reformular as regras do jogo permitindo jogar a pedrinha dentro do intervalo estabelecido. Funcionava, assim:</p>
+<p>- “João, joga, é tua vez. Entre 6 e 8. Vai. Vai maxu! Bora miséria. Deixa de olhar o Zap carniça.”</p>
+<p>Moral da história: maldito zap que não deixa mais o povo brincar de nada divertido!</p>
+<h2 id="ação">Ação</h2>
+<p>Dado uma lista de número e um intervalo, calcule quantas vezes um número cai dentro do intervalo fechado. Em um intervalo fechado os valores inferior e superior também fazem parte do intervalo.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li><p>Quantidade N de elementos do vetor.</p></li>
+<li><p>Limite inferior e limite superior.</p></li>
+<li><p>N números inteiros.</p></li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>Números inteiros que estão dentro do intervalo, incluindo os limites.</li>
+</ul>
+<h3 id="exemplos">Exemplos</h3>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+4
+1 3
+1 5 3 7
+========
+2
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+5
+3 5
+1 2 4 6 8
+========
+1
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+4
+3 5
+1 2 7 8
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h1 id="section"></h1>
+<!---
+
+>>>>>>>>
+4
+3 5
+1 2 3 4
+========
+2
+<<<<<<<<
+
+
+>>>>>>>>
+6
+4 8
+1 4 2 7 9 3
+========
+2
+<<<<<<<<
+
+
+>>>>>>>>
+10
+-2 2
+-4 -6 -2 -1 0 1 2 3 4 5
+========
+5
+<<<<<<<<
+
+--->
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@067 #04_vet L2 - Queda de dominós</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="vet-l2---queda-de-dominós"><span class="citation" data-cites="067">@067</span> #04_vet L2 - Queda de dominós</h2>
+<h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
+<p><img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/067/__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Deoclécio tem o passatempo de montar filas de dominós para derruba-las depois.Para fazer um efeito mais interessante, ele usa peças de dominó com tamanhos variados,<br />
+sempre colocando as menores peças no começo da fila.<br />
+Para ajudar nessa importante tarefa, Deo pediu sua ajuda para verificar se uma fila de dominós está dentro do padrão, ou seja, se os tamanhos dos dominós estão ordenados de forma crescente.</p>
+<h2 id="ação">Ação</h2>
+<p>Leia um vetor de tamanho n (quantidade de dominós) , e diga se ele está ordenado de forma crescente.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>O número <strong>n</strong> ( 0 &lt; <strong>n </strong>&lt;= 50) de dominós.<br />
+</li>
+<li>A altura (inteira) de cada dominó.</li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>“ok” caso caso vetor esteja ordenado.</li>
+<li>“precisa de ajuste” caso vetor esteja desordenado.</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+5
+1 2 3 4 4
+========
+ok
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+6
+2 4 2 6 8 10
+========
+precisa de ajuste
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+1
+2
+========
+ok
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<!---
+>>>>>>>> 01
+4
+1 1 2 3
+========
+ok
+<<<<<<<<
+
+>>>>>>>> 02
+5
+1 2 6 8 3
+========
+precisa de ajuste
+<<<<<<<<
+
+>>>>>>>> 03
+1
+500
+========
+ok
+<<<<<<<<
+
+>>>>>>>> 04
+8
+1 2 6 12 45 54 99 100
+========
+ok
+<<<<<<<<
+
+>>>>>>>> 05
+4
+2 3 4 1
+========
+precisa de ajuste
+<<<<<<<<
+
+--->
+<h3 id="dica">Dica</h3>
+<p>Um vetor <img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/067/__vetor.jpg" /> está ordenado de forma crescente se <img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/067/__condicao.jpg" />. Para todo elemento na posição <strong>[</strong> <strong>i ] </strong>temos que ele é menor que o elemento na posição posterior** [** <strong>i +1]</strong> . Ou seja, caso um elemento na posição <strong>[ i ]</strong> seja maior que seu vizinho da frente ( posição <strong>[</strong> <strong>i +1]</strong> ) o vetor não é ordenado.</p>
+<h1 id="section"></h1>
+</body>
+</html>

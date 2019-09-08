@@ -1,0 +1,26 @@
+case=01
+input=a  almofada ta muito  fofa
+output="a almofada ta muito fofa
+"
+grade reduction=100%
+
+
+case=02
+input=ai  bb cx
+output="ai bb cx
+"
+grade reduction=100%
+
+
+case=03
+input=aiu  bbk cxmp
+output="aiu bbk cxmp
+"
+grade reduction=100%
+
+
+case=04
+input=a  bola  ta furada
+output="a bola ta furada
+"
+grade reduction=100%

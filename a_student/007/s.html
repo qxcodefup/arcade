@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@007 #06_mat L3 - Tetris (Fazendo a peça cair)</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="mat-l3---tetris-fazendo-a-peça-cair"><span class="citation" data-cites="007">@007</span> #06_mat L3 - Tetris (Fazendo a peça cair)</h2>
+<h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
+<p><img src="__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Você com certeza já jogou tetris. Ele é o jogo mais vendido do mundo com 170 milhões de unidades. Seja no seu celular ou no mini game de 70 joguinhos em um da vovó, Tetris é imbatível.</p>
+<h2 id="ação">Ação</h2>
+<p>Você fai simular a queda de um única peça de Tetris. Verifique se a peça não está colidindo com nada e faça-a descer uma posição.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>1a linha: L C, sendo a quantidade de linhas e colunas do display. L, C tem valores em 1 e 20.</li>
+<li>linhas seguintes, o conteúdo do display com três caracteres apenas
+<ul>
+<li>. representa os espaços vazios</li>
+<li>o representa a peça que cai</li>
+<li># representam as peças que estão na base</li>
+</ul></li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>O resultado do display. Se a peça estiver em colisão, reimprima o display sem alteração.</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; bastao parado
+4 4
+.#.#
+.#o#
+##o#
+##o#
+========
+.#.#
+.#o#
+##o#
+##o#
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; u movel
+4 4
+ooo#
+o.o#
+o#o#
+.#.#
+========
+...#
+ooo#
+o#o#
+o#o#
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h1 id="section"></h1>
+<p>&lt;!— &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; L descendo 5 5 ….. ..ooo .#..o ###.. ##.## ======== ….. ….. .#ooo ###.o ##.## &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>barra parada 5 6 …… .ooooo .#…. .##..# ##.##. ======== …… .ooooo .#…. .##..# ##.##. &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>nave caindo 5 7 .##o.o. .##ooo# .#..o.# .##..#. ##.##.# ======== .##…. .##o.o# .#.ooo# .##.o#. ##.##.# &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; —!&gt;</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</body>
+</html>

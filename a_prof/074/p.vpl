@@ -1,0 +1,92 @@
+case=01
+input=4
+40 D
+41 E
+41 D
+40 E
+output="2
+"
+grade reduction=100%
+
+
+case=02
+input=6
+38 E
+39 E
+40 D
+38 D
+40 D
+37 E
+output="1
+"
+grade reduction=100%
+
+
+case=03
+input=10
+30 E
+31 E
+31 D
+31 E
+30 D
+31 D
+31 D
+31 E
+30 D
+31 D
+output="4
+"
+grade reduction=100%
+
+
+case=04
+input=10
+44 D
+40 E
+44 D
+43 E
+42 E
+40 D
+41 D
+42 D
+43 D
+43 E
+output="3
+"
+grade reduction=100%
+
+
+case=05
+input=10
+59 D
+59 E
+59 D
+60 D
+59 D
+60 D
+60 E
+59 E
+59 D
+60 D
+output="3
+"
+grade reduction=100%
+
+
+case=06
+input=12
+56 D
+59 D
+58 E
+56 D
+60 E
+56 D
+57 E
+59 E
+58 D
+56 D
+57 D
+60 E
+output="3
+"
+grade reduction=100%
