@@ -58,7 +58,7 @@ Faça um programa para imprimir o id do aluno com a maior nota.
 
 #
 
-<!------
+<!---
 >>>>>>>>
 2
 028888 047989
@@ -72,4 +72,4 @@ Faça um programa para imprimir o id do aluno com a maior nota.
 ========
 05
 <<<<<<<<
------!>
+--->

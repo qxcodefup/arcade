@@ -69,4 +69,4 @@ Você pode usar o operador de módulo para quebrar a parte da informação de vo
 ========
 00:01 01/10/00
 <<<<<<<<
--->
+--->
