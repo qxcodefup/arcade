@@ -26,33 +26,3 @@ input=3
 output="4.00
 "
 grade reduction=100%
-
-
-case=04
-input=7
-3
-4
--1
-output="5.00
-"
-grade reduction=100%
-
-
-case=05
-input=0
-0
-0
-0
-output="0.00
-"
-grade reduction=100%
-
-
-case=06
-input=47.88
-43.91
-34.8
-40.02
-output="13.65
-"
-grade reduction=100%

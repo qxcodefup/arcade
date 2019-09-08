@@ -17,17 +17,3 @@ input=os 2 irmãos de maria durmiram os ultimos 2 dias na casa de seus avós
 output="4
 "
 grade reduction=100%
-
-
-case=04
-input=02 x dhgh 111 b 2 c d xf 31
-output="146
-"
-grade reduction=100%
-
-
-case=05
-input=1 a x dhgh 11 b 2 c d xf 3
-output="17
-"
-grade reduction=100%

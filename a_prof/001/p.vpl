@@ -34,31 +34,3 @@ input=5.0
 output="nao ha raiz real
 "
 grade reduction=100%
-
-
-case=05
-input=1.0
--1.0
--20.0
-output="5.00
--4.00
-"
-grade reduction=100%
-
-
-case=06
-input=2.00
-0.00
-0.00
-output="0.00
-"
-grade reduction=100%
-
-
-case=07
-input=5.3
-3.4
-19.2
-output="nao ha raiz real
-"
-grade reduction=100%

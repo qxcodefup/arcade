@@ -24,15 +24,3 @@ output="MoRrA pReA
 BiGoDe ApArAdO
 "
 grade reduction=100%
-
-
-case=04
-input=3
-a Morra Prea
-g BigODE Aparado
-abcd ef
-output="a MoRrA pReA
-g BiGoDe ApArAdO
-aBcD eF
-"
-grade reduction=100%

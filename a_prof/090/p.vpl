@@ -17,24 +17,3 @@ input=2
 output="1
 "
 grade reduction=100%
-
-
-case=04
-input=3
-output="1
-"
-grade reduction=100%
-
-
-case=05
-input=4
-output="0
-"
-grade reduction=100%
-
-
-case=06
-input=9
-output="0
-"
-grade reduction=100%

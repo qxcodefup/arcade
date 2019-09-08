@@ -20,10 +20,3 @@ x
 output="0
 "
 grade reduction=100%
-
-
-case=04
-input=A Xuxa xogou xapatos no xacare Xato e xujo
-x
-output="7
-"

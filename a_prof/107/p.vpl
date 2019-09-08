@@ -23,21 +23,3 @@ ab
 output="a casa ta aberta
 "
 grade reduction=100%
-
-
-case=04
-input=o bobe!
-ab
-+
-output="o coce!
-"
-grade reduction=100%
-
-
-case=05
-input=o coce!
-ab
--
-output="o bobe!
-"
-grade reduction=100%

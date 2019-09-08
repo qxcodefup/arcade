@@ -208,7 +208,7 @@ def generate_html(title, infile):
 
 def main():
     files = os.listdir(BASE)
-    
+    files.sort()
     folders = [x for x in files if os.path.isdir(BASE + os.sep + x)]
     rmtree(LINKS, ignore_errors=True)
     os.mkdir(LINKS)

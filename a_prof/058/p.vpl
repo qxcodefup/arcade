@@ -23,30 +23,3 @@ input=4
 output="0
 "
 grade reduction=100%
-
-
-case=04
-input=4
-3 5
-1 2 3 4
-output="2
-"
-grade reduction=100%
-
-
-case=05
-input=6
-4 8
-1 4 2 7 9 3
-output="2
-"
-grade reduction=100%
-
-
-case=06
-input=10
--2 2
--4 -6 -2 -1 0 1 2 3 4 5
-output="5
-"
-grade reduction=100%

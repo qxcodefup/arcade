@@ -29,14 +29,3 @@ input=24
 output="00:01 01/01/76
 "
 grade reduction=100%
-
-
-case=04
-input=0
-1
-1
-10
-2000
-output="00:01 01/10/00
-"
-grade reduction=100%

@@ -24,24 +24,3 @@ input=a b c d a f
 output="nao
 "
 grade reduction=100%
-
-
-case=05
-input=ab a ba
-output="sim
-"
-grade reduction=100%
-
-
-case=06
-input=a amiga da minha vizinha zooume
-output="sim
-"
-grade reduction=100%
-
-
-case=07
-input=arrocha arregao
-output="sim
-"
-grade reduction=100%

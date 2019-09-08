@@ -36,11 +36,3 @@ roam
 output="sim
 "
 grade reduction=100%
-
-
-case=06
-input=pegasus
-susgae
-output="nao
-"
-grade reduction=100%

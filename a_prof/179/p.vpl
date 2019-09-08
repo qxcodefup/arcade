@@ -20,19 +20,3 @@ input=6
 output="05
 "
 grade reduction=100%
-
-
-case=04
-input=2
-028888 047989
-output="04
-"
-grade reduction=100%
-
-
-case=05
-input=5
-028888 047989 059999 072213 199989
-output="05
-"
-grade reduction=100%
