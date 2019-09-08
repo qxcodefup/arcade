@@ -8,6 +8,8 @@ import tempfile
 from shutil import copyfile
 from shutil import rmtree
 from subprocess import run, PIPE
+import unicodedata
+import string
 
 REMOTE_DATABASE = "https://raw.githubusercontent.com/qxcodefup/arcade/master/base"
 
@@ -15,17 +17,45 @@ BASE    = "base"
 PROF    = "a_prof"
 STUDENT = "a_student"
 MOODLE  = "a_moodle"
+LINKS   = "a_links"
+
+def strip_accents(text):
+    try:
+        text = unicode(text, 'utf-8')
+    except NameError: # unicode is a default on python 3 
+        pass
+    text = unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode("utf-8")
+    return str(text)
 
 
-def extract_index_name(target_dir):
-    with open(target_dir + os.sep + "Readme.md") as f:
+def filter_punct(title):
+    title = strip_accents(title).lower()
+    new_title = ""
+    for c in title:
+        if c in string.punctuation or c in string.whitespace:
+            new_title += "_"
+        else:
+            new_title += c
+    while "__" in new_title:
+        new_title = new_title.replace("__", "_")
+    if new_title.endswith("_"):
+        new_title = new_title[:-1]
+    return new_title
+
+def extract_name(hook):
+    with open(BASE + os.sep + hook + os.sep + "Readme.md") as f:
         words = f.readlines()[0].split(" ")
-        index = words[1][1:] #primeira palavra, retirando o @
-        name = " ".join(words[1:]) #retirando apenas o ##
-        return [index, name]
+        name = " ".join(words[1:])[:-1] #retirando apenas o ##
+        return name
 
 def replace_references_on_figures(text, remote_server):
     return text.replace('<img src="__', '<img src="' + remote_server + "/" + "__")
+
+def generate_link(hook, name):
+    print("link", hook)
+    print(name)
+    with open(LINKS + os.sep + name + ".md", "w") as f:
+        f.write("[LINK](.." + os.sep + BASE + os.sep + hook + os.sep + "Readme.md)\n")
 
 def generate_json(hook, name, description, cases, fdict):
     moodle = {}
@@ -112,13 +142,12 @@ def update_prof(hook, name, cases_vpl, description_filtered, fdict):
         copyfile(BASE + os.sep + hook + os.sep + f, dest + os.sep + f)
 
 
-def update_all(hook):
+def update_all(hook, name):
     print("making", hook)
-    [index, name] = extract_index_name(BASE + os.sep + hook)
     pathReadme = BASE + os.sep + hook + os.sep + "Readme.md"
     
     description = generate_html(name, pathReadme)
-    description_filtered = replace_references_on_figures(description, REMOTE_DATABASE + os.sep + index)
+    description_filtered = replace_references_on_figures(description, REMOTE_DATABASE + os.sep + hook)
 
     fdict = make_file_dict(hook)
 
@@ -181,11 +210,15 @@ def main():
     files = os.listdir(BASE)
     
     folders = [x for x in files if os.path.isdir(BASE + os.sep + x)]
-    for f in folders:
-        source = BASE + os.sep + f + os.sep + "Readme.md"
-        target = MOODLE + os.sep + f + ".json"
+    rmtree(LINKS, ignore_errors=True)
+    os.mkdir(LINKS)
+    for hook in folders:
+        source = BASE + os.sep + hook + os.sep + "Readme.md"
+        target = MOODLE + os.sep + hook + ".json"
+        name = extract_name(hook)
+        generate_link(hook, name)
         if not os.path.exists(target) or (os.path.getmtime(source) > os.path.getmtime(target)):
-            update_all(f)
+            update_all(hook, name)
 
 if __name__ == '__main__':
     main()
