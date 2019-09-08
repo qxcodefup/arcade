@@ -9,7 +9,8 @@ import configparser
 import subprocess
 from subprocess import run, PIPE
 SOURCE_FOLDER = "base"
-DESTIN_FOLDER = "auto"
+MOODLE_FOLDER = "moodle"
+
 REMOTE_DATABASE = "https://raw.githubusercontent.com/qxcodefup/arcade/master/base"
 
 class ItemGenerator:
@@ -117,36 +118,25 @@ class Itens:
         for item in self.itens:
             if item.index != item.hook:
                 print("warning: hook=", item.hook, "index=", item.index)
-
-    def update_hook_from_index(self):
-        changes = False
-        for item in self.itens:
-            if item.index != item.hook:
-                if os.path.isdir(SOURCE_FOLDER + os.sep + item.index):
-                    print("warning: cannot move hook", item.hook, "to", item.index)
-                else:
-                    os.rename(SOURCE_FOLDER + os.sep + item.hook, SOURCE_FOLDER + os.sep + item.index)
-                    #removing old html, title and vpl
-                    files = os.listdir(DESTIN_FOLDER) #getting files and directories
-                    filter_by_hook = [x for x in files if x.startswith("@" + item.hook)]
-                    for file in filter_by_hook:
-                        print("removing ", file)
-                        os.remove(DESTIN_FOLDER + os.sep + file)
-                    changes = True
-        return changes
         
+        data = []
+        with open(item.readme_path, "r") as f:
+            data = f.readlines()
 
-    def update_qxcode_link(self):
-        for item in self.itens:
-            data = []
-            #print(item)
-            with open(item.readme_path, "r") as f:
-                data = f.readlines()
-            if len(data) < 2 or data[1] != "## @qxcode\n":
-                data.insert(1, "## @qxcode\n")
-                with open(item.readme_path, "w") as f:
-                    print("adicionando @qxcode no arquivo", item.hook)
-                    f.write("".join(data))
+        if(len(data) == 0):
+            print("arquivo vazio on", item.hook)
+            exit(1)
+
+        if data[0].split(" ")[0] != "##":
+            print("primeira linha deve começar com ## em", item.hook)
+            exit(1)
+
+        if len(data) < 2 or data[1] != "## @qxcode\n":
+            data.insert(1, "## @qxcode\n")
+            with open(item.readme_path, "w") as f:
+                print("adicionando @qxcode no arquivo", item.hook)
+                f.write("".join(data))
+
 
     # update Readme.md
     def update_indices(self):
@@ -174,16 +164,13 @@ class Itens:
                 lista.sort(key=lambda x: x.filter_by_prefix("@"))
                 for item in lista:
                     f.write("- [" + item.filter_by_prefix("#@") + "](" + item.readme_path + "#qxcode" ")\n")       
-        
+"""     
     def generate_html_and_vpl(self):
         for item in self.itens:
             infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
-            #outfile = DESTIN_FOLDER + os.sep + item.hook  + ".b.html"
-            outfile = DESTIN_FOLDER + os.sep + item.fulltitle + ".html"
-
+            outfile = MOODLE_FOLDER + os.sep + item.fulltitle + ".html"
 
             if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
-            #if True:
                 print("updating html from hook", item.hook)
                 # adaptando titulo para execucao no bash
                 fulltitle = item.fulltitle.replace('!', '\\!').replace('?', '\\?')
@@ -209,7 +196,7 @@ class Itens:
 
         for item in self.itens:
             infile = SOURCE_FOLDER + os.sep + item.hook + os.sep + "Readme.md"
-            outfile = DESTIN_FOLDER + os.sep + '@' + item.hook + "_.vpl"
+            outfile = MOODLE_FOLDER + os.sep + '@' + item.hook + "_.vpl"
             if not os.path.exists(outfile) or (os.path.getmtime(infile) > os.path.getmtime(outfile)):
                 print("updating vpl from hook", item.hook)
                 cmd = "th build " + outfile + ' ' + infile
@@ -220,36 +207,24 @@ class Itens:
                         print(stderr)
                 except Exception as e:
                     print("Erro no comando th", e)
-
+"""
 def main():
     parser = argparse.ArgumentParser(prog='th.py')
     parser.add_argument('-s', action='store_true', help='set titles using names.txt')
     args = parser.parse_args()
-
-    config = configparser.ConfigParser()
-    config.read('config.ini')
-
-    global SOURCE_FOLDER
-    SOURCE_FOLDER = config['DEFAULT']['SOURCE_FOLDER']
 
     itens = Itens()
     if args.s:
         print("obtendo nomes do arquivo names.txt")
         itens.parse_from_names_file()
         itens.update_first_line()
-        changes = itens.update_hook_from_index()
-        if changes:
-            itens = Itens()
-            itens.parse_from_dirs()
-            itens.verify_integrity()
 
     else:
         print("obtendo nomes dos títulos dos arquivos")
         itens.parse_from_dirs()
-        itens.verify_integrity()
-
-    itens.generate_html_and_vpl()
-    itens.update_qxcode_link()
+    
+    itens.verify_integrity()
+    #itens.generate_html_and_vpl()
     itens.update_names_txt()
     itens.update_indices()
     print("all done")
