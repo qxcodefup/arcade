@@ -61,22 +61,3 @@ nao
 
 #
 
-<!---
->>>>>>>> 01
-ab a ba
-========
-sim
-<<<<<<<<
-
->>>>>>>> 02
-a amiga da minha vizinha zooume
-========
-sim
-<<<<<<<<
-
->>>>>>>> 03
-arrocha arregao
-========
-sim
-<<<<<<<<
---->

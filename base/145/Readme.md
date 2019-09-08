@@ -48,25 +48,3 @@ a
 
 #
 
-<!---
->>>>>>>> 01
-o rato roeu a roupa do rei de roma
-a
-========
-4
-<<<<<<<<
-
->>>>>>>> 02
-o rato roeu a roupa do rei de roma
-x
-========
-0
-<<<<<<<<
-
->>>>>>>> 03
-o rato roeu a roupa do rei de roma
-o
-========
-6
-<<<<<<<<
---->

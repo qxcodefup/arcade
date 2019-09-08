@@ -41,20 +41,4 @@ Utilize a seguinte fórmula para calcular a área de um triângulo a partir do t
 
 #
 
-<!---
->>>>>>>>
-12
-15
-13
-========
-74.83
-<<<<<<<<
 
->>>>>>>>
-3.4
-4.5
-5.1
-========
-7.51
-<<<<<<<<
---->

@@ -56,22 +56,3 @@ meteoro pegasus
 
 #
 
-<!---
->>>>>>>> 01
-a   almofada
-========
-a almofada
-<<<<<<<<
-
->>>>>>>> 02
-meteoro          pegasus
-========
-meteoro pegasus
-<<<<<<<<
-
->>>>>>>> 03
-galinha pintadinha
-========
-galinha pintadinha
-<<<<<<<<
---->

@@ -70,4 +70,3 @@ rebeldes
 
 #
 
-<!--- Todos os testes estão duplicados --->

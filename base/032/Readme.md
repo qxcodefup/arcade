@@ -71,55 +71,7 @@ Satisfeito
 
 #
 
-<!---
->>>>>>>>
-c
-90
-========
-Perfeito
-<<<<<<<<
 
-
->>>>>>>>
-c
-87
-========
-Fraco, nem passou
-<<<<<<<<
-
-
->>>>>>>>
-b
-120
-========
-Muito forte, bola fora
-<<<<<<<<
-
-
->>>>>>>>
-c
-127
-========
-Muito forte, bola fora
-<<<<<<<<
-
-
->>>>>>>>
-c
-115
-========
-Satisfeito
-<<<<<<<<
-
-
->>>>>>>>
-c
-50
-========
-Fraco, nem passou
-<<<<<<<<
-
---->
 
 ## Dicas
 

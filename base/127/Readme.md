@@ -45,25 +45,3 @@ rat
 
 #
 
-<!---
->>>>>>>> 01
-lua de cristal que me faz sonhar menos
-me
-========
-2
-<<<<<<<<
-
->>>>>>>> 02
-marquei um x no seu umbigo de zumbak
-um
-========
-3
-<<<<<<<<
-
->>>>>>>> 03
-super golpe de kungfu
-kungfu
-========
-1
-<<<<<<<<
---->

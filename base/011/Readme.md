@@ -59,14 +59,3 @@ Você pode usar o operador de módulo para quebrar a parte da informação de vo
 
 ---
 
-<!---
->>>>>>>> 03
-0
-1
-1
-10
-2000
-========
-00:01 01/10/00
-<<<<<<<<
---->

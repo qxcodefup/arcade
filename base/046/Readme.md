@@ -53,4 +53,3 @@ Dados dois número A e B, com A sempre menor que B, gere a sequencia que o jogad
 
 #
 
-<!--- os testes no .vpl estavam todos duplicados --->

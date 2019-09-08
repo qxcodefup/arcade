@@ -54,16 +54,3 @@ SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
 
 #
 
-<!---
->>>>>>>> 01
-Solte essa faca ou eu arranco suas tripas no dente
-========
-SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente
-<<<<<<<<
-
->>>>>>>> 02
-Nao se bula ou eu te mato
-========
-Nao se bububula ou eu te mamamato
-<<<<<<<<
---->

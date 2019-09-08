@@ -70,12 +70,3 @@ reprovado na final
 
 #
 
-<!---
->>>>>>>>
-4
-8
-3.99
-========
-reprovado na final
-<<<<<<<<
---->

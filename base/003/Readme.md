@@ -43,20 +43,3 @@ Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em
 
 #
 
-<!---
->>>>>>>> moto
-65
-45
-2.5
-========
-19.50
-<<<<<<<<
-
->>>>>>>> opala
-120
-50
-20.4
-========
-4.90
-<<<<<<<<
---->

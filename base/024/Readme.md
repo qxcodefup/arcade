@@ -42,50 +42,7 @@ Aprenda a fazer divisão inteira e quebrada.
 
 #
 
-<!---
->>>>>>>> 
 
-7
-3
-========
-2
-1
-2.33
-<<<<<<<<
-
-
->>>>>>>> 
-
-6
-3
-========
-2
-0
-2.00
-<<<<<<<<
-
-
->>>>>>>>
-
-5
-2
-========
-2
-1
-2.50
-<<<<<<<<
-
-
->>>>>>>>
-
-4
-10
-========
-0
-4
-0.40
-<<<<<<<<
---->
 ## Dica
 
 Lembre de fazer os **casts** ou arredondamentos para conseguir divisão inteira ou quebrada.

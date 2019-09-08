@@ -74,4 +74,3 @@ Jedi
 
 #
 
-<!--- os testes do .vpl são os mesmos do Readme.md --->

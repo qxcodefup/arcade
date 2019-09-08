@@ -55,18 +55,3 @@ Também é muito importante que você aprenda como sua linguagem pode fazer a or
 
 #
 
-<!---
->>>>>>>> 01
-5
-6 -3 10 9 1
-========
--3 1 6 9 10
-<<<<<<<<
-
->>>>>>>> 02
-6
-3 3 1 1 0 2
-========
-0 1 1 2 3 3
-<<<<<<<<
---->

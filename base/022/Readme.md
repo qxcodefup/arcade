@@ -48,20 +48,4 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 
 #
 
-<!---
->>>>>>>> 04
-40
-10
-========
-1
-<<<<<<<<
 
-
->>>>>>>> 05
-10
-5
-========
-1
-<<<<<<<<
-
---->

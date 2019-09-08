@@ -88,4 +88,3 @@ hora de partir
 
 #
 
-<!--- os testes no .vpl são os mesmos do Readme.md --->

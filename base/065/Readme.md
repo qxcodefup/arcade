@@ -55,18 +55,3 @@ Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcula
 
 #
 
-<!---
->>>>>>>> 01
-200
-1
-========
-60
-<<<<<<<<
-
->>>>>>>> 02
-500
-100
-========
-185
-<<<<<<<<
---->

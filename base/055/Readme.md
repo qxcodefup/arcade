@@ -48,4 +48,3 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 
 #
 
-<!--- Todos os testes estavam duplicados --->

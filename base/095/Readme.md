@@ -54,11 +54,3 @@ x
 
 #
 
-<!---
->>>>>>>> 01 !%
-A Xuxa xogou xapatos no xacare Xato e xujo
-x
-========
-7
-<<<<<<<<
---->

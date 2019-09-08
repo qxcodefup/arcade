@@ -58,19 +58,4 @@ Faça uma função que ajude o capoeirista a inverter um vetor passado na entrad
 
 #
 
-<!---
->>>>>>>> 05
-6
-1 2 3 4 5 0
-========
-[ 0 5 4 3 2 1 ]
-<<<<<<<<
 
-
->>>>>>>> 06
-5
-1 2 3 5 4
-========
-[ 4 5 3 2 1 ]
-<<<<<<<<
---->

@@ -70,4 +70,3 @@ z
 ```
 
 #
-<!--- Todos os testes estão duplicados --->

@@ -80,47 +80,7 @@ Super Fa
 
 #
 
-<!---
 
->>>>>>>>
-b
-b
-b
-b
-========
-Nunca assistiu
-<<<<<<<<
-
-
->>>>>>>>
-d
-b
-b
-b
-========
-Ja ouviu falar
-<<<<<<<<
-
-
->>>>>>>>
-d
-b
-b
-d
-========
-Interessado no assunto
-<<<<<<<<
-
-
->>>>>>>>
-d
-b
-c
-d
-========
-Fa
-<<<<<<<<
---->
 Autor: Bruno Góes
 
 ---

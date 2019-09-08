@@ -57,15 +57,3 @@ BiGoDe ApArAdO
 
 #
 
-<!---
->>>>>>>> 01
-3
-a Morra Prea
-g BigODE Aparado
-abcd ef
-========
-a MoRrA pReA
-g BiGoDe ApArAdO
-aBcD eF
-<<<<<<<<
---->
