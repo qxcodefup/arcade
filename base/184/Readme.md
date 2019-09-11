@@ -1,4 +1,4 @@
-## @184 #11_cla L3 - Motivando a turma de secundaristas
+## #11_cla L3 - Motivando a turma de secundaristas
 ## @qxcode
 
 Cuidado: Baseado em fatos reais!

@@ -1,4 +1,4 @@
-## @126 #05_str L2 - Crushômetro
+## #05_str L2 - Crushômetro
 ## @qxcode
 
 ![](__capa.jpg)

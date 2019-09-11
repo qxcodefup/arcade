@@ -1,4 +1,4 @@
-## @066 #03_rep L3 - Spok Palíndromo
+## #03_rep L3 - Spok Palíndromo
 ## @qxcode
 
 ![](__capa.jpg)
@@ -30,29 +30,28 @@ Ex: 121 é palíndromo pois seu inverso é 121.
 ## Exemplo
 ```
 >>>>>>>>
-121  
+121
 ========  
 1
 <<<<<<<<
 
 >>>>>>>>
-123  
-========
-0
-<<<<<<<<
-
->>>>>>>>
-121
-========
-1
-<<<<<<<<
-
->>>>>>>>
-122
+123
 ========
 0
 <<<<<<<<
 ```
 
-#
+## Dicas
 
+Você pode usar as operações de módulo e divisão para decompor o número
+Com os dígitos "arrancados", você pode formar um novo número utilizando multiplicação e soma
+```py
+num = int(input())
+novo = 0
+while num > 0:
+    dig = num % 10
+    num = int(num / 10)
+    novo = novo * 10 + dig
+print(novo)
+```

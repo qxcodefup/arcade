@@ -1,4 +1,4 @@
-## @010 #04_vet L3 - Bolinhas viciadas(contagem de repetições)
+## #04_vet L3 - Bolinhas viciadas(contagem de repetições)
 ## @qxcode
 
 ![](__capa.jpg)

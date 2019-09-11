@@ -1,4 +1,4 @@
-## @030 #02_sel L2 - Mercantil V1
+## #02_sel L2 - Mercantil V1
 ## @qxcode
 
 ![](__capa.jpg)

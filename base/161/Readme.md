@@ -1,4 +1,4 @@
-## @161 #03_rep L3 - Vivo ou Morto - OBI 2005
+## #03_rep L3 - Vivo ou Morto - OBI 2005
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## @034 #02_sel L3 - Formiga da bundona
+## #02_sel L3 - Formiga da bundona
 ## @qxcode
 
 ## Motivação

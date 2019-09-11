@@ -1,4 +1,4 @@
-## @109 #05_str L2 - Eribelton e a Ascologia V2 - Buscando a perfeição
+## #05_str L2 - Eribelton e a Ascologia V2 - Buscando a perfeição
 ## @qxcode
 
 ![](__capa.jpg)

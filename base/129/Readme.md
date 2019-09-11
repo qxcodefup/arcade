@@ -1,4 +1,4 @@
-## @129 #06_mat L3 - Campo Minado
+## #06_mat L3 - Campo Minado
 ## @qxcode
 
 ![](__capa.jpg)

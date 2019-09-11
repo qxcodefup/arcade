@@ -1,4 +1,4 @@
-## @029 #02_sel L2 - Quiz do Harry Potter
+## #02_sel L2 - Quiz do Harry Potter
 ## @qxcode
 
 ![](__capa.jpg)

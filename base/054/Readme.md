@@ -1,4 +1,4 @@
-## @054 #03_rep L3 - Quebrador de Copos
+## #03_rep L3 - Quebrador de Copos
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## @081 #04_vet L3 - Loucura de Marquinhos - Decompor um inteiro
+## #04_vet L3 - Loucura de Marquinhos - Decompor um inteiro
 ## @qxcode
 
 ![](__capa.jpg)

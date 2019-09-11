@@ -1,4 +1,4 @@
-## @090 #04_vet L2 - Primo
+## #04_vet L2 - Primo
 ## @qxcode
 
 ![](__capa.jpg)

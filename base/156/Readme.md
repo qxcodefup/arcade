@@ -1,4 +1,4 @@
-## @156 #02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Jogo de par ou ímpar
+## #02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Jogo de par ou ímpar
 ## @qxcode
 
 ![](__capa.jpg)

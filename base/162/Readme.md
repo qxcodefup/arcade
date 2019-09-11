@@ -1,4 +1,4 @@
-## @162 #03_vet L3 - Mini-Poker - OBI2005
+## #04_vet L3 - Mini-Poker - OBI2005
 ## @qxcode
 
 ![](__capa.jpg)

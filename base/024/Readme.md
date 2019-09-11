@@ -1,4 +1,4 @@
-## @024 #02_sel L1 - Divisão Inteira e Quebrada
+## #02_sel L1 - Divisão Inteira e Quebrada
 ## @qxcode
 
 ![](__capa.jpg)

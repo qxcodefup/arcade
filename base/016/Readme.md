@@ -1,4 +1,4 @@
-## @016 #03_rep L3 - Volta de 360 graus (Retirando os loops)
+## #03_rep L2 - Volta de 360 graus (Retirando os loops)
 ## @qxcode
 
 ![](__capa.jpg)
@@ -64,10 +64,6 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 10
 <<<<<<<<
 ```
-
-#
-
-
 
 ---
 

@@ -1,4 +1,4 @@
-## @118 #05_str L3 - Aniquilando Ultrons V3
+## #05_str L3 - Aniquilando Ultrons V3
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## @141 #07_rec L2 - Números de Fibonacci
+## #07_rec L2 - Números de Fibonacci
 ## @qxcode
 
 ![](__capa.jpg)

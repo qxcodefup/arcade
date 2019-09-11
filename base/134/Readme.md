@@ -1,4 +1,4 @@
-## @134 #06_mat L2 - Quadrado Mágico
+## #06_mat L2 - Quadrado Mágico
 ## @qxcode
 
 ![](__capa.jpg)

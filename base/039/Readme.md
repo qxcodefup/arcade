@@ -1,4 +1,4 @@
-## @039 #02_sel L3 - Mercantil V2
+## #02_sel L3 - Mercantil V2
 ## @qxcode
 
 ![Silvio Santos](__capa.jpg)

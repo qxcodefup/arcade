@@ -1,4 +1,4 @@
-## @077 #04_vet L3 - Mercantil V3
+## #04_vet L3 - Mercantil V3
 ## @qxcode
 
 ![](__capa.jpg)

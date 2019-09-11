@@ -1,4 +1,4 @@
-## @181 #05_str L2 - Somando numeros
+## #05_str L2 - Somando numeros
 ## @qxcode
 
 ![](__capa.jpg)

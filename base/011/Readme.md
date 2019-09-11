@@ -1,4 +1,4 @@
-## @011 #01_ope L1 - Formatando data (Zeros à esquerda)
+## #01_ope L1 - Formatando data (Zeros à esquerda)
 ## @qxcode
 
 ![](__capa.jpg)

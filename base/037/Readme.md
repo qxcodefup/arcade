@@ -1,4 +1,4 @@
-## @037 #02_sel L3 - Jokenpo 15
+## #02_sel L3 - Jokenpo 15
 ## @qxcode
 
 ## Motivação

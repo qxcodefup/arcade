@@ -1,4 +1,4 @@
-## @013 #03_rep L1 - Dividindo pares de sapatos pra três
+## #03_rep L1 - Dividindo pares de sapatos pra três
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## @123 #05_str L3 - Sorvete suor casaca chicletes - Letras em Comum!
+## #05_str L3 - Sorvete suor casaca chicletes - Letras em Comum!
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## @155 #02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Plantação de Morangos!
+## #02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Plantação de Morangos!
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## @044 #03_rep L1 - Somatório V2
+## #03_rep L1 - Somatório V2
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## @070 #04_vet L3 - Cabeças vão rolar
+## #04_vet L3 - Cabeças vão rolar
 ## @qxcode
 
 ![](__capa.jpg)

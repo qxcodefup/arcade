@@ -1,4 +1,4 @@
-## @157 #02_sel L3 - Frota de Táxi - OBI 2005
+## #02_sel L3 - Frota de Táxi - OBI 2005
 ## @qxcode
 
 ![](__capa.jpg)

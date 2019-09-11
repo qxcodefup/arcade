@@ -1,4 +1,4 @@
-## @177 #05_str L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
+## #05_str L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
 ## @qxcode
 
 ![](__capa.jpg)

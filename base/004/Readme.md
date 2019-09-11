@@ -1,4 +1,4 @@
-## @004 #01_ope L3 - Mete bala (Distância entre dois pontos)
+## #01_ope L3 - Mete bala (Distância entre dois pontos)
 ## @qxcode
 
 ![](__capa.jpg)

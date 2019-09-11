@@ -70,7 +70,8 @@
 - [L2 - Castelos de Cubos](base/050/Readme.md#qxcode)
 - [L2 - Jogo da Concentração](base/046/Readme.md#qxcode)
 - [L2 - Revolta em Portugal](base/057/Readme.md#qxcode)
-- [L2 - Sapinho no Poço](base/049/Readme.md#qxcode)
+- [L2 - Sapinho 1 no Poço](base/049/Readme.md#qxcode)
+- [L2 - Volta de 360 graus (Retirando os loops)](base/016/Readme.md#qxcode)
 - [L2 - Ônibus lotado](base/047/Readme.md#qxcode)
 - [L3 - Arremesso de pedra na lua](base/051/Readme.md#qxcode)
 - [L3 - Bafo - OBI 2005](base/160/Readme.md#qxcode)
@@ -79,16 +80,11 @@
 - [L3 - Hoje tem sopa de coelho?](base/052/Readme.md#qxcode)
 - [L3 - OBI 2016 - Fuga em helicóptero](base/053/Readme.md#qxcode)
 - [L3 - Quebrador de Copos](base/054/Readme.md#qxcode)
-- [L3 - Sapinho matemático não morrendo no poço](base/065/Readme.md#qxcode)
-- [L3 - Sapinho morrendo no poço](base/059/Readme.md#qxcode)
+- [L3 - Sapinho 2 morrendo no poço](base/059/Readme.md#qxcode)
+- [L3 - Sapinho 3 matemático não morrendo no poço](base/065/Readme.md#qxcode)
 - [L3 - Spok Palíndromo](base/066/Readme.md#qxcode)
 - [L3 - Trilhas - OBI 2005](base/158/Readme.md#qxcode)
 - [L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md#qxcode)
-- [L3 - Volta de 360 graus (Retirando os loops)](base/016/Readme.md#qxcode)
-
-## 03_vet
-
-- [L3 - Mini-Poker - OBI2005](base/162/Readme.md#qxcode)
 
 ## 04_vet
 
@@ -116,6 +112,7 @@
 - [L3 - Loucura de Marquinhos - Decompor um inteiro](base/081/Readme.md#qxcode)
 - [L3 - MMC de vários números.](base/139/Readme.md#qxcode)
 - [L3 - Mercantil V3](base/077/Readme.md#qxcode)
+- [L3 - Mini-Poker - OBI2005](base/162/Readme.md#qxcode)
 - [L3 - Mário e o Assassins Creed - Parkour](base/071/Readme.md#qxcode)
 - [L3 - OBI 2017 - Fase 1 - Botas Trocadas](base/074/Readme.md#qxcode)
 - [L3 - OBI 2017 - Fase 1 - O segredo do Cofre](base/076/Readme.md#qxcode)

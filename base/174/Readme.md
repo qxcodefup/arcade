@@ -1,4 +1,4 @@
-## @174 #05_str L1 - Valdiskey e a cifra V1!
+## #05_str L1 - Valdiskey e a cifra V1!
 ## @qxcode
 
 ![](__capa.jpg)

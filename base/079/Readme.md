@@ -1,4 +1,4 @@
-## @079 #04_vet L3 - Jogo do Avesso V2
+## #04_vet L3 - Jogo do Avesso V2
 ## @qxcode
 
 ![](__capa.jpg)
