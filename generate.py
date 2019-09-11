@@ -46,7 +46,7 @@ def extract_name(hook):
     with open(BASE + os.sep + hook + os.sep + "Readme.md") as f:
         words = f.readlines()[0].split(" ")
         name = " ".join(words[1:])[:-1] #retirando apenas o ##
-        return name
+        return "@" + hook + " " + name
 
 def replace_references_on_figures(text, remote_server):
     return text.replace('<img src="__', '<img src="' + remote_server + "/" + "__")
