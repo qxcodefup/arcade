@@ -1,4 +1,4 @@
-case=01
+case=00
 input=O ovomaltine e GOSTOSO
 output="o OVOMALTINE E gostoso
 "
@@ -6,14 +6,14 @@ grade reduction=100%
 
 
 case=02
-input=Paralelepipedarte-ei se NAO me passar a CARTEIRA
-output="pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
+input=1, Dois, 3 Indiozinhos
+output="1, dOIS, 3 iNDIOZINHOS
 "
 grade reduction=100%
 
 
-case=03
-input=1, Dois, 3 Indiozinhos
-output="1, dOIS, 3 iNDIOZINHOS
+case=01
+input=Paralelepipedarte-ei se NAO me passar a CARTEIRA
+output="pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
 "
 grade reduction=100%

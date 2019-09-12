@@ -1,4 +1,4 @@
-case=01
+case=00
 input=a
 +
 a
@@ -7,7 +7,7 @@ output="a
 grade reduction=100%
 
 
-case=02
+case=01
 input=b
 +
 d
@@ -16,7 +16,7 @@ output="e
 grade reduction=100%
 
 
-case=03
+case=02
 input=z
 +
 c
@@ -25,7 +25,7 @@ output="b
 grade reduction=100%
 
 
-case=04
+case=03
 input=f
 -
 d
@@ -34,7 +34,7 @@ output="c
 grade reduction=100%
 
 
-case=05
+case=04
 input=b
 -
 c
@@ -43,7 +43,7 @@ output="z
 grade reduction=100%
 
 
-case=06
+case=05
 input=b
 +
 b

@@ -1,12 +1,20 @@
-case=01
-input=paralelepipedo
-pepidoelelapar
+case=04
+input=amor
+roam
 output="sim
 "
 grade reduction=100%
 
 
 case=02
+input=batata
+tabata
+output="sim
+"
+grade reduction=100%
+
+
+case=01
 input=rocicleia
 licioreca
 output="sim
@@ -15,14 +23,6 @@ grade reduction=100%
 
 
 case=03
-input=batata
-tabata
-output="sim
-"
-grade reduction=100%
-
-
-case=04
 input=borboleta
 brobuleta
 output="nao
@@ -30,9 +30,9 @@ output="nao
 grade reduction=100%
 
 
-case=05
-input=amor
-roam
+case=00
+input=paralelepipedo
+pepidoelelapar
 output="sim
 "
 grade reduction=100%

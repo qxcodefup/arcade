@@ -1,4 +1,4 @@
-case=01
+case=00
 input=5
 2
 /
@@ -7,7 +7,7 @@ output="2
 grade reduction=100%
 
 
-case=02
+case=01
 input=3
 5
 +
@@ -16,7 +16,7 @@ output="8
 grade reduction=100%
 
 
-case=03
+case=02
 input=7
 9
 /

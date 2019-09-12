@@ -1,4 +1,4 @@
-case=01
+case=00
 input=3 5
 81 28 240 10 1
 40 10 100 240 4
@@ -8,7 +8,7 @@ output="451
 grade reduction=100%
 
 
-case=02
+case=01
 input=9 9
 2 1 1 1 1 1 1 1 2
 1 2 1 1 1 1 1 2 1
@@ -24,7 +24,7 @@ output="13
 grade reduction=100%
 
 
-case=03
+case=02
 input=10 10
 3 5 5 5 5 5 5 5 5 5
 3 1 1 1 1 1 1 1 1 5

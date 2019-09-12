@@ -1,4 +1,12 @@
-case=01
+case=02
+input=4
+5939
+output="0
+"
+grade reduction=100%
+
+
+case=00
 input=2
 99102030
 output="1
@@ -6,7 +14,7 @@ output="1
 grade reduction=100%
 
 
-case=02
+case=01
 input=9
 44902391
 output="2
@@ -15,14 +23,6 @@ grade reduction=100%
 
 
 case=03
-input=4
-5939
-output="0
-"
-grade reduction=100%
-
-
-case=04
 input=0
 51007140
 output="3

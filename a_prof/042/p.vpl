@@ -1,4 +1,4 @@
-case=01
+case=00
 input=12
 15
 17
@@ -7,7 +7,7 @@ output="P M G
 grade reduction=100%
 
 
-case=02
+case=01
 input=11
 17
 12
@@ -16,7 +16,7 @@ output="P G M
 grade reduction=100%
 
 
-case=03
+case=02
 input=14
 13
 12

@@ -1,4 +1,13 @@
-case=01
+case=03
+input=2
+10 8
+9 13
+output="sem ganhador
+"
+grade reduction=100%
+
+
+case=00
 input=2
 8 11
 10 15
@@ -7,7 +16,7 @@ output="1
 grade reduction=100%
 
 
-case=02
+case=01
 input=3
 9 12
 11 13
@@ -17,20 +26,11 @@ output="2
 grade reduction=100%
 
 
-case=03
+case=02
 input=3
 12 15
 16 14
 10 9
 output="1
-"
-grade reduction=100%
-
-
-case=04
-input=2
-10 8
-9 13
-output="sem ganhador
 "
 grade reduction=100%

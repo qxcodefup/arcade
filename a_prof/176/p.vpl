@@ -1,4 +1,4 @@
-case=01
+case=00
 input=Coralina
 0
 4
@@ -7,7 +7,7 @@ output="Cora
 grade reduction=100%
 
 
-case=02
+case=01
 input=Power Ranger
 4
 20

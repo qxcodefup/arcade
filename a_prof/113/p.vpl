@@ -1,4 +1,4 @@
-case=01
+case=00
 input=e
 output="0
 ec
@@ -7,7 +7,7 @@ ec
 grade reduction=100%
 
 
-case=02
+case=01
 input=d
 output="0
 d
@@ -16,7 +16,7 @@ d
 grade reduction=100%
 
 
-case=03
+case=02
 input=Aga
 output="15
 Agaa
@@ -25,7 +25,7 @@ Agaa
 grade reduction=100%
 
 
-case=04
+case=03
 input=Rufus
 output="33
 Rufuzu
@@ -34,7 +34,7 @@ Rufuzu
 grade reduction=100%
 
 
-case=05
+case=04
 input=Ariates
 output="13
 Ariatesa

@@ -1,20 +1,4 @@
-case=01
-input=sponge
-gun
-output="jog1
-"
-grade reduction=100%
-
-
 case=02
-input=air
-scissors
-output="jog2
-"
-grade reduction=100%
-
-
-case=03
 input=gun
 gun
 output="empate
@@ -22,7 +6,7 @@ output="empate
 grade reduction=100%
 
 
-case=04
+case=03
 input=air
 gun
 output="jog1
@@ -30,7 +14,7 @@ output="jog1
 grade reduction=100%
 
 
-case=05
+case=04
 input=fire
 air
 output="jog2
@@ -38,7 +22,15 @@ output="jog2
 grade reduction=100%
 
 
-case=06
+case=00
+input=sponge
+gun
+output="jog1
+"
+grade reduction=100%
+
+
+case=05
 input=water
 human
 output="jog2
@@ -46,17 +38,25 @@ output="jog2
 grade reduction=100%
 
 
-case=07
-input=scissors
-paper
-output="jog1
+case=01
+input=air
+scissors
+output="jog2
 "
 grade reduction=100%
 
 
-case=08
+case=07
 input=sponge
 human
 output="jog2
+"
+grade reduction=100%
+
+
+case=06
+input=scissors
+paper
+output="jog1
 "
 grade reduction=100%

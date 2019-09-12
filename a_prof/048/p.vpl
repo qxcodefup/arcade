@@ -1,4 +1,4 @@
-case=01
+case=00
 input=2
 1 1
 output="Empate
@@ -6,7 +6,7 @@ output="Empate
 grade reduction=100%
 
 
-case=02
+case=01
 input=2
 2 1
 output="Jedi
@@ -14,7 +14,7 @@ output="Jedi
 grade reduction=100%
 
 
-case=03
+case=02
 input=2
 2 4
 output="Sith
@@ -22,7 +22,7 @@ output="Sith
 grade reduction=100%
 
 
-case=04
+case=03
 input=4
 2 4 5 3
 output="Sith
@@ -30,7 +30,7 @@ output="Sith
 grade reduction=100%
 
 
-case=05
+case=04
 input=6
 2 4 3 3 3 3
 output="Empate
@@ -38,7 +38,7 @@ output="Empate
 grade reduction=100%
 
 
-case=06
+case=05
 input=8
 2 4 3 4 3 3 3 2
 output="Jedi

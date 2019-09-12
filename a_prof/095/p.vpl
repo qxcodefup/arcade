@@ -1,12 +1,4 @@
 case=01
-input=A Andreia alimentou a avestruz com alcaparras
-a
-output="10
-"
-grade reduction=100%
-
-
-case=02
 input=A Andreia atirou alcachofras no LEAO
 e
 output="2
@@ -14,9 +6,17 @@ output="2
 grade reduction=100%
 
 
-case=03
+case=02
 input=A Andreia atirou alcachofras no leao
 x
 output="0
+"
+grade reduction=100%
+
+
+case=00
+input=A Andreia alimentou a avestruz com alcaparras
+a
+output="10
 "
 grade reduction=100%

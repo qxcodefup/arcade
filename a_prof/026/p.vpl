@@ -1,4 +1,4 @@
-case=01
+case=00
 input=5
 output="positivo
 "
@@ -6,14 +6,14 @@ grade reduction=100%
 
 
 case=02
-input=-1
-output="negativo
+input=0
+output="nulo
 "
 grade reduction=100%
 
 
-case=03
-input=0
-output="nulo
+case=01
+input=-1
+output="negativo
 "
 grade reduction=100%

@@ -1,18 +1,5 @@
 case=01
 input=2
-3
-1 2 3
-4 5 6
-1 1 1
-2 2 2
-output="2 3 4
-6 7 8
-"
-grade reduction=100%
-
-
-case=02
-input=2
 1
 1
 2
@@ -20,5 +7,18 @@ input=2
 4
 output="4
 6
+"
+grade reduction=100%
+
+
+case=00
+input=2
+3
+1 2 3
+4 5 6
+1 1 1
+2 2 2
+output="2 3 4
+6 7 8
 "
 grade reduction=100%

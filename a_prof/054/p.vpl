@@ -1,4 +1,4 @@
-case=01
+case=00
 input=3
 output="..3..
 .3.3.
@@ -7,7 +7,7 @@ output="..3..
 grade reduction=100%
 
 
-case=02
+case=01
 input=2
 output=".2.
 2.2
@@ -15,7 +15,7 @@ output=".2.
 grade reduction=100%
 
 
-case=03
+case=02
 input=4
 output="...4...
 ..4.4..

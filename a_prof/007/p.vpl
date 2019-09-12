@@ -1,4 +1,4 @@
-case=01 bastao parado
+case=00 bastao parado
 input=4 4
 .#.#
 .#o#
@@ -12,7 +12,7 @@ output=".#.#
 grade reduction=100%
 
 
-case=02 u movel
+case=01 u movel
 input=4 4
 ooo#
 o.o#

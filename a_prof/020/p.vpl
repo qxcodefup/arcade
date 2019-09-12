@@ -1,4 +1,4 @@
-case=01
+case=00
 input=1
 1
 1
@@ -7,7 +7,7 @@ output="empate
 grade reduction=100%
 
 
-case=02
+case=01
 input=0
 0
 1
@@ -16,7 +16,7 @@ output="jog3
 grade reduction=100%
 
 
-case=03
+case=02
 input=1
 0
 0
@@ -25,7 +25,7 @@ output="jog1
 grade reduction=100%
 
 
-case=04
+case=03
 input=1
 0
 1

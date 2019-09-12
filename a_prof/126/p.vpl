@@ -1,12 +1,4 @@
 case=01
-input=Yudi
-Priscilla
-output="As chances do crush te dar bola sao: 20%!
-"
-grade reduction=100%
-
-
-case=02
 input=Shun
 Hyoga
 output="As chances do crush te dar bola sao: 0%!
@@ -15,6 +7,14 @@ grade reduction=100%
 
 
 case=03
+input=Paula
+Paulo
+output="As chances do crush te dar bola sao: 100%!
+"
+grade reduction=100%
+
+
+case=02
 input=Kratos
 Athena
 output="As chances do crush te dar bola sao: 20%!
@@ -22,9 +22,9 @@ output="As chances do crush te dar bola sao: 20%!
 grade reduction=100%
 
 
-case=04
-input=Paula
-Paulo
-output="As chances do crush te dar bola sao: 100%!
+case=00
+input=Yudi
+Priscilla
+output="As chances do crush te dar bola sao: 20%!
 "
 grade reduction=100%

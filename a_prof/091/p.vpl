@@ -1,18 +1,18 @@
-case=01
+case=00
 input=6 9
 output="18
 "
 grade reduction=100%
 
 
-case=02
+case=01
 input=3 4
 output="12
 "
 grade reduction=100%
 
 
-case=03
+case=02
 input=3 6
 output="6
 "

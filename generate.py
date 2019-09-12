@@ -52,8 +52,8 @@ def replace_references_on_figures(text, remote_server):
     return text.replace('<img src="__', '<img src="' + remote_server + "/" + "__")
 
 def generate_link(hook, name):
-    print("link", hook)
-    print(name)
+    #print("link", hook)
+    #print(name)
     with open(LINKS + os.sep + name + ".md", "w") as f:
         f.write("[LINK](.." + os.sep + BASE + os.sep + hook + os.sep + "Readme.md)\n")
 

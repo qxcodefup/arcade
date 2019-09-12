@@ -1,4 +1,4 @@
-case=01
+case=00
 input=5
 0
 3
@@ -14,7 +14,7 @@ hora de partir
 grade reduction=100%
 
 
-case=02
+case=01
 input=10
 10
 -10
@@ -26,7 +26,7 @@ hora de partir
 grade reduction=100%
 
 
-case=03
+case=02
 input=3
 1
 1

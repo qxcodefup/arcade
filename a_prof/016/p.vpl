@@ -1,25 +1,32 @@
-case=01
+case=00
 input=0
 output="0
 "
 grade reduction=100%
 
 
-case=02
+case=04
+input=-2
+output="358
+"
+grade reduction=100%
+
+
+case=01
 input=360
 output="0
 "
 grade reduction=100%
 
 
-case=03
+case=02
 input=361
 output="1
 "
 grade reduction=100%
 
 
-case=04
+case=03
 input=722
 output="2
 "
@@ -27,13 +34,6 @@ grade reduction=100%
 
 
 case=05
-input=-2
-output="358
-"
-grade reduction=100%
-
-
-case=06
 input=-350
 output="10
 "

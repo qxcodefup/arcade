@@ -1,25 +1,25 @@
-case=01
+case=00
 input=a
 output="A
 "
 grade reduction=100%
 
 
-case=02
+case=01
 input=B
 output="b
 "
 grade reduction=100%
 
 
-case=03
+case=02
 input=5
 output="5
 "
 grade reduction=100%
 
 
-case=04
+case=03
 input=!
 output="!
 "

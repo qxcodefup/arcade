@@ -1,19 +1,19 @@
-case=01
+case=02
+input=AAA
+output="3
+"
+grade reduction=100%
+
+
+case=00
 input=BANANAS
 output="4
 "
 grade reduction=100%
 
 
-case=02
+case=01
 input=AAXBBXZZX
 output="7
-"
-grade reduction=100%
-
-
-case=03
-input=AAA
-output="3
 "
 grade reduction=100%

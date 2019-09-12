@@ -1,4 +1,4 @@
-case=01
+case=00
 input=30
 8
 11
@@ -8,7 +8,7 @@ output="616
 grade reduction=100%
 
 
-case=02
+case=01
 input=12
 38
 5

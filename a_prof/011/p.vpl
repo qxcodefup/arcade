@@ -1,15 +1,4 @@
 case=01
-input=4
-12
-12
-3
-1988
-output="04:12 12/03/88
-"
-grade reduction=100%
-
-
-case=02
 input=14
 7
 7
@@ -20,12 +9,23 @@ output="02:07 07/09/05
 grade reduction=100%
 
 
-case=03
+case=02
 input=24
 1
 1
 1
 2076
 output="00:01 01/01/76
+"
+grade reduction=100%
+
+
+case=00
+input=4
+12
+12
+3
+1988
+output="04:12 12/03/88
 "
 grade reduction=100%

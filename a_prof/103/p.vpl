@@ -1,4 +1,4 @@
-case=01
+case=00
 input=Paralelepipedo
 output="Pa-ra-le-le-pi-pe-do
 "
@@ -6,14 +6,14 @@ grade reduction=100%
 
 
 case=02
-input=Eu sou o rei de Fup
-output="Eu sou o rei de Fu-p
+input=Floresta Amazonica
+output="Flo-re-sta A-ma-zo-ni-ca
 "
 grade reduction=100%
 
 
-case=03
-input=Floresta Amazonica
-output="Flo-re-sta A-ma-zo-ni-ca
+case=01
+input=Eu sou o rei de Fup
+output="Eu sou o rei de Fu-p
 "
 grade reduction=100%

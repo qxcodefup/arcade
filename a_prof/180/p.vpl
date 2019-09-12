@@ -1,4 +1,4 @@
-case=01
+case=00
 input=2
 Homem de Ferro
 500
@@ -15,7 +15,7 @@ Homem de Ferro
 grade reduction=100%
 
 
-case=02
+case=01
 input=3
 Pantera Negra
 600

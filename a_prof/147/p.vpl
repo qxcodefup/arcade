@@ -1,7 +1,7 @@
 case=01
-input=100  
-20  
-100  
+input=100
+20
+100
 1
 output="Personagem 1
 "
@@ -11,16 +11,6 @@ grade reduction=100%
 case=02
 input=100
 20
-100
-1
-output="Personagem 1
-"
-grade reduction=100%
-
-
-case=03
-input=100
-20
 1000
 10
 output="Personagem 2
@@ -28,11 +18,21 @@ output="Personagem 2
 grade reduction=100%
 
 
-case=04
+case=03
 input=100
 100
 1000
 10
 output="Empate
+"
+grade reduction=100%
+
+
+case=00
+input=100  
+20  
+100  
+1
+output="Personagem 1
 "
 grade reduction=100%

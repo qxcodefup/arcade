@@ -1,4 +1,12 @@
-case=01
+case=02
+input=1
+2
+output="ok
+"
+grade reduction=100%
+
+
+case=00
 input=5
 1 2 3 4 4
 output="ok
@@ -6,17 +14,9 @@ output="ok
 grade reduction=100%
 
 
-case=02
+case=01
 input=6
 2 4 2 6 8 10
 output="precisa de ajuste
-"
-grade reduction=100%
-
-
-case=03
-input=1
-2
-output="ok
 "
 grade reduction=100%

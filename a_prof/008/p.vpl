@@ -1,4 +1,19 @@
-case=01 numerico apenas
+case=01 misturado
+input=3 7
+#!1Ap
+!#A
+output="!#p
+!!#
+!!!
+!!1
+!!A
+!!p
+!1#
+"
+grade reduction=100%
+
+
+case=00 numerico apenas
 input=4 10
 0179
 9997
@@ -16,22 +31,7 @@ output="9999
 grade reduction=100%
 
 
-case=02 misturado
-input=3 7
-#!1Ap
-!#A
-output="!#p
-!!#
-!!!
-!!1
-!!A
-!!p
-!1#
-"
-grade reduction=100%
-
-
-case=03 numerico invertido
+case=02 numerico invertido
 input=4 10
 0982
 2222

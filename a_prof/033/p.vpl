@@ -1,18 +1,18 @@
 case=01
 input=10
-10
-5
-10
-output="Aprovado com 10.0
-"
-grade reduction=100%
-
-
-case=02
-input=10
 2
 2
 6
 output="Final com 6.0
+"
+grade reduction=100%
+
+
+case=00
+input=10
+10
+5
+10
+output="Aprovado com 10.0
 "
 grade reduction=100%

@@ -1,4 +1,4 @@
-case=01
+case=00
 input=3
 G L G
 C C C
@@ -8,7 +8,7 @@ output="Condenados a morte
 grade reduction=100%
 
 
-case=02
+case=01
 input=3
 G G C
 C C C
@@ -18,7 +18,7 @@ output="Condenados a morte
 grade reduction=100%
 
 
-case=03
+case=02
 input=3
 C C G
 C G C

@@ -1,4 +1,4 @@
-case=01
+case=00
 input=2
 ana 80 f
 joao 43 m
@@ -7,7 +7,7 @@ output="ana
 grade reduction=100%
 
 
-case=02
+case=01
 input=2
 jose 80 m
 joao 43 m
@@ -16,7 +16,7 @@ output="nao tem mulher
 grade reduction=100%
 
 
-case=03
+case=02
 input=3
 joao 43 m
 ana 80 f
@@ -26,7 +26,7 @@ output="ana
 grade reduction=100%
 
 
-case=04
+case=03
 input=3
 joao 88 m
 ana 80 f

@@ -1,4 +1,4 @@
-case=01
+case=00
 input=5 1
 0 2 1  
 output="1 1 1 0 0
@@ -6,7 +6,7 @@ output="1 1 1 0 0
 grade reduction=100%
 
 
-case=02
+case=01
 input=5 2
 0 2 1
 2 4 2
@@ -16,6 +16,17 @@ grade reduction=100%
 
 
 case=03
+input=4 4
+0 0 1
+1 1 2
+2 2 3
+3 3 4  
+output="1 2 3 4
+"
+grade reduction=100%
+
+
+case=02
 input=10 5
 1 4 5
 5 8 2
@@ -23,16 +34,5 @@ input=10 5
 8 9 3
 4 8 2
 output="1 6 6 6 8 5 5 5 8 4
-"
-grade reduction=100%
-
-
-case=04
-input=4 4
-0 0 1
-1 1 2
-2 2 3
-3 3 4  
-output="1 2 3 4
 "
 grade reduction=100%

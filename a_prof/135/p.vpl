@@ -1,4 +1,4 @@
-case=01
+case=00
 input=4 8
 ........
 ........
@@ -12,7 +12,7 @@ output="........
 grade reduction=100%
 
 
-case=02
+case=01
 input=4 8
 ......#.
 .##...#.
@@ -26,7 +26,7 @@ output="........
 grade reduction=100%
 
 
-case=03
+case=02
 input=7 18
 ..................
 .###..............

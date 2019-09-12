@@ -1,4 +1,4 @@
-case=01
+case=00
 input=1 4 7
 4 1 8
 7 8 1
@@ -7,7 +7,7 @@ output="sim
 grade reduction=100%
 
 
-case=02
+case=01
 input=3 3 3
 3 3 3
 3 3 3
@@ -16,7 +16,7 @@ output="sim
 grade reduction=100%
 
 
-case=03
+case=02
 input=1 2 3
 4 5 6
 7 8 9

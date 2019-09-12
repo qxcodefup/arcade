@@ -1,20 +1,4 @@
->>>>>>>> 01
-A Andreia alimentou a avestruz com alcaparras
-a
-========
-8
-<<<<<<<<
-
-
 >>>>>>>> 02
-A Andreia alimentou a avestruz com alcaparras
-A
-========
-2
-<<<<<<<<
-
-
->>>>>>>> 03
 A Andreia atirou alcachofras no leao
 e
 ========
@@ -22,9 +6,25 @@ e
 <<<<<<<<
 
 
->>>>>>>> 04
+>>>>>>>> 03
 A Andreia atirou alcachofras no leao
 x
 ========
 0
+<<<<<<<<
+
+
+>>>>>>>> 00
+A Andreia alimentou a avestruz com alcaparras
+a
+========
+8
+<<<<<<<<
+
+
+>>>>>>>> 01
+A Andreia alimentou a avestruz com alcaparras
+A
+========
+2
 <<<<<<<<

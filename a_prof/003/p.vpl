@@ -1,16 +1,16 @@
-case=01 corsa
-input=100
-60
-10
-output="10.00
-"
-grade reduction=100%
-
-
-case=02 fusca
+case=01 fusca
 input=60
 40
 10
 output="4.00
+"
+grade reduction=100%
+
+
+case=00 corsa
+input=100
+60
+10
+output="10.00
 "
 grade reduction=100%

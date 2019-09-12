@@ -1,4 +1,4 @@
-case=01
+case=00
 input=c  
 5.5  
 output="6
@@ -6,7 +6,23 @@ output="6
 grade reduction=100%
 
 
-case=02
+case=03
+input=r  
+5.5  
+output="6
+"
+grade reduction=100%
+
+
+case=04
+input=r  
+5.4  
+output="5
+"
+grade reduction=100%
+
+
+case=01
 input=f  
 6.99  
 output="6
@@ -14,25 +30,9 @@ output="6
 grade reduction=100%
 
 
-case=03
+case=02
 input=c  
 6.99  
 output="7
-"
-grade reduction=100%
-
-
-case=04
-input=r  
-5.5  
-output="6
-"
-grade reduction=100%
-
-
-case=05
-input=r  
-5.4  
-output="5
 "
 grade reduction=100%

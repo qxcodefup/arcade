@@ -1,12 +1,4 @@
 case=01
-input=c
-100
-output="Perfeito
-"
-grade reduction=100%
-
-
-case=02
 input=b
 68
 output="Fraco, nem passou
@@ -15,16 +7,24 @@ grade reduction=100%
 
 
 case=03
-input=c
-160
-output="Muito forte, bola fora
+input=b
+99
+output="Satisfeito
 "
 grade reduction=100%
 
 
-case=04
-input=b
-99
-output="Satisfeito
+case=00
+input=c
+100
+output="Perfeito
+"
+grade reduction=100%
+
+
+case=02
+input=c
+160
+output="Muito forte, bola fora
 "
 grade reduction=100%

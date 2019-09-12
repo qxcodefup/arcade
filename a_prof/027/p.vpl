@@ -1,32 +1,32 @@
 case=01
-input=0 
-output="joguem de novo
-"
-grade reduction=100%
-
-
-case=02
 input=1
 output="a
 "
 grade reduction=100%
 
 
-case=03
+case=02
 input=2
 output="b
 "
 grade reduction=100%
 
 
-case=04
+case=00
+input=0 
+output="joguem de novo
+"
+grade reduction=100%
+
+
+case=03
 input=26
 output="z
 "
 grade reduction=100%
 
 
-case=05
+case=04
 input=27
 output="a
 "

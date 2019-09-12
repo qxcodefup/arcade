@@ -1,32 +1,32 @@
-case=01
+case=00
 input=1.00 1.00 8.00 8.01
 output="G
 "
 grade reduction=100%
 
 
-case=02
+case=01
 input=10.00 0.01 10.01 0.01
 output="A
 "
 grade reduction=100%
 
 
-case=03
+case=02
 input=2.15 3.17 19.34 18.22
 output="A
 "
 grade reduction=100%
 
 
-case=04
+case=03
 input=3.90 3.80 19.01 19.99
 output="G
 "
 grade reduction=100%
 
 
-case=05
+case=04
 input=4.15 3.17 16.64 19.22
 output="G
 "

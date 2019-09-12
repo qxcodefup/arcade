@@ -1,4 +1,4 @@
-case=01
+case=00
 input=aeiou  
 arta euio auiaoauio riu pegasus
 output="pessoa chefe chefe ultron pessoa
@@ -6,7 +6,7 @@ output="pessoa chefe chefe ultron pessoa
 grade reduction=100%
 
 
-case=02
+case=01
 input=aer
 arta euio auiaoauio riu pegasus rea
 output="ultron pessoa pessoa pessoa pessoa chefe

@@ -1,4 +1,4 @@
-case=01
+case=00
 input=1
 a batata
 output="a BaTaTa
@@ -6,7 +6,7 @@ output="a BaTaTa
 grade reduction=100%
 
 
-case=02
+case=01
 input=2
 AAAAAAAA
 bBbBbBbB
@@ -16,7 +16,7 @@ bBbBbBbB
 grade reduction=100%
 
 
-case=03
+case=02
 input=2
 Morra Prea
 BigODE Aparado

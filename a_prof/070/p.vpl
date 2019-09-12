@@ -1,14 +1,14 @@
 case=01
-input=5 
-3
-output="5
+input=6
+6
+output="4
 "
 grade reduction=100%
 
 
-case=02
-input=6
-6
-output="4
+case=00
+input=5 
+3
+output="5
 "
 grade reduction=100%

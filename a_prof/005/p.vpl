@@ -1,4 +1,4 @@
-case=01 conta exata
+case=00 conta exata
 input=3
 1
 1
@@ -8,21 +8,21 @@ output="1
 grade reduction=100%
 
 
-case=02 sobrando duas
-input=10
-4
-4
-4
-output="2
-"
-grade reduction=100%
-
-
-case=03 sobrando uma
+case=02 sobrando uma
 input=2
 4
 2
 3
 output="5
+"
+grade reduction=100%
+
+
+case=01 sobrando duas
+input=10
+4
+4
+4
+output="2
 "
 grade reduction=100%

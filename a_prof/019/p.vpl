@@ -1,4 +1,4 @@
-case=01
+case=00
 input=3
 2
 1
@@ -8,18 +8,18 @@ grade reduction=100%
 
 
 case=02
-input=20
-8
-13
-output="15
-"
-grade reduction=100%
-
-
-case=03
 input=3
 2
 2
 output="0
+"
+grade reduction=100%
+
+
+case=01
+input=20
+8
+13
+output="15
 "
 grade reduction=100%

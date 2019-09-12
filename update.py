@@ -127,17 +127,22 @@ class Itens:
 
         self.itens.sort(key=lambda x: x.title)
         tree = tree_generate(self.itens)
+        hook_list = ""
         with open("Readme.md", "w") as f:
             f.write("# @qxcode\n\n# Lista de exercícios \n\n")
             
             f.write("\n# " + "TAGS" + "\n\n")
             for tag, lista in tree.items():
                 f.write("\n## " + tag + "\n\n")
+                hook_list += tag + "\n"
                 lista.sort(key=lambda x: x.title)
                 for item in lista:
+                    hook_list += item.hook + " "
                     readme_path = BASE + os.sep + item.hook + os.sep + "Readme.md"
                     title_w_tags = " ".join([x for x in item.title.split(" ") if not x.startswith("#")])
-                    f.write("- [" + title_w_tags + "](" + readme_path + "#qxcode" ")\n")       
+                    f.write("- [" + title_w_tags + "](" + readme_path + "#qxcode" ")\n")
+                hook_list += "\n\n"
+            print(hook_list)
 
 def main():
     parser = argparse.ArgumentParser(prog='th.py')

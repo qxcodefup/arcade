@@ -1,4 +1,4 @@
-case=01
+case=00
 input=01 00 00
 03 00 00
 output="02 00 00
@@ -6,7 +6,7 @@ output="02 00 00
 grade reduction=100%
 
 
-case=02
+case=01
 input=02 11 00
 03 10 10
 output="00 59 10
@@ -14,7 +14,7 @@ output="00 59 10
 grade reduction=100%
 
 
-case=03
+case=02
 input=04 10 00
 03 10 10
 output="23 00 10
@@ -22,7 +22,7 @@ output="23 00 10
 grade reduction=100%
 
 
-case=04
+case=03
 input=04 00 01
 03 00 00
 output="22 59 59

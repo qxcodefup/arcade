@@ -1,4 +1,13 @@
-case=01
+case=02
+input=a bd abda
+bd
+abc
+output="a abc aabca
+"
+grade reduction=100%
+
+
+case=00
 input=a aba absorveu
 ab
 c
@@ -7,19 +16,10 @@ output="a ca csorveu
 grade reduction=100%
 
 
-case=02
+case=01
 input=a almofada esta mofada e molhada
 mo
 bigode
 output="a albigodefada esta bigodefada e bigodelhada
-"
-grade reduction=100%
-
-
-case=03
-input=a bd abda
-bd
-abc
-output="a abc aabca
 "
 grade reduction=100%
