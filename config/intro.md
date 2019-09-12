@@ -1,6 +1,6 @@
 ## @qxcode
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/assets/header.png)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/config/header.png)
 
 Nestes arquivos você vai encontrar uma série de exercícios para praticar sua
 resolução de problemas. Os tópicos abordam diferentes competências de
@@ -18,13 +18,12 @@ sena.ufc@gmail.com. Melhor ainda, faça um fork e depois um pull request.
 
 ## Níveis de Dificuldade
 
-As questões estão separadas por nível, normalmente de L1 até L5.
+As questões estão separadas por nível, normalmente de L1 até L4.
 
 - L1 - questões triviais.
 - L2 - questões interessantes.
 - L3 - questões boas (queremos que todos os alunos cheguem aqui).
 - L4 - questões desafiantes.
-- L5 - questões desafio.
 
 ## Exemplos
 

@@ -7,10 +7,11 @@ import unicodedata
 import string
 import configparser
 import subprocess
+import io
 from subprocess import run, PIPE
+import json
 BASE = "base"
-
-REMOTE_DATABASE = "https://raw.githubusercontent.com/qxcodefup/arcade/master/base"
+CONFIG = "config"
 
 class ItemGenerator:
     # load Item description from folder
@@ -58,7 +59,7 @@ class Itens:
                 print(e)
 
     def parse_from_names_file(self):
-        with open("names.txt", "r") as f:
+        with open(CONFIG + os.sep + "names.txt", "r") as f:
             names_list = [x for x in f.readlines() if x != "\n"]
             for line in names_list:
                 self.itens.append(ItemGenerator.make_from_line(line))
@@ -68,8 +69,8 @@ class Itens:
 
     def update_names_txt(self):
         self.itens.sort(key=lambda x: x.title)
-        with open("names.txt", "w") as names:
-            names.write("\n".join([str(x) for x in self.itens]))
+        with open(CONFIG + os.sep + "names.txt", "w") as names:
+            names.write("\n".join([str(x) for x in self.itens]) + "\n")
 
     def update_title(self):
         for item in self.itens:
@@ -127,22 +128,28 @@ class Itens:
 
         self.itens.sort(key=lambda x: x.title)
         tree = tree_generate(self.itens)
-        hook_list = ""
+        hook_text = io.StringIO()
+        readme_text = io.StringIO()
+        readme_text.write("# @qxcode\n\n# Lista de exercícios \n\n")
+        readme_text.write("\n# " + "TAGS" + "\n\n")
+        for tag, lista in tree.items():
+            readme_text.write("\n## " + tag + "\n\n")
+            hook_text.write(tag + "\n")
+            lista.sort(key=lambda x: x.title)
+            for item in lista:
+                hook_text.write(item.hook + " ")
+                readme_path = BASE + os.sep + item.hook + os.sep + "Readme.md"
+                title_w_tags = " ".join([x for x in item.title.split(" ") if not x.startswith("#")])
+                readme_text.write("- [" + title_w_tags + "](" + readme_path + "#qxcode" ")\n")
+            hook_text.write("\n\n")
+        
         with open("Readme.md", "w") as f:
-            f.write("# @qxcode\n\n# Lista de exercícios \n\n")
-            
-            f.write("\n# " + "TAGS" + "\n\n")
-            for tag, lista in tree.items():
-                f.write("\n## " + tag + "\n\n")
-                hook_list += tag + "\n"
-                lista.sort(key=lambda x: x.title)
-                for item in lista:
-                    hook_list += item.hook + " "
-                    readme_path = BASE + os.sep + item.hook + os.sep + "Readme.md"
-                    title_w_tags = " ".join([x for x in item.title.split(" ") if not x.startswith("#")])
-                    f.write("- [" + title_w_tags + "](" + readme_path + "#qxcode" ")\n")
-                hook_list += "\n\n"
-            print(hook_list)
+            f.write(readme_text.getvalue())
+        with open(CONFIG + os.sep + "hooks_by_tags.txt", "w") as f:
+            f.write(hook_text.getvalue())
+        readme_text.close()
+        hook_text.close()
+
 
 def main():
     parser = argparse.ArgumentParser(prog='th.py')
