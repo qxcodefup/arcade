@@ -1,15 +1,11 @@
-# @qxcode
+## @qxcode
 
-# Lista de exercícios 
+## Lista de exercícios 
 
-
-# TAGS
-
-
-## __tagless
+## TAGS
 
 
-## 01_ope
+### 01_ope
 
 - [L1 - Formatando data (Zeros à esquerda)](base/011/Readme.md#qxcode)
 - [L1 - Operações básicas (Imprimindo float formatado)](base/000/Readme.md#qxcode)
@@ -19,7 +15,7 @@
 - [L3 - Mete bala (Distância entre dois pontos)](base/004/Readme.md#qxcode)
 - [L3 - Zerinho ou um americano (Calcule o vencedor)](base/006/Readme.md#qxcode)
 
-## 02_sel
+### 02_sel
 
 - [L1 - Ambos Divisíveis](base/025/Readme.md#qxcode)
 - [L1 - Angulo Cartesiano - Operador Modular](base/062/Readme.md#qxcode)
@@ -58,7 +54,7 @@
 - [L3 - Rufus e Par ou Ímpar!](base/041/Readme.md#qxcode)
 - [L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001/Readme.md#qxcode)
 
-## 03_rep
+### 03_rep
 
 - [L1 - Calça Zeze de Camargo - Mínimo](base/056/Readme.md#qxcode)
 - [L1 - Dividindo pares de sapatos pra três](base/013/Readme.md#qxcode)
@@ -86,7 +82,7 @@
 - [L3 - Trilhas - OBI 2005](base/158/Readme.md#qxcode)
 - [L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md#qxcode)
 
-## 04_vet
+### 04_vet
 
 - [L1 - Joelison Fernandes - Soma do maior e menor!](base/060/Readme.md#qxcode)
 - [L2 - Capoeira invertendo vetor!](base/061/Readme.md#qxcode)
@@ -121,7 +117,7 @@
 - [L3 - Zoologico Entrando na Arca de Noé](base/087/Readme.md#qxcode)
 - [L3 - Zoologico Um animal de cada tipo!](base/084/Readme.md#qxcode)
 
-## 05_str
+### 05_str
 
 - [L1 - Eribelton e a Ascologia V1 - Somar Asc](base/173/Readme.md#qxcode)
 - [L1 - LP da Xura - Inverter String!](base/092/Readme.md#qxcode)
@@ -169,7 +165,7 @@
 - [L3 - Valdiskley e a Cifra v3!](base/107/Readme.md#qxcode)
 - [L3 - Valdiskley e cifras históricas!](base/105/Readme.md#qxcode)
 
-## 06_mat
+### 06_mat
 
 - [L2 - Bingo!](base/130/Readme.md#qxcode)
 - [L2 - Deu a louca no Imperador!](base/012/Readme.md#qxcode)
@@ -186,29 +182,29 @@
 - [L3 - Subdiagonais](base/132/Readme.md#qxcode)
 - [L3 - Tetris (Fazendo a peça cair)](base/007/Readme.md#qxcode)
 
-## 07_dic
+### 07_dic
 
 - [L1 - Expressão](base/148/Readme.md#qxcode)
 - [L1 - Operações](base/149/Readme.md#qxcode)
 - [L3 - Mulher mais idosa](base/182/Readme.md#qxcode)
 
-## 07_rec
+### 07_rec
 
 - [L2 - Contando caracteres recursivamente](base/145/Readme.md#qxcode)
 - [L2 - Números de Fibonacci](base/141/Readme.md#qxcode)
 - [L3 - Contando caracteres recursivamente](base/140/Readme.md#qxcode)
 - [L3 - Torres de Hanoi](base/146/Readme.md#qxcode)
 
-## 09_alo
+### 09_alo
 
 - [L2 - Vetor de strings com variados tamanhos](base/142/Readme.md#qxcode)
 
-## 10_ptr
+### 10_ptr
 
 - [L1 - Duelo](base/147/Readme.md#qxcode)
 - [L1 - Troca de valores de variáveis](base/143/Readme.md#qxcode)
 - [L2 - Função que retorna vários valores por referência](base/144/Readme.md#qxcode)
 
-## 11_cla
+### 11_cla
 
 - [L3 - Motivando a turma de secundaristas](base/184/Readme.md#qxcode)

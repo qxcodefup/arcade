@@ -11,37 +11,14 @@ from subprocess import run, PIPE
 import unicodedata
 import string
 import argparse
+import configparser
 
-REMOTE_DATABASE = "https://raw.githubusercontent.com/qxcodefup/arcade/master/base"
+REMOTE = "https://raw.githubusercontent.com/qxcodefup/arcade/master/base"
 
 BASE    = "base"
 PROF    = "a_prof"
 STUDENT = "a_student"
 MOODLE  = "a_moodle"
-LINKS   = "a_links"
-
-def strip_accents(text):
-    try:
-        text = unicode(text, 'utf-8')
-    except NameError: # unicode is a default on python 3 
-        pass
-    text = unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode("utf-8")
-    return str(text)
-
-
-def filter_punct(title):
-    title = strip_accents(title).lower()
-    new_title = ""
-    for c in title:
-        if c in string.punctuation or c in string.whitespace:
-            new_title += "_"
-        else:
-            new_title += c
-    while "__" in new_title:
-        new_title = new_title.replace("__", "_")
-    if new_title.endswith("_"):
-        new_title = new_title[:-1]
-    return new_title
 
 def extract_name(hook):
     with open(BASE + os.sep + hook + os.sep + "Readme.md") as f:
@@ -51,12 +28,6 @@ def extract_name(hook):
 
 def replace_references_on_figures(text, remote_server):
     return text.replace('<img src="__', '<img src="' + remote_server + "/" + "__")
-
-def generate_link(hook, name):
-    #print("link", hook)
-    #print(name)
-    with open(LINKS + os.sep + name + ".md", "w") as f:
-        f.write("[LINK](.." + os.sep + BASE + os.sep + hook + os.sep + "Readme.md)\n")
 
 def generate_json(hook, name, description, cases, fdict):
     moodle = {}
@@ -148,7 +119,7 @@ def update_all(hook, name):
     pathReadme = BASE + os.sep + hook + os.sep + "Readme.md"
     
     description = generate_html(name, pathReadme)
-    description_filtered = replace_references_on_figures(description, REMOTE_DATABASE + os.sep + hook)
+    description_filtered = replace_references_on_figures(description, REMOTE + os.sep + hook)
 
     fdict = make_file_dict(hook)
 
@@ -211,13 +182,10 @@ def main():
     files = os.listdir(BASE)
     files.sort()
     folders = [x for x in files if os.path.isdir(BASE + os.sep + x)]
-    rmtree(LINKS, ignore_errors=True)
-    os.mkdir(LINKS)
     for hook in folders:
         source = BASE + os.sep + hook + os.sep + "Readme.md"
         target = MOODLE + os.sep + hook + ".json"
         name = extract_name(hook)
-        generate_link(hook, name)
         if not os.path.exists(target) or (os.path.getmtime(source) > os.path.getmtime(target)):
             update_all(hook, name)
 
@@ -234,12 +202,35 @@ def showTests():
         cmd = ["th", "list", '-s'] + tests
         subprocess.run(cmd)
 
+def load_globals():
+    config = configparser.ConfigParser()
+    if not os.path.isfile('config.ini'):
+        return
+    try:
+        config.read('config.ini')
+        global BASE, PROF, STUDENT, MOODLE
+        BASE = config["DEFAULT"]["base"]
+        PROF = config["DEFAULT"]["prof"]
+        STUDENT = config["DEFAULT"]["student"]
+        MOODLE = config["DEFAULT"]["moodle"]
+    except Exception as e:
+        print(e)
 
 if __name__ == '__main__':
+    load_globals()
     parser = argparse.ArgumentParser(prog='th.py')
-    parser.add_argument('--tests', action='store_true', help='show tests')
+    parser.add_argument('-t', action='store_true', help='show tests')
+    parser.add_argument('-r', action='store_true', help='rebuild')
     args = parser.parse_args()
-    if args.tests:
+    if args.r:
+        rmtree(MOODLE, ignore_errors=True)
+        os.mkdir(MOODLE)
+        rmtree(PROF, ignore_errors=True)
+        os.mkdir(PROF)
+        rmtree(STUDENT, ignore_errors=True)
+        os.mkdir(STUDENT)
+
+    if args.t:
         showTests()
     else:
         main()
