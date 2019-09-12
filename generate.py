@@ -10,6 +10,7 @@ from shutil import rmtree
 from subprocess import run, PIPE
 import unicodedata
 import string
+import argparse
 
 REMOTE_DATABASE = "https://raw.githubusercontent.com/qxcodefup/arcade/master/base"
 
@@ -59,7 +60,7 @@ def generate_link(hook, name):
 
 def generate_json(hook, name, description, cases, fdict):
     moodle = {}
-    moodle["name"] = name
+    moodle["title"] = name
     moodle["description"] = description
     moodle["executionFiles"] = [{"name":"vpl_evaluate.cases", "contents": cases}]
 
@@ -220,5 +221,25 @@ def main():
         if not os.path.exists(target) or (os.path.getmtime(source) > os.path.getmtime(target)):
             update_all(hook, name)
 
+def showTests():
+    files = os.listdir(BASE)
+    files.sort()
+    folders = [x for x in files if os.path.isdir(BASE + os.sep + x)]
+    for hook in folders:
+        #source = BASE + os.sep + hook + os.sep + "Readme.md"
+        tests = os.listdir(BASE + os.sep + hook)
+        tests = [x for x in tests if os.path.isfile(BASE + os.sep + hook + os.sep + x)]
+        tests = [x for x in tests if x.endswith(".tio") or x.endswith("Readme.md") ]
+        tests = [BASE + os.sep + hook + os.sep + x for x in tests]
+        cmd = ["th", "list", '-s'] + tests
+        subprocess.run(cmd)
+
+
 if __name__ == '__main__':
-    main()
+    parser = argparse.ArgumentParser(prog='th.py')
+    parser.add_argument('--tests', action='store_true', help='show tests')
+    args = parser.parse_args()
+    if args.tests:
+        showTests()
+    else:
+        main()
