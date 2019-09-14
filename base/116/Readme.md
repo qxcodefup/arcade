@@ -1,4 +1,4 @@
-## #05_str L3 - Roda Roda Jequiti - Jogo da Forca!
+## $05_str L3 - Roda Roda Jequiti - Jogo da Forca!
 ## @qxcode
 
 ![](capa.jpeg)

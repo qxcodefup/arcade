@@ -1,4 +1,4 @@
-## #03_rep L3 - Sapinho 2 morrendo no poço
+## $03_rep L3 - Sapinho 2 morrendo no poço
 ## @qxcode
 
 ![sapinho](__capa.jpg)

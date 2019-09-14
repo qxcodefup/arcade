@@ -1,4 +1,4 @@
-## #02_sel L2 - OBI 2017 - Fase 1 - Teleférico
+## $02_sel L2 - OBI 2017 - Fase 1 - Teleférico
 ## @qxcode
 
 ![](__capa.jpg)

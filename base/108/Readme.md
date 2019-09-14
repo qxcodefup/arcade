@@ -1,4 +1,4 @@
-## #05_str L3 - Identificando elementos
+## $05_str L3 - Identificando elementos
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## #02_sel L2 - Ovos de galinha (Procurando o Maior valor)
+## $02_sel L2 - Ovos de galinha (Procurando o Maior valor)
 ## @qxcode
 
 ![](__capa.jpg)

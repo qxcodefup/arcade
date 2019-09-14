@@ -1,4 +1,4 @@
-## #03_rep L2 - Busca Intervalada
+## $03_rep L2 - Busca Intervalada
 ## @qxcode
 
 ![](__capa.jpg)

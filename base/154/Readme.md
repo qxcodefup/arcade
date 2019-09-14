@@ -1,4 +1,4 @@
-## #06_mat L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
+## $06_mat L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
 ## @qxcode
 
 ![](__capa.jpg)

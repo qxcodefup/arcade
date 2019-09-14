@@ -1,4 +1,4 @@
-## #04_vet L2 - Queda de dominós
+## $04_vet L2 - Queda de dominós
 ## @qxcode
   
 ![](__capa.jpg)

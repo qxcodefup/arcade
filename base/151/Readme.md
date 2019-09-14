@@ -1,4 +1,4 @@
-## #02_sel L1 - OBI 2015 - Fase 2 - Nível 1 - Impedido!
+## $02_sel L1 - OBI 2015 - Fase 2 - Nível 1 - Impedido!
 ## @qxcode
 
 ## Motivação

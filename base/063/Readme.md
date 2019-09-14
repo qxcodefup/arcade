@@ -1,4 +1,4 @@
-## #03_rep L3 - Blackjack 21!
+## $03_rep L3 - Blackjack 21!
 ## @qxcode
 
 ![](__capa.jpg)

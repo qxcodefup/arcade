@@ -1,12 +1,3 @@
-case=04
-input=2
-10 8
-9 13
-output="sem ganhador
-"
-grade reduction=100%
-
-
 case=00
 input=2
 8 11

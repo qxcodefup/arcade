@@ -1,4 +1,4 @@
-## #03_rep L1 - Zero é par - Somatório de Pares!
+## $03_rep L1 - Zero é par - Somatório de Pares!
 ## @qxcode
 
 ![](__capa.jpg)

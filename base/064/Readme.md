@@ -1,4 +1,4 @@
-## #03_rep L3 - Conta Dígitos
+## $03_rep L3 - Conta Dígitos
 ## @qxcode
 
 ![](__capa.jpg)

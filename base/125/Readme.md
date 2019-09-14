@@ -1,4 +1,4 @@
-## #05_str L2 - Numerão Divisível por 11
+## $05_str L2 - Numerão Divisível por 11
 ## @qxcode
 
 ![](__capa.jpg)

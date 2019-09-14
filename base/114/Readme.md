@@ -1,4 +1,4 @@
-## #05_str L3 - MeU WoRd QuEbRoU - Formatação de Case!
+## $05_str L3 - MeU WoRd QuEbRoU - Formatação de Case!
 ## @qxcode
 
 ![](__capa.jpg)

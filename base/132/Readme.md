@@ -1,4 +1,4 @@
-## #06_mat L3 - Subdiagonais
+## $06_mat L3 - Subdiagonais
 ## @qxcode
 
 ![](__capa.jpg)

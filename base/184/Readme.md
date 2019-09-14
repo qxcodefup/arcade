@@ -1,4 +1,4 @@
-## #11_cla L3 - Motivando a turma de secundaristas
+## $11_cla L3 - Motivando a turma de secundaristas
 ## @qxcode
 
 Cuidado: Baseado em fatos reais!
@@ -22,6 +22,7 @@ Dado o nome completo do aluno e 3 notas que ele tirou no curso, imprimir os alun
 
 ## Testes
 
+```
 >>>>>>>> 01
 3
 Alameda do Anjos
@@ -42,3 +43,4 @@ Hartheobaudo Hidropolino
    N1: 4.70, N2: 4.30, N3: 8.20
 <<<<<<<<
 
+```

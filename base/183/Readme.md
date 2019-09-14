@@ -1,4 +1,4 @@
-## #02_sel L2 - Criança, Adulto, Idoso, Múmia
+## $02_sel L2 - Criança, Adulto, Idoso, Múmia
 ## @qxcode
 
 Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escreva:

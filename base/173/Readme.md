@@ -1,4 +1,4 @@
-## #05_str L1 - Eribelton e a Ascologia V1 - Somar Asc
+## $05_str L1 - Eribelton e a Ascologia V1 - Somar Asc
 ## @qxcode
 
 ![](__capa.jpg)

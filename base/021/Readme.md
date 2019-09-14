@@ -1,4 +1,4 @@
-## #02_sel L2 - Aumento de Salário
+## $02_sel L2 - Aumento de Salário
 ## @qxcode
 
 ![](__capa.jpg)

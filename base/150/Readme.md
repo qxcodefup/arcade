@@ -1,4 +1,4 @@
-## #06_mat L2 - Soma de matrizes
+## $06_mat L2 - Soma de matrizes
 ## @qxcode
 
 ![](__capa.jpg)

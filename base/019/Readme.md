@@ -1,4 +1,4 @@
-## #02_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
+## $02_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
 ## @qxcode
 
 ## Motivaçao

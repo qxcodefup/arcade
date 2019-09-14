@@ -1,4 +1,4 @@
-## #02_sel L1 - Calculadora Numérica
+## $02_sel L1 - Calculadora Numérica
 ## @qxcode
 
 ![](__capa.jpg)

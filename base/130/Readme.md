@@ -1,4 +1,4 @@
-## #06_mat L2 - Bingo!
+## $06_mat L2 - Bingo!
 ## @qxcode
 
 ![](__capa.jpg)

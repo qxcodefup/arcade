@@ -1,4 +1,4 @@
-## #09_alo L2 - Vetor de strings com variados tamanhos
+## $09_alo L2 - Vetor de strings com variados tamanhos
 ## @qxcode
 
 ![](__capa.jpg)

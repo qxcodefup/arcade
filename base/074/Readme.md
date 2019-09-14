@@ -1,4 +1,4 @@
-## #04_vet L3 - OBI 2017 - Fase 1 - Botas Trocadas
+## $04_vet L3 - OBI 2017 - Fase 1 - Botas Trocadas
 ## @qxcode
 
 ![](__capa.jpg)

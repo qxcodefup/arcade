@@ -1,4 +1,4 @@
-## #05_str L3 - Prof Muquirana - Busca máximo por critério
+## $05_str L3 - Prof Muquirana - Busca máximo por critério
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## #05_str L1 - Substring na decoração - Obter Substrings!
+## $05_str L1 - Substring na decoração - Obter Substrings!
 ## @qxcode
 
 ![](__capa.jpg)

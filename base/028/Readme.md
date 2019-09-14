@@ -1,4 +1,4 @@
-## #02_sel L2 - Cadê a cabeça da cobra
+## $02_sel L2 - Cadê a cabeça da cobra
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## #01_ope L3 - Ladrão de Goiabas (Contando viagens)
+## $01_ope L3 - Ladrão de Goiabas (Contando viagens)
 ## @qxcode
 
 ![](__capa.jpg)

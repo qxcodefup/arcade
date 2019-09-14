@@ -1,4 +1,4 @@
-## #07_dic L1 - Operações
+## $07_dic L1 - Operações
 ## @qxcode
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## #05_str L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados
+## $05_str L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados
 ## @qxcode
 
 ![](__capa.jpg)

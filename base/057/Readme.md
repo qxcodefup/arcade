@@ -1,4 +1,4 @@
-## #03_rep L2 - Revolta em Portugal
+## $03_rep L2 - Revolta em Portugal
 ## @qxcode
 
 ![](__capa.jpg)

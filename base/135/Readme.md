@@ -1,4 +1,4 @@
-## #06_mat L3 - Jogo da vida
+## $06_mat L3 - Jogo da vida
 ## @qxcode
 
 ![](__capa.jpg)

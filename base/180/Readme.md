@@ -1,4 +1,4 @@
-## #05_str L2 - Guerra Civil no Universo Marvel
+## $05_str L2 - Guerra Civil no Universo Marvel
 ## @qxcode
 
 ![](__capa.jpg)

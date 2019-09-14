@@ -1,4 +1,4 @@
-## #03_rep L3 - Arremesso de pedra na lua
+## $03_rep L3 - Arremesso de pedra na lua
 ## @qxcode
 
 ![](__capa.jpg)
@@ -56,13 +56,6 @@ Vários competidores disputaram uma competição interessante. Eles tinham duas 
 3
 <<<<<<<<
 
->>>>>>>>
-2
-10 8
-9 13
-========
-sem ganhador
-<<<<<<<<
 ```
 
 #
