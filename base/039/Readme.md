@@ -1,25 +1,19 @@
-## $02_sel L3 - Mercantil V2
+## $02_sel L2 - Mercantil V2 - Maior ou Menor
 ## @qxcode
 
 ![Silvio Santos](__capa.jpg)
 
 ## Descrição
 
-Pedro e João foram no Silvio Santos. O programa era aquele
-que o Silvio mostrava um produto do mercantil e a pessoa
-que chegasse mais próximo do preço real ganhava.
+- Pedro e João foram no Silvio Santos. Esse problema é diferente da versão V1 do Mercantil. 
+- Nesse, cada produto tem um valor real que nenhum dos competidores conhece.
+- O jogo funciona assim:
+    - O primeiro competidor chuta um valor.
+    - O segundo competidor chuta se acha que o valor real é maior ou menor que o valor chutado pelo primeiro competidor.
+    - O primeiro jogador ganha se ele acertar o chute no valor exato ou se o segundo jogador chutar na direção errada.
+    - O segundo jogador caso contrário.
 
-Cada produto tem um valor real que nenhum dos competidores
-conhece. O primeiro competidor chuta um valor. O segundo
-competidor chuta se acha que o valor real é maior ou menor
-que o valor chutado pelo primeiro competidor.
-
-O objetivo do seu programa é informar quem ganhou a disputa.
-Você receberá o chute do primeiro jogador, a escolha do
-segundo jogador(maior ou menor) e o valor real do produto.
-
-O primeiro jogador ganha se ele acertar na mosca ou se o
-segundo errar a direção do chute.
+O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o chute do primeiro jogador, a escolha do segundo jogador(maior ou menor) e o valor real do produto.
 
 [DS]
 

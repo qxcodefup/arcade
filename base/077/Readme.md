@@ -1,32 +1,28 @@
-## $04_vet L3 - Mercantil V3
+## $04_vet L3 - Mercantil V3 - Muitas rodadas
 ## @qxcode
 
 ![](__capa.jpg)
 
 ## Motivação
 
-Essa é a segunda versão do jogo do Mercantil.
+## Descrição
 
-Pedro e João foram no Sílvio Santos. O programa era aquele  
-que o Sílvio mostrava um produto do mercantil e a pessoa  
-que chegasse mais próximo do preço real ganhava.
+- Pedro e João foram no Silvio Santos. Esse problema é diferente da versão V1 do Mercantil. 
+- Nesse, cada produto tem um valor real que nenhum dos competidores conhece.
+- O jogo funciona assim:
+    - O primeiro competidor chuta um valor.
+    - O segundo competidor chuta se acha que o valor real é maior ou menor que o valor chutado pelo primeiro competidor.
+    - O primeiro jogador ganha se ele acertar o chute no valor exato ou se o segundo jogador chutar na direção errada.
+    - O segundo jogador caso contrário.
+- O jogo acontecerá em várias rodadas. Ganhará o jogo quem vencer mais rodadas. Acontecerá empate se ambos ganharem a mesma quantidade de rodadas.
 
-João e Pedro são concorrentes.  
-O objetivo do seu programa é informar quem ganhou a disputa.
-
-Nessa versão, o primeiro jogador informa o preço e o segundo jogador informa maior ou menor.  
-Quem vencer mais disputas ganha o jogo.  
-Se o valor do produto for igual ao chute, ganha o primeiro  
-concorrente.
-
-Se ambos vencerem a mesma quantidade então acontece o empate.
 
 ### Entrada
 
-*   1ª linha: a quantidade de produtos.  
-*   2ª linha: o valor dos produtos.
-*   3ª linha: os chutes do primeiro (float).
-*   4ª linha: as escolhas do segundo (m para menor, M para maior).  
+*   1ª linha: a quantidade de rodadas.  
+*   2ª linha: o valor dos produtos de todas as rodadas.
+*   3ª linha: os chutes do primeiro (float) para todas as rodadas.
+*   4ª linha: as escolhas do segundo (m para menor, M para maior) para todas as rodadas.  
 
 ### Saída
 

@@ -1,4 +1,4 @@
-[](../base/011/Readme.md) : 011 : #01_ope L1 - Formatando data (Zeros à esquerda)
+[](../base/011/Readme.md) : 011 : $01_ope L1 - Formatando data (Zeros à esquerda)
 [](../base/000/Readme.md) : 000 : $01_ope L1 - Operações básicas (Imprimindo float formatado)
 [](../base/003/Readme.md) : 003 : $01_ope L2 - Opala bebedor (Cálculo de desempenho)
 [](../base/002/Readme.md) : 002 : $01_ope L2 - Pintando a casa (Calculando a área do triângulo)
@@ -21,7 +21,8 @@
 [](../base/028/Readme.md) : 028 : $02_sel L2 - Cadê a cabeça da cobra
 [](../base/183/Readme.md) : 183 : $02_sel L2 - Criança, Adulto, Idoso, Múmia
 [](../base/031/Readme.md) : 031 : $02_sel L2 - Fiquei de final
-[](../base/030/Readme.md) : 030 : $02_sel L2 - Mercantil V1
+[](../base/030/Readme.md) : 030 : $02_sel L2 - Mercantil V1 - Quem chega mais perto
+[](../base/039/Readme.md) : 039 : $02_sel L2 - Mercantil V2 - Maior ou Menor
 [](../base/035/Readme.md) : 035 : $02_sel L2 - OBI 2017 - Fase 1 - Drone de Entrega
 [](../base/022/Readme.md) : 022 : $02_sel L2 - OBI 2017 - Fase 1 - Teleférico
 [](../base/019/Readme.md) : 019 : $02_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
@@ -35,7 +36,6 @@
 [](../base/157/Readme.md) : 157 : $02_sel L3 - Frota de Táxi - OBI 2005
 [](../base/037/Readme.md) : 037 : $02_sel L3 - Jokenpo 15
 [](../base/023/Readme.md) : 023 : $02_sel L3 - Jokenpo das tartarugas!
-[](../base/039/Readme.md) : 039 : $02_sel L3 - Mercantil V2
 [](../base/036/Readme.md) : 036 : $02_sel L3 - Morre o do meio
 [](../base/033/Readme.md) : 033 : $02_sel L3 - Professor Bonzinho
 [](../base/042/Readme.md) : 042 : $02_sel L3 - Rufus e Ordenação!
@@ -89,7 +89,7 @@
 [](../base/079/Readme.md) : 079 : $04_vet L3 - Jogo do Avesso V2
 [](../base/081/Readme.md) : 081 : $04_vet L3 - Loucura de Marquinhos - Decompor um inteiro
 [](../base/139/Readme.md) : 139 : $04_vet L3 - MMC de vários números.
-[](../base/077/Readme.md) : 077 : $04_vet L3 - Mercantil V3
+[](../base/077/Readme.md) : 077 : $04_vet L3 - Mercantil V3 - Muitas rodadas
 [](../base/162/Readme.md) : 162 : $04_vet L3 - Mini-Poker - OBI2005
 [](../base/071/Readme.md) : 071 : $04_vet L3 - Mário e o Assassins Creed - Parkour
 [](../base/074/Readme.md) : 074 : $04_vet L3 - OBI 2017 - Fase 1 - Botas Trocadas

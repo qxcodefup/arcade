@@ -1,17 +1,13 @@
-## $02_sel L2 - Mercantil V1
+## $02_sel L2 - Mercantil V1 - Quem chega mais perto
 ## @qxcode
 
 ![](__capa.jpg)
 
 ## Descrição
 
-Pedro e João foram no Silvio Santos. O programa era aquele
-que o Silvio mostrava um produto do mercantil e a pessoa
-que chegasse mais próximo do preço real ganhava.
+Pedro e João foram no Silvio Santos. O programa era aquele que o Silvio mostrava um produto do mercantil, ambos os participantes chutavam o preço e a pessoa que chegasse mais próximo do preço real ganhava.
 
-O objetivo do seu programa é informar quem ganhou a disputa.
-Você receberá o valor do produto e o valor do chute de cada jogador.
-O jogador que chegar mais perto ganha.
+O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o valor do produto e o valor do chute de cada jogador. O jogador que chegar mais perto ganha.
 
 Se ambos ficarem à mesma distancia do valor real, então houve empate.
 
@@ -70,6 +66,4 @@ primeiro
 empate
 <<<<<<<<
 ```
-
-#
 
