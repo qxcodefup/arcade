@@ -16,3 +16,53 @@ A
 output="11 50
 "
 grade reduction=100%
+
+
+case=02
+input=00
+40
+A
+1
+output="00 30
+"
+grade reduction=100%
+
+
+case=03
+input=00
+10
+A
+2
+output="11 50
+"
+grade reduction=100%
+
+
+case=04
+input=07
+40
+A
+915
+output="11 10
+"
+grade reduction=100%
+
+
+case=05
+input=05
+10
+H
+492
+output="03 10
+"
+grade reduction=100%
+
+
+case=06
+input=09
+10
+H
+27
+output="01 40
+"
+grade reduction=100%

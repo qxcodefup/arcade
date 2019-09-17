@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=3\n0 0 1\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=7\n1 0 0 0 1 0 1\noutput=\"1\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=3\n0 0 1\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=7\n1 0 0 0 1 0 1\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=5\n0 0 1 0 0\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=7\n1 0 0 0 0 0 1\noutput=\"3\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=6\n0 1 0 0 1 0\noutput=\"0\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "package.json",

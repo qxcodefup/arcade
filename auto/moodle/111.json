@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=01\ninput=a    almofada\noutput=\"a almofada\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=comi    sorvete\noutput=\"comi sorvete\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=meteoro        pegasus\noutput=\"meteoro pegasus\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=galinha          pintadinha\noutput=\"galinha pintadinha\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=galinha          pintadinha\noutput=\"galinha pintadinha\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=a    almofada\noutput=\"a almofada\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=comi    sorvete\noutput=\"comi sorvete\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=meteoro        pegasus\noutput=\"meteoro pegasus\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=a   almofada\noutput=\"a almofada\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=meteoro          pegasus\noutput=\"meteoro pegasus\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=galinha pintadinha\noutput=\"galinha pintadinha\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

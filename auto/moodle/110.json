@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=02\ninput=hora de morfar\noutput=\"oaeoa\nhrdmrfr\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=um abraco amigo\noutput=\"uaaoaio\nmbrcmg\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=meteoro de pegasus\noutput=\"eeooeeau\nmtrdpgss\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=thunder thunder thunder cats owwww\noutput=\"ueueueao\nthndrthndrthndrctswwww\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=um abraco amigo\noutput=\"uaaoaio\nmbrcmg\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=meteoro de pegasus\noutput=\"eeooeeau\nmtrdpgss\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=hora de morfar\noutput=\"oaeoa\nhrdmrfr\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=thunder thunder thunder cats owwww\noutput=\"ueueueao\nthndrthndrthndrctswwww\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

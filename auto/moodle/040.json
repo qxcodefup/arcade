@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=2\n12\n20\noutput=\"NAO\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=1\n05\n02\noutput=\"NAO\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3\n19\n19\noutput=\"NAO\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=2\n12\n20\noutput=\"NAO\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=1\n05\n02\noutput=\"NAO\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3\n19\n19\noutput=\"NAO\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=2\n11 \n20\noutput=\"SIM\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=1\n05 \n02\noutput=\"NAO\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=3\n19 \n19\noutput=\"NAO\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=6\n15\n19\noutput=\"SIM\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=4\n12\n00\noutput=\"NAO\n\"\ngrade reduction=100%\n\n\ncase=08\ninput=5\n11\n59\noutput=\"SIM\n\"\ngrade reduction=100%\n\n\ncase=09\ninput=5\n14\n00\noutput=\"SIM\n\"\ngrade reduction=100%\n\n\ncase=10\ninput=5\n08\n00\noutput=\"SIM\n\"\ngrade reduction=100%\n\n\ncase=11\ninput=7\n08\n00\noutput=\"SIM\n\"\ngrade reduction=100%\n\n\ncase=12\ninput=7\n16\n00\noutput=\"NAO\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.py.txt",

@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00 bastao parado\ninput=4 4\n.#.#\n.#o#\n##o#\n##o#\noutput=\".#.#\n.#o#\n##o#\n##o#\n\"\ngrade reduction=100%\n\n\ncase=01 u movel\ninput=4 4\nooo#\no.o#\no#o#\n.#.#\noutput=\"...#\nooo#\no#o#\no#o#\n\"\ngrade reduction=100%\n"
+      "contents": "case=00 bastao parado\ninput=4 4\n.#.#\n.#o#\n##o#\n##o#\noutput=\".#.#\n.#o#\n##o#\n##o#\n\"\ngrade reduction=100%\n\n\ncase=01 u movel\ninput=4 4\nooo#\no.o#\no#o#\n.#.#\noutput=\"...#\nooo#\no#o#\no#o#\n\"\ngrade reduction=100%\n\n\ncase=02 L descendo\ninput=5 5\n.....\n..ooo\n.#..o\n###..\n##.##\noutput=\".....\n.....\n.#ooo\n###.o\n##.##\n\"\ngrade reduction=100%\n\n\ncase=03 barra parada\ninput=5 6\n......\n.ooooo\n.#....\n.##..#\n##.##.\noutput=\"......\n.ooooo\n.#....\n.##..#\n##.##.\n\"\ngrade reduction=100%\n\n\ncase=04 nave caindo\ninput=5 7\n.##o.o.\n.##ooo#\n.#..o.#\n.##..#.\n##.##.#\noutput=\".##....\n.##o.o#\n.#.ooo#\n.##.o#.\n##.##.#\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

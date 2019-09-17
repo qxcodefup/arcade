@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=2 1 13\noutput=\"21\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=2 11 13\noutput=\"20\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3 1 1 1\noutput=\"13\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=5 1 1 2 3 12\noutput=\"17\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=5 1 1 2 10 12  \noutput=\"24\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=2 1 13\noutput=\"21\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=2 11 13\noutput=\"20\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3 1 1 1\noutput=\"13\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=5 1 1 2 3 12\noutput=\"17\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=5 1 1 2 10 12  \noutput=\"24\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=1 1\noutput=\"11\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=4 1 1 1 2\noutput=\"15\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=5 1 1 2 10 12\noutput=\"24\n\"\ngrade reduction=100%\n\n\ncase=08\ninput=3 11 12 13\noutput=\"30\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.py.txt",

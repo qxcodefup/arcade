@@ -28,3 +28,19 @@ input=500
 output="122
 "
 grade reduction=100%
+
+
+case=04
+input=200
+1
+output="60
+"
+grade reduction=100%
+
+
+case=05
+input=500
+100
+output="185
+"
+grade reduction=100%

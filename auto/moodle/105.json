@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=Opa amigo xarles 2o\na\nx\noutput=\"Opx xmigo axrles 2o\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=minha chinela\nabcdefghijlm\nnopqrtuvwxyz\noutput=\"zwavn pvwaryn\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=Opa amigo xarles 2o\na\nx\noutput=\"Opx xmigo axrles 2o\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=minha chinela\nabcdefghijlm\nnopqrtuvwxyz\noutput=\"zwavn pvwaryn\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=aquoso estrela\naeios\n43102\noutput=\"4qu020 32tr3l4\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=eu desejo eu quero eu vou\neo\nta\noutput=\"tu dtstja tu qutra tu vau\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

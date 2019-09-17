@@ -1,3 +1,10 @@
+>>>>>>>> 00
+galinha          pintadinha
+========
+galinha pintadinha
+<<<<<<<<
+
+
 >>>>>>>> 01
 a    almofada
 ========
@@ -19,8 +26,22 @@ meteoro pegasus
 <<<<<<<<
 
 
->>>>>>>> 00
-galinha          pintadinha
+>>>>>>>> 04
+a   almofada
+========
+a almofada
+<<<<<<<<
+
+
+>>>>>>>> 05
+meteoro          pegasus
+========
+meteoro pegasus
+<<<<<<<<
+
+
+>>>>>>>> 06
+galinha pintadinha
 ========
 galinha pintadinha
 <<<<<<<<

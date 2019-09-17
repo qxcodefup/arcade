@@ -4,11 +4,11 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=2\n8 11\n10 15\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=3\n9 12\n11 13\n10 11\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3\n12 15\n16 14\n10 9\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=4\n12 15\n20 23\n10 9\n35 35\noutput=\"3\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=2\n8 11\n10 15\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=3\n9 12\n11 13\n10 11\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3\n12 15\n16 14\n10 9\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=4\n12 15\n20 23\n10 9\n35 35\noutput=\"3\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=2\n10 8\n9 13\noutput=\"sem ganhador\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=2\n8 9\n12 7\noutput=\"sem ganhador\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=2\n10 9\n15 19\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=3\n12 17\n14 11\n8 9\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=08\ninput=3\n9 12\n11 13\n12 13\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=09\ninput=4\n9 8\n9 12\n12 9\n6 7\noutput=\"sem ganhador\n\"\ngrade reduction=100%\n\n\ncase=10\ninput=4\n9 8\n9 12\n12 15\n6 7\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=11\ninput=4\n9 8\n9 12\n12 15\n18 19\noutput=\"3\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",
-      "contents": "#include <stdio.h>\n\nint main () {\n\t\n\tint n, A, B, i;\n\tint ganhador = -1;\n\tint melhordist = 0;\n\tint dist;\n\t\n\tscanf(\"%d\", &n);\n\t\n\tfor( i = 0; i < n; i++){\n\t\tscanf(\"%d%d\", &A, &B);\n\t\tif ( A >= 10 && B >= 10) { \n    \t\tdist = A - B;\n    \t\tdist = dist < 0 ? -dist : dist;\n    \t\tif((ganhador == -1) || (dist < melhordist)){\n\t\t        ganhador = i;\n\t\t        melhordist = dist;\n    \t\t}\n\t\t}\n\t}\t\n\t\t\n\tif( ganhador != -1)\n\t\tprintf(\"%d\\n\", ganhador);\n\telse\n\t\tprintf(\"sem ganhador\\n\");\n\t\n\treturn 0;\n}\n"
+      "contents": "#include <stdio.h>\n\nint main () {\n    \n    int n, A, B, i;\n    int ganhador = -1;\n    int melhordist = 0;\n    int dist;\n    \n    scanf(\"%d\", &n);\n    \n    for( i = 0; i < n; i++){\n        scanf(\"%d%d\", &A, &B);\n        if ( A >= 10 && B >= 10) { \n            dist = A - B;\n            dist = dist < 0 ? -dist : dist;\n            if((ganhador == -1) || (dist < melhordist)){\n                ganhador = i;\n                melhordist = dist;\n            }\n        }\n    }\t\n        \n    if( ganhador != -1)\n        printf(\"%d\\n\", ganhador);\n    else\n        printf(\"sem ganhador\\n\");\n    return 0;\n}\n"
     }
   ],
   "requiredFile": null

@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=01\ninput=Teco-Teco!\ntbxyan\n_\noutput=\"T___-T___!\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=Seu Pilantra!\nyzxa\n*\noutput=\"*** ***a***a!\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=extraordinario\naeioubcdfgh\n*\noutput=\"e***ao*di*a*io\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=extraordinario\naeioubcdfgh\n*\noutput=\"e***ao*di*a*io\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=Teco-Teco!\ntbxyan\n_\noutput=\"T___-T___!\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=Seu Pilantra!\nyzxa\n*\noutput=\"*** ***a***a!\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

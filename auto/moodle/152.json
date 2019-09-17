@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=02\ninput=AAA\noutput=\"3\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=BANANAS\noutput=\"4\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=AAXBBXZZX\noutput=\"7\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=BANANAS\noutput=\"4\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=AAXBBXZZX\noutput=\"7\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=AAA\noutput=\"3\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=LDAPJFUCKKNCJFDRYKOO\noutput=\"7\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=AZZZZAAAAZAZZAZZZAZA\noutput=\"12\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=ZAZZZZZZZZZZAZZZAZZZ\noutput=\"17\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=ZAAAZZZAAAAZAAZAZZAA\noutput=\"12\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=VSNNPBZDIIJEDJYOSHSH\noutput=\"9\n\"\ngrade reduction=100%\n\n\ncase=08\ninput=OMDURMSZYZEYTWQZRPVQ\noutput=\"6\n\"\ngrade reduction=100%\n\n\ncase=09\ninput=PIRCHIRKSEUOKCBBOCMC\noutput=\"6\n\"\ngrade reduction=100%\n\n\ncase=10\ninput=VHOGWMFNOBTJRXSRMVVK\noutput=\"8\n\"\ngrade reduction=100%\n\n\ncase=11\ninput=ASYHGLIRVWSFYDBAAPJY\noutput=\"8\n\"\ngrade reduction=100%\n\n\ncase=12\ninput=TPNETFUVCKKLJMDMKKZC\noutput=\"8\n\"\ngrade reduction=100%\n\n\ncase=13\ninput=NPONLLXMRFOUPTRAXZTZ\noutput=\"9\n\"\ngrade reduction=100%\n\n\ncase=14\ninput=ABCDEFGHIJKLMNOPQRST\noutput=\"20\n\"\ngrade reduction=100%\n\n\ncase=15\ninput=AZZZAAZZAAAZAZAZAZAZ\noutput=\"11\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.py.txt",

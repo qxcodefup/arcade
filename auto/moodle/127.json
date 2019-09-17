@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=amo o amor que me amou, oh amora amortecida\namo\noutput=\"5\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=o rato ratificou o carate que rateamos no cerato.\nrat\noutput=\"5\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=amo o amor que me amou, oh amora amortecida\namo\noutput=\"5\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=o rato ratificou o carate que rateamos no cerato.\nrat\noutput=\"5\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=lua de cristal que me faz sonhar menos\nme\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=marquei um x no seu umbigo de zumbak\num\noutput=\"3\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=super golpe de kungfu\nkungfu\noutput=\"1\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

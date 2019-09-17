@@ -22,14 +22,6 @@ output="4 leds
 grade reduction=100%
 
 
-case=03
-input=1
-1234567890
-output="49 leds
-"
-grade reduction=100%
-
-
 case=02
 input=3
 115380
@@ -38,5 +30,13 @@ input=3
 output="27 leds
 29 leds
 25 leds
+"
+grade reduction=100%
+
+
+case=03
+input=1
+1234567890
+output="49 leds
 "
 grade reduction=100%

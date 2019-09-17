@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=2\n1 2\noutput=\"rebeldes\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=2\n2 3\noutput=\"soldados\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=3\n1 2 1\noutput=\"empate\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=4\n1 2 3 1\noutput=\"soldados\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=5\n1 2 3 1 4\noutput=\"rebeldes\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=2\n1 2\noutput=\"rebeldes\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=3\n1 2 1\noutput=\"empate\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=2\n2 3\noutput=\"soldados\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=4\n1 2 3 1\noutput=\"soldados\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=5\n1 2 3 1 4\noutput=\"rebeldes\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

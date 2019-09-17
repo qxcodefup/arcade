@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=1\na batata\noutput=\"a BaTaTa\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=2\nAAAAAAAA\nbBbBbBbB\noutput=\"AaAaAaAa\nbBbBbBbB\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=2\nMorra Prea\nBigODE Aparado\noutput=\"MoRrA pReA\nBiGoDe ApArAdO\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=1\na batata\noutput=\"a BaTaTa\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=2\nAAAAAAAA\nbBbBbBbB\noutput=\"AaAaAaAa\nbBbBbBbB\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=2\nMorra Prea\nBigODE Aparado\noutput=\"MoRrA pReA\nBiGoDe ApArAdO\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=3\na Morra Prea\ng BigODE Aparado\nabcd ef\noutput=\"a MoRrA pReA\ng BiGoDe ApArAdO\naBcD eF\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

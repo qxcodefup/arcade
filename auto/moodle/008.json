@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=01 misturado\ninput=3 7\n#!1Ap\n!#A\noutput=\"!#p\n!!#\n!!!\n!!1\n!!A\n!!p\n!1#\n\"\ngrade reduction=100%\n\n\ncase=00 numerico apenas\ninput=4 10\n0179\n9997\noutput=\"9999\n0000\n0001\n0007\n0009\n0010\n0011\n0017\n0019\n0070\n\"\ngrade reduction=100%\n\n\ncase=02 numerico invertido\ninput=4 10\n0982\n2222\noutput=\"0000\n0009\n0008\n0002\n0090\n0099\n0098\n0092\n0080\n0089\n\"\ngrade reduction=100%\n"
+      "contents": "case=00 numerico apenas\ninput=4 10\n0179\n9997\noutput=\"9999\n0000\n0001\n0007\n0009\n0010\n0011\n0017\n0019\n0070\n\"\ngrade reduction=100%\n\n\ncase=01 misturado\ninput=3 7\n#!1Ap\n!#A\noutput=\"!#p\n!!#\n!!!\n!!1\n!!A\n!!p\n!1#\n\"\ngrade reduction=100%\n\n\ncase=02 numerico invertido\ninput=4 10\n0982\n2222\noutput=\"0000\n0009\n0008\n0002\n0090\n0099\n0098\n0092\n0080\n0089\n\"\ngrade reduction=100%\n\n\ncase=03 muitos\ninput=6 50\nZou29@#\n####ou\noutput=\"####o2\n####o9\n####o@\n####o#\n####uZ\n####uo\n####uu\n####u2\n####u9\n####u@\n####u#\n####2Z\n####2o\n####2u\n####22\n####29\n####2@\n####2#\n####9Z\n####9o\n####9u\n####92\n####99\n####9@\n####9#\n####@Z\n####@o\n####@u\n####@2\n####@9\n####@@\n####@#\n#####Z\n#####o\n#####u\n#####2\n#####9\n#####@\n######\nZZZZZZ\nZZZZZo\nZZZZZu\nZZZZZ2\nZZZZZ9\nZZZZZ@\nZZZZZ#\nZZZZoZ\nZZZZoo\nZZZZou\nZZZZo2\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

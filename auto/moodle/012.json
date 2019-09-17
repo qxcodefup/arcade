@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=3\nG L G\nC C C\nC G G\noutput=\"Condenados a morte\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=3\nG G C\nC C C\nG C C\noutput=\"Condenados a morte\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3\nC C G\nC G C\nG C C\noutput=\"Ninguem\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=3\nG L G\nC C C\nC G G\noutput=\"Condenados a morte\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=3\nG G C\nC C C\nG C C\noutput=\"Condenados a morte\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3\nC C G\nC G C\nG C C\noutput=\"Ninguem\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=3\nC G G\nC G C\nG C C\noutput=\"Gladiadores\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=3\nC C G\nC L C\nG C C\noutput=\"Ninguem\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=3\nC G G\nC L C\nG C C\noutput=\"Gladiadores\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=4\nG L G G\nC C C C\nG C G C\nC G C C\noutput=\"Condenados a morte\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=4\nG G G L\nC C G C\nC G C C\nG C C G\noutput=\"Ninguem\n\"\ngrade reduction=100%\n\n\ncase=08\ninput=5\nG G G G L\nC C G C C\nC C G C C\nC C G G C\nC C C C C\noutput=\"Condenados a morte\n\"\ngrade reduction=100%\n\n\ncase=09\ninput=5\nC C C C C\nL G G C G\nG G G G G\nC G C G C\nC G C C C\noutput=\"Gladiadores\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.py.txt",

@@ -1,10 +1,3 @@
-case=02
-input=AaBbCcDdEe
-output="vvccccccvv
-"
-grade reduction=100%
-
-
 case=00
 input=Pedrinho Marcio
 output="cvccvccv cvccvv
@@ -15,5 +8,12 @@ grade reduction=100%
 case=01
 input=Reumario Albrito
 output="cvvcvcvv vcccvcv
+"
+grade reduction=100%
+
+
+case=02
+input=AaBbCcDdEe
+output="vvccccccvv
 "
 grade reduction=100%

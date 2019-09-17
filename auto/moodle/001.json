@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=03 sem ra\u00edzes\ninput=5.0\n3.0\n5.0\noutput=\"nao ha raiz real\n\"\ngrade reduction=100%\n\n\ncase=01 duas ra\u00edzes\ninput=3.0\n-7.0\n4.0\noutput=\"1.33\n1.00\n\"\ngrade reduction=100%\n\n\ncase=02 uma raiz\ninput=9.0\n-12.0\n4.0\noutput=\"0.67\n\"\ngrade reduction=100%\n\n\ncase=00 duas ra\u00edzes\ninput=5.4\n25.0\n-12.0\noutput=\"0.44\n-5.07\n\"\ngrade reduction=100%\n"
+      "contents": "case=00 duas ra\u00edzes\ninput=5.4\n25.0\n-12.0\noutput=\"0.44\n-5.07\n\"\ngrade reduction=100%\n\n\ncase=01 duas ra\u00edzes\ninput=3.0\n-7.0\n4.0\noutput=\"1.33\n1.00\n\"\ngrade reduction=100%\n\n\ncase=02 uma raiz\ninput=9.0\n-12.0\n4.0\noutput=\"0.67\n\"\ngrade reduction=100%\n\n\ncase=03 sem ra\u00edzes\ninput=5.0\n3.0\n5.0\noutput=\"nao ha raiz real\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=1.0\n-1.0\n-20.0\noutput=\"5.00\n-4.00\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=2.00\n0.00\n0.00\noutput=\"0.00\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=5.3\n3.4\n19.2\noutput=\"nao ha raiz real\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

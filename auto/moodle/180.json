@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=2\nHomem de Ferro\n500\nViuva Negra\n340\n2\nCapitao America\n400\nSoldado Invernal\n450\noutput=\"Team Captain Wins\nHomem de Ferro\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=3\nPantera Negra\n600\nVisao\n1000\nMaquina de Combate\n500\n3\nSoldado Invernal\n550\nWanda\n1200\nHomem Formiga\n300\noutput=\"Team Iron Wins\nWanda\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=2\nHomem de Ferro\n500\nViuva Negra\n340\n2\nCapitao America\n400\nSoldado Invernal\n450\noutput=\"Team Captain Wins\nHomem de Ferro\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=3\nPantera Negra\n600\nVisao\n1000\nMaquina de Combate\n500\n3\nSoldado Invernal\n550\nWanda\n1200\nHomem Formiga\n300\noutput=\"Team Iron Wins\nWanda\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=2\nHomem de Ferro\n500\nVisao\n500\n2\nCapitao America\n650\nSoldado Invernal\n350\noutput=\"Draw\nCapitao America\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=5\nHomem de Ferro\n600\nVisao\n1350\nMaquina de Combate\n400\nPantera Negra\n700\nHomem Aranha\n300\n5\nCapitao America\n650\nSoldado Invernal\n800\nHomem Formiga\n500\nGaviao Arqueiro\n400\nFalcao\n350\noutput=\"Team Iron Wins\nVisao\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=1\nHomem de Ferro\n800\n2\nCapitao America\n500\nSoldado Invernal\n500\noutput=\"Team Captain Wins\nHomem de Ferro\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.py.txt",

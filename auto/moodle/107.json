@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=02\ninput=a data ua bbfrua\nab\n-\noutput=\"a casa ta aberta\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=batata? sim! frita!!\nabac\n+\noutput=\"bbtctb? skm! grktb!!\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=quando vi voce eu buguei\nprincesa\n+\noutput=\"fliafs ni kfkr gy tuvlmv\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=batata? sim! frita!!\nabac\n+\noutput=\"bbtctb? skm! grktb!!\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=quando vi voce eu buguei\nprincesa\n+\noutput=\"fliafs ni kfkr gy tuvlmv\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=a data ua bbfrua\nab\n-\noutput=\"a casa ta aberta\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=o bobe!\nab\n+\noutput=\"o coce!\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=o coce!\nab\n-\noutput=\"o bobe!\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

@@ -24,3 +24,51 @@ o#o#
 o#o#
 "
 grade reduction=100%
+
+
+case=02 L descendo
+input=5 5
+.....
+..ooo
+.#..o
+###..
+##.##
+output=".....
+.....
+.#ooo
+###.o
+##.##
+"
+grade reduction=100%
+
+
+case=03 barra parada
+input=5 6
+......
+.ooooo
+.#....
+.##..#
+##.##.
+output="......
+.ooooo
+.#....
+.##..#
+##.##.
+"
+grade reduction=100%
+
+
+case=04 nave caindo
+input=5 7
+.##o.o.
+.##ooo#
+.#..o.#
+.##..#.
+##.##.#
+output=".##....
+.##o.o#
+.#.ooo#
+.##.o#.
+##.##.#
+"
+grade reduction=100%

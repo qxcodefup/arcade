@@ -12,3 +12,59 @@ input=jose
 output="jose eh idoso
 "
 grade reduction=100%
+
+
+case=02
+input=mario
+1
+output="mario eh crianca
+"
+grade reduction=100%
+
+
+case=03
+input=mariana
+12
+output="mariana eh jovem
+"
+grade reduction=100%
+
+
+case=04
+input=maria
+17
+output="maria eh jovem
+"
+grade reduction=100%
+
+
+case=05
+input=marina
+18
+output="marina eh adulto
+"
+grade reduction=100%
+
+
+case=06
+input=marion
+64
+output="marion eh adulto
+"
+grade reduction=100%
+
+
+case=07
+input=marilene
+65
+output="marilene eh idoso
+"
+grade reduction=100%
+
+
+case=08
+input=maridracula
+10000
+output="maridracula eh mumia
+"
+grade reduction=100%

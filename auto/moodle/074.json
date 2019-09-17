@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=4\n40 D\n41 E\n41 D\n40 E\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=6\n38 E\n39 E\n40 D\n38 D\n40 D\n37 E\noutput=\"1\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=4\n40 D\n41 E\n41 D\n40 E\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=6\n38 E\n39 E\n40 D\n38 D\n40 D\n37 E\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=10\n30 E\n31 E\n31 D\n31 E\n30 D\n31 D\n31 D\n31 E\n30 D\n31 D\noutput=\"4\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=10\n44 D\n40 E\n44 D\n43 E\n42 E\n40 D\n41 D\n42 D\n43 D\n43 E\noutput=\"3\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=10\n59 D\n59 E\n59 D\n60 D\n59 D\n60 D\n60 E\n59 E\n59 D\n60 D\noutput=\"3\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=12\n56 D\n59 D\n58 E\n56 D\n60 E\n56 D\n57 E\n59 E\n58 D\n56 D\n57 D\n60 E\noutput=\"3\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

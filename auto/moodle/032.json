@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=01\ninput=b\n68\noutput=\"Fraco, nem passou\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=b\n99\noutput=\"Satisfeito\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=c\n100\noutput=\"Perfeito\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=c\n160\noutput=\"Muito forte, bola fora\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=c\n100\noutput=\"Perfeito\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=b\n68\noutput=\"Fraco, nem passou\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=c\n160\noutput=\"Muito forte, bola fora\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=b\n99\noutput=\"Satisfeito\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=c\n90\noutput=\"Perfeito\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=c\n87\noutput=\"Fraco, nem passou\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=b\n120\noutput=\"Muito forte, bola fora\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=c\n127\noutput=\"Muito forte, bola fora\n\"\ngrade reduction=100%\n\n\ncase=08\ninput=c\n115\noutput=\"Satisfeito\n\"\ngrade reduction=100%\n\n\ncase=09\ninput=c\n50\noutput=\"Fraco, nem passou\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

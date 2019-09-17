@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=fundamentos de programacao\na\noutput=\"4\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=fundamentos de programacao\na\noutput=\"4\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=o rato roeu a roupa do rei de roma\na\noutput=\"4\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=o rato roeu a roupa do rei de roma\nx\noutput=\"0\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=o rato roeu a roupa do rei de roma\no\noutput=\"6\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

@@ -1,6 +1,6 @@
-case=02
-input=Ana
-output="22
+case=00
+input=David
+output="38
 "
 grade reduction=100%
 
@@ -12,22 +12,15 @@ output="0
 grade reduction=100%
 
 
-case=00
-input=David
-output="38
+case=02
+input=Ana
+output="22
 "
 grade reduction=100%
 
 
 case=03
 input=BruNa
-output="22
-"
-grade reduction=100%
-
-
-case=05
-input=andre
 output="22
 "
 grade reduction=100%
@@ -40,9 +33,9 @@ output="13
 grade reduction=100%
 
 
-case=07
-input=Fernando
-output="13
+case=05
+input=andre
+output="22
 "
 grade reduction=100%
 
@@ -50,5 +43,12 @@ grade reduction=100%
 case=06
 input=CumpadreWashington
 output="25
+"
+grade reduction=100%
+
+
+case=07
+input=Fernando
+output="13
 "
 grade reduction=100%

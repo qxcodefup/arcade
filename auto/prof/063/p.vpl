@@ -31,3 +31,31 @@ input=5 1 1 2 10 12
 output="24
 "
 grade reduction=100%
+
+
+case=05
+input=1 1
+output="11
+"
+grade reduction=100%
+
+
+case=06
+input=4 1 1 1 2
+output="15
+"
+grade reduction=100%
+
+
+case=07
+input=5 1 1 2 10 12
+output="24
+"
+grade reduction=100%
+
+
+case=08
+input=3 11 12 13
+output="30
+"
+grade reduction=100%

@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>@077 L3 - Mercantil V3</title>
+  <title>@077 L3 - Mercantil V3 - Muitas rodadas</title>
   <style>
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
@@ -16,28 +16,30 @@
   <![endif]-->
 </head>
 <body>
-<h2 id="vet-l3---mercantil-v3">$04_vet L3 - Mercantil V3</h2>
+<h2 id="vet-l3---mercantil-v3---muitas-rodadas">$04_vet L3 - Mercantil V3 - Muitas rodadas</h2>
 <h2 id="qxcode"><span class="citation" data-cites="qxcode">@qxcode</span></h2>
 <p><img src="__capa.jpg" /></p>
 <h2 id="motivação">Motivação</h2>
-<p>Essa é a segunda versão do jogo do Mercantil.</p>
-<p>Pedro e João foram no Sílvio Santos. O programa era aquele<br />
-que o Sílvio mostrava um produto do mercantil e a pessoa<br />
-que chegasse mais próximo do preço real ganhava.</p>
-<p>João e Pedro são concorrentes.<br />
-O objetivo do seu programa é informar quem ganhou a disputa.</p>
-<p>Nessa versão, o primeiro jogador informa o preço e o segundo jogador informa maior ou menor.<br />
-Quem vencer mais disputas ganha o jogo.<br />
-Se o valor do produto for igual ao chute, ganha o primeiro<br />
-concorrente.</p>
-<p>Se ambos vencerem a mesma quantidade então acontece o empate.</p>
+<h2 id="descrição">Descrição</h2>
+<ul>
+<li>Pedro e João foram no Silvio Santos. Esse problema é diferente da versão V1 do Mercantil.</li>
+<li>Nesse, cada produto tem um valor real que nenhum dos competidores conhece.</li>
+<li>O jogo funciona assim:
+<ul>
+<li>O primeiro competidor chuta um valor.</li>
+<li>O segundo competidor chuta se acha que o valor real é maior ou menor que o valor chutado pelo primeiro competidor.</li>
+<li>O primeiro jogador ganha se ele acertar o chute no valor exato ou se o segundo jogador chutar na direção errada.</li>
+<li>O segundo jogador caso contrário.</li>
+</ul></li>
+<li>O jogo acontecerá em várias rodadas. Ganhará o jogo quem vencer mais rodadas. Acontecerá empate se ambos ganharem a mesma quantidade de rodadas.</li>
+</ul>
 <h3 id="entrada">Entrada</h3>
 <ul>
-<li>1ª linha: a quantidade de produtos.<br />
+<li>1ª linha: a quantidade de rodadas.<br />
 </li>
-<li>2ª linha: o valor dos produtos.</li>
-<li>3ª linha: os chutes do primeiro (float).</li>
-<li>4ª linha: as escolhas do segundo (m para menor, M para maior).</li>
+<li>2ª linha: o valor dos produtos de todas as rodadas.</li>
+<li>3ª linha: os chutes do primeiro (float) para todas as rodadas.</li>
+<li>4ª linha: as escolhas do segundo (m para menor, M para maior) para todas as rodadas.</li>
 </ul>
 <h3 id="saída">Saída</h3>
 <ul>

@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=01 00 00\n03 00 00\noutput=\"02 00 00\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=02 11 00\n03 10 10\noutput=\"00 59 10\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=04 10 00\n03 10 10\noutput=\"23 00 10\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=04 00 01\n03 00 00\noutput=\"22 59 59\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=01 00 00\n03 00 00\noutput=\"02 00 00\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=02 11 00\n03 10 10\noutput=\"00 59 10\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=04 10 00\n03 10 10\noutput=\"23 00 10\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=04 00 01\n03 00 00\noutput=\"22 59 59\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=0 0 0\n1 1 1\noutput=\"01 01 01\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=10 0 0\n11 12 13\noutput=\"01 12 13\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=04 05 00\n03 05 00\noutput=\"23 00 00\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=03 15 32\n21 34 07\noutput=\"18 18 35\n\"\ngrade reduction=100%\n\n\ncase=08\ninput=21 15 32\n06 34 09\noutput=\"09 18 37\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

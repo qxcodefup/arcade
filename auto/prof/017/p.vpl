@@ -16,3 +16,47 @@ input=5
 output="8
 "
 grade reduction=100%
+
+
+case=02
+input=
+5
+9
+15
+26
+output="26
+"
+grade reduction=100%
+
+
+case=03
+input=
+14
+65
+84
+23
+output="84
+"
+grade reduction=100%
+
+
+case=04
+input=
+9
+8
+3
+2
+output="9
+"
+grade reduction=100%
+
+
+case=05
+input=
+1
+1
+1
+1
+output="1
+"
+grade reduction=100%

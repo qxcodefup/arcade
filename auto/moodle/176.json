@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=Coralina\n0\n4\noutput=\"Cora\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=Power Ranger\n4\n20\noutput=\"r Ranger\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=Coralina\n0\n4\noutput=\"Cora\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=Power Ranger\n4\n20\noutput=\"r Ranger\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=Coralina\n0\n1\noutput=\"C\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=Coralina\n1\n1\noutput=\"o\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=Coralina\n1\n4\noutput=\"oral\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=Power Ranger\n4\n30\noutput=\"r Ranger\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=Decoracao\n4\n5\noutput=\"racao\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

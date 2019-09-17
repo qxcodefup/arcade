@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=03\ninput=1 1\n*\noutput=\"*\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=3 3\n***\n--*\n--*\noutput=\"***\n25*\n-2*\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=3 3\n---\n-*-\n---\noutput=\"111\n1*1\n111\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3 5\n*----\n----*\n---**\noutput=\"*1-11\n1113*\n--1**\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=3 3\n***\n--*\n--*\noutput=\"***\n25*\n-2*\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=3 3\n---\n-*-\n---\noutput=\"111\n1*1\n111\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3 5\n*----\n----*\n---**\noutput=\"*1-11\n1113*\n--1**\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=1 1\n*\noutput=\"*\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=4 5\n---*-\n-****\n*---*\n-----\noutput=\"124*3\n2****\n*334*\n11-11\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=4 10\n*-*----*-*\n--*-*--*--\n-----*----\n*--------*\noutput=\"*3*3112*3*\n13*3*23*31\n12122*2121\n*1--111-1*\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

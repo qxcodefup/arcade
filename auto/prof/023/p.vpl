@@ -20,3 +20,43 @@ P
 output="jog1
 "
 grade reduction=100%
+
+
+case=03
+input=S
+S
+output="empate
+"
+grade reduction=100%
+
+
+case=04
+input=R
+S
+output="jog1
+"
+grade reduction=100%
+
+
+case=05
+input=S
+R
+output="jog2
+"
+grade reduction=100%
+
+
+case=06
+input=R
+R
+output="empate
+"
+grade reduction=100%
+
+
+case=07
+input=P
+R
+output="jog1
+"
+grade reduction=100%

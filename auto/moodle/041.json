@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=p\n1\n1\noutput=\"Venceu\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=p\n0\n1\noutput=\"Perdeu\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=i\n0\n0\noutput=\"Perdeu\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=i\n1\n0\noutput=\"Venceu\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=p\n1\n1\noutput=\"Venceu\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=p\n0\n1\noutput=\"Perdeu\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=i\n0\n0\noutput=\"Perdeu\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=i\n1\n0\noutput=\"Venceu\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=p\n1 \n2\noutput=\"Perdeu\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=p\n2 \n2\noutput=\"Venceu\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=i\n2 \n2\noutput=\"Perdeu\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=i\n1 \n2\noutput=\"Venceu\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.py.txt",

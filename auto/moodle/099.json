@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=02\ninput=a carla a ama\noutput=\"a carlama\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=a porta amassou\noutput=\"a portamassou\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=carla almeida alencar\noutput=\"carlalmeidalencar\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=o orvalho ouviu uniformemente e eu uivei\noutput=\"orvalhouviuniformementeuivei\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=a porta amassou\noutput=\"a portamassou\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=carla almeida alencar\noutput=\"carlalmeidalencar\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=a carla a ama\noutput=\"a carlama\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=o orvalho ouviu uniformemente e eu uivei\noutput=\"orvalhouviuniformementeuivei\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

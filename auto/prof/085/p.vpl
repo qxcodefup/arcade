@@ -12,3 +12,27 @@ input=7
 output="1
 "
 grade reduction=100%
+
+
+case=02
+input=5
+0 0 1 0 0
+output="2
+"
+grade reduction=100%
+
+
+case=03
+input=7
+1 0 0 0 0 0 1
+output="3
+"
+grade reduction=100%
+
+
+case=04
+input=6
+0 1 0 0 1 0
+output="0
+"
+grade reduction=100%

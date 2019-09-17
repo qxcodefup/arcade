@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=6\n3\noutput=\"2\n0\n2.00\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=7\n3\noutput=\"2\n1\n2.33\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=6\n3\noutput=\"2\n0\n2.00\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=7\n3\noutput=\"2\n1\n2.33\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=\n7\n3\noutput=\"2\n1\n2.33\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=\n6\n3\noutput=\"2\n0\n2.00\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=\n5\n2\noutput=\"2\n1\n2.50\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=\n4\n10\noutput=\"0\n4\n0.40\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "names.txt",

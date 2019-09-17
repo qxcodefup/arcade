@@ -1,3 +1,12 @@
+case=00
+input=extraordinario
+aeioubcdfgh
+*
+output="e***ao*di*a*io
+"
+grade reduction=100%
+
+
 case=01
 input=Teco-Teco!
 tbxyan
@@ -12,14 +21,5 @@ input=Seu Pilantra!
 yzxa
 *
 output="*** ***a***a!
-"
-grade reduction=100%
-
-
-case=00
-input=extraordinario
-aeioubcdfgh
-*
-output="e***ao*di*a*io
 "
 grade reduction=100%

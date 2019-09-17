@@ -1,7 +1,28 @@
+>>>>>>>> 00
+tenho 15 4nos 1.75 altur4 -15 conto p0rr4 -4.04
+========
+str int str float str int str str float
+<<<<<<<<
+
+
+>>>>>>>> 01
+a proxima eleição presidencial no Brasil ocorrerá em 2 de outubro de 2018
+========
+str str str str str str str str int str str str int
+<<<<<<<<
+
+
 >>>>>>>> 02
 aa 1 -2.0
 ========
 str int float
+<<<<<<<<
+
+
+>>>>>>>> 03
+02a -x1 -4.b54 p0
+========
+str str str str
 <<<<<<<<
 
 
@@ -16,25 +37,4 @@ str int float
 02 -1 -4.54 p0
 ========
 int int float str
-<<<<<<<<
-
-
->>>>>>>> 03
-02a -x1 -4.b54 p0
-========
-str str str str
-<<<<<<<<
-
-
->>>>>>>> 00
-tenho 15 4nos 1.75 altur4 -15 conto p0rr4 -4.04
-========
-str int str float str int str str float
-<<<<<<<<
-
-
->>>>>>>> 01
-a proxima eleição presidencial no Brasil ocorrerá em 2 de outubro de 2018
-========
-str str str str str str str str int str str str int
 <<<<<<<<

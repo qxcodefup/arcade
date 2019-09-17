@@ -9,9 +9,10 @@ int main(){
 	cin >> segundo;
 	cin >> valor;
 
-    if((primeiro > valor && segundo == 'm') || (primeiro < valor && segundo == 'M'))
+    if(((primeiro > valor) && (segundo == 'm')) || ((primeiro < valor) && (segundo == 'M'))){
         cout << "segundo\n";
-    else
+	}else{
         cout << "primeiro\n";
+	}
 	return 0;
 }

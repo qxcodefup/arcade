@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=a\nc\nd\nd\noutput=\"Ja ouviu falar\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=d\na\nc\nd\noutput=\"Super Fa\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=a\nc\nd\nd\noutput=\"Ja ouviu falar\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=d\na\nc\nd\noutput=\"Super Fa\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=b\nb\nb\nb\noutput=\"Nunca assistiu\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=d\nb\nb\nb\noutput=\"Ja ouviu falar\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=d\nb\nb\nd\noutput=\"Interessado no assunto\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=d\nb\nc\nd\noutput=\"Fa\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

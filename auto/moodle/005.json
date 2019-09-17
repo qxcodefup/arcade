@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00 conta exata\ninput=3\n1\n1\n1\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=02 sobrando uma\ninput=2\n4\n2\n3\noutput=\"5\n\"\ngrade reduction=100%\n\n\ncase=01 sobrando duas\ninput=10\n4\n4\n4\noutput=\"2\n\"\ngrade reduction=100%\n"
+      "contents": "case=00 conta exata\ninput=3\n1\n1\n1\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=01 sobrando duas\ninput=10\n4\n4\n4\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=02 sobrando uma\ninput=2\n4\n2\n3\noutput=\"5\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=4\n1\n2\n0\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=20\n80\n20\n30\noutput=\"7\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=100\n5\n66\n27\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=7\n20\n13\n16\noutput=\"7\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=2\n15\n13\n19\noutput=\"24\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

@@ -1,3 +1,10 @@
+case=00
+input=galinha          pintadinha
+output="galinha pintadinha
+"
+grade reduction=100%
+
+
 case=01
 input=a    almofada
 output="a almofada
@@ -19,8 +26,22 @@ output="meteoro pegasus
 grade reduction=100%
 
 
-case=00
-input=galinha          pintadinha
+case=04
+input=a   almofada
+output="a almofada
+"
+grade reduction=100%
+
+
+case=05
+input=meteoro          pegasus
+output="meteoro pegasus
+"
+grade reduction=100%
+
+
+case=06
+input=galinha pintadinha
 output="galinha pintadinha
 "
 grade reduction=100%

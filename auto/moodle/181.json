@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=01\ninput=meus 3 cachorros comeram 2 ratos em 11 horas\noutput=\"16\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=os 2 irm\u00e3os de maria durmiram os ultimos 2 dias na casa de seus av\u00f3s\noutput=\"4\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=apesar de 2 jogadores serem expulsos, a sele\u00e7\u00e3o brasileira venceu a sele\u00e7\u00e3o italiana por 5 x 1\noutput=\"8\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=apesar de 2 jogadores serem expulsos, a sele\u00e7\u00e3o brasileira venceu a sele\u00e7\u00e3o italiana por 5 x 1\noutput=\"8\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=meus 3 cachorros comeram 2 ratos em 11 horas\noutput=\"16\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=os 2 irm\u00e3os de maria durmiram os ultimos 2 dias na casa de seus av\u00f3s\noutput=\"4\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=02 x dhgh 111 b 2 c d xf 31\noutput=\"146\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=1 a x dhgh 11 b 2 c d xf 3\noutput=\"17\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

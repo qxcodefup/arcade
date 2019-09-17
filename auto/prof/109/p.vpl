@@ -1,3 +1,17 @@
+case=00
+input=Dhaquison
+output="Dhaquisonn
+"
+grade reduction=100%
+
+
+case=01
+input=Alfredo
+output="Alfredoc
+"
+grade reduction=100%
+
+
 case=02
 input=Maikou
 output="sem sorte
@@ -12,15 +26,22 @@ output="Davidpd
 grade reduction=100%
 
 
-case=01
-input=Alfredo
-output="Alfredoc
+case=04
+input=Ana
+output="sem sorte
 "
 grade reduction=100%
 
 
-case=00
-input=Dhaquison
-output="Dhaquisonn
+case=05
+input=David
+output="Davidp
+"
+grade reduction=100%
+
+
+case=06
+input=Ticiany
+output="sem sorte
 "
 grade reduction=100%

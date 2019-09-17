@@ -10,3 +10,45 @@ input=123
 output="0
 "
 grade reduction=100%
+
+
+case=02
+input=122
+output="0
+"
+grade reduction=100%
+
+
+case=03
+input=1
+output="1
+"
+grade reduction=100%
+
+
+case=04
+input=11
+output="1
+"
+grade reduction=100%
+
+
+case=05
+input=1235321
+output="1
+"
+grade reduction=100%
+
+
+case=06
+input=0
+output="1
+"
+grade reduction=100%
+
+
+case=07
+input=2220122
+output="0
+"
+grade reduction=100%

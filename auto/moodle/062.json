@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=0\noutput=\"0\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=-2\noutput=\"358\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=360\noutput=\"0\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=361\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=722\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=-350\noutput=\"10\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=0\noutput=\"0\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=360\noutput=\"0\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=361\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=722\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=-2\noutput=\"358\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=-350\noutput=\"10\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=-1\noutput=\"359\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=362\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=08\ninput=-360\noutput=\"0\n\"\ngrade reduction=100%\n\n\ncase=09\ninput=-361\noutput=\"359\n\"\ngrade reduction=100%\n\n\ncase=10\ninput=750\noutput=\"30\n\"\ngrade reduction=100%\n\n\ncase=11\ninput=-730\noutput=\"350\n\"\ngrade reduction=100%\n\n\ncase=12\ninput=1000\noutput=\"280\n\"\ngrade reduction=100%\n\n\ncase=13\ninput=-1300\noutput=\"140\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

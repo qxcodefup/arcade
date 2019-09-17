@@ -1,12 +1,3 @@
-case=02
-input=a data ua bbfrua
-ab
--
-output="a casa ta aberta
-"
-grade reduction=100%
-
-
 case=00
 input=batata? sim! frita!!
 abac
@@ -21,5 +12,32 @@ input=quando vi voce eu buguei
 princesa
 +
 output="fliafs ni kfkr gy tuvlmv
+"
+grade reduction=100%
+
+
+case=02
+input=a data ua bbfrua
+ab
+-
+output="a casa ta aberta
+"
+grade reduction=100%
+
+
+case=03
+input=o bobe!
+ab
++
+output="o coce!
+"
+grade reduction=100%
+
+
+case=04
+input=o coce!
+ab
+-
+output="o bobe!
 "
 grade reduction=100%

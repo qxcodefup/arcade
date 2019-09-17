@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=02\ninput=aa 1 -2.0\noutput=\"str int float\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=-pato -40 -5.4\noutput=\"str int float\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=02 -1 -4.54 p0\noutput=\"int int float str\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=02a -x1 -4.b54 p0\noutput=\"str str str str\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=tenho 15 4nos 1.75 altur4 -15 conto p0rr4 -4.04\noutput=\"str int str float str int str str float\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=a proxima elei\u00e7\u00e3o presidencial no Brasil ocorrer\u00e1 em 2 de outubro de 2018\noutput=\"str str str str str str str str int str str str int\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=tenho 15 4nos 1.75 altur4 -15 conto p0rr4 -4.04\noutput=\"str int str float str int str str float\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=a proxima elei\u00e7\u00e3o presidencial no Brasil ocorrer\u00e1 em 2 de outubro de 2018\noutput=\"str str str str str str str str int str str str int\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=aa 1 -2.0\noutput=\"str int float\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=02a -x1 -4.b54 p0\noutput=\"str str str str\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=-pato -40 -5.4\noutput=\"str int float\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=02 -1 -4.54 p0\noutput=\"int int float str\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

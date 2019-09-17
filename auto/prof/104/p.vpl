@@ -24,3 +24,31 @@ input=!
 output="!
 "
 grade reduction=100%
+
+
+case=04
+input=X
+output="x
+"
+grade reduction=100%
+
+
+case=05
+input=c
+output="C
+"
+grade reduction=100%
+
+
+case=06
+input=-
+output="-
+"
+grade reduction=100%
+
+
+case=07
+input=@
+output="@
+"
+grade reduction=100%

@@ -1,11 +1,3 @@
-case=02
-input=hora de morfar
-output="oaeoa
-hrdmrfr
-"
-grade reduction=100%
-
-
 case=00
 input=um abraco amigo
 output="uaaoaio
@@ -18,6 +10,14 @@ case=01
 input=meteoro de pegasus
 output="eeooeeau
 mtrdpgss
+"
+grade reduction=100%
+
+
+case=02
+input=hora de morfar
+output="oaeoa
+hrdmrfr
 "
 grade reduction=100%
 

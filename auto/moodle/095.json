@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=01\ninput=A Andreia atirou alcachofras no LEAO\ne\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=A Andreia atirou alcachofras no leao\nx\noutput=\"0\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=A Andreia alimentou a avestruz com alcaparras\na\noutput=\"10\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=A Andreia alimentou a avestruz com alcaparras\na\noutput=\"10\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=A Andreia atirou alcachofras no LEAO\ne\noutput=\"2\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=A Andreia atirou alcachofras no leao\nx\noutput=\"0\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=A Xuxa xogou xapatos no xacare Xato e xujo\nx\noutput=\"7\n\"\n"
     },
     {
       "name": "solver.py.txt",

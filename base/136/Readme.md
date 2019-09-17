@@ -5,7 +5,7 @@
 
 ## Motivação
 
-Uma trilha é descrita como um conjunto de alturas representando os trechos de subidas e descidas. Considere que apenas existe esforço para os trechos onde existem subidas e que descer não realiza esforço. Uma trilha pode ser percorrida em qualquer sentido.
+Uma trilha é descrita como um conjunto de alturas representando os trechos de subidas e descidas. Considere que apenas existe esforço para os trechos onde existem subidas e que descer não realiza esforço. Uma trilha pode ser percorrida em qualquer sentido. 
 
 Por exemplo, seja a trilha de 6 pontos a seguir.
 ```

@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=01\ninput=Morreu Maria Prea\noutput=\"MoMoMorreu MaMaMaria Prea\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=Volte c\u00e1 seu cabra safado\noutput=\"VoVoVolte c\u00e1 seu cacacabra sasasafado\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=Solte essa faca ou eu arranco suas tripas no dente!\noutput=\"SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=Volte c\u00e1 seu cabra safado\noutput=\"VoVoVolte c\u00e1 seu cacacabra sasasafado\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=Morreu Maria Prea\noutput=\"MoMoMorreu MaMaMaria Prea\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=Solte essa faca ou eu arranco suas tripas no dente!\noutput=\"SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=Solte essa faca ou eu arranco suas tripas no dente\noutput=\"SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=Nao se bula ou eu te mato\noutput=\"Nao se bububula ou eu te mamamato\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.py.txt",

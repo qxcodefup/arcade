@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=02\ninput=a b c d e f\noutput=\"sim\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=a b c d a f\noutput=\"nao\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=a amora azul\noutput=\"sim\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=o rato roeu a roupa\noutput=\"nao\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=a amora azul\noutput=\"sim\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=o rato roeu a roupa\noutput=\"nao\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=a b c d e f\noutput=\"sim\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=a b c d a f\noutput=\"nao\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=ab a ba\noutput=\"sim\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=a amiga da minha vizinha zooume\noutput=\"sim\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=arrocha arregao\noutput=\"sim\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.py.txt",

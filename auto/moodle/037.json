@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=1\n0\noutput=\"Jogador 2\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=5\n9\noutput=\"Jogador 1\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=0\n0\noutput=\"Empate\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=1\n0\noutput=\"Jogador 2\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=5\n9\noutput=\"Jogador 1\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=0\n0\noutput=\"Empate\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=13\n1\noutput=\"Jogador 1\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=12\n10\noutput=\"Jogador 2\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=8\n10\noutput=\"Jogador 1\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=1\n12\noutput=\"Jogador 2\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=9\n1\noutput=\"Jogador 1\n\"\ngrade reduction=100%\n\n\ncase=08\ninput=2\n7\noutput=\"Jogador 1\n\"\ngrade reduction=100%\n\n\ncase=09\ninput=5\n4\noutput=\"Jogador 2\n\"\ngrade reduction=100%\n\n\ncase=10\ninput=8\n1\noutput=\"Jogador 2\n\"\ngrade reduction=100%\n\n\ncase=11\ninput=0\n6\noutput=\"Jogador 1\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

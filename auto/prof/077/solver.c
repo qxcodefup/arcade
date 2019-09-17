@@ -19,7 +19,7 @@ int main () {
 		scanf("%lf ", &chute1[i]);
 	}
 	for (i = 0; i < n; i++){
-		scanf("%c ", &chute2[i]);
+		scanf(" %c ", &chute2[i]);
 	}
 	
 	for (i = 0; i < n; i++){

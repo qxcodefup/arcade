@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=mel\nlema\noutput=\"a\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=olho\nohio\noutput=\"olio\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=minhoca\narvore\noutput=\"minhocrvore\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=pegasus\nsuspiro\noutput=\"pegapiro\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=mel\nlema\noutput=\"a\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=pegasus\nsuspiro\noutput=\"pegapiro\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=olho\nohio\noutput=\"olio\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=minhoca\narvore\noutput=\"minhocrvore\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

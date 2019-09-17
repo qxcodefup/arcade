@@ -23,3 +23,21 @@ output="...4...
 4.4.4.4
 "
 grade reduction=100%
+
+
+case=03
+input=1
+output="1
+"
+grade reduction=100%
+
+
+case=04
+input=5
+output="....5....
+...5.5...
+..5.5.5..
+.5.5.5.5.
+5.5.5.5.5
+"
+grade reduction=100%

@@ -1,3 +1,11 @@
+case=00
+input=5 
+3
+output="5
+"
+grade reduction=100%
+
+
 case=01
 input=6
 6
@@ -6,9 +14,36 @@ output="4
 grade reduction=100%
 
 
-case=00
-input=5 
-3
+case=02
+input=5 3
 output="5
+"
+grade reduction=100%
+
+
+case=03
+input=2 1
+output="1
+"
+grade reduction=100%
+
+
+case=04
+input=3 2
+output="1
+"
+grade reduction=100%
+
+
+case=05
+input=6 6
+output="4
+"
+grade reduction=100%
+
+
+case=06
+input=16 2
+output="2
 "
 grade reduction=100%

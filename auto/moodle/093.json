@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=O ovomaltine e GOSTOSO\noutput=\"o OVOMALTINE E gostoso\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=1, Dois, 3 Indiozinhos\noutput=\"1, dOIS, 3 iNDIOZINHOS\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=Paralelepipedarte-ei se NAO me passar a CARTEIRA\noutput=\"pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=O ovomaltine e GOSTOSO\noutput=\"o OVOMALTINE E gostoso\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=Paralelepipedarte-ei se NAO me passar a CARTEIRA\noutput=\"pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=1, Dois, 3 Indiozinhos\noutput=\"1, dOIS, 3 iNDIOZINHOS\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.py.txt",

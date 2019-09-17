@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=02\ninput=acaro cocegas cagado aquecido\noutput=\"3\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=minhoca quixe tempero musica roubo\noutput=\"0\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=sorvete suor casaca chicletes pegasus\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=aaabbcc bbac bbbaacc ccbddbabda basdbdc\noutput=\"3\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=sorvete suor casaca chicletes pegasus\noutput=\"1\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=minhoca quixe tempero musica roubo\noutput=\"0\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=acaro cocegas cagado aquecido\noutput=\"3\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=aaabbcc bbac bbbaacc ccbddbabda basdbdc\noutput=\"3\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.py.txt",

@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=02\ninput=Ana\noutput=\"22\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=Scya\noutput=\"0\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=David\noutput=\"38\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=BruNa\noutput=\"22\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=andre\noutput=\"22\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=Marcos\noutput=\"13\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=Fernando\noutput=\"13\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=CumpadreWashington\noutput=\"25\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=David\noutput=\"38\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=Scya\noutput=\"0\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=Ana\noutput=\"22\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=BruNa\noutput=\"22\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=Marcos\noutput=\"13\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=andre\noutput=\"22\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=CumpadreWashington\noutput=\"25\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=Fernando\noutput=\"13\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

@@ -32,3 +32,12 @@ m
 output="primeiro
 "
 grade reduction=100%
+
+
+case=04
+input=0.9
+M
+1.1
+output="segundo
+"
+grade reduction=100%

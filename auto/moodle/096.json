@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=3\n1\n2\n3\noutput=\"2 leds\n5 leds\n5 leds\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=3\n11\n22\n33\noutput=\"4 leds\n10 leds\n10 leds\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=1\n1234567890\noutput=\"49 leds\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3\n115380\n2819311\n23456\noutput=\"27 leds\n29 leds\n25 leds\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=3\n1\n2\n3\noutput=\"2 leds\n5 leds\n5 leds\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=3\n11\n22\n33\noutput=\"4 leds\n10 leds\n10 leds\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3\n115380\n2819311\n23456\noutput=\"27 leds\n29 leds\n25 leds\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=1\n1234567890\noutput=\"49 leds\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

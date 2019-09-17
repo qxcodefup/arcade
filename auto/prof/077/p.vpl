@@ -8,6 +8,16 @@ output="primeiro
 grade reduction=100%
 
 
+case=01
+input=2  
+1.0 2.0  
+1.0 2.1  
+m m  
+output="empate
+"
+grade reduction=100%
+
+
 case=02
 input=2
 1.0 2.0
@@ -23,16 +33,6 @@ input=2
 1.0 2.0
 1.1 2.1
 m M
-output="empate
-"
-grade reduction=100%
-
-
-case=01
-input=2  
-1.0 2.0  
-1.0 2.1  
-m m  
 output="empate
 "
 grade reduction=100%
@@ -54,5 +54,25 @@ input=3
 1.1 2.1 4.1
 M m m
 output="segundo
+"
+grade reduction=100%
+
+
+case=06
+input=1
+1.0
+1.0
+M
+output="primeiro
+"
+grade reduction=100%
+
+
+case=07
+input=2
+1.0 2.0
+1.0 2.1
+m m
+output="empate
 "
 grade reduction=100%

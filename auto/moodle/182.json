@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=2\nana 80 f\njoao 43 m\noutput=\"ana\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=2\njose 80 m\njoao 43 m\noutput=\"nao tem mulher\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3\njoao 43 m\nana 80 f\nmelissa 34 f\noutput=\"ana\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=3\njoao 88 m\nana 80 f\nmelissa 84 f\noutput=\"melissa\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=2\nana 80 f\njoao 43 m\noutput=\"ana\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=2\njose 80 m\njoao 43 m\noutput=\"nao tem mulher\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=3\njoao 43 m\nana 80 f\nmelissa 34 f\noutput=\"ana\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=3\njoao 88 m\nana 80 f\nmelissa 84 f\noutput=\"melissa\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=3\njoao 88 m\nferrim 80 m\nmelios 84 m\noutput=\"nao tem mulher\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=7\nmaria 11 f\njoao 43 m\nfrancisco 12 m\nmeire 71 f\nsergio 14 m\nstrange 81 m\nmogli 45 m\noutput=\"meire\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=6\nmaria 11 f\njoao 43 m\nfrancisco 12 m\nmeire 71 f\nstrange 81 m\nsergio 101 m\noutput=\"meire\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=5\nmaria 99 f\nstrange 81 m\njoao 43 m\nmeire 71 f\nsergio 14 m\noutput=\"maria\n\"\ngrade reduction=100%\n\n\ncase=08\ninput=7\nmario 80 m\njoao 43 m\nfrancisco 12 m\nmeire 73 f\nsergio 72 f\nstrange 81 m\nmogli 45 m\noutput=\"meire\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

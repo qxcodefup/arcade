@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=02\ninput=100\n50\n30\noutput=\"0 50\n20 60\n30 60\n30 50\n20 30\n0 0\n-30 morreu\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=100\n60\n30\noutput=\"0 60\n30 80\n50 90\n60 90\n60 80\n50 60\n30 30\n0 0\n-30 morreu\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=800\n300\n100\noutput=\"0 300\n200 490\n390 670\n570 saiu\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=800\n300\n200\noutput=\"0 300\n100 390\n190 470\n270 540\n340 600\n400 650\n450 690\n490 720\n520 740\n540 750\n550 750\n550 740\n540 720\n520 690\n490 650\n450 600\n400 540\n340 470\n270 390\n190 300\n100 200\n0 90\n-110 morreu\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=800\n300\n100\noutput=\"0 300\n200 490\n390 670\n570 saiu\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=800\n300\n200\noutput=\"0 300\n100 390\n190 470\n270 540\n340 600\n400 650\n450 690\n490 720\n520 740\n540 750\n550 750\n550 740\n540 720\n520 690\n490 650\n450 600\n400 540\n340 470\n270 390\n190 300\n100 200\n0 90\n-110 morreu\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=100\n50\n30\noutput=\"0 50\n20 60\n30 60\n30 50\n20 30\n0 0\n-30 morreu\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=100\n60\n30\noutput=\"0 60\n30 80\n50 90\n60 90\n60 80\n50 60\n30 30\n0 0\n-30 morreu\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=85\n40\n5\noutput=\"0 40\n35 65\n60 80\n75 saiu\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=100 \n60 \n30\noutput=\"0 60\n30 80\n50 90\n60 90\n60 80\n50 60\n30 30\n0 0\n-30 morreu\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",

@@ -14,3 +14,21 @@ input=10
 output="59.92
 "
 grade reduction=100%
+
+
+case=02
+input=12
+15
+13
+output="74.83
+"
+grade reduction=100%
+
+
+case=03
+input=3.4
+4.5
+5.1
+output="7.51
+"
+grade reduction=100%

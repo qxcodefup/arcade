@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=02\ninput=gun\ngun\noutput=\"empate\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=air\ngun\noutput=\"jog1\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=fire\nair\noutput=\"jog2\n\"\ngrade reduction=100%\n\n\ncase=00\ninput=sponge\ngun\noutput=\"jog1\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=water\nhuman\noutput=\"jog2\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=air\nscissors\noutput=\"jog2\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=sponge\nhuman\noutput=\"jog2\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=scissors\npaper\noutput=\"jog1\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=sponge\ngun\noutput=\"jog1\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=air\nscissors\noutput=\"jog2\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=gun\ngun\noutput=\"empate\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=air\ngun\noutput=\"jog1\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=fire\nair\noutput=\"jog2\n\"\ngrade reduction=100%\n\n\ncase=05\ninput=water\nhuman\noutput=\"jog2\n\"\ngrade reduction=100%\n\n\ncase=06\ninput=scissors\npaper\noutput=\"jog1\n\"\ngrade reduction=100%\n\n\ncase=07\ninput=sponge\nhuman\noutput=\"jog2\n\"\ngrade reduction=100%\n\n\ncase=08\ninput=human\nfire\noutput=\"jog2\n\"\ngrade reduction=100%\n\n\ncase=09\ninput=air\nwater\noutput=\"jog1\n\"\ngrade reduction=100%\n\n\ncase=10\ninput=water\npaper\noutput=\"jog2\n\"\ngrade reduction=100%\n\n\ncase=11\ninput=human\nscissors\noutput=\"jog2\n\"\ngrade reduction=100%\n\n\ncase=12\ninput=paper\nsponge\noutput=\"jog2\n\"\ngrade reduction=100%\n\n\ncase=13\ninput=water\ngun\noutput=\"jog1\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "generator.py",

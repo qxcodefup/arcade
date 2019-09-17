@@ -4,7 +4,7 @@
   "executionFiles": [
     {
       "name": "vpl_evaluate.cases",
-      "contents": "case=00\ninput=500\n100\n20\noutput=\"0 100\n80 180\n160 260\n240 340\n320 420\n400 saiu\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=800\n300\n200\noutput=\"0 300\n100 400\n200 500\n300 600\n400 700\n500 saiu\n\"\ngrade reduction=100%\n"
+      "contents": "case=00\ninput=500\n100\n20\noutput=\"0 100\n80 180\n160 260\n240 340\n320 420\n400 saiu\n\"\ngrade reduction=100%\n\n\ncase=01\ninput=800\n300\n200\noutput=\"0 300\n100 400\n200 500\n300 600\n400 700\n500 saiu\n\"\ngrade reduction=100%\n\n\ncase=02\ninput=100\n80\n10\noutput=\"0 80\n70 saiu\n\"\ngrade reduction=100%\n\n\ncase=03\ninput=800\n300\n50\noutput=\"0 300\n250 550\n500 saiu\n\"\ngrade reduction=100%\n\n\ncase=04\ninput=300\n55\n30\noutput=\"0 55\n25 80\n50 105\n75 130\n100 155\n125 180\n150 205\n175 230\n200 255\n225 280\n250 saiu\n\"\ngrade reduction=100%\n"
     },
     {
       "name": "solver.c.txt",
