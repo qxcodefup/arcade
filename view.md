@@ -8,7 +8,7 @@
 [![](base/011/__capa.jpg)](base/011/Readme.md)|[![](base/000/__capa.jpg)](base/000/Readme.md)|[![](base/003/__capa.jpg)](base/003/Readme.md)|[![](base/002/__capa.jpg)](base/002/Readme.md)|[![](base/005/__capa.jpg)](base/005/Readme.md)
 
 
-@004 L3 - Mete bala (Distância entre dois pontos)|@006 L3 - Zerinho ou um americano (Calcule o vencedor)|-|-|-
+@004 L3 - Mete bala (Distância entre dois pontos)|@006 L3 - Zerinho ou um americano (Calcule o vencedor)|||
 -|-|-|-|-
 [![](base/004/__capa.jpg)](base/004/Readme.md)|[![](base/006/__capa.jpg)](base/006/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
@@ -51,7 +51,7 @@
 [![](base/023/__capa.jpg)](base/023/Readme.md)|[![](base/036/__capa.jpg)](base/036/Readme.md)|[![](base/033/__capa.jpg)](base/033/Readme.md)|[![](base/042/__capa.jpg)](base/042/Readme.md)|[![](base/041/__capa.jpg)](base/041/Readme.md)
 
 
-@001 L3 - Sai fora Bhaskara (Cálculo de raízes)|-|-|-|-
+@001 L3 - Sai fora Bhaskara (Cálculo de raízes)||||
 -|-|-|-|-
 [![](base/001/__capa.jpg)](base/001/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
@@ -84,7 +84,7 @@
 [![](base/054/__capa.jpg)](base/054/Readme.md)|[![](base/059/__capa.jpg)](base/059/Readme.md)|[![](base/065/__capa.jpg)](base/065/Readme.md)|[![](base/066/__capa.jpg)](base/066/Readme.md)|[![](base/158/__capa.jpg)](base/158/Readme.md)
 
 
-@161 L3 - Vivo ou Morto - OBI 2005|-|-|-|-
+@161 L3 - Vivo ou Morto - OBI 2005||||
 -|-|-|-|-
 [![](base/161/__capa.jpg)](base/161/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
@@ -122,7 +122,7 @@
 [![](base/071/__capa.jpg)](base/071/Readme.md)|[![](base/074/__capa.jpg)](base/074/Readme.md)|[![](base/076/__capa.jpg)](base/076/Readme.md)|[![](base/088/__capa.jpg)](base/088/Readme.md)|[![](base/069/__capa.jpg)](base/069/Readme.md)
 
 
-@087 L3 - Zoologico Entrando na Arca de Noé|@084 L3 - Zoologico Um animal de cada tipo!|-|-|-
+@087 L3 - Zoologico Entrando na Arca de Noé|@084 L3 - Zoologico Um animal de cada tipo!|||
 -|-|-|-|-
 [![](base/087/__capa.jpg)](base/087/Readme.md)|[![](base/084/__capa.jpg)](base/084/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
@@ -188,7 +188,7 @@
 [![](base/150/__capa.jpg)](base/150/Readme.md)|[![](base/129/__capa.jpg)](base/129/Readme.md)|[![](base/159/__capa.jpg)](base/159/Readme.md)|[![](base/135/__capa.jpg)](base/135/Readme.md)|[![](base/131/__capa.jpg)](base/131/Readme.md)
 
 
-@153 L3 - OBI 2015 - Fase 2 - Nível 1 - Torre|@154 L3 - OBI 2015 - Fase 2 - Nível Júnior - Código|@132 L3 - Subdiagonais|@007 L3 - Tetris (Fazendo a peça cair)|-
+@153 L3 - OBI 2015 - Fase 2 - Nível 1 - Torre|@154 L3 - OBI 2015 - Fase 2 - Nível Júnior - Código|@132 L3 - Subdiagonais|@007 L3 - Tetris (Fazendo a peça cair)|
 -|-|-|-|-
 [![](base/153/__capa.jpg)](base/153/Readme.md)|[![](base/154/__capa.jpg)](base/154/Readme.md)|[![](base/132/__capa.jpg)](base/132/Readme.md)|[![](base/007/__capa.jpg)](base/007/Readme.md)|![](config/empty.png)
 
@@ -196,7 +196,7 @@
 
 ### 07_dic
 
-@148 L1 - Expressão|@149 L1 - Operações|@182 L3 - Mulher mais idosa|-|-
+@148 L1 - Expressão|@149 L1 - Operações|@182 L3 - Mulher mais idosa||
 -|-|-|-|-
 [![](base/148/__capa.jpg)](base/148/Readme.md)|[![](base/149/__capa.jpg)](base/149/Readme.md)|[![](base/182/__capa.jpg)](base/182/Readme.md)|![](config/empty.png)|![](config/empty.png)
 
@@ -204,7 +204,7 @@
 
 ### 07_fun
 
-@009 L2 - Imprimir vetor formatado|-|-|-|-
+@009 L2 - Imprimir vetor formatado||||
 -|-|-|-|-
 [![](base/009/__capa.jpg)](base/009/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
@@ -212,7 +212,7 @@
 
 ### 07_rec
 
-@145 L2 - Contando caracteres recursivamente|@141 L2 - Números de Fibonacci|@140 L3 - Contando caracteres recursivamente|@146 L3 - Torres de Hanoi|-
+@145 L2 - Contando caracteres recursivamente|@141 L2 - Números de Fibonacci|@140 L3 - Contando caracteres recursivamente|@146 L3 - Torres de Hanoi|
 -|-|-|-|-
 [![](base/145/__capa.jpg)](base/145/Readme.md)|[![](base/141/__capa.jpg)](base/141/Readme.md)|[![](base/140/__capa.jpg)](base/140/Readme.md)|[![](base/146/__capa.jpg)](base/146/Readme.md)|![](config/empty.png)
 
@@ -220,7 +220,7 @@
 
 ### 09_alo
 
-@142 L2 - Vetor de strings com variados tamanhos|-|-|-|-
+@142 L2 - Vetor de strings com variados tamanhos||||
 -|-|-|-|-
 [![](base/142/__capa.jpg)](base/142/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
@@ -228,7 +228,7 @@
 
 ### 10_ptr
 
-@147 L1 - Duelo|@143 L1 - Troca de valores de variáveis|@144 L2 - Função que retorna vários valores por referência|-|-
+@147 L1 - Duelo|@143 L1 - Troca de valores de variáveis|@144 L2 - Função que retorna vários valores por referência||
 -|-|-|-|-
 [![](base/147/__capa.jpg)](base/147/Readme.md)|[![](base/143/__capa.jpg)](base/143/Readme.md)|[![](base/144/__capa.jpg)](base/144/Readme.md)|![](config/empty.png)|![](config/empty.png)
 
@@ -236,7 +236,7 @@
 
 ### 11_cla
 
-@184 L3 - Motivando a turma de secundaristas|-|-|-|-
+@184 L3 - Motivando a turma de secundaristas||||
 -|-|-|-|-
 [![](base/184/__capa.jpg)](base/184/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
