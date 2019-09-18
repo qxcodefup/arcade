@@ -15,7 +15,7 @@ Os pesquisadores da OBM mantêm um acompanhamento constante do desenvolvimento d
 
 A figura abaixo mostra um mapa da fazenda, mostrando a produtividade estimada de cada uma das células.  
 
-![](__minhocas.jpeg)ú
+![](__minhocas.jpeg)
 
 Um pesquisador da OBM inventou e construiu uma máquina colhedeira de minhocas, e quer testá-la na fazenda.
 
