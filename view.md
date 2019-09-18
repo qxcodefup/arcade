@@ -190,7 +190,7 @@
 [![](base/102/__capa.jpg)](base/102/Readme.md)|[![](base/115/__capa.jpg)](base/115/Readme.md)|[![](base/121/__capa.jpg)](base/121/Readme.md)|[![](base/122/__capa.jpg)](base/122/Readme.md)
 
 
-@152<br>L3 - OBI 2015 - Fase 2 - Nível 1 - Letras|@179<br>L3 - Prof Muquirana - Busca máximo por critério|@112<br>L3 - Rocicleia e o Locioreca - Anagramas!|@116<br>L3 - Roda Roda Jequiti - Jogo da Forca!
+@152<br>L3 - OBI 2015 - Fase 2 - Nível 1 - Letras|@179<br>L3 - Prof Muquirana - Busca máximo por critério|@112<br>L3 - Rocicleia e o Locioreca - Anagramas!|@116<br>L3 - Roda Roda Jequiti
 -|-|-|-
 [![](base/152/__capa.jpg)](base/152/Readme.md)|[![](base/179/__capa.jpg)](base/179/Readme.md)|[![](base/112/__capa.jpg)](base/112/Readme.md)|[![](base/116/__capa.jpg)](base/116/Readme.md)
 

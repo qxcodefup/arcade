@@ -157,7 +157,7 @@
 - [L3 - OBI 2015 - Fase 2 - Nível 1 - Letras](base/152/Readme.md#05str-l3---obi-2015---fase-2---nível-1---letras)
 - [L3 - Prof Muquirana - Busca máximo por critério](base/179/Readme.md#05str-l3---prof-muquirana---busca-máximo-por-critério)
 - [L3 - Rocicleia e o Locioreca - Anagramas!](base/112/Readme.md#05str-l3---rocicleia-e-o-locioreca---anagramas)
-- [L3 - Roda Roda Jequiti - Jogo da Forca!](base/116/Readme.md#05str-l3---roda-roda-jequiti---jogo-da-forca)
+- [L3 - Roda Roda Jequiti](base/116/Readme.md#05str-l3---roda-roda-jequiti)
 - [L3 - Separando a partir de tokens](base/175/Readme.md#05str-l3---separando-a-partir-de-tokens)
 - [L3 - Separe Pneumatocito - Separação de Palavras!](base/103/Readme.md#05str-l3---separe-pneumatocito---separação-de-palavras)
 - [L3 - Sorvete suor casaca chicletes - Letras em Comum!](base/123/Readme.md#05str-l3---sorvete-suor-casaca-chicletes---letras-em-comum)

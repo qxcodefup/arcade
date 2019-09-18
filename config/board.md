@@ -138,7 +138,7 @@
 [](../base/152/Readme.md) : 152 : $05_str L3 - OBI 2015 - Fase 2 - Nível 1 - Letras
 [](../base/179/Readme.md) : 179 : $05_str L3 - Prof Muquirana - Busca máximo por critério
 [](../base/112/Readme.md) : 112 : $05_str L3 - Rocicleia e o Locioreca - Anagramas!
-[](../base/116/Readme.md) : 116 : $05_str L3 - Roda Roda Jequiti - Jogo da Forca!
+[](../base/116/Readme.md) : 116 : $05_str L3 - Roda Roda Jequiti
 [](../base/175/Readme.md) : 175 : $05_str L3 - Separando a partir de tokens
 [](../base/103/Readme.md) : 103 : $05_str L3 - Separe Pneumatocito - Separação de Palavras!
 [](../base/123/Readme.md) : 123 : $05_str L3 - Sorvete suor casaca chicletes - Letras em Comum!
