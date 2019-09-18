@@ -8,7 +8,7 @@ Faça uma função `print_vet` que recebe um vetor e imprime formatado.
     - A quantidade N de casos de teste
     - Cada caso de teste terá uma linha que inicia com a quantidade Q de elementos do vetor seguida dos elementos.
 - Saída
-    - Para cada caso de teste o vetor impresso
+    - Para cada caso de teste imprima o vetor formatado
 
 ## Testes
 

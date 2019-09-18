@@ -52,5 +52,3 @@ As cartas estão codificadas da seguinte forma. O 1 vale A, os valores 11, 12 e 
 [10, 10, 2, 2, J, A]
 <<<<<<<<
 ```
-
-#
