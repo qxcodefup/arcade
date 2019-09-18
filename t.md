@@ -1,6 +1,8 @@
-Duro de Matar  | Morte ao porco | Vamos pra Roma | Vem burrinho
+a|b|c|d
 ---|---|---|---
-![](base/000/__capa.jpg)|![](base/001/__capa.jpg)|![](base/002/__capa.jpg)|![](base/003/__capa.jpg)
+Duro de Matar![](base/000/__capa.jpg)|Morte ao porco![](base/001/__capa.jpg)|Vamos pra Roma![](base/002/__capa.jpg)|Vem burrinho![](base/003/__capa.jpg)
+Duro de Matar![](base/000/__capa.jpg)|Morte ao porco![](base/001/__capa.jpg)|Vamos pra Roma![](base/002/__capa.jpg)|Vem burrinho![](base/003/__capa.jpg)
+
 
 Duro de Matar  | Morte ao porco | Vamos pra Roma | Vem burrinho
 ---|---|---|---
