@@ -161,6 +161,7 @@
 [](../base/148/Readme.md) : 148 : $07_dic L1 - Expressão
 [](../base/149/Readme.md) : 149 : $07_dic L1 - Operações
 [](../base/182/Readme.md) : 182 : $07_dic L3 - Mulher mais idosa
+[](../base/009/Readme.md) : 009 : $07_fun L2 - Imprimir vetor formatado
 [](../base/145/Readme.md) : 145 : $07_rec L2 - Contando caracteres recursivamente
 [](../base/141/Readme.md) : 141 : $07_rec L2 - Números de Fibonacci
 [](../base/140/Readme.md) : 140 : $07_rec L3 - Contando caracteres recursivamente

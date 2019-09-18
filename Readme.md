@@ -187,6 +187,10 @@
 - [L1 - Operações](base/149/Readme.md#07dic-l1---operações)
 - [L3 - Mulher mais idosa](base/182/Readme.md#07dic-l3---mulher-mais-idosa)
 
+### 07_fun
+
+- [L2 - Imprimir vetor formatado](base/009/Readme.md#07fun-l2---imprimir-vetor-formatado)
+
 ### 07_rec
 
 - [L2 - Contando caracteres recursivamente](base/145/Readme.md#07rec-l2---contando-caracteres-recursivamente)

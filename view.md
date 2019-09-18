@@ -237,6 +237,14 @@
 
 
 
+### 07_fun
+
+@009<br>L2 - Imprimir vetor formatado|-|-|-
+-|-|-|-
+[![](base/009/__capa.jpg)](base/009/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+
+
+
 ### 07_rec
 
 @145<br>L2 - Contando caracteres recursivamente|@141<br>L2 - Números de Fibonacci|@140<br>L3 - Contando caracteres recursivamente|@146<br>L3 - Torres de Hanoi
