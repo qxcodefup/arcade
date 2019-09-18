@@ -10,7 +10,7 @@
 
 @005<br>L3 - Ladrão de Goiabas (Contando viagens)|@004<br>L3 - Mete bala (Distância entre dois pontos)|@006<br>L3 - Zerinho ou um americano (Calcule o vencedor)|-
 -|-|-|-
-[![](base/005/__capa.jpg)](base/005/Readme.md)|[![](base/004/__capa.jpg)](base/004/Readme.md)|[![](base/006/__capa.jpg)](base/006/Readme.md)|-
+[![](base/005/__capa.jpg)](base/005/Readme.md)|[![](base/004/__capa.jpg)](base/004/Readme.md)|[![](base/006/__capa.jpg)](base/006/Readme.md)|![](https://placehold.it/400x200)
 
 
 
@@ -96,7 +96,7 @@
 
 @158<br>L3 - Trilhas - OBI 2005|@161<br>L3 - Vivo ou Morto - OBI 2005|-|-
 -|-|-|-
-[![](base/158/__capa.jpg)](base/158/Readme.md)|[![](base/161/__capa.jpg)](base/161/Readme.md)|-|-
+[![](base/158/__capa.jpg)](base/158/Readme.md)|[![](base/161/__capa.jpg)](base/161/Readme.md)|![](https://placehold.it/400x200)|![](https://placehold.it/400x200)
 
 
 
@@ -202,7 +202,7 @@
 
 @105<br>L3 - Valdiskley e cifras históricas!|-|-|-
 -|-|-|-
-[![](base/105/__capa.jpg)](base/105/Readme.md)|-|-|-
+[![](base/105/__capa.jpg)](base/105/Readme.md)|![](https://placehold.it/400x200)|![](https://placehold.it/400x200)|![](https://placehold.it/400x200)
 
 
 
@@ -225,7 +225,7 @@
 
 @132<br>L3 - Subdiagonais|@007<br>L3 - Tetris (Fazendo a peça cair)|-|-
 -|-|-|-
-[![](base/132/__capa.jpg)](base/132/Readme.md)|[![](base/007/__capa.jpg)](base/007/Readme.md)|-|-
+[![](base/132/__capa.jpg)](base/132/Readme.md)|[![](base/007/__capa.jpg)](base/007/Readme.md)|![](https://placehold.it/400x200)|![](https://placehold.it/400x200)
 
 
 
@@ -233,7 +233,7 @@
 
 @148<br>L1 - Expressão|@149<br>L1 - Operações|@182<br>L3 - Mulher mais idosa|-
 -|-|-|-
-[![](base/148/__capa.jpg)](base/148/Readme.md)|[![](base/149/__capa.jpg)](base/149/Readme.md)|[![](base/182/__capa.jpg)](base/182/Readme.md)|-
+[![](base/148/__capa.jpg)](base/148/Readme.md)|[![](base/149/__capa.jpg)](base/149/Readme.md)|[![](base/182/__capa.jpg)](base/182/Readme.md)|![](https://placehold.it/400x200)
 
 
 
@@ -249,7 +249,7 @@
 
 @142<br>L2 - Vetor de strings com variados tamanhos|-|-|-
 -|-|-|-
-[![](base/142/__capa.jpg)](base/142/Readme.md)|-|-|-
+[![](base/142/__capa.jpg)](base/142/Readme.md)|![](https://placehold.it/400x200)|![](https://placehold.it/400x200)|![](https://placehold.it/400x200)
 
 
 
@@ -257,7 +257,7 @@
 
 @147<br>L1 - Duelo|@143<br>L1 - Troca de valores de variáveis|@144<br>L2 - Função que retorna vários valores por referência|-
 -|-|-|-
-[![](base/147/__capa.jpg)](base/147/Readme.md)|[![](base/143/__capa.jpg)](base/143/Readme.md)|[![](base/144/__capa.jpg)](base/144/Readme.md)|-
+[![](base/147/__capa.jpg)](base/147/Readme.md)|[![](base/143/__capa.jpg)](base/143/Readme.md)|[![](base/144/__capa.jpg)](base/144/Readme.md)|![](https://placehold.it/400x200)
 
 
 
@@ -265,6 +265,6 @@
 
 @184<br>L3 - Motivando a turma de secundaristas|-|-|-
 -|-|-|-
-[![](base/184/__capa.jpg)](base/184/Readme.md)|-|-|-
+[![](base/184/__capa.jpg)](base/184/Readme.md)|![](https://placehold.it/400x200)|![](https://placehold.it/400x200)|![](https://placehold.it/400x200)
 
 
