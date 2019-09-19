@@ -8,7 +8,7 @@
 [![](config/thumb/011.jpg)](base/011/Readme.md)|[![](config/thumb/000.jpg)](base/000/Readme.md)|[![](config/thumb/003.jpg)](base/003/Readme.md)|[![](config/thumb/002.jpg)](base/002/Readme.md)|[![](config/thumb/005.jpg)](base/005/Readme.md)
 
 
-@004 L3 - Mete bala (Distância entre dois pontos)|@006 L3 - Zerinho ou um americano (Calcule o vencedor)|||
+@004 L3 - Mete bala (Distância entre dois pontos)|@006 L3 - Zerinho ou um americano (Calcule o vencedor)|-|-|-
 -|-|-|-|-
 [![](config/thumb/004.jpg)](base/004/Readme.md)|[![](config/thumb/006.jpg)](base/006/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
@@ -51,7 +51,7 @@
 [![](config/thumb/023.jpg)](base/023/Readme.md)|[![](config/thumb/036.jpg)](base/036/Readme.md)|[![](config/thumb/033.jpg)](base/033/Readme.md)|[![](config/thumb/042.jpg)](base/042/Readme.md)|[![](config/thumb/041.jpg)](base/041/Readme.md)
 
 
-@001 L3 - Sai fora Bhaskara (Cálculo de raízes)||||
+@001 L3 - Sai fora Bhaskara (Cálculo de raízes)|-|-|-|-
 -|-|-|-|-
 [![](config/thumb/001.jpg)](base/001/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
@@ -84,7 +84,7 @@
 [![](config/thumb/054.jpg)](base/054/Readme.md)|[![](config/thumb/059.jpg)](base/059/Readme.md)|[![](config/thumb/065.jpg)](base/065/Readme.md)|[![](config/thumb/066.jpg)](base/066/Readme.md)|[![](config/thumb/158.jpg)](base/158/Readme.md)
 
 
-@161 L3 - Vivo ou Morto - OBI 2005||||
+@161 L3 - Vivo ou Morto - OBI 2005|-|-|-|-
 -|-|-|-|-
 [![](config/thumb/161.jpg)](base/161/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
@@ -122,7 +122,7 @@
 [![](config/thumb/071.jpg)](base/071/Readme.md)|[![](config/thumb/074.jpg)](base/074/Readme.md)|[![](config/thumb/076.jpg)](base/076/Readme.md)|[![](config/thumb/088.jpg)](base/088/Readme.md)|[![](config/thumb/069.jpg)](base/069/Readme.md)
 
 
-@087 L3 - Zoologico Entrando na Arca de Noé|@084 L3 - Zoologico Um animal de cada tipo!|||
+@087 L3 - Zoologico Entrando na Arca de Noé|@084 L3 - Zoologico Um animal de cada tipo!|-|-|-
 -|-|-|-|-
 [![](config/thumb/087.jpg)](base/087/Readme.md)|[![](config/thumb/084.jpg)](base/084/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
@@ -188,7 +188,7 @@
 [![](config/thumb/150.jpg)](base/150/Readme.md)|[![](config/thumb/129.jpg)](base/129/Readme.md)|[![](config/thumb/159.jpg)](base/159/Readme.md)|[![](config/thumb/135.jpg)](base/135/Readme.md)|[![](config/thumb/131.jpg)](base/131/Readme.md)
 
 
-@153 L3 - OBI 2015 - Fase 2 - Nível 1 - Torre|@154 L3 - OBI 2015 - Fase 2 - Nível Júnior - Código|@132 L3 - Subdiagonais|@007 L3 - Tetris (Fazendo a peça cair)|
+@153 L3 - OBI 2015 - Fase 2 - Nível 1 - Torre|@154 L3 - OBI 2015 - Fase 2 - Nível Júnior - Código|@132 L3 - Subdiagonais|@007 L3 - Tetris (Fazendo a peça cair)|-
 -|-|-|-|-
 [![](config/thumb/153.jpg)](base/153/Readme.md)|[![](config/thumb/154.jpg)](base/154/Readme.md)|[![](config/thumb/132.jpg)](base/132/Readme.md)|[![](config/thumb/007.jpg)](base/007/Readme.md)|![](config/empty.png)
 
@@ -196,7 +196,7 @@
 
 ### 07_dic
 
-@148 L1 - Expressão|@149 L1 - Operações|@182 L3 - Mulher mais idosa||
+@148 L1 - Expressão|@149 L1 - Operações|@182 L3 - Mulher mais idosa|-|-
 -|-|-|-|-
 [![](config/thumb/148.jpg)](base/148/Readme.md)|[![](config/thumb/149.jpg)](base/149/Readme.md)|[![](config/thumb/182.jpg)](base/182/Readme.md)|![](config/empty.png)|![](config/empty.png)
 
@@ -204,7 +204,7 @@
 
 ### 07_fun
 
-@009 L2 - Imprimir vetor formatado||||
+@009 L2 - Imprimir vetor formatado|-|-|-|-
 -|-|-|-|-
 [![](config/thumb/009.jpg)](base/009/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
@@ -212,7 +212,7 @@
 
 ### 07_rec
 
-@145 L2 - Contando caracteres recursivamente|@141 L2 - Números de Fibonacci|@140 L3 - Contando caracteres recursivamente|@146 L3 - Torres de Hanoi|
+@145 L2 - Contando caracteres recursivamente|@141 L2 - Números de Fibonacci|@140 L3 - Contando caracteres recursivamente|@146 L3 - Torres de Hanoi|-
 -|-|-|-|-
 [![](config/thumb/145.jpg)](base/145/Readme.md)|[![](config/thumb/141.jpg)](base/141/Readme.md)|[![](config/thumb/140.jpg)](base/140/Readme.md)|[![](config/thumb/146.jpg)](base/146/Readme.md)|![](config/empty.png)
 
@@ -220,7 +220,7 @@
 
 ### 09_alo
 
-@142 L2 - Vetor de strings com variados tamanhos||||
+@142 L2 - Vetor de strings com variados tamanhos|-|-|-|-
 -|-|-|-|-
 [![](config/thumb/142.jpg)](base/142/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
@@ -228,7 +228,7 @@
 
 ### 10_ptr
 
-@147 L1 - Duelo|@143 L1 - Troca de valores de variáveis|@144 L2 - Função que retorna vários valores por referência||
+@147 L1 - Duelo|@143 L1 - Troca de valores de variáveis|@144 L2 - Função que retorna vários valores por referência|-|-
 -|-|-|-|-
 [![](config/thumb/147.jpg)](base/147/Readme.md)|[![](config/thumb/143.jpg)](base/143/Readme.md)|[![](config/thumb/144.jpg)](base/144/Readme.md)|![](config/empty.png)|![](config/empty.png)
 
@@ -236,7 +236,7 @@
 
 ### 11_cla
 
-@184 L3 - Motivando a turma de secundaristas||||
+@184 L3 - Motivando a turma de secundaristas|-|-|-|-
 -|-|-|-|-
 [![](config/thumb/184.jpg)](base/184/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 
