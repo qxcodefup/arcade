@@ -1,213 +1,243 @@
 ## @qxcode
 
-## Categorias
-
 
 ### 01_ope
 
-- [L1 - Formatando data (Zeros à esquerda)](base/011/Readme.md#01ope-l1---formatando-data-zeros-à-esquerda)
-- [L1 - Operações básicas (Imprimindo float formatado)](base/000/Readme.md#01ope-l1---operações-básicas-imprimindo-float-formatado)
-- [L2 - Opala bebedor (Cálculo de desempenho)](base/003/Readme.md#01ope-l2---opala-bebedor-cálculo-de-desempenho)
-- [L2 - Pintando a casa (Calculando a área do triângulo)](base/002/Readme.md#01ope-l2---pintando-a-casa-calculando-a-área-do-triângulo)
-- [L3 - Ladrão de Goiabas (Contando viagens)](base/005/Readme.md#01ope-l3---ladrão-de-goiabas-contando-viagens)
-- [L3 - Mete bala (Distância entre dois pontos)](base/004/Readme.md#01ope-l3---mete-bala-distância-entre-dois-pontos)
-- [L3 - Zerinho ou um americano (Calcule o vencedor)](base/006/Readme.md#01ope-l3---zerinho-ou-um-americano-calcule-o-vencedor)
+@011 L1 - Formatando data (Zeros à esquerda)|@000 L1 - Operações básicas (Imprimindo float formatado)|@003 L2 - Opala bebedor (Cálculo de desempenho)|@002 L2 - Pintando a casa (Calculando a área do triângulo)|@005 L3 - Ladrão de Goiabas (Contando viagens)
+-|-|-|-|-
+[![](config/thumb/011.jpg)](base/011/Readme.md)|[![](config/thumb/000.jpg)](base/000/Readme.md)|[![](config/thumb/003.jpg)](base/003/Readme.md)|[![](config/thumb/002.jpg)](base/002/Readme.md)|[![](config/thumb/005.jpg)](base/005/Readme.md)
+
+
+@004 L3 - Mete bala (Distância entre dois pontos)|@006 L3 - Zerinho ou um americano (Calcule o vencedor)|||
+-|-|-|-|-
+[![](config/thumb/004.jpg)](base/004/Readme.md)|[![](config/thumb/006.jpg)](base/006/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+
+
 
 ### 02_sel
 
-- [L1 - Ambos Divisíveis](base/025/Readme.md#02sel-l1---ambos-divisíveis)
-- [L1 - Angulo Cartesiano - Operador Modular](base/062/Readme.md#02sel-l1---angulo-cartesiano---operador-modular)
-- [L1 - Calculadora Numérica](base/015/Readme.md#02sel-l1---calculadora-numérica)
-- [L1 - Divisão Inteira e Quebrada](base/024/Readme.md#02sel-l1---divisão-inteira-e-quebrada)
-- [L1 - OBI 2015 - Fase 2 - Nível 1 - Impedido!](base/151/Readme.md#02sel-l1---obi-2015---fase-2---nível-1---impedido)
-- [L1 - OBI 2016 - Fase1 - Nível 1 - Jogo de par ou ímpar](base/156/Readme.md#02sel-l1---obi-2016---fase1---nível-1---jogo-de-par-ou-ímpar)
-- [L1 - OBI 2016 - Fase1 - Nível 1 - Plantação de Morangos!](base/155/Readme.md#02sel-l1---obi-2016---fase1---nível-1---plantação-de-morangos)
-- [L1 - Positivo, Nulo ou Negativo?](base/026/Readme.md#02sel-l1---positivo-nulo-ou-negativo)
-- [L2 - A hora do próximo segundo](base/038/Readme.md#02sel-l2---a-hora-do-próximo-segundo)
-- [L2 - Adedonha na Califórnia](base/027/Readme.md#02sel-l2---adedonha-na-califórnia)
-- [L2 - Arrendondar](base/018/Readme.md#02sel-l2---arrendondar)
-- [L2 - Aumento de Salário](base/021/Readme.md#02sel-l2---aumento-de-salário)
-- [L2 - Bolada na fuça](base/032/Readme.md#02sel-l2---bolada-na-fuça)
-- [L2 - Cadê a cabeça da cobra](base/028/Readme.md#02sel-l2---cadê-a-cabeça-da-cobra)
-- [L2 - Criança, Adulto, Idoso, Múmia](base/183/Readme.md#02sel-l2---criança-adulto-idoso-múmia)
-- [L2 - Fiquei de final](base/031/Readme.md#02sel-l2---fiquei-de-final)
-- [L2 - Mercantil V1 - Quem chega mais perto](base/030/Readme.md#02sel-l2---mercantil-v1---quem-chega-mais-perto)
-- [L2 - Mercantil V2 - Maior ou Menor](base/039/Readme.md#02sel-l2---mercantil-v2---maior-ou-menor)
-- [L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035/Readme.md#02sel-l2---obi-2017---fase-1---drone-de-entrega)
-- [L2 - OBI 2017 - Fase 1 - Teleférico](base/022/Readme.md#02sel-l2---obi-2017---fase-1---teleférico)
-- [L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019/Readme.md#02sel-l2---obi-2017---fase-1---universitário---game-10)
-- [L2 - Ovos de galinha (Procurando o Maior valor)](base/017/Readme.md#02sel-l2---ovos-de-galinha-procurando-o-maior-valor)
-- [L2 - Quantos são iguais? (Contando Repetidos)](base/014/Readme.md#02sel-l2---quantos-são-iguais-contando-repetidos)
-- [L2 - Quiz do Harry Potter](base/029/Readme.md#02sel-l2---quiz-do-harry-potter)
-- [L2 - Zerinho ou Um!](base/020/Readme.md#02sel-l2---zerinho-ou-um)
-- [L3 - Dorme Tarde Acordar Cedo!](base/043/Readme.md#02sel-l3---dorme-tarde-acordar-cedo)
-- [L3 - Está Trabalhand ou Não!](base/040/Readme.md#02sel-l3---está-trabalhand-ou-não)
-- [L3 - Formiga da bundona](base/034/Readme.md#02sel-l3---formiga-da-bundona)
-- [L3 - Frota de Táxi - OBI 2005](base/157/Readme.md#02sel-l3---frota-de-táxi---obi-2005)
-- [L3 - Jokenpo 15](base/037/Readme.md#02sel-l3---jokenpo-15)
-- [L3 - Jokenpo das tartarugas!](base/023/Readme.md#02sel-l3---jokenpo-das-tartarugas)
-- [L3 - Morre o do meio](base/036/Readme.md#02sel-l3---morre-o-do-meio)
-- [L3 - Professor Bonzinho](base/033/Readme.md#02sel-l3---professor-bonzinho)
-- [L3 - Rufus e Ordenação!](base/042/Readme.md#02sel-l3---rufus-e-ordenação)
-- [L3 - Rufus e Par ou Ímpar!](base/041/Readme.md#02sel-l3---rufus-e-par-ou-ímpar)
-- [L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001/Readme.md#02sel-l3---sai-fora-bhaskara-cálculo-de-raízes)
+@025 L1 - Ambos Divisíveis|@062 L1 - Angulo Cartesiano - Operador Modular|@015 L1 - Calculadora Numérica|@024 L1 - Divisão Inteira e Quebrada|@151 L1 - OBI 2015 - Fase 2 - Nível 1 - Impedido!
+-|-|-|-|-
+[![](config/thumb/025.jpg)](base/025/Readme.md)|[![](config/thumb/062.jpg)](base/062/Readme.md)|[![](config/thumb/015.jpg)](base/015/Readme.md)|[![](config/thumb/024.jpg)](base/024/Readme.md)|[![](config/thumb/151.jpg)](base/151/Readme.md)
+
+
+@156 L1 - OBI 2016 - Fase1 - Nível 1 - Jogo de par ou ímpar|@155 L1 - OBI 2016 - Fase1 - Nível 1 - Plantação de Morangos!|@026 L1 - Positivo, Nulo ou Negativo?|@038 L2 - A hora do próximo segundo|@027 L2 - Adedonha na Califórnia
+-|-|-|-|-
+[![](config/thumb/156.jpg)](base/156/Readme.md)|[![](config/thumb/155.jpg)](base/155/Readme.md)|[![](config/thumb/026.jpg)](base/026/Readme.md)|[![](config/thumb/038.jpg)](base/038/Readme.md)|[![](config/thumb/027.jpg)](base/027/Readme.md)
+
+
+@018 L2 - Arrendondar|@021 L2 - Aumento de Salário|@032 L2 - Bolada na fuça|@028 L2 - Cadê a cabeça da cobra|@183 L2 - Criança, Adulto, Idoso, Múmia
+-|-|-|-|-
+[![](config/thumb/018.jpg)](base/018/Readme.md)|[![](config/thumb/021.jpg)](base/021/Readme.md)|[![](config/thumb/032.jpg)](base/032/Readme.md)|[![](config/thumb/028.jpg)](base/028/Readme.md)|[![](config/thumb/183.jpg)](base/183/Readme.md)
+
+
+@031 L2 - Fiquei de final|@030 L2 - Mercantil V1 - Quem chega mais perto|@039 L2 - Mercantil V2 - Maior ou Menor|@035 L2 - OBI 2017 - Fase 1 - Drone de Entrega|@022 L2 - OBI 2017 - Fase 1 - Teleférico
+-|-|-|-|-
+[![](config/thumb/031.jpg)](base/031/Readme.md)|[![](config/thumb/030.jpg)](base/030/Readme.md)|[![](config/thumb/039.jpg)](base/039/Readme.md)|[![](config/thumb/035.jpg)](base/035/Readme.md)|[![](config/thumb/022.jpg)](base/022/Readme.md)
+
+
+@019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10|@017 L2 - Ovos de galinha (Procurando o Maior valor)|@014 L2 - Quantos são iguais? (Contando Repetidos)|@029 L2 - Quiz do Harry Potter|@020 L2 - Zerinho ou Um!
+-|-|-|-|-
+[![](config/thumb/019.jpg)](base/019/Readme.md)|[![](config/thumb/017.jpg)](base/017/Readme.md)|[![](config/thumb/014.jpg)](base/014/Readme.md)|[![](config/thumb/029.jpg)](base/029/Readme.md)|[![](config/thumb/020.jpg)](base/020/Readme.md)
+
+
+@043 L3 - Dorme Tarde Acordar Cedo!|@040 L3 - Está Trabalhand ou Não!|@034 L3 - Formiga da bundona|@157 L3 - Frota de Táxi - OBI 2005|@037 L3 - Jokenpo 15
+-|-|-|-|-
+[![](config/thumb/043.jpg)](base/043/Readme.md)|[![](config/thumb/040.jpg)](base/040/Readme.md)|[![](config/thumb/034.jpg)](base/034/Readme.md)|[![](config/thumb/157.jpg)](base/157/Readme.md)|[![](config/thumb/037.jpg)](base/037/Readme.md)
+
+
+@023 L3 - Jokenpo das tartarugas!|@036 L3 - Morre o do meio|@033 L3 - Professor Bonzinho|@042 L3 - Rufus e Ordenação!|@041 L3 - Rufus e Par ou Ímpar!
+-|-|-|-|-
+[![](config/thumb/023.jpg)](base/023/Readme.md)|[![](config/thumb/036.jpg)](base/036/Readme.md)|[![](config/thumb/033.jpg)](base/033/Readme.md)|[![](config/thumb/042.jpg)](base/042/Readme.md)|[![](config/thumb/041.jpg)](base/041/Readme.md)
+
+
+@001 L3 - Sai fora Bhaskara (Cálculo de raízes)||||
+-|-|-|-|-
+[![](config/thumb/001.jpg)](base/001/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+
+
 
 ### 03_rep
 
-- [L1 - Calça Zeze de Camargo - Mínimo](base/056/Readme.md#03rep-l1---calça-zeze-de-camargo---mínimo)
-- [L1 - Dividindo pares de sapatos pra três](base/013/Readme.md#03rep-l1---dividindo-pares-de-sapatos-pra-três)
-- [L1 - Quantos Ultrons você vê - Contar Elemento](base/055/Readme.md#03rep-l1---quantos-ultrons-você-vê---contar-elemento)
-- [L1 - Somatório V2](base/044/Readme.md#03rep-l1---somatório-v2)
-- [L1 - Zero é par - Somatório de Pares!](base/045/Readme.md#03rep-l1---zero-é-par---somatório-de-pares)
-- [L2 - Busca Intervalada](base/058/Readme.md#03rep-l2---busca-intervalada)
-- [L2 - Cabo de Guerra Jedi](base/048/Readme.md#03rep-l2---cabo-de-guerra-jedi)
-- [L2 - Castelos de Cubos](base/050/Readme.md#03rep-l2---castelos-de-cubos)
-- [L2 - Jogo da Concentração](base/046/Readme.md#03rep-l2---jogo-da-concentração)
-- [L2 - Revolta em Portugal](base/057/Readme.md#03rep-l2---revolta-em-portugal)
-- [L2 - Sapinho 1 no Poço](base/049/Readme.md#03rep-l2---sapinho-1-no-poço)
-- [L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136/Readme.md#03rep-l2---trilhas---obi-2005---modo-easy)
-- [L2 - Volta de 360 graus (Retirando os loops)](base/016/Readme.md#03rep-l2---volta-de-360-graus-retirando-os-loops)
-- [L2 - Ônibus lotado](base/047/Readme.md#03rep-l2---ônibus-lotado)
-- [L3 - Arremesso de pedra na lua](base/051/Readme.md#03rep-l3---arremesso-de-pedra-na-lua)
-- [L3 - Bafo - OBI 2005](base/160/Readme.md#03rep-l3---bafo---obi-2005)
-- [L3 - Blackjack 21!](base/063/Readme.md#03rep-l3---blackjack-21)
-- [L3 - Conta Dígitos](base/064/Readme.md#03rep-l3---conta-dígitos)
-- [L3 - Hoje tem sopa de coelho?](base/052/Readme.md#03rep-l3---hoje-tem-sopa-de-coelho)
-- [L3 - OBI 2016 - Fuga em helicóptero](base/053/Readme.md#03rep-l3---obi-2016---fuga-em-helicóptero)
-- [L3 - Quebrador de Copos](base/054/Readme.md#03rep-l3---quebrador-de-copos)
-- [L3 - Sapinho 2 morrendo no poço](base/059/Readme.md#03rep-l3---sapinho-2-morrendo-no-poço)
-- [L3 - Sapinho 3 matemático não morrendo no poço](base/065/Readme.md#03rep-l3---sapinho-3-matemático-não-morrendo-no-poço)
-- [L3 - Spok Palíndromo](base/066/Readme.md#03rep-l3---spok-palíndromo)
-- [L3 - Trilhas - OBI 2005](base/158/Readme.md#03rep-l3---trilhas---obi-2005)
-- [L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md#03rep-l3---vivo-ou-morto---obi-2005)
+@056 L1 - Calça Zeze de Camargo - Mínimo|@013 L1 - Dividindo pares de sapatos pra três|@055 L1 - Quantos Ultrons você vê - Contar Elemento|@044 L1 - Somatório V2|@045 L1 - Zero é par - Somatório de Pares!
+-|-|-|-|-
+[![](config/thumb/056.jpg)](base/056/Readme.md)|[![](config/thumb/013.jpg)](base/013/Readme.md)|[![](config/thumb/055.jpg)](base/055/Readme.md)|[![](config/thumb/044.jpg)](base/044/Readme.md)|[![](config/thumb/045.jpg)](base/045/Readme.md)
+
+
+@058 L2 - Busca Intervalada|@048 L2 - Cabo de Guerra Jedi|@050 L2 - Castelos de Cubos|@046 L2 - Jogo da Concentração|@057 L2 - Revolta em Portugal
+-|-|-|-|-
+[![](config/thumb/058.jpg)](base/058/Readme.md)|[![](config/thumb/048.jpg)](base/048/Readme.md)|[![](config/thumb/050.jpg)](base/050/Readme.md)|[![](config/thumb/046.jpg)](base/046/Readme.md)|[![](config/thumb/057.jpg)](base/057/Readme.md)
+
+
+@049 L2 - Sapinho 1 no Poço|@136 L2 - Trilhas - OBI 2005 - (Modo Easy)|@016 L2 - Volta de 360 graus (Retirando os loops)|@047 L2 - Ônibus lotado|@051 L3 - Arremesso de pedra na lua
+-|-|-|-|-
+[![](config/thumb/049.jpg)](base/049/Readme.md)|[![](config/thumb/136.jpg)](base/136/Readme.md)|[![](config/thumb/016.jpg)](base/016/Readme.md)|[![](config/thumb/047.jpg)](base/047/Readme.md)|[![](config/thumb/051.jpg)](base/051/Readme.md)
+
+
+@160 L3 - Bafo - OBI 2005|@063 L3 - Blackjack 21!|@064 L3 - Conta Dígitos|@052 L3 - Hoje tem sopa de coelho?|@053 L3 - OBI 2016 - Fuga em helicóptero
+-|-|-|-|-
+[![](config/thumb/160.jpg)](base/160/Readme.md)|[![](config/thumb/063.jpg)](base/063/Readme.md)|[![](config/thumb/064.jpg)](base/064/Readme.md)|[![](config/thumb/052.jpg)](base/052/Readme.md)|[![](config/thumb/053.jpg)](base/053/Readme.md)
+
+
+@054 L3 - Quebrador de Copos|@059 L3 - Sapinho 2 morrendo no poço|@065 L3 - Sapinho 3 matemático não morrendo no poço|@066 L3 - Spok Palíndromo|@158 L3 - Trilhas - OBI 2005
+-|-|-|-|-
+[![](config/thumb/054.jpg)](base/054/Readme.md)|[![](config/thumb/059.jpg)](base/059/Readme.md)|[![](config/thumb/065.jpg)](base/065/Readme.md)|[![](config/thumb/066.jpg)](base/066/Readme.md)|[![](config/thumb/158.jpg)](base/158/Readme.md)
+
+
+@161 L3 - Vivo ou Morto - OBI 2005||||
+-|-|-|-|-
+[![](config/thumb/161.jpg)](base/161/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+
+
 
 ### 04_vet
 
-- [L1 - Joelison Fernandes - Soma do maior e menor!](base/060/Readme.md#04vet-l1---joelison-fernandes---soma-do-maior-e-menor)
-- [L2 - Capoeira invertendo vetor!](base/061/Readme.md#04vet-l2---capoeira-invertendo-vetor)
-- [L2 - Jogo do Avesso](base/078/Readme.md#04vet-l2---jogo-do-avesso)
-- [L2 - MMC](base/091/Readme.md#04vet-l2---mmc)
-- [L2 - Mostrar mão de cartas (Imprimir vetor formatado)](base/101/Readme.md#04vet-l2---mostrar-mão-de-cartas-imprimir-vetor-formatado)
-- [L2 - Organizando a fila do RU - Separar Pares e Ímpares!](base/068/Readme.md#04vet-l2---organizando-a-fila-do-ru---separar-pares-e-ímpares)
-- [L2 - Primo](base/090/Readme.md#04vet-l2---primo)
-- [L2 - Queda de dominós](base/067/Readme.md#04vet-l2---queda-de-dominós)
-- [L2 - Soldados Pequenos e Grandes!](base/072/Readme.md#04vet-l2---soldados-pequenos-e-grandes)
-- [L3 - Abastecimento de água](base/075/Readme.md#04vet-l3---abastecimento-de-água)
-- [L3 - Anfíbios e Batráquios - Está contido](base/083/Readme.md#04vet-l3---anfíbios-e-batráquios---está-contido)
-- [L3 - As unhas de Luiza - Vetor para inteiro](base/082/Readme.md#04vet-l3---as-unhas-de-luiza---vetor-para-inteiro)
-- [L3 - Baruel Ruel trocando figurinhas!](base/080/Readme.md#04vet-l3---baruel-ruel-trocando-figurinhas)
-- [L3 - Batida Policial - Ordenando vetores](base/073/Readme.md#04vet-l3---batida-policial---ordenando-vetores)
-- [L3 - Bolinhas viciadas(contagem de repetições)](base/010/Readme.md#04vet-l3---bolinhas-viciadascontagem-de-repetições)
-- [L3 - Cabeças vão rolar](base/070/Readme.md#04vet-l3---cabeças-vão-rolar)
-- [L3 - Coleção de Tazos - Quantos se repetem mais](base/086/Readme.md#04vet-l3---coleção-de-tazos---quantos-se-repetem-mais)
-- [L3 - Exército - Perto da morte](base/085/Readme.md#04vet-l3---exército---perto-da-morte)
-- [L3 - Força Bruta (Gerando próxima combinação)](base/008/Readme.md#04vet-l3---força-bruta-gerando-próxima-combinação)
-- [L3 - Jogando pião na rodinha](base/100/Readme.md#04vet-l3---jogando-pião-na-rodinha)
-- [L3 - Jogo do Avesso V2](base/079/Readme.md#04vet-l3---jogo-do-avesso-v2)
-- [L3 - Loucura de Marquinhos - Decompor um inteiro](base/081/Readme.md#04vet-l3---loucura-de-marquinhos---decompor-um-inteiro)
-- [L3 - MMC de vários números.](base/139/Readme.md#04vet-l3---mmc-de-vários-números)
-- [L3 - Mercantil V3 - Muitas rodadas](base/077/Readme.md#04vet-l3---mercantil-v3---muitas-rodadas)
-- [L3 - Mini-Poker - OBI2005](base/162/Readme.md#04vet-l3---mini-poker---obi2005)
-- [L3 - Mário e o Assassins Creed - Parkour](base/071/Readme.md#04vet-l3---mário-e-o-assassins-creed---parkour)
-- [L3 - OBI 2017 - Fase 1 - Botas Trocadas](base/074/Readme.md#04vet-l3---obi-2017---fase-1---botas-trocadas)
-- [L3 - OBI 2017 - Fase 1 - O segredo do Cofre](base/076/Readme.md#04vet-l3---obi-2017---fase-1---o-segredo-do-cofre)
-- [L3 - Se fosse a mediana eu tinha passado!](base/088/Readme.md#04vet-l3---se-fosse-a-mediana-eu-tinha-passado)
-- [L3 - Zoo quantas especies!](base/069/Readme.md#04vet-l3---zoo-quantas-especies)
-- [L3 - Zoologico Entrando na Arca de Noé](base/087/Readme.md#04vet-l3---zoologico-entrando-na-arca-de-noé)
-- [L3 - Zoologico Um animal de cada tipo!](base/084/Readme.md#04vet-l3---zoologico-um-animal-de-cada-tipo)
+@060 L1 - Joelison Fernandes - Soma do maior e menor!|@061 L2 - Capoeira invertendo vetor!|@078 L2 - Jogo do Avesso|@091 L2 - MMC|@101 L2 - Mostrar mão de cartas (Imprimir vetor formatado)
+-|-|-|-|-
+[![](config/thumb/060.jpg)](base/060/Readme.md)|[![](config/thumb/061.jpg)](base/061/Readme.md)|[![](config/thumb/078.jpg)](base/078/Readme.md)|[![](config/thumb/091.jpg)](base/091/Readme.md)|[![](config/thumb/101.jpg)](base/101/Readme.md)
+
+
+@068 L2 - Organizando a fila do RU - Separar Pares e Ímpares!|@090 L2 - Primo|@067 L2 - Queda de dominós|@072 L2 - Soldados Pequenos e Grandes!|@075 L3 - Abastecimento de água
+-|-|-|-|-
+[![](config/thumb/068.jpg)](base/068/Readme.md)|[![](config/thumb/090.jpg)](base/090/Readme.md)|[![](config/thumb/067.jpg)](base/067/Readme.md)|[![](config/thumb/072.jpg)](base/072/Readme.md)|[![](config/thumb/075.jpg)](base/075/Readme.md)
+
+
+@083 L3 - Anfíbios e Batráquios - Está contido|@082 L3 - As unhas de Luiza - Vetor para inteiro|@080 L3 - Baruel Ruel trocando figurinhas!|@073 L3 - Batida Policial - Ordenando vetores|@010 L3 - Bolinhas viciadas(contagem de repetições)
+-|-|-|-|-
+[![](config/thumb/083.jpg)](base/083/Readme.md)|[![](config/thumb/082.jpg)](base/082/Readme.md)|[![](config/thumb/080.jpg)](base/080/Readme.md)|[![](config/thumb/073.jpg)](base/073/Readme.md)|[![](config/thumb/010.jpg)](base/010/Readme.md)
+
+
+@070 L3 - Cabeças vão rolar|@086 L3 - Coleção de Tazos - Quantos se repetem mais|@085 L3 - Exército - Perto da morte|@008 L3 - Força Bruta (Gerando próxima combinação)|@100 L3 - Jogando pião na rodinha
+-|-|-|-|-
+[![](config/thumb/070.jpg)](base/070/Readme.md)|[![](config/thumb/086.jpg)](base/086/Readme.md)|[![](config/thumb/085.jpg)](base/085/Readme.md)|[![](config/thumb/008.jpg)](base/008/Readme.md)|[![](config/thumb/100.jpg)](base/100/Readme.md)
+
+
+@079 L3 - Jogo do Avesso V2|@081 L3 - Loucura de Marquinhos - Decompor um inteiro|@139 L3 - MMC de vários números.|@077 L3 - Mercantil V3 - Muitas rodadas|@162 L3 - Mini-Poker - OBI2005
+-|-|-|-|-
+[![](config/thumb/079.jpg)](base/079/Readme.md)|[![](config/thumb/081.jpg)](base/081/Readme.md)|[![](config/thumb/139.jpg)](base/139/Readme.md)|[![](config/thumb/077.jpg)](base/077/Readme.md)|[![](config/thumb/162.jpg)](base/162/Readme.md)
+
+
+@071 L3 - Mário e o Assassins Creed - Parkour|@074 L3 - OBI 2017 - Fase 1 - Botas Trocadas|@076 L3 - OBI 2017 - Fase 1 - O segredo do Cofre|@088 L3 - Se fosse a mediana eu tinha passado!|@069 L3 - Zoo quantas especies!
+-|-|-|-|-
+[![](config/thumb/071.jpg)](base/071/Readme.md)|[![](config/thumb/074.jpg)](base/074/Readme.md)|[![](config/thumb/076.jpg)](base/076/Readme.md)|[![](config/thumb/088.jpg)](base/088/Readme.md)|[![](config/thumb/069.jpg)](base/069/Readme.md)
+
+
+@087 L3 - Zoologico Entrando na Arca de Noé|@084 L3 - Zoologico Um animal de cada tipo!|||
+-|-|-|-|-
+[![](config/thumb/087.jpg)](base/087/Readme.md)|[![](config/thumb/084.jpg)](base/084/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+
+
 
 ### 05_str
 
-- [L1 - Eribelton e a Ascologia V1 - Somar Asc](base/173/Readme.md#05str-l1---eribelton-e-a-ascologia-v1---somar-asc)
-- [L1 - LP da Xura - Inverter String!](base/092/Readme.md#05str-l1---lp-da-xura---inverter-string)
-- [L1 - Maiúsculo, Minusculo e Dígito!](base/104/Readme.md#05str-l1---maiúsculo-minusculo-e-dígito)
-- [L1 - Marileuza e as Alcaparras - Contar Ocorrencias!](base/177/Readme.md#05str-l1---marileuza-e-as-alcaparras---contar-ocorrencias)
-- [L1 - Substring na decoração - Obter Substrings!](base/176/Readme.md#05str-l1---substring-na-decoração---obter-substrings)
-- [L1 - Valdiskey e a cifra V1!](base/174/Readme.md#05str-l1---valdiskey-e-a-cifra-v1)
-- [L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!](base/095/Readme.md#05str-l2---avestruz-com-alcaparras---contar-maiusculas-e-minusculas)
-- [L2 - Contar Leds](base/096/Readme.md#05str-l2---contar-leds)
-- [L2 - Crushômetro](base/126/Readme.md#05str-l2---crushômetro)
-- [L2 - Eribelton e a Ascologia V2 - Buscando a perfeição](base/109/Readme.md#05str-l2---eribelton-e-a-ascologia-v2---buscando-a-perfeição)
-- [L2 - Gagueira V1 - Duplicar Palavras](base/097/Readme.md#05str-l2---gagueira-v1---duplicar-palavras)
-- [L2 - Gritando em Caixa Alta - Invertendo o Case da frase!](base/093/Readme.md#05str-l2---gritando-em-caixa-alta---invertendo-o-case-da-frase)
-- [L2 - Guerra Civil no Universo Marvel](base/180/Readme.md#05str-l2---guerra-civil-no-universo-marvel)
-- [L2 - Mega Jokenpo!](base/089/Readme.md#05str-l2---mega-jokenpo)
-- [L2 - Meu cachorro comeu minha tarefa - Retirar espaços](base/111/Readme.md#05str-l2---meu-cachorro-comeu-minha-tarefa---retirar-espaços)
-- [L2 - Numerão Divisível por 11](base/125/Readme.md#05str-l2---numerão-divisível-por-11)
-- [L2 - Organizando Ru - Homens e Mulheres!](base/110/Readme.md#05str-l2---organizando-ru---homens-e-mulheres)
-- [L2 - Somando numeros](base/181/Readme.md#05str-l2---somando-numeros)
-- [L2 - Valdiskley e a cifra V2!](base/106/Readme.md#05str-l2---valdiskley-e-a-cifra-v2)
-- [L2 - Vogais e Consoantes - Identificação e Montagem!](base/094/Readme.md#05str-l2---vogais-e-consoantes---identificação-e-montagem)
-- [L3 - Amo a Amora meu Amor - Contar Substrings!](base/127/Readme.md#05str-l3---amo-a-amora-meu-amor---contar-substrings)
-- [L3 - Aniquilando Ultrons V3](base/118/Readme.md#05str-l3---aniquilando-ultrons-v3)
-- [L3 - Conversa de Traficantes - Substituições de substrings](base/124/Readme.md#05str-l3---conversa-de-traficantes---substituições-de-substrings)
-- [L3 - Eribelton e a Ascologia V3 - Busca do mínimo](base/113/Readme.md#05str-l3---eribelton-e-a-ascologia-v3---busca-do-mínimo)
-- [L3 - Francês é Fresco - Juntar palavras](base/099/Readme.md#05str-l3---francês-é-fresco---juntar-palavras)
-- [L3 - Gansos Gamados - Verificar ordenação da frase!](base/120/Readme.md#05str-l3---gansos-gamados---verificar-ordenação-da-frase)
-- [L3 - Identificando Ultrons V2](base/117/Readme.md#05str-l3---identificando-ultrons-v2)
-- [L3 - Identificando elementos](base/108/Readme.md#05str-l3---identificando-elementos)
-- [L3 - Jack Sparrow e o Beijinho - Alternar Case](base/178/Readme.md#05str-l3---jack-sparrow-e-o-beijinho---alternar-case)
-- [L3 - Jason e Krueguer - busca de maior ocorrencia](base/098/Readme.md#05str-l3---jason-e-krueguer---busca-de-maior-ocorrencia)
-- [L3 - Matéria e Antimatéia - Colisão entre palavras!](base/119/Readme.md#05str-l3---matéria-e-antimatéia---colisão-entre-palavras)
-- [L3 - MeU WoRd QuEbRoU - Formatação de Case!](base/114/Readme.md#05str-l3---meu-word-quebrou---formatação-de-case)
-- [L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados](base/102/Readme.md#05str-l3---meu-cachorro-comeu-minha-tarefa-v2---retirar-espaços-duplicados)
-- [L3 - Máquina de Datilografar Quebrada](base/115/Readme.md#05str-l3---máquina-de-datilografar-quebrada)
-- [L3 - Mário e o Assassins Creed - Cenário](base/121/Readme.md#05str-l3---mário-e-o-assassins-creed---cenário)
-- [L3 - Nao se bububula - Gagueira V2!](base/122/Readme.md#05str-l3---nao-se-bububula---gagueira-v2)
-- [L3 - OBI 2015 - Fase 2 - Nível 1 - Letras](base/152/Readme.md#05str-l3---obi-2015---fase-2---nível-1---letras)
-- [L3 - Prof Muquirana - Busca máximo por critério](base/179/Readme.md#05str-l3---prof-muquirana---busca-máximo-por-critério)
-- [L3 - Rocicleia e o Locioreca - Anagramas!](base/112/Readme.md#05str-l3---rocicleia-e-o-locioreca---anagramas)
-- [L3 - Roda Roda Jequiti](base/116/Readme.md#05str-l3---roda-roda-jequiti)
-- [L3 - Separando a partir de tokens](base/175/Readme.md#05str-l3---separando-a-partir-de-tokens)
-- [L3 - Separe Pneumatocito - Separação de Palavras!](base/103/Readme.md#05str-l3---separe-pneumatocito---separação-de-palavras)
-- [L3 - Sorvete suor casaca chicletes - Letras em Comum!](base/123/Readme.md#05str-l3---sorvete-suor-casaca-chicletes---letras-em-comum)
-- [L3 - Valdiskley e a Cifra v3!](base/107/Readme.md#05str-l3---valdiskley-e-a-cifra-v3)
-- [L3 - Valdiskley e cifras históricas!](base/105/Readme.md#05str-l3---valdiskley-e-cifras-históricas)
+@173 L1 - Eribelton e a Ascologia V1 - Somar Asc|@092 L1 - LP da Xura - Inverter String!|@104 L1 - Maiúsculo, Minusculo e Dígito!|@177 L1 - Marileuza e as Alcaparras - Contar Ocorrencias!|@176 L1 - Substring na decoração - Obter Substrings!
+-|-|-|-|-
+[![](config/thumb/173.jpg)](base/173/Readme.md)|[![](config/thumb/092.jpg)](base/092/Readme.md)|[![](config/thumb/104.jpg)](base/104/Readme.md)|[![](config/thumb/177.jpg)](base/177/Readme.md)|[![](config/thumb/176.jpg)](base/176/Readme.md)
+
+
+@174 L1 - Valdiskey e a cifra V1!|@095 L2 - Avestruz com Alcaparras - Contar Maiusculas e Minusculas!|@096 L2 - Contar Leds|@126 L2 - Crushômetro|@109 L2 - Eribelton e a Ascologia V2 - Buscando a perfeição
+-|-|-|-|-
+[![](config/thumb/174.jpg)](base/174/Readme.md)|[![](config/thumb/095.jpg)](base/095/Readme.md)|[![](config/thumb/096.jpg)](base/096/Readme.md)|[![](config/thumb/126.jpg)](base/126/Readme.md)|[![](config/thumb/109.jpg)](base/109/Readme.md)
+
+
+@097 L2 - Gagueira V1 - Duplicar Palavras|@093 L2 - Gritando em Caixa Alta - Invertendo o Case da frase!|@180 L2 - Guerra Civil no Universo Marvel|@089 L2 - Mega Jokenpo!|@111 L2 - Meu cachorro comeu minha tarefa - Retirar espaços
+-|-|-|-|-
+[![](config/thumb/097.jpg)](base/097/Readme.md)|[![](config/thumb/093.jpg)](base/093/Readme.md)|[![](config/thumb/180.jpg)](base/180/Readme.md)|[![](config/thumb/089.jpg)](base/089/Readme.md)|[![](config/thumb/111.jpg)](base/111/Readme.md)
+
+
+@125 L2 - Numerão Divisível por 11|@110 L2 - Organizando Ru - Homens e Mulheres!|@181 L2 - Somando numeros|@106 L2 - Valdiskley e a cifra V2!|@094 L2 - Vogais e Consoantes - Identificação e Montagem!
+-|-|-|-|-
+[![](config/thumb/125.jpg)](base/125/Readme.md)|[![](config/thumb/110.jpg)](base/110/Readme.md)|[![](config/thumb/181.jpg)](base/181/Readme.md)|[![](config/thumb/106.jpg)](base/106/Readme.md)|[![](config/thumb/094.jpg)](base/094/Readme.md)
+
+
+@127 L3 - Amo a Amora meu Amor - Contar Substrings!|@118 L3 - Aniquilando Ultrons V3|@124 L3 - Conversa de Traficantes - Substituições de substrings|@113 L3 - Eribelton e a Ascologia V3 - Busca do mínimo|@099 L3 - Francês é Fresco - Juntar palavras
+-|-|-|-|-
+[![](config/thumb/127.jpg)](base/127/Readme.md)|[![](config/thumb/118.jpg)](base/118/Readme.md)|[![](config/thumb/124.jpg)](base/124/Readme.md)|[![](config/thumb/113.jpg)](base/113/Readme.md)|[![](config/thumb/099.jpg)](base/099/Readme.md)
+
+
+@120 L3 - Gansos Gamados - Verificar ordenação da frase!|@117 L3 - Identificando Ultrons V2|@108 L3 - Identificando elementos|@178 L3 - Jack Sparrow e o Beijinho - Alternar Case|@098 L3 - Jason e Krueguer - busca de maior ocorrencia
+-|-|-|-|-
+[![](config/thumb/120.jpg)](base/120/Readme.md)|[![](config/thumb/117.jpg)](base/117/Readme.md)|[![](config/thumb/108.jpg)](base/108/Readme.md)|[![](config/thumb/178.jpg)](base/178/Readme.md)|[![](config/thumb/098.jpg)](base/098/Readme.md)
+
+
+@119 L3 - Matéria e Antimatéia - Colisão entre palavras!|@114 L3 - MeU WoRd QuEbRoU - Formatação de Case!|@102 L3 - Meu cachorro comeu minha tarefa V2 - Retirar espaços duplicados|@115 L3 - Máquina de Datilografar Quebrada|@121 L3 - Mário e o Assassins Creed - Cenário
+-|-|-|-|-
+[![](config/thumb/119.jpg)](base/119/Readme.md)|[![](config/thumb/114.jpg)](base/114/Readme.md)|[![](config/thumb/102.jpg)](base/102/Readme.md)|[![](config/thumb/115.jpg)](base/115/Readme.md)|[![](config/thumb/121.jpg)](base/121/Readme.md)
+
+
+@122 L3 - Nao se bububula - Gagueira V2!|@152 L3 - OBI 2015 - Fase 2 - Nível 1 - Letras|@179 L3 - Prof Muquirana - Busca máximo por critério|@112 L3 - Rocicleia e o Locioreca - Anagramas!|@116 L3 - Roda Roda Jequiti
+-|-|-|-|-
+[![](config/thumb/122.jpg)](base/122/Readme.md)|[![](config/thumb/152.jpg)](base/152/Readme.md)|[![](config/thumb/179.jpg)](base/179/Readme.md)|[![](config/thumb/112.jpg)](base/112/Readme.md)|[![](config/thumb/116.jpg)](base/116/Readme.md)
+
+
+@175 L3 - Separando a partir de tokens|@103 L3 - Separe Pneumatocito - Separação de Palavras!|@123 L3 - Sorvete suor casaca chicletes - Letras em Comum!|@107 L3 - Valdiskley e a Cifra v3!|@105 L3 - Valdiskley e cifras históricas!
+-|-|-|-|-
+[![](config/thumb/175.jpg)](base/175/Readme.md)|[![](config/thumb/103.jpg)](base/103/Readme.md)|[![](config/thumb/123.jpg)](base/123/Readme.md)|[![](config/thumb/107.jpg)](base/107/Readme.md)|[![](config/thumb/105.jpg)](base/105/Readme.md)
+
+
 
 ### 06_mat
 
-- [L2 - Bingo!](base/130/Readme.md#06mat-l2---bingo)
-- [L2 - Deu a louca no Imperador!](base/012/Readme.md#06mat-l2---deu-a-louca-no-imperador)
-- [L2 - Quadrado Mágico](base/134/Readme.md#06mat-l2---quadrado-mágico)
-- [L2 - Soldados em Posição](base/133/Readme.md#06mat-l2---soldados-em-posição)
-- [L2 - Soma de elementos de em uma matriz](base/128/Readme.md#06mat-l2---soma-de-elementos-de-em-uma-matriz)
-- [L2 - Soma de matrizes](base/150/Readme.md#06mat-l2---soma-de-matrizes)
-- [L3 - Campo Minado](base/129/Readme.md#06mat-l3---campo-minado)
-- [L3 - Campo de Minhocas - OBI 2005](base/159/Readme.md#06mat-l3---campo-de-minhocas---obi-2005)
-- [L3 - Jogo da vida](base/135/Readme.md#06mat-l3---jogo-da-vida)
-- [L3 - Matriz Simétrica](base/131/Readme.md#06mat-l3---matriz-simétrica)
-- [L3 - OBI 2015 - Fase 2 - Nível 1 - Torre](base/153/Readme.md#06mat-l3---obi-2015---fase-2---nível-1---torre)
-- [L3 - OBI 2015 - Fase 2 - Nível Júnior - Código](base/154/Readme.md#06mat-l3---obi-2015---fase-2---nível-júnior---código)
-- [L3 - Subdiagonais](base/132/Readme.md#06mat-l3---subdiagonais)
-- [L3 - Tetris (Fazendo a peça cair)](base/007/Readme.md#06mat-l3---tetris-fazendo-a-peça-cair)
+@130 L2 - Bingo!|@012 L2 - Deu a louca no Imperador!|@134 L2 - Quadrado Mágico|@133 L2 - Soldados em Posição|@128 L2 - Soma de elementos de em uma matriz
+-|-|-|-|-
+[![](config/thumb/130.jpg)](base/130/Readme.md)|[![](config/thumb/012.jpg)](base/012/Readme.md)|[![](config/thumb/134.jpg)](base/134/Readme.md)|[![](config/thumb/133.jpg)](base/133/Readme.md)|[![](config/thumb/128.jpg)](base/128/Readme.md)
+
+
+@150 L2 - Soma de matrizes|@129 L3 - Campo Minado|@159 L3 - Campo de Minhocas - OBI 2005|@135 L3 - Jogo da vida|@131 L3 - Matriz Simétrica
+-|-|-|-|-
+[![](config/thumb/150.jpg)](base/150/Readme.md)|[![](config/thumb/129.jpg)](base/129/Readme.md)|[![](config/thumb/159.jpg)](base/159/Readme.md)|[![](config/thumb/135.jpg)](base/135/Readme.md)|[![](config/thumb/131.jpg)](base/131/Readme.md)
+
+
+@153 L3 - OBI 2015 - Fase 2 - Nível 1 - Torre|@154 L3 - OBI 2015 - Fase 2 - Nível Júnior - Código|@132 L3 - Subdiagonais|@007 L3 - Tetris (Fazendo a peça cair)|
+-|-|-|-|-
+[![](config/thumb/153.jpg)](base/153/Readme.md)|[![](config/thumb/154.jpg)](base/154/Readme.md)|[![](config/thumb/132.jpg)](base/132/Readme.md)|[![](config/thumb/007.jpg)](base/007/Readme.md)|![](config/empty.png)
+
+
 
 ### 07_dic
 
-- [L1 - Expressão](base/148/Readme.md#07dic-l1---expressão)
-- [L1 - Operações](base/149/Readme.md#07dic-l1---operações)
-- [L3 - Mulher mais idosa](base/182/Readme.md#07dic-l3---mulher-mais-idosa)
+@148 L1 - Expressão|@149 L1 - Operações|@182 L3 - Mulher mais idosa||
+-|-|-|-|-
+[![](config/thumb/148.jpg)](base/148/Readme.md)|[![](config/thumb/149.jpg)](base/149/Readme.md)|[![](config/thumb/182.jpg)](base/182/Readme.md)|![](config/empty.png)|![](config/empty.png)
+
+
 
 ### 07_fun
 
-- [L2 - Imprimir vetor formatado](base/009/Readme.md#07fun-l2---imprimir-vetor-formatado)
+@009 L2 - Imprimir vetor formatado||||
+-|-|-|-|-
+[![](config/thumb/009.jpg)](base/009/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+
+
 
 ### 07_rec
 
-- [L2 - Contando caracteres recursivamente](base/145/Readme.md#07rec-l2---contando-caracteres-recursivamente)
-- [L2 - Números de Fibonacci](base/141/Readme.md#07rec-l2---números-de-fibonacci)
-- [L3 - Contando caracteres recursivamente](base/140/Readme.md#07rec-l3---contando-caracteres-recursivamente)
-- [L3 - Torres de Hanoi](base/146/Readme.md#07rec-l3---torres-de-hanoi)
+@145 L2 - Contando caracteres recursivamente|@141 L2 - Números de Fibonacci|@140 L3 - Contando caracteres recursivamente|@146 L3 - Torres de Hanoi|
+-|-|-|-|-
+[![](config/thumb/145.jpg)](base/145/Readme.md)|[![](config/thumb/141.jpg)](base/141/Readme.md)|[![](config/thumb/140.jpg)](base/140/Readme.md)|[![](config/thumb/146.jpg)](base/146/Readme.md)|![](config/empty.png)
+
+
 
 ### 09_alo
 
-- [L2 - Vetor de strings com variados tamanhos](base/142/Readme.md#09alo-l2---vetor-de-strings-com-variados-tamanhos)
+@142 L2 - Vetor de strings com variados tamanhos||||
+-|-|-|-|-
+[![](config/thumb/142.jpg)](base/142/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+
+
 
 ### 10_ptr
 
-- [L1 - Duelo](base/147/Readme.md#10ptr-l1---duelo)
-- [L1 - Troca de valores de variáveis](base/143/Readme.md#10ptr-l1---troca-de-valores-de-variáveis)
-- [L2 - Função que retorna vários valores por referência](base/144/Readme.md#10ptr-l2---função-que-retorna-vários-valores-por-referência)
+@147 L1 - Duelo|@143 L1 - Troca de valores de variáveis|@144 L2 - Função que retorna vários valores por referência||
+-|-|-|-|-
+[![](config/thumb/147.jpg)](base/147/Readme.md)|[![](config/thumb/143.jpg)](base/143/Readme.md)|[![](config/thumb/144.jpg)](base/144/Readme.md)|![](config/empty.png)|![](config/empty.png)
+
+
 
 ### 11_cla
 
-- [L3 - Motivando a turma de secundaristas](base/184/Readme.md#11cla-l3---motivando-a-turma-de-secundaristas)
+@184 L3 - Motivando a turma de secundaristas||||
+-|-|-|-|-
+[![](config/thumb/184.jpg)](base/184/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+
+
