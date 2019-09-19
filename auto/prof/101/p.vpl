@@ -6,9 +6,9 @@ grade reduction=100%
 
 
 case=01
-input=11
+input=13
 1 2 3 4 5 6 7 8 9 10 11 12 13
-output="[A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J]
+output="[A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K]
 "
 grade reduction=100%
 

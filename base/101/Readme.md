@@ -25,10 +25,10 @@ As cartas estão codificadas da seguinte forma. O 1 vale A, os valores 11, 12 e 
 <<<<<<<<
 
 >>>>>>>>
-11
+13
 1 2 3 4 5 6 7 8 9 10 11 12 13
 ========
-[A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J]
+[A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K]
 <<<<<<<<
 
 >>>>>>>>
