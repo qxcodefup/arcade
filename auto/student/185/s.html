@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@185 Vetor interativo</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="vetor-interativo">Vetor interativo</h2>
+<p><img src="__capa.jpg" /></p>
+<p>Faça um código que receba um char de ação e insira e remova elementos de uma lista.</p>
+<ul>
+<li>Opções
+<ul>
+<li>a: insere vários elementos no vetor
+<ul>
+<li><code>a qtd _valor _valor ...</code></li>
+</ul></li>
+<li>i: insere em uma posição do vetor
+<ul>
+<li><code>i _pos _valor</code></li>
+</ul></li>
+<li>r: remove de uma posição do vetor
+<ul>
+<li><code>r _pos</code></li>
+</ul></li>
+<li>s: mostrar vetor no formato <code>[ v1, v2, v3 ]</code></li>
+<li>q: encerra a execução</li>
+</ul></li>
+<li>Entrada
+<ul>
+<li>se opção for <code>a</code> ou <code>A</code> receba um valor a ser inserido.
+<ul>
+<li>Ex: <code>a 5</code>, insere o 5 no final</li>
+</ul></li>
+<li>se opção for <code>i</code> ou <code>s</code>
+<ul>
+<li>Ex: <code>i 1 7</code>, insere o 7 na posição 1</li>
+</ul></li>
+</ul></li>
+<li>Saída
+<ul>
+<li>mostrar o vetor para cada opção <code>s</code> aparecer.</li>
+</ul></li>
+</ul>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+s
+q
+========
+[ ]
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+a 4 11 10 12 18
+s
+q
+========
+[ 11 10 12 18 ]
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+a 4 11 10 12 18
+s
+i 0 13
+s
+q
+========
+[ 11 10 12 18 ]
+[ 13 11 10 12 18 ]
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+a 4 11 10 12 18
+s
+i 0 13
+i 1 12
+i 5 21
+s
+q
+========
+[ 11 10 12 18 ]
+[ 13 12 11 10 12 18 21 ]
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+a 4 11 10 12 18
+s
+r 0
+s
+r 1
+s
+r 1
+s
+r 0
+s
+q
+========
+[ 11 10 12 18 ]
+[ 10 12 18 ]
+[ 10 ]
+[ ]
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+</code></pre>
+</body>
+</html>
