@@ -38,7 +38,7 @@
 
 [![](config/thumb/001.jpg)](base/001/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
-@001<br>L3 - Sai fora Bhaskara (Cálculo de raízes)|-|-|-|-|-|-
+@001<br>L3 - Sai fora Bhaskara (Cálculo de raízes)| | | | | | 
 
 
 
@@ -61,7 +61,7 @@
 
 [![](config/thumb/059.jpg)](base/059/Readme.md)|[![](config/thumb/065.jpg)](base/065/Readme.md)|[![](config/thumb/066.jpg)](base/066/Readme.md)|[![](config/thumb/158.jpg)](base/158/Readme.md)|[![](config/thumb/161.jpg)](base/161/Readme.md)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
-@059<br>L3 - Sapinho 2 morrendo no poço|@065<br>L3 - Sapinho 3 matemático não morrendo no poço|@066<br>L3 - Spok Palíndromo|@158<br>L3 - Trilhas - OBI 2005|@161<br>L3 - Vivo ou Morto - OBI 2005|-|-
+@059<br>L3 - Sapinho 2 morrendo no poço|@065<br>L3 - Sapinho 3 matemático não morrendo no poço|@066<br>L3 - Spok Palíndromo|@158<br>L3 - Trilhas - OBI 2005|@161<br>L3 - Vivo ou Morto - OBI 2005| | 
 
 
 
@@ -89,7 +89,7 @@
 
 [![](config/thumb/088.jpg)](base/088/Readme.md)|[![](config/thumb/069.jpg)](base/069/Readme.md)|[![](config/thumb/087.jpg)](base/087/Readme.md)|[![](config/thumb/084.jpg)](base/084/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
-@088<br>L3 - Se fosse a mediana eu tinha passado!|@069<br>L3 - Zoo quantas especies!|@087<br>L3 - Zoologico Entrando na Arca de Noé|@084<br>L3 - Zoologico Um animal de cada tipo!|-|-|-
+@088<br>L3 - Se fosse a mediana eu tinha passado!|@069<br>L3 - Zoo quantas especies!|@087<br>L3 - Zoologico Entrando na Arca de Noé|@084<br>L3 - Zoologico Um animal de cada tipo!| | | 
 
 
 
@@ -127,7 +127,7 @@
 
 [![](config/thumb/123.jpg)](base/123/Readme.md)|[![](config/thumb/107.jpg)](base/107/Readme.md)|[![](config/thumb/105.jpg)](base/105/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
-@123<br>L3 - Sorvete suor casaca chicletes - Letras em Comum!|@107<br>L3 - Valdiskley e a Cifra v3!|@105<br>L3 - Valdiskley e cifras históricas!|-|-|-|-
+@123<br>L3 - Sorvete suor casaca chicletes - Letras em Comum!|@107<br>L3 - Valdiskley e a Cifra v3!|@105<br>L3 - Valdiskley e cifras históricas!| | | | 
 
 
 
@@ -148,7 +148,7 @@
 
 [![](config/thumb/148.jpg)](base/148/Readme.md)|[![](config/thumb/149.jpg)](base/149/Readme.md)|[![](config/thumb/182.jpg)](base/182/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
-@148<br>L1 - Expressão|@149<br>L1 - Operações|@182<br>L3 - Mulher mais idosa|-|-|-|-
+@148<br>L1 - Expressão|@149<br>L1 - Operações|@182<br>L3 - Mulher mais idosa| | | | 
 
 
 
@@ -156,7 +156,7 @@
 
 [![](config/thumb/009.jpg)](base/009/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
-@009<br>L2 - Imprimir vetor formatado|-|-|-|-|-|-
+@009<br>L2 - Imprimir vetor formatado| | | | | | 
 
 
 
@@ -164,7 +164,7 @@
 
 [![](config/thumb/145.jpg)](base/145/Readme.md)|[![](config/thumb/141.jpg)](base/141/Readme.md)|[![](config/thumb/140.jpg)](base/140/Readme.md)|[![](config/thumb/146.jpg)](base/146/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
-@145<br>L2 - Contando caracteres recursivamente|@141<br>L2 - Números de Fibonacci|@140<br>L3 - Contando caracteres recursivamente|@146<br>L3 - Torres de Hanoi|-|-|-
+@145<br>L2 - Contando caracteres recursivamente|@141<br>L2 - Números de Fibonacci|@140<br>L3 - Contando caracteres recursivamente|@146<br>L3 - Torres de Hanoi| | | 
 
 
 
@@ -172,7 +172,7 @@
 
 [![](config/thumb/142.jpg)](base/142/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
-@142<br>L2 - Vetor de strings com variados tamanhos|-|-|-|-|-|-
+@142<br>L2 - Vetor de strings com variados tamanhos| | | | | | 
 
 
 
@@ -180,7 +180,7 @@
 
 [![](config/thumb/147.jpg)](base/147/Readme.md)|[![](config/thumb/143.jpg)](base/143/Readme.md)|[![](config/thumb/144.jpg)](base/144/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
-@147<br>L1 - Duelo|@143<br>L1 - Troca de valores de variáveis|@144<br>L2 - Função que retorna vários valores por referência|-|-|-|-
+@147<br>L1 - Duelo|@143<br>L1 - Troca de valores de variáveis|@144<br>L2 - Função que retorna vários valores por referência| | | | 
 
 
 
@@ -188,6 +188,6 @@
 
 [![](config/thumb/184.jpg)](base/184/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
-@184<br>L3 - Motivando a turma de secundaristas|-|-|-|-|-|-
+@184<br>L3 - Motivando a turma de secundaristas| | | | | | 
 
 
