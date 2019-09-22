@@ -1,7 +1,5 @@
 ## @qxcode
 
-## Categorias
-
 
 ### 01_ope
 
