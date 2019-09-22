@@ -72,24 +72,24 @@
 @060<br>L1 - Joelison Fernandes - Soma do maior e menor!|@061<br>L2 - Capoeira invertendo vetor!|@078<br>L2 - Jogo do Avesso|@091<br>L2 - MMC|@101<br>L2 - Mostrar mão de cartas (Imprimir vetor formatado)|@068<br>L2 - Organizando a fila do RU - Separar Pares e Ímpares!|@090<br>L2 - Primo
 
 
-[![](config/thumb/067.jpg)](base/067/Readme.md)|[![](config/thumb/072.jpg)](base/072/Readme.md)|[![](config/thumb/075.jpg)](base/075/Readme.md)|[![](config/thumb/083.jpg)](base/083/Readme.md)|[![](config/thumb/082.jpg)](base/082/Readme.md)|[![](config/thumb/080.jpg)](base/080/Readme.md)|[![](config/thumb/073.jpg)](base/073/Readme.md)
+[![](config/thumb/186.jpg)](base/186/Readme.md)|[![](config/thumb/067.jpg)](base/067/Readme.md)|[![](config/thumb/072.jpg)](base/072/Readme.md)|[![](config/thumb/075.jpg)](base/075/Readme.md)|[![](config/thumb/083.jpg)](base/083/Readme.md)|[![](config/thumb/082.jpg)](base/082/Readme.md)|[![](config/thumb/080.jpg)](base/080/Readme.md)
 -|-|-|-|-|-|-
-@067<br>L2 - Queda de dominós|@072<br>L2 - Soldados Pequenos e Grandes!|@075<br>L3 - Abastecimento de água|@083<br>L3 - Anfíbios e Batráquios - Está contido|@082<br>L3 - As unhas de Luiza - Vetor para inteiro|@080<br>L3 - Baruel Ruel trocando figurinhas!|@073<br>L3 - Batida Policial - Ordenando vetores
+@186<br>L2 - Processando uma linha de inteiros|@067<br>L2 - Queda de dominós|@072<br>L2 - Soldados Pequenos e Grandes!|@075<br>L3 - Abastecimento de água|@083<br>L3 - Anfíbios e Batráquios - Está contido|@082<br>L3 - As unhas de Luiza - Vetor para inteiro|@080<br>L3 - Baruel Ruel trocando figurinhas!
 
 
-[![](config/thumb/010.jpg)](base/010/Readme.md)|[![](config/thumb/070.jpg)](base/070/Readme.md)|[![](config/thumb/086.jpg)](base/086/Readme.md)|[![](config/thumb/085.jpg)](base/085/Readme.md)|[![](config/thumb/008.jpg)](base/008/Readme.md)|[![](config/thumb/100.jpg)](base/100/Readme.md)|[![](config/thumb/079.jpg)](base/079/Readme.md)
+[![](config/thumb/073.jpg)](base/073/Readme.md)|[![](config/thumb/010.jpg)](base/010/Readme.md)|[![](config/thumb/070.jpg)](base/070/Readme.md)|[![](config/thumb/086.jpg)](base/086/Readme.md)|[![](config/thumb/085.jpg)](base/085/Readme.md)|[![](config/thumb/008.jpg)](base/008/Readme.md)|[![](config/thumb/100.jpg)](base/100/Readme.md)
 -|-|-|-|-|-|-
-@010<br>L3 - Bolinhas viciadas(contagem de repetições)|@070<br>L3 - Cabeças vão rolar|@086<br>L3 - Coleção de Tazos - Quantos se repetem mais|@085<br>L3 - Exército - Perto da morte|@008<br>L3 - Força Bruta (Gerando próxima combinação)|@100<br>L3 - Jogando pião na rodinha|@079<br>L3 - Jogo do Avesso V2
+@073<br>L3 - Batida Policial - Ordenando vetores|@010<br>L3 - Bolinhas viciadas(contagem de repetições)|@070<br>L3 - Cabeças vão rolar|@086<br>L3 - Coleção de Tazos - Quantos se repetem mais|@085<br>L3 - Exército - Perto da morte|@008<br>L3 - Força Bruta (Gerando próxima combinação)|@100<br>L3 - Jogando pião na rodinha
 
 
-[![](config/thumb/081.jpg)](base/081/Readme.md)|[![](config/thumb/139.jpg)](base/139/Readme.md)|[![](config/thumb/077.jpg)](base/077/Readme.md)|[![](config/thumb/162.jpg)](base/162/Readme.md)|[![](config/thumb/071.jpg)](base/071/Readme.md)|[![](config/thumb/074.jpg)](base/074/Readme.md)|[![](config/thumb/076.jpg)](base/076/Readme.md)
+[![](config/thumb/079.jpg)](base/079/Readme.md)|[![](config/thumb/081.jpg)](base/081/Readme.md)|[![](config/thumb/139.jpg)](base/139/Readme.md)|[![](config/thumb/077.jpg)](base/077/Readme.md)|[![](config/thumb/162.jpg)](base/162/Readme.md)|[![](config/thumb/071.jpg)](base/071/Readme.md)|[![](config/thumb/074.jpg)](base/074/Readme.md)
 -|-|-|-|-|-|-
-@081<br>L3 - Loucura de Marquinhos - Decompor um inteiro|@139<br>L3 - MMC de vários números.|@077<br>L3 - Mercantil V3 - Muitas rodadas|@162<br>L3 - Mini-Poker - OBI2005|@071<br>L3 - Mário e o Assassins Creed - Parkour|@074<br>L3 - OBI 2017 - Fase 1 - Botas Trocadas|@076<br>L3 - OBI 2017 - Fase 1 - O segredo do Cofre
+@079<br>L3 - Jogo do Avesso V2|@081<br>L3 - Loucura de Marquinhos - Decompor um inteiro|@139<br>L3 - MMC de vários números.|@077<br>L3 - Mercantil V3 - Muitas rodadas|@162<br>L3 - Mini-Poker - OBI2005|@071<br>L3 - Mário e o Assassins Creed - Parkour|@074<br>L3 - OBI 2017 - Fase 1 - Botas Trocadas
 
 
-[![](config/thumb/088.jpg)](base/088/Readme.md)|[![](config/thumb/069.jpg)](base/069/Readme.md)|[![](config/thumb/087.jpg)](base/087/Readme.md)|[![](config/thumb/084.jpg)](base/084/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+[![](config/thumb/076.jpg)](base/076/Readme.md)|[![](config/thumb/088.jpg)](base/088/Readme.md)|[![](config/thumb/185.jpg)](base/185/Readme.md)|[![](config/thumb/069.jpg)](base/069/Readme.md)|[![](config/thumb/087.jpg)](base/087/Readme.md)|[![](config/thumb/084.jpg)](base/084/Readme.md)|![](config/empty.png)
 -|-|-|-|-|-|-
-@088<br>L3 - Se fosse a mediana eu tinha passado!|@069<br>L3 - Zoo quantas especies!|@087<br>L3 - Zoologico Entrando na Arca de Noé|@084<br>L3 - Zoologico Um animal de cada tipo!| | | 
+@076<br>L3 - OBI 2017 - Fase 1 - O segredo do Cofre|@088<br>L3 - Se fosse a mediana eu tinha passado!|@185<br>L3 - Vetor interativo|@069<br>L3 - Zoo quantas especies!|@087<br>L3 - Zoologico Entrando na Arca de Noé|@084<br>L3 - Zoologico Um animal de cada tipo!| 
 
 
 
@@ -189,13 +189,5 @@
 [![](config/thumb/184.jpg)](base/184/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
 @184<br>L3 - Motivando a turma de secundaristas| | | | | | 
-
-
-
-### -
-
-[![](config/thumb/185.jpg)](base/185/Readme.md)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
--|-|-|-|-|-|-
-@185<br>Vetor interativo| | | | | | 
 
 

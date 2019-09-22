@@ -90,6 +90,7 @@
 - [L2 - Mostrar mão de cartas (Imprimir vetor formatado)](../base/101/Readme.md#04vet-l2---mostrar-mão-de-cartas-imprimir-vetor-formatado)
 - [L2 - Organizando a fila do RU - Separar Pares e Ímpares!](../base/068/Readme.md#04vet-l2---organizando-a-fila-do-ru---separar-pares-e-ímpares)
 - [L2 - Primo](../base/090/Readme.md#04vet-l2---primo)
+- [L2 - Processando uma linha de inteiros](../base/186/Readme.md#04vet-l2---processando-uma-linha-de-inteiros)
 - [L2 - Queda de dominós](../base/067/Readme.md#04vet-l2---queda-de-dominós)
 - [L2 - Soldados Pequenos e Grandes!](../base/072/Readme.md#04vet-l2---soldados-pequenos-e-grandes)
 - [L3 - Abastecimento de água](../base/075/Readme.md#04vet-l3---abastecimento-de-água)
@@ -112,6 +113,7 @@
 - [L3 - OBI 2017 - Fase 1 - Botas Trocadas](../base/074/Readme.md#04vet-l3---obi-2017---fase-1---botas-trocadas)
 - [L3 - OBI 2017 - Fase 1 - O segredo do Cofre](../base/076/Readme.md#04vet-l3---obi-2017---fase-1---o-segredo-do-cofre)
 - [L3 - Se fosse a mediana eu tinha passado!](../base/088/Readme.md#04vet-l3---se-fosse-a-mediana-eu-tinha-passado)
+- [L3 - Vetor interativo](../base/185/Readme.md#04vet-l3---vetor-interativo)
 - [L3 - Zoo quantas especies!](../base/069/Readme.md#04vet-l3---zoo-quantas-especies)
 - [L3 - Zoologico Entrando na Arca de Noé](../base/087/Readme.md#04vet-l3---zoologico-entrando-na-arca-de-noé)
 - [L3 - Zoologico Um animal de cada tipo!](../base/084/Readme.md#04vet-l3---zoologico-um-animal-de-cada-tipo)
@@ -211,7 +213,3 @@
 ### 11_cla
 
 - [L3 - Motivando a turma de secundaristas](../base/184/Readme.md#11cla-l3---motivando-a-turma-de-secundaristas)
-
-### -
-
-- [Vetor interativo](../base/185/Readme.md#vetor-interativo)

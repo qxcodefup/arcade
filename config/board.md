@@ -74,6 +74,7 @@
 [](../base/101/Readme.md) : 101 : $04_vet L2 - Mostrar mão de cartas (Imprimir vetor formatado)
 [](../base/068/Readme.md) : 068 : $04_vet L2 - Organizando a fila do RU - Separar Pares e Ímpares!
 [](../base/090/Readme.md) : 090 : $04_vet L2 - Primo
+[](../base/186/Readme.md) : 186 : $04_vet L2 - Processando uma linha de inteiros
 [](../base/067/Readme.md) : 067 : $04_vet L2 - Queda de dominós
 [](../base/072/Readme.md) : 072 : $04_vet L2 - Soldados Pequenos e Grandes!
 [](../base/075/Readme.md) : 075 : $04_vet L3 - Abastecimento de água
@@ -96,6 +97,7 @@
 [](../base/074/Readme.md) : 074 : $04_vet L3 - OBI 2017 - Fase 1 - Botas Trocadas
 [](../base/076/Readme.md) : 076 : $04_vet L3 - OBI 2017 - Fase 1 - O segredo do Cofre
 [](../base/088/Readme.md) : 088 : $04_vet L3 - Se fosse a mediana eu tinha passado!
+[](../base/185/Readme.md) : 185 : $04_vet L3 - Vetor interativo
 [](../base/069/Readme.md) : 069 : $04_vet L3 - Zoo quantas especies!
 [](../base/087/Readme.md) : 087 : $04_vet L3 - Zoologico Entrando na Arca de Noé
 [](../base/084/Readme.md) : 084 : $04_vet L3 - Zoologico Um animal de cada tipo!
@@ -171,4 +173,3 @@
 [](../base/143/Readme.md) : 143 : $10_ptr L1 - Troca de valores de variáveis
 [](../base/144/Readme.md) : 144 : $10_ptr L2 - Função que retorna vários valores por referência
 [](../base/184/Readme.md) : 184 : $11_cla L3 - Motivando a turma de secundaristas
-[](../base/185/Readme.md) : 185 : Vetor interativo

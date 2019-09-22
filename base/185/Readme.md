@@ -1,4 +1,4 @@
-## Vetor interativo
+## $04_vet L3 - Vetor interativo
 
 ![](__capa.jpg)
 
@@ -11,7 +11,7 @@ Faça um código que receba um char de ação e insira e remova elementos de uma
         - `i _pos _valor`
     - r: remove de uma posição do vetor
         - `r _pos`
-    - s: mostrar vetor no formato `[ v1, v2, v3 ]`
+    - s: mostrar vetor no formato `[ v1 v2 v3 ]`
     - q: encerra a execução
 
 - Entrada
@@ -53,17 +53,21 @@ q
 a 4 11 10 12 18
 s
 i 0 13
-i 1 12
+s
+i 1 17
+s
 i 5 21
 s
 q
 ========
 [ 11 10 12 18 ]
-[ 13 12 11 10 12 18 21 ]
+[ 13 11 10 12 18 ]
+[ 13 17 11 10 12 18 ]
+[ 13 17 11 10 12 21 18 ]
 <<<<<<<<
 
 >>>>>>>>
-a 4 11 10 12 18
+a 5 17 11 10 12 18
 s
 r 0
 s
@@ -75,10 +79,11 @@ r 0
 s
 q
 ========
+[ 17 11 10 12 18 ]
 [ 11 10 12 18 ]
-[ 10 12 18 ]
-[ 10 ]
-[ ]
+[ 11 12 18 ]
+[ 11 18 ]
+[ 18 ]
 <<<<<<<<
 
 ```
