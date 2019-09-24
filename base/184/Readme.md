@@ -1,6 +1,8 @@
 ## $11_cla L3 - Motivando a turma de secundaristas
 ## @qxcode
 
+![](__capa.jpg)
+
 Cuidado: Baseado em fatos reais!
 
 Alex Sandro foi até a sala do professor de informática pedir uma questão para usar como motivação do curso de informática para os alunos do ensino médio.

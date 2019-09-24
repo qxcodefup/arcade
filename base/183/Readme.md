@@ -1,6 +1,8 @@
 ## $02_sel L2 - Criança, Adulto, Idoso, Múmia
 ## @qxcode
 
+![](__capa.jpg)
+
 Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escreva:
 
 *   crianca se menor que 12 (não use o ç),
