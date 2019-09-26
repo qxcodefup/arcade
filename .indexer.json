@@ -1,32 +1,38 @@
 {
-    "base": "base",
-    "config": ".indexer",
-    "cat": {
-        "summary" : ".indexer/cat_summary.md",
-        "index"   : ".indexer/cat_index.md",
-        "view"    : "Readme.md"
-    },
-    "tag":{
-        "summary" : ".indexer/tag_summary.md",
-        "index"   : ".indexer/tag_index.md",
-        "view"    : ".indexer/tag_view.md"
-    },
-    "extra":{
-        "orphan" : "-",
-        "empty_fig": "config/empty.png",
-        "posts_per_row": 5,
-        "reverse_sort": false
-    },
-    "symbols":{
-        "tag": "#",
-        "category": "$",
-        "date": "¢",
-        "author": "£",
-        "subtitle": "&"
-    },
-
-    "moodle_dir": "auto/moodle",
-    "student_dir": "auto/student",
-    "prof_dir": "auto/prof", 
-    "remote": "https://raw.githubusercontent.com/qxcodefup/arcade/master/base"
+  "enable_links": true,
+  "enable_thumbs": true,
+  "enable_posts": false,
+  "base": "base",
+  "config": ".indexer",
+  "board": ".indexer/board.md",
+  "links": ".indexer/links",
+  "thumbs": ".indexer/thumbs",
+  "cat": {
+    "summary": ".indexer/cat_summary.md",
+    "index": ".indexer/cat_index.md",
+    "view": "Readme.md"
+  },
+  "tag": {
+    "summary": ".indexer/tag_summary.md",
+    "index": ".indexer/tag_index.md",
+    "view": ".indexer/tag_view.md"
+  },
+  "sort": {
+    "orphan": "-",
+    "empty_fig": null,
+    "posts_per_row": 7,
+    "reverse_sort": false
+  },
+  "symbols": {
+    "tag": "#",
+    "category": "$",
+    "date": "\u00f0",
+    "author": "\u00e6",
+    "subtitle": "\u00df"
+  },
+  "posts": {
+    "dir": "_posts",
+    "github_id": "youid",
+    "repository": "repository"
+  }
 }
