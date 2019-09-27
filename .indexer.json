@@ -14,7 +14,7 @@
   "generate": [
     {
       "mode": "index",
-      "path": "lista_categorias.md",
+      "path": "categorias.md",
       "intro": "Readme.md",
       "sorting": {
         "orphan": "Sem categoria",

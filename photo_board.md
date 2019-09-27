@@ -1,6 +1,6 @@
 ## Repositório de Atividades de FUP
 ## @qxcode
-[![](config/list.png)](categorias.md) | [![](config/list.png)](photo_board.md) 
+[![](config/list.png)](categorias.md) | [![](config/view.png)](photo_board.md) 
 -|-
 **List** | **Photo Board**
 ## 01_ope
