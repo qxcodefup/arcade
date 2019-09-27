@@ -1,8 +1,10 @@
-## Repositório de Atividades de FUP
+## Lista de atividades de FUP
 ## @qxcode
-[![](config/list.png)](categorias.md) | [![](config/view.png)](photo_board.md) 
+[![](config/list.png)](categorias.md#qxcode) | [![](config/view.png)](photo_board.md#qxcode) 
 -|-
 **List** | **Photo Board**
+
+
 ## 01_ope
 
 [![](.indexer/thumbs/011/Readme.jpg)](base/011/Readme.md#-01_ope-l1---formatando-data-zeros-à-esquerda)|[![](.indexer/thumbs/000/Readme.jpg)](base/000/Readme.md#-01_ope-l1---operações-básicas-imprimindo-float-formatado)|[![](.indexer/thumbs/003/Readme.jpg)](base/003/Readme.md#-01_ope-l2---opala-bebedor-cálculo-de-desempenho)|[![](.indexer/thumbs/002/Readme.jpg)](base/002/Readme.md#-01_ope-l2---pintando-a-casa-calculando-a-área-do-triângulo)|[![](.indexer/thumbs/005/Readme.jpg)](base/005/Readme.md#-01_ope-l3---ladrão-de-goiabas-contando-viagens)|[![](.indexer/thumbs/004/Readme.jpg)](base/004/Readme.md#-01_ope-l3---mete-bala-distância-entre-dois-pontos)|[![](.indexer/thumbs/006/Readme.jpg)](base/006/Readme.md#-01_ope-l3---zerinho-ou-um-americano-calcule-o-vencedor)

@@ -1,8 +1,10 @@
-## Repositório de Atividades de FUP
+## Lista de atividades de FUP
 ## @qxcode
-[![](config/list.png)](categorias.md) | [![](config/view.png)](photo_board.md) 
+[![](config/list.png)](categorias.md#qxcode) | [![](config/view.png)](photo_board.md#qxcode) 
 -|-
 **List** | **Photo Board**
+
+
 ## 01_ope
 
 - [L1 - Formatando data (Zeros à esquerda)](base/011/Readme.md#-01_ope-l1---formatando-data-zeros-à-esquerda)
