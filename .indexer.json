@@ -1,28 +1,9 @@
 {
-  "enable_links": true,
-  "enable_thumbs": true,
-  "enable_posts": false,
   "base": "base",
   "config": ".indexer",
   "board": ".indexer/board.md",
   "links": ".indexer/links",
   "thumbs": ".indexer/thumbs",
-  "cat": {
-    "summary": ".indexer/cat_summary.md",
-    "index": ".indexer/cat_index.md",
-    "view": "Readme.md"
-  },
-  "tag": {
-    "summary": ".indexer/tag_summary.md",
-    "index": ".indexer/tag_index.md",
-    "view": ".indexer/tag_view.md"
-  },
-  "sort": {
-    "orphan": "-",
-    "empty_fig": null,
-    "posts_per_row": 7,
-    "reverse_sort": false
-  },
   "symbols": {
     "tag": "#",
     "category": "$",
@@ -30,9 +11,33 @@
     "author": "\u00e6",
     "subtitle": "\u00df"
   },
-  "posts": {
-    "dir": "_posts",
-    "github_id": "youid",
-    "repository": "repository"
-  }
+  "generate": [
+    {
+      "mode": "index",
+      "path": "lista_categorias.md",
+      "intro": "Readme.md",
+      "sorting": {
+        "orphan": "Sem categoria",
+        "group_by": "category",
+        "sort_by": "fulltitle",
+        "reverse_sort": false
+      }
+    },
+    {
+      "mode": "view",
+      "path": "photo_board.md",
+      "intro": "Readme.md",
+      "sorting": {
+        "orphan": "Sem categoria",
+        "group_by": "category",
+        "sort_by": "fulltitle",
+        "reverse_sort": false
+      },
+      "viewing": {
+        "posts_per_row" : 7,
+        "empty_fig": "config/empty.png"
+      }
+    }
+
+  ]
 }
