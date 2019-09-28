@@ -1,4 +1,4 @@
-## $04_vet L3 - Exército - Perto da morte
+## ©04_vet L3 - Exército - Perto da morte
 ## @qxcode
 
 ![](__capa.jpg)
@@ -33,6 +33,4 @@ Os soldados formaram uma fila no quartel. Essa fila está representada por um ve
 1
 <<<<<<<<
 ```
-
-#
 

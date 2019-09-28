@@ -1,4 +1,4 @@
-## $03_rep L3 - Sapinho 3 matemático não morrendo no poço
+## ©03_rep L3 - Sapinho 3 matemático não morrendo no poço
 ## @qxcode
 
 ![](__capa.jpg)
@@ -52,6 +52,4 @@ Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcula
 122
 <<<<<<<<
 ```
-
-#
 

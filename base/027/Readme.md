@@ -1,4 +1,4 @@
-## $02_sel L2 - Adedonha na Califórnia
+## ©02_sel L2 - Adedonha na Califórnia
 ## @qxcode
 
 ![](__capa.jpg)
@@ -90,6 +90,4 @@ z
 a
 <<<<<<<<
 ```
-
-#
 

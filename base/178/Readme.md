@@ -1,4 +1,4 @@
-## $05_str L3 - Jack Sparrow e o Beijinho - Alternar Case
+## ©05_str L3 - Jack Sparrow e o Beijinho - Alternar Case
 ## @qxcode
 
 ![](__capa.jpg)
@@ -54,6 +54,4 @@ MoRrA pReA
 BiGoDe ApArAdO
 <<<<<<<<
 ```
-
-#
 

@@ -1,4 +1,4 @@
-## $06_mat L2 - Soma de matrizes
+## ©06_mat L2 - Soma de matrizes
 ## @qxcode
 
 ![](__capa.jpg)
@@ -45,6 +45,4 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 6
 <<<<<<<<
 ```
-
-#
 

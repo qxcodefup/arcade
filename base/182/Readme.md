@@ -1,4 +1,4 @@
-## $07_dic L3 - Mulher mais idosa
+## ©07_dic L3 - Mulher mais idosa
 ## @qxcode
 
 ![](__capa.jpg)
@@ -58,7 +58,5 @@ melissa 84 f
 melissa
 <<<<<<<<
 ```
-
-#
 
 

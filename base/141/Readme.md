@@ -1,4 +1,4 @@
-## $07_rec L2 - Números de Fibonacci
+## ©07_rec L2 - Números de Fibonacci
 ## @qxcode
 
 ![](__capa.jpg)
@@ -62,6 +62,4 @@ A função fib abaixo retorna o n-ésimo número de Fibonacci, mas de forma não
 3
 <<<<<<<<
 ```
-
-#
 

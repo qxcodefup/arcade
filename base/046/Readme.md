@@ -1,4 +1,4 @@
-## $03_rep L2 - Jogo da Concentração
+## ©03_rep L2 - Jogo da Concentração
 ## @qxcode
 
 ![](__capa.jpg)
@@ -50,6 +50,4 @@ Dados dois número A e B, com A sempre menor que B, gere a sequencia que o jogad
 [ 0 9 1 8 2 7 3 6 4 5 5 4 6 3 7 2 8 1 9 0 ]
 <<<<<<<<
 ```
-
-#
 

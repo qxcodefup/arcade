@@ -1,4 +1,4 @@
-## $02_sel L3 - Jokenpo das tartarugas!
+## ©02_sel L3 - Jokenpo das tartarugas!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -47,6 +47,4 @@ P
 jog1
 <<<<<<<<
 ```
-
-#
 

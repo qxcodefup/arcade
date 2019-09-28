@@ -1,4 +1,4 @@
-## $03_rep L2 - Busca Intervalada
+## ©03_rep L2 - Busca Intervalada
 ## @qxcode
 
 ![](__capa.jpg)
@@ -53,6 +53,4 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 0
 <<<<<<<<
 ```
-
-#
 

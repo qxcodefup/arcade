@@ -1,4 +1,4 @@
-## $02_sel L1 - Angulo Cartesiano - Operador Modular
+## ©02_sel L1 - Angulo Cartesiano - Operador Modular
 ## @qxcode
 
 ![](__capa.jpg)
@@ -62,8 +62,6 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 10
 <<<<<<<<
 ```
-
-#
 
 
 

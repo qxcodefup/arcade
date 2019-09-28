@@ -1,4 +1,4 @@
-## $11_cla L3 - Motivando a turma de secundaristas
+## ©08_ptr L3 - Motivando a turma de secundaristas
 ## @qxcode
 
 ![](__capa.jpg)

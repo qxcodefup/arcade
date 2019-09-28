@@ -1,4 +1,4 @@
-## $03_rep L3 - Blackjack 21!
+## ©03_rep L3 - Blackjack 21!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -53,6 +53,4 @@ No vetor de inteiros mao, , os valores 1, 11, 12 e 13 são respectivamente Ás, 
 24
 <<<<<<<<
 ```
-
-#
 

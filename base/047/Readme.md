@@ -1,4 +1,4 @@
-## $03_rep L2 - Ônibus lotado
+## ©03_rep L2 - Ônibus lotado
 ## @qxcode
 
 ![](__capa.jpg)
@@ -85,6 +85,4 @@ lotado
 hora de partir
 <<<<<<<<
 ```
-
-#
 

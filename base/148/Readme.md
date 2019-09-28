@@ -1,4 +1,4 @@
-## $07_dic L1 - Expressão
+## ©07_dic L1 - Expressão
 ## @qxcode
 
 ![](__capa.jpg)
@@ -32,6 +32,4 @@ Crie um programa que leia do usuário dois números inteiros e um operador do ti
 0
 <<<<<<<<
 ```
-
-#
 

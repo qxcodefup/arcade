@@ -1,4 +1,4 @@
-## $04_vet L3 - Zoologico Um animal de cada tipo!
+## ©04_vet L3 - Zoologico Um animal de cada tipo!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -49,6 +49,4 @@ Não use uma função de ordenar pronta.
 1 2 3 4 9
 <<<<<<<<
 ```
-
-#
 

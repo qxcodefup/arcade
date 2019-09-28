@@ -1,4 +1,4 @@
-## $02_sel L2 - Quantos são iguais? (Contando Repetidos)
+## ©02_sel L2 - Quantos são iguais? (Contando Repetidos)
 ## @qxcode
 
 ![](__capa.jpg)
@@ -45,7 +45,5 @@ Leia três valores do usuário e imprima quantos são iguais.
 3
 <<<<<<<<
 ```
-
-#
 
 

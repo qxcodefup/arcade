@@ -1,4 +1,4 @@
-## $01_ope L3 - Mete bala (Distância entre dois pontos)
+## ©01_ope L3 - Mete bala (Distância entre dois pontos)
 ## @qxcode
 
 ![](__capa.jpg)
@@ -79,7 +79,5 @@ printf("%.2f", valor);
 Para calcular a raiz quadrada você deverá importar a biblioteca math.h em seu projeto e chamar a função sqrt() passando o valor que você deseja encontrar a raiz.
 
 Para elevar ao quadrado você pode usar a função pow(x,2) que retorna x², ou fazer x * x. A função pow() também pertence à math.h.
-
-#
 
 

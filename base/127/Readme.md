@@ -1,4 +1,4 @@
-## $05_str L3 - Amo a Amora meu Amor - Contar Substrings!
+## ©05_str L3 - Amo a Amora meu Amor - Contar Substrings!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -42,6 +42,4 @@ rat
 5
 <<<<<<<<
 ```
-
-#
 

@@ -1,4 +1,4 @@
-## $04_vet L3 - As unhas de Luiza - Vetor para inteiro
+## ©04_vet L3 - As unhas de Luiza - Vetor para inteiro
 ## @qxcode
 
 ![](__capa.jpg)
@@ -63,6 +63,4 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 54321
 <<<<<<<<
 ```
-
-#
 

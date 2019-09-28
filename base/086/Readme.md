@@ -1,4 +1,4 @@
-## $04_vet L3 - Coleção de Tazos - Quantos se repetem mais
+## ©04_vet L3 - Coleção de Tazos - Quantos se repetem mais
 ## @qxcode
 
 ![](__capa.jpg)
@@ -49,6 +49,4 @@ Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos e
 5 9 7
 <<<<<<<<
 ```
-
-#
 

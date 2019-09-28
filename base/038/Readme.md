@@ -1,4 +1,4 @@
-## $02_sel L2 - A hora do próximo segundo
+## ©02_sel L2 - A hora do próximo segundo
 ## @qxcode
 
 ![ponteiros de um relógio](__capa.jpg)

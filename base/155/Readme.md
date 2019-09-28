@@ -1,4 +1,4 @@
-## $02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Plantação de Morangos!
+## ©02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Plantação de Morangos!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -41,6 +41,4 @@ Os administradores da Fazenda Fartura planejam criar uma nova plantação de mor
 456
 <<<<<<<<
 ```
-
-#
 

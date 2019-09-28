@@ -54,22 +54,34 @@
 - [L3 - Rufus e Par ou Ímpar!](base/041/Readme.md#-02_sel-l3---rufus-e-par-ou-ímpar)
 - [L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001/Readme.md#-02_sel-l3---sai-fora-bhaskara-cálculo-de-raízes)
 
-## 06_mat
+## 03_rep
 
-- [L2 - Bingo!](base/130/Readme.md#-06_mat-l2---bingo)
-- [L2 - Deu a louca no Imperador!](base/012/Readme.md#-06_mat-l2---deu-a-louca-no-imperador)
-- [L2 - Quadrado Mágico](base/134/Readme.md#-06_mat-l2---quadrado-mágico)
-- [L2 - Soldados em Posição](base/133/Readme.md#-06_mat-l2---soldados-em-posição)
-- [L2 - Soma de elementos de em uma matriz](base/128/Readme.md#-06_mat-l2---soma-de-elementos-de-em-uma-matriz)
-- [L2 - Soma de matrizes](base/150/Readme.md#-06_mat-l2---soma-de-matrizes)
-- [L3 - Campo Minado](base/129/Readme.md#-06_mat-l3---campo-minado)
-- [L3 - Campo de Minhocas - OBI 2005](base/159/Readme.md#-06_mat-l3---campo-de-minhocas---obi-2005)
-- [L3 - Jogo da vida](base/135/Readme.md#-06_mat-l3---jogo-da-vida)
-- [L3 - Matriz Simétrica](base/131/Readme.md#-06_mat-l3---matriz-simétrica)
-- [L3 - OBI 2015 - Fase 2 - Nível 1 - Torre](base/153/Readme.md#-06_mat-l3---obi-2015---fase-2---nível-1---torre)
-- [L3 - OBI 2015 - Fase 2 - Nível Júnior - Código](base/154/Readme.md#-06_mat-l3---obi-2015---fase-2---nível-júnior---código)
-- [L3 - Subdiagonais](base/132/Readme.md#-06_mat-l3---subdiagonais)
-- [L3 - Tetris (Fazendo a peça cair)](base/007/Readme.md#-06_mat-l3---tetris-fazendo-a-peça-cair)
+- [L1 - Calça Zeze de Camargo - Mínimo](base/056/Readme.md#-03_rep-l1---calça-zeze-de-camargo---mínimo)
+- [L1 - Dividindo pares de sapatos pra três](base/013/Readme.md#-03_rep-l1---dividindo-pares-de-sapatos-pra-três)
+- [L1 - Quantos Ultrons você vê - Contar Elemento](base/055/Readme.md#-03_rep-l1---quantos-ultrons-você-vê---contar-elemento)
+- [L1 - Somatório V2](base/044/Readme.md#-03_rep-l1---somatório-v2)
+- [L1 - Zero é par - Somatório de Pares!](base/045/Readme.md#-03_rep-l1---zero-é-par---somatório-de-pares)
+- [L2 - Busca Intervalada](base/058/Readme.md#-03_rep-l2---busca-intervalada)
+- [L2 - Cabo de Guerra Jedi](base/048/Readme.md#-03_rep-l2---cabo-de-guerra-jedi)
+- [L2 - Castelos de Cubos](base/050/Readme.md#-03_rep-l2---castelos-de-cubos)
+- [L2 - Jogo da Concentração](base/046/Readme.md#-03_rep-l2---jogo-da-concentração)
+- [L2 - Revolta em Portugal](base/057/Readme.md#-03_rep-l2---revolta-em-portugal)
+- [L2 - Sapinho 1 no Poço](base/049/Readme.md#-03_rep-l2---sapinho-1-no-poço)
+- [L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136/Readme.md#-03_rep-l2---trilhas---obi-2005---modo-easy)
+- [L2 - Volta de 360 graus (Retirando os loops)](base/016/Readme.md#-03_rep-l2---volta-de-360-graus-retirando-os-loops)
+- [L2 - Ônibus lotado](base/047/Readme.md#-03_rep-l2---ônibus-lotado)
+- [L3 - Arremesso de pedra na lua](base/051/Readme.md#-03_rep-l3---arremesso-de-pedra-na-lua)
+- [L3 - Bafo - OBI 2005](base/160/Readme.md#-03_rep-l3---bafo---obi-2005)
+- [L3 - Blackjack 21!](base/063/Readme.md#-03_rep-l3---blackjack-21)
+- [L3 - Conta Dígitos](base/064/Readme.md#-03_rep-l3---conta-dígitos)
+- [L3 - Hoje tem sopa de coelho?](base/052/Readme.md#-03_rep-l3---hoje-tem-sopa-de-coelho)
+- [L3 - OBI 2016 - Fuga em helicóptero](base/053/Readme.md#-03_rep-l3---obi-2016---fuga-em-helicóptero)
+- [L3 - Quebrador de Copos](base/054/Readme.md#-03_rep-l3---quebrador-de-copos)
+- [L3 - Sapinho 2 morrendo no poço](base/059/Readme.md#-03_rep-l3---sapinho-2-morrendo-no-poço)
+- [L3 - Sapinho 3 matemático não morrendo no poço](base/065/Readme.md#-03_rep-l3---sapinho-3-matemático-não-morrendo-no-poço)
+- [L3 - Spok Palíndromo](base/066/Readme.md#-03_rep-l3---spok-palíndromo)
+- [L3 - Trilhas - OBI 2005](base/158/Readme.md#-03_rep-l3---trilhas---obi-2005)
+- [L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md#-03_rep-l3---vivo-ou-morto---obi-2005)
 
 ## 04_vet
 
@@ -107,39 +119,6 @@
 - [L3 - Zoo quantas especies!](base/069/Readme.md#-04_vet-l3---zoo-quantas-especies)
 - [L3 - Zoologico Entrando na Arca de Noé](base/087/Readme.md#-04_vet-l3---zoologico-entrando-na-arca-de-noé)
 - [L3 - Zoologico Um animal de cada tipo!](base/084/Readme.md#-04_vet-l3---zoologico-um-animal-de-cada-tipo)
-
-## 07_fun
-
-- [L2 - Imprimir vetor formatado](base/009/Readme.md#-07_fun-l2---imprimir-vetor-formatado)
-
-## 03_rep
-
-- [L1 - Calça Zeze de Camargo - Mínimo](base/056/Readme.md#-03_rep-l1---calça-zeze-de-camargo---mínimo)
-- [L1 - Dividindo pares de sapatos pra três](base/013/Readme.md#-03_rep-l1---dividindo-pares-de-sapatos-pra-três)
-- [L1 - Quantos Ultrons você vê - Contar Elemento](base/055/Readme.md#-03_rep-l1---quantos-ultrons-você-vê---contar-elemento)
-- [L1 - Somatório V2](base/044/Readme.md#-03_rep-l1---somatório-v2)
-- [L1 - Zero é par - Somatório de Pares!](base/045/Readme.md#-03_rep-l1---zero-é-par---somatório-de-pares)
-- [L2 - Busca Intervalada](base/058/Readme.md#-03_rep-l2---busca-intervalada)
-- [L2 - Cabo de Guerra Jedi](base/048/Readme.md#-03_rep-l2---cabo-de-guerra-jedi)
-- [L2 - Castelos de Cubos](base/050/Readme.md#-03_rep-l2---castelos-de-cubos)
-- [L2 - Jogo da Concentração](base/046/Readme.md#-03_rep-l2---jogo-da-concentração)
-- [L2 - Revolta em Portugal](base/057/Readme.md#-03_rep-l2---revolta-em-portugal)
-- [L2 - Sapinho 1 no Poço](base/049/Readme.md#-03_rep-l2---sapinho-1-no-poço)
-- [L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136/Readme.md#-03_rep-l2---trilhas---obi-2005---modo-easy)
-- [L2 - Volta de 360 graus (Retirando os loops)](base/016/Readme.md#-03_rep-l2---volta-de-360-graus-retirando-os-loops)
-- [L2 - Ônibus lotado](base/047/Readme.md#-03_rep-l2---ônibus-lotado)
-- [L3 - Arremesso de pedra na lua](base/051/Readme.md#-03_rep-l3---arremesso-de-pedra-na-lua)
-- [L3 - Bafo - OBI 2005](base/160/Readme.md#-03_rep-l3---bafo---obi-2005)
-- [L3 - Blackjack 21!](base/063/Readme.md#-03_rep-l3---blackjack-21)
-- [L3 - Conta Dígitos](base/064/Readme.md#-03_rep-l3---conta-dígitos)
-- [L3 - Hoje tem sopa de coelho?](base/052/Readme.md#-03_rep-l3---hoje-tem-sopa-de-coelho)
-- [L3 - OBI 2016 - Fuga em helicóptero](base/053/Readme.md#-03_rep-l3---obi-2016---fuga-em-helicóptero)
-- [L3 - Quebrador de Copos](base/054/Readme.md#-03_rep-l3---quebrador-de-copos)
-- [L3 - Sapinho 2 morrendo no poço](base/059/Readme.md#-03_rep-l3---sapinho-2-morrendo-no-poço)
-- [L3 - Sapinho 3 matemático não morrendo no poço](base/065/Readme.md#-03_rep-l3---sapinho-3-matemático-não-morrendo-no-poço)
-- [L3 - Spok Palíndromo](base/066/Readme.md#-03_rep-l3---spok-palíndromo)
-- [L3 - Trilhas - OBI 2005](base/158/Readme.md#-03_rep-l3---trilhas---obi-2005)
-- [L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md#-03_rep-l3---vivo-ou-morto---obi-2005)
 
 ## 05_str
 
@@ -189,22 +168,22 @@
 - [L3 - Valdiskley e a Cifra v3!](base/107/Readme.md#-05_str-l3---valdiskley-e-a-cifra-v3)
 - [L3 - Valdiskley e cifras históricas!](base/105/Readme.md#-05_str-l3---valdiskley-e-cifras-históricas)
 
-## 07_rec
+## 06_mat
 
-- [L2 - Contando caracteres recursivamente](base/145/Readme.md#-07_rec-l2---contando-caracteres-recursivamente)
-- [L2 - Números de Fibonacci](base/141/Readme.md#-07_rec-l2---números-de-fibonacci)
-- [L3 - Contando caracteres recursivamente](base/140/Readme.md#-07_rec-l3---contando-caracteres-recursivamente)
-- [L3 - Torres de Hanoi](base/146/Readme.md#-07_rec-l3---torres-de-hanoi)
-
-## 09_alo
-
-- [L2 - Vetor de strings com variados tamanhos](base/142/Readme.md#-09_alo-l2---vetor-de-strings-com-variados-tamanhos)
-
-## 10_ptr
-
-- [L1 - Duelo](base/147/Readme.md#-10_ptr-l1---duelo)
-- [L1 - Troca de valores de variáveis](base/143/Readme.md#-10_ptr-l1---troca-de-valores-de-variáveis)
-- [L2 - Função que retorna vários valores por referência](base/144/Readme.md#-10_ptr-l2---função-que-retorna-vários-valores-por-referência)
+- [L2 - Bingo!](base/130/Readme.md#-06_mat-l2---bingo)
+- [L2 - Deu a louca no Imperador!](base/012/Readme.md#-06_mat-l2---deu-a-louca-no-imperador)
+- [L2 - Quadrado Mágico](base/134/Readme.md#-06_mat-l2---quadrado-mágico)
+- [L2 - Soldados em Posição](base/133/Readme.md#-06_mat-l2---soldados-em-posição)
+- [L2 - Soma de elementos de em uma matriz](base/128/Readme.md#-06_mat-l2---soma-de-elementos-de-em-uma-matriz)
+- [L2 - Soma de matrizes](base/150/Readme.md#-06_mat-l2---soma-de-matrizes)
+- [L3 - Campo Minado](base/129/Readme.md#-06_mat-l3---campo-minado)
+- [L3 - Campo de Minhocas - OBI 2005](base/159/Readme.md#-06_mat-l3---campo-de-minhocas---obi-2005)
+- [L3 - Jogo da vida](base/135/Readme.md#-06_mat-l3---jogo-da-vida)
+- [L3 - Matriz Simétrica](base/131/Readme.md#-06_mat-l3---matriz-simétrica)
+- [L3 - OBI 2015 - Fase 2 - Nível 1 - Torre](base/153/Readme.md#-06_mat-l3---obi-2015---fase-2---nível-1---torre)
+- [L3 - OBI 2015 - Fase 2 - Nível Júnior - Código](base/154/Readme.md#-06_mat-l3---obi-2015---fase-2---nível-júnior---código)
+- [L3 - Subdiagonais](base/132/Readme.md#-06_mat-l3---subdiagonais)
+- [L3 - Tetris (Fazendo a peça cair)](base/007/Readme.md#-06_mat-l3---tetris-fazendo-a-peça-cair)
 
 ## 07_dic
 
@@ -212,6 +191,21 @@
 - [L1 - Operações](base/149/Readme.md#-07_dic-l1---operações)
 - [L3 - Mulher mais idosa](base/182/Readme.md#-07_dic-l3---mulher-mais-idosa)
 
-## 11_cla
+## 07_fun
 
-- [L3 - Motivando a turma de secundaristas](base/184/Readme.md#-11_cla-l3---motivando-a-turma-de-secundaristas)
+- [L2 - Imprimir vetor formatado](base/009/Readme.md#-07_fun-l2---imprimir-vetor-formatado)
+
+## 07_rec
+
+- [L2 - Contando caracteres recursivamente](base/145/Readme.md#-07_rec-l2---contando-caracteres-recursivamente)
+- [L2 - Números de Fibonacci](base/141/Readme.md#-07_rec-l2---números-de-fibonacci)
+- [L3 - Contando caracteres recursivamente](base/140/Readme.md#-07_rec-l3---contando-caracteres-recursivamente)
+- [L3 - Torres de Hanoi](base/146/Readme.md#-07_rec-l3---torres-de-hanoi)
+
+## 08_ptr
+
+- [L1 - Duelo](base/147/Readme.md#-08_ptr-l1---duelo)
+- [L1 - Troca de valores de variáveis](base/143/Readme.md#-08_ptr-l1---troca-de-valores-de-variáveis)
+- [L2 - Função que retorna vários valores por referência](base/144/Readme.md#-08_ptr-l2---função-que-retorna-vários-valores-por-referência)
+- [L2 - Vetor de strings com variados tamanhos](base/142/Readme.md#-08_ptr-l2---vetor-de-strings-com-variados-tamanhos)
+- [L3 - Motivando a turma de secundaristas](base/184/Readme.md#-08_ptr-l3---motivando-a-turma-de-secundaristas)

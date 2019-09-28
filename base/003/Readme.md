@@ -1,4 +1,4 @@
-## $01_ope L2 - Opala bebedor (Cálculo de desempenho)
+## ©01_ope L2 - Opala bebedor (Cálculo de desempenho)
 ## @qxcode
 
 ![](__capa.jpg)
@@ -40,6 +40,4 @@ Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em
 4.00
 <<<<<<<<
 ```
-
-#
 

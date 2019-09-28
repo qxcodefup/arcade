@@ -1,4 +1,4 @@
-## $06_mat L3 - Subdiagonais
+## ©06_mat L3 - Subdiagonais
 ## @qxcode
 
 ![](__capa.jpg)
@@ -54,5 +54,3 @@ Em uma matriz de elementos inteiros 5x5, some todos os elementos da diagonal pri
 -12
 <<<<<<<<
 ```
-
-#

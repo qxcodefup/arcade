@@ -1,4 +1,4 @@
-## $03_rep L1 - Quantos Ultrons você vê - Contar Elemento
+## ©03_rep L1 - Quantos Ultrons você vê - Contar Elemento
 ## @qxcode
 
 ![](__capa.jpg)
@@ -45,6 +45,4 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 5
 <<<<<<<<
 ```
-
-#
 

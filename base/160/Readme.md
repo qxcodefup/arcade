@@ -1,4 +1,4 @@
-## $03_rep L3 - Bafo - OBI 2005
+## ©03_rep L3 - Bafo - OBI 2005
 ## @qxcode
 
 ![](__capa.jpg)

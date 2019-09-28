@@ -1,4 +1,4 @@
-## $02_sel L1 - Ambos Divisíveis
+## ©02_sel L1 - Ambos Divisíveis
 ## @qxcode
 
 ![](__capa.jpg)
@@ -44,6 +44,4 @@ nao
 sim
 <<<<<<<<
 ```
-
-#
 

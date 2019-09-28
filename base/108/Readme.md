@@ -1,4 +1,4 @@
-## $05_str L3 - Identificando elementos
+## ©05_str L3 - Identificando elementos
 ## @qxcode
 
 ![](__capa.jpg)
@@ -40,8 +40,6 @@ a proxima eleição presidencial no Brasil ocorrerá em 2 de outubro de 2018
 str str str str str str str str int str str str int
 <<<<<<<<
 ```
-
-#
 
 <!--
 >>>>>>>> 03

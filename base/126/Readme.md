@@ -1,4 +1,4 @@
-## $05_str L2 - Crushômetro
+## ©05_str L2 - Crushômetro
 ## @qxcode
 
 ![](__capa.jpg)
@@ -78,6 +78,4 @@ Hyoga
 As chances do crush te dar bola sao: 0%!
 <<<<<<<<
 ```
-
-#
 

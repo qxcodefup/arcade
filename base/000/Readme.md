@@ -1,4 +1,4 @@
-## $01_ope L1 - Operações básicas (Imprimindo float formatado)
+## ©01_ope L1 - Operações básicas (Imprimindo float formatado)
 ## @qxcode
 
 ![Imagem](__capa.jpg)
@@ -43,6 +43,4 @@ Leia dois números e imprima a soma, a subtração, a multiplicação, a divisã
 0
 <<<<<<<<
 ```
-#
-
 

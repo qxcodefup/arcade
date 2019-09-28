@@ -1,4 +1,4 @@
-## $02_sel L2 - Mercantil V2 - Maior ou Menor
+## ©02_sel L2 - Mercantil V2 - Maior ou Menor
 ## @qxcode
 
 ![Silvio Santos](__capa.jpg)
@@ -62,6 +62,4 @@ m
 primeiro
 <<<<<<<<
 ```
-
-#
 

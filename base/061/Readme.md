@@ -1,4 +1,4 @@
-## $04_vet L2 - Capoeira invertendo vetor!
+## ©04_vet L2 - Capoeira invertendo vetor!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -55,7 +55,5 @@ Faça uma função que ajude o capoeirista a inverter um vetor passado na entrad
 [ 5 4 3 2 1 ]
 <<<<<<<<
 ```
-
-#
 
 

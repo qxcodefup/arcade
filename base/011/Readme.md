@@ -1,4 +1,4 @@
-## $01_ope L1 - Formatando data (Zeros à esquerda)
+## ©01_ope L1 - Formatando data (Zeros à esquerda)
 ## @qxcode
 
 ![](__capa.jpg)
@@ -46,8 +46,6 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 00:01 01/01/76
 <<<<<<<<
 ```
-
-#
 
 ## Ajuda
 

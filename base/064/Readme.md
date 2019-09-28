@@ -1,4 +1,4 @@
-## $03_rep L3 - Conta Dígitos
+## ©03_rep L3 - Conta Dígitos
 ## @qxcode
 
 ![](__capa.jpg)
@@ -53,6 +53,4 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 3
 <<<<<<<<
 ```
-
-#
 

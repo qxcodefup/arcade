@@ -1,4 +1,4 @@
-## $05_str L3 - Prof Muquirana - Busca máximo por critério
+## ©05_str L3 - Prof Muquirana - Busca máximo por critério
 ## @qxcode
 
 ![](__capa.jpg)
@@ -55,6 +55,4 @@ Faça um programa para imprimir o id do aluno com a maior nota.
 05
 <<<<<<<<
 ```
-
-#
 

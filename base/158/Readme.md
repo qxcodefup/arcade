@@ -1,4 +1,4 @@
-## $03_rep L3 - Trilhas - OBI 2005
+## ©03_rep L3 - Trilhas - OBI 2005
 ## @qxcode
 
 ![](__capa.jpg)
@@ -65,6 +65,4 @@ Dadas as informações colhidas por Paulo sobre distâncias e altitudes de um
 2
 <<<<<<<<
 ```
-
-#
 

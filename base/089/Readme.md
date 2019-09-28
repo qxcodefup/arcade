@@ -1,4 +1,4 @@
-## $05_str L2 - Mega Jokenpo!
+## ©05_str L2 - Mega Jokenpo!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -85,7 +85,5 @@ human
 jog2
 <<<<<<<<
 ```
-
-#
 
 

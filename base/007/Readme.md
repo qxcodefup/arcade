@@ -1,4 +1,4 @@
-## $06_mat L3 - Tetris (Fazendo a peça cair)
+## ©06_mat L3 - Tetris (Fazendo a peça cair)
 ## @qxcode
 
 ![](__capa.jpg)
@@ -51,6 +51,4 @@ o#o#
 o#o#
 <<<<<<<<
 ```
-
-#
 

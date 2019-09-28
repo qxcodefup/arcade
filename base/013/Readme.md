@@ -1,4 +1,4 @@
-## $03_rep L1 - Dividindo pares de sapatos pra três
+## ©03_rep L1 - Dividindo pares de sapatos pra três
 ## @qxcode
 
 ![](__capa.jpg)
@@ -52,7 +52,5 @@ invalido
 ## Ajuda
 
 Um número é par se o resto da divisão por 2 é zero e é divisível por 3 se o resto da divisão por 3 é zero.
-
-#
 
 

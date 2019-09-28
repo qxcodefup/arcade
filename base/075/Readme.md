@@ -1,4 +1,4 @@
-## $04_vet L3 - Abastecimento de água
+## ©04_vet L3 - Abastecimento de água
 ## @qxcode
 
 ![](__capa.jpg)
@@ -65,6 +65,4 @@ Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 1 2 3 4
 <<<<<<<<
 ```
-
-#
 

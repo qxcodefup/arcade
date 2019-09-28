@@ -1,4 +1,4 @@
-## $04_vet L3 - Mercantil V3 - Muitas rodadas
+## ©04_vet L3 - Mercantil V3 - Muitas rodadas
 ## @qxcode
 
 ![](__capa.jpg)
@@ -85,6 +85,4 @@ M m m
 segundo
 <<<<<<<<
 ```
-
-#
 

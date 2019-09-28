@@ -1,4 +1,4 @@
-## $01_ope L2 - Pintando a casa (Calculando a área do triângulo)
+## ©01_ope L2 - Pintando a casa (Calculando a área do triângulo)
 ## @qxcode
 
 ![](__capa.jpg)
@@ -38,7 +38,5 @@ Utilize a seguinte fórmula para calcular a área de um triângulo a partir do t
 59.92
 <<<<<<<<
 ```
-
-#
 
 

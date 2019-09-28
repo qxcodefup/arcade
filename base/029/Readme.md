@@ -1,4 +1,4 @@
-## $02_sel L2 - Quiz do Harry Potter
+## ©02_sel L2 - Quiz do Harry Potter
 ## @qxcode
 
 ![](__capa.jpg)
@@ -77,8 +77,6 @@ d
 Super Fa
 <<<<<<<<
 ```
-
-#
 
 
 Autor: Bruno Góes

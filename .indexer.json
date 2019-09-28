@@ -6,10 +6,10 @@
   "thumbs": ".indexer/thumbs",
   "symbols": {
     "tag": "#",
-    "category": "$",
-    "date": "\u00f0",
-    "author": "\u00e6",
-    "subtitle": "\u00df"
+    "category": "©",
+    "date": "ð",
+    "author": "æ",
+    "subtitle": "ß"
   },
   "generate": [
     {

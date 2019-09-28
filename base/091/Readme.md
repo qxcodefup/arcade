@@ -1,4 +1,4 @@
-## $04_vet L2 - MMC
+## ©04_vet L2 - MMC
 ## @qxcode
 
 ![](__capa.jpg)

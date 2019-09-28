@@ -1,4 +1,4 @@
-## $06_mat L2 - Bingo!
+## ©06_mat L2 - Bingo!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -47,6 +47,4 @@ Dado um vetor de tamanho 6 de elementos inteiros, verifique quantos elementos de
 6
 <<<<<<<<
 ```
-
-#
 

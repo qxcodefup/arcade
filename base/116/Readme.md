@@ -1,4 +1,4 @@
-## $05_str L3 - Roda Roda Jequiti
+## ©05_str L3 - Roda Roda Jequiti
 ## @qxcode
 
 ![](__capa.jpg)

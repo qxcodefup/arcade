@@ -46,16 +46,26 @@
 
 
 
-## 06_mat
+## 03_rep
 
-[![](.indexer/thumbs/130/Readme.jpg)](base/130/Readme.md#-06_mat-l2---bingo)|[![](.indexer/thumbs/012/Readme.jpg)](base/012/Readme.md#-06_mat-l2---deu-a-louca-no-imperador)|[![](.indexer/thumbs/134/Readme.jpg)](base/134/Readme.md#-06_mat-l2---quadrado-mágico)|[![](.indexer/thumbs/133/Readme.jpg)](base/133/Readme.md#-06_mat-l2---soldados-em-posição)|[![](.indexer/thumbs/128/Readme.jpg)](base/128/Readme.md#-06_mat-l2---soma-de-elementos-de-em-uma-matriz)|[![](.indexer/thumbs/150/Readme.jpg)](base/150/Readme.md#-06_mat-l2---soma-de-matrizes)|[![](.indexer/thumbs/129/Readme.jpg)](base/129/Readme.md#-06_mat-l3---campo-minado)
+[![](.indexer/thumbs/056/Readme.jpg)](base/056/Readme.md#-03_rep-l1---calça-zeze-de-camargo---mínimo)|[![](.indexer/thumbs/013/Readme.jpg)](base/013/Readme.md#-03_rep-l1---dividindo-pares-de-sapatos-pra-três)|[![](.indexer/thumbs/055/Readme.jpg)](base/055/Readme.md#-03_rep-l1---quantos-ultrons-você-vê---contar-elemento)|[![](.indexer/thumbs/044/Readme.jpg)](base/044/Readme.md#-03_rep-l1---somatório-v2)|[![](.indexer/thumbs/045/Readme.jpg)](base/045/Readme.md#-03_rep-l1---zero-é-par---somatório-de-pares)|[![](.indexer/thumbs/058/Readme.jpg)](base/058/Readme.md#-03_rep-l2---busca-intervalada)|[![](.indexer/thumbs/048/Readme.jpg)](base/048/Readme.md#-03_rep-l2---cabo-de-guerra-jedi)
 -|-|-|-|-|-|-
-@130<br>L2 - Bingo!|@012<br>L2 - Deu a louca no Imperador!|@134<br>L2 - Quadrado Mágico|@133<br>L2 - Soldados em Posição|@128<br>L2 - Soma de elementos de em uma matriz|@150<br>L2 - Soma de matrizes|@129<br>L3 - Campo Minado
+@056<br>L1 - Calça Zeze de Camargo - Mínimo|@013<br>L1 - Dividindo pares de sapatos pra três|@055<br>L1 - Quantos Ultrons você vê - Contar Elemento|@044<br>L1 - Somatório V2|@045<br>L1 - Zero é par - Somatório de Pares!|@058<br>L2 - Busca Intervalada|@048<br>L2 - Cabo de Guerra Jedi
 
 
-[![](.indexer/thumbs/159/Readme.jpg)](base/159/Readme.md#-06_mat-l3---campo-de-minhocas---obi-2005)|[![](.indexer/thumbs/135/Readme.jpg)](base/135/Readme.md#-06_mat-l3---jogo-da-vida)|[![](.indexer/thumbs/131/Readme.jpg)](base/131/Readme.md#-06_mat-l3---matriz-simétrica)|[![](.indexer/thumbs/153/Readme.jpg)](base/153/Readme.md#-06_mat-l3---obi-2015---fase-2---nível-1---torre)|[![](.indexer/thumbs/154/Readme.jpg)](base/154/Readme.md#-06_mat-l3---obi-2015---fase-2---nível-júnior---código)|[![](.indexer/thumbs/132/Readme.jpg)](base/132/Readme.md#-06_mat-l3---subdiagonais)|[![](.indexer/thumbs/007/Readme.jpg)](base/007/Readme.md#-06_mat-l3---tetris-fazendo-a-peça-cair)
+[![](.indexer/thumbs/050/Readme.jpg)](base/050/Readme.md#-03_rep-l2---castelos-de-cubos)|[![](.indexer/thumbs/046/Readme.jpg)](base/046/Readme.md#-03_rep-l2---jogo-da-concentração)|[![](.indexer/thumbs/057/Readme.jpg)](base/057/Readme.md#-03_rep-l2---revolta-em-portugal)|[![](.indexer/thumbs/049/Readme.jpg)](base/049/Readme.md#-03_rep-l2---sapinho-1-no-poço)|[![](.indexer/thumbs/136/Readme.jpg)](base/136/Readme.md#-03_rep-l2---trilhas---obi-2005---modo-easy)|[![](.indexer/thumbs/016/Readme.jpg)](base/016/Readme.md#-03_rep-l2---volta-de-360-graus-retirando-os-loops)|[![](.indexer/thumbs/047/Readme.jpg)](base/047/Readme.md#-03_rep-l2---ônibus-lotado)
 -|-|-|-|-|-|-
-@159<br>L3 - Campo de Minhocas - OBI 2005|@135<br>L3 - Jogo da vida|@131<br>L3 - Matriz Simétrica|@153<br>L3 - OBI 2015 - Fase 2 - Nível 1 - Torre|@154<br>L3 - OBI 2015 - Fase 2 - Nível Júnior - Código|@132<br>L3 - Subdiagonais|@007<br>L3 - Tetris (Fazendo a peça cair)
+@050<br>L2 - Castelos de Cubos|@046<br>L2 - Jogo da Concentração|@057<br>L2 - Revolta em Portugal|@049<br>L2 - Sapinho 1 no Poço|@136<br>L2 - Trilhas - OBI 2005 - (Modo Easy)|@016<br>L2 - Volta de 360 graus (Retirando os loops)|@047<br>L2 - Ônibus lotado
+
+
+[![](.indexer/thumbs/051/Readme.jpg)](base/051/Readme.md#-03_rep-l3---arremesso-de-pedra-na-lua)|[![](.indexer/thumbs/160/Readme.jpg)](base/160/Readme.md#-03_rep-l3---bafo---obi-2005)|[![](.indexer/thumbs/063/Readme.jpg)](base/063/Readme.md#-03_rep-l3---blackjack-21)|[![](.indexer/thumbs/064/Readme.jpg)](base/064/Readme.md#-03_rep-l3---conta-dígitos)|[![](.indexer/thumbs/052/Readme.jpg)](base/052/Readme.md#-03_rep-l3---hoje-tem-sopa-de-coelho)|[![](.indexer/thumbs/053/Readme.jpg)](base/053/Readme.md#-03_rep-l3---obi-2016---fuga-em-helicóptero)|[![](.indexer/thumbs/054/Readme.jpg)](base/054/Readme.md#-03_rep-l3---quebrador-de-copos)
+-|-|-|-|-|-|-
+@051<br>L3 - Arremesso de pedra na lua|@160<br>L3 - Bafo - OBI 2005|@063<br>L3 - Blackjack 21!|@064<br>L3 - Conta Dígitos|@052<br>L3 - Hoje tem sopa de coelho?|@053<br>L3 - OBI 2016 - Fuga em helicóptero|@054<br>L3 - Quebrador de Copos
+
+
+[![](.indexer/thumbs/059/Readme.jpg)](base/059/Readme.md#-03_rep-l3---sapinho-2-morrendo-no-poço)|[![](.indexer/thumbs/065/Readme.jpg)](base/065/Readme.md#-03_rep-l3---sapinho-3-matemático-não-morrendo-no-poço)|[![](.indexer/thumbs/066/Readme.jpg)](base/066/Readme.md#-03_rep-l3---spok-palíndromo)|[![](.indexer/thumbs/158/Readme.jpg)](base/158/Readme.md#-03_rep-l3---trilhas---obi-2005)|[![](.indexer/thumbs/161/Readme.jpg)](base/161/Readme.md#-03_rep-l3---vivo-ou-morto---obi-2005)|![](config/empty.png)|![](config/empty.png)
+-|-|-|-|-|-|-
+@059<br>L3 - Sapinho 2 morrendo no poço|@065<br>L3 - Sapinho 3 matemático não morrendo no poço|@066<br>L3 - Spok Palíndromo|@158<br>L3 - Trilhas - OBI 2005|@161<br>L3 - Vivo ou Morto - OBI 2005| | 
 
 
 
@@ -84,37 +94,6 @@
 [![](.indexer/thumbs/076/Readme.jpg)](base/076/Readme.md#-04_vet-l3---obi-2017---fase-1---o-segredo-do-cofre)|[![](.indexer/thumbs/088/Readme.jpg)](base/088/Readme.md#-04_vet-l3---se-fosse-a-mediana-eu-tinha-passado)|[![](.indexer/thumbs/185/Readme.jpg)](base/185/Readme.md#-04_vet-l3---vetor-interativo)|[![](.indexer/thumbs/069/Readme.jpg)](base/069/Readme.md#-04_vet-l3---zoo-quantas-especies)|[![](.indexer/thumbs/087/Readme.jpg)](base/087/Readme.md#-04_vet-l3---zoologico-entrando-na-arca-de-noé)|[![](.indexer/thumbs/084/Readme.jpg)](base/084/Readme.md#-04_vet-l3---zoologico-um-animal-de-cada-tipo)|![](config/empty.png)
 -|-|-|-|-|-|-
 @076<br>L3 - OBI 2017 - Fase 1 - O segredo do Cofre|@088<br>L3 - Se fosse a mediana eu tinha passado!|@185<br>L3 - Vetor interativo|@069<br>L3 - Zoo quantas especies!|@087<br>L3 - Zoologico Entrando na Arca de Noé|@084<br>L3 - Zoologico Um animal de cada tipo!| 
-
-
-
-## 07_fun
-
-[![](.indexer/thumbs/009/Readme.jpg)](base/009/Readme.md#-07_fun-l2---imprimir-vetor-formatado)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
--|-|-|-|-|-|-
-@009<br>L2 - Imprimir vetor formatado| | | | | | 
-
-
-
-## 03_rep
-
-[![](.indexer/thumbs/056/Readme.jpg)](base/056/Readme.md#-03_rep-l1---calça-zeze-de-camargo---mínimo)|[![](.indexer/thumbs/013/Readme.jpg)](base/013/Readme.md#-03_rep-l1---dividindo-pares-de-sapatos-pra-três)|[![](.indexer/thumbs/055/Readme.jpg)](base/055/Readme.md#-03_rep-l1---quantos-ultrons-você-vê---contar-elemento)|[![](.indexer/thumbs/044/Readme.jpg)](base/044/Readme.md#-03_rep-l1---somatório-v2)|[![](.indexer/thumbs/045/Readme.jpg)](base/045/Readme.md#-03_rep-l1---zero-é-par---somatório-de-pares)|[![](.indexer/thumbs/058/Readme.jpg)](base/058/Readme.md#-03_rep-l2---busca-intervalada)|[![](.indexer/thumbs/048/Readme.jpg)](base/048/Readme.md#-03_rep-l2---cabo-de-guerra-jedi)
--|-|-|-|-|-|-
-@056<br>L1 - Calça Zeze de Camargo - Mínimo|@013<br>L1 - Dividindo pares de sapatos pra três|@055<br>L1 - Quantos Ultrons você vê - Contar Elemento|@044<br>L1 - Somatório V2|@045<br>L1 - Zero é par - Somatório de Pares!|@058<br>L2 - Busca Intervalada|@048<br>L2 - Cabo de Guerra Jedi
-
-
-[![](.indexer/thumbs/050/Readme.jpg)](base/050/Readme.md#-03_rep-l2---castelos-de-cubos)|[![](.indexer/thumbs/046/Readme.jpg)](base/046/Readme.md#-03_rep-l2---jogo-da-concentração)|[![](.indexer/thumbs/057/Readme.jpg)](base/057/Readme.md#-03_rep-l2---revolta-em-portugal)|[![](.indexer/thumbs/049/Readme.jpg)](base/049/Readme.md#-03_rep-l2---sapinho-1-no-poço)|[![](.indexer/thumbs/136/Readme.jpg)](base/136/Readme.md#-03_rep-l2---trilhas---obi-2005---modo-easy)|[![](.indexer/thumbs/016/Readme.jpg)](base/016/Readme.md#-03_rep-l2---volta-de-360-graus-retirando-os-loops)|[![](.indexer/thumbs/047/Readme.jpg)](base/047/Readme.md#-03_rep-l2---ônibus-lotado)
--|-|-|-|-|-|-
-@050<br>L2 - Castelos de Cubos|@046<br>L2 - Jogo da Concentração|@057<br>L2 - Revolta em Portugal|@049<br>L2 - Sapinho 1 no Poço|@136<br>L2 - Trilhas - OBI 2005 - (Modo Easy)|@016<br>L2 - Volta de 360 graus (Retirando os loops)|@047<br>L2 - Ônibus lotado
-
-
-[![](.indexer/thumbs/051/Readme.jpg)](base/051/Readme.md#-03_rep-l3---arremesso-de-pedra-na-lua)|[![](.indexer/thumbs/160/Readme.jpg)](base/160/Readme.md#-03_rep-l3---bafo---obi-2005)|[![](.indexer/thumbs/063/Readme.jpg)](base/063/Readme.md#-03_rep-l3---blackjack-21)|[![](.indexer/thumbs/064/Readme.jpg)](base/064/Readme.md#-03_rep-l3---conta-dígitos)|[![](.indexer/thumbs/052/Readme.jpg)](base/052/Readme.md#-03_rep-l3---hoje-tem-sopa-de-coelho)|[![](.indexer/thumbs/053/Readme.jpg)](base/053/Readme.md#-03_rep-l3---obi-2016---fuga-em-helicóptero)|[![](.indexer/thumbs/054/Readme.jpg)](base/054/Readme.md#-03_rep-l3---quebrador-de-copos)
--|-|-|-|-|-|-
-@051<br>L3 - Arremesso de pedra na lua|@160<br>L3 - Bafo - OBI 2005|@063<br>L3 - Blackjack 21!|@064<br>L3 - Conta Dígitos|@052<br>L3 - Hoje tem sopa de coelho?|@053<br>L3 - OBI 2016 - Fuga em helicóptero|@054<br>L3 - Quebrador de Copos
-
-
-[![](.indexer/thumbs/059/Readme.jpg)](base/059/Readme.md#-03_rep-l3---sapinho-2-morrendo-no-poço)|[![](.indexer/thumbs/065/Readme.jpg)](base/065/Readme.md#-03_rep-l3---sapinho-3-matemático-não-morrendo-no-poço)|[![](.indexer/thumbs/066/Readme.jpg)](base/066/Readme.md#-03_rep-l3---spok-palíndromo)|[![](.indexer/thumbs/158/Readme.jpg)](base/158/Readme.md#-03_rep-l3---trilhas---obi-2005)|[![](.indexer/thumbs/161/Readme.jpg)](base/161/Readme.md#-03_rep-l3---vivo-ou-morto---obi-2005)|![](config/empty.png)|![](config/empty.png)
--|-|-|-|-|-|-
-@059<br>L3 - Sapinho 2 morrendo no poço|@065<br>L3 - Sapinho 3 matemático não morrendo no poço|@066<br>L3 - Spok Palíndromo|@158<br>L3 - Trilhas - OBI 2005|@161<br>L3 - Vivo ou Morto - OBI 2005| | 
 
 
 
@@ -156,27 +135,16 @@
 
 
 
-## 07_rec
+## 06_mat
 
-[![](.indexer/thumbs/145/Readme.jpg)](base/145/Readme.md#-07_rec-l2---contando-caracteres-recursivamente)|[![](.indexer/thumbs/141/Readme.jpg)](base/141/Readme.md#-07_rec-l2---números-de-fibonacci)|[![](.indexer/thumbs/140/Readme.jpg)](base/140/Readme.md#-07_rec-l3---contando-caracteres-recursivamente)|[![](.indexer/thumbs/146/Readme.jpg)](base/146/Readme.md#-07_rec-l3---torres-de-hanoi)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+[![](.indexer/thumbs/130/Readme.jpg)](base/130/Readme.md#-06_mat-l2---bingo)|[![](.indexer/thumbs/012/Readme.jpg)](base/012/Readme.md#-06_mat-l2---deu-a-louca-no-imperador)|[![](.indexer/thumbs/134/Readme.jpg)](base/134/Readme.md#-06_mat-l2---quadrado-mágico)|[![](.indexer/thumbs/133/Readme.jpg)](base/133/Readme.md#-06_mat-l2---soldados-em-posição)|[![](.indexer/thumbs/128/Readme.jpg)](base/128/Readme.md#-06_mat-l2---soma-de-elementos-de-em-uma-matriz)|[![](.indexer/thumbs/150/Readme.jpg)](base/150/Readme.md#-06_mat-l2---soma-de-matrizes)|[![](.indexer/thumbs/129/Readme.jpg)](base/129/Readme.md#-06_mat-l3---campo-minado)
 -|-|-|-|-|-|-
-@145<br>L2 - Contando caracteres recursivamente|@141<br>L2 - Números de Fibonacci|@140<br>L3 - Contando caracteres recursivamente|@146<br>L3 - Torres de Hanoi| | | 
+@130<br>L2 - Bingo!|@012<br>L2 - Deu a louca no Imperador!|@134<br>L2 - Quadrado Mágico|@133<br>L2 - Soldados em Posição|@128<br>L2 - Soma de elementos de em uma matriz|@150<br>L2 - Soma de matrizes|@129<br>L3 - Campo Minado
 
 
-
-## 09_alo
-
-[![](.indexer/thumbs/142/Readme.jpg)](base/142/Readme.md#-09_alo-l2---vetor-de-strings-com-variados-tamanhos)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+[![](.indexer/thumbs/159/Readme.jpg)](base/159/Readme.md#-06_mat-l3---campo-de-minhocas---obi-2005)|[![](.indexer/thumbs/135/Readme.jpg)](base/135/Readme.md#-06_mat-l3---jogo-da-vida)|[![](.indexer/thumbs/131/Readme.jpg)](base/131/Readme.md#-06_mat-l3---matriz-simétrica)|[![](.indexer/thumbs/153/Readme.jpg)](base/153/Readme.md#-06_mat-l3---obi-2015---fase-2---nível-1---torre)|[![](.indexer/thumbs/154/Readme.jpg)](base/154/Readme.md#-06_mat-l3---obi-2015---fase-2---nível-júnior---código)|[![](.indexer/thumbs/132/Readme.jpg)](base/132/Readme.md#-06_mat-l3---subdiagonais)|[![](.indexer/thumbs/007/Readme.jpg)](base/007/Readme.md#-06_mat-l3---tetris-fazendo-a-peça-cair)
 -|-|-|-|-|-|-
-@142<br>L2 - Vetor de strings com variados tamanhos| | | | | | 
-
-
-
-## 10_ptr
-
-[![](.indexer/thumbs/147/Readme.jpg)](base/147/Readme.md#-10_ptr-l1---duelo)|[![](.indexer/thumbs/143/Readme.jpg)](base/143/Readme.md#-10_ptr-l1---troca-de-valores-de-variáveis)|[![](.indexer/thumbs/144/Readme.jpg)](base/144/Readme.md#-10_ptr-l2---função-que-retorna-vários-valores-por-referência)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
--|-|-|-|-|-|-
-@147<br>L1 - Duelo|@143<br>L1 - Troca de valores de variáveis|@144<br>L2 - Função que retorna vários valores por referência| | | | 
+@159<br>L3 - Campo de Minhocas - OBI 2005|@135<br>L3 - Jogo da vida|@131<br>L3 - Matriz Simétrica|@153<br>L3 - OBI 2015 - Fase 2 - Nível 1 - Torre|@154<br>L3 - OBI 2015 - Fase 2 - Nível Júnior - Código|@132<br>L3 - Subdiagonais|@007<br>L3 - Tetris (Fazendo a peça cair)
 
 
 
@@ -188,10 +156,26 @@
 
 
 
-## 11_cla
+## 07_fun
 
-[![](.indexer/thumbs/184/Readme.jpg)](base/184/Readme.md#-11_cla-l3---motivando-a-turma-de-secundaristas)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+[![](.indexer/thumbs/009/Readme.jpg)](base/009/Readme.md#-07_fun-l2---imprimir-vetor-formatado)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
-@184<br>L3 - Motivando a turma de secundaristas| | | | | | 
+@009<br>L2 - Imprimir vetor formatado| | | | | | 
+
+
+
+## 07_rec
+
+[![](.indexer/thumbs/145/Readme.jpg)](base/145/Readme.md#-07_rec-l2---contando-caracteres-recursivamente)|[![](.indexer/thumbs/141/Readme.jpg)](base/141/Readme.md#-07_rec-l2---números-de-fibonacci)|[![](.indexer/thumbs/140/Readme.jpg)](base/140/Readme.md#-07_rec-l3---contando-caracteres-recursivamente)|[![](.indexer/thumbs/146/Readme.jpg)](base/146/Readme.md#-07_rec-l3---torres-de-hanoi)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+-|-|-|-|-|-|-
+@145<br>L2 - Contando caracteres recursivamente|@141<br>L2 - Números de Fibonacci|@140<br>L3 - Contando caracteres recursivamente|@146<br>L3 - Torres de Hanoi| | | 
+
+
+
+## 08_ptr
+
+[![](.indexer/thumbs/147/Readme.jpg)](base/147/Readme.md#-08_ptr-l1---duelo)|[![](.indexer/thumbs/143/Readme.jpg)](base/143/Readme.md#-08_ptr-l1---troca-de-valores-de-variáveis)|[![](.indexer/thumbs/144/Readme.jpg)](base/144/Readme.md#-08_ptr-l2---função-que-retorna-vários-valores-por-referência)|[![](.indexer/thumbs/142/Readme.jpg)](base/142/Readme.md#-08_ptr-l2---vetor-de-strings-com-variados-tamanhos)|[![](.indexer/thumbs/184/Readme.jpg)](base/184/Readme.md#-08_ptr-l3---motivando-a-turma-de-secundaristas)|![](config/empty.png)|![](config/empty.png)
+-|-|-|-|-|-|-
+@147<br>L1 - Duelo|@143<br>L1 - Troca de valores de variáveis|@144<br>L2 - Função que retorna vários valores por referência|@142<br>L2 - Vetor de strings com variados tamanhos|@184<br>L3 - Motivando a turma de secundaristas| | 
 
 

@@ -1,4 +1,4 @@
-## $05_str L2 - Meu cachorro comeu minha tarefa - Retirar espaços
+## ©05_str L2 - Meu cachorro comeu minha tarefa - Retirar espaços
 ## @qxcode
 
 ![](__capa.jpg)
@@ -53,6 +53,4 @@ meteoro        pegasus
 meteoro pegasus
 <<<<<<<<
 ```
-
-#
 

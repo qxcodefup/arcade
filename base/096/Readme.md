@@ -1,4 +1,4 @@
-## $05_str L2 - Contar Leds
+## ©05_str L2 - Contar Leds
 ## @qxcode
 
 ![](__capa.jpg)

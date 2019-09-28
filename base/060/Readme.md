@@ -1,4 +1,4 @@
-## $04_vet L1 - Joelison Fernandes - Soma do maior e menor!
+## ©04_vet L1 - Joelison Fernandes - Soma do maior e menor!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -42,7 +42,5 @@ Escreva um programa onde receba um vetor de tamanho 5 e que de como saída a som
 5
 <<<<<<<<
 ```
-
-#
 
 

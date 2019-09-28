@@ -1,4 +1,4 @@
-## $07_rec L2 - Contando caracteres recursivamente
+## ©07_rec L2 - Contando caracteres recursivamente
 ## @qxcode
 
 ![](__capa.jpg)
@@ -45,6 +45,4 @@ a
 4
 <<<<<<<<
 ```
-
-#
 

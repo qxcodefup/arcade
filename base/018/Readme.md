@@ -1,4 +1,4 @@
-## $02_sel L2 - Arrendondar
+## ©02_sel L2 - Arrendondar
 ## @qxcode
 
 ![](__capa.jpg)
@@ -62,6 +62,4 @@ r
 5
 <<<<<<<<
 ```
-
-#
 

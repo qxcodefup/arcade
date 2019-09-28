@@ -1,4 +1,4 @@
-## $04_vet L2 - Soldados Pequenos e Grandes!
+## ©04_vet L2 - Soldados Pequenos e Grandes!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -64,6 +64,4 @@ M P G
 P G G G
 <<<<<<<<
 ```
-
-#
 

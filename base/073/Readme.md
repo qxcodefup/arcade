@@ -1,4 +1,4 @@
-## $04_vet L3 - Batida Policial - Ordenando vetores
+## ©04_vet L3 - Batida Policial - Ordenando vetores
 ## @qxcode
 
 ![](__capa.jpg)
@@ -52,6 +52,4 @@ Também é muito importante que você aprenda como sua linguagem pode fazer a or
 1 3 4 7 8
 <<<<<<<<
 ```
-
-#
 

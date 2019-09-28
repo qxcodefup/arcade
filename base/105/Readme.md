@@ -1,4 +1,4 @@
-## $05_str L3 - Valdiskley e cifras históricas!
+## ©05_str L3 - Valdiskley e cifras históricas!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -50,6 +50,4 @@ nopqrtuvwxyz
 zwavn pvwaryn
 <<<<<<<<
 ```
-
-#
 

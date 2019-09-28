@@ -1,4 +1,4 @@
-## $03_rep L2 - Cabo de Guerra Jedi
+## ©03_rep L2 - Cabo de Guerra Jedi
 ## @qxcode
 
 ![](__capa.jpg)
@@ -71,6 +71,4 @@ Empate
 Jedi
 <<<<<<<<
 ```
-
-#
 

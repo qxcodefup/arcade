@@ -1,4 +1,4 @@
-## $05_str L3 - Nao se bububula - Gagueira V2!
+## ©05_str L3 - Nao se bububula - Gagueira V2!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -51,6 +51,4 @@ Solte essa faca ou eu arranco suas tripas no dente!
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
 <<<<<<<<
 ```
-
-#
 

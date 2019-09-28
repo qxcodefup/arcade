@@ -1,4 +1,4 @@
-## $02_sel L3 - Rufus e Ordenação!
+## ©02_sel L3 - Rufus e Ordenação!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -38,6 +38,4 @@ P G M
 G M P
 <<<<<<<<
 ```
-
-#
 

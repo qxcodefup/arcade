@@ -1,4 +1,4 @@
-## $05_str L2 - Organizando Ru - Homens e Mulheres!
+## ©05_str L2 - Organizando Ru - Homens e Mulheres!
 ## @qxcode
 
 ![](__capa.jpg)

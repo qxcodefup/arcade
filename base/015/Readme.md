@@ -1,4 +1,4 @@
-## $02_sel L1 - Calculadora Numérica
+## ©02_sel L1 - Calculadora Numérica
 ## @qxcode
 
 ![](__capa.jpg)
@@ -45,7 +45,5 @@ Leia dois números inteiros e um símbolo e imprima o resultado.
 0
 <<<<<<<<
 ```
-
-#
 
 

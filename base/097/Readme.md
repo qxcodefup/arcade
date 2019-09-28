@@ -1,4 +1,4 @@
-## $05_str L2 - Gagueira V1 - Duplicar Palavras
+## ©05_str L2 - Gagueira V1 - Duplicar Palavras
 ## @qxcode
 
 ![](__capa.jpg)

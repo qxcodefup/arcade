@@ -1,4 +1,4 @@
-## $05_str L1 - Substring na decoração - Obter Substrings!
+## ©05_str L1 - Substring na decoração - Obter Substrings!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -60,7 +60,5 @@ r Ranger
 * Crie uma variável resposta como String vazia.
 
 * Faca um laço que percorra os caracteres que você precisa da palavra e adicione na String resposta.
-
-#
 
 

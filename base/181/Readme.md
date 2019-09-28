@@ -1,4 +1,4 @@
-## $05_str L2 - Somando numeros
+## ©05_str L2 - Somando numeros
 ## @qxcode
 
 ![](__capa.jpg)
@@ -36,6 +36,4 @@ os 2 irmãos de maria durmiram os ultimos 2 dias na casa de seus avós
 4
 <<<<<<<<
 ```
-
-#
 

@@ -1,4 +1,4 @@
-## $05_str L2 - Vogais e Consoantes - Identificação e Montagem!
+## ©05_str L2 - Vogais e Consoantes - Identificação e Montagem!
 ## @qxcode
 
 ![](__capa.jpg)

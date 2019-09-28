@@ -1,4 +1,4 @@
-## $05_str L3 - Gansos Gamados - Verificar ordenação da frase!
+## ©05_str L3 - Gansos Gamados - Verificar ordenação da frase!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -58,6 +58,4 @@ a b c d a f
 nao
 <<<<<<<<
 ```
-
-#
 

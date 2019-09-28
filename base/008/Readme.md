@@ -1,4 +1,4 @@
-## $04_vet L3 - Força Bruta (Gerando próxima combinação)
+## ©04_vet L3 - Força Bruta (Gerando próxima combinação)
 ## @qxcode
 
 ![](__capa.jpg)
@@ -76,6 +76,4 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 0089
 <<<<<<<<
 ```
-
-#
 

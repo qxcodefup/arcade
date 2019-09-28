@@ -1,4 +1,4 @@
-## $03_rep L3 - Sapinho 2 morrendo no poço
+## ©03_rep L3 - Sapinho 2 morrendo no poço
 ## @qxcode
 
 ![sapinho](__capa.jpg)
@@ -104,6 +104,4 @@ para mostrar os saltos do sapo até a saída.
 -30 morreu
 <<<<<<<<
 ```
-
-#
 

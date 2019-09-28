@@ -1,4 +1,4 @@
-## $02_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
+## ©02_sel L2 - OBI 2017 - Fase 1 - Universitário - Game 10
 ## @qxcode
 
 ## Motivaçao
@@ -53,7 +53,5 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 0
 <<<<<<<<
 ```
-
-#
 
 

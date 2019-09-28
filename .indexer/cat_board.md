@@ -1,0 +1,11 @@
+7 : 01_ope : 01_ope : 
+36 : 02_sel : 02_sel : 
+26 : 03_rep : 03_rep : 
+34 : 04_vet : 04_vet : 
+45 : 05_str : 05_str : 
+14 : 06_mat : 06_mat : 
+3 : 07_dic : 07_dic : 
+1 : 07_fun : 07_fun : 
+4 : 07_rec : 07_rec : 
+5 : 08_ptr : 08_ptr : 
+0 : orphan : orphan : 

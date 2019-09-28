@@ -1,4 +1,4 @@
-## $02_sel L3 - Professor Bonzinho
+## ©02_sel L3 - Professor Bonzinho
 ## @qxcode
 
 ![](__capa.jpg)
@@ -44,6 +44,4 @@ Aprovado com 10.0
 Final com 6.0
 <<<<<<<<
 ```
-
-#
 

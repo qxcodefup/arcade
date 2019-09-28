@@ -1,4 +1,4 @@
-## $04_vet L3 - OBI 2017 - Fase 1 - O segredo do Cofre
+## ©04_vet L3 - OBI 2017 - Fase 1 - O segredo do Cofre
 ## @qxcode
 
 ![](__capa.jpg)
@@ -48,7 +48,5 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 [ 3 1 0 0 0 3 0 0 2 0 ]
 <<<<<<<<
 ```
-
-#
 
 

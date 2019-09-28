@@ -1,4 +1,4 @@
-## $02_sel L2 - Fiquei de final
+## ©02_sel L2 - Fiquei de final
 ## @qxcode
 
 ![](__capa.jpg)
@@ -67,6 +67,4 @@ reprovado
 reprovado na final
 <<<<<<<<
 ```
-
-#
 

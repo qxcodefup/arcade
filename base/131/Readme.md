@@ -1,4 +1,4 @@
-## $06_mat L3 - Matriz Simétrica
+## ©06_mat L3 - Matriz Simétrica
 ## @qxcode
 
 ![](__capa.jpg)
@@ -46,6 +46,4 @@ sim
 nao
 <<<<<<<<
 ```
-
-#
 

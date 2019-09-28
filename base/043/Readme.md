@@ -1,4 +1,4 @@
-## $02_sel L3 - Dorme Tarde Acordar Cedo!
+## ©02_sel L3 - Dorme Tarde Acordar Cedo!
 ## @qxcode
 
 ![](__capa.jpg)
@@ -72,6 +72,4 @@ As variáveis serão string.Para converter para int use:
 h1 = int(h1) h2 = int(h2) 
 ```
 etc.
-
-#
 
