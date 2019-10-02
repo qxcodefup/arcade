@@ -5,7 +5,7 @@
 **List** | **Photo Board**
 
 
-## 01_ope
+## Operações Básicas
 
 [![](base/.thumb/011/Readme.jpg)](base/011/Readme.md#01_ope-l1---formatando-data-zeros-à-esquerda)|[![](base/.thumb/000/Readme.jpg)](base/000/Readme.md#01_ope-l1---operações-básicas-imprimindo-float-formatado)|[![](base/.thumb/003/Readme.jpg)](base/003/Readme.md#01_ope-l2---opala-bebedor-cálculo-de-desempenho)|[![](base/.thumb/002/Readme.jpg)](base/002/Readme.md#01_ope-l2---pintando-a-casa-calculando-a-área-do-triângulo)|[![](base/.thumb/005/Readme.jpg)](base/005/Readme.md#01_ope-l3---ladrão-de-goiabas-contando-viagens)|[![](base/.thumb/004/Readme.jpg)](base/004/Readme.md#01_ope-l3---mete-bala-distância-entre-dois-pontos)|[![](base/.thumb/006/Readme.jpg)](base/006/Readme.md#01_ope-l3---zerinho-ou-um-americano-calcule-o-vencedor)
 -|-|-|-|-|-|-
@@ -13,7 +13,7 @@
 
 
 
-## 02_sel
+## Seleção
 
 [![](base/.thumb/025/Readme.jpg)](base/025/Readme.md#02_sel-l1---ambos-divisíveis)|[![](base/.thumb/062/Readme.jpg)](base/062/Readme.md#02_sel-l1---angulo-cartesiano---operador-modular)|[![](base/.thumb/015/Readme.jpg)](base/015/Readme.md#02_sel-l1---calculadora-numérica)|[![](base/.thumb/024/Readme.jpg)](base/024/Readme.md#02_sel-l1---divisão-inteira-e-quebrada)|[![](base/.thumb/151/Readme.jpg)](base/151/Readme.md#02_sel-l1---obi-2015---fase-2---nível-1---impedido)|[![](base/.thumb/156/Readme.jpg)](base/156/Readme.md#02_sel-l1---obi-2016---fase1---nível-1---jogo-de-par-ou-ímpar)|[![](base/.thumb/155/Readme.jpg)](base/155/Readme.md#02_sel-l1---obi-2016---fase1---nível-1---plantação-de-morangos)
 -|-|-|-|-|-|-
@@ -46,7 +46,7 @@
 
 
 
-## 03_rep
+## Repetição
 
 [![](base/.thumb/056/Readme.jpg)](base/056/Readme.md#03_rep-l1---calça-zeze-de-camargo---mínimo)|[![](base/.thumb/013/Readme.jpg)](base/013/Readme.md#03_rep-l1---dividindo-pares-de-sapatos-pra-três)|[![](base/.thumb/055/Readme.jpg)](base/055/Readme.md#03_rep-l1---quantos-ultrons-você-vê---contar-elemento)|[![](base/.thumb/044/Readme.jpg)](base/044/Readme.md#03_rep-l1---somatório-v2)|[![](base/.thumb/045/Readme.jpg)](base/045/Readme.md#03_rep-l1---zero-é-par---somatório-de-pares)|[![](base/.thumb/058/Readme.jpg)](base/058/Readme.md#03_rep-l2---busca-intervalada)|[![](base/.thumb/048/Readme.jpg)](base/048/Readme.md#03_rep-l2---cabo-de-guerra-jedi)
 -|-|-|-|-|-|-
@@ -69,7 +69,7 @@
 
 
 
-## 04_vet
+## Vetores
 
 [![](base/.thumb/060/Readme.jpg)](base/060/Readme.md#04_vet-l1---joelison-fernandes---soma-do-maior-e-menor)|[![](base/.thumb/061/Readme.jpg)](base/061/Readme.md#04_vet-l2---capoeira-invertendo-vetor)|[![](base/.thumb/078/Readme.jpg)](base/078/Readme.md#04_vet-l2---jogo-do-avesso)|[![](base/.thumb/091/Readme.jpg)](base/091/Readme.md#04_vet-l2---mmc)|[![](base/.thumb/101/Readme.jpg)](base/101/Readme.md#04_vet-l2---mostrar-mão-de-cartas-imprimir-vetor-formatado)|[![](base/.thumb/068/Readme.jpg)](base/068/Readme.md#04_vet-l2---organizando-a-fila-do-ru---separar-pares-e-ímpares)|[![](base/.thumb/090/Readme.jpg)](base/090/Readme.md#04_vet-l2---primo)
 -|-|-|-|-|-|-
@@ -97,7 +97,7 @@
 
 
 
-## 05_str
+## Strings
 
 [![](base/.thumb/173/Readme.jpg)](base/173/Readme.md#05_str-l1---eribelton-e-a-ascologia-v1---somar-asc)|[![](base/.thumb/092/Readme.jpg)](base/092/Readme.md#05_str-l1---lp-da-xura---inverter-string)|[![](base/.thumb/104/Readme.jpg)](base/104/Readme.md#05_str-l1---maiúsculo-minusculo-e-dígito)|[![](base/.thumb/177/Readme.jpg)](base/177/Readme.md#05_str-l1---marileuza-e-as-alcaparras---contar-ocorrencias)|[![](base/.thumb/176/Readme.jpg)](base/176/Readme.md#05_str-l1---substring-na-decoração---obter-substrings)|[![](base/.thumb/174/Readme.jpg)](base/174/Readme.md#05_str-l1---valdiskey-e-a-cifra-v1)|[![](base/.thumb/095/Readme.jpg)](base/095/Readme.md#05_str-l2---avestruz-com-alcaparras---contar-maiusculas-e-minusculas)
 -|-|-|-|-|-|-
@@ -135,7 +135,7 @@
 
 
 
-## 06_mat
+## Matrizes
 
 [![](base/.thumb/130/Readme.jpg)](base/130/Readme.md#06_mat-l2---bingo)|[![](base/.thumb/012/Readme.jpg)](base/012/Readme.md#06_mat-l2---deu-a-louca-no-imperador)|[![](base/.thumb/134/Readme.jpg)](base/134/Readme.md#06_mat-l2---quadrado-mágico)|[![](base/.thumb/133/Readme.jpg)](base/133/Readme.md#06_mat-l2---soldados-em-posição)|[![](base/.thumb/128/Readme.jpg)](base/128/Readme.md#06_mat-l2---soma-de-elementos-de-em-uma-matriz)|[![](base/.thumb/150/Readme.jpg)](base/150/Readme.md#06_mat-l2---soma-de-matrizes)|[![](base/.thumb/129/Readme.jpg)](base/129/Readme.md#06_mat-l3---campo-minado)
 -|-|-|-|-|-|-
@@ -148,7 +148,7 @@
 
 
 
-## 07_dic
+## Structs
 
 [![](base/.thumb/148/Readme.jpg)](base/148/Readme.md#07_dic-l1---expressão)|[![](base/.thumb/149/Readme.jpg)](base/149/Readme.md#07_dic-l1---operações)|[![](base/.thumb/182/Readme.jpg)](base/182/Readme.md#07_dic-l3---mulher-mais-idosa)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
@@ -156,7 +156,7 @@
 
 
 
-## 07_fun
+## Funções
 
 [![](base/.thumb/009/Readme.jpg)](base/009/Readme.md#07_fun-l2---imprimir-vetor-formatado)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
@@ -164,7 +164,7 @@
 
 
 
-## 07_rec
+## Recursão
 
 [![](base/.thumb/145/Readme.jpg)](base/145/Readme.md#07_rec-l2---contando-caracteres-recursivamente)|[![](base/.thumb/141/Readme.jpg)](base/141/Readme.md#07_rec-l2---números-de-fibonacci)|[![](base/.thumb/140/Readme.jpg)](base/140/Readme.md#07_rec-l3---contando-caracteres-recursivamente)|[![](base/.thumb/146/Readme.jpg)](base/146/Readme.md#07_rec-l3---torres-de-hanoi)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
@@ -172,7 +172,7 @@
 
 
 
-## 08_ptr
+## Ponteiros
 
 [![](base/.thumb/147/Readme.jpg)](base/147/Readme.md#08_ptr-l1---duelo)|[![](base/.thumb/143/Readme.jpg)](base/143/Readme.md#08_ptr-l1---troca-de-valores-de-variáveis)|[![](base/.thumb/144/Readme.jpg)](base/144/Readme.md#08_ptr-l2---função-que-retorna-vários-valores-por-referência)|[![](base/.thumb/142/Readme.jpg)](base/142/Readme.md#08_ptr-l2---vetor-de-strings-com-variados-tamanhos)|[![](base/.thumb/184/Readme.jpg)](base/184/Readme.md#08_ptr-l3---motivando-a-turma-de-secundaristas)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-|-|-|-
