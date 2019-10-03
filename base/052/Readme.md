@@ -1,5 +1,5 @@
 ## ©03_rep L3 - Hoje tem sopa de coelho?
-## @qxcode
+
 
 ![](__capa.jpg)
 

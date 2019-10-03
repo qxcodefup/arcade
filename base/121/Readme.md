@@ -1,5 +1,5 @@
-## ©05_str L3 - Mário e o Assassins Creed - Cenário
-## @qxcode
+## ©05_str L3 - Mário e o Assassins Creed
+Lendo cenário
 
 ![](__capa.jpg)
 

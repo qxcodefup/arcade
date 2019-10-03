@@ -1,5 +1,5 @@
 ## ©04_vet L3 - Força Bruta (Gerando próxima combinação)
-## @qxcode
+
 
 ![](__capa.jpg)
 

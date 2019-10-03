@@ -1,5 +1,5 @@
 ## ©02_sel L3 - Professor Bonzinho
-## @qxcode
+
 
 ![](__capa.jpg)
 

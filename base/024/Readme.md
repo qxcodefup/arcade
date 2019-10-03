@@ -1,5 +1,5 @@
 ## ©02_sel L1 - Divisão Inteira e Quebrada
-## @qxcode
+
 
 ![](__capa.jpg)
 

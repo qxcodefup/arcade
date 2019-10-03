@@ -1,5 +1,5 @@
 ## ©08_ptr L2 - Função que retorna vários valores por referência
-## @qxcode
+
 
 ![](__capa.jpg)
 

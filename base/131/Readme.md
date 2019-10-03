@@ -1,5 +1,5 @@
 ## ©06_mat L3 - Matriz Simétrica
-## @qxcode
+
 
 ![](__capa.jpg)
 

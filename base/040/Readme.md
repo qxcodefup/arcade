@@ -1,5 +1,5 @@
 ## ©02_sel L3 - Está Trabalhand ou Não!
-## @qxcode
+
 
 ![](__capa.jpg)
 

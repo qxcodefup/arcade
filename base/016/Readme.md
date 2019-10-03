@@ -1,5 +1,5 @@
 ## ©03_rep L2 - Volta de 360 graus (Retirando os loops)
-## @qxcode
+
 
 ![](__capa.jpg)
 

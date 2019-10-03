@@ -1,5 +1,5 @@
 ## ©05_str L3 - Máquina de Datilografar Quebrada
-## @qxcode
+
 
 ![](__capa.jpg)
 

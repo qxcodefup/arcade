@@ -1,5 +1,5 @@
 ## ©04_vet L3 - Zoologico Entrando na Arca de Noé
-## @qxcode
+
 
 ![](__capa.jpg)
 

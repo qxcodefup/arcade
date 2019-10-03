@@ -1,5 +1,5 @@
 ## ©06_mat L2 - Bingo!
-## @qxcode
+
 
 ![](__capa.jpg)
 

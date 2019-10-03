@@ -1,6 +1,5 @@
-## ©02_sel L1 - OBI 2016 - Fase1 - Nível 1 - Plantação de Morangos!
-## @qxcode
-
+## ©02_sel L1 - Plantação de Morangos
+OBI 2016 - Fase1 - Nível 1
 ![](__capa.jpg)
 
 ## Motivação

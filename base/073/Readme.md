@@ -1,5 +1,5 @@
 ## ©04_vet L3 - Batida Policial - Ordenando vetores
-## @qxcode
+
 
 ![](__capa.jpg)
 

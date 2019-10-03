@@ -1,5 +1,5 @@
-## ©05_str L2 - Eribelton e a Ascologia V2 - Buscando a perfeição
-## @qxcode
+## ©05_str L2 - Eribelton e a Ascologia V2
+Buscando a perfeição
 
 ![](__capa.jpg)
 

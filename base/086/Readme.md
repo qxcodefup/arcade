@@ -1,5 +1,5 @@
 ## ©04_vet L3 - Coleção de Tazos - Quantos se repetem mais
-## @qxcode
+
 
 ![](__capa.jpg)
 

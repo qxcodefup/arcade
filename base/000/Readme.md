@@ -1,5 +1,5 @@
-## ©01_ope L1 - Operações básicas (Imprimindo float formatado)
-## @qxcode
+## ©01_ope L1 - Operações básicas
+Imprimindo float formatado
 
 ![Imagem](__capa.jpg)
 

@@ -1,5 +1,5 @@
-## ©01_ope L3 - Ladrão de Goiabas (Contando viagens)
-## @qxcode
+## ©01_ope L3 - Ladrão de Goiabas
+Contando viagens usando módulo
 
 ![](__capa.jpg)
 

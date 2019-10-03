@@ -1,5 +1,5 @@
 ## ©02_sel L3 - Morre o do meio
-## @qxcode
+
 
 ![](__capa.jpg)
 

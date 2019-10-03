@@ -1,5 +1,5 @@
 ## ©02_sel L1 - Ambos Divisíveis
-## @qxcode
+Módulo e operadores lógicos
 
 ![](__capa.jpg)
 

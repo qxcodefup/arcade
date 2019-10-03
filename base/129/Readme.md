@@ -1,5 +1,5 @@
 ## ©06_mat L3 - Campo Minado
-## @qxcode
+
 
 ![](__capa.jpg)
 

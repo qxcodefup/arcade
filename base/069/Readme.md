@@ -1,5 +1,5 @@
 ## ©04_vet L3 - Zoo quantas especies!
-## @qxcode
+
 
 ![](__capa.jpg)
 

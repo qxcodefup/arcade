@@ -1,5 +1,5 @@
 ## ©06_mat L2 - Soma de elementos de em uma matriz
-## @qxcode
+
 
 ![](__capa.jpg)
 

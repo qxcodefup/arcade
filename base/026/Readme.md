@@ -1,5 +1,5 @@
 ## ©02_sel L1 - Positivo, Nulo ou Negativo?
-## @qxcode
+
 
 ![](__capa.jpg)
 

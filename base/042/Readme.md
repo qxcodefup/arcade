@@ -1,5 +1,5 @@
 ## ©02_sel L3 - Rufus e Ordenação!
-## @qxcode
+
 
 ![](__capa.jpg)
 

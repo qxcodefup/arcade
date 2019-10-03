@@ -1,5 +1,5 @@
 ## ©04_vet L3 - As unhas de Luiza - Vetor para inteiro
-## @qxcode
+
 
 ![](__capa.jpg)
 

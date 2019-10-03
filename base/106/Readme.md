@@ -1,5 +1,5 @@
 ## ©05_str L2 - Valdiskley e a cifra V2!
-## @qxcode
+
 
 ![](__capa.jpg)
 

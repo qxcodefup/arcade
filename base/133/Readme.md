@@ -1,5 +1,5 @@
 ## ©06_mat L2 - Soldados em Posição
-## @qxcode
+
 
 ![](__capa.jpg)
 

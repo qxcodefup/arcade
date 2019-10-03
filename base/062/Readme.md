@@ -1,5 +1,5 @@
-## ©02_sel L1 - Angulo Cartesiano - Operador Modular
-## @qxcode
+## ©02_sel L1 - Angulo Cartesiano
+Retirando loops
 
 ![](__capa.jpg)
 

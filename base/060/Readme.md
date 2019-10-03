@@ -1,5 +1,5 @@
 ## ©04_vet L1 - Joelison Fernandes - Soma do maior e menor!
-## @qxcode
+
 
 ![](__capa.jpg)
 

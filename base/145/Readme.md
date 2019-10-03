@@ -1,5 +1,5 @@
 ## ©07_rec L2 - Contando caracteres recursivamente
-## @qxcode
+
 
 ![](__capa.jpg)
 

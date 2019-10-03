@@ -1,5 +1,5 @@
 ## ©03_rep L3 - Spok Palíndromo
-## @qxcode
+
 
 ![](__capa.jpg)
 

@@ -1,5 +1,5 @@
 ## ©04_vet L2 - Capoeira invertendo vetor!
-## @qxcode
+
 
 ![](__capa.jpg)
 

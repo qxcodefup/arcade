@@ -1,5 +1,5 @@
 ## ©03_rep L2 - Jogo da Concentração
-## @qxcode
+
 
 ![](__capa.jpg)
 

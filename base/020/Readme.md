@@ -1,5 +1,5 @@
 ## ©02_sel L2 - Zerinho ou Um!
-## @qxcode
+
 
 ![](__capa.jpg)
 

@@ -1,5 +1,5 @@
 ## ©03_rep L2 - Castelos de Cubos
-## @qxcode
+
 
 ![](__capa.jpg)
 

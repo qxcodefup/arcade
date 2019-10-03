@@ -1,5 +1,5 @@
-## ©05_str L3 - Jason e Krueguer - busca de maior ocorrencia
-## @qxcode
+## ©05_str L3 - Jason e Krueguer
+Busca de maior ocorrencia
 
 ![](__capa.jpg)
 

@@ -1,5 +1,5 @@
-## ©05_str L2 - Meu cachorro comeu minha tarefa - Retirar espaços
-## @qxcode
+## ©05_str L2 - Meu cachorro comeu minha tarefa
+Retirar espaços
 
 ![](__capa.jpg)
 

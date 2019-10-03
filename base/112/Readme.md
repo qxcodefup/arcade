@@ -1,5 +1,5 @@
 ## ©05_str L3 - Rocicleia e o Locioreca - Anagramas!
-## @qxcode
+
 
 ![](__capa.jpg)
 

@@ -1,5 +1,5 @@
 ## ©05_str L2 - Crushômetro
-## @qxcode
+
 
 ![](__capa.jpg)
 

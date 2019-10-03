@@ -1,5 +1,5 @@
 ## ©02_sel L2 - Arrendondar
-## @qxcode
+
 
 ![](__capa.jpg)
 

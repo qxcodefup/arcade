@@ -39,7 +39,7 @@
         "reverse_sort": false
       },
       "viewing": {
-        "posts_per_row": 7,
+        "posts_per_row": 4,
         "empty_fig": "config/empty.png"
       }
     }

@@ -1,5 +1,5 @@
 ## ©07_dic L3 - Mulher mais idosa
-## @qxcode
+
 
 ![](__capa.jpg)
 

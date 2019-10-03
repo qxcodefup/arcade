@@ -1,5 +1,5 @@
 ## ©02_sel L2 - Criança, Adulto, Idoso, Múmia
-## @qxcode
+
 
 ![](__capa.jpg)
 

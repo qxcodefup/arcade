@@ -1,5 +1,5 @@
-## ©01_ope L3 - Zerinho ou um americano (Calcule o vencedor)
-## @qxcode
+## ©01_ope L3 - Zerinho ou um americano
+Calcule o vencedor
 
 ![](__capa.jpg)
 

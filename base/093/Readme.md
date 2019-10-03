@@ -1,5 +1,5 @@
-## ©05_str L2 - Gritando em Caixa Alta - Invertendo o Case da frase!
-## @qxcode
+## ©05_str L2 - Gritando em Caixa Alta
+Invertendo o Case da frase!
 
 ![](__capa.jpg)
 

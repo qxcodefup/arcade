@@ -1,5 +1,5 @@
 ## ©02_sel L3 - Rufus e Par ou Ímpar!
-## @qxcode
+
 
 ![](__capa.jpg)
 

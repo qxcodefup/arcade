@@ -1,5 +1,5 @@
 ## ©02_sel L3 - Formiga da bundona
-## @qxcode
+
 
 ## Motivação
 

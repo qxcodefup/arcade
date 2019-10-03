@@ -1,5 +1,5 @@
 ## ©02_sel L1 - Calculadora Numérica
-## @qxcode
+
 
 ![](__capa.jpg)
 

@@ -1,5 +1,5 @@
 ## ©06_mat L3 - Campo de Minhocas - OBI 2005
-## @qxcode
+
 
 ![](__capa.jpg)
 

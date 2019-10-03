@@ -1,5 +1,5 @@
 ## ©08_ptr L3 - Motivando a turma de secundaristas
-## @qxcode
+
 
 ![](__capa.jpg)
 

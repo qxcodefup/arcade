@@ -1,5 +1,5 @@
 ## ©03_rep L2 - Ônibus lotado
-## @qxcode
+
 
 ![](__capa.jpg)
 

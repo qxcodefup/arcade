@@ -1,5 +1,5 @@
 ## ©03_rep L3 - Sapinho 3 matemático não morrendo no poço
-## @qxcode
+
 
 ![](__capa.jpg)
 

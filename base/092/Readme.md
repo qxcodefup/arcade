@@ -1,5 +1,5 @@
 ## ©05_str L1 - LP da Xura - Inverter String!
-## @qxcode
+
 
 ![](__capa.jpg)
 

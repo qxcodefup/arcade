@@ -1,5 +1,5 @@
-## ©05_str L3 - Francês é Fresco - Juntar palavras
-## @qxcode
+## ©05_str L3 - Francês é Fresco
+Juntar palavras
 
 ![](__capa.jpg)
 

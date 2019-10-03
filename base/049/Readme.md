@@ -1,5 +1,5 @@
 ## ©03_rep L2 - Sapinho 1 no Poço
-## @qxcode
+
 
 ![](__capa.jpg)
 

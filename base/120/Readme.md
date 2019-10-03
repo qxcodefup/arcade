@@ -1,5 +1,5 @@
-## ©05_str L3 - Gansos Gamados - Verificar ordenação da frase!
-## @qxcode
+## ©05_str L3 - Gansos Gamados
+Verificar ordenação da frase
 
 ![](__capa.jpg)
 

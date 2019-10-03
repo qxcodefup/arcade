@@ -1,5 +1,5 @@
 ## ©04_vet L3 - MMC de vários números.
-## @qxcode
+
 
 ![](__capa.jpg)
 

@@ -1,5 +1,5 @@
-## ©04_vet L2 - Mostrar mão de cartas (Imprimir vetor formatado)
-## @qxcode
+## ©04_vet L2 - Mostrar mão de cartas
+Imprimir vetor formatado
 
 ![](__capa.jpg)
 

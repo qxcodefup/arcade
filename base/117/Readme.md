@@ -1,5 +1,5 @@
 ## ©05_str L3 - Identificando Ultrons V2
-## @qxcode
+
 
 ![](__capa.jpg)
 

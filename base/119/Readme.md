@@ -1,5 +1,5 @@
-## ©05_str L3 - Matéria e Antimatéia - Colisão entre palavras!
-## @qxcode
+## ©05_str L3 - Matéria e Antimatéia
+Colisão entre palavras
 
 ![](__capa.jpg)
 

@@ -1,5 +1,5 @@
 ## ©02_sel L2 - Quiz do Harry Potter
-## @qxcode
+
 
 ![](__capa.jpg)
 

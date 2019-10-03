@@ -1,5 +1,5 @@
 ## ©02_sel L2 - Quantos são iguais? (Contando Repetidos)
-## @qxcode
+
 
 ![](__capa.jpg)
 

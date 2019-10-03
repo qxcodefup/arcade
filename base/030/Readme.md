@@ -1,5 +1,5 @@
 ## ©02_sel L2 - Mercantil V1 - Quem chega mais perto
-## @qxcode
+
 
 ![](__capa.jpg)
 

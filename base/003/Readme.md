@@ -1,5 +1,5 @@
-## ©01_ope L2 - Opala bebedor (Cálculo de desempenho)
-## @qxcode
+## ©01_ope L2 - Opala bebedor
+Cálculo de desempenho
 
 ![](__capa.jpg)
 

@@ -1,5 +1,5 @@
 ## ©02_sel L3 - Dorme Tarde Acordar Cedo!
-## @qxcode
+
 
 ![](__capa.jpg)
 

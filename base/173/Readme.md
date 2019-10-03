@@ -1,5 +1,5 @@
 ## ©05_str L1 - Eribelton e a Ascologia V1 - Somar Asc
-## @qxcode
+
 
 ![](__capa.jpg)
 

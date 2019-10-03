@@ -1,5 +1,5 @@
 ## ©03_rep L3 - Arremesso de pedra na lua
-## @qxcode
+
 
 ![](__capa.jpg)
 

@@ -1,5 +1,5 @@
 ## ©04_vet L3 - Anfíbios e Batráquios - Está contido
-## @qxcode
+
 
 ![](__capa.jpg)
 

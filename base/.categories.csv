@@ -1,6 +1,6 @@
-7,01_ope,Operações Básicas,
-36,02_sel,Seleção,
-26,03_rep,Repetição,
+7,01_ope,Operações,As operações mais básicas de todas
+36,02_sel,Seleção,"Treine seleção, fis, elses e operadores lógicos"
+26,03_rep,Repetição,"Repita, repita e repita, isso é repetição"
 34,04_vet,Vetores,
 45,05_str,Strings,
 14,06_mat,Matrizes,

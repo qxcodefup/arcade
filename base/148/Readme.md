@@ -1,5 +1,5 @@
 ## ©07_dic L1 - Expressão
-## @qxcode
+
 
 ![](__capa.jpg)
 

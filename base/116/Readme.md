@@ -1,5 +1,5 @@
 ## ©05_str L3 - Roda Roda Jequiti
-## @qxcode
+
 
 ![](__capa.jpg)
 

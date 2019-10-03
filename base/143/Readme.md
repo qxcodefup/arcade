@@ -1,5 +1,5 @@
 ## ©08_ptr L1 - Troca de valores de variáveis
-## @qxcode
+
 
 ![](__capa.jpg)
 

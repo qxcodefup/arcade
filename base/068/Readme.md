@@ -1,5 +1,5 @@
-## ©04_vet L2 - Organizando a fila do RU - Separar Pares e Ímpares!
-## @qxcode
+## ©04_vet L2 - Organizando a fila do RU
+Separar Pares e Ímpares
 
 ![](__capa.jpg)
 

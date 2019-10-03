@@ -1,5 +1,5 @@
 ## ©04_vet L3 - Zoologico Um animal de cada tipo!
-## @qxcode
+
 
 ![](__capa.jpg)
 

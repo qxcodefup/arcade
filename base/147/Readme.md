@@ -1,5 +1,5 @@
 ## ©08_ptr L1 - Duelo
-## @qxcode
+
 
 ![](__capa.jpg)
 

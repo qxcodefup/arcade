@@ -1,5 +1,5 @@
 ## ©06_mat L2 - Deu a louca no Imperador!
-## @qxcode
+
 
 ![](__capa.jpg)
 

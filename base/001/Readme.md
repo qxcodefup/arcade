@@ -1,5 +1,5 @@
 ## ©02_sel L3 - Sai fora Bhaskara (Cálculo de raízes)
-## @qxcode
+
 
 ![](__capa.jpg)
 

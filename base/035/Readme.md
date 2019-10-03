@@ -1,5 +1,5 @@
 ## ©02_sel L2 - OBI 2017 - Fase 1 - Drone de Entrega
-## @qxcode
+
 
 ![](__capa.jpg)
 
