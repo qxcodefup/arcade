@@ -1,4 +1,4 @@
-## ©08_ptr L2 - Função que retorna vários valores por referência
+## ©ponteiros L2 - Função que retorna vários valores por referência
 
 
 ![](__capa.jpg)

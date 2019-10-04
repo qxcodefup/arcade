@@ -1,4 +1,4 @@
-## ©05_str L3 - Identificando elementos
+## ©strings L3 - Identificando elementos
 
 
 ![](__capa.jpg)

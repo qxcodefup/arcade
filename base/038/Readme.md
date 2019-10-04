@@ -1,4 +1,4 @@
-## ©02_sel L2 - A hora do próximo segundo
+## ©selecao L2 - A hora do próximo segundo
 
 
 ![ponteiros de um relógio](__capa.jpg)

@@ -1,4 +1,4 @@
-## ©06_mat L2 - Quadrado Mágico
+## ©matrizes L2 - Quadrado Mágico
 
 
 ![](__capa.jpg)

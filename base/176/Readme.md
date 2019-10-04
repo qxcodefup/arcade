@@ -1,4 +1,4 @@
-## ©05_str L1 - Substring na decoração - Obter Substrings!
+## ©strings L1 - Substring na decoração - Obter Substrings!
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## ©04_vet L3 - Jogando pião na rodinha
+## ©vetores L3 - Jogando pião na rodinha
 
 
 ![](__capa.jpg)

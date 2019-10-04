@@ -1,4 +1,4 @@
-## ©03_rep L1 - Calça Zeze de Camargo - Mínimo
+## ©repeticao L1 - Calça Zeze de Camargo - Mínimo
 
 
 ![](__capa.jpg)

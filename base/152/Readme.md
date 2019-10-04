@@ -1,4 +1,4 @@
-## ©05_str L3 - Letras Ordenadas
+## ©strings L3 - Letras Ordenadas
 OBI 2015 - Fase 2 - Nível 1
 
 ![](__capa.jpg)

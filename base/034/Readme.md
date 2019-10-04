@@ -1,4 +1,4 @@
-## ©02_sel L3 - Formiga da bundona
+## ©selecao L3 - Formiga da bundona
 
 
 ## Motivação

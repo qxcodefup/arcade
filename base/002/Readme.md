@@ -1,4 +1,4 @@
-## ©01_ope L2 - Pintando a casa
+## ©operacoes L2 - Pintando a casa
 Calculando a área do triângulo
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## ©07_rec L2 - Contando caracteres recursivamente
+## ©recursao L2 - Contando caracteres recursivamente
 
 
 ![](__capa.jpg)

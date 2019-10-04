@@ -1,4 +1,4 @@
-## ©05_str L3 - Valdiskley e a Cifra v3!
+## ©strings L3 - Valdiskley e a Cifra v3!
 
 
 ![](__capa.jpg)

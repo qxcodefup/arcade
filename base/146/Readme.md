@@ -1,4 +1,4 @@
-## ©07_rec L3 - Torres de Hanoi
+## ©recursao L3 - Torres de Hanoi
 
 
 ![](__capa.jpg)

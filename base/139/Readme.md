@@ -1,4 +1,4 @@
-## ©04_vet L3 - MMC de vários números.
+## ©vetores L3 - MMC de vários números.
 
 
 ![](__capa.jpg)

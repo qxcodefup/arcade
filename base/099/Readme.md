@@ -1,4 +1,4 @@
-## ©05_str L3 - Francês é Fresco
+## ©strings L3 - Francês é Fresco
 Juntar palavras
 
 ![](__capa.jpg)

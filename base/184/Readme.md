@@ -1,4 +1,4 @@
-## ©08_ptr L3 - Motivando a turma de secundaristas
+## ©ponteiros L3 - Motivando a turma de secundaristas
 
 
 ![](__capa.jpg)

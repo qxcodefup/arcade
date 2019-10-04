@@ -1,4 +1,4 @@
-## ©05_str L1 - Valdiskey e a cifra V1!
+## ©strings L1 - Valdiskey e a cifra V1!
 
 
 ![](__capa.jpg)

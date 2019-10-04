@@ -1,4 +1,4 @@
-## ©03_rep L2 - Trilhas - OBI 2005 - (Modo Easy)
+## ©repeticao L2 - Trilhas - OBI 2005 - (Modo Easy)
 
 
 ![](__capa.jpg)

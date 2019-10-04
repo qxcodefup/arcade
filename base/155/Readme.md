@@ -1,4 +1,4 @@
-## ©02_sel L1 - Plantação de Morangos
+## ©selecao L1 - Plantação de Morangos
 OBI 2016 - Fase1 - Nível 1
 ![](__capa.jpg)
 

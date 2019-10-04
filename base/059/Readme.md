@@ -1,4 +1,4 @@
-## ©03_rep L3 - Sapinho 2 morrendo no poço
+## ©repeticao L3 - Sapinho 2 morrendo no poço
 
 
 ![sapinho](__capa.jpg)

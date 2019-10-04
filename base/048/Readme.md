@@ -1,4 +1,4 @@
-## ©03_rep L2 - Cabo de Guerra Jedi
+## ©repeticao L2 - Cabo de Guerra Jedi
 
 
 ![](__capa.jpg)

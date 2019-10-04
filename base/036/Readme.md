@@ -1,4 +1,4 @@
-## ©02_sel L3 - Morre o do meio
+## ©selecao L3 - Morre o do meio
 
 
 ![](__capa.jpg)

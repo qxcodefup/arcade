@@ -1,4 +1,4 @@
-## ©07_rec L2 - Números de Fibonacci
+## ©recursao L2 - Números de Fibonacci
 
 
 ![](__capa.jpg)

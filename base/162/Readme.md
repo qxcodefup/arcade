@@ -1,4 +1,4 @@
-## ©04_vet L3 - Mini-Poker - OBI2005
+## ©vetores L3 - Mini-Poker - OBI2005
 
 
 ![](__capa.jpg)

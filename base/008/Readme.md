@@ -1,4 +1,4 @@
-## ©04_vet L3 - Força Bruta (Gerando próxima combinação)
+## ©vetores L3 - Força Bruta (Gerando próxima combinação)
 
 
 ![](__capa.jpg)

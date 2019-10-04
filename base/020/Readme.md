@@ -1,4 +1,4 @@
-## ©02_sel L2 - Zerinho ou Um!
+## ©selecao L2 - Zerinho ou Um!
 
 
 ![](__capa.jpg)

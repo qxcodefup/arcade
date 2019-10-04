@@ -1,4 +1,4 @@
-## ©04_vet L3 - OBI 2017 - Fase 1 - O segredo do Cofre
+## ©vetores L3 - OBI 2017 - Fase 1 - O segredo do Cofre
 
 
 ![](__capa.jpg)

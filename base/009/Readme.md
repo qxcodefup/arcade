@@ -1,4 +1,4 @@
-## ©07_fun L2 - Imprimir vetor formatado
+## ©funcoes L2 - Imprimir vetor formatado
 
 ![](__capa.jpg)
 

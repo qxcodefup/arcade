@@ -1,4 +1,4 @@
-## ©02_sel L2 - OBI 2017 - Fase 1 - Teleférico
+## ©selecao L2 - OBI 2017 - Fase 1 - Teleférico
 
 
 ![](__capa.jpg)

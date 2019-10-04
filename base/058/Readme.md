@@ -1,4 +1,4 @@
-## ©03_rep L2 - Busca Intervalada
+## ©repeticao L2 - Busca Intervalada
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## ©02_sel L2 - Ovos de galinha (Procurando o Maior valor)
+## ©selecao L2 - Ovos de galinha (Procurando o Maior valor)
 
 
 ![](__capa.jpg)

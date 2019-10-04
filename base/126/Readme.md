@@ -1,4 +1,4 @@
-## ©05_str L2 - Crushômetro
+## ©strings L2 - Crushômetro
 
 
 ![](__capa.jpg)

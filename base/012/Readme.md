@@ -1,4 +1,4 @@
-## ©06_mat L2 - Deu a louca no Imperador!
+## ©matrizes L2 - Deu a louca no Imperador!
 
 
 ![](__capa.jpg)

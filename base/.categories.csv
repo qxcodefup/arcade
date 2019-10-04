@@ -1,10 +1,10 @@
-7,01_ope,Operações,As operações mais básicas de todas
-36,02_sel,Seleção,"Treine seleção, fis, elses e operadores lógicos"
-26,03_rep,Repetição,"Repita, repita e repita, isso é repetição"
-34,04_vet,Vetores,
-45,05_str,Strings,
-14,06_mat,Matrizes,
-3,07_dic,Structs,
-1,07_fun,Funções,
-4,07_rec,Recursão,
-5,08_ptr,Ponteiros,
+7,operacoes,operacoes,
+36,selecao,selecao,
+26,repeticao,repeticao,
+34,vetores,vetores,
+1,funcoes,funcoes,
+5,ponteiros,ponteiros,
+45,strings,strings,
+14,matrizes,matrizes,
+3,structs,structs,
+4,recursao,recursao,

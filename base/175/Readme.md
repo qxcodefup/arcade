@@ -1,4 +1,4 @@
-## ©05_str L3 - Separando a partir de tokens
+## ©strings L3 - Separando a partir de tokens
 
 
 ![](__capa.jpg)

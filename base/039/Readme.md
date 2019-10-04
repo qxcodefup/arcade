@@ -1,4 +1,4 @@
-## ©02_sel L2 - Mercantil V2 - Maior ou Menor
+## ©selecao L2 - Mercantil V2 - Maior ou Menor
 
 
 ![Silvio Santos](__capa.jpg)

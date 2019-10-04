@@ -1,4 +1,4 @@
-## ©02_sel L2 - Criança, Adulto, Idoso, Múmia
+## ©selecao L2 - Criança, Adulto, Idoso, Múmia
 
 
 ![](__capa.jpg)

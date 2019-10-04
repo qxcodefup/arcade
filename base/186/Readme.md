@@ -1,4 +1,4 @@
-## ©04_vet L2 - Processando uma linha de inteiros
+## ©vetores L2 - Processando uma linha de inteiros
 
 ![](__capa.jpg)
 

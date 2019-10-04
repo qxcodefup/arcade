@@ -1,4 +1,4 @@
-## ©03_rep L3 - Spok Palíndromo
+## ©repeticao L3 - Spok Palíndromo
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## ©06_mat L2 - Soma de elementos de em uma matriz
+## ©matrizes L2 - Soma de elementos de em uma matriz
 
 
 ![](__capa.jpg)

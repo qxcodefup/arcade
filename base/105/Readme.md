@@ -1,4 +1,4 @@
-## ©05_str L3 - Valdiskley e cifras históricas!
+## ©strings L3 - Valdiskley e cifras históricas!
 
 
 ![](__capa.jpg)

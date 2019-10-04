@@ -1,4 +1,4 @@
-## ©02_sel L2 - Bolada na fuça
+## ©selecao L2 - Bolada na fuça
 
 
 ![Resultado de imagem para haikyuu](__capa.jpg)

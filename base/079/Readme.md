@@ -1,4 +1,4 @@
-## ©04_vet L3 - Jogo do Avesso V2
+## ©vetores L3 - Jogo do Avesso V2
 
 
 ![](__capa.jpg)

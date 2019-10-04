@@ -1,4 +1,4 @@
-## ©03_rep L1 - Dividindo pares de sapatos pra três
+## ©repeticao L1 - Dividindo pares de sapatos pra três
 
 
 ![](__capa.jpg)

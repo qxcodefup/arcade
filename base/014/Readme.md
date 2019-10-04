@@ -1,4 +1,4 @@
-## ©02_sel L2 - Quantos são iguais? (Contando Repetidos)
+## ©selecao L2 - Quantos são iguais? (Contando Repetidos)
 
 
 ![](__capa.jpg)

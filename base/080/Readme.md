@@ -1,4 +1,4 @@
-## ©04_vet L3 - Baruel Ruel trocando figurinhas!
+## ©vetores L3 - Baruel Ruel trocando figurinhas!
 
 
 ## Motivação

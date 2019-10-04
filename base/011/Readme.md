@@ -1,4 +1,4 @@
-## ©01_ope L1 - Formatando data
+## ©operacoes L1 - Formatando data
 #### Imprimindo inteiros com duas casas e arredondando com operador de módulo
 
 ![](__capa.jpg)

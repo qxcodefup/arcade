@@ -1,4 +1,4 @@
-## ©05_str L3 - Nao se bububula - Gagueira V2!
+## ©strings L3 - Nao se bububula - Gagueira V2!
 
 
 ![](__capa.jpg)

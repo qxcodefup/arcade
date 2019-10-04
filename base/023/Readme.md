@@ -1,4 +1,4 @@
-## ©02_sel L3 - Jokenpo das tartarugas!
+## ©selecao L3 - Jokenpo das tartarugas!
 
 
 ![](__capa.jpg)

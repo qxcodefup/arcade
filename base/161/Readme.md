@@ -1,4 +1,4 @@
-## ©03_rep L3 - Vivo ou Morto - OBI 2005
+## ©repeticao L3 - Vivo ou Morto - OBI 2005
 
 
 ![](__capa.jpg)

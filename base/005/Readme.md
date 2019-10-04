@@ -1,4 +1,4 @@
-## ©01_ope L3 - Ladrão de Goiabas
+## ©operacoes L3 - Ladrão de Goiabas
 Contando viagens usando módulo
 
 ![](__capa.jpg)

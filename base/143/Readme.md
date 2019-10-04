@@ -1,4 +1,4 @@
-## ©08_ptr L1 - Troca de valores de variáveis
+## ©ponteiros L1 - Troca de valores de variáveis
 
 
 ![](__capa.jpg)

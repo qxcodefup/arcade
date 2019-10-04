@@ -1,4 +1,4 @@
-## ©03_rep L3 - Blackjack 21!
+## ©repeticao L3 - Blackjack 21!
 
 
 ![](__capa.jpg)

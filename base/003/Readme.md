@@ -1,4 +1,4 @@
-## ©01_ope L2 - Opala bebedor
+## ©operacoes L2 - Opala bebedor
 Cálculo de desempenho
 
 ![](__capa.jpg)
