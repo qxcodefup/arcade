@@ -6,7 +6,7 @@
 **List** | **Photo Board**
 
 
-## operacoes
+## Operações
 
 - [L1 - Formatando data](base/011/Readme.md#operacoes-l1---formatando-data)
 - [L1 - Operações básicas](base/000/Readme.md#operacoes-l1---operações-básicas)
@@ -16,7 +16,7 @@
 - [L3 - Mete bala](base/004/Readme.md#operacoes-l3---mete-bala)
 - [L3 - Zerinho ou um americano](base/006/Readme.md#operacoes-l3---zerinho-ou-um-americano)
 
-## selecao
+## Seleção
 
 - [L1 - Ambos Divisíveis](base/025/Readme.md#selecao-l1---ambos-divisíveis)
 - [L1 - Angulo Cartesiano](base/062/Readme.md#selecao-l1---angulo-cartesiano)
@@ -55,7 +55,7 @@
 - [L3 - Rufus e Par ou Ímpar!](base/041/Readme.md#selecao-l3---rufus-e-par-ou-ímpar)
 - [L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001/Readme.md#selecao-l3---sai-fora-bhaskara-cálculo-de-raízes)
 
-## repeticao
+## Repetição
 
 - [L1 - Calça Zeze de Camargo - Mínimo](base/056/Readme.md#repeticao-l1---calça-zeze-de-camargo---mínimo)
 - [L1 - Dividindo pares de sapatos pra três](base/013/Readme.md#repeticao-l1---dividindo-pares-de-sapatos-pra-três)
@@ -84,7 +84,7 @@
 - [L3 - Trilhas - OBI 2005](base/158/Readme.md#repeticao-l3---trilhas---obi-2005)
 - [L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md#repeticao-l3---vivo-ou-morto---obi-2005)
 
-## vetores
+## Vetores
 
 - [L1 - Joelison Fernandes - Soma do maior e menor!](base/060/Readme.md#vetores-l1---joelison-fernandes---soma-do-maior-e-menor)
 - [L2 - Capoeira invertendo vetor!](base/061/Readme.md#vetores-l2---capoeira-invertendo-vetor)
@@ -121,11 +121,11 @@
 - [L3 - Zoologico Entrando na Arca de Noé](base/087/Readme.md#vetores-l3---zoologico-entrando-na-arca-de-noé)
 - [L3 - Zoologico Um animal de cada tipo!](base/084/Readme.md#vetores-l3---zoologico-um-animal-de-cada-tipo)
 
-## funcoes
+## Funções
 
 - [L2 - Imprimir vetor formatado](base/009/Readme.md#funcoes-l2---imprimir-vetor-formatado)
 
-## ponteiros
+## Ponteiros
 
 - [L1 - Duelo](base/147/Readme.md#ponteiros-l1---duelo)
 - [L1 - Troca de valores de variáveis](base/143/Readme.md#ponteiros-l1---troca-de-valores-de-variáveis)
@@ -133,7 +133,7 @@
 - [L2 - Vetor de strings com variados tamanhos](base/142/Readme.md#ponteiros-l2---vetor-de-strings-com-variados-tamanhos)
 - [L3 - Motivando a turma de secundaristas](base/184/Readme.md#ponteiros-l3---motivando-a-turma-de-secundaristas)
 
-## strings
+## Strings
 
 - [L1 - Eribelton e a Ascologia V1 - Somar Asc](base/173/Readme.md#strings-l1---eribelton-e-a-ascologia-v1---somar-asc)
 - [L1 - LP da Xura - Inverter String!](base/092/Readme.md#strings-l1---lp-da-xura---inverter-string)
@@ -181,7 +181,7 @@
 - [L3 - Valdiskley e a Cifra v3!](base/107/Readme.md#strings-l3---valdiskley-e-a-cifra-v3)
 - [L3 - Valdiskley e cifras históricas!](base/105/Readme.md#strings-l3---valdiskley-e-cifras-históricas)
 
-## matrizes
+## Matrizes
 
 - [L2 - Bingo!](base/130/Readme.md#matrizes-l2---bingo)
 - [L2 - Deu a louca no Imperador!](base/012/Readme.md#matrizes-l2---deu-a-louca-no-imperador)
@@ -198,13 +198,13 @@
 - [L3 - Subdiagonais](base/132/Readme.md#matrizes-l3---subdiagonais)
 - [L3 - Tetris (Fazendo a peça cair)](base/007/Readme.md#matrizes-l3---tetris-fazendo-a-peça-cair)
 
-## structs
+## Structs
 
 - [L1 - Expressão](base/148/Readme.md#structs-l1---expressão)
 - [L1 - Operações](base/149/Readme.md#structs-l1---operações)
 - [L3 - Mulher mais idosa](base/182/Readme.md#structs-l3---mulher-mais-idosa)
 
-## recursao
+## Recursão
 
 - [L2 - Contando caracteres recursivamente](base/145/Readme.md#recursao-l2---contando-caracteres-recursivamente)
 - [L2 - Números de Fibonacci](base/141/Readme.md#recursao-l2---números-de-fibonacci)

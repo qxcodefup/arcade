@@ -6,7 +6,7 @@
 **List** | **Photo Board**
 
 
-## operacoes
+## Operações
 
 [![](base/.thumb/011/Readme.jpg)](base/011/Readme.md#operacoes-l1---formatando-data)|[![](base/.thumb/000/Readme.jpg)](base/000/Readme.md#operacoes-l1---operações-básicas)|[![](base/.thumb/003/Readme.jpg)](base/003/Readme.md#operacoes-l2---opala-bebedor)|[![](base/.thumb/002/Readme.jpg)](base/002/Readme.md#operacoes-l2---pintando-a-casa)
 -|-|-|-
@@ -19,7 +19,7 @@
 
 
 
-## selecao
+## Seleção
 
 [![](base/.thumb/025/Readme.jpg)](base/025/Readme.md#selecao-l1---ambos-divisíveis)|[![](base/.thumb/062/Readme.jpg)](base/062/Readme.md#selecao-l1---angulo-cartesiano)|[![](base/.thumb/015/Readme.jpg)](base/015/Readme.md#selecao-l1---calculadora-numérica)|[![](base/.thumb/024/Readme.jpg)](base/024/Readme.md#selecao-l1---divisão-inteira-e-quebrada)
 -|-|-|-
@@ -67,7 +67,7 @@
 
 
 
-## repeticao
+## Repetição
 
 [![](base/.thumb/056/Readme.jpg)](base/056/Readme.md#repeticao-l1---calça-zeze-de-camargo---mínimo)|[![](base/.thumb/013/Readme.jpg)](base/013/Readme.md#repeticao-l1---dividindo-pares-de-sapatos-pra-três)|[![](base/.thumb/055/Readme.jpg)](base/055/Readme.md#repeticao-l1---quantos-ultrons-você-vê---contar-elemento)|[![](base/.thumb/044/Readme.jpg)](base/044/Readme.md#repeticao-l1---somatório-v2)
 -|-|-|-
@@ -105,7 +105,7 @@
 
 
 
-## vetores
+## Vetores
 
 [![](base/.thumb/060/Readme.jpg)](base/060/Readme.md#vetores-l1---joelison-fernandes---soma-do-maior-e-menor)|[![](base/.thumb/061/Readme.jpg)](base/061/Readme.md#vetores-l2---capoeira-invertendo-vetor)|[![](base/.thumb/078/Readme.jpg)](base/078/Readme.md#vetores-l2---jogo-do-avesso)|[![](base/.thumb/091/Readme.jpg)](base/091/Readme.md#vetores-l2---mmc)
 -|-|-|-
@@ -153,7 +153,7 @@
 
 
 
-## funcoes
+## Funções
 
 [![](base/.thumb/009/Readme.jpg)](base/009/Readme.md#funcoes-l2---imprimir-vetor-formatado)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
 -|-|-|-
@@ -161,7 +161,7 @@
 
 
 
-## ponteiros
+## Ponteiros
 
 [![](base/.thumb/147/Readme.jpg)](base/147/Readme.md#ponteiros-l1---duelo)|[![](base/.thumb/143/Readme.jpg)](base/143/Readme.md#ponteiros-l1---troca-de-valores-de-variáveis)|[![](base/.thumb/144/Readme.jpg)](base/144/Readme.md#ponteiros-l2---função-que-retorna-vários-valores-por-referência)|[![](base/.thumb/142/Readme.jpg)](base/142/Readme.md#ponteiros-l2---vetor-de-strings-com-variados-tamanhos)
 -|-|-|-
@@ -174,7 +174,7 @@
 
 
 
-## strings
+## Strings
 
 [![](base/.thumb/173/Readme.jpg)](base/173/Readme.md#strings-l1---eribelton-e-a-ascologia-v1---somar-asc)|[![](base/.thumb/092/Readme.jpg)](base/092/Readme.md#strings-l1---lp-da-xura---inverter-string)|[![](base/.thumb/104/Readme.jpg)](base/104/Readme.md#strings-l1---maiúsculo-minusculo-e-dígito)|[![](base/.thumb/177/Readme.jpg)](base/177/Readme.md#strings-l1---marileuza-e-as-alcaparras---contar-ocorrencias)
 -|-|-|-
@@ -237,7 +237,7 @@
 
 
 
-## matrizes
+## Matrizes
 
 [![](base/.thumb/130/Readme.jpg)](base/130/Readme.md#matrizes-l2---bingo)|[![](base/.thumb/012/Readme.jpg)](base/012/Readme.md#matrizes-l2---deu-a-louca-no-imperador)|[![](base/.thumb/134/Readme.jpg)](base/134/Readme.md#matrizes-l2---quadrado-mágico)|[![](base/.thumb/133/Readme.jpg)](base/133/Readme.md#matrizes-l2---soldados-em-posição)
 -|-|-|-
@@ -260,7 +260,7 @@
 
 
 
-## structs
+## Structs
 
 [![](base/.thumb/148/Readme.jpg)](base/148/Readme.md#structs-l1---expressão)|[![](base/.thumb/149/Readme.jpg)](base/149/Readme.md#structs-l1---operações)|[![](base/.thumb/182/Readme.jpg)](base/182/Readme.md#structs-l3---mulher-mais-idosa)|![](config/empty.png)
 -|-|-|-
@@ -268,7 +268,7 @@
 
 
 
-## recursao
+## Recursão
 
 [![](base/.thumb/145/Readme.jpg)](base/145/Readme.md#recursao-l2---contando-caracteres-recursivamente)|[![](base/.thumb/141/Readme.jpg)](base/141/Readme.md#recursao-l2---números-de-fibonacci)|[![](base/.thumb/140/Readme.jpg)](base/140/Readme.md#recursao-l3---contando-caracteres-recursivamente)|[![](base/.thumb/146/Readme.jpg)](base/146/Readme.md#recursao-l3---torres-de-hanoi)
 -|-|-|-
