@@ -1,5 +1,5 @@
 ## ©operacoes L2 - Pintando a casa
-Calculando a área do triângulo
+### Calculando a área do triângulo
 
 ![](__capa.jpg)
 

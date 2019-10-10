@@ -1,5 +1,5 @@
 ## ©strings L3 - Gansos Gamados
-Verificar ordenação da frase
+### Verificar ordenação da frase
 
 ![](__capa.jpg)
 

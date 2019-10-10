@@ -1,5 +1,5 @@
 ## ©selecao L1 - Jogo de par ou ímpar
-OBI 2016 - Fase1 - Nível 1
+### OBI 2016 - Fase1 - Nível 1
 ![](__capa.jpg)
 
 ## Motivação

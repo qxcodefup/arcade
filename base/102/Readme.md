@@ -1,5 +1,5 @@
 ## ©strings L3 - Meu cachorro comeu minha tarefa V2
-Retirar espaços duplicados
+### Retirar espaços duplicados
 
 ![](__capa.jpg)
 

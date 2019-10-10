@@ -21,7 +21,7 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 ## Exemplos
 
 ```
->>>>>>>>
+>>>>>>>> 00
 2
 3
 1 2 3
@@ -29,11 +29,11 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 1 1 1
 2 2 2
 ========
-2 3 4
-6 7 8
+[ 2 3 4 ]
+[ 6 7 8 ]
 <<<<<<<<
 
->>>>>>>>
+>>>>>>>> 01
 2
 1
 1
@@ -41,8 +41,8 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 3
 4
 ========
-4
-6
+[ 4 ]
+[ 6 ]
 <<<<<<<<
 ```
 

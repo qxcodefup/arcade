@@ -1,42 +1,52 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-bool verifica_vetores(int n1, int v1[n1], int n2, int v2[n2]){
-    int verifica = 0;
-    for(int x = 0; x < n1; x++)
-        for(int a = 0; a < n2; a++)
-            if(v1[x] == v2[a]){
-                verifica++;
-                v2[a] = -1;
-            }
-    if(verifica == n1)
-        return true;
-    else
-        return false;
-    
+bool existe(int vet[], int size, int value){
+    for(int i = 0; i < size; i++)
+        if(vet[i] == value)
+            return true;
+    return false;
+}
+
+bool esta_contido(int v1[], int v1_size, int v2[], int v2_size){
+    for(int i = 0; i < v1_size; i++)
+        if(!existe(v2, v2_size, v1[i]))
+            return false;
+    return true;
 }
 
 int main(){
 
-    int v1[50];
-    int v2[50];
+    int v1_size = 0;
+    scanf("%d", &v1_size);
+    int v1[v1_size];
+    for(int i = 0; i < v1_size; i++)
+        scanf("%d", &v1[i]);
 
-    int n, n2;
-
-    scanf("%d", &n);
-
-    for(int a = 0; a < n; a++)
-        scanf("%d", &v1[a]);
-
-    scanf("%d", &n2);
-
-    for(int a = 0; a < n2; a++)
+    int v2_size = 0;
+    scanf("%d", &v2_size);
+    int v2[v2_size];
+    for(int a = 0; a < v2_size; a++)
         scanf("%d", &v2[a]);
 
-    if(verifica_vetores(n, v1, n2, v2))
-        printf("sim\n");
+    bool esta_contido = true;
+    for(int i = 0; i < v1_size; i++){
+        bool achei = false;
+        for(int j = 0; j < v2_size; j++){
+            if(v1[i] == v2[j]){
+                achei = true;
+                break;
+            }
+        }
+        if(!achei){
+            esta_contido = false;
+            break;
+        }
+    }
+    if(esta_contido)
+        puts("sim");
     else
-        printf("nao\n");
+        puts("nao");
 
     return 0;
 }

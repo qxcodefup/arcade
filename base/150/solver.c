@@ -18,11 +18,9 @@ int main(){
          soma[i][j] = m1[i][j] + m2[i][j];
    
    for (i = 0; i < linhas; i++) {
-      for (j = 0; j < colunas; j++){
-         printf("%d", soma[i][j]);
-         if(j < colunas - 1)
-            printf(" ");
-      }
-      printf("\n");
+      printf("[ ");
+      for (j = 0; j < colunas; j++)
+         printf("%d ", soma[i][j]);
+      printf("]\n");
    }
 }

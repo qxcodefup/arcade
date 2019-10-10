@@ -5,18 +5,12 @@
 
 ## Motivação
 
-Depois de muitos Spotteds-VSF de amor no Facebook, um aluno fez um estudo e percebeu que os atributos necessários para comparar a compatibilidade entre
-
-você e o crush são:
+Depois de muitos Spotteds-VSF de amor no Facebook, um aluno fez um estudo e percebeu que os atributos necessários para comparar a compatibilidade entre você e o crush são:
 
 - Se a primeira letra do nome for igual, ganha 20 pontos;
-
 - Se tiver a mesma quantidade de letras nos nomes, ganha 30 pontos;
-
 - Se tiver a mesma quantidade de vogais, ganha 30 pontos;
-
 - Se ambos terminarem em vogal ou consoante, ganha 20 pontos.
-
 - Se os nomes terminarem um em vogal e outro em consoante, perde 10 pontos;
 
 Devolva a porcentagem de chances do crush funcionar com você (Lembrando que porcentagens não podem ser negativas!).
@@ -25,11 +19,12 @@ Devolva a porcentagem de chances do crush funcionar com você (Lembrando que por
 
 Para fazer o cálculo, some todos os pontos e imprima da seguinte forma:
 
-"As chances do crush te dar bola sao: 100%!"
+- "As chances do crush te dar bola sao: 100%!"
+- para imprimir o '%', basta coloca-lo duas vezes, assim:
 
-para imprimir o '%', basta coloca-lo duas vezes, assim:
-
+```
 printf("%%");
+```
 
 ### Entrada
 
