@@ -1,18 +1,3 @@
-[](base/009/Readme.md) : ## ©funcoes L2 - Imprimir vetor formatado                           : 
-[](base/130/Readme.md) : ## ©matrizes L2 - Bingo!                                            : 
-[](base/012/Readme.md) : ## ©matrizes L2 - Deu a louca no Imperador!                         : 
-[](base/134/Readme.md) : ## ©matrizes L2 - Quadrado Mágico                                   : 
-[](base/133/Readme.md) : ## ©matrizes L2 - Soldados em Posição                               : 
-[](base/128/Readme.md) : ## ©matrizes L2 - Soma de elementos de em uma matriz                : 
-[](base/150/Readme.md) : ## ©matrizes L2 - Soma de matrizes                                  : 
-[](base/129/Readme.md) : ## ©matrizes L3 - Campo Minado                                      : 
-[](base/159/Readme.md) : ## ©matrizes L3 - Campo de Minhocas - OBI 2005                      : 
-[](base/135/Readme.md) : ## ©matrizes L3 - Jogo da vida                                      : 
-[](base/131/Readme.md) : ## ©matrizes L3 - Matriz Simétrica                                  : 
-[](base/153/Readme.md) : ## ©matrizes L3 - OBI 2015 - Fase 2 - Nível 1 - Torre               : 
-[](base/154/Readme.md) : ## ©matrizes L3 - OBI 2015 - Fase 2 - Nível Júnior - Código         : 
-[](base/132/Readme.md) : ## ©matrizes L3 - Subdiagonais                                      : 
-[](base/007/Readme.md) : ## ©matrizes L3 - Tetris (Fazendo a peça cair)                      : 
 [](base/011/Readme.md) : ## ©operacoes L1 - Formatando data                                  : ### Imprimindo inteiros com duas casas e arredondando com operador de módulo
 [](base/000/Readme.md) : ## ©operacoes L1 - Operações básicas                                : ### Imprimindo float formatado
 [](base/003/Readme.md) : ## ©operacoes L2 - Opala bebedor                                    : ### Cálculo de desempenho
@@ -20,41 +5,6 @@
 [](base/005/Readme.md) : ## ©operacoes L3 - Ladrão de Goiabas                                : ### Contando viagens usando módulo
 [](base/004/Readme.md) : ## ©operacoes L3 - Mete bala                                        : ### Distância entre dois pontos
 [](base/006/Readme.md) : ## ©operacoes L3 - Zerinho ou um americano                          : ### Calcule o vencedor
-[](base/147/Readme.md) : ## ©ponteiros L1 - Duelo                                            : 
-[](base/143/Readme.md) : ## ©ponteiros L1 - Troca de valores de variáveis                    : 
-[](base/144/Readme.md) : ## ©ponteiros L2 - Função que retorna vários valores por referência : 
-[](base/142/Readme.md) : ## ©ponteiros L2 - Vetor de strings com variados tamanhos           : 
-[](base/184/Readme.md) : ## ©ponteiros L3 - Motivando a turma de secundaristas               : 
-[](base/145/Readme.md) : ## ©recursao L2 - Contando caracteres recursivamente                : 
-[](base/141/Readme.md) : ## ©recursao L2 - Números de Fibonacci                              : 
-[](base/140/Readme.md) : ## ©recursao L3 - Contando caracteres recursivamente                : 
-[](base/146/Readme.md) : ## ©recursao L3 - Torres de Hanoi                                   : 
-[](base/056/Readme.md) : ## ©repeticao L1 - Calça Zeze de Camargo - Mínimo                   : 
-[](base/013/Readme.md) : ## ©repeticao L1 - Dividindo pares de sapatos pra três              : 
-[](base/055/Readme.md) : ## ©repeticao L1 - Quantos Ultrons você vê - Contar Elemento        : 
-[](base/044/Readme.md) : ## ©repeticao L1 - Somatório V2                                     : 
-[](base/045/Readme.md) : ## ©repeticao L1 - Zero é par - Somatório de Pares!                 : 
-[](base/058/Readme.md) : ## ©repeticao L2 - Busca Intervalada                                : 
-[](base/048/Readme.md) : ## ©repeticao L2 - Cabo de Guerra Jedi                              : 
-[](base/050/Readme.md) : ## ©repeticao L2 - Castelos de Cubos                                : 
-[](base/046/Readme.md) : ## ©repeticao L2 - Jogo da Concentração                             : 
-[](base/057/Readme.md) : ## ©repeticao L2 - Revolta em Portugal                              : 
-[](base/049/Readme.md) : ## ©repeticao L2 - Sapinho 1 no Poço                                : 
-[](base/136/Readme.md) : ## ©repeticao L2 - Trilhas - OBI 2005 - (Modo Easy)                 : 
-[](base/016/Readme.md) : ## ©repeticao L2 - Volta de 360 graus (Retirando os loops)          : 
-[](base/047/Readme.md) : ## ©repeticao L2 - Ônibus lotado                                    : 
-[](base/051/Readme.md) : ## ©repeticao L3 - Arremesso de pedra na lua                        : 
-[](base/160/Readme.md) : ## ©repeticao L3 - Bafo - OBI 2005                                  : 
-[](base/063/Readme.md) : ## ©repeticao L3 - Blackjack 21!                                    : 
-[](base/064/Readme.md) : ## ©repeticao L3 - Conta Dígitos                                    : 
-[](base/052/Readme.md) : ## ©repeticao L3 - Hoje tem sopa de coelho?                         : 
-[](base/053/Readme.md) : ## ©repeticao L3 - OBI 2016 - Fuga em helicóptero                   : 
-[](base/054/Readme.md) : ## ©repeticao L3 - Quebrador de Copos                               : 
-[](base/059/Readme.md) : ## ©repeticao L3 - Sapinho 2 morrendo no poço                       : 
-[](base/065/Readme.md) : ## ©repeticao L3 - Sapinho 3 matemático não morrendo no poço        : 
-[](base/066/Readme.md) : ## ©repeticao L3 - Spok Palíndromo                                  : 
-[](base/158/Readme.md) : ## ©repeticao L3 - Trilhas - OBI 2005                               : 
-[](base/161/Readme.md) : ## ©repeticao L3 - Vivo ou Morto - OBI 2005                         : 
 [](base/025/Readme.md) : ## ©selecao L1 - Ambos Divisíveis                                   : ### Módulo e operadores lógicos
 [](base/062/Readme.md) : ## ©selecao L1 - Angulo Cartesiano                                  : ### Retirando loops
 [](base/015/Readme.md) : ## ©selecao L1 - Calculadora Numérica                               : 
@@ -91,6 +41,72 @@
 [](base/042/Readme.md) : ## ©selecao L3 - Rufus e Ordenação!                                 : 
 [](base/041/Readme.md) : ## ©selecao L3 - Rufus e Par ou Ímpar!                              : 
 [](base/001/Readme.md) : ## ©selecao L3 - Sai fora Bhaskara (Cálculo de raízes)              : 
+[](base/056/Readme.md) : ## ©repeticao L1 - Calça Zeze de Camargo - Mínimo                   : 
+[](base/013/Readme.md) : ## ©repeticao L1 - Dividindo pares de sapatos pra três              : 
+[](base/055/Readme.md) : ## ©repeticao L1 - Quantos Ultrons você vê - Contar Elemento        : 
+[](base/044/Readme.md) : ## ©repeticao L1 - Somatório V2                                     : 
+[](base/045/Readme.md) : ## ©repeticao L1 - Zero é par - Somatório de Pares!                 : 
+[](base/058/Readme.md) : ## ©repeticao L2 - Busca Intervalada                                : 
+[](base/048/Readme.md) : ## ©repeticao L2 - Cabo de Guerra Jedi                              : 
+[](base/050/Readme.md) : ## ©repeticao L2 - Castelos de Cubos                                : 
+[](base/046/Readme.md) : ## ©repeticao L2 - Jogo da Concentração                             : 
+[](base/057/Readme.md) : ## ©repeticao L2 - Revolta em Portugal                              : 
+[](base/049/Readme.md) : ## ©repeticao L2 - Sapinho 1 no Poço                                : 
+[](base/136/Readme.md) : ## ©repeticao L2 - Trilhas - OBI 2005 - (Modo Easy)                 : 
+[](base/016/Readme.md) : ## ©repeticao L2 - Volta de 360 graus (Retirando os loops)          : 
+[](base/047/Readme.md) : ## ©repeticao L2 - Ônibus lotado                                    : 
+[](base/051/Readme.md) : ## ©repeticao L3 - Arremesso de pedra na lua                        : 
+[](base/160/Readme.md) : ## ©repeticao L3 - Bafo - OBI 2005                                  : 
+[](base/063/Readme.md) : ## ©repeticao L3 - Blackjack 21!                                    : 
+[](base/064/Readme.md) : ## ©repeticao L3 - Conta Dígitos                                    : 
+[](base/052/Readme.md) : ## ©repeticao L3 - Hoje tem sopa de coelho?                         : 
+[](base/053/Readme.md) : ## ©repeticao L3 - OBI 2016 - Fuga em helicóptero                   : 
+[](base/054/Readme.md) : ## ©repeticao L3 - Quebrador de Copos                               : 
+[](base/059/Readme.md) : ## ©repeticao L3 - Sapinho 2 morrendo no poço                       : 
+[](base/065/Readme.md) : ## ©repeticao L3 - Sapinho 3 matemático não morrendo no poço        : 
+[](base/066/Readme.md) : ## ©repeticao L3 - Spok Palíndromo                                  : 
+[](base/158/Readme.md) : ## ©repeticao L3 - Trilhas - OBI 2005                               : 
+[](base/161/Readme.md) : ## ©repeticao L3 - Vivo ou Morto - OBI 2005                         : 
+[](base/060/Readme.md) : ## ©vetores L1 - Joelison Fernandes - Soma do maior e menor!        : 
+[](base/061/Readme.md) : ## ©vetores L2 - Capoeira invertendo vetor!                         : 
+[](base/078/Readme.md) : ## ©vetores L2 - Jogo do Avesso                                     : 
+[](base/091/Readme.md) : ## ©vetores L2 - MMC                                                : 
+[](base/101/Readme.md) : ## ©vetores L2 - Mostrar mão de cartas                              : ### Imprimir vetor formatado
+[](base/068/Readme.md) : ## ©vetores L2 - Organizando a fila do RU                           : ### Separar Pares e Ímpares
+[](base/090/Readme.md) : ## ©vetores L2 - Primo                                              : 
+[](base/186/Readme.md) : ## ©vetores L2 - Processando uma linha de inteiros                  : 
+[](base/067/Readme.md) : ## ©vetores L2 - Queda de dominós                                   : 
+[](base/072/Readme.md) : ## ©vetores L2 - Soldados Pequenos e Grandes!                       : 
+[](base/075/Readme.md) : ## ©vetores L3 - Abastecimento de água                              : 
+[](base/083/Readme.md) : ## ©vetores L3 - Anfíbios e Batráquios - Está contido               : 
+[](base/082/Readme.md) : ## ©vetores L3 - As unhas de Luiza - Vetor para inteiro             : 
+[](base/080/Readme.md) : ## ©vetores L3 - Baruel Ruel trocando figurinhas!                   : 
+[](base/073/Readme.md) : ## ©vetores L3 - Batida Policial - Ordenando vetores                : 
+[](base/010/Readme.md) : ## ©vetores L3 - Bolinhas viciadas(contagem de repetições)          : 
+[](base/070/Readme.md) : ## ©vetores L3 - Cabeças vão rolar                                  : 
+[](base/086/Readme.md) : ## ©vetores L3 - Coleção de Tazos - Quantos se repetem mais         : 
+[](base/085/Readme.md) : ## ©vetores L3 - Exército - Perto da morte                          : 
+[](base/008/Readme.md) : ## ©vetores L3 - Força Bruta (Gerando próxima combinação)           : 
+[](base/100/Readme.md) : ## ©vetores L3 - Jogando pião na rodinha                            : 
+[](base/079/Readme.md) : ## ©vetores L3 - Jogo do Avesso V2                                  : 
+[](base/081/Readme.md) : ## ©vetores L3 - Loucura de Marquinhos - Decompor um inteiro        : 
+[](base/139/Readme.md) : ## ©vetores L3 - MMC de vários números.                             : 
+[](base/077/Readme.md) : ## ©vetores L3 - Mercantil V3 - Muitas rodadas                      : 
+[](base/162/Readme.md) : ## ©vetores L3 - Mini-Poker - OBI2005                               : 
+[](base/071/Readme.md) : ## ©vetores L3 - Mário e o Assassins Creed - Parkour                : 
+[](base/074/Readme.md) : ## ©vetores L3 - OBI 2017 - Fase 1 - Botas Trocadas                 : 
+[](base/076/Readme.md) : ## ©vetores L3 - OBI 2017 - Fase 1 - O segredo do Cofre             : 
+[](base/088/Readme.md) : ## ©vetores L3 - Se fosse a mediana eu tinha passado!               : 
+[](base/185/Readme.md) : ## ©vetores L3 - Vetor interativo                                   : 
+[](base/069/Readme.md) : ## ©vetores L3 - Zoo quantas especies!                              : 
+[](base/087/Readme.md) : ## ©vetores L3 - Zoologico Entrando na Arca de Noé                  : 
+[](base/084/Readme.md) : ## ©vetores L3 - Zoologico Um animal de cada tipo!                  : 
+[](base/009/Readme.md) : ## ©funcoes L2 - Imprimir vetor formatado                           : 
+[](base/147/Readme.md) : ## ©ponteiros L1 - Duelo                                            : 
+[](base/143/Readme.md) : ## ©ponteiros L1 - Troca de valores de variáveis                    : 
+[](base/144/Readme.md) : ## ©ponteiros L2 - Função que retorna vários valores por referência : 
+[](base/142/Readme.md) : ## ©ponteiros L2 - Vetor de strings com variados tamanhos           : 
+[](base/184/Readme.md) : ## ©ponteiros L3 - Motivando a turma de secundaristas               : 
 [](base/173/Readme.md) : ## ©strings L1 - Eribelton e a Ascologia V1 - Somar Asc             : 
 [](base/092/Readme.md) : ## ©strings L1 - LP da Xura - Inverter String!                      : 
 [](base/104/Readme.md) : ## ©strings L1 - Maiúsculo, Minusculo e Dígito!                     : 
@@ -136,40 +152,24 @@
 [](base/123/Readme.md) : ## ©strings L3 - Sorvete suor casaca chicletes - Letras em Comum!   : 
 [](base/107/Readme.md) : ## ©strings L3 - Valdiskley e a Cifra v3!                           : 
 [](base/105/Readme.md) : ## ©strings L3 - Valdiskley e cifras históricas!                    : 
+[](base/130/Readme.md) : ## ©matrizes L2 - Bingo!                                            : 
+[](base/012/Readme.md) : ## ©matrizes L2 - Deu a louca no Imperador!                         : 
+[](base/134/Readme.md) : ## ©matrizes L2 - Quadrado Mágico                                   : 
+[](base/133/Readme.md) : ## ©matrizes L2 - Soldados em Posição                               : 
+[](base/128/Readme.md) : ## ©matrizes L2 - Soma de elementos de em uma matriz                : 
+[](base/150/Readme.md) : ## ©matrizes L2 - Soma de matrizes                                  : 
+[](base/129/Readme.md) : ## ©matrizes L3 - Campo Minado                                      : 
+[](base/159/Readme.md) : ## ©matrizes L3 - Campo de Minhocas - OBI 2005                      : 
+[](base/135/Readme.md) : ## ©matrizes L3 - Jogo da vida                                      : 
+[](base/131/Readme.md) : ## ©matrizes L3 - Matriz Simétrica                                  : 
+[](base/153/Readme.md) : ## ©matrizes L3 - OBI 2015 - Fase 2 - Nível 1 - Torre               : 
+[](base/154/Readme.md) : ## ©matrizes L3 - OBI 2015 - Fase 2 - Nível Júnior - Código         : 
+[](base/132/Readme.md) : ## ©matrizes L3 - Subdiagonais                                      : 
+[](base/007/Readme.md) : ## ©matrizes L3 - Tetris (Fazendo a peça cair)                      : 
 [](base/148/Readme.md) : ## ©structs L1 - Expressão                                          : 
 [](base/149/Readme.md) : ## ©structs L1 - Operações                                          : 
 [](base/182/Readme.md) : ## ©structs L3 - Mulher mais idosa                                  : 
-[](base/060/Readme.md) : ## ©vetores L1 - Joelison Fernandes - Soma do maior e menor!        : 
-[](base/061/Readme.md) : ## ©vetores L2 - Capoeira invertendo vetor!                         : 
-[](base/078/Readme.md) : ## ©vetores L2 - Jogo do Avesso                                     : 
-[](base/091/Readme.md) : ## ©vetores L2 - MMC                                                : 
-[](base/101/Readme.md) : ## ©vetores L2 - Mostrar mão de cartas                              : ### Imprimir vetor formatado
-[](base/068/Readme.md) : ## ©vetores L2 - Organizando a fila do RU                           : ### Separar Pares e Ímpares
-[](base/090/Readme.md) : ## ©vetores L2 - Primo                                              : 
-[](base/186/Readme.md) : ## ©vetores L2 - Processando uma linha de inteiros                  : 
-[](base/067/Readme.md) : ## ©vetores L2 - Queda de dominós                                   : 
-[](base/072/Readme.md) : ## ©vetores L2 - Soldados Pequenos e Grandes!                       : 
-[](base/075/Readme.md) : ## ©vetores L3 - Abastecimento de água                              : 
-[](base/083/Readme.md) : ## ©vetores L3 - Anfíbios e Batráquios - Está contido               : 
-[](base/082/Readme.md) : ## ©vetores L3 - As unhas de Luiza - Vetor para inteiro             : 
-[](base/080/Readme.md) : ## ©vetores L3 - Baruel Ruel trocando figurinhas!                   : 
-[](base/073/Readme.md) : ## ©vetores L3 - Batida Policial - Ordenando vetores                : 
-[](base/010/Readme.md) : ## ©vetores L3 - Bolinhas viciadas(contagem de repetições)          : 
-[](base/070/Readme.md) : ## ©vetores L3 - Cabeças vão rolar                                  : 
-[](base/086/Readme.md) : ## ©vetores L3 - Coleção de Tazos - Quantos se repetem mais         : 
-[](base/085/Readme.md) : ## ©vetores L3 - Exército - Perto da morte                          : 
-[](base/008/Readme.md) : ## ©vetores L3 - Força Bruta (Gerando próxima combinação)           : 
-[](base/100/Readme.md) : ## ©vetores L3 - Jogando pião na rodinha                            : 
-[](base/079/Readme.md) : ## ©vetores L3 - Jogo do Avesso V2                                  : 
-[](base/081/Readme.md) : ## ©vetores L3 - Loucura de Marquinhos - Decompor um inteiro        : 
-[](base/139/Readme.md) : ## ©vetores L3 - MMC de vários números.                             : 
-[](base/077/Readme.md) : ## ©vetores L3 - Mercantil V3 - Muitas rodadas                      : 
-[](base/162/Readme.md) : ## ©vetores L3 - Mini-Poker - OBI2005                               : 
-[](base/071/Readme.md) : ## ©vetores L3 - Mário e o Assassins Creed - Parkour                : 
-[](base/074/Readme.md) : ## ©vetores L3 - OBI 2017 - Fase 1 - Botas Trocadas                 : 
-[](base/076/Readme.md) : ## ©vetores L3 - OBI 2017 - Fase 1 - O segredo do Cofre             : 
-[](base/088/Readme.md) : ## ©vetores L3 - Se fosse a mediana eu tinha passado!               : 
-[](base/185/Readme.md) : ## ©vetores L3 - Vetor interativo                                   : 
-[](base/069/Readme.md) : ## ©vetores L3 - Zoo quantas especies!                              : 
-[](base/087/Readme.md) : ## ©vetores L3 - Zoologico Entrando na Arca de Noé                  : 
-[](base/084/Readme.md) : ## ©vetores L3 - Zoologico Um animal de cada tipo!                  : 
+[](base/145/Readme.md) : ## ©recursao L2 - Contando caracteres recursivamente                : 
+[](base/141/Readme.md) : ## ©recursao L2 - Números de Fibonacci                              : 
+[](base/140/Readme.md) : ## ©recursao L3 - Contando caracteres recursivamente                : 
+[](base/146/Readme.md) : ## ©recursao L3 - Torres de Hanoi                                   : 

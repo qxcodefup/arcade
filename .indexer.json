@@ -6,7 +6,8 @@
     },
     {
       "action": "board",
-      "file": "board.md"
+      "file": "board.md",
+      "sort_by": "categories"
     },
     {
       "action": "links",
