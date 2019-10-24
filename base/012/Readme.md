@@ -13,14 +13,14 @@ Havia também os condenados à morte, mas estes não podiam se defender — entr
 
 Cyzar O Imperador, certa vez estava cansado dos combate 1x1 e resolveu fazer uma única e gigante batalha,
 ele juntou todos os Gladiadores e Condenados à morte no Coliseu para divertir os seus subordinados.
-Porém, como os Gladiadores podem se defender, eles têm duas vezes mais chances de vitórias, porém poderiam
-perder caso a quantidade de Condenados à morte fosse maior ou melhor posicionada. Às vezes os Gladiadores
-demoram a lutar, então Cyzar fica entediado e decide esquentar ainda mais as coisas, colocando um Leão
+Porém, como os Gladiadores podem se defender, eles têm duas vezes mais chances de vitórias. Eles poderiam
+perder caso a quantidade de Condenados à morte fosse maior ou melhor posicionada. Às vezes, os Gladiadores
+demoram a lutar, então Cyzar fica entediado e decide esquentar ainda mais as coisas colocando um Leão
 na arena!
 
 ## Ação
 
-Usando G para gladiadores, C para Condenados à morte e L para o Lẽao, o usuário preencherá a matriz quadrada.
+Usando G para gladiadores, C para Condenados à morte e L para o Leão, o usuário preencherá a matriz quadrada.
 
 OBS: Como a economia em Roma estava precária, o Cyzar só possuía um Leão, logo só pode haver um L na arena.
 
