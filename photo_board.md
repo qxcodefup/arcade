@@ -6,6 +6,18 @@
 **List** | **Photo Board**
 
 
+## Links
+- [Operações](#operações)
+- [Seleção](#seleção)
+- [Repetição](#repetição)
+- [Vetores](#vetores)
+- [Funções](#funções)
+- [Ponteiros](#ponteiros)
+- [Strings](#strings)
+- [Matrizes](#matrizes)
+- [Structs](#structs)
+- [Recursão](#recursão)
+
 ## Operações
 
 [![](base/.thumb/011/Readme.jpg)](base/011/Readme.md#operacoes-l1---formatando-data)|[![](base/.thumb/000/Readme.jpg)](base/000/Readme.md#operacoes-l1---operações-básicas)|[![](base/.thumb/003/Readme.jpg)](base/003/Readme.md#operacoes-l2---opala-bebedor)|[![](base/.thumb/002/Readme.jpg)](base/002/Readme.md#operacoes-l2---pintando-a-casa)
