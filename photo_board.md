@@ -274,9 +274,9 @@
 
 ## Structs
 
-[![](base/.thumb/148/Readme.jpg)](base/148/Readme.md#structs-l1---expressão)|[![](base/.thumb/149/Readme.jpg)](base/149/Readme.md#structs-l1---operações)|[![](base/.thumb/182/Readme.jpg)](base/182/Readme.md#structs-l3---mulher-mais-idosa)|![](config/empty.png)
+[![](base/.thumb/148/Readme.jpg)](base/148/Readme.md#structs-l1---expressão)|[![](base/.thumb/149/Readme.jpg)](base/149/Readme.md#structs-l1---operações)|[![](config/empty.png)](base/187/Readme.md#structs-l2---jogo-da-cobrinha)|[![](base/.thumb/182/Readme.jpg)](base/182/Readme.md#structs-l3---mulher-mais-idosa)
 -|-|-|-
-@148<br>L1 - Expressão|@149<br>L1 - Operações|@182<br>L3 - Mulher mais idosa| 
+@148<br>L1 - Expressão|@149<br>L1 - Operações|@187<br>L2 - Jogo da cobrinha|@182<br>L3 - Mulher mais idosa
 
 
 

@@ -168,6 +168,7 @@
 [](base/007/Readme.md) : ## ©matrizes L3 - Tetris (Fazendo a peça cair)                      : 
 [](base/148/Readme.md) : ## ©structs L1 - Expressão                                          : 
 [](base/149/Readme.md) : ## ©structs L1 - Operações                                          : 
+[](base/187/Readme.md) : ## ©structs L2 - Jogo da cobrinha                                   : 
 [](base/182/Readme.md) : ## ©structs L3 - Mulher mais idosa                                  : 
 [](base/145/Readme.md) : ## ©recursao L2 - Contando caracteres recursivamente                : 
 [](base/141/Readme.md) : ## ©recursao L2 - Números de Fibonacci                              : 

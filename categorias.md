@@ -214,6 +214,7 @@
 
 - [L1 - Expressão](base/148/Readme.md#structs-l1---expressão)
 - [L1 - Operações](base/149/Readme.md#structs-l1---operações)
+- [L2 - Jogo da cobrinha](base/187/Readme.md#structs-l2---jogo-da-cobrinha)
 - [L3 - Mulher mais idosa](base/182/Readme.md#structs-l3---mulher-mais-idosa)
 
 ## Recursão
