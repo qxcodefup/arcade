@@ -17,6 +17,7 @@
 - [Matrizes](#matrizes)
 - [Structs](#structs)
 - [Recursão](#recursão)
+- [__orphan__](#__orphan__)
 
 ## Operações
 
@@ -223,3 +224,7 @@
 - [L2 - Números de Fibonacci](base/141/Readme.md#recursao-l2---números-de-fibonacci)
 - [L3 - Contando caracteres recursivamente](base/140/Readme.md#recursao-l3---contando-caracteres-recursivamente)
 - [L3 - Torres de Hanoi](base/146/Readme.md#recursao-l3---torres-de-hanoi)
+
+## __orphan__
+
+- [Devolvendo o troco com vetores](base/188/Readme.md#devolvendo-o-troco-com-vetores)

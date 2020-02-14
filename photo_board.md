@@ -17,6 +17,7 @@
 - [Matrizes](#matrizes)
 - [Structs](#structs)
 - [Recursão](#recursão)
+- [__orphan__](#__orphan__)
 
 ## Operações
 
@@ -285,5 +286,13 @@
 [![](base/.thumb/145/Readme.jpg)](base/145/Readme.md#recursao-l2---contando-caracteres-recursivamente)|[![](base/.thumb/141/Readme.jpg)](base/141/Readme.md#recursao-l2---números-de-fibonacci)|[![](base/.thumb/140/Readme.jpg)](base/140/Readme.md#recursao-l3---contando-caracteres-recursivamente)|[![](base/.thumb/146/Readme.jpg)](base/146/Readme.md#recursao-l3---torres-de-hanoi)
 -|-|-|-
 @145<br>L2 - Contando caracteres recursivamente|@141<br>L2 - Números de Fibonacci|@140<br>L3 - Contando caracteres recursivamente|@146<br>L3 - Torres de Hanoi
+
+
+
+## __orphan__
+
+[![](config/empty.png)](base/188/Readme.md#devolvendo-o-troco-com-vetores)|![](config/empty.png)|![](config/empty.png)|![](config/empty.png)
+-|-|-|-
+@188<br>Devolvendo o troco com vetores| | | 
 
 

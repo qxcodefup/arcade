@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Readme</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="devolvendo-o-troco-com-vetores">Devolvendo o troco com vetores</h2>
+<h2 id="section"></h2>
+<p>Você precisa fazer um programa que calcule como dar o troco em dinheiro.</p>
+<p>Utilize todas as opções de pagamento disponíveis no Brasil, entre cédulas e moedas.</p>
+<p>Gere a opção com a menor quantidade de ítens possível.</p>
+<p>Por exemplo: 453 reais e 83 centavos.</p>
+<pre><code>4 de 100.00
+1 de 50.00
+1 de 2.00
+1 de 1.00
+1 de 0.50
+1 de 0.25
+1 de 0.05
+Falta 0.03</code></pre>
+<p>Observação: Não use ifs e elses, faça um vetor de opções de troco.</p>
+<ul>
+<li>Entrada
+<ul>
+<li>Um número float indicando o valor do troco.</li>
+</ul></li>
+<li>Saída
+<ul>
+<li>As notas e moedas que devem ser dadas e se houver valor quebrado inferior a 0.05, informe ao final.</li>
+</ul></li>
+</ul>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+77.00
+========
+1 de 50.00
+1 de 20.00
+1 de 5.00
+2 de 1.00
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+17.39
+========
+1 de 10.00
+1 de 5.00
+1 de 2.00
+1 de 0.25
+1 de 0.10
+Falta 0.04
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+57.01
+========
+1 de 50.00
+1 de 5.00
+1 de 2.00
+Falta 0.01
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+377.76
+========
+3 de 100.00
+1 de 50.00
+1 de 20.00
+1 de 5.00
+1 de 2.00
+1 de 0.50
+1 de 0.25
+Falta 0.01
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+</code></pre>
+</body>
+</html>

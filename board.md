@@ -174,3 +174,4 @@
 [](base/141/Readme.md) : ## ©recursao L2 - Números de Fibonacci                              : 
 [](base/140/Readme.md) : ## ©recursao L3 - Contando caracteres recursivamente                : 
 [](base/146/Readme.md) : ## ©recursao L3 - Torres de Hanoi                                   : 
+[](base/188/Readme.md) : ## Devolvendo o troco com vetores                                   : ##

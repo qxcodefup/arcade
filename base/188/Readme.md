@@ -9,14 +9,16 @@ Gere a opção com a menor quantidade de ítens possível.
 
 Por exemplo: 453 reais e 83 centavos.
 
-4 de 100
-1 de 50
-1 de 2
-1 de 1
+```
+4 de 100.00
+1 de 50.00
+1 de 2.00
+1 de 1.00
 1 de 0.50
 1 de 0.25
 1 de 0.05
-Faltam 0.03
+Falta 0.03
+```
 
 Observação: Não use ifs e elses, faça um vetor de opções de troco.
 
@@ -33,7 +35,15 @@ Observação: Não use ifs e elses, faça um vetor de opções de troco.
 1 de 50.00
 1 de 20.00
 1 de 5.00
-2 de 1.00
+1 de 2.00
+<<<<<<<<
+
+>>>>>>>>
+19.00
+========
+1 de 10.00
+1 de 5.00
+2 de 2.00
 <<<<<<<<
 
 
