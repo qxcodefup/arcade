@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@035 L2 - OBI 2017 - Fase 1 - Drone de Entrega</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="section"><span class="citation" data-cites="035">@035</span></h2>
+<h2 id="seleção-l2---obi-2017---fase-1---drone-de-entrega">©02_seleção L2 - OBI 2017 - Fase 1 - Drone de Entrega</h2>
+<p><img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/035/__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>A loja do Pará, especializada em vendas pela internet, está desenvolvendo drones para entrega de caixas com as compras dos clientes. Cada caixa tem a forma de um paralelepípedo reto retângulo (ou seja, no formato de um tijolo).</p>
+<p>O drone entregará uma caixa de cada vez, e colocará a caixa diretamente dentro da casa do cliente, através de uma janela. Todas as janelas dos clientes têm o formato retangular e estão sempre totalmente abertas. O drone tem um aplicativo de visão computacional que calcula exatamente as dimensões H e L da janela. O drone consegue colocar a caixa através da janela somente quando uma das faces da caixa está paralela à janela, mas consegue virar e rotacionar a caixa antes de passá-la pela janela.</p>
+<p>O aplicativo de controle do drone está quase pronto, mas falta um pequeno detalhe: um programa que, dadas as dimensões da maior janela do cliente e as dimensões da caixa que deve ser entregue, determine se o drone vai ser capaz de entregar a compra (pela janela) ou se a compra terá que ser entregue por meios normais.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>A entrada é composta por cinco linhas, cada uma contendo um número inteiro. A três primeiras linhas contêm os valores A, B, C, indicando as três dimensões da caixa, em centímetros. As duas últimas linhas contêm os valores H e L, indicando a altura e a largura da janela, em centímetros.</li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>Seu programa deve escrever uma única linha, contendo apenas a letra S se a caixa passa pela janela e apenas a letra N em caso contrário.</li>
+</ul>
+<h2 id="restrições">Restrições</h2>
+<ul>
+<li>1 ≤ A, B, C ≤ 100</li>
+<li>1 ≤ H, L ≤ 100</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+30
+50
+80
+80
+60
+========
+S
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+75
+100
+50
+100
+30
+========
+N
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+20
+22
+5
+20
+10
+========
+S
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+</body>
+</html>

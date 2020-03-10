@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@062 L1 - Angulo Cartesiano</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="section"><span class="citation" data-cites="062">@062</span></h2>
+<h2 id="seleção-l1---angulo-cartesiano">©02_seleção L1 - Angulo Cartesiano</h2>
+<h3 id="retirando-loops">Retirando loops</h3>
+<p><img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/062/__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Aline: Ei André, minha vida deu uma volta de 360 graus.<br />
+André: Vai pro colégio não tu? 360 graus volta pro mesmo lugar.<br />
+Aline: Eu sei, é porque eu achei na rua uma carteira sem nenhum documento e cheia de dinheiro na rua.<br />
+André: Então é 180 graus, mulher, tu agora tá estribada.<br />
+Aline: Não, é 360 mesmo, eu levei a carteira pra casa.<br />
+André: E?????<br />
+Aline: Descobri que era do meu pai.</p>
+<h2 id="ação">Ação</h2>
+<p><img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/062/__angulos.png" /></p>
+<p>Nosso sistema de ângulos no plano cartesiano é definido em graus. O ângulo 0 aponta para esquerda, o 90 aponta para cima, o 180 para direita e por aí vai. O 360 graus equivale voltar ao 0.</p>
+<p>Seu objetivo é transformar os ângulos para recolocá-los dentro do cartesiano. O ângulo 361 equivale ao 1. Ângulos negativos equivalem a andar no sentido horário. Por exemplo, -1 equivale ao 359.</p>
+<p>Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano entre 0 e 359.</p>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+0
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+360
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+361
+========
+1
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+722
+========
+2
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+-2
+========
+358
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+-350
+========
+10
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h3 id="help">HELP</h3>
+<p>Observe que recolocar o ângulo dentro da faixa equivale a uma operação de resto da divisão, ou como dizemos em computação, uma operação de módulo. Isso equivale a remover os loops.</p>
+<p>0 % 360 é 0<br />
+360 % 360 é 0<br />
+720 % 360 é 0<br />
+361 % 360 é 1<br />
+730 % 360 é 10</p>
+<p>Se o valor operado é positivo, a operação de módulo é suficiente para consertar. Se o valor é negativo, vamos precisar de uma correção.</p>
+<p>-1 é 359<br />
+-10 é 350<br />
+-350 é 10<br />
+-360 é 0<br />
+-370 é 350<br />
+-380 é 340</p>
+<p>A primeira coisa é recolocar remover as voltas completas, o que equivale a fazer o resto da divisão por 360. Em linguagem C, o valor sairia assim:</p>
+<p>-1 % 360 é -1<br />
+-10 % 360 é -10<br />
+-350 % 360 é -350<br />
+-360 % 360 é 0<br />
+-370 % 360 é -10<br />
+-380 % 360 é -20</p>
+<p>Perceba que nossos números negativos estão entre 0 e - 365. Para consertá-los, basta adicionar 360.</p>
+<p>-1 % 360 + 360 é 359<br />
+-10 % 360 + 360 é 350<br />
+-350 % 360 + 360 é 10<br />
+-360 % 360 é 0<br />
+-370 % 360 + 360 é 350<br />
+-380 % 360 + 360 é 340</p>
+<p>Para generalizar, nosso algoritmo fica assim.</p>
+<p>leia angulo<br />
+angulo = angulo % 360 # para retirar os loops<br />
+se angulo &lt; 0<br />
+angulo = angulo + 360 # para consertar os números negativos</p>
+</body>
+</html>

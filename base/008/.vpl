@@ -1,0 +1,107 @@
+case=00 numerico apenas
+input=4 10
+0179
+9997
+output="9999
+0000
+0001
+0007
+0009
+0010
+0011
+0017
+0019
+0070
+"
+grade reduction=100%
+
+
+case=01 misturado
+input=3 7
+#!1Ap
+!#A
+output="!#p
+!!#
+!!!
+!!1
+!!A
+!!p
+!1#
+"
+grade reduction=100%
+
+
+case=02 numerico invertido
+input=4 10
+0982
+2222
+output="0000
+0009
+0008
+0002
+0090
+0099
+0098
+0092
+0080
+0089
+"
+grade reduction=100%
+
+
+case=03 muitos
+input=6 50
+Zou29@#
+####ou
+output="####o2
+####o9
+####o@
+####o#
+####uZ
+####uo
+####uu
+####u2
+####u9
+####u@
+####u#
+####2Z
+####2o
+####2u
+####22
+####29
+####2@
+####2#
+####9Z
+####9o
+####9u
+####92
+####99
+####9@
+####9#
+####@Z
+####@o
+####@u
+####@2
+####@9
+####@@
+####@#
+#####Z
+#####o
+#####u
+#####2
+#####9
+#####@
+######
+ZZZZZZ
+ZZZZZo
+ZZZZZu
+ZZZZZ2
+ZZZZZ9
+ZZZZZ@
+ZZZZZ#
+ZZZZoZ
+ZZZZoo
+ZZZZou
+ZZZZo2
+"
+grade reduction=100%

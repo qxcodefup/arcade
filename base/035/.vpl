@@ -1,0 +1,75 @@
+case=00
+input=30
+50
+80
+80
+60
+output="S
+"
+grade reduction=100%
+
+
+case=01
+input=75
+100
+50
+100
+30
+output="N
+"
+grade reduction=100%
+
+
+case=02
+input=20
+22
+5
+20
+10
+output="S
+"
+grade reduction=100%
+
+
+case=03
+input=1
+1
+1
+40
+40
+output="S
+"
+grade reduction=100%
+
+
+case=04
+input=80
+80
+80
+10
+10
+output="N
+"
+grade reduction=100%
+
+
+case=05
+input=2
+2
+2
+90
+40
+output="S
+"
+grade reduction=100%
+
+
+case=06
+input=10
+20
+30
+50
+60
+output="S
+"
+grade reduction=100%

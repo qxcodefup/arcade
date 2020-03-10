@@ -1,0 +1,66 @@
+case=00
+input=s
+q
+output="[ ]
+"
+grade reduction=100%
+
+
+case=01
+input=a 4 11 10 12 18
+s
+q
+output="[ 11 10 12 18 ]
+"
+grade reduction=100%
+
+
+case=02
+input=a 4 11 10 12 18
+s
+i 0 13
+s
+q
+output="[ 11 10 12 18 ]
+[ 13 11 10 12 18 ]
+"
+grade reduction=100%
+
+
+case=03
+input=a 4 11 10 12 18
+s
+i 0 13
+s
+i 1 17
+s
+i 5 21
+s
+q
+output="[ 11 10 12 18 ]
+[ 13 11 10 12 18 ]
+[ 13 17 11 10 12 18 ]
+[ 13 17 11 10 12 21 18 ]
+"
+grade reduction=100%
+
+
+case=04
+input=a 5 17 11 10 12 18
+s
+r 0
+s
+r 1
+s
+r 1
+s
+r 0
+s
+q
+output="[ 17 11 10 12 18 ]
+[ 11 10 12 18 ]
+[ 11 12 18 ]
+[ 11 18 ]
+[ 18 ]
+"
+grade reduction=100%

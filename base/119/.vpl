@@ -1,0 +1,30 @@
+case=00
+input=mel
+lema
+output="a
+"
+grade reduction=100%
+
+
+case=01
+input=pegasus
+suspiro
+output="pegapiro
+"
+grade reduction=100%
+
+
+case=02
+input=olho
+ohio
+output="olio
+"
+grade reduction=100%
+
+
+case=03
+input=minhoca
+arvore
+output="minhocrvore
+"
+grade reduction=100%

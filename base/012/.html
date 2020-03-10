@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@012 L2 - Deu a louca no Imperador\!</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="section"><span class="citation" data-cites="012">@012</span></h2>
+<h2 id="matrizes-l2---deu-a-louca-no-imperador">©06_matrizes L2 - Deu a louca no Imperador!</h2>
+<p><img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/012/__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Na Roma antiga era comum existirem arenas para batalhas, uma das mais famosas é o Coliseu. Os gladiadores (pessoas que lutavam na arena) eram, na maioria, escravos, prisioneiros de guerra ou alugados por seus senhores, homens condenados a trabalhos forçados ou jovens livres, de famílias empobrecidas, que abraçavam a profissão em busca de dinheiro e recompensas generosamente distribuídas aos vitoriosos. Havia também os condenados à morte, mas estes não podiam se defender — entravam na arena desarmados.</p>
+<p>Cyzar O Imperador, certa vez estava cansado dos combate 1x1 e resolveu fazer uma única e gigante batalha, ele juntou todos os Gladiadores e Condenados à morte no Coliseu para divertir os seus subordinados. Porém, como os Gladiadores podem se defender, eles têm duas vezes mais chances de vitórias. Eles poderiam perder caso a quantidade de Condenados à morte fosse maior ou melhor posicionada. Às vezes, os Gladiadores demoram a lutar, então Cyzar fica entediado e decide esquentar ainda mais as coisas colocando um Leão na arena!</p>
+<h2 id="ação">Ação</h2>
+<p>Usando G para gladiadores, C para Condenados à morte e L para o Leão, o usuário preencherá a matriz quadrada.</p>
+<p>OBS: Como a economia em Roma estava precária, o Cyzar só possuía um Leão, logo só pode haver um L na arena.</p>
+<p>Regras do cálculo: - G vale por 2 C - Caso C esteja posicionado na diagonal secundária da matriz, ele tem o mesmo valor de um G. - Caso apareça um L, toda a linha será destruída!</p>
+<p>Some todos os G’s e C’s e determine quem é o vencedor.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>1a linha: Número de linhas e colunas da matriz</li>
+<li>linhas seguintes, o conteúdo da matriz com três caracteres apenas
+<ul>
+<li>G para Gladiadores</li>
+<li>C para Condenados a morte</li>
+<li>L para Leão.</li>
+</ul></li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>“Gladiadores” caso G seja maior</li>
+<li>“Condenados a morte” caso C seja maior</li>
+<li>“Ninguém” caso contrário.</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3
+G L G
+C C C
+C G G
+========
+Condenados a morte
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3
+G G C
+C C C
+G C C
+========
+Condenados a morte
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3
+C C G
+C G C
+G C C
+========
+Ninguem
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+</body>
+</html>

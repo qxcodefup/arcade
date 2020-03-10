@@ -1,4 +1,4 @@
-## ©selecao L3 - Rufus e Ordenação!
+## ©02_seleção L3 - Rufus e Ordenação!
 
 
 ![](__capa.jpg)

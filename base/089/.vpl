@@ -1,0 +1,110 @@
+case=00
+input=sponge
+gun
+output="jog1
+"
+grade reduction=100%
+
+
+case=01
+input=air
+scissors
+output="jog2
+"
+grade reduction=100%
+
+
+case=02
+input=gun
+gun
+output="empate
+"
+grade reduction=100%
+
+
+case=03
+input=air
+gun
+output="jog1
+"
+grade reduction=100%
+
+
+case=04
+input=fire
+air
+output="jog2
+"
+grade reduction=100%
+
+
+case=05
+input=water
+human
+output="jog2
+"
+grade reduction=100%
+
+
+case=06
+input=scissors
+paper
+output="jog1
+"
+grade reduction=100%
+
+
+case=07
+input=sponge
+human
+output="jog2
+"
+grade reduction=100%
+
+
+case=08
+input=human
+fire
+output="jog2
+"
+grade reduction=100%
+
+
+case=09
+input=air
+water
+output="jog1
+"
+grade reduction=100%
+
+
+case=10
+input=water
+paper
+output="jog2
+"
+grade reduction=100%
+
+
+case=11
+input=human
+scissors
+output="jog2
+"
+grade reduction=100%
+
+
+case=12
+input=paper
+sponge
+output="jog2
+"
+grade reduction=100%
+
+
+case=13
+input=water
+gun
+output="jog1
+"
+grade reduction=100%

@@ -1,4 +1,4 @@
-## ©repeticao L1 - Somatório V2
+## ©03_repetição L1 - Somatório V2
 
 
 ![](__capa.jpg)

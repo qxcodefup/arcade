@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@077 L3 - Mercantil V3 - Muitas rodadas</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="section"><span class="citation" data-cites="077">@077</span></h2>
+<h2 id="vetores-l3---mercantil-v3---muitas-rodadas">©04_vetores L3 - Mercantil V3 - Muitas rodadas</h2>
+<p><img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/077/__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<h2 id="descrição">Descrição</h2>
+<ul>
+<li>Pedro e João foram no Silvio Santos. Esse problema é diferente da versão V1 do Mercantil.</li>
+<li>Nesse, cada produto tem um valor real que nenhum dos competidores conhece.</li>
+<li>O jogo funciona assim:
+<ul>
+<li>O primeiro competidor chuta um valor.</li>
+<li>O segundo competidor chuta se acha que o valor real é maior ou menor que o valor chutado pelo primeiro competidor.</li>
+<li>O primeiro jogador ganha se ele acertar o chute no valor exato ou se o segundo jogador chutar na direção errada.</li>
+<li>O segundo jogador caso contrário.</li>
+</ul></li>
+<li>O jogo acontecerá em várias rodadas. Ganhará o jogo quem vencer mais rodadas. Acontecerá empate se ambos ganharem a mesma quantidade de rodadas.</li>
+</ul>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>1ª linha: a quantidade de rodadas.<br />
+</li>
+<li>2ª linha: o valor dos produtos de todas as rodadas.</li>
+<li>3ª linha: os chutes do primeiro (float) para todas as rodadas.</li>
+<li>4ª linha: as escolhas do segundo (m para menor, M para maior) para todas as rodadas.</li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>Resultado do jogo (“primeiro” ou “segundo” ou “empate”).</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+1  
+1.0  
+1.0  
+M  
+========
+primeiro
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+2  
+1.0 2.0  
+1.0 2.1  
+m m  
+========
+empate
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;  
+2
+1.0 2.0
+1.0 2.1
+m M
+========
+primeiro
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+2
+1.0 2.0
+1.1 2.1
+m M
+========
+empate
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3
+1.0 2.0 4.0
+1.1 2.1 4.0
+m M m
+========
+primeiro
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3
+1.0 2.0 4.02
+1.1 2.1 4.1
+M m m
+========
+segundo
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+</body>
+</html>

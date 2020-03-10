@@ -1,0 +1,46 @@
+case=00
+input=10
+1
+output="10
+"
+grade reduction=100%
+
+
+case=01
+input=20
+1
+output="16
+"
+grade reduction=100%
+
+
+case=02
+input=200
+10
+output="67
+"
+grade reduction=100%
+
+
+case=03
+input=500
+30
+output="122
+"
+grade reduction=100%
+
+
+case=04
+input=200
+1
+output="60
+"
+grade reduction=100%
+
+
+case=05
+input=500
+100
+output="185
+"
+grade reduction=100%

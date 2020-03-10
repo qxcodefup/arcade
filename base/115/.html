@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@115 L3 - Máquina de Datilografar Quebrada</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="section"><span class="citation" data-cites="115">@115</span></h2>
+<h2 id="strings-l3---máquina-de-datilografar-quebrada">©05_strings L3 - Máquina de Datilografar Quebrada</h2>
+<p><img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/115/__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Durante anos, todos os contratos da Associação de Contratos da Modernolândia (ACM) foram datilografados em uma velha máquina de datilografia.</p>
+<p>Recentemente Sr. Miranda, um dos contadores da ACM, percebeu que a máquina apresentava falha em um, e apenas um, dos dígitos numéricos.<br />
+Mais especificamente, o dígito falho, quando datilografado, não é impresso na folha, como se a tecla correspondente não tivesse sido pressionada.<br />
+Ele percebeu que isso poderia ter alterado os valores numéricos representados nos contratos e, preocupado com a contabilidade, quer saber, a partir dos valores originais negociados nos contratos, que ele mantinha em anotações manuscritas, quais os valores de fato representados nos contratos.</p>
+<p>Por exemplo, se a máquina apresenta falha no dígito 5, o valor 1500 seria datilografado no contrato como 100, pois o 5 não seria impresso.<br />
+Note que o Sr. Miranda quer saber o valor numérico representado no contrato, ou seja, nessa mesma máquina, o número 5000 corresponde ao valor numérico 0, e não 000 (como ele de fato aparece impresso).</p>
+<p>Maratona de Programação da SBC 2010.</p>
+<h2 id="ação">Ação</h2>
+<p>Faça um programa que dado um numero representando a tecla quebrada e o numero negociado inicialmente, imprima o numero representado no contrato.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>A primeira um digito entre 1 e 9 representando a tecla quebrada</li>
+<li>A segunda o número que foi negociado inicialmente, com até 100 dígitos.</li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>Você deve imprimir uma linha contendo um único inteiro V, o valor numérico representado de fato no contrato.</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+5
+5000000
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+5
+5004000
+========
+4000
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3
+123456
+========
+12456
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+9
+99999999991999999
+========
+1
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+7
+777
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h1 id="section-1"></h1>
+</body>
+</html>

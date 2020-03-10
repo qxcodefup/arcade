@@ -1,7 +1,7 @@
-## ©operacoes L1 - Operações básicas
+## ©01_operações L1 - Operações básicas
 ### Imprimindo float formatado
 
-![Imagem](__capa.jpg)
+![](__capa.jpg)
 
 ## Ação
 

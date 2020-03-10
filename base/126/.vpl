@@ -1,0 +1,102 @@
+case=00
+input=Yudi
+Priscilla
+output="As chances do crush te dar bola sao: 20%!
+"
+grade reduction=100%
+
+
+case=01
+input=Shun
+Hyoga
+output="As chances do crush te dar bola sao: 0%!
+"
+grade reduction=100%
+
+
+case=02
+input=Kratos
+Athena
+output="As chances do crush te dar bola sao: 20%!
+"
+grade reduction=100%
+
+
+case=03
+input=Paula
+Paulo
+output="As chances do crush te dar bola sao: 100%!
+"
+grade reduction=100%
+
+
+case=04
+input=Sabrina
+Sheehan
+output="As chances do crush te dar bola sao: 70%!
+"
+grade reduction=100%
+
+
+case=05
+input=Cosette
+Caboclos
+output="As chances do crush te dar bola sao: 40%!
+"
+grade reduction=100%
+
+
+case=06
+input=Ermanoteu
+Helainete
+output="As chances do crush te dar bola sao: 80%!
+"
+grade reduction=100%
+
+
+case=07
+input=Will
+Ana
+output="As chances do crush te dar bola sao: 0%!
+"
+grade reduction=100%
+
+
+case=08
+input=Emerson
+Tamires
+output="As chances do crush te dar bola sao: 80%!
+"
+grade reduction=100%
+
+
+case=09
+input=Eduardo
+Gabriel
+output="As chances do crush te dar bola sao: 20%!
+"
+grade reduction=100%
+
+
+case=10
+input=Zac
+Zyra
+output="As chances do crush te dar bola sao: 40%!
+"
+grade reduction=100%
+
+
+case=11
+input=Talyta
+Thanos
+output="As chances do crush te dar bola sao: 70%!
+"
+grade reduction=100%
+
+
+case=12
+input=Sakura
+Sasuke
+output="As chances do crush te dar bola sao: 100%!
+"
+grade reduction=100%

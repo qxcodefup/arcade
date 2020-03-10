@@ -1,0 +1,43 @@
+case=00
+input=8
+8
+9
+output="aprovado
+"
+grade reduction=100%
+
+
+case=01
+input=8
+2
+9
+output="aprovado na final
+"
+grade reduction=100%
+
+
+case=02
+input=4
+2
+9
+output="reprovado
+"
+grade reduction=100%
+
+
+case=03
+input=4
+8
+3
+output="reprovado na final
+"
+grade reduction=100%
+
+
+case=04
+input=4
+8
+3.99
+output="reprovado na final
+"
+grade reduction=100%

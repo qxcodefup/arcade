@@ -1,4 +1,4 @@
-## ©matrizes L3 - Subdiagonais
+## ©06_matrizes L3 - Subdiagonais
 
 
 ![](__capa.jpg)

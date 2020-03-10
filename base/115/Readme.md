@@ -1,4 +1,4 @@
-## ©strings L3 - Máquina de Datilografar Quebrada
+## ©05_strings L3 - Máquina de Datilografar Quebrada
 
 
 ![](__capa.jpg)

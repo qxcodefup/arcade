@@ -1,0 +1,28 @@
+case=00
+input=4
+aeiou
+axx
+aeiou
+bbaa
+ultron
+ronluo
+ultron
+rrrrrrrrra
+output="pessoa
+pessoa
+chefe
+ultron
+"
+grade reduction=100%
+
+
+case=01
+input=2
+aeiou
+axo
+aeiou
+bba
+output="ultron
+pessoa
+"
+grade reduction=100%

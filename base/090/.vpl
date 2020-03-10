@@ -1,0 +1,40 @@
+case=00
+input=5
+output="1
+"
+grade reduction=100%
+
+
+case=01
+input=21
+output="0
+"
+grade reduction=100%
+
+
+case=02
+input=2
+output="1
+"
+grade reduction=100%
+
+
+case=03
+input=3
+output="1
+"
+grade reduction=100%
+
+
+case=04
+input=4
+output="0
+"
+grade reduction=100%
+
+
+case=05
+input=9
+output="0
+"
+grade reduction=100%

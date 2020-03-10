@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@132 L3 - Subdiagonais</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="section"><span class="citation" data-cites="132">@132</span></h2>
+<h2 id="matrizes-l3---subdiagonais">©06_matrizes L3 - Subdiagonais</h2>
+<p><img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/132/__capa.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>A diagonal principal de uma matriz <strong>A</strong> é a coleção das entradas <strong>A</strong> i,j em que <strong>i</strong> é igual a <strong>j</strong>. A diagonal principal de uma matriz quadrada une o seu canto superior esquerdo ao canto inferior direito e a diagonal secundária une os demais cantos. Por exemplo, na matriz a seguir todos os elementos da diagonal principal são iguais a 1:</p>
+<p><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/03b7d8ebcd29f3c1e9379f6aad400bd89aa8eaa7" /></p>
+<h2 id="ação">Ação</h2>
+<p>Em uma matriz de elementos inteiros 5x5, some todos os elementos da diagonal principal e subtraia da soma dos elementos da diagonal secundária.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>Os valores da matriz.</li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>A soma dos elementos da diagonal principal menos a soma dos elementos da diagonal secundária.</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+1 0 1 1 0
+0 1 1 1 1
+0 0 1 0 0
+1 1 1 0 0
+1 0 1 1 1
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+1 1 0 0 1
+1 1 1 0 0
+1 0 0 1 1
+0 1 1 1 1
+0 0 0 1 1
+========
+2
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+2 4 6 3 9
+8 7 5 4 1
+5 2 6 1 7
+8 4 3 2 5
+9 7 6 5 3
+========
+-12
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+</body>
+</html>

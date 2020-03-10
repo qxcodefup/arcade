@@ -1,0 +1,54 @@
+case=00
+input=11
+output="sim
+"
+grade reduction=100%
+
+
+case=01
+input=110
+output="sim
+"
+grade reduction=100%
+
+
+case=02
+input=123
+output="nao
+"
+grade reduction=100%
+
+
+case=03
+input=1
+output="nao
+"
+grade reduction=100%
+
+
+case=04
+input=121
+output="sim
+"
+grade reduction=100%
+
+
+case=05
+input=120
+output="nao
+"
+grade reduction=100%
+
+
+case=06
+input=12100000000
+output="sim
+"
+grade reduction=100%
+
+
+case=07
+input=12109020000
+output="sim
+"
+grade reduction=100%

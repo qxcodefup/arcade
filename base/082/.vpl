@@ -1,0 +1,90 @@
+case=00
+input=3
+1
+2
+3
+output="123
+"
+grade reduction=100%
+
+
+case=01
+input=4
+3
+4
+5
+1
+output="3451
+"
+grade reduction=100%
+
+
+case=02
+input=2
+1
+2
+output="12
+"
+grade reduction=100%
+
+
+case=03
+input=5
+5
+4
+3
+2
+1
+output="54321
+"
+grade reduction=100%
+
+
+case=04
+input=3
+1
+0
+0
+output="100
+"
+grade reduction=100%
+
+
+case=05
+input=3
+1
+0
+2
+output="102
+"
+grade reduction=100%
+
+
+case=06
+input=3
+0
+0
+0
+output="0
+"
+grade reduction=100%
+
+
+case=07
+input=5
+1
+2
+3
+4
+5
+output="12345
+"
+grade reduction=100%
+
+
+case=08
+input=1
+1
+output="1
+"
+grade reduction=100%

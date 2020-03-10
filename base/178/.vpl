@@ -1,0 +1,38 @@
+case=00
+input=1
+a batata
+output="a BaTaTa
+"
+grade reduction=100%
+
+
+case=01
+input=2
+AAAAAAAA
+bBbBbBbB
+output="AaAaAaAa
+bBbBbBbB
+"
+grade reduction=100%
+
+
+case=02
+input=2
+Morra Prea
+BigODE Aparado
+output="MoRrA pReA
+BiGoDe ApArAdO
+"
+grade reduction=100%
+
+
+case=03
+input=3
+a Morra Prea
+g BigODE Aparado
+abcd ef
+output="a MoRrA pReA
+g BiGoDe ApArAdO
+aBcD eF
+"
+grade reduction=100%

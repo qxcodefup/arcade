@@ -1,4 +1,4 @@
-## ©vetores L2 - Mostrar mão de cartas
+## ©04_vetores L2 - Mostrar mão de cartas
 ### Imprimir vetor formatado
 
 ![](__capa.jpg)
