@@ -8,8 +8,7 @@ int main (){
 	
 	for(i = 0; i < n; i++)
 		scanf("%d", &vet[i]);
-
-		printf("[ ");
+	printf("[ ");
 	for (i = 0; i < n; i++)
 		if (vet[i]%2 == 1)
 			printf("%d ", vet[i]);

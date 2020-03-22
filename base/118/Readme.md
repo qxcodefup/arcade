@@ -28,8 +28,7 @@ Saida: "pessoa ultron chefe pessoa ultron pessoa chefe"
 
 ### Saida
 
-*   uma linha contendo para cada pessoa a saida se ela é "ultron",  
-    "pessoa" ou "chefe"
+*   uma linha contendo para cada pessoa a saida se ela é "ultron", "pessoa" ou "chefe"
 
 ## Exemplos
 

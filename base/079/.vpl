@@ -17,6 +17,15 @@ grade reduction=100%
 
 
 case=02
+input=7 5
+3 4 8 9 1 5 6
+3 4 5 6 9
+output="[-3 -4 8 9 1 -5 -6]
+"
+grade reduction=100%
+
+
+case=03
 input=7 4
 3 4 8 9 1 5 6
 3 4 5 6 9

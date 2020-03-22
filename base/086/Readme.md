@@ -46,7 +46,7 @@ Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos e
 12
 2 2 3 5 5 5 7 7 7 9 9 9
 ========
-5 9 7
+5 7 9
 <<<<<<<<
 ```
 

@@ -25,7 +25,7 @@ grade reduction=100%
 case=03
 input=12
 2 2 3 5 5 5 7 7 7 9 9 9
-output="5 9 7
+output="5 7 9
 "
 grade reduction=100%
 

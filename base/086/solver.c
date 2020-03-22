@@ -27,7 +27,6 @@ int main(){
         count_values[i] = count(vet, qtd, vet[i], i);
 
     int max = vet[0];
-    int indice_maximo = 0;
     for(int i = 0; i < qtd; i++)
         if(count_values[i] > max)
             max = count_values[i];

@@ -51,12 +51,10 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 <<<<<<<<
 
 >>>>>>>>
-7 4
+7 5
 3 4 8 9 1 5 6
 3 4 5 6 9
 ========
-[3 4 8 9 1 5 6]
+[-3 -4 8 9 1 -5 -6]
 <<<<<<<<
 ```
-
-#

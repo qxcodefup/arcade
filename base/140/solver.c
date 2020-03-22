@@ -3,10 +3,12 @@
 int main(){
     char frase[100];
     char letra = '0';
-    scanf("%[^\n] %s", frase, &letra);
+    fgets(frase, sizeof(frase), stdin);
+    scanf(" %c", &letra);
+    frase[strlen(frase)] = '\0';
     int contador = 0;
-    int x = strlen(frase);
-    for(int i = 0; i < x; i++){
+    int size = strlen(frase);
+    for(int i = 0; i < size; i++){
         if(frase[i] == letra){
             contador++;
         }

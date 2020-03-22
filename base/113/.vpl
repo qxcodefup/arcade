@@ -1,8 +1,8 @@
 case=00
 input=e
-output="0
+output="1
 ec
-1
+0
 "
 grade reduction=100%
 
@@ -28,7 +28,7 @@ grade reduction=100%
 case=03
 input=Rufus
 output="33
-Rufuzu
+Rufusu
 0
 "
 grade reduction=100%

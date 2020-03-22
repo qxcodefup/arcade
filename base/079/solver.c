@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void modifica_vetor(int qtd, int size_vet, int gritos[qtd], int vet[size_vet]){
-    for(int a = 0; a < size_vet; a++)
+    for(int a = 0; a < qtd; a++)
         for(int i = 0; i < size_vet; i++)
             if(vet[i] == gritos[a] || -vet[i] == gritos[a]){
                 if(i - 1 >= 0)

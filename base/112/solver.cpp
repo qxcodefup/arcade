@@ -15,7 +15,7 @@ int contar(string str, char letra){
 bool eh_anagrama(string A, string B) {
     if(A.length() != B.length())
         return false;
-    for(int i = 0; i < A.size(); i++){
+    for(int i = 0; i < (int)A.size(); i++){
         char c = A[i];
         if(contar(A, c) != contar(B, c))
             return false;

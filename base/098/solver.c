@@ -1,34 +1,43 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdbool.h>
+
+bool is_vowel(char c){
+    const char * vowels = "aeiou";
+    for(int i = 0; i < 5; i++)
+        if(vowels[i] == c)
+            return true;
+    return false;
+}
+
+void print_best(const char * text){
+    int length = strlen(text);
+    int counter[length];
+    int ind_best = 0;
+    for(int i = 0; i < length; i++){
+        int cont = 0;
+        for(int j = i; j < length; j++){
+            if(is_vowel(text[j]))
+                cont++;
+            else
+                break;
+        }
+        counter[i] = cont;
+        if(counter[i] > counter[ind_best])
+            ind_best = i;
+    }
+    for(int i = ind_best, j = 0; j < counter[ind_best]; j++, i++)
+        printf("%c", text[i]);
+    puts("");
+}
 
 int main(){
     int casos;
     scanf("%d", &casos);
 
     for(int a = 0; a < casos; a++){
-        char valor[50];
-        getchar();
-        scanf("%[^\n]", valor);
-
-        char vogais[50][50];
-        int x, y = 0;
-
-        for(int i = 0; i < strlen(valor); i++){
-            if(valor[i] == 'a' || valor[i] == 'e' || valor[i] == 'i' || valor[i] == 'o' || valor[i] == 'u'){
-                vogais[x][y] = valor[i];
-                y++;
-                continue;
-            }
-            x++;
-            y = 0;
-        }
-
-        char maior[50];
-        strcpy(maior, vogais[0]);
-
-        for(int l = 1; l < x; l++)
-            if(strlen(vogais[l]) > strlen(maior))
-                strcpy(maior, vogais[l]);
-        printf("%s\n", maior);
+        char text[50];
+        scanf("%s", text);
+        print_best(text);
     }
 }

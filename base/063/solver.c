@@ -16,7 +16,7 @@ int main(){
         }
         total += carta;
     }
-    for(int i = total;total > 21 && as > 0;){
+    while (total > 21 && as > 0){
         total -= 10;
         as--;
     }

@@ -56,7 +56,6 @@
 [](base/016/Readme.md) : ## ©03_repetição L2 - Volta de 360 graus (Retirando os loops)
 [](base/047/Readme.md) : ## ©03_repetição L2 - Ônibus lotado
 [](base/051/Readme.md) : ## ©03_repetição L3 - Arremesso de pedra na lua
-[](base/160/Readme.md) : ## ©03_repetição L3 - Bafo - OBI 2005
 [](base/063/Readme.md) : ## ©03_repetição L3 - Blackjack 21!
 [](base/064/Readme.md) : ## ©03_repetição L3 - Conta Dígitos
 [](base/052/Readme.md) : ## ©03_repetição L3 - Hoje tem sopa de coelho?
@@ -92,12 +91,10 @@
 [](base/081/Readme.md) : ## ©04_vetores L3 - Loucura de Marquinhos - Decompor um inteiro
 [](base/139/Readme.md) : ## ©04_vetores L3 - MMC de vários números.
 [](base/077/Readme.md) : ## ©04_vetores L3 - Mercantil V3 - Muitas rodadas
-[](base/162/Readme.md) : ## ©04_vetores L3 - Mini-Poker - OBI2005
 [](base/071/Readme.md) : ## ©04_vetores L3 - Mário e o Assassins Creed - Parkour
 [](base/074/Readme.md) : ## ©04_vetores L3 - OBI 2017 - Fase 1 - Botas Trocadas
 [](base/076/Readme.md) : ## ©04_vetores L3 - OBI 2017 - Fase 1 - O segredo do Cofre
 [](base/088/Readme.md) : ## ©04_vetores L3 - Se fosse a mediana eu tinha passado!
-[](base/185/Readme.md) : ## ©04_vetores L3 - Vetor interativo
 [](base/069/Readme.md) : ## ©04_vetores L3 - Zoo quantas especies!
 [](base/087/Readme.md) : ## ©04_vetores L3 - Zoologico Entrando na Arca de Noé
 [](base/084/Readme.md) : ## ©04_vetores L3 - Zoologico Um animal de cada tipo!

@@ -1,23 +1,26 @@
 #include <stdio.h>
 
-void contar_fardamento_menor(int mat[3][3]){
-
+int contar_fardamento_menor(int nl, int nc, int mat[nl][nc]){
     int cont = 0;
-    for (int i = 0; i < 3; ++i){
-        for (int j = 0; j < 3 - 1; ++j){
-            if(mat[j][i] > mat[j+1][i])
+    for (int l = 0; l < (nl - 1); ++l){
+        for (int c = 0; c < nc; ++c){
+            if(mat[l][c] > mat[l + 1][c]){
                 cont++;
+            }
         }
     }
-    printf("%d\n", cont);
+    return cont;
 }
 
 int main(){
-    int mat[3][3];
+    int nl, nc;
+    scanf("%d %d", &nl, &nc);
+    int mat[nl][nc];
 
-    for(int i=0; i < 3;i++)
-        for(int j=0; j < 3;j++)
-            scanf("%d", &mat[i][j]);
+    for(int l = 0; l < nl; l++)
+        for(int c = 0; c < nc; c++)
+            scanf("%d", &mat[l][c]);
 
-    contar_fardamento_menor(mat);
+    int cont = contar_fardamento_menor(nl, nc, mat);
+    printf("%d\n", cont);
 }

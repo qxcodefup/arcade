@@ -60,5 +60,3 @@ arvore
 minhocrvore
 <<<<<<<<
 ```
-
-#

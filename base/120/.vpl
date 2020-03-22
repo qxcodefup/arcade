@@ -28,7 +28,7 @@ grade reduction=100%
 
 case=04
 input=ab a ba
-output="sim
+output="nao
 "
 grade reduction=100%
 
@@ -42,6 +42,6 @@ grade reduction=100%
 
 case=06
 input=arrocha arregao
-output="sim
+output="nao
 "
 grade reduction=100%

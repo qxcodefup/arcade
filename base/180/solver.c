@@ -39,7 +39,6 @@ int main(){
             }
         }
     }
-    int size = strlen(poderoso);
     if(poderIrom > poderCaptain){
         puts("Team Iron Wins");
     }else if(poderIrom < poderCaptain){

@@ -9,14 +9,14 @@
 
 "A alface do meu pé ta velha"
 
-_\- Que é que tem ela?_  
+\- Que é que tem ela?_  
 \- O que ela tem de legal?  
-_\- Alface cresce no chão e não no pé!_  
+\- Alface cresce no chão e não no pé!_  
 \- Não Manoel, vou dizer outra, pensa mais:
 
 "Amei assistir elefantes ferindo gansos gamados no zoologico"
 
-_\- É muito suspeita! Responde Manoel. Tô desconfiando de você._  
+\- É muito suspeita! Responde Manoel. Tô desconfiando de você._  
 \- Deixa de ser burro Manoel, as palavras tão ordenadas lexicograficamente!
 
 ## Ação
@@ -58,4 +58,3 @@ a b c d a f
 nao
 <<<<<<<<
 ```
-

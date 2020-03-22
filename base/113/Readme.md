@@ -23,9 +23,9 @@ Diferente da versão 2 em que você ou encontrava um nome perfeito ou digitava e
 >>>>>>>>
 e
 ========
-0
-ec
 1
+ec
+0
 <<<<<<<<
 
 >>>>>>>>
@@ -48,7 +48,7 @@ Agaa
 Rufus
 ========
 33
-Rufuzu
+Rufusu
 0
 <<<<<<<<
 
