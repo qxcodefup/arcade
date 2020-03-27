@@ -5,7 +5,7 @@
 
 ## Ação
 
-Faça uma função que receba um vetor e retorne e mmc dos números.  
+Faça uma função que receba um vetor e retorne e mmc dos números.
 
 ### Entrada
 

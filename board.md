@@ -89,7 +89,6 @@
 [](base/100/Readme.md) : ## ©04_vetores L3 - Jogando pião na rodinha
 [](base/079/Readme.md) : ## ©04_vetores L3 - Jogo do Avesso V2
 [](base/081/Readme.md) : ## ©04_vetores L3 - Loucura de Marquinhos - Decompor um inteiro
-[](base/139/Readme.md) : ## ©04_vetores L3 - MMC de vários números.
 [](base/077/Readme.md) : ## ©04_vetores L3 - Mercantil V3 - Muitas rodadas
 [](base/071/Readme.md) : ## ©04_vetores L3 - Mário e o Assassins Creed - Parkour
 [](base/074/Readme.md) : ## ©04_vetores L3 - OBI 2017 - Fase 1 - Botas Trocadas
@@ -163,7 +162,6 @@
 [](base/143/Readme.md) : ## ©08_ponteiros L1 - Troca de valores de variáveis
 [](base/144/Readme.md) : ## ©08_ponteiros L2 - Função que retorna vários valores por referência
 [](base/142/Readme.md) : ## ©08_ponteiros L2 - Vetor de strings com variados tamanhos
-[](base/184/Readme.md) : ## ©08_ponteiros L3 - Motivando a turma de secundaristas
 [](base/145/Readme.md) : ## ©08_recursão L2 - Contando caracteres recursivamente
 [](base/141/Readme.md) : ## ©08_recursão L2 - Números de Fibonacci
 [](base/140/Readme.md) : ## ©08_recursão L3 - Contando caracteres recursivamente

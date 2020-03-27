@@ -113,7 +113,6 @@
 - [@100 L3 - Jogando pião na rodinha](base/100/Readme.md#04_vetores-l3---jogando-pião-na-rodinha)
 - [@079 L3 - Jogo do Avesso V2](base/079/Readme.md#04_vetores-l3---jogo-do-avesso-v2)
 - [@081 L3 - Loucura de Marquinhos - Decompor um inteiro](base/081/Readme.md#04_vetores-l3---loucura-de-marquinhos---decompor-um-inteiro)
-- [@139 L3 - MMC de vários números.](base/139/Readme.md#04_vetores-l3---mmc-de-vários-números)
 - [@077 L3 - Mercantil V3 - Muitas rodadas](base/077/Readme.md#04_vetores-l3---mercantil-v3---muitas-rodadas)
 - [@071 L3 - Mário e o Assassins Creed - Parkour](base/071/Readme.md#04_vetores-l3---mário-e-o-assassins-creed---parkour)
 - [@074 L3 - OBI 2017 - Fase 1 - Botas Trocadas](base/074/Readme.md#04_vetores-l3---obi-2017---fase-1---botas-trocadas)
@@ -199,7 +198,6 @@
 - [@143 L1 - Troca de valores de variáveis](base/143/Readme.md#08_ponteiros-l1---troca-de-valores-de-variáveis)
 - [@144 L2 - Função que retorna vários valores por referência](base/144/Readme.md#08_ponteiros-l2---função-que-retorna-vários-valores-por-referência)
 - [@142 L2 - Vetor de strings com variados tamanhos](base/142/Readme.md#08_ponteiros-l2---vetor-de-strings-com-variados-tamanhos)
-- [@184 L3 - Motivando a turma de secundaristas](base/184/Readme.md#08_ponteiros-l3---motivando-a-turma-de-secundaristas)
 
 ## recursão
 
