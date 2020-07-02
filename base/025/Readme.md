@@ -43,5 +43,18 @@ nao
 ========
 sim
 <<<<<<<<
+
+
+
 ```
+## Dicas
+
+
+Você pode utilizar o operador "%" (lê-se "mod") para verificar se um número é divisível por outro. Lembre-se de verificar se é divisível por ambos os números, ou seja, 3 e 5.
+```
+# Exemplo em C
+// if(10 % 2 == 0)
+//     printf("10 é par");
+```
+
 
