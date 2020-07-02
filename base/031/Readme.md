@@ -16,8 +16,8 @@ se menor que 4 reprovado
   reprovado
 se entre 4 e 7
   leia a final
-  media\_final = (media\_parcial + final)/2
-  se media\_final >= 5
+  mediaFinal = (mediaParcial + final)/2
+  se mediaFinal >= 5
       aprovado
   senao
       reprovado

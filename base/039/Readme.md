@@ -63,3 +63,16 @@ primeiro
 <<<<<<<<
 ```
 
+
+## Ajuda
+
+#### Pseudocódigo
+```
+Leia primeiro (float)
+Leia segundo (char)
+Leia valor (float)
+Se ((primeiro maior que valor) e (segundo igual a "M") OU (primeiro menor que valor) e (segundo igual a "M"))
+Mostre segundo
+Se não 
+Mostre primeiro
+```
