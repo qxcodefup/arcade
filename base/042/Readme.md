@@ -1,41 +1,81 @@
-## ©02_seleção L3 - Rufus e Ordenação!
+## ©02_seleção L3 - Rufus e Par ou Ímpar!
 
 
 ![](__capa.jpg)
 
 ## Motivação
 
-Rufus precisa procriar a especie para passar seus genes valiosos.
-Rufus tem muitos filhinhos e os ama tanto que não consegue compará-los.
-\- Papai, eu sou maior que o Rufus Junior Terceiro não sou?? Perguntou Rufus Júnior Quadragésimo novo. 
-Ajude Rufus com isso. Dados os tamanhos em cm de 3 Rufinhos, informe qual o maior(G) o menor(P) e o do meio(M). Os valores nunca serão iguais.
-\[DS\]
+Rufus(minha tartaruga cibernética) quer entrar no campeonato de par ou impar entre tartarugas.
 
-## Exemplo:
+Implemente o par ou impar no processador de RUFUS para que ele possa participar do campeonato
+mundial de par ou impar e trazer o prêmio pra UFC.
+
+[DS]
+
+### Entrada:
+* linha 1: A opção do jogador1(p para par e i para impar)
+* linha 2: o número de dedos do primeiro jogador
+* linha 3: número de dedos do segundo jogador.
+
+### Saída:
+* "Venceu" se o jogador 1 venceu e "Perdeu" se ele perdeu.
+
+## Exemplos
 
 ```
 >>>>>>>>
-12
-15
-17
+p
+1
+1
 ========
-P M G
+Venceu
 <<<<<<<<
 
 >>>>>>>>
-11
-17
-12
+p
+0
+1
 ========
-P G M
+Perdeu
 <<<<<<<<
 
 >>>>>>>>
-14
-13
-12
+i
+0
+0
 ========
-G M P
+Perdeu
+<<<<<<<<
+
+>>>>>>>>
+i
+1
+0
+========
+Venceu
 <<<<<<<<
 ```
+
+
+## Ajuda
+#### 1º Pseudocódigo
+
+* Ler o sinal do jogador
+* Ler o número dedos do primeiro e do segundo jogador
+* Guarda a soma dos dedos do primeiro mais o segundo
+* Se o sinal for igual a p
+    * Mostre na tela “Venceu” se a soma dos dedos módulo 2 for igual a 0
+    * Se não mostre “Perdeu”
+* Caso o sinal for igual a i
+    * Mostre “Venceu” se a soma dos dedos módulo 2 for diferente de 0
+    * Se não printe “Perdeu”
+
+#### 2º Pseudocódigo
+* Ler o sinal do jogador
+* Ler o número dedos do primeiro e do segundo jogador
+* Guarda a soma dos dedos do primeiro mais o segundo
+* Se o sinal for igual a "p" e o modulo da soma por 2 for igual a 0 
+ou o sinal for igual “i” e o modulo da soma por 2 for igual a 1 mostre na tela "Venceu"
+* Se não
+Mostre na tela "Perdeu"
 
