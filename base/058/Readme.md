@@ -53,4 +53,16 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 0
 <<<<<<<<
 ```
+## Ajuda
+#### Pseudocódigo
+```
+Leia o tamanho do laço(T)
+Leia o menor e o maior 
+Crie um laço que inicie em 0 e adicione 1 enquanto for menor que T
+  Leia auxiliar
+  Se auxiliar for maior que menor e auxiliar menor que maior
+    Adicione +1 ao contador
+Fim do laço
+Mostre contador
+```
 
