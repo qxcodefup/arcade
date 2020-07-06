@@ -56,5 +56,10 @@ N
 ========
 S
 <<<<<<<<
+
 ```
+
+## Dica
+
+Você pode excluir o maior valor do objeto, já que a profundidade da janela não existe, pode-se colocar o maior valor do objeto para ser a profundidade. Depois você pode ordenar os valores da janela e objeto, e comparar eles. Se o maior valor da janela for maior ou igual ao maior valor do objeto e o menor valor da janela for maior que o menor valor do objeto, o drone vai conseguir passar o objeto pela janela. 
 
