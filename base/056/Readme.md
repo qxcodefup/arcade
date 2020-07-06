@@ -45,3 +45,15 @@ Faça um programa que receba cinco valores inteiros e encontre o menor deles.
 <<<<<<<<
 ```
 
+## Ajuda
+#### Pseudocódigo
+```
+Crie menor(int) = 31 
+Crie um laço que inicia em 0 e adiciona mais um enquanto for menor que 5
+  Leia auxiliar
+  Se auxiliar < menor
+    menor = auxiliar
+Fim do laço
+Mostre menor
+```
+note que é dado na questão que o maior numero pocível é 30. Logo 31 sempre vai ser substituido pelo primeiro auxiliar

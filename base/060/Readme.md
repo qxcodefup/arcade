@@ -42,5 +42,17 @@ Escreva um programa onde receba um vetor de tamanho 5 e que de como saída a som
 5
 <<<<<<<<
 ```
-
-
+## Ajuda
+#### Pseudocódigo
+```
+Crie Maior = 0
+Crie Menor = 100
+Inicie um laço em 0 que adiciona +1 enquanto for menor que 5
+  Leia auxiliar
+  Se auxiliar maior que Maior
+    Maior = auxiliar
+  Se auxiliar menor que Menor
+    Menor = auxiliar
+Fim do laço
+Mostre (Maior + Menor)
+```

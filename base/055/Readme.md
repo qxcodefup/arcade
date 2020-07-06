@@ -45,4 +45,17 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 5
 <<<<<<<<
 ```
+## Ajuda
+#### Pseudocódigo
+```
+Leia o numero do utron(X)
+Leia a quatidade do vetor(N)
+Crie um laço que inicia em 0 e continua acrecentando +1 enquanto for menor que N
+  Leia auxiliar
+  Se auxiliar for igual a X
+    Adicione +1 ao contador
+Fim do laço
+Mostre contator
+```
+
 
