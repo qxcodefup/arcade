@@ -55,4 +55,18 @@ invalido
 6
 <<<<<<<<
 ```
-
+## Ajuda
+#### Pseudocódigo
+```
+Leia 'a' e 'b'
+auxiliar = 'a'
+Laço enquanto auxiliar for menor ou igual a 'a'
+  Se auxiliar modulo 2 for igual a 0
+    soma = soma + auxiliar
+  auxiliar mais 1
+Se 'a' > 'b'
+  Mostre "invalido"
+Se não
+  Mostre soma
+```
+#

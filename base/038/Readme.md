@@ -58,5 +58,21 @@ printf("%02d", valor); //c
 
 print'%02d'% valor # python
 ```
-
+#### Pseudocódigo
+```
+Leia hora, minuto e segundo
+Se segundo igual a 59
+  segundo = 00
+  Se minuto igual a 59
+    minuto = 00
+    Se hora igual a 23
+      hora = 00
+    Se não 
+      hora mais 1
+  Se não
+    minuto mais 1
+Se não
+  segundo mais 1
+Mostre hora, minuto e segundo com duas casas
+```
 #
