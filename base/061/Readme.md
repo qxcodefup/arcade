@@ -56,4 +56,17 @@ Faça uma função que ajude o capoeirista a inverter um vetor passado na entrad
 <<<<<<<<
 ```
 
+## Ajuda
+
+#### Pseudocódigo
+```
+Leia N
+Crie um Vetor com o tamanho N
+Laço que leia e guarde todos elementos no vetor
+Mostre "[ " // repare no espaço que vem depois do colchetes
+Laço que inicia i = N - 1 e decrementa 1 enquanto i maior ou igual a 0{
+  Mostre Vetor na posição i e coloque um espaço // esse espaço vai separar os números 
+}
+Mostre "]"
+```
 

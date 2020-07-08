@@ -52,3 +52,24 @@ Imprima todos os números ímpares na ordem em que foram inseridos na primeira l
 <<<<<<<<
 ```
 
+## Ajuda
+
+#### Pseudocódigo
+
+```
+Leia N
+Crie um Vetor de tamanho N
+Laço que leia e guarde todos elementos no Vetor
+Mostre "[ " // coloque o espaço
+Laço que inicia i = 0 e acrecenta 1 enquanto i < N{
+  Se Vetor na posição i modudo 2 for igual a 1
+    Mostre Vetor na posição i com um espaço
+}
+Mostre "]" quebra de linha "[ "
+Laço que inicia i = 0 e acrecenta 1 enquanto i < N{
+  Se Vetor na posição i modudo 2 for igual a 0
+    Mostre Vetor na posição i com um espaço
+}
+Mostre "]"
+```
+Você pode criar uma função para não repetir o laço que muda apenas a condição do if
