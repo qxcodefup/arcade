@@ -54,3 +54,15 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 <<<<<<<<
 ```
 
+## Ajuda
+#### Pseudocódigo
+```
+Declare cont = 0;
+Leia digitoProcurado e numeroContato
+Laço enquanto numeroContato for maior que 0
+  Se( numeroContato % 10 for igual a digitoProcurado)
+    cont++
+  numeroContato = numeroContato / 10;
+fim do laço
+Mostre cont
+```

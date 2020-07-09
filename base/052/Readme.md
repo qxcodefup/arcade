@@ -57,4 +57,18 @@ Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, 
 12586269025
 <<<<<<<<
 ```
-
+## Ajuda
+#### Pseudocódigo
+```
+Leia X
+Crie long int i = 1, j = i, aux = 0
+Se(X igual a 1 ou X igual a 2)
+  Mostre 1
+Se não 
+  Laço que inicia k = 3 e adiciona +1 enquanto K menor ou igual a x{
+    aux igual a i + j;
+    i igual a j;
+    j igual a aux;
+}
+Mostre j
+```

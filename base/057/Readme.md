@@ -68,3 +68,22 @@ rebeldes
 <<<<<<<<
 ```
 
+## Ajuda
+#### Pseudocódigo
+
+```
+Leia tamanho_do_vetor
+Inicie um laço em 0 e continue enquanto for menor que o tamanho_do_vetor adicionando +1{
+  Leia tropa
+  Se (tropa modulo 2 igual a 0)
+    somaPar = somaPar + tropa
+  Senão 
+    somaImpar = somaImpar + tropa
+}
+Se (somaPar maior que somaImpar) 
+  Mostre "rebeldes"
+Se (somaImpar maior que somapar)
+  Mostre "soldados"
+Se (somaPar igual a somaImpar)
+  Mostre "empate"
+```
