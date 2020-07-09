@@ -39,3 +39,31 @@ G M P
 <<<<<<<<
 ```
 
+## Dicas
+Para fazer uma ordenação você pode simplesmente comparar um valor com os outros dois, caso aquele valor seja o maior ou menor(depende de como você quer ordenar), só resta agora comparar os outros 2 que sobraram. 
+
+### Pseudocódigo
+
+```c
+LER A B C;
+SE A < B E A < C
+	SE B < C
+		IMPRIME P M G;
+	SE NÃO 
+		IMPRIME P G M;
+SE NÃO SE B < A E B < C
+	SE A < C
+		IMPRIME M P G;
+	SE NÃO
+		IMPRIME G P M;
+SE NÃO
+	SE A < B
+		IMPRIME M G P;
+	SE NÃO
+		IMPRIME G M P;
+	
+
+```
+
+
+
