@@ -53,19 +53,23 @@ Leia 4 números e imprima o maior valor.
 <<<<<<<<
 ```
 
+## Ajuda
 
+* Ao invés de fazer muitos ifs e elses que tal criar uma variável `maior_valor` que guarda o primeiro valor.
 
-## Dica
-
-Ao invés de fazer muitos ifs e elses que tal criar uma variável `vmaior` que guarda o primeiro valor.
-
+Pseudocódigo
 ```
-vmaior recebe o primeiro valor lido
-se o segundo valor lido for maior que vmaior
-    vmaior recebe segundo
-se o terceiro valor lido for maior que vmaior
-    vmaior recebe terceiro
-...
+Leia primeiro_valor
+Leia segundo_valor
+Leia terceiro_valor
+Leia quarto_valor
+maior_valor = primeiro_valor
 
-```
----
+Se (segundo_valor for maior que maior_valor):
+    maior_valor recebe segundo_valor
+Se (terceiro_valor for maior que maior_valor):
+    maior_valor recebe terceiro_valor
+Se (quarto_valor for maior que maior_valor):
+    maior_valor recebe quarto_valor
+
+Mostrar (maior_valor)

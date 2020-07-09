@@ -59,16 +59,51 @@ nao ha raiz real
 
 ## Ajuda
 
-Para calcular a raiz quadrada você deverá importar a biblioteca math em seu projeto e chamar a função sqrt() passando o valor que você deseja encontrar a raiz. Declare uma variável para armazenar o valor de delta, isso tornará o código mais simples.
-
-Lembre que para compilar manualmente com a biblioteca math você precisa adicionar o -lm ao parâmetro do GCC.
-
-```c
-#include <math.h>
-#include <stdio.h>
-
-int main(){
-    float value = sqrt(...);
-}
+* Para calcular a raiz quadrada você deverá utilizar a função `sqrt`. A função `sqrt` retorna a raiz quadrada do número que for passado por parâmetro. Exemplo:
+  
+```
+sqrt(4) retorna 2    sqrt(5) retorna 2.23607    sqrt(9.0) retorna 3    
 ```
 
+Observação
+
+* Para ser utilizada a função `sqrt`, ela deve ser importada. Segue as formas de importação em algumas linguagens e como utilizar:
+
+``` c
+    #include <math.h> //c
+
+    sqrt(4)  //retorna 2
+```
+``` c++
+    #include <cmath> //c++
+
+    sqrt(4) //retorna 2 
+```
+``` python
+    import math #python
+
+    math.sqrt(4) #retorna 2 
+```
+``` javascript
+    //javascript
+    Math.sqrt(4) //retorna 2 
+```
+
+Pseudocódigo
+```
+Ler valor_a
+Ler valor_b
+Ler valor_c
+
+delta = (valor_b * valor_b) - 4 * valor_a * valor_c
+
+raiz_positiva = (-valor_b + sqrt(delta)) / (2 * valor_a)
+raiz_negativa = (-valor_b - sqrt(delta)) / (2 * valor_a)
+
+Se (delta for maior que 0):
+    Mostrar raiz_positiva e raiz_negativo
+Senao Se (delta for igual a 0):
+    Mostrar raiz_positiva
+Senao:
+    Mostrar "nao ha raiz real"
+```
