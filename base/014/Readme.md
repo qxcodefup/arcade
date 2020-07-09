@@ -46,4 +46,25 @@ Leia três valores do usuário e imprima quantos são iguais.
 <<<<<<<<
 ```
 
+## Ajuda
+
+Pseudocódigo
+```
+Ler primeiro_valor
+Ler segundo_valor
+Ler terceiro_valor
+
+quantidade_iguais recebe 0
+
+Se (primeiro_valor for igual a segundo_valor):
+    quantidade_iguais recebe 2
+Se (primeiro_valor for igual a terceiro_valor):
+    quantidade_iguais recebe 2
+Se (segundo_valor for igual a terceiro_valor):
+    quantidade_iguais recebe 2
+Se (primeiro_valor for igual a segundo_valor e segundo_valor for igual a terceiro_valor):
+    quantidade_iguais recebe 3
+
+Mostrar (quantidade_iquais)
+```
 

@@ -67,3 +67,46 @@ empate
 <<<<<<<<
 ```
 
+## Ajuda
+
+* Ao ser realizado a diferença entre o chute de um jogador e o valor do produto, o resultado pode ser negativo. Para eliminar esse resultado negativo existe a função `abs`.
+* A função `abs` retorna o valor absoluto de um número, ou seja, o valor do número sem sinal.
+
+Observação
+
+* Para ser utilizada a função `abs`, ela deve ser importada. Segue as formas de importação em algumas linguagens e como utilizar:
+
+```c
+    #include <math.h> //c
+
+    abs(-3) //retorna 3
+```
+```c++
+    #include <cmath> //c++
+
+    abs(-3) //retorna 3
+```
+```python
+    #python
+    abs(-3) #retorna 3
+```
+```javascript
+    //javascript 
+    Math.abs(-3) //retorna 3
+```
+
+
+Pseudocódigo
+
+```
+Leia preco
+Leia primeiro_palpite
+Leia segundo_palpite
+
+Se (abs(primeiro_palpite - preco) < abs(segundo_palpite - preco)):
+    Mostre "primeiro"
+Senão Se (abs(primeiro_palpite - preco) > abs(segundo_palpite - preco):
+    Mostre "segundo"
+Senão:
+    Mostre "empate"
+```

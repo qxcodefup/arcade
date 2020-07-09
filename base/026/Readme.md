@@ -46,3 +46,16 @@ nulo
 <<<<<<<<
 ```
 
+### Ajuda
+
+Pseudocódigo
+```
+Ler valor
+
+Se (valor for maior que 0):
+    Mostrar "positivo"
+Senao Se (valor for menor que 0):
+    Mostrar "negativo"
+Senao:
+    Mostrar "nulo"
+```
