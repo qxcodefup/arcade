@@ -56,7 +56,6 @@ Venceu
 <<<<<<<<
 ```
 
-
 ## Ajuda
 #### 1º Pseudocódigo
 

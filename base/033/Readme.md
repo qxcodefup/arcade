@@ -45,3 +45,23 @@ Final com 6.0
 <<<<<<<<
 ```
 
+## Dicas
+
+Você pode deixar as notas 2 e 3 sendo as maiores, basta você verificar se alguma delas é a menor, se for troca com a primeira. Depois você pode somar com a nota do trabalho e dividir pro 3. No final é só verificar se ele foi aprovado ou não.
+
+### Pseudocódigo
+
+```c
+LER A, B, C, T;
+SE B <= A E B<=C
+	B = A;
+SE NAO SE  C<=A E C<=B
+	C = A;
+MEDIA = (B + C + T) / 3;
+SE MEDIA>=7
+	IMPRIME "APROVADO COM $MEDIA";
+ELSE 
+	IMPRIME "FINAL COM $MEDIA";
+```
+
+
