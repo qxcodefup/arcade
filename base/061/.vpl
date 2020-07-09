@@ -1,44 +1,39 @@
-case=00
+case=01
 input=4
 1 2 3 4
 output="[ 4 3 2 1 ]
 "
 grade reduction=100%
 
-
-case=01
+case=02
 input=2
 1 2
 output="[ 2 1 ]
 "
 grade reduction=100%
 
-
-case=02
+case=03
 input=6
 1 2 3 4 5 6
 output="[ 6 5 4 3 2 1 ]
 "
 grade reduction=100%
 
-
-case=03
+case=04
 input=5
 1 2 3 4 5
 output="[ 5 4 3 2 1 ]
 "
 grade reduction=100%
 
-
-case=04
+case=05
 input=6
 1 2 3 4 5 0
 output="[ 0 5 4 3 2 1 ]
 "
 grade reduction=100%
 
-
-case=05
+case=06
 input=5
 1 2 3 5 4
 output="[ 4 5 3 2 1 ]

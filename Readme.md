@@ -56,8 +56,8 @@
 - [@023 L3 - Jokenpo das tartarugas!](base/023/Readme.md#02_seleção-l3---jokenpo-das-tartarugas)
 - [@036 L3 - Morre o do meio](base/036/Readme.md#02_seleção-l3---morre-o-do-meio)
 - [@033 L3 - Professor Bonzinho](base/033/Readme.md#02_seleção-l3---professor-bonzinho)
-- [@042 L3 - Rufus e Ordenação!](base/042/Readme.md#02_seleção-l3---rufus-e-ordenação)
 - [@041 L3 - Rufus e Par ou Ímpar!](base/041/Readme.md#02_seleção-l3---rufus-e-par-ou-ímpar)
+- [@042 L3 - Rufus e Par ou Ímpar!](base/042/Readme.md#02_seleção-l3---rufus-e-par-ou-ímpar)
 - [@001 L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001/Readme.md#02_seleção-l3---sai-fora-bhaskara-cálculo-de-raízes)
 
 ## repetição

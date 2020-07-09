@@ -59,8 +59,22 @@ precisa de ajuste
 ========
 ok
 &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
-<h3 id="dica">Dica</h3>
+<h2 id="ajuda">Ajuda</h2>
+<h4 id="dica">Dica</h4>
 <p>Um vetor <img src="__vetor.jpg" /> está ordenado de forma crescente se <img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/067/__condicao.jpg" />. Para todo elemento na posição <strong>[</strong> <strong>i ] </strong>temos que ele é menor que o elemento na posição posterior** [** <strong>i +1]</strong> . Ou seja, caso um elemento na posição <strong>[ i ]</strong> seja maior que seu vizinho da frente ( posição <strong>[</strong> <strong>i +1]</strong> ) o vetor não é ordenado.</p>
+<h4 id="pseudocódigo">Pseudocódigo</h4>
+<pre><code>crie bool Ordenado = true
+Leia N
+Crie um vetor Dominós de tamanho N
+Laço que leia e guarde no vetor todos elementos
+Laço que inicia i = 1 e adiciona 1 enquanto i menor que N{
+  Se Dominós na posição i menor que Dominós na posição i - 1
+    ordenado = false
+}
+Se (Ordenado) 
+  Mostre &quot;ok&quot;
+Se não
+  Mostre &quot;precisa de ajuste&quot;</code></pre>
 <h1 id="section-1"></h1>
 </body>
 </html>

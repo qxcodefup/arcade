@@ -1,4 +1,4 @@
-case=00
+case=
 input=30
 50
 80
@@ -8,8 +8,7 @@ output="S
 "
 grade reduction=100%
 
-
-case=01
+case=
 input=75
 100
 50
@@ -19,8 +18,7 @@ output="N
 "
 grade reduction=100%
 
-
-case=02
+case=
 input=20
 22
 5
@@ -30,8 +28,7 @@ output="S
 "
 grade reduction=100%
 
-
-case=03
+case=04
 input=1
 1
 1
@@ -41,8 +38,7 @@ output="S
 "
 grade reduction=100%
 
-
-case=04
+case=05
 input=80
 80
 80
@@ -52,8 +48,7 @@ output="N
 "
 grade reduction=100%
 
-
-case=05
+case=06
 input=2
 2
 2
@@ -63,8 +58,7 @@ output="S
 "
 grade reduction=100%
 
-
-case=06
+case=07
 input=10
 20
 30

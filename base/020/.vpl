@@ -1,4 +1,4 @@
-case=00
+case=
 input=1
 1
 1
@@ -6,8 +6,7 @@ output="empate
 "
 grade reduction=100%
 
-
-case=01
+case=
 input=0
 0
 1
@@ -15,8 +14,7 @@ output="jog3
 "
 grade reduction=100%
 
-
-case=02
+case=
 input=1
 0
 0
@@ -24,8 +22,7 @@ output="jog1
 "
 grade reduction=100%
 
-
-case=03
+case=
 input=1
 0
 1
@@ -33,8 +30,7 @@ output="jog2
 "
 grade reduction=100%
 
-
-case=04
+case=05
 input=
 1
 1
@@ -43,8 +39,7 @@ output="empate
 "
 grade reduction=100%
 
-
-case=05
+case=06
 input=
 1
 0
@@ -53,8 +48,7 @@ output="jog1
 "
 grade reduction=100%
 
-
-case=06
+case=07
 input=
 1
 0
@@ -63,8 +57,7 @@ output="jog2
 "
 grade reduction=100%
 
-
-case=07
+case=08
 input=
 1
 1
@@ -72,29 +65,26 @@ input=
 output="jog3
 "
 grade reduction=100%
-
-
-case=08
-input=
-0
-1
-0
-output="jog2
-"
-grade reduction=100%
-
 
 case=09
 input=
 0
 1
+0
+output="jog2
+"
+grade reduction=100%
+
+case=10
+input=
+0
+1
 1
 output="jog1
 "
 grade reduction=100%
 
-
-case=10
+case=11
 input=
 0
 0
@@ -103,8 +93,7 @@ output="jog3
 "
 grade reduction=100%
 
-
-case=11
+case=12
 input=
 0
 0

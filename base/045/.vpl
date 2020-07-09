@@ -1,52 +1,46 @@
-case=00
+case=
 input=1
 10
 output="30
 "
 grade reduction=100%
 
-
-case=01
+case=
 input=1
 5
 output="6
 "
 grade reduction=100%
 
-
-case=02
+case=
 input=5
 1
 output="invalido
 "
 grade reduction=100%
 
-
-case=03
+case=
 input=6
 6
 output="6
 "
 grade reduction=100%
 
-
-case=04
+case=05
 input=10
 20
 output="90
 "
 grade reduction=100%
 
-
-case=05
+case=06
 input=1
 7
 output="12
 "
 grade reduction=100%
 
-
-case=06
+case=07
 input=8
 8
 output="8

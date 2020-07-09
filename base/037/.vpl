@@ -1,92 +1,81 @@
-case=00
+case=
 input=1
 0
 output="Jogador 2
 "
 grade reduction=100%
 
-
-case=01
+case=
 input=5
 9
 output="Jogador 1
 "
 grade reduction=100%
 
-
-case=02
+case=
 input=0
 0
 output="Empate
 "
 grade reduction=100%
 
-
-case=03
+case=04
 input=13
 1
 output="Jogador 1
 "
 grade reduction=100%
 
-
-case=04
+case=05
 input=12
 10
 output="Jogador 2
 "
 grade reduction=100%
 
-
-case=05
+case=06
 input=8
 10
 output="Jogador 1
 "
 grade reduction=100%
 
-
-case=06
+case=07
 input=1
 12
 output="Jogador 2
 "
 grade reduction=100%
 
-
-case=07
+case=08
 input=9
 1
 output="Jogador 1
 "
 grade reduction=100%
 
-
-case=08
+case=09
 input=2
 7
 output="Jogador 1
 "
 grade reduction=100%
 
-
-case=09
+case=10
 input=5
 4
 output="Jogador 2
 "
 grade reduction=100%
 
-
-case=10
+case=11
 input=8
 1
 output="Jogador 2
 "
 grade reduction=100%
 
-
-case=11
+case=12
 input=0
 6
 output="Jogador 1

@@ -1,65 +1,57 @@
-case=00
+case=
 input=900.00
 output="1080.00
 "
 grade reduction=100%
 
-
-case=01
+case=
 input=1500.00
 output="1725.00
 "
 grade reduction=100%
 
-
-case=02
+case=
 input=2005.20
 output="2105.46
 "
 grade reduction=100%
 
-
-case=03
+case=04
 input=
 500.00
 output="600.00
 "
 grade reduction=100%
 
-
-case=04
+case=05
 input=
 1000.00
 output="1200.00
 "
 grade reduction=100%
 
-
-case=05
+case=06
 input=
 1001.00
 output="1151.15
 "
 grade reduction=100%
 
-
-case=06
+case=07
 input=
 1500.00
 output="1725.00
 "
 grade reduction=100%
 
-
-case=07
+case=08
 input=
 2000.00
 output="2200.00
 "
 grade reduction=100%
 
-
-case=08
+case=09
 input=
 3007.21
 output="3157.57

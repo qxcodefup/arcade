@@ -1,4 +1,4 @@
-case=00
+case=
 input=3
 3
 2
@@ -7,8 +7,7 @@ output="3
 "
 grade reduction=100%
 
-
-case=01
+case=
 input=5
 1
 8
@@ -17,8 +16,7 @@ output="8
 "
 grade reduction=100%
 
-
-case=02
+case=03
 input=
 5
 9
@@ -28,8 +26,7 @@ output="26
 "
 grade reduction=100%
 
-
-case=03
+case=04
 input=
 14
 65
@@ -39,8 +36,7 @@ output="84
 "
 grade reduction=100%
 
-
-case=04
+case=05
 input=
 9
 8
@@ -50,8 +46,7 @@ output="9
 "
 grade reduction=100%
 
-
-case=05
+case=06
 input=
 1
 1

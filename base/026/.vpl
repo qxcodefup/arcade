@@ -1,39 +1,34 @@
-case=00
+case=
 input=5
 output="positivo
 "
 grade reduction=100%
 
-
-case=01
+case=
 input=-1
 output="negativo
 "
 grade reduction=100%
 
-
-case=02
+case=
 input=0
 output="nulo
 "
 grade reduction=100%
 
-
-case=03
+case=04
 input=4
 output="positivo
 "
 grade reduction=100%
 
-
-case=04
+case=05
 input=-5
 output="negativo
 "
 grade reduction=100%
 
-
-case=05
+case=06
 input=-11
 output="negativo
 "

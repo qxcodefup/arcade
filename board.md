@@ -38,8 +38,8 @@
 [](base/023/Readme.md) : ## ©02_seleção L3 - Jokenpo das tartarugas!
 [](base/036/Readme.md) : ## ©02_seleção L3 - Morre o do meio
 [](base/033/Readme.md) : ## ©02_seleção L3 - Professor Bonzinho
-[](base/042/Readme.md) : ## ©02_seleção L3 - Rufus e Ordenação!
 [](base/041/Readme.md) : ## ©02_seleção L3 - Rufus e Par ou Ímpar!
+[](base/042/Readme.md) : ## ©02_seleção L3 - Rufus e Par ou Ímpar!
 [](base/001/Readme.md) : ## ©02_seleção L3 - Sai fora Bhaskara (Cálculo de raízes)
 [](base/056/Readme.md) : ## ©03_repetição L1 - Calça Zeze de Camargo - Mínimo
 [](base/013/Readme.md) : ## ©03_repetição L1 - Dividindo pares de sapatos pra três

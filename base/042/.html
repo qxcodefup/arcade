@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>@042 L3 - Rufus e Ordenação\!</title>
+  <title>@042 L3 - Rufus e Par ou Ímpar\!</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -19,33 +19,78 @@
 </head>
 <body>
 <h2 id="section"><span class="citation" data-cites="042">@042</span></h2>
-<h2 id="seleção-l3---rufus-e-ordenação">©02_seleção L3 - Rufus e Ordenação!</h2>
+<h2 id="seleção-l3---rufus-e-par-ou-ímpar">©02_seleção L3 - Rufus e Par ou Ímpar!</h2>
 <p><img src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/042/__capa.jpg" /></p>
 <h2 id="motivação">Motivação</h2>
-<p>Rufus precisa procriar a especie para passar seus genes valiosos. Rufus tem muitos filhinhos e os ama tanto que não consegue compará-los. - Papai, eu sou maior que o Rufus Junior Terceiro não sou?? Perguntou Rufus Júnior Quadragésimo novo.  Ajude Rufus com isso. Dados os tamanhos em cm de 3 Rufinhos, informe qual o maior(G) o menor(P) e o do meio(M). Os valores nunca serão iguais. [DS]</p>
-<h2 id="exemplo">Exemplo:</h2>
+<p>Rufus(minha tartaruga cibernética) quer entrar no campeonato de par ou impar entre tartarugas.</p>
+<p>Implemente o par ou impar no processador de RUFUS para que ele possa participar do campeonato mundial de par ou impar e trazer o prêmio pra UFC.</p>
+<p>[DS]</p>
+<h3 id="entrada">Entrada:</h3>
+<ul>
+<li>linha 1: A opção do jogador1(p para par e i para impar)</li>
+<li>linha 2: o número de dedos do primeiro jogador</li>
+<li>linha 3: número de dedos do segundo jogador.</li>
+</ul>
+<h3 id="saída">Saída:</h3>
+<ul>
+<li>“Venceu” se o jogador 1 venceu e “Perdeu” se ele perdeu.</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
 <pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
-12
-15
-17
+p
+1
+1
 ========
-P M G
+Venceu
 &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
 
 &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
-11
-17
-12
+p
+0
+1
 ========
-P G M
+Perdeu
 &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
 
 &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
-14
-13
-12
+i
+0
+0
 ========
-G M P
+Perdeu
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+i
+1
+0
+========
+Venceu
 &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h2 id="ajuda">Ajuda</h2>
+<h4 id="º-pseudocódigo">1º Pseudocódigo</h4>
+<ul>
+<li>Ler o sinal do jogador</li>
+<li>Ler o número dedos do primeiro e do segundo jogador</li>
+<li>Guarda a soma dos dedos do primeiro mais o segundo</li>
+<li>Se o sinal for igual a p
+<ul>
+<li>Mostre na tela “Venceu” se a soma dos dedos módulo 2 for igual a 0</li>
+<li>Se não mostre “Perdeu”</li>
+</ul></li>
+<li>Caso o sinal for igual a i
+<ul>
+<li>Mostre “Venceu” se a soma dos dedos módulo 2 for diferente de 0</li>
+<li>Se não printe “Perdeu”</li>
+</ul></li>
+</ul>
+<h4 id="º-pseudocódigo-1">2º Pseudocódigo</h4>
+<ul>
+<li>Ler o sinal do jogador</li>
+<li>Ler o número dedos do primeiro e do segundo jogador</li>
+<li>Guarda a soma dos dedos do primeiro mais o segundo</li>
+<li>Se o sinal for igual a “p” e o modulo da soma por 2 for igual a 0 ou o sinal for igual “i” e o modulo da soma por 2 for igual a 1 mostre na tela “Venceu”</li>
+<li>Se não Mostre na tela “Perdeu”</li>
+</ul>
 </body>
 </html>

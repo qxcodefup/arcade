@@ -1,4 +1,4 @@
-case=00 duas raízes
+case=duas raízes
 input=5.4
 25.0
 -12.0
@@ -7,8 +7,7 @@ output="0.44
 "
 grade reduction=100%
 
-
-case=01 duas raízes
+case=duas raízes
 input=3.0
 -7.0
 4.0
@@ -17,8 +16,7 @@ output="1.33
 "
 grade reduction=100%
 
-
-case=02 uma raiz
+case=uma raiz
 input=9.0
 -12.0
 4.0
@@ -26,8 +24,7 @@ output="0.67
 "
 grade reduction=100%
 
-
-case=03 sem raízes
+case=sem raízes
 input=5.0
 3.0
 5.0
@@ -35,8 +32,7 @@ output="nao ha raiz real
 "
 grade reduction=100%
 
-
-case=04
+case=05
 input=1.0
 -1.0
 -20.0
@@ -45,8 +41,7 @@ output="5.00
 "
 grade reduction=100%
 
-
-case=05
+case=06
 input=2.00
 0.00
 0.00
@@ -54,8 +49,7 @@ output="0.00
 "
 grade reduction=100%
 
-
-case=06
+case=07
 input=5.3
 3.4
 19.2

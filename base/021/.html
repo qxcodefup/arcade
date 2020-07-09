@@ -99,9 +99,9 @@
 </ul>
 <h2 id="ajuda">Ajuda</h2>
 <p>Se a variável total guarda o salário final, em python você pode forçar a saída a ter apenas duas casas decimais usando</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="bu">print</span>(<span class="st">&quot;</span><span class="sc">%.2f</span><span class="st">&quot;</span> <span class="op">%</span> total)</span></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="bu">print</span>(<span class="st">&quot;</span><span class="sc">%.2f</span><span class="st">&quot;</span> <span class="op">%</span> total)</span></code></pre></div>
 <p>e em C e C++ você faria:</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode c"><code class="sourceCode c"><span id="cb2-1"><a href="#cb2-1"></a>printf(<span class="st">&quot;%.2f&quot;</span>, total);</span></code></pre></div>
+<div class="sourceCode" id="cb2"><pre class="sourceCode c"><code class="sourceCode c"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true"></a>printf(<span class="st">&quot;%.2f&quot;</span>, total);</span></code></pre></div>
 <h2 id="exemplos">Exemplos</h2>
 <pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
 900.00
@@ -120,5 +120,19 @@
 ========
 2105.46
 &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h2 id="ajuda-1">Ajuda</h2>
+<h4 id="pseudocódigo">Pseudocódigo</h4>
+<pre><code>  Leia saladio(float)
+  Crie novoSalario(float)
+  Se salario menor ou igual a 1000
+  novoSalario = salario * 1.20
+  Senão se salario menor ou igual a 1500
+  novoSalerio = salario * 1.15
+  Senão se salario menor ou igual a 2000
+  novoSalerio = salario * 1.10
+  Senão novoSalerio = salario * 1.05
+  
+  Mostre novoSalario com 2 casas</code></pre>
+<h4 id="em-c-se-usa-.2f-para-printar-com-2-casas">em C se usa %.2f para printar com 2 casas</h4>
 </body>
 </html>

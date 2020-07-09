@@ -132,13 +132,40 @@
 nao ha raiz real
 &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
 <h2 id="ajuda">Ajuda</h2>
-<p>Para calcular a raiz quadrada você deverá importar a biblioteca math em seu projeto e chamar a função sqrt() passando o valor que você deseja encontrar a raiz. Declare uma variável para armazenar o valor de delta, isso tornará o código mais simples.</p>
-<p>Lembre que para compilar manualmente com a biblioteca math você precisa adicionar o -lm ao parâmetro do GCC.</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode c"><code class="sourceCode c"><span id="cb2-1"><a href="#cb2-1"></a><span class="pp">#include </span><span class="im">&lt;math.h&gt;</span></span>
-<span id="cb2-2"><a href="#cb2-2"></a><span class="pp">#include </span><span class="im">&lt;stdio.h&gt;</span></span>
-<span id="cb2-3"><a href="#cb2-3"></a></span>
-<span id="cb2-4"><a href="#cb2-4"></a><span class="dt">int</span> main(){</span>
-<span id="cb2-5"><a href="#cb2-5"></a>    <span class="dt">float</span> value = sqrt(...);</span>
-<span id="cb2-6"><a href="#cb2-6"></a>}</span></code></pre></div>
+<ul>
+<li>Para calcular a raiz quadrada você deverá utilizar a função <code>sqrt</code>. A função <code>sqrt</code> retorna a raiz quadrada do número que for passado por parâmetro. Exemplo:</li>
+</ul>
+<pre><code>sqrt(4) retorna 2    sqrt(5) retorna 2.23607    sqrt(9.0) retorna 3    </code></pre>
+<p>Observação</p>
+<ul>
+<li>Para ser utilizada a função <code>sqrt</code>, ela deve ser importada. Segue as formas de importação em algumas linguagens e como utilizar:</li>
+</ul>
+<div class="sourceCode" id="cb3"><pre class="sourceCode c"><code class="sourceCode c"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true"></a>    <span class="pp">#include </span><span class="im">&lt;math.h&gt;</span><span class="pp"> </span><span class="co">//c</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true"></a></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true"></a>    sqrt(<span class="dv">4</span>)  <span class="co">//retorna 2</span></span></code></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true"></a>    <span class="pp">#include </span><span class="im">&lt;cmath&gt;</span><span class="pp"> </span><span class="co">//c++</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true"></a></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true"></a>    sqrt(<span class="dv">4</span>) <span class="co">//retorna 2 </span></span></code></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true"></a>    <span class="im">import</span> math <span class="co">#python</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true"></a></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true"></a>    math.sqrt(<span class="dv">4</span>) <span class="co">#retorna 2 </span></span></code></pre></div>
+<div class="sourceCode" id="cb6"><pre class="sourceCode javascript"><code class="sourceCode javascript"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true"></a>    <span class="co">//javascript</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true"></a>    <span class="bu">Math</span><span class="op">.</span><span class="fu">sqrt</span>(<span class="dv">4</span>) <span class="co">//retorna 2 </span></span></code></pre></div>
+<p>Pseudocódigo</p>
+<pre><code>Ler valor_a
+Ler valor_b
+Ler valor_c
+
+delta = (valor_b * valor_b) - 4 * valor_a * valor_c
+
+raiz_positiva = (-valor_b + sqrt(delta)) / (2 * valor_a)
+raiz_negativa = (-valor_b - sqrt(delta)) / (2 * valor_a)
+
+Se (delta for maior que 0):
+    Mostrar raiz_positiva e raiz_negativo
+Senao Se (delta for igual a 0):
+    Mostrar raiz_positiva
+Senao:
+    Mostrar &quot;nao ha raiz real&quot;</code></pre>
 </body>
 </html>

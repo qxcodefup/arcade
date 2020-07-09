@@ -1,4 +1,4 @@
-case=00
+case=
 input=2
 12
 20
@@ -6,8 +6,7 @@ output="NAO
 "
 grade reduction=100%
 
-
-case=01
+case=
 input=1
 05
 02
@@ -15,8 +14,7 @@ output="NAO
 "
 grade reduction=100%
 
-
-case=02
+case=
 input=3
 19
 19
@@ -24,8 +22,7 @@ output="NAO
 "
 grade reduction=100%
 
-
-case=03
+case=04
 input=2
 11 
 20
@@ -33,8 +30,7 @@ output="SIM
 "
 grade reduction=100%
 
-
-case=04
+case=05
 input=1
 05 
 02
@@ -42,8 +38,7 @@ output="NAO
 "
 grade reduction=100%
 
-
-case=05
+case=06
 input=3
 19 
 19
@@ -51,8 +46,7 @@ output="NAO
 "
 grade reduction=100%
 
-
-case=06
+case=07
 input=6
 15
 19
@@ -60,8 +54,7 @@ output="SIM
 "
 grade reduction=100%
 
-
-case=07
+case=08
 input=4
 12
 00
@@ -69,8 +62,7 @@ output="NAO
 "
 grade reduction=100%
 
-
-case=08
+case=09
 input=5
 11
 59
@@ -78,8 +70,7 @@ output="SIM
 "
 grade reduction=100%
 
-
-case=09
+case=10
 input=5
 14
 00
@@ -87,8 +78,7 @@ output="SIM
 "
 grade reduction=100%
 
-
-case=10
+case=11
 input=5
 08
 00
@@ -96,8 +86,7 @@ output="SIM
 "
 grade reduction=100%
 
-
-case=11
+case=12
 input=7
 08
 00
@@ -105,8 +94,7 @@ output="SIM
 "
 grade reduction=100%
 
-
-case=12
+case=13
 input=7
 16
 00

@@ -1,60 +1,53 @@
-case=00
+case=
 input=5
 10
 output="sim
 "
 grade reduction=100%
 
-
-case=01
+case=
 input=3
 10
 output="nao
 "
 grade reduction=100%
 
-
-case=02
+case=
 input=6
 9
 output="sim
 "
 grade reduction=100%
 
-
-case=03
+case=04
 input=5
 0
 output="sim
 "
 grade reduction=100%
 
-
-case=04
+case=05
 input=0
 3
 output="sim
 "
 grade reduction=100%
 
-
-case=05
+case=06
 input=5
 9
 output="nao
 "
 grade reduction=100%
 
-
-case=06
+case=07
 input=10
 9
 output="nao
 "
 grade reduction=100%
 
-
-case=07
+case=08
 input=15
 45
 output="sim

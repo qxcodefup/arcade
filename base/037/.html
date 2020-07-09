@@ -56,5 +56,24 @@ Jogador 1
 ========
 Empate
 &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h2 id="ajuda">Ajuda</h2>
+<p>Para realizar a questão, é necessário utilizar o operador <code>%</code> . O operador <code>%</code> (lê-se mod) retorna o resto da divisão de um número por outro. Por exemplo:</p>
+<pre><code>4 % 2 retorna 0, pois o resto da divisão de 4 por 2 é 0.
+
+4 % 3 retorna 1, pois o resto da divisão de 4 por 3 é 1.
+
+-5 % 3 retorna -2, pois o resto da divisão de -5 por 3 é -2.</code></pre>
+<p>Dica</p>
+<pre><code>O resultado da diferença entre os dois jogadores pode ser negativo, então é somado 15(numéro máximo do jogo) para que se torne positivo.</code></pre>
+<p>Pseudocódigo</p>
+<pre><code>Ler primeiro_jogador
+Ler segundo_jogador
+
+Se (primeiro_jogador for igual a segundo_jogador):
+    Mostrar &quot;Empate&quot;
+Senao Se ((segundo_jogador - primeiro_jogador + 15) % 15) &lt;= 7:
+    Mostrar &quot;Jogador 1&quot;
+Senao:
+    Mostrar &quot;Jogador 2&quot;</code></pre>
 </body>
 </html>

@@ -1,4 +1,4 @@
-case=00
+case=
 input=a
 c
 d
@@ -7,8 +7,7 @@ output="Ja ouviu falar
 "
 grade reduction=100%
 
-
-case=01
+case=
 input=d
 a
 c
@@ -17,8 +16,7 @@ output="Super Fa
 "
 grade reduction=100%
 
-
-case=02
+case=03
 input=b
 b
 b
@@ -27,8 +25,7 @@ output="Nunca assistiu
 "
 grade reduction=100%
 
-
-case=03
+case=04
 input=d
 b
 b
@@ -37,8 +34,7 @@ output="Ja ouviu falar
 "
 grade reduction=100%
 
-
-case=04
+case=05
 input=d
 b
 b
@@ -47,8 +43,7 @@ output="Interessado no assunto
 "
 grade reduction=100%
 
-
-case=05
+case=06
 input=d
 b
 c
