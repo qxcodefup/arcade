@@ -97,4 +97,29 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 <<<<<<<<
 ```
 
+### Pseudocódigo
+
+```
+CRIE A, N, G
+LER A
+ENQUANTO I MENOR A
+	LEIA N G
+	CRIE VETOR VET DE TAMANHO N
+	PREENCHER VET
+	ENQUANTO J MENOR N
+		SE VET[J] == G OU VET[J] == G * (-1)
+			SE J == 0
+				VET[J+1] = VET[J+1] * (-1)
+			SE NÃO SE J == N - 1
+				VET[J-1] = VET[J-1] * (-1)
+			SE NÃO
+				VET[J-1] = VET[J-1] * (-1)
+				VET[J+1] = VET[J+1] * (-1)
+
+	IMPRIMIR VET ATÉ POSIÇÃO N
+```
+
+
+
+
 #

@@ -58,3 +58,24 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 [-3 -4 8 9 1 -5 -6]
 <<<<<<<<
 ```
+
+###Pseudocódigo 
+
+```
+LEIA N M
+CRIE VET1 DE TAMANHO N
+PREENCHA VET1 
+ENQUANTO I MENOR M; I++
+	LEIA A
+	ENQUANTO J < N; J++
+		SE A == VET1[J] OU A == VET1[J] * (-1)
+			SE J == 0
+				VET1[J+1] = VET1[J+1] * (-1)
+			SE NÃO SE J == N-1
+				VET1[J-2] = VET1[J-1]S * (-1)
+			ELSE 
+				VET1[J-1] = VET1[J-1] * (-1)
+				VET1[J+1] = VET1[J+1] * (-1)
+
+IMPRIMA VET1
+```

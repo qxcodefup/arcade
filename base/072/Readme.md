@@ -65,3 +65,31 @@ P G G G
 <<<<<<<<
 ```
 
+
+## Dicas
+
+Você pode começar criando um vetor de tamanho N e atribuindo a ele todos os valores.
+Depois você pode percorrer e somar todos os elementos para descobrir o valor total, dividindo por N terá a média. Logo depois é só percorrer o vetor verificando se cada elemento é menor igual ou maior que a média.
+
+
+### Pseudocódigo
+
+```
+LEIA N
+FLOAT VETOR[N]
+SOMA = 0
+ENQUANTO I MENOR N
+	LEIA VETOR[I]
+	SOMA += VETOR[I]
+MEDIA = SOMA / N
+ENQUANTO I MENOR N
+	SE VETOR[I] < MEDIA
+		IMPRIME P
+	SE NÃO SE VETOR[I] == MEDIA
+		IMPRIME M
+	ELSE 
+		IMPRIME G
+
+```
+
+
