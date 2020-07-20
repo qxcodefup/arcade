@@ -72,7 +72,7 @@ ENQUANTO I MENOR M; I++
 			SE J == 0
 				VET1[J+1] = VET1[J+1] * (-1)
 			SE NÃO SE J == N-1
-				VET1[J-2] = VET1[J-1]S * (-1)
+				VET1[J-1] = VET1[J-1] * (-1)
 			ELSE 
 				VET1[J-1] = VET1[J-1] * (-1)
 				VET1[J+1] = VET1[J+1] * (-1)
