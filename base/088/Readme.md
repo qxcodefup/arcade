@@ -64,3 +64,45 @@ Assim, você deve ordenar o vetor antes de calcular a mediana.
 <<<<<<<<
 ```
 
+## Ajuda
+
+### Dica
+- Implemente uma função que ordene o vetor;
+
+- Será necessário utilizar o operador `%` (lê-se mod), que retorna o resto da divisão de um número por outro. Ele é útil para saber se um número é `par` ou `impar`.
+  
+- Se um número % 2 retorna 0, significa que ele é par. Por exemplo:
+```
+    4 é par pois, 4 % 2 retorna 0
+
+    5 não é par pois, 5 % 2 retorna 3
+```
+- Se um número % 2 não retorna 0, significa que ele não é par, ou seja, ele é ímpar. Por exemplo:
+```
+    3 é ímpar pois, 3 % 2 retorna 1
+
+    6 não é ímpar pois, 6 % 2 retorna 0
+```
+
+### Pseudocódigo
+
+```
+Ler quantidade
+Ler vetor
+
+// par
+Se (quantidade % 2 == 0): 
+    quantidade = quantidade / 2
+    Mostrar ( (vetor[quantidade - 1] + vetor[quantidade]) / 2 )
+Senao: // impar
+    quantidade = quantidade / 2
+    Mostrar (vetor[quantidade])
+```
+
+- Lembrando que para ler um vetor é necessário um laço/estrutura de repetição. Por exemplo:
+```
+Ler N
+
+Para (auxiliar < N):
+    Ler vetor[auxiliar]
+```

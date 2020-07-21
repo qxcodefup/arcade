@@ -64,3 +64,41 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 <<<<<<<<
 ```
 
+## Ajuda
+
+### Dica
+- Você pode formar um novo número utilizando multiplicação e soma. Por exemplo:
+```
+0 * 10 + 1, caso queira formar o número 1
+
+1 * 10 + 2, caso queira formar o número 12
+
+12 * 10 + 3, caso queira formar o número 123
+
+123 * 10 + 4, caso queira formar o número 1234
+```
+
+### Pseudocódigo
+```
+Ler quantidade
+Ler vetor
+
+numero = vetor[0]
+Para (auxiliar < quantidade):
+    numero = numero * 10
+    numero = numero + vetor[auxiliar]
+
+Mostrar (numero)
+```
+
+- Lembrando que para ler um vetor é necessário o laço/estrutura de repetição. Exemplo:
+```
+Ler quantidade
+
+Enquanto (auxiliar < quantidade ):
+    Ler entrada
+    vetor[auxiliar] = entrada
+```
+
+
+

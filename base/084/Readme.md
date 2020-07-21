@@ -50,3 +50,39 @@ Não use uma função de ordenar pronta.
 <<<<<<<<
 ```
 
+## Ajuda
+
+### Dica
+- Implemente o algoritmo `Bubble Sort`.
+
+- Que tal usar um `vetor auxiliar`? Ele pode ser utilizado para salvar sempre que um número diferente aparece.
+
+### Pseudocódigo
+```
+Ler quantidade
+Ler vetor
+
+// utiliza o Bubble Sort
+Ordenador vetor
+
+// atribui a primeira posicão de vetor para vetor_auxiliar
+contador_auxiliar = 0
+vetor_auxiliar[contador_auxiliar] = vetor[0]
+contador_auxiliar++
+
+Para (contador < quantidade - 1):
+    Se (vetor[contador] != (vetor[contador + 1]):
+        vetor_auxiliar[contador_auxiliar] = vetor[contador + 1]
+        contador_auxiliar++
+
+Mostrar (vetor_auxiliar)
+```
+
+- Lembrando que para ler e mostrar um vetor é necessário um laço/estrutura de repetição. Por exemplo:
+```
+Ler quantidade
+
+Para (auxiliar < quantidade):
+    Ler entrada
+    vetor[auxiliar] = entrada
+```

@@ -56,4 +56,54 @@ OBS: Use os operadores de divisão e módulo para obter os números.
 <<<<<<<<
 ```
 
-#
+## Ajuda
+
+- O operador `%` (lê-se mod) retorna o resto da divisão de um número pelo outro. Exemplo:
+```
+5 % 3 retorna 2, ou seja, o resto da divisão de 5 por 3 é 2
+
+4 % 2 retorna 0, ou seja, o resto da divisão de 4 por 2 é 0
+```
+
+- Você pode usar as operações de módulo e divisão para decompor o número. Com os dígitos "arrancados", você pode formar um novo número utilizando multiplicação e soma. Por exemplo:
+
+```
+54321 % 10 retorna 1, ou seja, o primeiro digito mais a direita
+
+54321 % 100 retorna 21, ou seja, os dois digitos mais a direita
+```
+
+```
+54321 / 10 retorna 5432, ou seja, o número retirando o primeiro digito mais a direita
+
+54321 / 100 retorna 543, ou seja, o número retirando os dois digitos mais a direita
+
+54321 / 100000 retorna 0, ou seja, o número retirando os cinco digitos mais a direta
+```
+
+```
+2 * 10 + 1, caso queira formar o número 21         
+
+21 * 10 + 15, caso queira formar o número 225
+```
+
+### Pseudocódigo
+
+```
+Ler valor
+
+// incrementar valor de auxiliar
+Para (auxiliar < 8):
+    Se (valor != 0):
+        vetor[auxiliar] = valor % 10
+        valor = valor / 10
+    Senao
+        vetor[auxiliar] = 10000000
+
+// decrementar valor de auxiliar
+Para (auxiliar >= 0):
+    Se (vetor[auxiliar] != 10000000):
+        Mostrar (vetor[auxiliar])
+    Se (auxiliar != 0 e vetor[auxiliar] != 10000000) // condição que insere espaços entre os digitos
+        Mostrar " "
+```
