@@ -58,22 +58,22 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 ### Pseudocódigo
 ```
 Ler N
-sum = 0
+sum recebe 0
 
-Enquanto (auxiliar < N):
+Enquanto (auxiliar menor N):
     Ler numero
     Ler lado
 
-    Se ( lado == 'D' ):
-        pe_direito[numero]++
+    Se ( lado igual 'D' ):
+        Incrementar pe_direito[numero]
     Senao:
-        pe_esquerdo[numero]++
+        Incrementar pe_esquerdo[numero]
 
-Para(auxiliar <= MMAX):
-    Se (pe_esquerdo[i] < pe_direito[i]):
-        soma += pe_esquerdo[i]
+Para( auxiliar menor ou igual MMAX ):
+    Se ( pe_esquerdo[i] menor pe_direito[i] ):
+        soma recebe pe_esquerdo[i] + soma
     Senao:
-        soma += pe_direito[i];
+        soma recebe pe_direito[i] + soma
 
 Mostrar (sum)
 ```

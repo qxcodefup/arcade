@@ -59,30 +59,29 @@ Não use uma função de ordenar pronta.
 
 ### Pseudocódigo
 ```
-Ler quantidade
+Ler N
 Ler vetor
 
-// utiliza o Bubble Sort
+// utilize o Bubble Sort
 Ordenador vetor
 
 // atribui a primeira posicão de vetor para vetor_auxiliar
-contador_auxiliar = 0
-vetor_auxiliar[contador_auxiliar] = vetor[0]
-contador_auxiliar++
+j recebe 0
+vetor_auxiliar[j] recebe vetor[0]
+Incrementar j
 
-Para (contador < quantidade - 1):
-    Se (vetor[contador] != (vetor[contador + 1]):
-        vetor_auxiliar[contador_auxiliar] = vetor[contador + 1]
-        contador_auxiliar++
+Para ( i menor que N - 1 ):
+    Se ( vetor[i] diferente (vetor[i + 1] ):
+        vetor_auxiliar[j] recebe vetor[i + 1]
+        Incrementar j
 
 Mostrar (vetor_auxiliar)
 ```
 
-- Lembrando que para ler e mostrar um vetor é necessário um laço/estrutura de repetição. Por exemplo:
+- Lembrando que para ler/mostrar um vetor é necessário um laço/estrutura de repetição. Por exemplo:
 ```
-Ler quantidade
+Ler N
 
-Para (auxiliar < quantidade):
-    Ler entrada
-    vetor[auxiliar] = entrada
+Para ( i menor que N ):
+    Ler vetor[i] // Mostrar vetor[i]
 ```

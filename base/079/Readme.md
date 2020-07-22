@@ -58,3 +58,47 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 [-3 -4 8 9 1 -5 -6]
 <<<<<<<<
 ```
+
+## Ajuda
+
+
+## Dica
+
+- Caso o funcionário esteja na última posição, seu vizinho direito não é modificado. Caso o funcionário esteja na primeira posição, o seu vizinho esquerno não é modificado.
+
+- O valor do grito vale tanto se o número do funcionário for `positivo` ou `negativo`. Exemplo:
+```
+Grito = 3
+vetor = [1 2 3 4], retorna [1 -2 3 -4] 
+```            
+```
+Grito = 3
+vetor = [1 2 -3 4], retorna [1 -2 -3 -4] 
+```
+
+### Pseudocódigo
+```
+Ler N
+Ler X
+
+Ler vetor
+Ler gritos
+
+Para ( i menor que X ):
+    Para ( j menor que N ):
+        Se ( (vetor[j] igual gritos[i]) ou (-vetor[j] igual gritos[i]) ):
+            Se ( j - 1 maior igual 0 ):
+                Modificar o vizinho esquerdo
+            Se ( j + 1 menor igual N ):
+                Modificar o vizinho dieito
+
+Mostrar vetor
+```
+
+- Lembrando que para `ler` e `mostrar` um vetor, é necessário um laço/estrutura de repetição. Exemplo:
+```
+Ler N
+
+Para ( i menor que N ):                     
+    Ler vetor[i] // ou mostrar[i]
+```

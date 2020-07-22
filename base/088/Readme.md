@@ -69,6 +69,8 @@ Assim, você deve ordenar o vetor antes de calcular a mediana.
 ### Dica
 - Implemente uma função que ordene o vetor;
 
+- Você deve ordenar o vetor antes de calcular a mediana;
+
 - Será necessário utilizar o operador `%` (lê-se mod), que retorna o resto da divisão de um número por outro. Ele é útil para saber se um número é `par` ou `impar`.
   
 - Se um número % 2 retorna 0, significa que ele é par. Por exemplo:
@@ -90,19 +92,22 @@ Assim, você deve ordenar o vetor antes de calcular a mediana.
 Ler quantidade
 Ler vetor
 
+// função que ordena o vetor
+Ordenar o vetor
+
 // par
-Se (quantidade % 2 == 0): 
-    quantidade = quantidade / 2
+Se ( quantidade % 2 igual 0 ): 
+    quantidade recebe quantidade / 2
     Mostrar ( (vetor[quantidade - 1] + vetor[quantidade]) / 2 )
 Senao: // impar
-    quantidade = quantidade / 2
-    Mostrar (vetor[quantidade])
+    quantidade recebe quantidade / 2
+    Mostrar ( vetor[quantidade] )
 ```
 
 - Lembrando que para ler um vetor é necessário um laço/estrutura de repetição. Por exemplo:
 ```
 Ler N
 
-Para (auxiliar < N):
+Para (auxiliar menor N):
     Ler vetor[auxiliar]
 ```

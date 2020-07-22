@@ -49,26 +49,25 @@ O Dono do zoológico que fazer uma grande arca e colocar os animais dentro. Acon
 
 ### Pseudocódigo
 ```
-Ler tamannho_vetor
+Ler N
 Ler vetor
 casais = 0
 
-Para (auxiliar_1 < tamanho_vetor):
-    Para (auxiliar_2 < tamanho_vetor):
-        Se (vetor[auxiliar_2] != 0):
-            Se (-vetor[auxiliar_1] == vet[auxiliar_2]):
+Para ( i menor que N ):
+    Para ( j menor que N ):
+        Se ( vetor[j] diferente de 0):
+            Se ( -vetor[i] igual vet[j] ):
                 Incrementar casais
-                vet[auxiliar_1] = 0 e vet[auxiliar_2] = 0;
+                vet[i] recebe 0 e vet[j] recebe 0
 
 Mostrar (casais)
 ```
 
 - Lembrando que para ler um vetor é necessário o laço/estrutura de repetição. Exemplo:
 ```
-Ler quantidade
+Ler N
 
-Enquanto (auxiliar < quantidade ):
-    Ler entrada
-    vetor[auxiliar] = entrada
+Enquanto ( i menor que N ):
+    Ler vetor[i]
 ```
 #
