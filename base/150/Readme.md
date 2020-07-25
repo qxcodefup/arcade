@@ -1,4 +1,4 @@
-## ©06_matrizes L2 - Soma de matrizes
+## #06_matrizes L2 - Soma de matrizes
 
 
 ![](__capa.jpg)

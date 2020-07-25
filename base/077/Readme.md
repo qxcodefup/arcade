@@ -1,4 +1,4 @@
-## ©04_vetores L3 - Mercantil V3 - Muitas rodadas
+## #04_vetores L3 - Mercantil V3 - Muitas rodadas
 
 
 ![](__capa.jpg)

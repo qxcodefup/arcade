@@ -1,4 +1,4 @@
-## ©08_ponteiros L2 - Vetor de strings com variados tamanhos
+## #08_ponteiros L2 - Vetor de strings com variados tamanhos
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## ©02_seleção L2 - Aumento de Salário
+## #02_seleção L2 - Aumento de Salário
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## ©01_operações L3 - Zerinho ou um americano
+## #01_operações L3 - Zerinho ou um americano
 ### Calcule o vencedor
 
 ![](__capa.jpg)

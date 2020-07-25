@@ -1,4 +1,4 @@
-## ©05_strings L3 - Separe Pneumatocito - Separação de Palavras!
+## #05_strings L3 - Separe Pneumatocito - Separação de Palavras!
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## ©03_repetição L3 - Sapinho 3 matemático não morrendo no poço
+## #03_repetição L3 - Sapinho 3 matemático não morrendo no poço
 
 
 ![](__capa.jpg)

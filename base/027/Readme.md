@@ -1,4 +1,4 @@
-## ©02_seleção L2 - Adedonha na Califórnia
+## #02_seleção L2 - Adedonha na Califórnia
 
 
 ![](__capa.jpg)

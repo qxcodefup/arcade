@@ -1,4 +1,4 @@
-## ©04_vetores L3 - Anfíbios e Batráquios - Está contido
+## #04_vetores L3 - Anfíbios e Batráquios - Está contido
 
 
 ![](__capa.jpg)

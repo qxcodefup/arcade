@@ -1,4 +1,4 @@
-## ©05_strings L3 - Rocicleia e o Locioreca - Anagramas!
+## #05_strings L3 - Rocicleia e o Locioreca - Anagramas!
 
 
 ![](__capa.jpg)

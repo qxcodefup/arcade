@@ -1,4 +1,4 @@
-## ©08_recursão L2 - Contando caracteres recursivamente
+## #08_recursão L2 - Contando caracteres recursivamente
 
 
 ![](__capa.jpg)

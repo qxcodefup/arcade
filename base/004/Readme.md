@@ -1,7 +1,7 @@
-## ©01_operações L3 - Mete bala
+## #01_operações L3 - Mete bala
 ### Distância entre dois pontos
 
-![](__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/004/__capa.jpg)
 
 ## Motivação
 
@@ -15,7 +15,8 @@ da distância entre os pontos.
 Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto,
 imprima a distância entre os pontos com duas casas decimais.
 
-![](__formula.jpg)
+<img src="https://render.githubusercontent.com/render/math?math=d_{AB}=\sqrt{(X_B-X_A)^2+(Y_B-Y_A)^2}">
+
 
 ### Entrada:
 
@@ -59,11 +60,6 @@ imprima a distância entre os pontos com duas casas decimais.
 ```
 
 ## Ajuda
-
-Fórmula da distância entre dois pontos:  
-![](__formula.jpg)
-
-Lembre-se que distância é uma grandeza sempre positiva.
 
 Como imprimir duas casas decimais em Python e C:
 

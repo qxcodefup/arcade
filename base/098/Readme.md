@@ -1,4 +1,4 @@
-## ©05_strings L3 - Jason e Krueguer
+## #05_strings L3 - Jason e Krueguer
 ### Busca de maior ocorrencia
 
 ![](__capa.jpg)

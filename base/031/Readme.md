@@ -1,4 +1,4 @@
-## ©02_seleção L2 - Fiquei de final
+## #02_seleção L2 - Fiquei de final
 
 
 ![](__capa.jpg)

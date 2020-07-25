@@ -1,4 +1,4 @@
-## ©04_vetores L1 - Joelison Fernandes - Soma do maior e menor!
+## #04_vetores L1 - Joelison Fernandes - Soma do maior e menor!
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## ©05_strings L2 - Avestruz com Alcaparras
+## #05_strings L2 - Avestruz com Alcaparras
 ### Contar Maiusculas e Minusculas!
 
 ![](__capa.jpg)

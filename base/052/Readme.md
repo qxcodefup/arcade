@@ -1,4 +1,4 @@
-## ©03_repetição L3 - Hoje tem sopa de coelho?
+## #03_repetição L3 - Hoje tem sopa de coelho?
 
 
 ![](__capa.jpg)

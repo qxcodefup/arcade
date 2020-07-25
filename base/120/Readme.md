@@ -1,4 +1,4 @@
-## ©05_strings L3 - Gansos Gamados
+## #05_strings L3 - Gansos Gamados
 ### Verificar ordenação da frase
 
 ![](__capa.jpg)

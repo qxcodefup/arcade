@@ -1,4 +1,4 @@
-## ©06_matrizes L2 - Soldados em Posição
+## #06_matrizes L2 - Soldados em Posição
 
 
 ![](__capa.jpg)

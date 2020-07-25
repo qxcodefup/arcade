@@ -1,4 +1,4 @@
-## ©06_matrizes L3 - Matriz Simétrica
+## #06_matrizes L3 - Matriz Simétrica
 
 
 ![](__capa.jpg)

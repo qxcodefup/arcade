@@ -1,4 +1,4 @@
-## ©06_matrizes L3 - OBI 2015 - Fase 2 - Nível 1 - Torre
+## #06_matrizes L3 - OBI 2015 - Fase 2 - Nível 1 - Torre
 
 
 ![](__capa.jpg)

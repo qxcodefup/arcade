@@ -1,4 +1,4 @@
-## ©02_seleção L2 - Cadê a cabeça da cobra #noticia
+## #02_seleção L2 - Cadê a cabeça da cobra
 
 ![](__capa.jpg)
 

@@ -1,4 +1,4 @@
-## ©05_strings L2 - Guerra Civil no Universo Marvel
+## #05_strings L2 - Guerra Civil no Universo Marvel
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## ©05_strings L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
+## #05_strings L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
 
 
 ![](__capa.jpg)

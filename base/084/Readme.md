@@ -1,4 +1,4 @@
-## ©04_vetores L3 - Zoologico Um animal de cada tipo!
+## #04_vetores L3 - Zoologico Um animal de cada tipo!
 
 
 ![](__capa.jpg)

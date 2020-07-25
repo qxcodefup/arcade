@@ -1,4 +1,4 @@
-## ©02_seleção L3 - Rufus e Par ou Ímpar!
+## #02_seleção L3 - Rufus e Par ou Ímpar!
 
 
 ![](__capa.jpg)

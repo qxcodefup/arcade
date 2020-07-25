@@ -1,4 +1,4 @@
-## ©02_seleção L2 - OBI 2017 - Fase 1 - Drone de Entrega
+## #02_seleção L2 - OBI 2017 - Fase 1 - Drone de Entrega
 
 
 ![](__capa.jpg)

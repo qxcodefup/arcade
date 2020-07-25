@@ -1,4 +1,4 @@
-## ©09_structs L3 - Mulher mais idosa
+## #09_structs L3 - Mulher mais idosa
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## ©03_repetição L3 - Conta Dígitos
+## #03_repetição L3 - Conta Dígitos
 
 
 ![](__capa.jpg)

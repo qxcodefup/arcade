@@ -1,4 +1,4 @@
-## ©03_repetição L2 - Sapinho 1 no Poço
+## #03_repetição L2 - Sapinho 1 no Poço
 
 
 ![](__capa.jpg)

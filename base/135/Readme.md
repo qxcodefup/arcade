@@ -1,4 +1,4 @@
-## ©06_matrizes L3 - Jogo da vida
+## #06_matrizes L3 - Jogo da vida
 
 
 ![](__capa.jpg)

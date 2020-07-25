@@ -1,4 +1,4 @@
-## ©02_seleção L1 - Ambos Divisíveis
+## #02_seleção L1 - Ambos Divisíveis
 ### Módulo e operadores lógicos
 
 ![](__capa.jpg)

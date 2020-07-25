@@ -1,4 +1,4 @@
-## ©05_strings L3 - Meu cachorro comeu minha tarefa V2
+## #05_strings L3 - Meu cachorro comeu minha tarefa V2
 ### Retirar espaços duplicados
 
 ![](__capa.jpg)
