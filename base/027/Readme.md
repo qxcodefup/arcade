@@ -91,3 +91,14 @@ a
 <<<<<<<<
 ```
 
+## Ajuda
+#### Pseudocódigo
+```
+  Leia soma
+  iniciar variável letra em char = (soma - 1) % 26 + 'a'
+  se soma for diferente de 0
+      mostre letra;
+  senão
+      mostre "Joguem de novo"
+```
+#

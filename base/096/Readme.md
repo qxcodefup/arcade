@@ -68,5 +68,19 @@ Agradecimentos a Cassio F.
 49 leds
 <<<<<<<<
 ```
-
+## Ajuda
+#### Pseudocódigo
+```
+  crir um vetor digitos de tamanho 10 e inicie duas posições nessa sequencia {6, 2, 5, 5, 4, 5, 6, 3, 7, 6}
+  leia N
+  inicie um laço decrementa N--{
+    inicie cont = 0
+    inicie string palavra com 100 espaços 
+    leia a palavra
+    inicie size = tamanho da string palavra
+    inicie um laço em i = 0 enquanto i < size, i++
+      cont += digitos na posição [palavra na posição[i] - '0'];
+    Mostre "cont leds" e quebre a linha
+  }
+```
 #

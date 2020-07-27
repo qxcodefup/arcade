@@ -52,3 +52,24 @@ x
 <<<<<<<<
 ```
 
+## Ajuda
+#### Pseudocódigo
+```
+inicie uma string frase com 100 espaços e um char letra
+leita frase até o /n e leia letra
+inicie um contador em 0;
+
+se letra <= 90 e letra >= 65
+    letra += 32;
+
+crie um laço onde iinicia em 0 e continua enquanto i < frase e adiciona i++
+    se frase na posição i <= 90 e frase na posição i >= 65
+        frase na posição i += 32;
+
+crie um laço que inicia i = 0 enquanto i < frase; i++;
+    se letra = frase na posição i
+        contador++;
+
+mostre contador;
+```
+#

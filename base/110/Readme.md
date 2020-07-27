@@ -56,3 +56,18 @@ ueueueao
 thndrthndrthndrctswwww
 <<<<<<<<
 ```
+## Ajuda
+#### Pseudocódigo
+
+```
+inicie uma string s com 102 espaços
+leia a string s
+crie um laço onde: i = 0; s na posição i é diferente de '/n'; i++
+    se s na posição i == 'a' ou s na posição i == 'e' ou s na posição i == 'i' ou s na posição i == o ou s na posição i == u
+        mostre s na posição i;
+
+crie um laço onde: i = 0; s na posição i é diferente de '/n'; i++
+    se s na posição i != 'a' e s na posição i != 'e' e s na posição i != 'i' e s na posição i != o e s na posição i != u
+        mostre s na posição i;
+```
+#

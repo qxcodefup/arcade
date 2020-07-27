@@ -61,4 +61,13 @@ r Ranger
 
 * Faca um laço que percorra os caracteres que você precisa da palavra e adicione na String resposta.
 
+#### Pseudocódigo 
+```
+Leia a string texto até o /n
+leia inicio e leia tamanho
 
+inicie uma variavel fim = inicio + tamanho
+crie um laço em que i = inicio; sendo que i < fim e texto na posição i é diferente de 0; i++
+    mostre texto na posição i;
+```
+#
