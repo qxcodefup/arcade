@@ -72,3 +72,30 @@ Jedi
 <<<<<<<<
 ```
 
+## Ajuda
+
+- Que tal criar duas variáveis, `soma_jedi` e `soma_jedi`, que acumula os respectivos valores dos `jedi` e `sith`. 
+
+Pseudocódigo
+
+```
+Ler tamanho_vetor
+soma_jedi recebe 0
+soma_sith recebe 0
+auxiliar recebe 1
+
+Enquanto (auxiliar for menor ou igual tamanho_vetor):
+    Ler tropa
+
+    Se (auxiliar for menor (tamanho_vetor / 2)):
+        soma_jedi é incrementada com o valor de tropa
+    Senao:
+        soma_sith é incrementada com o valor de tropa
+
+    Se (soma_jedi for maior soma_sith):
+        Mostrar "Jedi"
+    Se (soma_jedi for menor soma_sith):
+        Mostrar "Sith"
+    Se (soma_jedi for igual a soma_sith):
+        Mostrar "Empate"
+```

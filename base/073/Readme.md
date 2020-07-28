@@ -53,3 +53,23 @@ Também é muito importante que você aprenda como sua linguagem pode fazer a or
 <<<<<<<<
 ```
 
+## Ajuda
+
+### Dica
+- Implemente o algoritmo Bubble Sort;
+```
+Bubble Sort é um algoritmo de ordenação que pode ser aplicado em Arrays e Listas dinâmicas. Se o objetivo é ordenar os valores em forma decrescente, então, a posição atual é comparada com a próxima posição e, se a posição atual for maior que a posição posterior, é realizada a troca dos valores nessa posição. Caso contrário, não é realizada a troca, apenas passa-se para o próximo par de comparações.
+```
+
+
+### Pseudocódigo do Bubble Sort
+```
+Para (i=1 ; i<=N ; i++ ):
+    Para (j=i+1 ; j<=N ; j++):
+        Se ( a[i] > a[j] ):
+            auxiliar = a[i]
+            a[i] = a[j]
+            a[j] = aux
+```
+
+
