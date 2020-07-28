@@ -86,3 +86,7 @@ segundo
 <<<<<<<<
 ```
 
+
+## Dicas
+
+Você primeiro deve preencher 3 vetores, um vetor é de float, o segundo vetor é outro de float, e o último de char, eles tem o mesmo tamanho N, que é a primeira linha de entrada. Depois você pode criar duas variáveis, uma conta quantas vezes o jogador 1 venceu, e a outra quantas vezes o jogador 2 ganhou. Para verificar se um jogador ganhou, é só percorrer o vetor 1, depois olha o valor, do segundo vetor na mesma posição e por fim, verifica se o jogador 2 no terceiro vetor escolheu menor ou maior, caso ele tenha acertado, atribua + 1 na variável que criou para ele, caso não, atribua na outra variável do jogador 1. Por fim, compare quem tenha mais pontos e imprima o vencedor.	  

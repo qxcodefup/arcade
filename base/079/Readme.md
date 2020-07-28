@@ -59,6 +59,7 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 <<<<<<<<
 ```
 
+
 ## Ajuda
 
 
@@ -76,29 +77,24 @@ Grito = 3
 vetor = [1 2 -3 4], retorna [1 -2 -3 -4] 
 ```
 
-### Pseudocódigo
+## Pseudocódigo 
+
 ```
-Ler N
-Ler X
+LEIA N M
+CRIE VET1 DE TAMANHO N
+PREENCHA VET1 
+ENQUANTO I MENOR M; I++
+	LEIA A
+	ENQUANTO J < N; J++
+		SE A == VET1[J] OU A == VET1[J] * (-1)
+			SE J == 0
+				VET1[J+1] = VET1[J+1] * (-1)
+			SE NÃO SE J == N-1
+				VET1[J-1] = VET1[J-1] * (-1)
+			ELSE 
+				VET1[J-1] = VET1[J-1] * (-1)
+				VET1[J+1] = VET1[J+1] * (-1)
 
-Ler vetor
-Ler gritos
-
-Para ( i menor que X ):
-    Para ( j menor que N ):
-        Se ( (vetor[j] igual gritos[i]) ou (-vetor[j] igual gritos[i]) ):
-            Se ( j - 1 maior igual 0 ):
-                Modificar o vizinho esquerdo
-            Se ( j + 1 menor igual N ):
-                Modificar o vizinho dieito
-
-Mostrar vetor
+IMPRIMA VET1
 ```
 
-- Lembrando que para `ler` e `mostrar` um vetor, é necessário um laço/estrutura de repetição. Exemplo:
-```
-Ler N
-
-Para ( i menor que N ):                     
-    Ler vetor[i] // ou mostrar[i]
-```
