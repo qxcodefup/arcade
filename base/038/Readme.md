@@ -76,3 +76,21 @@ Se não
 Mostre hora, minuto e segundo com duas casas
 ```
 #
+## Ajuda
+
+#### pseudocódigo
+```
+Leia pi, a e b
+crie variável auxiliar = a + b
+se pi for igual a 'p'
+    se (auxiliar % 2 = 0)
+        mostre "Venceu";
+    senão
+        mostre "Perdeu";
+senão se pi = 'i'
+    se (aux % 2 é diferente de 0)
+        mostre "Venceu";
+    senão
+        mostre "Perdeu";
+```
+#

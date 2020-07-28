@@ -89,5 +89,21 @@ Receba um vetor de inteiros e conte quantas vezes dois números consecutivos pos
 6
 <<<<<<<<
 ```
-
-#
+## Ajuda
+#### Pseudocódigo
+```
+leia o TamanhoVetor
+crie um Vetor de tamanho TamanhoVetor
+laço iniciando i = 0, que adiciona 1 enquanto i menor que TamanhoVetor{
+    leia o Vetor na posição i
+}
+laço iniciando i = 1 que adiciona 1 enquanto i menor que TamanhoVetor{
+    diferenca = Vetor[i-1] - vetor[i]
+    se(diferenca menor que 0)   
+        diferenca = diferenca*(-1)
+    se(diferenca maior ou igual a 2)
+        cont++
+}
+mostre cont
+```
+# 

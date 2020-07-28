@@ -50,4 +50,23 @@ Obs.: Não use uma função de ordenar pronta.
 5
 <<<<<<<<
 ```
-
+## Ajuda
+#### Pseudocódigo
+```
+leia o TamanhoDoVator
+laço iniciando i = 0 que adiciona 1 enquanto i menor que TamanhoDoVator{
+  leia o vetor na posição i
+}
+laço iniciando i = 0 que adiciona 1 enquanto i menor que TamanhoDoVator{
+  laço iniciando j = i+1 que adiciona 1 enquanto j menor que TamanhoDoVator{
+    se(vetor na posição i igual vetor na posição j){
+      vetor na posição j = 0
+    }
+  }
+}
+laço iniciando i = 0 que adiciona 1 enquanto i menor que TamanhoDoVator{
+  se(vetor na posição i diferente de 0)  
+    cont++
+}
+mostre cont
+```

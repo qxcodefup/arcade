@@ -45,5 +45,12 @@ oacaroc ues on x mu ieuqram
 marquei um x no seu coracao
 <<<<<<<<
 ```
-
+## Ajuda
+#### Pseudocódigo
+```
+crie um vetor de char line com 100 espaços
+leia line // use fgets em C
+inicie um laço onde a = tamanho de line -2; enquanto a >=0; a--
+    mostre line na posição a;
+```
 #
