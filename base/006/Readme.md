@@ -1,5 +1,4 @@
-## #operações L3 - Zerinho ou um americano
-### Calcule o vencedor
+## #operações L3 - Zerinho ou um americano - Decifrando a fórmula
 
 ![](__capa.jpg)
 

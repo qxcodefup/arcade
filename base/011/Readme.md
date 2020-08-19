@@ -1,5 +1,4 @@
-## #operações L1 - Formatando data
-### Imprimindo inteiros com duas casas e arredondando com operador de módulo
+## #operações L1 - Formatando data - Definindos casas decimais e operador de módulo
 
 ![](__capa.jpg)
 

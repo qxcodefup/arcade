@@ -13,13 +13,13 @@
 [](base/154/Readme.md) : ## #matrizes L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
 [](base/132/Readme.md) : ## #matrizes L3 - Subdiagonais
 [](base/007/Readme.md) : ## #matrizes L3 - Tetris (Fazendo a peça cair)
-[](base/011/Readme.md) : ## #operações L1 - Formatando data
-[](base/000/Readme.md) : ## #operações L1 - Operações básicas
-[](base/003/Readme.md) : ## #operações L2 - Opala bebedor
-[](base/002/Readme.md) : ## #operações L2 - Pintando a casa
-[](base/005/Readme.md) : ## #operações L3 - Ladrão de Goiabas
-[](base/004/Readme.md) : ## #operações L3 - Mete bala
-[](base/006/Readme.md) : ## #operações L3 - Zerinho ou um americano
+[](base/011/Readme.md) : ## #operações L1 - Formatando data - Definindos casas decimais e operador de módulo
+[](base/000/Readme.md) : ## #operações L1 - Operações básicas - Imprimindo float formatado
+[](base/003/Readme.md) : ## #operações L2 - Opala bebedor - Cálculo de desempenho do motor
+[](base/002/Readme.md) : ## #operações L2 - Pintando a casa - Calculando a área do triângulo com a fórmula de Heron
+[](base/005/Readme.md) : ## #operações L3 - Ladrão de Goiabas - Contando viagens usando módulo
+[](base/004/Readme.md) : ## #operações L3 - Mete bala - Distância entre dois pontos
+[](base/006/Readme.md) : ## #operações L3 - Zerinho ou um americano - Decifrando a fórmula
 [](base/147/Readme.md) : ## #ponteiros L1 - Duelo
 [](base/143/Readme.md) : ## #ponteiros L1 - Troca de valores de variáveis
 [](base/144/Readme.md) : ## #ponteiros L2 - Função que retorna vários valores por referência

@@ -15,13 +15,23 @@
 <!--TOC_END-->
 ## operações
 
-- [@011 L1 - Formatando data](base/011/Readme.md)  [](#operações)
-- [@000 L1 - Operações básicas](base/000/Readme.md)  [](#operações)
-- [@003 L2 - Opala bebedor](base/003/Readme.md)  [](#operações)
-- [@002 L2 - Pintando a casa](base/002/Readme.md)  [](#operações)
-- [@005 L3 - Ladrão de Goiabas](base/005/Readme.md)  [](#operações)
-- [@004 L3 - Mete bala](base/004/Readme.md)  [](#operações)
-- [@006 L3 - Zerinho ou um americano](base/006/Readme.md)  [](#operações)
+Índice|Título|Conteúdo
+-|-|-
+@011 | [L1 - Formatando data](base/011/Readme.md) [](#operações) | Definindos casas decimais e operador de módulo
+@011 | [L1 - Formatando data](base/011/Readme.md)  [](#operações) | Definindos casas decimais e operador de módulo
+@003|[L2 - Opala bebedor](base/003/Readme.md)  [](#operações) | Cálculo de desempenho do motor
+@002|[L2 - Pintando a casa](base/002/Readme.md)  [](#operações) | Calculando a área do triângulo com a fórmula de Heron
+@005|[L3 - Ladrão de Goiabas](base/005/Readme.md)  [](#operações)|Contando viagens usando módulo
+@004|[ L3 - Mete bala](base/004/Readme.md)  [](#operações)|Distância entre dois pontos
+@006|[L3 - Zerinho ou um americano](base/006/Readme.md)  [](#operações)|Decifrando a fórmula
+
+
+- [@000 L1 - Operações básicas - Imprimindo float formatado](base/000/Readme.md)  [](#operações)
+- [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003/Readme.md)  [](#operações)
+- [@002 L2 - Pintando a casa - Calculando a área do triângulo com a fórmula de Heron](base/002/Readme.md)  [](#operações)
+- [@005 L3 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md)  [](#operações)
+- [@004 L3 - Mete bala - Distância entre dois pontos](base/004/Readme.md)  [](#operações)
+- [@006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006/Readme.md)  [](#operações)
 
 ## seleção
 

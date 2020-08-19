@@ -1,5 +1,4 @@
-## #operações L2 - Opala bebedor
-### Cálculo de desempenho
+## #operações L2 - Opala bebedor - Cálculo de desempenho do motor
 
 ![](__capa.jpg)
 

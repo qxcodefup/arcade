@@ -1,5 +1,4 @@
-## #operações L2 - Pintando a casa
-### Calculando a área do triângulo
+## #operações L2 - Pintando a casa - Calculando a área do triângulo com a fórmula de Heron
 
 ![](__capa.jpg)
 

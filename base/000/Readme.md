@@ -1,5 +1,4 @@
-## #operações L1 - Operações básicas
-### Imprimindo float formatado
+## #operações L1 - Operações básicas - Imprimindo float formatado
 
 ![](__capa.jpg)
 

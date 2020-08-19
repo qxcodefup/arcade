@@ -1,5 +1,4 @@
-## #operações L3 - Mete bala
-### Distância entre dois pontos
+## #operações L3 - Mete bala - Distância entre dois pontos
 
 ![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/004/__capa.jpg)
 
