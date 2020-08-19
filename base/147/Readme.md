@@ -1,4 +1,4 @@
-## #08_ponteiros L1 - Duelo
+## #ponteiros L1 - Duelo
 
 
 ![](__capa.jpg)

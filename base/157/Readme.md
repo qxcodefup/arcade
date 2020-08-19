@@ -1,4 +1,4 @@
-## #02_seleção L3 - Frota de Táxi - OBI 2005
+## #seleção L3 - Frota de Táxi - OBI 2005
 
 
 ![](__capa.jpg)

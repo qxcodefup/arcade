@@ -1,4 +1,4 @@
-## #02_seleção L3 - Dorme Tarde Acordar Cedo!
+## #seleção L3 - Dorme Tarde Acordar Cedo!
 
 
 ![](__capa.jpg)

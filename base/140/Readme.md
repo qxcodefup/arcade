@@ -1,4 +1,4 @@
-## #08_recursão L3 - Contando caracteres recursivamente
+## #recursão L3 - Contando caracteres recursivamente
 
 
 ![](__capa.jpg)

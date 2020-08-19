@@ -1,4 +1,4 @@
-## #02_seleção L3 - Formiga da bundona
+## #seleção L3 - Formiga da bundona
 
 
 ## Motivação

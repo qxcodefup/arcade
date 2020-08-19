@@ -1,4 +1,4 @@
-## #03_repetição L2 - Castelos de Cubos
+## #repetição L2 - Castelos de Cubos
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## #05_strings L2 - Somando numeros
+## #strings L2 - Somando numeros
 
 
 ![](__capa.jpg)

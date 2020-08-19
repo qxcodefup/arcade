@@ -1,4 +1,4 @@
-## #09_structs L2 - Jogo da cobrinha
+## #structs L2 - Jogo da cobrinha
 
 - Entrada:
     - Q, D, sendo Q a quantidade de "gomos" da cobra e D a direção que pode ser L(left), R(right), U(up), D(down)

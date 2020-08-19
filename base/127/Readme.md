@@ -1,4 +1,4 @@
-## #05_strings L3 - Amo a Amora meu Amor
+## #strings L3 - Amo a Amora meu Amor
 ### Contar Substrings
 
 ![](__capa.jpg)

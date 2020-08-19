@@ -1,3 +1,3 @@
 indexer board
-indexer auto Readme.md
+indexer manual Readme.md
 indexer links

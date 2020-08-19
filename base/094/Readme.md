@@ -1,4 +1,4 @@
-## #05_strings L2 - Vogais e Consoantes
+## #strings L2 - Vogais e Consoantes
 ### Identificação e Montagem
 
 ![](__capa.jpg)

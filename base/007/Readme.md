@@ -1,4 +1,4 @@
-## #06_matrizes L3 - Tetris (Fazendo a peça cair)
+## #matrizes L3 - Tetris (Fazendo a peça cair)
 
 
 ![](__capa.jpg)

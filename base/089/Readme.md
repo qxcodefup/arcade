@@ -1,4 +1,4 @@
-## #05_strings L2 - Mega Jokenpo!
+## #strings L2 - Mega Jokenpo!
 
 
 ![](__capa.jpg)

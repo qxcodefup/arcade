@@ -1,4 +1,4 @@
-## #06_matrizes L2 - Bingo!
+## #matrizes L2 - Bingo!
 
 
 ![](__capa.jpg)

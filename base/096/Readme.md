@@ -1,4 +1,4 @@
-## #05_strings L2 - Contar Leds
+## #strings L2 - Contar Leds
 
 
 ![](__capa.jpg)

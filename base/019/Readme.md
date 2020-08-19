@@ -1,4 +1,4 @@
-## #02_seleção L2 - OBI 2017 - Fase 1 - Universitário - Game 10
+## #seleção L2 - OBI 2017 - Fase 1 - Universitário - Game 10
 
 
 ## Motivaçao

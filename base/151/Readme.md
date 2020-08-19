@@ -1,4 +1,4 @@
-## #02_seleção L1 - Impedido!
+## #seleção L1 - Impedido!
 ### OBI 2015 - Fase 2 - Nível 1
 
 ## Motivação

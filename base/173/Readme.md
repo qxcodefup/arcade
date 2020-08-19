@@ -1,4 +1,4 @@
-## #05_strings L1 - Eribelton e a Ascologia V1 - Somar Asc
+## #strings L1 - Eribelton e a Ascologia V1 - Somar Asc
 
 
 ![](__capa.jpg)

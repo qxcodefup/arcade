@@ -1,4 +1,4 @@
-## #02_seleção L2 - Arrendondar
+## #seleção L2 - Arrendondar
 
 
 ![](__capa.jpg)

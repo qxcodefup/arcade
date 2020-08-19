@@ -1,4 +1,4 @@
-## #02_seleção L1 - Divisão Inteira e Quebrada
+## #seleção L1 - Divisão Inteira e Quebrada
 
 
 ![](__capa.jpg)

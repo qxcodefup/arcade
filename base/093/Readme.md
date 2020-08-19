@@ -1,4 +1,4 @@
-## #05_strings L2 - Gritando em Caixa Alta
+## #strings L2 - Gritando em Caixa Alta
 ### Invertendo o Case da frase!
 
 ![](__capa.jpg)

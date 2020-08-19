@@ -1,4 +1,4 @@
-## #02_seleção L3 - Jokenpo das tartarugas!
+## #seleção L3 - Jokenpo das tartarugas!
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## #05_strings L2 - Gagueira V1 - Duplicar Palavras
+## #strings L2 - Gagueira V1 - Duplicar Palavras
 
 
 ![](__capa.jpg)

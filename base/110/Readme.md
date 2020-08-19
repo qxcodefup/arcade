@@ -1,4 +1,4 @@
-## #05_strings L2 - Organizando Ru - Homens e Mulheres!
+## #strings L2 - Organizando Ru - Homens e Mulheres!
 
 
 ![](__capa.jpg)

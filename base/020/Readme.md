@@ -1,4 +1,4 @@
-## #02_seleção L2 - Zerinho ou Um!
+## #seleção L2 - Zerinho ou Um!
 
 
 ![](__capa.jpg)

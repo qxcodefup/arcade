@@ -1,4 +1,4 @@
-## #04_vetores L3 - Bolinhas viciadas(contagem de repetições)
+## #vetores L3 - Bolinhas viciadas(contagem de repetições)
 
 
 ![](__capa.jpg)

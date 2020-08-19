@@ -1,4 +1,4 @@
-## #02_seleção L2 - Mercantil V1 - Quem chega mais perto
+## #seleção L2 - Mercantil V1 - Quem chega mais perto
 
 
 ![](__capa.jpg)

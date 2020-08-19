@@ -1,4 +1,4 @@
-## #05_strings L3 - Aniquilando Ultrons V3
+## #strings L3 - Aniquilando Ultrons V3
 
 
 ![](__capa.jpg)

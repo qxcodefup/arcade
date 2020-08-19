@@ -1,4 +1,4 @@
-## #03_repetição L1 - Quantos Ultrons você vê - Contar Elemento
+## #repetição L1 - Quantos Ultrons você vê - Contar Elemento
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## #02_seleção L1 - Positivo, Nulo ou Negativo?
+## #seleção L1 - Positivo, Nulo ou Negativo?
 
 
 ![](__capa.jpg)

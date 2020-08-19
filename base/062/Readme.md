@@ -1,4 +1,4 @@
-## #02_seleção L1 - Angulo Cartesiano
+## #seleção L1 - Angulo Cartesiano
 ### Retirando loops
 
 ![](__capa.jpg)

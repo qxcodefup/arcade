@@ -1,4 +1,4 @@
-## #02_seleção L2 - Ovos de galinha (Procurando o Maior valor)
+## #seleção L2 - Ovos de galinha (Procurando o Maior valor)
 
 
 ![](__capa.jpg)

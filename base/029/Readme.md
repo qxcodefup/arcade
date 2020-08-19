@@ -1,4 +1,4 @@
-## #02_seleção L2 - Quiz do Harry Potter
+## #seleção L2 - Quiz do Harry Potter
 
 
 ![](__capa.jpg)

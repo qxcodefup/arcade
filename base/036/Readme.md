@@ -1,4 +1,4 @@
-## #02_seleção L3 - Morre o do meio
+## #seleção L3 - Morre o do meio
 
 
 ![](__capa.jpg)

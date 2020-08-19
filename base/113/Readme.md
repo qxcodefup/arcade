@@ -1,4 +1,4 @@
-## #05_strings L3 - Eribelton e a Ascologia V3
+## #strings L3 - Eribelton e a Ascologia V3
 ### Busca do mínimo
 
 ![](__capa.jpg)

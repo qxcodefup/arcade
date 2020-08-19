@@ -1,4 +1,4 @@
-## #05_strings L1 - Maiúsculo, Minusculo e Dígito!
+## #strings L1 - Maiúsculo, Minusculo e Dígito!
 
 
 ![](__capa.jpg)

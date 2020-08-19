@@ -1,4 +1,4 @@
-## #02_seleção L3 - Jokenpo 15
+## #seleção L3 - Jokenpo 15
 
 
 ## Motivação

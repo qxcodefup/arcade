@@ -1,4 +1,4 @@
-## #05_strings L3 - Identificando Ultrons V2
+## #strings L3 - Identificando Ultrons V2
 
 
 ![](__capa.jpg)

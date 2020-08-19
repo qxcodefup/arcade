@@ -1,4 +1,4 @@
-## #03_repetição L2 - Volta de 360 graus (Retirando os loops)
+## #repetição L2 - Volta de 360 graus (Retirando os loops)
 
 
 ![](__capa.jpg)

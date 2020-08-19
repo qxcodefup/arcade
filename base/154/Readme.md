@@ -1,4 +1,4 @@
-## #06_matrizes L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
+## #matrizes L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
 
 
 ![](__capa.jpg)

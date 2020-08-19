@@ -1,4 +1,4 @@
-## #05_strings L3 - Prof Muquirana - Busca máximo por critério
+## #strings L3 - Prof Muquirana - Busca máximo por critério
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## #06_matrizes L3 - Campo Minado
+## #matrizes L3 - Campo Minado
 
 
 ![](__capa.jpg)

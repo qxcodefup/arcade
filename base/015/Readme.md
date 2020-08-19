@@ -1,4 +1,4 @@
-## #02_seleção L1 - Calculadora Numérica
+## #seleção L1 - Calculadora Numérica
 
 
 ![](__capa.jpg)
