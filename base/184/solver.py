@@ -19,6 +19,6 @@ i = 0
 for aluno in alunos:
     print(str(i) + ": " + aluno.nome)
     i += 1
-    print("   Média: " + str('{0:4.2f}'.format(aluno.media)))
-    print("   N1: " + aluno.n1 + ", N2: " + aluno.n2 + ", N3: " + aluno.n3)
+    print("   Media: %.2f" % aluno.media)
+    print("   N1: %.2f, N2: %.2f, N3: %.2f" % (float(aluno.n1), float(aluno.n2), float(aluno.n3)))
 

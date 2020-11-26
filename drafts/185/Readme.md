@@ -1,4 +1,4 @@
-## ©04_vetores L3 - Vetor interativo
+## L3 - Vetor interativo
 
 ![](__capa.jpg)
 

@@ -17,16 +17,8 @@
 
 Índice|Título|Conteúdo
 -|-|-
-@011 | [L1 - Formatando data](base/011/Readme.md) [](#operações) | Definindos casas decimais e operador de módulo
-@011 | [L1 - Formatando data](base/011/Readme.md)  [](#operações) | Definindos casas decimais e operador de módulo
-@003|[L2 - Opala bebedor](base/003/Readme.md)  [](#operações) | Cálculo de desempenho do motor
-@002|[L2 - Pintando a casa](base/002/Readme.md)  [](#operações) | Calculando a área do triângulo com a fórmula de Heron
-@005|[L3 - Ladrão de Goiabas](base/005/Readme.md)  [](#operações)|Contando viagens usando módulo
-@004|[ L3 - Mete bala](base/004/Readme.md)  [](#operações)|Distância entre dois pontos
-@006|[L3 - Zerinho ou um americano](base/006/Readme.md)  [](#operações)|Decifrando a fórmula
-
-
 - [@000 L1 - Operações básicas - Imprimindo float formatado](base/000/Readme.md)  [](#operações)
+- [@011 L1 - Formatando data - Definindos casas decimais e operador de módulo](base/011/Readme.md)  [](#operações)
 - [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003/Readme.md)  [](#operações)
 - [@002 L2 - Pintando a casa - Calculando a área do triângulo com a fórmula de Heron](base/002/Readme.md)  [](#operações)
 - [@005 L3 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md)  [](#operações)
@@ -73,7 +65,6 @@
 - [@001 L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001/Readme.md)  [](#seleção)
 
 ## repetição
-
 - [@056 L1 - Calça Zeze de Camargo - Mínimo](base/056/Readme.md)  [](#repetição)
 - [@013 L1 - Dividindo pares de sapatos pra três](base/013/Readme.md)  [](#repetição)
 - [@055 L1 - Quantos Ultrons você vê - Contar Elemento](base/055/Readme.md)  [](#repetição)
@@ -92,6 +83,7 @@
 - [@063 L3 - Blackjack 21!](base/063/Readme.md)  [](#repetição)
 - [@064 L3 - Conta Dígitos](base/064/Readme.md)  [](#repetição)
 - [@052 L3 - Hoje tem sopa de coelho?](base/052/Readme.md)  [](#repetição)
+- [@190 L3 - Maiores Palindromos](base/190/Readme.md)  [](#repetição)
 - [@053 L3 - OBI 2016 - Fuga em helicóptero](base/053/Readme.md)  [](#repetição)
 - [@054 L3 - Quebrador de Copos](base/054/Readme.md)  [](#repetição)
 - [@059 L3 - Sapinho 2 morrendo no poço](base/059/Readme.md)  [](#repetição)
@@ -183,6 +175,7 @@
 - [@123 L3 - Sorvete suor casaca chicletes - Letras em Comum!](base/123/Readme.md)  [](#strings)
 - [@107 L3 - Valdiskley e a Cifra v3!](base/107/Readme.md)  [](#strings)
 - [@105 L3 - Valdiskley e cifras históricas!](base/105/Readme.md)  [](#strings)
+- [@162 L3 - Mini-Poker - OBI2005](base/162/Readme.md) 
 
 ## matrizes
 
@@ -221,8 +214,10 @@
 
 ## structs
 
+
 - [@148 L1 - Expressão](base/148/Readme.md)  [](#structs)
 - [@149 L1 - Operações](base/149/Readme.md)  [](#structs)
+- [@184 L3 - Motivando a turma de secundaristas](base/184/Readme.md) 
 - [@187 L2 - Jogo da cobrinha](base/187/Readme.md)  [](#structs)
 - [@182 L3 - Mulher mais idosa](base/182/Readme.md)  [](#structs)
 
