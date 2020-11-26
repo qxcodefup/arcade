@@ -178,9 +178,9 @@
 - [@162 L3 - Mini-Poker - OBI2005](base/162/Readme.md) 
 
 ## matrizes
-
 - [@130 L2 - Bingo!](base/130/Readme.md)  [](#matrizes)
 - [@012 L2 - Deu a louca no Imperador!](base/012/Readme.md)  [](#matrizes)
+- [@191 L2 - Coluna de Valor Maior](base/191/Readme.md)  [](#matrizes)
 - [@134 L2 - Quadrado Mágico](base/134/Readme.md)  [](#matrizes)
 - [@133 L2 - Soldados em Posição](base/133/Readme.md)  [](#matrizes)
 - [@128 L2 - Soma de elementos de em uma matriz](base/128/Readme.md)  [](#matrizes)
