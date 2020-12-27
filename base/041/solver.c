@@ -1,20 +1,23 @@
 #include <stdio.h>
+#include <string.h>
+
+typedef struct engima{
+    char data[100];
+    char key[10];
+}Engima;
+
+void decifrar(Engima* a){
+    int l = strlen(a->key);
+    for(int i=0;a->data[i]!='\0';i++)
+        a->data[i] = (a->data[i])^(a->key[i%l]-'0'); 
+}
+
 int main(){
-    char pi = '0';
-    int a = 0, b = 0;
-    scanf("%c %d %d", &pi, &a, &b);
-    int aux = a + b;
-    if(pi == 'p'){
-        if((aux % 2) == 0){
-            puts("Venceu");
-        }else{
-            puts("Perdeu");
-        }
-    }else if(pi == 'i'){
-        if((aux % 2) != 0){
-            puts("Venceu");
-        }else{
-            puts("Perdeu");
-        }
-    }
+    Engima a;
+    scanf("%[^\n]",a.data);
+    scanf("\n%[^\n]",a.key);
+    decifrar(&a);
+
+    printf("%s\n",a.data);
+ 
 }

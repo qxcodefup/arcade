@@ -1,4 +1,4 @@
-## #repetição L3 - Spok Palíndromo
+## #repetição L2 - Spok Palíndromo
 
 
 ![](__capa.jpg)
@@ -61,9 +61,9 @@ Por exemplo: 121 é palíndromo pois seu inverso é 121.
 ```
 
 ```
-54321 / 10 retorna 5432, ou seja, o número retirando o primeiro digito mais a direita
+54321 / 10 retorna 5432, ou seja, o número retirando o primeiro dígito mais a direita
 
-54321 / 100 retorna 543, ou seja, o número retirando os dois digitos mais a direita
+54321 / 100 retorna 543, ou seja, o número retirando os dois dígitos mais a direita
 
 54321 / 100000 retorna 0, ou seja, o número retirando os cinco digitos mais a direta
 ```

@@ -1,58 +1,80 @@
-## #seleção L3 - Rufus e Par ou Ímpar!
-
-
-![](__capa.jpg)
+## #string L3 - Criptografia
 
 ## Motivação
+Yara quer desvendar um enigma, diga-se de passagem é bem enigmático!!!
 
-Rufus(minha tartaruga cibernética) quer entrar no campeonato de par ou impar entre tartarugas.
+O enigma consiste em um conjunto de caracteres aparentemente sem sentido, esse enigma so passa a 
+fazer sentindo quando processado com uma 'Key' composto por um número inteiro.
 
-Implemente o par ou impar no processador de RUFUS para que ele possa participar do campeonato
-mundial de par ou impar e trazer o prêmio pra UFC.
 
-[DS]
+O processamento consiste em fazer operações short (^), bit a bit, entre cada caractere do 
+enigma e cada digito da 'key', se a quantidade de dígitos da 'key' for menor que a quantidade 
+de caracteres do enigma, a 'key' se repete, se a quantidade de caracteres do enigma for menor 
+que a quantidade de dígitos da 'key', a 'key' se converte ao tamanho do enigma , desprezando os 
+dígitos adicionais. 
+
+
+### Exemplo :
+```
+Enigma = nnb!ovofl
+Key = 123
+```
+Ao processar cada caractere do enigma acima com a 'key', temos:
+```
+n n b ! o v o f l
+1 2 3 1 2 3 1 2 3
+
+o l a   m u n d o
+```
+Perceba que na prática os caracteres serão convertidos para o seu codigo decimal ASCII.
+```
+'n' = 110 = 1101110
+ 1  =  1  = 0000001
+            1101111 = 111 = 'o'
+```
+Ufaaa! Em fim... Ajude Yara nessa missao :)
+## Ação
+
+Yara irá procurar a chave pra você. 
+
+Então dada a chave(KEY) e o enigma(E) de Yara retornar o enigma revelado.  
 
 ### Entrada:
-* linha 1: A opção do jogador1(p para par e i para impar)
-* linha 2: o número de dedos do primeiro jogador
-* linha 3: número de dedos do segundo jogador.
 
-### Saída:
-* "Venceu" se o jogador 1 venceu e "Perdeu" se ele perdeu.
+Um conjunto de caracteres E, representando o enigma. 
 
+1 Inteiro KEY representando a chave do enigma.
+ 
+### Saida:
+
+O enigma revelado.
+
+### Restrições:
+
+1 < E <= 100.
+
+1 < KEY <= 2147483647.
 ## Exemplos
-
 ```
->>>>>>>>
-p
-1
-1
+>>>>>>>> Teste 0
+nnb!ovofl
+123
 ========
-Venceu
+ola mundo
 <<<<<<<<
 
->>>>>>>>
-p
-0
-1
+>>>>>>>> Teste 1
+Br'tbn+'qhdb'tfeb+'iht'tfebjht
+777
 ========
-Perdeu
+Eu sei, voce sabe, nos sabemos
 <<<<<<<<
 
->>>>>>>>
-i
-0
-0
+>>>>>>>> Teste 2
+jsmc*&cs&uis&ucs&vgo
+666
 ========
-Perdeu
-<<<<<<<<
-
->>>>>>>>
-i
-1
-0
-========
-Venceu
+luke, eu sou seu pai
 <<<<<<<<
 ```
-
+###### @spinosa

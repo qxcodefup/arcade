@@ -1,3 +1,4 @@
+[](base/139/Readme.md) : ## #funcoes L4 - A Porta Matemática
 [](base/009/Readme.md) : ## #funções L2 - Imprimir vetor formatado
 [](base/130/Readme.md) : ## #matrizes L2 - Bingo!
 [](base/012/Readme.md) : ## #matrizes L2 - Deu a louca no Imperador!
@@ -28,6 +29,7 @@
 [](base/141/Readme.md) : ## #recursão L2 - Números de Fibonacci
 [](base/140/Readme.md) : ## #recursão L3 - Contando caracteres recursivamente
 [](base/146/Readme.md) : ## #recursão L3 - Torres de Hanoi
+[](base/137/Readme.md) : ## #repeticao L2 - Fatoracao #math
 [](base/056/Readme.md) : ## #repetição L1 - Calça Zeze de Camargo - Mínimo
 [](base/013/Readme.md) : ## #repetição L1 - Dividindo pares de sapatos pra três
 [](base/055/Readme.md) : ## #repetição L1 - Quantos Ultrons você vê - Contar Elemento
@@ -39,6 +41,7 @@
 [](base/046/Readme.md) : ## #repetição L2 - Jogo da Concentração
 [](base/057/Readme.md) : ## #repetição L2 - Revolta em Portugal
 [](base/049/Readme.md) : ## #repetição L2 - Sapinho 1 no Poço
+[](base/066/Readme.md) : ## #repetição L2 - Spok Palíndromo
 [](base/136/Readme.md) : ## #repetição L2 - Trilhas - OBI 2005 - (Modo Easy)
 [](base/016/Readme.md) : ## #repetição L2 - Volta de 360 graus (Retirando os loops)
 [](base/047/Readme.md) : ## #repetição L2 - Ônibus lotado
@@ -51,7 +54,6 @@
 [](base/054/Readme.md) : ## #repetição L3 - Quebrador de Copos
 [](base/059/Readme.md) : ## #repetição L3 - Sapinho 2 morrendo no poço
 [](base/065/Readme.md) : ## #repetição L3 - Sapinho 3 matemático não morrendo no poço
-[](base/066/Readme.md) : ## #repetição L3 - Spok Palíndromo
 [](base/158/Readme.md) : ## #repetição L3 - Trilhas - OBI 2005
 [](base/161/Readme.md) : ## #repetição L3 - Vivo ou Morto - OBI 2005
 [](base/025/Readme.md) : ## #seleção L1 - Ambos Divisíveis
@@ -87,9 +89,9 @@
 [](base/023/Readme.md) : ## #seleção L3 - Jokenpo das tartarugas!
 [](base/036/Readme.md) : ## #seleção L3 - Morre o do meio
 [](base/033/Readme.md) : ## #seleção L3 - Professor Bonzinho
-[](base/041/Readme.md) : ## #seleção L3 - Rufus e Par ou Ímpar!
 [](base/042/Readme.md) : ## #seleção L3 - Rufus e Par ou Ímpar!
 [](base/001/Readme.md) : ## #seleção L3 - Sai fora Bhaskara (Cálculo de raízes)
+[](base/041/Readme.md) : ## #string L3 - Criptografia
 [](base/173/Readme.md) : ## #strings L1 - Eribelton e a Ascologia V1 - Somar Asc
 [](base/092/Readme.md) : ## #strings L1 - LP da Xura - Inverter String!
 [](base/104/Readme.md) : ## #strings L1 - Maiúsculo, Minusculo e Dígito!
@@ -172,6 +174,9 @@
 [](base/087/Readme.md) : ## #vetores L3 - Zoologico Entrando na Arca de Noé
 [](base/084/Readme.md) : ## #vetores L3 - Zoologico Um animal de cada tipo!
 [](base/191/Readme.md) : ## L2 - #matrizes Coluna de Valor Maior
+[](base/138/Readme.md) : ## L3 #repeticao - Permutação
+[](base/160/Readme.md) : ## L3 - #repetição #math Somátorio de Fibonacci
+[](base/163/Readme.md) : ## L3 - #string Permutação Lexograficamente Final de Fichas
 [](base/190/Readme.md) : ## L3 - Maiores Palindromos #repetição
 [](base/162/Readme.md) : ## L3 - Mini-Poker - OBI2005
 [](base/184/Readme.md) : ## L3 - Motivando a turma de secundaristas
