@@ -6,11 +6,12 @@
 ## Motivação
 
 O Ultron copiou os poderes da Mística e está se disfarçando para surpreender os vingadores.  
+
 Como o homem de ferro está muito ocupado lutando, o computador dele vai enviar os dados pra você e você vai informar pra ele quais são pessoas verdadeiras e quais são ultrons disfarçados.
 
 ## Ação
 
-Você receberá letras que correspondem ao rastro genético magnético do ultron e o código da pessoa analisada. Se o código da pessoas tiver MAIS de 50% das letras iguais ao código do ultron ela é ultron.  
+Você receberá letras que correspondem ao rastro genético magnético do ultron e o código da pessoa analisada. Se o código da pessoas tiver MAIS de 50% das letras iguais ao código do ultron, ela é ultron.  
 Se a correspondência for 100% ela é chefe.
 
 Suponha que o código do Ultron é "abcd".  

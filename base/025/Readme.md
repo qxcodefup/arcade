@@ -13,12 +13,12 @@ Leia dois inteiros e diga se ambos sao divisiveis por 3 ou por 5.
 
 ### Entrada
 
-- Dois numeros inteiros.
+- Dois números inteiros.
 
 ### Saída
 
-- "sim" (sem aspas) caso ambos sejam divisiveis por 3 ou 5
-- "nao" (sem aspas) caso não seja divisiveis
+- "sim" (sem aspas) caso ambos sejam divisíveis por 3 ou 5
+- "nao" (sem aspas) caso não seja divisíveis
 
 ## Exemplos
 
@@ -51,10 +51,11 @@ sim
 
 
 Você pode utilizar o operador "%" (lê-se "mod") para verificar se um número é divisível por outro. Lembre-se de verificar se é divisível por ambos os números, ou seja, 3 e 5.
-```
-# Exemplo em C
-// if(10 % 2 == 0)
-//     printf("10 é par");
+
+```c
+//Exemplo em C
+if(10 % 2 == 0)
+    printf("10 é par");
 ```
 
 

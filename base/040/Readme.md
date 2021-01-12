@@ -1,4 +1,4 @@
-## #seleção L3 - Está Trabalhand ou Não!
+## #seleção L3 - Está Trabalhando ou Não!
 
 
 ![](__capa.jpg)

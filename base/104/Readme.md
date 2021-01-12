@@ -6,9 +6,8 @@
 ## Motivação
 
 Sexta série é fogo. Pedrinho já repetiu 8 vezes a tarefinha de português e ainda não entendeu. "Tarefinha fácil" disse a tia.  
-Ô bixa mentirosa, pensou Pedrinho. Mas quem precisa decorar fórmulas quando se sabe programar.
 
-Ajude pedrinho a trocar caracteres maiúsculos por minúsculos e vice versa.
+Ô bixa mentirosa, pensou Pedrinho. Mas quem precisa decorar fórmulas quando se sabe programar.
 
 ## Ação
 

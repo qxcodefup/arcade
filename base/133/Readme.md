@@ -9,8 +9,6 @@ Os soldados se colocaram em formação no quartel. Na formação, eles formaram 
 
 Cada soldado tem uma numeração na sua farda, logo o Comandante querendo tripudiar de você, mandou você contar quantas vezes um soldado com numeração de fardamento menor está atrás de um maior.
 
-Você que não é besta, fez um código pra isso.
-
 ## Ação
 
 Faça um programa que conte quantos soldados com numeração de fardamento menor está atrás de um maior.

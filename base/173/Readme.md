@@ -9,8 +9,8 @@ Eribelton Fagundes estava passando na praça quando uma numeróloga lhe disse:
 - Se você mudar seu nome para Erivelton Facundo, vai ficar mais bonito, inteligente e rico.
 
 Ele não acreditando nisso, criou sua própria ciência, a ascologia.  
-Na ascologia, para descobrir o poder de um nome, some o valor Asc de todos os caracteres e depois peque o resto da divisão por 50.  
-Quanto menor, maior é o poder ascológico de um nome.  
+Na ascologia, para descobrir o poder de um nome, some o valor Asc de todos os caracteres e depois peque o resto da divisão por 50.
+Quanto menor o valor obtido, maior é o poder ascológico de um nome.  
 
 ## Ação
 

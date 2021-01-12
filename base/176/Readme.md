@@ -14,7 +14,7 @@ Durante a arrumação do buffet para festa de casamento, Fernando fala pra Coral
 * Meu bem, me perdoe, mas eu não to entendendo nada. Fernando irritado retruca.
 * A decoração Coralina, a decoração tá horrível!!
 
-Coisas de nerds da computação.
+Coisas de nerds!
 
 ## Ação
 

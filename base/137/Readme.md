@@ -1,4 +1,4 @@
-## #repeticao L2 - Fatoracao #math
+## #repeticao L2 - Fatoração
 
 ### Fatore um numero
 
@@ -9,7 +9,7 @@ Motivação
 
 Fatoração é um processo utilizado na matemática que consiste em representar um número ou uma expressão como produto de fatores.
 
-Saiba mais em: [Processos de Fatoracao](https://www.todamateria.com.br/fatoracao)
+Saiba mais em: [Processos de Fatoração](https://www.todamateria.com.br/fatoracao)
 
 Ação
 ----

@@ -11,7 +11,7 @@
 *   Mas pra onde a gente vai?
 *   Ouví falar de um canto que paga muito bem, não precisa de qualificação nenhuma e só tem gente assustadora.
 *   Qual cargo?
-*   12.800 pra motorista, graçom e assensorista lá no tribunal de contas em Brasília.
+*   12.800 pra motorista, garçom e assessorista lá no tribunal de contas em Brasília.
 *   Boa, vamos lá.
 
 Algum tempo depois...

@@ -5,9 +5,7 @@
 
 ## Motivação
 
-Você ganhou uma bolsa de auxílio pra organizar a fila do RU.  
-Então teve uma brilhante ideia para organizar a fila.  
-Você decidiu fazer uma fila com os homens e outra com as mulheres.
+Você ganhou uma bolsa de auxílio pra organizar a fila do RU. Então teve uma "brilhante" ideia para organizar a fila. Você decidiu fazer uma fila com os homens e outra com as mulheres.
 
 ## Ação
 
@@ -60,14 +58,13 @@ thndrthndrthndrctswwww
 #### Pseudocódigo
 
 ```
-inicie uma string s com 102 espaços
-leia a string s
-crie um laço onde: i = 0; s na posição i é diferente de '/n'; i++
-    se s na posição i == 'a' ou s na posição i == 'e' ou s na posição i == 'i' ou s na posição i == o ou s na posição i == u
-        mostre s na posição i;
-
-crie um laço onde: i = 0; s na posição i é diferente de '/n'; i++
-    se s na posição i != 'a' e s na posição i != 'e' e s na posição i != 'i' e s na posição i != o e s na posição i != u
-        mostre s na posição i;
+leia a frase
+vogais = ""
+consoantes = ""
+para cada caractere
+    se for vogal
+        concatene em vogais
+    senao
+        concatene em consoantes
 ```
 #

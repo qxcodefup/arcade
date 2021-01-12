@@ -6,7 +6,7 @@
 ## Motivação
 
 Tia Dalma (Calipso) e Jack Sparrow estavam conversando.  
-Jack depois da terceira garrafa de run diz:  
+Jack depois da terceira garrafa de run diz:
 \- Ja QuE eStAmOs Só NóS nEsSe BaRrCo, SeRá QuE rOlA uM bEiJiNhO?  
 \- Se você conseguir passar um dia sem beber eu penso nisso.  
 \- eU nAo QuEeRiA mEsMo.
@@ -22,7 +22,7 @@ Dada uma frase, conforme o case da primeira letra, alterne o case de todas as le
 *   Linha 1: A quantidade de casos de teste.
 *   Linha 2: Um texto com até 100 caracteres maiúsculos ou minúsculos e espaços por linha, para cada caso de teste.
 
-### Saida
+### Saída
 
 *   Dado o case do primeiro caractere, refaça os cases de todos os caracteres, desconsiderando o espaço.
 

@@ -26,7 +26,7 @@ n n b ! o v o f l
 
 o l a   m u n d o
 ```
-Perceba que na prática os caracteres serão convertidos para o seu codigo decimal ASCII.
+Perceba que na prática os caracteres serão convertidos para o seu código decimal ASCII.
 ```
 'n' = 110 = 1101110
  1  =  1  = 0000001

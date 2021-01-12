@@ -7,20 +7,18 @@
 
 \- Mamãe, quantos 'a's existem na frase:  
 \- A Andreia alimentou a avestruz com alcaparras  
-Um silêncio toma conta do ambiente. Mamãe, olha pro teto  
-como quem conta algo. Antes que Marileuza responda, Emanuelita se adianta.  
+Um silêncio toma conta do ambiente. Mamãe, olha pro teto como quem conta algo. Antes que Marileuza responda, Emanuelita se adianta.  
 \- São 10 vezes Mamãe!  
 Mamãe se sentindo superada por uma menina de 6 anos responde!  
 \- Menina, vai programar que é mais futuro.
 
 ## Ação
 
-Ajude Emanuelita a fazer o código que conta quantas vezes um caractere aparece numa frase. Conte apenas os caracteres exatos.  
-Cada frase tem até 100 caracteres.
+Ajude Emanuelita a fazer o código que conta quantas vezes um caractere aparece numa frase. Conte apenas os caracteres exatos. Cada frase tem até 100 caracteres.
 
 ### Entrada
 
-* Uma frase de ate 100 caracteres  e uma letra  
+* Uma frase de ate 100 caracteres e uma letra  
 
 ### Saída
 

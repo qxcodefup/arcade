@@ -1,11 +1,11 @@
-## #repetição L1 - Quantos Ultrons você vê - Contar Elemento
+## #repetição L1 - Contar Elemento
 
 
 ![](__capa.jpg)
 
 ## Motivação
 
-Na saga dos Vingadores, o Ultron é um inimigo capaz de fazer cópias de sí mesmo. João é um grande fã da Saga e possui um enorme poster que contém diversas copias do ultron junto aos heróis. João gostaria de saber quantos ultrons estão presentes no poster.
+Na saga dos Vingadores, o Ultron é um inimigo capaz de fazer cópias de sí mesmo. João é um grande fã da Saga e possui um enorme poster que contém diversas copias do Ultron junto aos heróis. João gostaria de saber quantos Ultrons estão presentes no poster.
 
 ## Ação
 
@@ -13,7 +13,7 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 
 ### Entrada
 
-* 1ª linha: Os números (X, entre 0 e 9 e N, entre 1 e 50), representado X o número que corresponde ao Ultron e N a quantidade de elementos no vetor.
+* 1ª linha: Os números (X, entre 0 e 9 e N, entre 1 e 50), representado X o número que corresponde ao elemento procurado e N a quantidade de elementos no vetor.
 
 * 2ª linha: Os elementos do vetor.
 

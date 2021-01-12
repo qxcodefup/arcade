@@ -12,7 +12,7 @@ Pergunta:
 "briofitas  sao   plantas e    pteridofitas     sao dinossauros que     voam"
 
 \- É que meu poodle bateu no espaço do meu notebook e agora ele tá doido, fessora.  
-\- Mas, número 1, pteridófitas são plantas, pterodáctilos que são dinossauros. E número 2, eu não aceito mais desculpas de cachorros pra não entregar a lição de casa. A moda agora é cloud computing.
+\- Mas, número 1, pteridófitas são plantas, pterodáctilos que são dinossauros. E número 2, eu não aceito mais desculpas de cachorros pra não entregar a lição de casa. A onda agora é cloud computing.
 
 ## Ação
 

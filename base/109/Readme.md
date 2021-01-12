@@ -18,11 +18,11 @@ nenhuma adição que coloque o valor em 0, escreva "sem sorte".
 
 ### Entrada
 
-*   : Uma palavra apenas com minúsculos e maiúsculos sem espaços (1 a 30 chars).
+- Uma palavra apenas com minúsculos e maiúsculos sem espaços (1 a 30 chars).
 
 ### Saida
 
-*   o novo nome ou "sem sorte"
+O novo nome ou "sem sorte"
 
 ## Exemplos
 

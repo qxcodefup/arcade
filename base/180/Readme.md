@@ -5,7 +5,7 @@
 
 ## Motivação
 
-Na pré-estreia de Capitão América: Guerra Civil, os fãs estavam loucos e divididos entre dois times, sendo eles: Team Iron e Team Captain. Eles discutiam os motivos de seus lados saírem vencedores. Stan Lee, um estagiário de TI pensou em diversas formas de determinar o vencedor, uma delas era dizendo a força de cada personagem, depois determinar qual seria vencedor de acordo com a soma dos poderes de cada time e por fim dizer quem é o fodão de toda a batalha de acordo com o seu poder.
+Na pré-estreia de Capitão América: Guerra Civil, os fãs estavam loucos e divididos entre dois times, sendo eles: Team Iron e Team Captain. Eles discutiam os motivos de seus lados saírem vencedores. Stan Lee, um estagiário de TI pensou em diversas formas de determinar o vencedor, uma delas era dizendo a força de cada personagem, depois determinar qual seria vencedor de acordo com a soma dos poderes de cada time e por fim dizer quem é o melhor de toda a batalha de acordo com o seu poder.
 
 ## Ação
 

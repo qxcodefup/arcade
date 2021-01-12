@@ -7,11 +7,11 @@
 
 Valdiskley está apaixonado por criptografia. Descobriu que codificar uma cifra genérica pode executar várias das antigas cifras históricas.
 
-Para conhecer mais cifras históricas veja Atbash, Albam e Atbah .
+Para conhecer mais cifras históricas veja Atbash, Albam e Atbah.
 
 ## Ação  
 
-Vamos fazer uma cifra de substituição genérica. Voce recebe um texto claro e duas palavras de cifragem. Se o caractere do texto claro estiver na palavra de cifragem 1, voce deve substitui-lo pelo caractere correspondente da palavra de cifragem 2.
+Vamos fazer uma cifra de substituição genérica. Voce recebe um texto claro e duas palavras de cifragem. Se o caractere do texto claro estiver na palavra de cifragem 1, você deve substitui-lo pelo caractere correspondente da palavra de cifragem 2.
 
 Exemplo. word1 = "abcdefghijlm" word2 = "nopqrtuvwxyz"
 

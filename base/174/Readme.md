@@ -12,10 +12,10 @@ Valdisklei chegou em casa com sua tarefinha sobre o alfabeto.
 * Mamãe, cinco letras antes do 'j'?
 * Como é? Diz Kleidiane sem entender nada.
 * De olhos arregalados, Valdisklei comprova o acerto do 'e'. Obstinado a derrotar sua mãe ele pergunta.
-* Mamãe, pensando numa lista circular onde após o z voltamos a ter o 'a', o que temos 24 letras depois do 'm'? Kleidiane, cujas suposições sobre o comportamento do filho flutuavam entre marmota, mungango ou macumba fala baixinho.
+* Mamãe, pensando numa lista circular onde após o z voltamos a ter o 'a', o que temos 24 letras depois do 'm'? Kleidiane, cujas suposições sobre o comportamento do filho flutuavam entre marmota e o mungango fala baixinho.
 * Kleizinho, vem cá!
 * 'K' grita Valdisklei, é mesmo 'k' mamãe. 24 depois do 'm' é k.
-* Mamãe, quando eu crescer quero ser que nem você! E os dois se abraçam celebrando a beleza da dupla ignorancia.
+* Mamãe, quando eu crescer quero ser que nem você! E os dois se abraçam celebrando a beleza da dupla ignorância.
 
 ## Ação
 

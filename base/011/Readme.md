@@ -1,4 +1,4 @@
-## #operações L1 - Formatando data - Definindos casas decimais e operador de módulo
+## #operações L1 - Formatando data - Casas decimais e operador de módulo
 
 ![](__capa.jpg)
 

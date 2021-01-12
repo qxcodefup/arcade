@@ -8,7 +8,6 @@
 A bordo da Enterprise, Spok recebeu a missão de explorar novos planetas.  
 Cada planeta tem um identificador(ID) único.  
 Como o combustível da nave está pouco, Spok decidiu explorar apenas planetas que possuem ID palíndromo.  
-Então ele pediu pra você fazer um programa que indique se determinado ID é palíndromo.  
 
 ## Ação
 

@@ -14,7 +14,7 @@
 [](base/154/Readme.md) : ## #matrizes L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
 [](base/132/Readme.md) : ## #matrizes L3 - Subdiagonais
 [](base/007/Readme.md) : ## #matrizes L3 - Tetris (Fazendo a peça cair)
-[](base/011/Readme.md) : ## #operações L1 - Formatando data - Definindos casas decimais e operador de módulo
+[](base/011/Readme.md) : ## #operações L1 - Formatando data - Casas decimais e operador de módulo
 [](base/000/Readme.md) : ## #operações L1 - Operações básicas - Imprimindo float formatado
 [](base/003/Readme.md) : ## #operações L2 - Opala bebedor - Cálculo de desempenho do motor
 [](base/002/Readme.md) : ## #operações L2 - Pintando a casa - Calculando a área do triângulo com a fórmula de Heron
@@ -29,10 +29,10 @@
 [](base/141/Readme.md) : ## #recursão L2 - Números de Fibonacci
 [](base/140/Readme.md) : ## #recursão L3 - Contando caracteres recursivamente
 [](base/146/Readme.md) : ## #recursão L3 - Torres de Hanoi
-[](base/137/Readme.md) : ## #repeticao L2 - Fatoracao #math
-[](base/056/Readme.md) : ## #repetição L1 - Calça Zeze de Camargo - Mínimo
+[](base/137/Readme.md) : ## #repeticao L2 - Fatoração
+[](base/056/Readme.md) : ## #repetição L1 - Calça apertada - Mínimo
+[](base/055/Readme.md) : ## #repetição L1 - Contar Elemento
 [](base/013/Readme.md) : ## #repetição L1 - Dividindo pares de sapatos pra três
-[](base/055/Readme.md) : ## #repetição L1 - Quantos Ultrons você vê - Contar Elemento
 [](base/044/Readme.md) : ## #repetição L1 - Somatório V2
 [](base/045/Readme.md) : ## #repetição L1 - Zero é par - Somatório de Pares!
 [](base/058/Readme.md) : ## #repetição L2 - Busca Intervalada
@@ -82,7 +82,7 @@
 [](base/029/Readme.md) : ## #seleção L2 - Quiz do Harry Potter
 [](base/020/Readme.md) : ## #seleção L2 - Zerinho ou Um!
 [](base/043/Readme.md) : ## #seleção L3 - Dorme Tarde Acordar Cedo!
-[](base/040/Readme.md) : ## #seleção L3 - Está Trabalhand ou Não!
+[](base/040/Readme.md) : ## #seleção L3 - Está Trabalhando ou Não!
 [](base/034/Readme.md) : ## #seleção L3 - Formiga da bundona
 [](base/157/Readme.md) : ## #seleção L3 - Frota de Táxi - OBI 2005
 [](base/037/Readme.md) : ## #seleção L3 - Jokenpo 15
@@ -166,17 +166,17 @@
 [](base/079/Readme.md) : ## #vetores L3 - Jogo do Avesso V2
 [](base/081/Readme.md) : ## #vetores L3 - Loucura de Marquinhos - Decompor um inteiro
 [](base/077/Readme.md) : ## #vetores L3 - Mercantil V3 - Muitas rodadas
-[](base/071/Readme.md) : ## #vetores L3 - Mário e o Assassins Creed - Parkour
+[](base/071/Readme.md) : ## #vetores L3 - Mário e o Assassin's Creed - Parkour
 [](base/074/Readme.md) : ## #vetores L3 - OBI 2017 - Fase 1 - Botas Trocadas
 [](base/076/Readme.md) : ## #vetores L3 - OBI 2017 - Fase 1 - O segredo do Cofre
 [](base/088/Readme.md) : ## #vetores L3 - Se fosse a mediana eu tinha passado!
 [](base/069/Readme.md) : ## #vetores L3 - Zoo quantas especies!
-[](base/087/Readme.md) : ## #vetores L3 - Zoologico Entrando na Arca de Noé
-[](base/084/Readme.md) : ## #vetores L3 - Zoologico Um animal de cada tipo!
+[](base/087/Readme.md) : ## #vetores L3 - Zoológico Entrando na Arca de Noé
+[](base/084/Readme.md) : ## #vetores L3 - Zoológico Um animal de cada tipo!
 [](base/191/Readme.md) : ## L2 - #matrizes Coluna de Valor Maior
 [](base/138/Readme.md) : ## L3 #repeticao - Permutação
-[](base/160/Readme.md) : ## L3 - #repetição #math Somátorio de Fibonacci
-[](base/163/Readme.md) : ## L3 - #string Permutação Lexograficamente Final de Fichas
-[](base/190/Readme.md) : ## L3 - Maiores Palindromos #repetição
+[](base/160/Readme.md) : ## L3 - #repetição Somatório de Fibonacci
 [](base/162/Readme.md) : ## L3 - Mini-Poker - OBI2005
 [](base/184/Readme.md) : ## L3 - Motivando a turma de secundaristas
+[](base/163/Readme.md) : ## L4 - #string Permutação Lexograficamente Final de Fichas
+[](base/190/Readme.md) : ## L4 - Maiores Palíndromos #repetição
