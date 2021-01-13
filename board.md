@@ -2,17 +2,17 @@
 [](base/009/Readme.md) : ## #funções L2 - Imprimir vetor formatado
 [](base/130/Readme.md) : ## #matrizes L2 - Bingo!
 [](base/012/Readme.md) : ## #matrizes L2 - Deu a louca no Imperador!
+[](base/131/Readme.md) : ## #matrizes L2 - Matriz Simétrica
 [](base/134/Readme.md) : ## #matrizes L2 - Quadrado Mágico
 [](base/133/Readme.md) : ## #matrizes L2 - Soldados em Posição
 [](base/128/Readme.md) : ## #matrizes L2 - Soma de elementos de em uma matriz
 [](base/150/Readme.md) : ## #matrizes L2 - Soma de matrizes
+[](base/132/Readme.md) : ## #matrizes L2 - Subdiagonais
 [](base/129/Readme.md) : ## #matrizes L3 - Campo Minado
 [](base/159/Readme.md) : ## #matrizes L3 - Campo de Minhocas - OBI 2005
 [](base/135/Readme.md) : ## #matrizes L3 - Jogo da vida
-[](base/131/Readme.md) : ## #matrizes L3 - Matriz Simétrica
 [](base/153/Readme.md) : ## #matrizes L3 - OBI 2015 - Fase 2 - Nível 1 - Torre
 [](base/154/Readme.md) : ## #matrizes L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
-[](base/132/Readme.md) : ## #matrizes L3 - Subdiagonais
 [](base/007/Readme.md) : ## #matrizes L3 - Tetris (Fazendo a peça cair)
 [](base/011/Readme.md) : ## #operações L1 - Formatando data - Casas decimais e operador de módulo
 [](base/000/Readme.md) : ## #operações L1 - Operações básicas - Imprimindo float formatado
