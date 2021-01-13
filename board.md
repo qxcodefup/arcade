@@ -31,9 +31,9 @@
 [](base/146/Readme.md) : ## #recursão L3 - Torres de Hanoi
 [](base/137/Readme.md) : ## #repeticao L2 - Fatoração
 [](base/056/Readme.md) : ## #repetição L1 - Calça apertada - Mínimo
-[](base/055/Readme.md) : ## #repetição L1 - Contar Elemento
 [](base/013/Readme.md) : ## #repetição L1 - Dividindo pares de sapatos pra três
 [](base/044/Readme.md) : ## #repetição L1 - Somatório V2
+[](base/055/Readme.md) : ## #repetição L1 - Ultrons - Contar Elemento
 [](base/045/Readme.md) : ## #repetição L1 - Zero é par - Somatório de Pares!
 [](base/058/Readme.md) : ## #repetição L2 - Busca Intervalada
 [](base/048/Readme.md) : ## #repetição L2 - Cabo de Guerra Jedi
