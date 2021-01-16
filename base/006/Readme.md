@@ -55,6 +55,6 @@ jog4
 
 ## Dicas
 
-Tente primeiro verificar se a soma é igual a 0, se for ninguém ganhou, caso contrário haverá um vencedor. Se usar o mod para tirar o resto da divisão por a quantidade de jogadores, você terá um número entre 0 e 3, esses valores representam o vencedor. Lembre-se que ao tirar o resto da divisão de um multiplo de 4, o resto é 0, logo o valor 0 representa o jogador 4. 
+Tente primeiro verificar se a soma é igual a 0, se for ninguém ganhou, caso contrário haverá um vencedor. Se usar o mod para tirar o resto da divisão por a quantidade de jogadores, você terá um número entre 0 e 3, esses valores representam o vencedor. Lembre-se que ao tirar o resto da divisão de um múltiplo de 4, o resto é 0, logo o valor 0 representa o jogador 4. 
 
 

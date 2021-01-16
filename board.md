@@ -176,6 +176,7 @@
 [](base/191/Readme.md) : ## L2 - #matrizes Coluna de Valor Maior
 [](base/138/Readme.md) : ## L3 #repeticao - Permutação
 [](base/160/Readme.md) : ## L3 - #repetição Somatório de Fibonacci
+[](base/192/Readme.md) : ## L3 - A idade de Dona Mônica - OBI 2019 F1PJ
 [](base/162/Readme.md) : ## L3 - Mini-Poker - OBI2005
 [](base/184/Readme.md) : ## L3 - Motivando a turma de secundaristas
 [](base/163/Readme.md) : ## L4 - #string Permutação Lexograficamente Final de Fichas
