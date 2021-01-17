@@ -182,3 +182,4 @@
 [](base/184/Readme.md) : ## L3 - Motivando a turma de secundaristas
 [](base/163/Readme.md) : ## L4 - #string Permutação Lexograficamente Final de Fichas
 [](base/190/Readme.md) : ## L4 - Maiores Palíndromos #repetição
+[](base/194/Readme.md) : ## Nota cortada OBI 2019 F1P1
