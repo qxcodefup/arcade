@@ -29,6 +29,7 @@
 - [@011 L1 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md)  [](#operações)
 - [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003/Readme.md)  [](#operações)
 - [@193 L2 - Dominó - OBI 2019 F1PJ](base/193/Readme.md) 
+- [@195 L2 - Xadrez OBI 2019 F1P1](base/195/Readme.md) 
 - [@002 L2 - Pintando a casa - Calculando a área do triângulo com a fórmula de Heron](base/002/Readme.md)  [](#operações)
 - [@005 L3 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md)  [](#operações)
 - [@004 L3 - Mete bala - Distância entre dois pontos](base/004/Readme.md)  [](#operações)
@@ -63,7 +64,7 @@
 - [@019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019/Readme.md)  [](#seleção)
 - [@017 L2 - Ovos de galinha (Procurando o Maior valor)](base/017/Readme.md)  [](#seleção)
 - [@014 L2 - Quantos são iguais? (Contando Repetidos)](base/014/Readme.md)  [](#seleção)
-- [@194 Nota cortada OBI 2019 F1P1](base/194/Readme.md)
+- [@194 Nota cortada OBI 2019 F1P1](base/194/Readme.md) 
 
 ## 04. Seleção Extra
 
