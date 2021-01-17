@@ -174,6 +174,7 @@
 [](base/087/Readme.md) : ## #vetores L3 - Zoológico Entrando na Arca de Noé
 [](base/084/Readme.md) : ## #vetores L3 - Zoológico Um animal de cada tipo!
 [](base/191/Readme.md) : ## L2 - #matrizes Coluna de Valor Maior
+[](base/193/Readme.md) : ## L2 - Dominó - OBI 2019 F1PJ
 [](base/138/Readme.md) : ## L3 #repeticao - Permutação
 [](base/160/Readme.md) : ## L3 - #repetição Somatório de Fibonacci
 [](base/192/Readme.md) : ## L3 - A idade de Dona Mônica - OBI 2019 F1PJ
