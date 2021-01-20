@@ -86,7 +86,6 @@
 - [@056 L1 - Calça apertada - Mínimo](base/056/Readme.md)  [](#repetição)
 - [@013 L1 - Dividindo pares de sapatos pra três](base/013/Readme.md)  [](#repetição)
 - [@055 L1 - Ultrons - Contar Elemento](base/055/Readme.md)  [](#repetição)
-- [@044 L1 - Somatório V2](base/044/Readme.md)  [](#repetição)
 - [@045 L1 - Zero é par - Somatório de Pares!](base/045/Readme.md)  [](#repetição)
 - [@058 L2 - Busca Intervalada](base/058/Readme.md)  [](#repetição)
 - [@048 L2 - Cabo de Guerra Jedi](base/048/Readme.md)  [](#repetição)
@@ -95,6 +94,7 @@
 - [@057 L2 - Revolta em Portugal](base/057/Readme.md)  [](#repetição)
 - [@049 L2 - Sapinho 1 no Poço](base/049/Readme.md)  [](#repetição)
 - [@136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136/Readme.md)  [](#repetição)
+- [@189 L2 - Fatores de um número](base/189/Readme.md)  [](#repetição)
 
 ## 06. Repetição II
 
@@ -117,7 +117,6 @@
 - [@066 L2 - Spok Palíndromo](base/066/Readme.md)  [](#repetição)
 - [@161 L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md)  [](#repetição)
 - [@158 L3 - Trilhas - OBI 2005](base/158/Readme.md)  [](#repetição)
-- [@189 L3 - Fatores de um número](base/189/Readme.md)  [](#repetição)
 
 ## 08. Vetores I
 

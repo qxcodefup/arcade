@@ -32,12 +32,12 @@
 [](base/137/Readme.md) : ## #repeticao L2 - Fatoração
 [](base/056/Readme.md) : ## #repetição L1 - Calça apertada - Mínimo
 [](base/013/Readme.md) : ## #repetição L1 - Dividindo pares de sapatos pra três
-[](base/044/Readme.md) : ## #repetição L1 - Somatório V2
 [](base/055/Readme.md) : ## #repetição L1 - Ultrons - Contar Elemento
 [](base/045/Readme.md) : ## #repetição L1 - Zero é par - Somatório de Pares!
 [](base/058/Readme.md) : ## #repetição L2 - Busca Intervalada
 [](base/048/Readme.md) : ## #repetição L2 - Cabo de Guerra Jedi
 [](base/050/Readme.md) : ## #repetição L2 - Castelos de Cubos
+[](base/189/Readme.md) : ## #repetição L2 - Fatores de um número
 [](base/046/Readme.md) : ## #repetição L2 - Jogo da Concentração
 [](base/057/Readme.md) : ## #repetição L2 - Revolta em Portugal
 [](base/049/Readme.md) : ## #repetição L2 - Sapinho 1 no Poço
@@ -48,7 +48,6 @@
 [](base/051/Readme.md) : ## #repetição L3 - Arremesso de pedra na lua
 [](base/063/Readme.md) : ## #repetição L3 - Blackjack 21!
 [](base/064/Readme.md) : ## #repetição L3 - Conta Dígitos
-[](base/189/Readme.md) : ## #repetição L3 - Fatores de um número
 [](base/052/Readme.md) : ## #repetição L3 - Hoje tem sopa de coelho?
 [](base/053/Readme.md) : ## #repetição L3 - OBI 2016 - Fuga em helicóptero
 [](base/054/Readme.md) : ## #repetição L3 - Quebrador de Copos
