@@ -11,10 +11,9 @@ da distância entre os pontos.
 
 ## Ação
 
-Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto,
-imprima a distância entre os pontos com duas casas decimais.
+Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto, imprima a distância entre os pontos com duas casas decimais.
 
-<img src="https://render.githubusercontent.com/render/math?math=d_{AB}=\sqrt{(X_B-X_A)^2+(Y_B-Y_A)^2}">
+<img style="transform: translateY(0.1em);" src="https://render.githubusercontent.com/render/math?math=d_%7BAB%7D%3D%5Csqrt%7B(X_B-X_A)%5E2%2B(Y_B-Y_A)%5E2%7D">
 
 
 ### Entrada:
