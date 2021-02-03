@@ -78,7 +78,6 @@
 - [@023 L3 - Jokenpo das tartarugas!](base/023/Readme.md)  [](#seleção)
 - [@036 L3 - Morre o do meio](base/036/Readme.md)  [](#seleção)
 - [@033 L3 - Professor Bonzinho](base/033/Readme.md)  [](#seleção)
-- [@042 L3 - Rufus e Par ou Ímpar!](base/042/Readme.md)  [](#seleção)
 - [@001 L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001/Readme.md)  [](#seleção)
 
 ## 05. Repetição I
