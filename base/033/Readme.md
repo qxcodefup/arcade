@@ -21,7 +21,13 @@ A ordem da entrada é importante nessa questão. As três primeira entradas são
 
 ### Saída
 
-*   "Aprovado com $nota" ou "Final com $nota" onde $nota é o valor da nota com uma casa decimal.  
+*   "Aprovado com ![nota" ou "Final com nota" onde ](<html>
+<head><title>405 Not Allowed</title></head>
+<body bgcolor="white">
+<center><h1>405 Not Allowed</h1></center>
+</body>
+</html> "nota" ou "Final com nota" onde ")
+nota é o valor da nota com uma casa decimal.  
 
 ## Exemplos
 

@@ -21,7 +21,6 @@
 - [18. Funções e Ponteiros](#18-funções-e-ponteiros)
 - [19. Recursão](#19-recursão)
 - [20. Structs](#20-structs)
-
 <!--TOC_END-->
 ## 01. Operações
 
