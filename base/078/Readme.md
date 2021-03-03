@@ -97,26 +97,29 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 <<<<<<<<
 ```
 
-### Pseudocódigo
+### Ajuda
 
-```
-CRIE A, N, G
-LER A
-ENQUANTO I MENOR A
-	LEIA N G
-	CRIE VETOR VET DE TAMANHO N
-	PREENCHER VET
-	ENQUANTO J MENOR N
-		SE VET[J] == G OU VET[J] == G * (-1)
-			SE J == 0
-				VET[J+1] = VET[J+1] * (-1)
-			SE NÃO SE J == N - 1
-				VET[J-1] = VET[J-1] * (-1)
-			SE NÃO
-				VET[J-1] = VET[J-1] * (-1)
-				VET[J+1] = VET[J+1] * (-1)
+Essas questões modelo maratona normalmente envolvem executar várias vezes o mesmo problema em um único caso de teste. Minha sugestão é que você separe a execução do problema em funções. Você pode utilizar o modelo abaixo em todas as questões do tipo.
 
-	IMPRIMIR VET ATÉ POSIÇÃO N
+```c
+void avesso(){
+    int tam = 0, grito = 0;
+    scanf("%d%d", &tam, &grito);
+    int vetor[tam];
+    for(int i = 0; i < tam; i++) //ler vetor
+        scanf("%d", &vetor[i]);
+
+    inverter(vetor, tam, grito); //inverte os vizinhos do grito
+    mostrar(vetor, tam); //mostra o vetor
+}
+
+int main(){    
+    int qte = 0;
+    scanf("%d", &qte);
+    for(int i = 0; i < qte; i++){
+        avesso(); //resolvendo o problema de uma instância
+    }
+}
 ```
 
 

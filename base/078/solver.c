@@ -1,38 +1,38 @@
-#include <stdio.h>
+#include<stdio.h>
+#include<stdlib.h>
 
-void modifica_vetor(int qtd, int size_vet, int grito, int vet[size_vet]){
-    for(int i = 0; i < size_vet; i++)
-        if(vet[i] == grito){
-            if(i - 1 >= 0)
-                vet[i - 1] = -vet[i - 1];
-            if(i + 1 < size_vet)
-                vet[i + 1] = -vet[i + 1];
-        }
-}
-
-void show(int size_vet, int vet[size_vet]){
-    printf("[");
-    for(int a = 0; a < size_vet; a++){
-        printf("%d", vet[a]);
-        if(a < size_vet - 1)
-            printf(" ");
-    }
+void mostrar(int * vet, int size){
+    printf("[%d", vet[0]);
+    for(int i = 1; i < size; i++)
+        printf(" %d", vet[i]);
     printf("]\n");
 }
 
-int main(){
-    int qtd = 0, size_vet = 0, grito = 0;
-    scanf("%d ", &qtd);
+void inverter(int * vet, int size, int valor){
+    for(int i = 0; i < size; i++)
+        if(vet[i] == valor || vet[i] == -valor){
+            if(i != 0)
+                vet[i - 1] *= -1;
+            if(i != size - 1)
+                vet[i + 1] *= -1;
+        }
+}
 
-    int vet[100];
+void avesso(){
+    int tam = 0, grito = 0;
+    scanf("%d%d", &tam, &grito);
+    int vetor[tam];
+    for(int i = 0; i < tam; i++) //ler vetor
+        scanf("%d", &vetor[i]);
 
-    for(int i = 0; i < qtd; i++){
-        scanf("%d %d", &size_vet, &grito);
-        for(int a = 0; a < size_vet; a++)
-            scanf("%d", &vet[a]);
-        modifica_vetor(qtd, size_vet, grito, vet);
-        show(size_vet, vet);
+    inverter(vetor, tam, grito);
+    mostrar(vetor, tam);
+}
+
+int main(){    
+    int qte = 0;
+    scanf("%d", &qte);
+    for(int i = 0; i < qte; i++){
+        avesso();
     }
-
-    return 0;
 }
