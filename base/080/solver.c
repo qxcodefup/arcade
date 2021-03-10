@@ -1,61 +1,61 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-bool verifica_next(int i, int sizeFig, int vet[sizeFig]){
-    for(int a = i; a < sizeFig; a++)
-        if(vet[a] != -1)
+//se existir, retorna a posicao, se não retorna -1
+int find(int vet[], int size, int value){
+    for(int i = 0; i < size; i++)
+        if(vet[i] == value)
+            return i;
+    return -1;
+}
+
+//olha pra tras e vês se o elemento de vet[pos] já apareceu antes
+bool repetida(int vet[], int size, int pos){
+    for(int i = 0; i < pos; i++)
+        if(vet[i] == vet[pos])
             return true;
     return false;
 }
 
+//mostra o vetor ou então N
+void show(int vet[], int size){
+    if(size == 0)
+        puts("N");
+    else{
+        for(int i = 0; i < size; i++){
+            if(i != 0)
+                printf(" ");
+            printf("%d", vet[i]);
+        }
+        puts("");
+    }
+}
+
 int main(){
+    int max = 0;
     int size = 0;
-    int nFigurinhas = 0;
-    scanf("%d %d", &size, &nFigurinhas);
-
-    int album[size];
-    int figurinhas[nFigurinhas];
-
-    for(int i = 1; i <= size; i++)
-        album[i - 1] = i;
-
-    for(int i = 0; i < nFigurinhas; i++)
-        scanf("%d", &figurinhas[i]);
-
-    int tem = 0;
-    for(int i = 0; i < nFigurinhas; i++)
-        for(int x = 0; x < size; x++)
-            if(figurinhas[i] == album[x]){
-                tem += 1;
-                album[x] = -1;
-                figurinhas[i] = -1;
-            }
-
-    bool naoTem = true;
-    for(int i = 0; i < nFigurinhas; i++)
-        if(figurinhas[i] != -1){
-            printf("%d", figurinhas[i]);
-            naoTem = false;
-            if(verifica_next(i + 1, nFigurinhas, figurinhas))
-                printf(" ");
-        }
+    scanf("%d %d", &max, &size);
+    int vet[size];
+    for(int i = 0; i < size; i++)
+        scanf("%d", &vet[i]);
     
-    if(naoTem)
-        printf("N");
 
-    puts("");
-    bool naoFalta = true;
-    for(int i = 0; i < size; i++){
-        if(album[i] != -1){
-            printf("%d", album[i]);
-            naoFalta = false;
-            if(verifica_next(i + 1, size, album))
-                printf(" ");
-        }
-    }
-    if(naoFalta){
-        printf("N");
+    int trocar[size];
+    int trocar_size = 0;
+    //olha pra tras e verifica se ja apareceu esse numero no vetor
+    for(int i = 0; i < size; i++)
+        if(repetida(vet, size, i))
+            trocar[trocar_size++] = vet[i];
+    
+
+    int faltante[max];
+    int faltante_size = 0;
+    //verifica se esse número está no vetor
+    for(int i = 1; i <= max; i++){
+        if(find(vet, size, i) == -1)
+            faltante[faltante_size++] = i;
     }
 
-    puts("");
+    show(trocar, trocar_size);
+    show(faltante, faltante_size);
 }
