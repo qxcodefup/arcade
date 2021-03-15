@@ -1,43 +1,50 @@
 #include <stdio.h>
 
-void modifica_vetor(int qtd, int size_vet, int gritos[qtd], int vet[size_vet]){
-    for(int a = 0; a < qtd; a++)
-        for(int i = 0; i < size_vet; i++)
-            if(vet[i] == gritos[a] || -vet[i] == gritos[a]){
-                if(i - 1 >= 0)
-                    vet[i - 1] = -vet[i - 1];
-                if(i + 1 < size_vet)
-                    vet[i + 1] = -vet[i + 1];
-            }
+int find_abs(int vet[], int size, int value){
+    for(int i = 0; i < size; i++)
+        if(vet[i] == value || vet[i] == -value)
+            return i;
+    return -1;
 }
 
-void show(int size_vet, int vet[size_vet]){
+void inverte_ao_lado(int vet[], int size, int pos){
+    if(pos < 0 || pos >= size)
+        return;
+    if(pos > 0)
+        vet[pos - 1] *= -1;
+    if(pos < size - 1)
+        vet[pos + 1] *= -1;
+}
+
+void show(int vet[], int size){
     printf("[");
-    for(int a = 0; a < size_vet; a++){
-        printf("%d", vet[a]);
-        if(a < size_vet - 1)
+    for(int i = 0; i < size; i++){
+        if(i != 0)
             printf(" ");
+        printf("%d", vet[i]);
     }
     printf("]\n");
 }
 
 int main(){
-    int qtd = 0, size = 0;
-    scanf("%d %d ", &size, &qtd);
+    int vet_size = 0, gritos_size = 0;
+    scanf("%d %d ", &vet_size, &gritos_size);
 
-    int vet[size];
-    int gritos[qtd];
+    int vet[vet_size];
+    int gritos[gritos_size];
 
-    for(int a = 0; a < size; a++)
-        scanf("%d", &vet[a]);
+    for(int i = 0; i < vet_size; i++)
+        scanf("%d", &vet[i]);
 
-    for(int a = 0; a < qtd; a++)
-        scanf("%d", &gritos[a]);
+    for(int i = 0; i < gritos_size; i++)
+        scanf("%d", &gritos[i]);
 
-    for(int a = 0; a < qtd; a++)
-        modifica_vetor(qtd, size, gritos, vet);
+    for(int i = 0; i < gritos_size; i++){
+        int pos = find_abs(vet, vet_size, gritos[i]);
+        inverte_ao_lado(vet, vet_size, pos);
+    }
 
-    show(size, vet);
+    show(vet, vet_size);
     
     return 0;
 }
