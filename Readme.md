@@ -2,8 +2,6 @@
 
 <!--TOC_BEGIN-->
 - [01. Operações](#01-operações)
-    - [Tutoriais](#tutoriais)
-    - [Questões](#questões)
 - [02. Seleção I](#02-seleção-i)
 - [03. Seleção II](#03-seleção-ii)
 - [04. Seleção Extra](#04-seleção-extra)
@@ -27,18 +25,14 @@
 
 
 ## 01. Operações
-
-### Tutoriais
 - [@000 L1 - Operações básicas - Imprimindo float formatado](base/000/Readme.md)  [](#operações)
 - [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md)  [](#operações)
-### Questões
-
 - [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003/Readme.md)  [](#operações)
 - [@018 L2 - Arredondar](base/018/Readme.md) 
 - [@196 L2 - Comprando TV parcelado](base/196/Readme.md) 
 - [@193 L2 - Dominó - OBI 2019 F1PJ](base/193/Readme.md) 
 - [@195 L2 - Xadrez OBI 2019 F1P1](base/195/Readme.md) 
-- [@002 L2 - Pintando a casa - Calculando a área do triângulo com a fórmula de Heron](base/002/Readme.md)  [](#operações)
+- [@002 L2 - Pintando a casa - Calculando a área do triângulo](base/002/Readme.md)  [](#operações)
 - [@005 L3 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md)  [](#operações)
 - [@004 L3 - Mete bala - Distância entre dois pontos](base/004/Readme.md)  [](#operações)
 - [@192 L3 - A idade de Dona Mônica - OBI 2019 F1PJ](base/192/Readme.md) 
