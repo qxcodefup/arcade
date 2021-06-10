@@ -24,7 +24,7 @@ Dado um inteiro lido do usuário, determine, sem uso de operadores reais
 
 ### Entrada
 
-- Um número inteiro.  
+- Um número inteiro.
 
 ### Saída
 
