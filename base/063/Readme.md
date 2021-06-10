@@ -2,7 +2,7 @@
 
 
 ![](__capa.jpg)
-
+[](t.tio)
 ## Motivação
 
 Faça um programa que conte o valor de uma mão de blackjack.  
@@ -14,7 +14,7 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 
 ### Entrada
 
-- A entrada começa informando a quantidade de elementos do vetor e é seguida por um vetor de inteiros.  
+- A entrada começa informando a quantidade de elementos do vetor e é seguida pelos valores inteiros um por linha.
 
 ### Saída
 
@@ -24,31 +24,48 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 
 ```
 >>>>>>>>
-2 1 13
+2
+1
+13
 ========
 21
 <<<<<<<<
 
 >>>>>>>>
-2 11 13
+2
+11
+13
 ========
 20
 <<<<<<<<
 
 >>>>>>>>
-3 1 1 1
+3
+1
+1
+1
 ========
 13
 <<<<<<<<
 
 >>>>>>>>
-5 1 1 2 3 12
+5
+1
+1
+2
+3
+12
 ========
 17
 <<<<<<<<
 
 >>>>>>>>
-5 1 1 2 10 12  
+5
+1
+1
+2
+10
+12
 ========
 24
 <<<<<<<<
@@ -56,28 +73,23 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 
 ## Ajuda
 
-Dica
-
-- Que tal criar uma variavel que armazena a quantidade de `ás` ?
-
 Pseudocódigo
 ```
-Ler numero_cartas
-as recebe 0
-total recebe 0
-auxiliar recebe 1
+var numero_cartas = ler_inteiro()
+var ases = 0
+var total = 0
 
-Para (auxiliar <= numero_cartas) faca:
-    Ler carta
-    Se (carta == 1):
-        Incrementar em uma unidade valor de as
-        Somar 11 ao total
-    Senao Se (carta >= 10):
-        Somar 10 ao total
+Faça numero_cartas vezes
+    carta = ler_inteiro()
+    Se carta for uma As
+        ases += 1
+        total += 11
+    Senão Se carta for dama, valete ou rei
+        total += 10
     Senao:
         Somar o valor de carta ao total
 
-Enquanto (total > 21 e as > 0):
+Enquanto (total > 21 e ases > 0):
     Subtrair 10 ao total
     Diminuir uma unidade do valor de as
 

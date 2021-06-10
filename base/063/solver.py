@@ -20,9 +20,8 @@ for elem in vetor:
     else:
         soma += elem
 
-    
 while soma > 21 and ases > 0:
-	ases -= 1 #tiro um as
-	soma -= 10 #retirar um as baixa a minha conta em 10
+    ases -= 1 #tiro um as
+    soma -= 10 #retirar um as baixa a minha conta em 10
 
 print(soma)

@@ -71,11 +71,10 @@
 - [@019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019/Readme.md)  [](#seleção)
 - [@017 L2 - Ovos de galinha (Procurando o Maior valor)](base/017/Readme.md)  [](#seleção)
 - [@014 L2 - Quantos são iguais? (Contando Repetidos)](base/014/Readme.md)  [](#seleção)
-- [@194 Nota cortada OBI 2019 F1P1](base/194/Readme.md) 
+- [@194 L2 - Nota cortada OBI 2019 F1P1](base/194/Readme.md) 
 
 ## 04. Seleção Extra
 - [@034 L3 - Formiga da bundona](base/034/Readme.md)  [](#seleção)
-
 - [@029 L2 - Quiz do Harry Potter](base/029/Readme.md)  [](#seleção)
 - [@020 L2 - Zerinho ou Um!](base/020/Readme.md)  [](#seleção)
 - [@043 L3 - Dorme Tarde Acordar Cedo!](base/043/Readme.md)  [](#seleção)
@@ -99,30 +98,29 @@
 - [@046 L2 - Jogo da Concentração](base/046/Readme.md)  [](#repetição)
 - [@057 L2 - Revolta em Portugal](base/057/Readme.md)  [](#repetição)
 - [@049 L2 - Sapinho 1 no Poço](base/049/Readme.md)  [](#repetição)
-- [@136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136/Readme.md)  [](#repetição)
 - [@189 L2 - Fatores de um número](base/189/Readme.md)  [](#repetição)
+- [@053 L2 - OBI 2016 - Fuga em helicóptero](base/053/Readme.md)  [](#repetição)
 
 ## 06. Repetição II
 
+- [@136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136/Readme.md)  [](#repetição)
 - [@016 L2 - Volta de 360 graus (Retirando os loops)](base/016/Readme.md)  [](#repetição)
 - [@047 L2 - Ônibus lotado](base/047/Readme.md)  [](#repetição)
 - [@137 L2 - Fatoração](base/137/Readme.md)  [](#repeticao)
 - [@138 L3 - Permutação](base/138/Readme.md)  [](#repeticao)
-- [@160 L3 - Somatório de Fibonacci](base/160/Readme.md)  [](#repetição)
 - [@051 L3 - Arremesso de pedra na lua](base/051/Readme.md)  [](#repetição)
 - [@063 L3 - Blackjack 21!](base/063/Readme.md)  [](#repetição)
 - [@064 L3 - Conta Dígitos](base/064/Readme.md)  [](#repetição)
 - [@052 L3 - Hoje tem sopa de coelho?](base/052/Readme.md)  [](#repetição)
-- [@053 L3 - OBI 2016 - Fuga em helicóptero](base/053/Readme.md)  [](#repetição)
-- [@054 L3 - Quebrador de Copos](base/054/Readme.md)  [](#repetição)
 - [@059 L3 - Sapinho 2 morrendo no poço](base/059/Readme.md)  [](#repetição)
+- [@065 L3 - Sapinho 3 matemático não morrendo no poço](base/065/Readme.md)  [](#repetição)
+- [@054 L3 - Quebrador de Copos](base/054/Readme.md)  [](#repetição)
 
 ## 07. Repetição Extra
 
-- [@065 L3 - Sapinho 3 matemático não morrendo no poço](base/065/Readme.md)  [](#repetição)
+- [@160 L3 - Somatório de Fibonacci](base/160/Readme.md)  [](#repetição)
 - [@066 L2 - Spok Palíndromo](base/066/Readme.md)  [](#repetição)
 - [@161 L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md)  [](#repetição)
-- [@158 L3 - Trilhas - OBI 2005](base/158/Readme.md)  [](#repetição)
 
 ## 08. Vetores I
 
@@ -165,6 +163,7 @@
 - [@076 L3 - OBI 2017 - Fase 1 - O segredo do Cofre](base/076/Readme.md)  [](#vetores)
 - [@084 L3 - Zoológico Um animal de cada tipo!](base/084/Readme.md)  [](#vetores)
 - [@190 L4 - Maiores Palíndromos](base/190/Readme.md)  [](#repetição)
+- [@158 L3 - Trilhas - OBI 2005](base/158/Readme.md)  [](#repetição)
 
 ## 11. Strings I
 
