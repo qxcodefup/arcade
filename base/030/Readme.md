@@ -77,22 +77,22 @@ Observação
 * Para ser utilizada a função `abs`, ela deve ser importada. Segue as formas de importação em algumas linguagens e como utilizar:
 
 ```c
-    #include <math.h> //c
+#include <math.h> //c
 
-    abs(-3) //retorna 3
+abs(-3) //retorna 3
 ```
 ```c++
-    #include <cmath> //c++
+#include <cmath> //c++
 
-    abs(-3) //retorna 3
+abs(-3) //retorna 3
 ```
 ```python
-    #python
-    abs(-3) #retorna 3
+#python
+abs(-3) #retorna 3
 ```
 ```javascript
-    //javascript 
-    Math.abs(-3) //retorna 3
+//javascript 
+Math.abs(-3) //retorna 3
 ```
 
 

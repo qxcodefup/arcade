@@ -3,6 +3,7 @@
 
 ![](__capa.jpg)
 
+[](t.tio)
 ## Motivação
 
 No jogo de amarelinha é necessário jogar a pedrinha no número certo. Não vale jogar no número maior nem no número menor. Pra ficar mais divertido, dois amigos decidiram reformular as regras do jogo permitindo jogar a pedrinha dentro do intervalo estabelecido. Funcionava, assim:  
@@ -17,10 +18,8 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 
 ### Entrada
 
-*   Quantidade N de elementos do vetor.
-*   Limite inferior e limite superior.
-
-*   N números inteiros.
+* 1a linha Quantidade N de elementos do vetor, Limite inferior e limite superior.
+* Próximas linhas: N números inteiros.
 
 ### Saída
 
@@ -30,25 +29,32 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 
 ```
 >>>>>>>>
-4
-1 3
-1 5 3 7
+4 1 3
+1
+5
+3
+7
 ========
 2
 <<<<<<<<
 
 >>>>>>>>
-5
-3 5
-1 2 4 6 8
+5 3 5
+1
+2
+4
+6
+8
 ========
 1
 <<<<<<<<
 
 >>>>>>>>
-4
-3 5
-1 2 7 8
+4 3 5
+1
+2
+7
+8
 ========
 0
 <<<<<<<<
@@ -56,12 +62,11 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 ## Ajuda
 #### Pseudocódigo
 ```
-Leia o tamanho do laço(T)
-Leia o menor e o maior 
-Crie um laço que inicie em 0 e adicione 1 enquanto for menor que T
-  Leia auxiliar
-  Se auxiliar for maior que menor e auxiliar menor que maior
-    Adicione +1 ao contador
+Leia o tamanho do laço(tamanho), o (menor) e (maior)
+Faça tamanho vezes:
+    Leia auxiliar
+    Se auxiliar estiver dentro do intervalo
+        Adicione 1 ao contador
 Fim do laço
 Mostre contador
 ```

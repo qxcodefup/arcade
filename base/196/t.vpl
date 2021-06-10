@@ -1,0 +1,47 @@
+case=
+input=100
+1
+output="100.00
+100.00
+"
+grade reduction=100%
+
+case=
+input=100
+2
+output="52.50
+105.00
+"
+grade reduction=100%
+
+case=
+input=100
+10
+output="14.50
+145.00
+"
+grade reduction=100%
+
+case=
+input=102
+3
+output="37.40
+112.20
+"
+grade reduction=100%
+
+case=
+input=52
+4
+output="14.95
+59.80
+"
+grade reduction=100%
+
+case=
+input=100
+5
+output="24.00
+120.00
+"
+grade reduction=100%

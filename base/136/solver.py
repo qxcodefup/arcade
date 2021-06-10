@@ -1,12 +1,12 @@
-data = [int(x) for x in input().split(" ")]
-del data[0]
-sum = 0
-for i in range(0, len(data) - 1):
-    if data[i] < data[i + 1]:
-        sum += data[i + 1] - data[i]
-data.reverse()
-sum2 = 0
-for i in range(0, len(data) - 1):
-    if data[i] < data[i + 1]:
-        sum2 += data[i + 1] - data[i]
-print(min([sum, sum2]))
+gasto_indo = 0
+gasto_voltando = 0
+tamanho = int(input())
+valor = int(input())
+for i in range(0, tamanho - 1):
+    novo = int(input())
+    if(valor - novo) > 0:
+        gasto_voltando += valor - novo
+    if novo - valor > 0:
+        gasto_indo += novo - valor
+    valor = novo
+print(min(gasto_indo, gasto_voltando))

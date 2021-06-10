@@ -3,8 +3,7 @@
 
 ## Motivação
 
-Uma formiginha está andando na borda de um relógio redondo analógico. Como sua dieta é muito baseada em açúcar, sua nutricionista recomendou que ela caminhasse todos os dias para
-emagrecer.
+Uma formiguinha está andando na borda de um relógio redondo analógico. Como sua dieta é muito baseada em açúcar, sua nutricionista recomendou que ela caminhasse todos os dias para emagrecer.
 
 ![formiga](__capa.jpg)
 

@@ -2,7 +2,7 @@
 
 
 ![](__capa.jpg)
-
+[](t.tio)
 ## Motivação
 
 Uma trilha é descrita como um conjunto de alturas representando os trechos de subidas e descidas. Considere que apenas existe esforço para os trechos onde existem subidas e que descer não realiza esforço. Uma trilha pode ser percorrida em qualquer sentido. 
@@ -25,7 +25,7 @@ Se ela for percorrida no sentido contrário vai gastar 14 de esforço. Então o 
 Dado uma trilha, você deve calcular o menor esforço para percorrê-la.
   
 ### Entrada
-- A descrição de uma trilha inicia com um número inteiro M que indica a quantidade de pontos de medição da trilha (2 ≤ M ≤ 1000), seguido de M números inteiros Hi representando a altura dos pontos da trilha (medidos a intervalos regulares e iguais para todas as linhas). 
+- A descrição de uma trilha inicia com um número inteiro M que indica a quantidade de pontos de medição da trilha (2 ≤ M ≤ 1000), seguido de M números inteiros Hi, um por linha, representando a altura dos pontos da trilha (medidos a intervalos regulares e iguais para todas as linhas). 
 - Pode-se percorrer a trilha em qualquer sentido (ou seja, partindo do ponto de altitude H1 em direção ao ponto de altitude HM , ou partindo do ponto de altitude HM em direção ao ponto de altitude H1 ).
   
 ### Saída
@@ -42,9 +42,30 @@ Dado uma trilha, você deve calcular o menor esforço para percorrê-la.
 
 ```
 >>>>>>>> 00
-6 300 305 301 299 290 295
+6
+300
+305
+301
+299
+290
+295
 ========
 10
 <<<<<<<<
 ```
 
+## Ajuda
+```
+var gasto_indo = 0
+var gasto_voltando = 0
+var tamanho = ler_inteiro()
+var valor = ler_inteiro()
+Faça tamanho - 1 vezes
+    var novo = ler_inteiro()
+    se valor - novo > zero
+        incremente gasto_voltando da diferenca
+    se novo - valor > zero
+        incremente gasto_indo da diferenca
+    valor = novo
+Imprima o menor valor ente gasto_voltanto e gasto_indo
+```

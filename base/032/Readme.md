@@ -7,16 +7,17 @@
 
 Haikyuu é um anime muito show de bola sobre vôlei. Se você já tiver terminado todas as questões de seleção do moodle, você pode ir conferir alguns episódios em [LINK](https://www.animesync.tv/v/V3Eo6xG9Wrjv/).
 
-Alan Brado é um treinador muito competente e determinado. Numa certa manhã, ele reuniu todo time e decidiu fazer um treino de saque para observar seus jogadores e o desempenho neles no jogo. Depois de alguns cálculos, ele percebeu um padrão e então criou uma fórmula para calcular o índice de poder dos saques. A fórmula é dada por:
+Alan Brado é um treinador muito competente e determinado. Numa certa manhã, ele reuniu todo o time e decidiu fazer um treino de saque para observar seus jogadores e o desempenho neles no jogo. Depois de alguns cálculos, ele percebeu um padrão e então criou uma fórmula para calcular o índice de poder dos saques. A fórmula é dada por:
 
 P = ((F \* T) - 80) / 10
 
 * P é o poder
 * F a força
-* T é o tipo de saque
+* T é a força para cada tipo de saque
 
-* b (por baixo), com valor 20.
-* c (por cima), com valor 18.
+- Se tipo for
+    - b (por baixo), T tem valor 20.
+    - c (por cima), T tem valor 18.
 
 Com isso, ele concluiu uma faixa de satisfação dos saques:
 
@@ -77,12 +78,12 @@ Quando for fazer os if elses, lembre que pode fazer os if elses apenas utilizand
 
 ```C
 if(valor < 150)
- fazer algo
+  fazer algo
 else if(valor < 180)
- fazer algo
+  fazer algo
 else if(valor < 210)
- fazer algo
+  fazer algo
 else
- fazer algo
+  fazer algo
 ```
 ---

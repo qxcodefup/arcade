@@ -1,4 +1,4 @@
-## #operações L1 - Formatando data - Casas decimais e operador de módulo
+## #operações L2 - Formatando data - Casas decimais e operador de módulo
 
 ![](__capa.jpg)
 
@@ -15,7 +15,7 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 ## Exemplos
 
 ```
->>>>>>>> 01
+>>>>>>>>
 4
 12
 12
@@ -25,7 +25,17 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 04:12 12/03/88
 <<<<<<<<
 
->>>>>>>> 02
+>>>>>>>>
+12
+30
+1
+3
+188
+========
+12:30 01/03/88
+<<<<<<<<
+
+>>>>>>>>
 14
 7
 7
@@ -35,24 +45,28 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 02:07 07/09/05
 <<<<<<<<
 
->>>>>>>> 03
-24
+>>>>>>>>
+23
 1
 1
 1
 2076
 ========
-00:01 01/01/76
+11:01 01/01/76
 <<<<<<<<
 ```
 
 ## Ajuda
 
-Em C você pode imprimir zeros à esquerda informando quantas casas decimais você deseja obter na parte inteira.
-
-O comando printf("%03d", value) imprime a variável value e se ela menos de 3 dígitos, completa com zeros à esquerda.
+## Resolução
+Seja a variável `valor` um número em inteiro, você pode imprimir essa variável completando com zeros a esquerda até formar a quantidade de dígitos que você precisa, para colocar 2 dígitos você faz assim:
+- C: `printf("%02d", valor)`
+- Javascript: `console.log(String(valor).padStart(2, "0"))`
+- Python: `print("%02d" % (valor))`
 
 Você pode usar o operador de módulo para quebrar a parte da informação de você precisa para pegar apenas a hora ou a dezena e unidade do ano.
 
 ---
+
+[![](video.png)](https://youtu.be/8ic8dqudXPw)
 

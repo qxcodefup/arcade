@@ -1,18 +1,22 @@
 #include <stdio.h>
 
 int main(){
-    int h = 0, m = 0, d = 0;
-    char s = 0;
+    int hora = 0, minuto = 0, distancia = 0;
+    char direcao = 0;
 
-    scanf("%d %d %c %d", &h, &m, &s, &d);
+    scanf("%d %d %c %d", &hora, &minuto, &direcao, &distancia);
     
-    int time = 6 * h + m / 10;
-    time += (s == 'H') ? d : -d;
-    time = (time % (12 * 6));
-    if(time < 0)
-        time += 72;
-    h = time / 6;
-    s = (time % 6) * 10; 
-    printf("%02d %02d\n", h, s);
+    int partida = 6 * hora + minuto / 10;
+    int final = partida;
+    if (direcao == 'H') 
+        final += distancia;
+    else
+        final -= distancia;
+    final = final % (12 * 6);
+    if(final < 0)
+        final += 72;
+    hora = final / 6;
+    minuto = (final % 6) * 10; 
+    printf("%02d %02d\n", hora, minuto);
     return 0;
 }

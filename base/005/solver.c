@@ -1,19 +1,10 @@
 #include <stdio.h>
+#include <math.h>
 //a solução eh o teto de (b+g+m)/c
 
 int main(){
-    int c, b, g, m;
-    int result;
-    
-    scanf("%d", &c);
-    scanf("%d", &b);
-    scanf("%d", &g);
-    scanf("%d", &m);
-    
-    result = (b+g+m)/c; // calcula o piso
-
-    if( (b+g+m) % c != 0 ) 
-        result = result + 1; //pega o teto
-    
-    printf("%d\n", result);
+    int c = 0, b = 0, g = 0, m = 0;    
+    scanf("%d %d %d %d", &c, &b, &g, &m);
+    float result = (b + g + m) / (float) c; // calcula o piso
+    printf("%d\n", (int) ceil(result));
 }

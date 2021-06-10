@@ -51,46 +51,38 @@ Supondo que João seja sobre humano, seu trabalho é fazer um programa para calc
 
 ## Dica
 
+### Lendo as variáveis
+
+Para ler as variáveis em python e javascript você pode fazer assim:
+- Python: `hora, min, seg = map(int, input().split(" "))`
+- Javascript = `let [hora, min, seg] = input().split(" ").map(Number)`
+
+
+### Imprimindo com 2 dígitos
 Para imprimir um número inteiro colocando zeros a esquerda utilize o seguinte comando. Se o printf contiver %0xd, o número vai ser impresso completando com zeros a esquerda se o número tiver menos que x caracteres. Para imprimir com dois dígitos a variável **valor** use.
 
-```C
-printf("%02d", valor); //c
-
-print'%02d'% valor # python
 ```
+c
+printf("%02d", valor);
+
+python
+print("%02d" % (valor))
+
+javascript
+console.log("String(valor).padStart(2, '0'));
+```
+
 #### Pseudocódigo
 ```
 Leia hora, minuto e segundo
-Se segundo igual a 59
-  segundo = 00
-  Se minuto igual a 59
-    minuto = 00
-    Se hora igual a 23
-      hora = 00
-    Se não 
-      hora mais 1
-  Se não
-    minuto mais 1
-Se não
-  segundo mais 1
+segundo = segundo + 1
+se segundo == 60
+    segundo = 0
+    minuto = minuto + 1
+    se minuto == 60
+        minuto = 0
+        hora = hora + 1
+        se hora == 24
+            hora = 0
+```
 Mostre hora, minuto e segundo com duas casas
-```
-#
-## Ajuda
-
-#### pseudocódigo
-```
-Leia pi, a e b
-crie variável auxiliar = a + b
-se pi for igual a 'p'
-    se (auxiliar % 2 = 0)
-        mostre "Venceu";
-    senão
-        mostre "Perdeu";
-senão se pi = 'i'
-    se (aux % 2 é diferente de 0)
-        mostre "Venceu";
-    senão
-        mostre "Perdeu";
-```
-#

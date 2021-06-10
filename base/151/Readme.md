@@ -11,7 +11,7 @@ A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógi
 
 ### Entrada
 
-- A entrada é composta de apenas uma linha, contendo os três inteiros L, R e D.
+- A entrada é composta 3 linhas, contendo os três inteiros L, R e D.
 
 ### Saída
 
@@ -27,19 +27,25 @@ A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógi
 
 ```
 >>>>>>>>
-35 60 75
+35
+60
+75
 ========
 N
 <<<<<<<<
 
 >>>>>>>>
-55 68 67
+55
+68
+67
 ========
 S
 <<<<<<<<
 
 >>>>>>>>
-66 80 80
+66
+80
+80
 ========
 N
 <<<<<<<<

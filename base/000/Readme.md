@@ -44,5 +44,10 @@ Leia dois números e imprima a soma, a subtração, a multiplicação, a divisã
 ```
 
 ## Resolução
+Seja a variável `valor` um número em ponto flutuante, você pode imprimir essa variável com duas casas decimais você pode fazer assim:
+- C: `printf("%2.f", valor)`
+- Javascript: `console.log(valor.toFixed(2))`
+- Python: `print("%.2f" % (valor))`
+
 
 [![](video.png)](https://youtu.be/XbjHzCULmEI)

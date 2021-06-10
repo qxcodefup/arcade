@@ -53,7 +53,7 @@ Receba um vetor de inteiros e conte quantas vezes dois números consecutivos pos
 ## Exemplos
 
 ```
->>>>>>>>>
+>>>>>>>>
 5
 1 2 1 2 3
 ========

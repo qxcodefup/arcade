@@ -2,6 +2,8 @@
 
 <!--TOC_BEGIN-->
 - [01. Operações](#01-operações)
+    - [Tutoriais](#tutoriais)
+    - [Questões](#questões)
 - [02. Seleção I](#02-seleção-i)
 - [03. Seleção II](#03-seleção-ii)
 - [04. Seleção Extra](#04-seleção-extra)
@@ -22,15 +24,21 @@
 - [19. Recursão](#19-recursão)
 - [20. Structs](#20-structs)
 <!--TOC_END-->
+
+
 ## 01. Operações
 
+### Tutoriais
 - [@000 L1 - Operações básicas - Imprimindo float formatado](base/000/Readme.md)  [](#operações)
+- [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md)  [](#operações)
+### Questões
+
 - [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003/Readme.md)  [](#operações)
+- [@018 L2 - Arredondar](base/018/Readme.md) 
 - [@196 L2 - Comprando TV parcelado](base/196/Readme.md) 
 - [@193 L2 - Dominó - OBI 2019 F1PJ](base/193/Readme.md) 
 - [@195 L2 - Xadrez OBI 2019 F1P1](base/195/Readme.md) 
 - [@002 L2 - Pintando a casa - Calculando a área do triângulo com a fórmula de Heron](base/002/Readme.md)  [](#operações)
-- [@011 L1 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md)  [](#operações)
 - [@005 L3 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md)  [](#operações)
 - [@004 L3 - Mete bala - Distância entre dois pontos](base/004/Readme.md)  [](#operações)
 - [@192 L3 - A idade de Dona Mônica - OBI 2019 F1PJ](base/192/Readme.md) 
@@ -48,7 +56,6 @@
 - [@026 L1 - Positivo, Nulo ou Negativo?](base/026/Readme.md)  [](#seleção)
 - [@038 L2 - A hora do próximo segundo](base/038/Readme.md)  [](#seleção)
 - [@027 L2 - Adedonha na Califórnia](base/027/Readme.md)  [](#seleção)
-- [@018 L2 - Arrendondar](base/018/Readme.md)  [](#seleção)
 - [@021 L2 - Aumento de Salário](base/021/Readme.md)  [](#seleção)
 
 ## 03. Seleção II
@@ -67,12 +74,12 @@
 - [@194 Nota cortada OBI 2019 F1P1](base/194/Readme.md) 
 
 ## 04. Seleção Extra
+- [@034 L3 - Formiga da bundona](base/034/Readme.md)  [](#seleção)
 
 - [@029 L2 - Quiz do Harry Potter](base/029/Readme.md)  [](#seleção)
 - [@020 L2 - Zerinho ou Um!](base/020/Readme.md)  [](#seleção)
 - [@043 L3 - Dorme Tarde Acordar Cedo!](base/043/Readme.md)  [](#seleção)
 - [@040 L3 - Está Trabalhando ou Não!](base/040/Readme.md)  [](#seleção)
-- [@034 L3 - Formiga da bundona](base/034/Readme.md)  [](#seleção)
 - [@157 L3 - Frota de Táxi - OBI 2005](base/157/Readme.md)  [](#seleção)
 - [@037 L3 - Jokenpo 15](base/037/Readme.md)  [](#seleção)
 - [@023 L3 - Jokenpo das tartarugas!](base/023/Readme.md)  [](#seleção)

@@ -1,16 +1,13 @@
 #include <stdio.h>
 
 int main(){
-    int auxHora = 0;
-    int minuto = 0;
-    int dia = 0;
-    int mes = 0;
-    int auxAno = 0;
-    
-    scanf ("%d %d %d %d %d", &auxHora, &minuto, &dia, &mes, &auxAno);
+    int hora = 0, min = 0, dia = 0, mes = 0, ano = 0;
+    scanf("%d %d %d %d %d", &hora, &min, &dia, &mes, &ano);
+    // hora = hora > 12 ? hora - 12 : hora;
+    if(hora > 12)
+        hora -= 12;
+    ano %= 100;
 
-    int ano = auxAno % 100;
-    int hora = auxHora % 12;
-    
-    printf("%02d:%02d %02d/%02d/%02d\n", hora, minuto, dia, mes, ano);
+    printf("%02d:%02d %02d/%02d/%02d\n", hora, min, dia, mes, ano);
 }
+

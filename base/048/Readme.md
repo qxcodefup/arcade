@@ -3,6 +3,7 @@
 
 ![](__capa.jpg)
 
+[](t.tio)
 ## Motivação
 
 * Hoje é Dia de gincana galeraaaaaaa!
@@ -19,8 +20,7 @@ Você recebe uma entrada que é um vetor de tamanho T de numeros positivos entre
 ### Entrada
 
 * 1ª linha: número de elementos
- 
-* 2ª linha: vetor de elementos.
+* Próximas linhas: valor dos elementos.
 
 ### Saída
 
@@ -31,42 +31,60 @@ Você recebe uma entrada que é um vetor de tamanho T de numeros positivos entre
 ```
 >>>>>>>>
 2
-1 1
+1
+1
 ========
 Empate
 <<<<<<<<
 
 >>>>>>>>
 2
-2 1
+2
+1
 ========
 Jedi
 <<<<<<<<
 
 >>>>>>>>
 2
-2 4
+2
+4
 ========
 Sith
 <<<<<<<<
 
 >>>>>>>>
 4
-2 4 5 3
+2
+4
+5
+3
 ========
 Sith
 <<<<<<<<
 
 >>>>>>>>
 6
-2 4 3 3 3 3
+2
+4
+3
+3
+3
+3
 ========
 Empate
 <<<<<<<<
 
 >>>>>>>>
 8
-2 4 3 4 3 3 3 2
+2
+4
+3
+4
+3
+3
+3
+2
 ========
 Jedi
 <<<<<<<<
@@ -79,23 +97,22 @@ Jedi
 Pseudocódigo
 
 ```
-Ler tamanho_vetor
-soma_jedi recebe 0
-soma_sith recebe 0
-auxiliar recebe 1
+var tamanho = ler_inteiro()
+var soma_jedi = 0
+var soma_sith = 0
+var auxiliar = 1
 
-Enquanto (auxiliar for menor ou igual tamanho_vetor):
-    Ler tropa
+Faça um laço com contador começando de 1 até igual tamanho:
+    valor = ler_inteiro()
+    Se contador menor que tamanho / 2
+        soma_jedi é incrementada com o valor
+    Senao
+        soma_sith é incrementada com o valor
 
-    Se (auxiliar for menor (tamanho_vetor / 2)):
-        soma_jedi é incrementada com o valor de tropa
-    Senao:
-        soma_sith é incrementada com o valor de tropa
-
-    Se (soma_jedi for maior soma_sith):
-        Mostrar "Jedi"
-    Se (soma_jedi for menor soma_sith):
-        Mostrar "Sith"
-    Se (soma_jedi for igual a soma_sith):
-        Mostrar "Empate"
+Se soma_jedi maior que soma_sith
+    Mostrar "Jedi"
+Senão Se soma_jedi menor que soma_sith:
+    Mostrar "Sith"
+Senão
+    Mostrar "Empate"
 ```

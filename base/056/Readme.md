@@ -5,9 +5,7 @@
 
 ## Motivação
 
-Tem mulheres que gostam de roupa apertada. E homens sertanejos também. Mariana olhou em seu armário  
-e se vestiu para abafar na festa do Luan Santana. Então pegou 5 de suas melhores calças jeans e decidiu 
-escolher a mais justa.  
+Tem mulheres que gostam de roupa apertada. E homens sertanejos também. Mariana olhou em seu armário e se vestiu para abafar na festa do Luan Santana. Então pegou 5 de suas melhores calças jeans e decidiu escolher a mais justa.  
 
 ## Ação
 
@@ -48,12 +46,10 @@ Faça um programa que receba cinco valores inteiros e encontre o menor deles.
 ## Ajuda
 #### Pseudocódigo
 ```
-Crie menor(int) = 31 
-Crie um laço que inicia em 0 e adiciona mais um enquanto for menor que 5
-  Leia auxiliar
-  Se auxiliar < menor
-    menor = auxiliar
-Fim do laço
+variável menor = ler_inteiro()  
+Faça 4 vezes
+    variável auxiliar = ler_inteiro()
+    Se auxiliar < menor
+        menor = auxiliar
 Mostre menor
 ```
-note que é dado na questão que o maior numero pocível é 30. Logo 31 sempre vai ser substituido pelo primeiro auxiliar

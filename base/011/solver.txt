@@ -1,0 +1,15 @@
+hora = ler_inteiro()
+minuto = ler_inteiro()
+dia = ler_inteiro()
+mes = ler_inteiro()
+ano = ler_inteiro()
+
+se hora > 12
+    hora = hora - 12
+
+
+ano = ano mod 100
+
+colocar todos os valores com dois digitos
+
+imprimir(hora:minuto dia/mes/ano)

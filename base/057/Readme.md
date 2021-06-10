@@ -2,7 +2,7 @@
 
 
 ![](__capa.jpg)
-
+[](t.tio)
 ## Motivação
 
 Um grupo de portugueses planejava fazer uma revolução armada.
@@ -19,7 +19,7 @@ Verifique se o grupo de Manoel ou de Joaquim conseguirá vencer essa batalha. Da
 
 * 1ª linha: tamanho do vetor (1 a 50)
 
-* 2ª linha: vetor de números, cada número entre 1 e 50.
+* Próximas linhas: valor dos números, cada número entre 1 e 50.
 
 ### Saída
 
@@ -34,35 +34,46 @@ Verifique se o grupo de Manoel ou de Joaquim conseguirá vencer essa batalha. Da
 ```
 >>>>>>>>
 2
-1 2
+1
+2
 ========
 rebeldes
 <<<<<<<<
 
 >>>>>>>>
 3
-1 2 1
+1
+2
+1
 ========
 empate
 <<<<<<<<
 
 >>>>>>>>
 2
-2 3
+2
+3
 ========
 soldados
 <<<<<<<<
 
 >>>>>>>>
 4
-1 2 3 1
+1
+2
+3
+1
 ========
 soldados
 <<<<<<<<
 
 >>>>>>>>
 5
-1 2 3 1 4
+1
+2
+3
+1
+4
 ========
 rebeldes
 <<<<<<<<
@@ -72,18 +83,16 @@ rebeldes
 #### Pseudocódigo
 
 ```
-Leia tamanho_do_vetor
-Inicie um laço em 0 e continue enquanto for menor que o tamanho_do_vetor adicionando +1{
-  Leia tropa
-  Se (tropa modulo 2 igual a 0)
-    somaPar = somaPar + tropa
-  Senão 
-    somaImpar = somaImpar + tropa
+var tamanho = ler_inteiro()
+var soma_par = 0
+var soma_impar = 0
+Faça tamanho vezes
+    var valor = ler_inteiro()
+    Se valor for par 
+        incremente valor em soma_par
+    Senão 
+        incremente valor em soma_impar
 }
-Se (somaPar maior que somaImpar) 
-  Mostre "rebeldes"
-Se (somaImpar maior que somapar)
-  Mostre "soldados"
-Se (somaPar igual a somaImpar)
-  Mostre "empate"
+Mostre o resultado de acordo 
+com a comparação entre soma_par e soma_impar
 ```

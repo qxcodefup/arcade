@@ -5,7 +5,17 @@
 
 ## Motivação
 
-Vários competidores disputaram uma competição interessante. Eles tinham duas pedras para lançar. Chamemos de pedra A e pedra B. Eles tinham que arremessar ambas as pedras a pelo menos 10 metros de distância. Ganhava a competição o competidor que arremessou as duas além da linha de 10 metros o mais próximo possível uma da outra. Se alguma das pedras tiver distância menor que 10 metros, o competidor estará desclassificado.
+Vários competidores disputaram uma competição interessante. 
+
+- Eles tinham duas pedras para lançar. 
+- Chamemos de pedra A e pedra B. 
+- Eles tinham que arremessar ambas as pedras a pelo menos 10 metros de distância.
+- Se alguma das pedras caíssem abaixo de 10 metros, ele estaria desclassificado.
+- A pontuação pelo obtida é dada pela distância absoluta entre as pedras. Se uma pedra caiu a 12 metros e outra a 15 metros, ele fez 3 pontos.
+- Ganha o competidor que faz menos pontos.
+- O primeiro competidor tem número índice 0.
+- Se houver empate nos pontos, ganha o competidor que tem menor índice.
+
 
 ### Entrada
 
@@ -15,7 +25,7 @@ Vários competidores disputaram uma competição interessante. Eles tinham duas 
 
 ### Saida
 
-* O número do competidor vitorioso. O primeiro competidor tem número 0. Caso haja empate, mostre o de menor número. Se ninguém ganhar o jogo, porque não conseguiram lançar as bolas além dos 10 metros, imprima "sem ganhador".
+- Se ninguém ganhar o jogo, porque todos foram desclassificados, imprima "sem ganhador".
 
 ## Exemplos
 
@@ -57,23 +67,18 @@ Vários competidores disputaram uma competição interessante. Eles tinham duas 
 <<<<<<<<
 
 ```
+
 ## Ajuda
-#### Pseudocódigo
 ```
-Leia o numero_de_competidores
-Laço inicia i = 0 e adiciona +1 enquanto menor que numero_de_competidores 
-  Leia distancia_da_pedraA e distancia_da_pedraB
-  Se(distancia_da_pedraA maior ou igual a 10 e distancia_da_pedraB maior ou igual a 10)
-    distancia = distancia_da_pedraA - distancia_da_pedraB
-    Se (distandia menor que 0) 
-      distancia * -1
-    Se((ganhador igual a -1) ou (distancia menor que melhor_distancia))
-      ganhador = i
-      melhor_distancia = distancia 
-fim do laço
-Se(ganhador  diferente de -1)
-  Mostre ganhador 
-Senão 
-  Mostre sem ganhador
+var numero_de_competidores = ler_inteiro()
+var ganhador_indice = -1
+var ganhador_pontos = 0
+Faça indice variar de 0 até numero_de_competidores
+    Leia o valor das duas pedras
+    Se ambas as pedras caíram 10 metros ou além
+        var pontos = diferenca absoluta entre os dois valores
+        se ganhador_indice == -1 ou pontos < ganhador_pontos
+            atualiza ganhador_indice e ganhador_pontos
+Verifique so houve ganhador e imprima a resposta adequada
 ```
 
