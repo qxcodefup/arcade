@@ -267,3 +267,5 @@
 - [@184 L3 - Motivando a turma de secundaristas](base/184/Readme.md) 
 - [@187 L2 - Jogo da cobrinha](base/187/Readme.md)  [](#structs)
 - [@182 L3 - Mulher mais idosa](base/182/Readme.md)  [](#structs)
+
+- [@042 L3 - OBI 2021 - Chefe Nervoso](base/042/Readme.md) 
