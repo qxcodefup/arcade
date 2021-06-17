@@ -10,6 +10,7 @@ Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na
 >>>>>>>>
 8
 ========
+2 3
 <<<<<<<<
 
 >>>>>>>>
@@ -23,6 +24,7 @@ Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na
 55
 ========
 5 1
+11 1
 <<<<<<<<
 
 
@@ -31,6 +33,7 @@ Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na
 ========
 2 3
 3 1
+23 1
 <<<<<<<<
 
 >>>>>>>>
