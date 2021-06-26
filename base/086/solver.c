@@ -1,47 +1,36 @@
 #include <stdio.h>
-#include <stdbool.h>
-//usando vetor de ocorrencias
-
-#define LIM 50
-
-int count(int vet[], int qtd, int elem, int init){
-    int cont = 0;
-    for(int i = init; i < qtd; i++){
-        if(vet[i] == elem)
-            cont++;
-    }
-    return cont;
-}
 
 int main(){
-    int qtd = 0;
-    int vet[50];
-
-    scanf("%d", &qtd);
-    for(int i = 0; i < qtd; i++)
+    
+    int size = 0;
+    scanf("%d", &size);
+    
+    int vet[size];
+    for(int i = 0; i < size; i++)
         scanf("%d", &vet[i]);
+    
+    int cont = 1;
+    int maior_cont = 0;
+    
+    int best[size];
+    int best_size = 0;
 
-    int count_values[qtd];
-
-    for(int i = 0; i < qtd; i++)
-        count_values[i] = count(vet, qtd, vet[i], i);
-
-    int max = vet[0];
-    for(int i = 0; i < qtd; i++)
-        if(count_values[i] > max)
-            max = count_values[i];
-
-    bool print = false;
-
-    for(int i = 0; i < qtd; i++)
-
-        if(count_values[i] == max){
-            if(print)
-                printf(" ");
-            printf("%d", vet[i]);
-            print = true;
+    for(int i = 0; i < size; i++) { //todos os elementos
+        if(i == size - 1 ||  vet[i] != vet[i + 1]) {
+            if(cont > maior_cont){
+                maior_cont = cont;
+                best[0] = vet[i];
+                best_size = 1;
+            } else if(cont == maior_cont) {
+                best[best_size++] = vet[i];
+            }
+            cont = 1;
+        } else {
+            cont++;
         }
-    printf("\n");
-
-    return 0;
+    }
+    printf("[ ");
+    for(int i = 0; i < best_size; i++)
+        printf("%d ", best[i]);
+    printf("]\n");
 }

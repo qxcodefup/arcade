@@ -1,5 +1,5 @@
-## L3 #repeticao - Permutação
-
+## L3 #vetores - Permutação
+![](solver.c)
 Verifique se um número é permutação de outro
 
 ![](capa.png)

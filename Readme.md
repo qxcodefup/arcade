@@ -102,18 +102,17 @@
 - [@047 L2 - Ônibus lotado](base/047/Readme.md)  [](#repetição)
 - [@137 L2 - Fatoração](base/137/Readme.md)  [](#repeticao)
 - [@066 L2 - Spok Palíndromo](base/066/Readme.md)  [](#repetição)
-- [@138 L3 - Permutação](base/138/Readme.md)  [](#repeticao)
 - [@051 L3 - Arremesso de pedra na lua](base/051/Readme.md)  [](#repetição)
 - [@064 L3 - Conta Dígitos](base/064/Readme.md)  [](#repetição)
 - [@052 L3 - Hoje tem sopa de coelho?](base/052/Readme.md)  [](#repetição)
 - [@059 L3 - Sapinho 2 morrendo no poço](base/059/Readme.md)  [](#repetição)
 - [@063 L3 - Blackjack 21!](base/063/Readme.md)  [](#repetição)
+- [@054 L3 - Quebrador de Copos](base/054/Readme.md)  [](#repetição)
 - [@065 L3 - Sapinho 3 matemático não morrendo no poço](base/065/Readme.md)  [](#repetição)
 
 ## 07. Repetição Extra
 
 - [@160 L3 - Somatório de Fibonacci](base/160/Readme.md)  [](#repetição)
-- [@054 L3 - Quebrador de Copos](base/054/Readme.md)  [](#repetição)
 
 ## 08. Vetores I
 
@@ -147,6 +146,7 @@
 
 ## 10. Vetores Extra
 
+- [@138 L3 - Permutação](base/138/Readme.md)  [](#vetores)
 - [@087 L3 - Zoológico Entrando na Arca de Noé](base/087/Readme.md)  [](#vetores)
 - [@069 L3 - Zoo quantas especies!](base/069/Readme.md)  [](#vetores)
 - [@088 L3 - Se fosse a mediana eu tinha passado!](base/088/Readme.md)  [](#vetores)
