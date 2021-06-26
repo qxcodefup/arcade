@@ -25,6 +25,24 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 ## Exemplos
 
 ```
+
+>>>>>>>>
+0
+0
+========
+1
+<<<<<<<<
+
+
+>>>>>>>>
+1
+10
+========
+1
+<<<<<<<<
+
+
+
 >>>>>>>>
 2
 99102030
@@ -55,14 +73,35 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 ```
 
 ## Ajuda
-#### Pseudocódigo
+Seu objetivo é utilizar operações de divisão e módulo para extrair a unidade até que o número acabe. 
+```py
+unidade = numero % 10  # operador de módulo
+numero = numero // 10  # operação de divisão inteira
 ```
-Declare cont = 0;
-Leia digitoProcurado e numeroContato
-Laço enquanto numeroContato for maior que 0
-  Se( numeroContato % 10 for igual a digitoProcurado)
-    cont++
-  numeroContato = numeroContato / 10;
-fim do laço
-Mostre cont
+
+Faça isso enquanto o número for maior e zero e compare o resultado da extração da unidade com o número procurado.
+
+Por exemplo, seja o número 239.
+
+- 1a interação: unidade = 9, número = 23
+- 2a interação: unidade = 3, número = 2
+- 3a interação: unidade = 2, número = 0
+- Acaba o laço
+
+Observe que o laço deve ser executado pelo menos uma vez. Então você pode fazer isso com um loop infinito e um controle ao final do laço, ou um do while, caso sua linguagem suporte.
+
+```py
+# python
+while True:
+  #faça o que tem que ser feito
+  if == 0:
+    break
+
+```
+
+```c
+//c
+do {
+  //faça o que tem que ser feito
+} while(num != 0);
 ```

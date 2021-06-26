@@ -1,15 +1,14 @@
 #include <stdio.h>
 
 int main () {
-	int digProcurado, numContato, cont = 0;
-	
-	scanf("%d %d", &digProcurado, &numContato);
-	
-	while ( numContato > 0 ) {
-		if ( numContato % 10 == digProcurado ) 
+	int digito = 0, num = 0;
+	scanf("%d %d", &digito, &num);
+	int cont = 0;
+	do {
+		if (num % 10 == digito) 
             cont++;
-		numContato = numContato / 10;
-	}
+		num = num / 10;
+	} while(num > 0);
 	
 	printf("%d\n", cont);
 	return 0;
