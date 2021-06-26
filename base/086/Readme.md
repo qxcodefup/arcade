@@ -1,4 +1,4 @@
-## #vetores L3 - Coleção de Tazos - Quantos se repetem mais
+## L3 - Coleção de Tazos - Quantos se repetem mais
 
 
 ![](__capa.jpg)

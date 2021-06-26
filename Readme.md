@@ -136,7 +136,7 @@
 - [@073 L3 - Batida Policial - Ordenando vetores](base/073/Readme.md)  [](#vetores)
 - [@010 L3 - Bolinhas viciadas(contagem de repetições)](base/010/Readme.md)  [](#vetores)
 - [@070 L3 - Cabeças vão rolar](base/070/Readme.md)  [](#vetores)
-- [@086 L3 - Coleção de Tazos - Quantos se repetem mais](base/086/Readme.md)  [](#vetores)
+- [@086 L3 - Coleção de Tazos - Quantos se repetem mais](base/086/Readme.md) 
 - [@071 L3 - Mário e o Assassin's Creed - Parkour](base/071/Readme.md)  [](#vetores)
 - [@188 L3 - Devolvendo o troco com vetores](base/188/Readme.md)  [](#vetores)
 - [@085 L3 - Exército - Perto da morte](base/085/Readme.md)  [](#vetores)
