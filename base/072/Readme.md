@@ -39,6 +39,7 @@ double media(int vet[], int qtd){
 1
 1.30
 ========
+1.30
 M
 <<<<<<<<
 

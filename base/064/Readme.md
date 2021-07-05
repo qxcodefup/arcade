@@ -88,15 +88,14 @@ Por exemplo, seja o número 239.
 - 3a interação: unidade = 2, número = 0
 - Acaba o laço
 
-Observe que o laço deve ser executado pelo menos uma vez. Então você pode fazer isso com um loop infinito e um controle ao final do laço, ou um do while, caso sua linguagem suporte.
+Observe que o laço deve ser executado pelo menos uma vez. Se o seu número for 0 e estiver contando quantos zeros o número possui, você vai precisar entrar no laço pelo menos uma vez. Então você pode fazer isso com um loop infinito e um controle ao final do laço, ou um do while, caso sua linguagem suporte.
 
 ```py
 # python
 while True:
   #faça o que tem que ser feito
-  if == 0:
+  if num == 0:
     break
-
 ```
 
 ```c
