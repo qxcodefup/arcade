@@ -1,30 +1,19 @@
 #include <stdio.h>
+#include <string.h>
 
 int main(){
     char texto[101];
-    char saida[101];
-    fgets(texto, 101, stdin);
-    
-    saida[0] = texto[0];//inicia o primeiro
-    
-    int t = 1;//indice em texto
-    int s = 1;//indice em saida
-    
-    
-    while(texto[t] != '\0'){
-        if(texto[t] == ' '){//procure o inicio da prox palavra
-            if(texto[t + 1] == saida[s - 1]){
-                    t += 2;
-                    continue;
-            }
-        }
-                
-        saida[s] = texto[t];
-        s++;
-        t++;
+    fgets(texto, sizeof(texto), stdin);
+    texto[strcspn(texto, "\n")] = '\0';
+    int tsize = strlen(texto);
+
+    int pos = 1;
+    for(int i = 1; i < tsize; i++){
+        if(texto[i] == ' ' && texto[i + 1] == texto[pos - 1])
+            i++;
+        else
+            texto[pos++] = texto[i];
     }
-    saida[s] = '\0';
-    printf("%s", saida);
-    
-    return 0;
+    texto[pos] = '\0';
+    puts(texto);
 }

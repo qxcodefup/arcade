@@ -49,39 +49,3 @@ Não use uma função de ordenar pronta.
 1 2 3 4 9
 <<<<<<<<
 ```
-
-## Ajuda
-
-### Dica
-- Implemente o algoritmo `Bubble Sort`.
-
-- Que tal usar um `vetor auxiliar`? Ele pode ser utilizado para salvar sempre que um número diferente aparece.
-
-### Pseudocódigo
-```
-Ler N
-Ler vetor
-
-// utilize o Bubble Sort
-Ordenador vetor
-
-// atribui a primeira posicão de vetor para vetor_auxiliar
-j recebe 0
-vetor_auxiliar[j] recebe vetor[0]
-Incrementar j
-
-Para ( i menor que N - 1 ):
-    Se ( vetor[i] diferente (vetor[i + 1] ):
-        vetor_auxiliar[j] recebe vetor[i + 1]
-        Incrementar j
-
-Mostrar (vetor_auxiliar)
-```
-
-- Lembrando que para ler/mostrar um vetor é necessário um laço/estrutura de repetição. Por exemplo:
-```
-Ler N
-
-Para ( i menor que N ):
-    Ler vetor[i] // Mostrar vetor[i]
-```

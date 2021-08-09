@@ -1,6 +1,7 @@
 ## #strings L3 - Francês é Fresco
 ### Juntar palavras
 
+![](solver.c)
 ![](__capa.jpg)
 
 ## Motivação
