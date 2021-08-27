@@ -3,19 +3,16 @@
 int main () {
 
 	int vetor[5];
-	int maior, menor, i;
-	
-	for( i = 0; i < 5; i++){
+	for(int i = 0; i < 5; i++)
 		scanf("%d", &vetor[i]);		
-	}	
 	
-	maior = vetor[0];
-	menor = vetor[0];
+	int maior = vetor[0];
+	int menor = vetor[0];
 		
-	for( i = 0; i < 5; i++){
+	for(int i = 1; i < 5; i++) {
 		if( vetor[i] < menor)
 			menor = vetor[i];
-		if( vetor[i] > maior)
+		else if( vetor[i] > maior)
 			maior = vetor[i];
 	}
 	printf("%d\n", maior + menor);

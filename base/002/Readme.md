@@ -1,4 +1,5 @@
 ## #operações L2 - Pintando a casa - Calculando a área do triângulo
+[](solver.c)
 
 ![](__capa.jpg)
 

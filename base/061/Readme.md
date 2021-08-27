@@ -1,4 +1,4 @@
-## #vetores L2 - Capoeira invertendo vetor!
+## L2 - Capoeira invertendo vetor!
 
 
 ![](__capa.jpg)

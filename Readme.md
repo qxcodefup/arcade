@@ -25,20 +25,31 @@
 
 
 ## 01. Operações
-- [@000 L1 - Operações básicas - Imprimindo float formatado](base/000/Readme.md)  [](#operações)
-- [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md)  [](#operações)
-- [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003/Readme.md)  [](#operações)
-- [@018 L2 - Arredondar](base/018/Readme.md) 
-- [@196 L2 - Comprando TV parcelado](base/196/Readme.md) 
-- [@193 L2 - Dominó - OBI 2019 F1PJ](base/193/Readme.md) 
-- [@195 L2 - Xadrez OBI 2019 F1P1](base/195/Readme.md) 
+- Impressão formatada
+- [@000 L1 - Operações básicas - Imprimindo float formatado](base/000/Readme.md) 
+
+- Escrevendo Expressões (sqrt)
 - [@002 L2 - Pintando a casa - Calculando a área do triângulo](base/002/Readme.md)  [](#operações)
-- [@005 L3 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md)  [](#operações)
+- [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003/Readme.md)  [](#operações)
+- [@196 L2 - Comprando TV parcelado](base/196/Readme.md) 
 - [@004 L3 - Mete bala - Distância entre dois pontos](base/004/Readme.md)  [](#operações)
+
+- Operador de módulo
+- [@195 L2 - Xadrez OBI 2019 F1P1](base/195/Readme.md) 
+- [@193 L2 - Dominó - OBI 2019 F1PJ](base/193/Readme.md) 
+
+- Operador Ternário
 - [@192 L3 - A idade de Dona Mônica - OBI 2019 F1PJ](base/192/Readme.md) 
 - [@006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006/Readme.md)  [](#operações)
 
 ## 02. Seleção I
+- Math: ceil, floor, round
+- [@018 L2 - Arredondar](base/018/Readme.md) 
+
+- Operador de módulo
+- [@005 L3 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md)  [](#operações)
+- [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md)  [](#operações)
+
 
 - [@025 L1 - Ambos Divisíveis](base/025/Readme.md)  [](#seleção)
 - [@062 L1 - Angulo Cartesiano](base/062/Readme.md)  [](#seleção)
@@ -116,8 +127,8 @@
 
 ## 08. Vetores I
 
-- [@060 L1 - Joelison Fernandes - Soma do maior e menor!](base/060/Readme.md)  [](#vetores)
-- [@061 L2 - Capoeira invertendo vetor!](base/061/Readme.md)  [](#vetores)
+- [@060 L1 - Joelison Fernandes - Soma do maior e menor!](base/060/Readme.md) 
+- [@061 L2 - Capoeira invertendo vetor!](base/061/Readme.md) 
 - [@078 L2 - Jogo do Avesso](base/078/Readme.md)  [](#vetores)
 - [@091 L2 - MMC](base/091/Readme.md)  [](#vetores)
 - [@101 L2 - Mostrar mão de cartas](base/101/Readme.md)  [](#vetores)

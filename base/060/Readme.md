@@ -1,4 +1,4 @@
-## #vetores L1 - Joelison Fernandes - Soma do maior e menor!
+## L1 - Joelison Fernandes - Soma do maior e menor!
 
 
 ![](__capa.jpg)
@@ -11,7 +11,7 @@ Que história ein?
 
 ## Ação
 
-Escreva um programa onde receba um vetor de tamanho 5 e que de como saída a soma do maior e do menor elemento deste vetor.
+Escreva um programa onde receba um vetor de tamanho 5 e que dê como saída a soma do maior e do menor elemento deste vetor. Assuma que você não conhece o limite superior ou inferior dos elementos que estão no vetor.
 
 ### Entrada
 
@@ -24,35 +24,37 @@ Escreva um programa onde receba um vetor de tamanho 5 e que de como saída a som
 ## Exemplo
 
 ```
->>>>>>>> 01
+>>>>>>>>
 1 2 3 4 5
 ========
 6
 <<<<<<<<
 
->>>>>>>> 02
+>>>>>>>>
 3 3 1 4 6
 ========
 7
 <<<<<<<<
 
->>>>>>>> 03
+>>>>>>>>
 3 2 1 4 4
 ========
 5
 <<<<<<<<
+
+>>>>>>>>
+-3 -2 -1 -4 -4
+========
+-5
+<<<<<<<<
+
+>>>>>>>>
+-10000 -2 -1 -4 +10000
+========
+0
+<<<<<<<<
 ```
-## Ajuda
-#### Pseudocódigo
-```
-Crie Maior = 0
-Crie Menor = 100
-Inicie um laço em 0 que adiciona +1 enquanto for menor que 5
-  Leia auxiliar
-  Se auxiliar maior que Maior
-    Maior = auxiliar
-  Se auxiliar menor que Menor
-    Menor = auxiliar
-Fim do laço
-Mostre (Maior + Menor)
-```
+
+## Resolução
+
+[LINK](https://youtube.com/BNGWieIrqIg)

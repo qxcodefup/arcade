@@ -1,6 +1,6 @@
 ## L2 - Arredondar
 
-
+[](solver.c)
 ![](__capa.jpg)
 
 ## Motivação

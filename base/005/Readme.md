@@ -62,21 +62,3 @@ Você pode considerar que há pelo menos uma fruta antes da coleta.
 ## Aviso:
 
 Roubar frutas do seu vizinho é errado.
-
-## Ajuda:
-
-calculo do piso = (b+g+m)/c 
-
-calculo de teto = piso +1
-
-#### 1ºPseudocódigo
-```
-leia a capacidade da cesta "c"
-Leia quantidade de bananas "b" 
-Leia quantidade de goiabas "g"
-Leia quantidade de  mangas "m"
-axiliar = (b+g+m)/c << calculo do piso
-se (b+g+c) % c diferente de 0
-  axiliar = piso + 1; << calcula do teto
-mostra axiliar
-```
