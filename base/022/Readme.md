@@ -1,4 +1,4 @@
-## #seleção L2 - OBI 2017 - Fase 1 - Teleférico
+## L2 - Teleférico OBI 2017 - Fase 1
 
 [](solver.c)
 ![](__capa.jpg)
