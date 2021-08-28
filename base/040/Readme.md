@@ -1,4 +1,4 @@
-## #seleção L3 - Está Trabalhando ou Não!
+## #seleção L2 - Está Trabalhando ou Não!
 
 [](solver.c)
 ![](__capa.jpg)
