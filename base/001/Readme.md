@@ -89,21 +89,3 @@ Observação
     Math.sqrt(4) //retorna 2 
 ```
 
-Pseudocódigo
-```
-Ler valor_a
-Ler valor_b
-Ler valor_c
-
-delta = (valor_b * valor_b) - 4 * valor_a * valor_c
-
-raiz_positiva = (-valor_b + sqrt(delta)) / (2 * valor_a)
-raiz_negativa = (-valor_b - sqrt(delta)) / (2 * valor_a)
-
-Se (delta for maior que 0):
-    Mostrar raiz_positiva e raiz_negativo
-Senao Se (delta for igual a 0):
-    Mostrar raiz_positiva
-Senao:
-    Mostrar "nao ha raiz real"
-```

@@ -1,4 +1,4 @@
-## #seleção L2 - Está Trabalhando ou Não!
+## L2 - Está Trabalhando ou Não!
 
 [](solver.c)
 ![](__capa.jpg)
@@ -50,6 +50,12 @@ NAO
 ## Dicas 
 
 
-Você pode separar em 3 if's principais, pois os casos diferentes são domingo onde é o dia de folga, segunda a sexta onde ele trabalha em 2 horários, e no sábado, onde ele trabalha só pela manhã. Caso a primeira linha seja 1, você já deve imprimir NAO, pois é domingo. Caso esteja entre 2 e 6, você tera duas opções, se o valor da hora estiver entre 8 e 11(incluindo 11) OU estiver entre 14 e 17(incluindo 17) ele estará no trabalho. Por último, se o dia for 7, você deverá verificar se o horário está entre 8 e 11, pois ele só estará no trabalho pela manhã. 
+Você pode separar em 3 if's principais, pois os casos diferentes são domingo onde é o dia de folga, segunda a sexta onde ele trabalha em 2 horários, e no sábado, onde ele trabalha só pela manhã. 
+
+Caso a primeira linha seja 1, você já deve imprimir NAO, pois é domingo. 
+
+Caso esteja entre 2 e 6, você tera duas opções, se o valor da hora estiver entre 8 e 11(incluindo 11) OU estiver entre 14 e 17(incluindo 17) ele estará no trabalho. 
+
+Por último, se o dia for 7, você deverá verificar se o horário está entre 8 e 11, pois ele só estará no trabalho pela manhã. 
 
 

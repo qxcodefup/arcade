@@ -1,4 +1,4 @@
-## #seleção L1 - Positivo, Nulo ou Negativo?
+## L1 - Positivo, Nulo ou Negativo?
 
 [](solver.c)
 ![](__capa.jpg)
@@ -44,18 +44,4 @@ negativo
 ========
 nulo
 <<<<<<<<
-```
-
-### Ajuda
-
-Pseudocódigo
-```
-Ler valor
-
-Se (valor for maior que 0):
-    Mostrar "positivo"
-Senao Se (valor for menor que 0):
-    Mostrar "negativo"
-Senao:
-    Mostrar "nulo"
 ```
