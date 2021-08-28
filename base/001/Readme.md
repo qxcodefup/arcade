@@ -1,4 +1,4 @@
-## #seleção L3 - Sai fora Bhaskara (Cálculo de raízes)
+## L2 - Sai fora Bhaskara (Cálculo de raízes)
 
 [](solver.c)
 ![](__capa.jpg)

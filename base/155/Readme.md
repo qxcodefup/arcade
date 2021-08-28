@@ -1,4 +1,4 @@
-## #seleção L1 - Plantação de Morangos
+## L1 - Plantação de Morangos
 ### OBI 2016 - Fase1 - Nível 1
 ![](__capa.jpg)
 [](solver.c)

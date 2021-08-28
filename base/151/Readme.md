@@ -1,4 +1,4 @@
-## #seleção L1 - Impedido!
+## L1 - Impedido!
 ### OBI 2015 - Fase 2 - Nível 1
 
 [](solver.c)
