@@ -1,4 +1,4 @@
-## #seleção L1 - Quantos são iguais? (Contando Repetidos)
+## L1 - Quantos são iguais? (Contando Repetidos)
 
 [](solver.c)
 ![](__capa.jpg)

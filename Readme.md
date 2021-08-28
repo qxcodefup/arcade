@@ -49,11 +49,10 @@
 
 - Lógica
 - [@157 L1 - Frota de Táxi - OBI 2005](base/157/Readme.md) 
+- [@014 L1 - Quantos são iguais? (Contando Repetidos)](base/014/Readme.md) 
 - [@156 L2 - Jogo de par ou ímpar - OBI 2016 - F1P1](base/156/Readme.md) 
 - [@022 L2 - Teleférico - OBI 2017 - Fase 1](base/022/Readme.md) 
 - [@194 L2 - Nota cortada - OBI 2019 F1P1](base/194/Readme.md) 
-- [@192 L2 - A idade de Dona Mônica - OBI 2019 - F1PJ](base/192/Readme.md) 
-- [@014 L1 - Quantos são iguais? (Contando Repetidos)](base/014/Readme.md)  [](#seleção)
 
 - Biblioteca Math: ceil, floor, round, abs
 - [@018 L2 - Arredondar](base/018/Readme.md) 
@@ -82,8 +81,9 @@
 
 - Busca e Contagem
 - [@017 L2 - Ovos de galinha (Procurando o Maior valor)](base/017/Readme.md)  [](#seleção)
-- [@036 L3 - Morre o do meio](base/036/Readme.md)  [](#seleção)
+- [@192 L2 - A idade de Dona Mônica - OBI 2019 - F1PJ](base/192/Readme.md) 
 - [@029 L2 - Quiz do Harry Potter](base/029/Readme.md)  [](#seleção)
+- [@036 L3 - Morre o do meio](base/036/Readme.md)  [](#seleção)
 - [@033 L3 - Professor Bonzinho](base/033/Readme.md)  [](#seleção)
 
 - Melhores
