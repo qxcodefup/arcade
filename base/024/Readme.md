@@ -1,6 +1,6 @@
 ## #seleção L1 - Divisão Inteira e Quebrada
 
-
+[](solver.c)
 ![](__capa.jpg)
 
 ## Motivação

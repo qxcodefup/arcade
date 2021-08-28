@@ -1,6 +1,6 @@
 ## #seleção L1 - Calculadora Numérica
 
-
+[](solver.c)
 ![](__capa.jpg)
 
 ### Motivação

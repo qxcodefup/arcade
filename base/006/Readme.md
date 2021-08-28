@@ -1,5 +1,5 @@
-## #operações L3 - Zerinho ou um americano - Decifrando a fórmula
-
+## L3 - Zerinho ou um americano - Decifrando a fórmula
+[](solver.c)
 ![](__capa.jpg)
 
 ## Motivação

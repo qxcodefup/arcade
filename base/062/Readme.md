@@ -1,6 +1,6 @@
 ## #seleção L1 - Angulo Cartesiano
 ### Retirando loops
-
+[](solver.c)
 ![](__capa.jpg)
 
 ## Motivação

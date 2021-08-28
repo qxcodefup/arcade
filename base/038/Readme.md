@@ -1,6 +1,6 @@
 ## #seleção L2 - A hora do próximo segundo
 
-
+[](solver.c)
 ![ponteiros de um relógio](__capa.jpg)
 
 ## Motivação
@@ -71,18 +71,3 @@ print("%02d" % (valor))
 javascript
 console.log("String(valor).padStart(2, '0'));
 ```
-
-#### Pseudocódigo
-```
-Leia hora, minuto e segundo
-segundo = segundo + 1
-se segundo == 60
-    segundo = 0
-    minuto = minuto + 1
-    se minuto == 60
-        minuto = 0
-        hora = hora + 1
-        se hora == 24
-            hora = 0
-```
-Mostre hora, minuto e segundo com duas casas

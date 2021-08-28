@@ -1,5 +1,6 @@
-## #seleção L1 - Jogo de par ou ímpar
+## #seleção L2 - Jogo de par ou ímpar
 ### OBI 2016 - Fase1 - Nível 1
+[](solver.c)
 ![](__capa.jpg)
 
 ## Motivação

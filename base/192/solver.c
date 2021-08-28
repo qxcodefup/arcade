@@ -2,7 +2,7 @@
 
 int main(){
 
-  int M, A, B; // idade de d. Monica e dois de seus filhos
+  int M = 0, A = 0, B = 0; // idade de d. Monica e dois de seus filhos
   scanf("%d %d %d", &M, &A, &B);
   
   int C = M - A - B;

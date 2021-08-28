@@ -25,44 +25,49 @@
 
 
 ## 01. Operações
-- Impressão formatada
+- Impressão formatada(casas decimais e zeros à esquerda)
 - [@000 L1 - Operações básicas - Imprimindo float formatado](base/000/Readme.md) 
 
-- Escrevendo Expressões (sqrt)
-- [@002 L2 - Pintando a casa - Calculando a área do triângulo](base/002/Readme.md)  [](#operações)
-- [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003/Readme.md)  [](#operações)
+- Escrevendo Expressões (sqrt, pow)
+- [@002 L2 - Pintando a casa - Calculando a área do triângulo](base/002/Readme.md) 
+- [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003/Readme.md) 
 - [@196 L2 - Comprando TV parcelado](base/196/Readme.md) 
-- [@004 L3 - Mete bala - Distância entre dois pontos](base/004/Readme.md)  [](#operações)
+- [@004 L3 - Mete bala - Distância entre dois pontos](base/004/Readme.md) 
 
 - Operador de módulo
 - [@195 L2 - Xadrez OBI 2019 F1P1](base/195/Readme.md) 
 - [@193 L2 - Dominó - OBI 2019 F1PJ](base/193/Readme.md) 
 
-- Operador Ternário
-- [@192 L3 - A idade de Dona Mônica - OBI 2019 F1PJ](base/192/Readme.md) 
-- [@006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006/Readme.md)  [](#operações)
 
 ## 02. Seleção I
-- Math: ceil, floor, round
+- Operações Básicas
+- [@015 L1 - Calculadora Numérica](base/015/Readme.md)  [](#seleção)
+- [@155 L1 - Plantação de Morangos](base/155/Readme.md)  [](#seleção)
+- [@151 L1 - Impedido!](base/151/Readme.md)  [](#seleção)
+- [@026 L1 - Positivo, Nulo ou Negativo?](base/026/Readme.md)  [](#seleção)
+- [@156 L2 - Jogo de par ou ímpar](base/156/Readme.md)  [](#seleção)
+
+- Biblioteca Math: ceil, floor, round
 - [@018 L2 - Arredondar](base/018/Readme.md) 
 
 - Operador de módulo
-- [@005 L3 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md)  [](#operações)
-- [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md)  [](#operações)
-
-
-- [@025 L1 - Ambos Divisíveis](base/025/Readme.md)  [](#seleção)
-- [@062 L1 - Angulo Cartesiano](base/062/Readme.md)  [](#seleção)
-- [@015 L1 - Calculadora Numérica](base/015/Readme.md)  [](#seleção)
 - [@024 L1 - Divisão Inteira e Quebrada](base/024/Readme.md)  [](#seleção)
-- [@151 L1 - Impedido!](base/151/Readme.md)  [](#seleção)
-- [@156 L1 - Jogo de par ou ímpar](base/156/Readme.md)  [](#seleção)
-- [@155 L1 - Plantação de Morangos](base/155/Readme.md)  [](#seleção)
-- [@026 L1 - Positivo, Nulo ou Negativo?](base/026/Readme.md)  [](#seleção)
-- [@038 L2 - A hora do próximo segundo](base/038/Readme.md)  [](#seleção)
-- [@027 L2 - Adedonha na Califórnia](base/027/Readme.md)  [](#seleção)
+- [@062 L1 - Angulo Cartesiano](base/062/Readme.md)  [](#seleção)
+- [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md)  [](#operações)
+- [@005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md)  [](#operações)
+- [@006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006/Readme.md) 
+
+- Operadores lógicos
+- [@025 L1 - Ambos Divisíveis](base/025/Readme.md)  [](#seleção)
+
+- Seleção Intervalada
 - [@021 L2 - Aumento de Salário](base/021/Readme.md)  [](#seleção)
 - [@032 L2 - Bolada na fuça](base/032/Readme.md)  [](#seleção)
+
+- Melhores
+- [@192 L2 - A idade de Dona Mônica - OBI 2019 F1PJ](base/192/Readme.md) 
+- [@038 L2 - A hora do próximo segundo](base/038/Readme.md)  [](#seleção)
+- [@027 L2 - Adedonha na Califórnia](base/027/Readme.md)  [](#seleção)
 
 ## 03. Seleção II
 
