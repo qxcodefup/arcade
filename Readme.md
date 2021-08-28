@@ -56,7 +56,7 @@
 
 - Biblioteca Math: ceil, floor, round, abs
 - [@018 L2 - Arredondar](base/018/Readme.md) 
-- [@030 L2 - Mercantil V1 - Quem chega mais perto](base/030/Readme.md)  [](#seleção)
+- [@030 L2 - Mercantil V1 - Quem chega mais perto](base/030/Readme.md) 
 
 - Operador de módulo
 - [@024 L1 - Divisão Inteira e Quebrada](base/024/Readme.md)  [](#seleção)

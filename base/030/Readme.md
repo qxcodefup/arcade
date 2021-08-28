@@ -1,4 +1,4 @@
-## #seleção L2 - Mercantil V1 - Quem chega mais perto
+## L2 - Mercantil V1 - Quem chega mais perto
 
 [](solver.c)
 ![](__capa.jpg)
@@ -96,17 +96,3 @@ Math.abs(-3) //retorna 3
 ```
 
 
-Pseudocódigo
-
-```
-Leia preco
-Leia primeiro_palpite
-Leia segundo_palpite
-
-Se (abs(primeiro_palpite - preco) < abs(segundo_palpite - preco)):
-    Mostre "primeiro"
-Senão Se (abs(primeiro_palpite - preco) > abs(segundo_palpite - preco):
-    Mostre "segundo"
-Senão:
-    Mostre "empate"
-```
