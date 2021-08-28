@@ -21,13 +21,7 @@ A ordem da entrada é importante nessa questão. As três primeira entradas são
 
 ### Saída
 
-*   "Aprovado com ![nota" ou "Final com nota" onde ](<html>
-<head><title>405 Not Allowed</title></head>
-<body bgcolor="white">
-<center><h1>405 Not Allowed</h1></center>
-</body>
-</html> "nota" ou "Final com nota" onde ")
-nota é o valor da nota com uma casa decimal.  
+*   "Aprovado com nota" ou "Final com nota" onde nota é o valor da nota com uma casa decimal.  
 
 ## Exemplos
 
@@ -51,23 +45,8 @@ Final com 6.0
 <<<<<<<<
 ```
 
-## Dicas
-
-Você pode deixar as notas 2 e 3 sendo as maiores, basta você verificar se alguma delas é a menor, se for troca com a primeira. Depois você pode somar com a nota do trabalho e dividir pro 3. No final é só verificar se ele foi aprovado ou não.
-
-### Pseudocódigo
-
-```c
-LER A, B, C, T;
-SE B <= A E B<=C
-	B = A;
-SE NAO SE  C<=A E C<=B
-	C = A;
-MEDIA = (B + C + T) / 3;
-SE MEDIA>=7
-	IMPRIME "APROVADO COM $MEDIA";
-ELSE 
-	IMPRIME "FINAL COM $MEDIA";
-```
-
-
+## Dica
+- Some todas as notas
+- Faça a busca pela menor nota
+- Calcule a soma - menor
+- Calcule a média

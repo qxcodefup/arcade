@@ -1,6 +1,6 @@
 ## #seleção L2 - OBI 2017 - Fase 1 - Teleférico
 
-
+[](solver.c)
 ![](__capa.jpg)
 
 ## Motivação

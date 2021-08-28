@@ -1,6 +1,6 @@
 ## #seleção L2 - Quiz do Harry Potter
 
-
+[](solver.c)
 ![](__capa.jpg)
 
 ## Descrição

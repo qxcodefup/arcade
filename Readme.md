@@ -2,9 +2,7 @@
 
 <!--TOC_BEGIN-->
 - [01. Operações](#01-operações)
-- [02. Seleção I](#02-seleção-i)
-- [03. Seleção II](#03-seleção-ii)
-- [04. Seleção Extra](#04-seleção-extra)
+- [02. Seleção](#02-seleção)
 - [05. Repetição I](#05-repetição-i)
 - [06. Repetição II](#06-repetição-ii)
 - [07. Repetição Extra](#07-repetição-extra)
@@ -39,62 +37,61 @@
 - [@193 L2 - Dominó - OBI 2019 F1PJ](base/193/Readme.md) 
 
 
-## 02. Seleção I
-- Operações Básicas
+## 02. Seleção
+- Manipulação de Ifs e Elses e Fórmulas
 - [@015 L1 - Calculadora Numérica](base/015/Readme.md)  [](#seleção)
 - [@155 L1 - Plantação de Morangos](base/155/Readme.md)  [](#seleção)
 - [@151 L1 - Impedido!](base/151/Readme.md)  [](#seleção)
 - [@026 L1 - Positivo, Nulo ou Negativo?](base/026/Readme.md)  [](#seleção)
-- [@156 L2 - Jogo de par ou ímpar](base/156/Readme.md)  [](#seleção)
+- [@031 L2 - Fiquei de final](base/031/Readme.md)  [](#seleção)
+- [@040 L3 - Está Trabalhando ou Não!](base/040/Readme.md)  [](#seleção)
+- [@001 L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001/Readme.md)  [](#seleção)
 
-- Biblioteca Math: ceil, floor, round
+- Lógica
+- [@157 L1 - Frota de Táxi - OBI 2005](base/157/Readme.md)  [](#seleção)
+- [@156 L2 - Jogo de par ou ímpar](base/156/Readme.md)  [](#seleção)
+- [@022 L2 - OBI 2017 - Fase 1 - Teleférico](base/022/Readme.md)  [](#seleção)
+- [@194 L2 - Nota cortada OBI 2019 F1P1](base/194/Readme.md) 
+- [@192 L2 - A idade de Dona Mônica - OBI 2019 F1PJ](base/192/Readme.md) 
+- [@014 L2 - Quantos são iguais? (Contando Repetidos)](base/014/Readme.md)  [](#seleção)
+
+- Biblioteca Math: ceil, floor, round, abs
 - [@018 L2 - Arredondar](base/018/Readme.md) 
+- [@030 L2 - Mercantil V1 - Quem chega mais perto](base/030/Readme.md)  [](#seleção)
 
 - Operador de módulo
 - [@024 L1 - Divisão Inteira e Quebrada](base/024/Readme.md)  [](#seleção)
 - [@062 L1 - Angulo Cartesiano](base/062/Readme.md)  [](#seleção)
 - [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md)  [](#operações)
 - [@005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md)  [](#operações)
+- [@028 L2 - Cadê a cabeça da cobra](base/028/Readme.md)  [](#seleção)
+- [@019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019/Readme.md)  [](#seleção)
 - [@006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006/Readme.md) 
 
 - Operadores lógicos
 - [@025 L1 - Ambos Divisíveis](base/025/Readme.md)  [](#seleção)
+- [@023 L2 - Jokenpo das tartarugas!](base/023/Readme.md)  [](#seleção)
+- [@039 L2 - Mercantil V2 - Maior ou Menor](base/039/Readme.md)  [](#seleção)
+- [@035 L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035/Readme.md)  [](#seleção)
+- [@020 L2 - Zerinho ou Um!](base/020/Readme.md)  [](#seleção)
 
 - Seleção Intervalada
 - [@021 L2 - Aumento de Salário](base/021/Readme.md)  [](#seleção)
 - [@032 L2 - Bolada na fuça](base/032/Readme.md)  [](#seleção)
+- [@183 L2 - Criança, Adulto, Idoso, Múmia](base/183/Readme.md)  [](#seleção)
+
+- Busca e Contagem
+- [@017 L2 - Ovos de galinha (Procurando o Maior valor)](base/017/Readme.md)  [](#seleção)
+- [@036 L3 - Morre o do meio](base/036/Readme.md)  [](#seleção)
+- [@029 L2 - Quiz do Harry Potter](base/029/Readme.md)  [](#seleção)
+- [@033 L3 - Professor Bonzinho](base/033/Readme.md)  [](#seleção)
 
 - Melhores
-- [@192 L2 - A idade de Dona Mônica - OBI 2019 F1PJ](base/192/Readme.md) 
 - [@038 L2 - A hora do próximo segundo](base/038/Readme.md)  [](#seleção)
 - [@027 L2 - Adedonha na Califórnia](base/027/Readme.md)  [](#seleção)
-
-## 03. Seleção II
-
-- [@028 L2 - Cadê a cabeça da cobra](base/028/Readme.md)  [](#seleção)
-- [@183 L2 - Criança, Adulto, Idoso, Múmia](base/183/Readme.md)  [](#seleção)
-- [@031 L2 - Fiquei de final](base/031/Readme.md)  [](#seleção)
-- [@030 L2 - Mercantil V1 - Quem chega mais perto](base/030/Readme.md)  [](#seleção)
-- [@039 L2 - Mercantil V2 - Maior ou Menor](base/039/Readme.md)  [](#seleção)
-- [@035 L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035/Readme.md)  [](#seleção)
-- [@022 L2 - OBI 2017 - Fase 1 - Teleférico](base/022/Readme.md)  [](#seleção)
-- [@019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019/Readme.md)  [](#seleção)
-- [@017 L2 - Ovos de galinha (Procurando o Maior valor)](base/017/Readme.md)  [](#seleção)
-- [@014 L2 - Quantos são iguais? (Contando Repetidos)](base/014/Readme.md)  [](#seleção)
-- [@194 L2 - Nota cortada OBI 2019 F1P1](base/194/Readme.md) 
-
-## 04. Seleção Extra
-- [@029 L2 - Quiz do Harry Potter](base/029/Readme.md)  [](#seleção)
-- [@020 L2 - Zerinho ou Um!](base/020/Readme.md)  [](#seleção)
 - [@034 L3 - Formiga da bundona](base/034/Readme.md)  [](#seleção)
 - [@043 L3 - Dorme Tarde Acordar Cedo!](base/043/Readme.md)  [](#seleção)
-- [@040 L3 - Está Trabalhando ou Não!](base/040/Readme.md)  [](#seleção)
-- [@157 L3 - Frota de Táxi - OBI 2005](base/157/Readme.md)  [](#seleção)
 - [@037 L3 - Jokenpo 15](base/037/Readme.md)  [](#seleção)
-- [@023 L3 - Jokenpo das tartarugas!](base/023/Readme.md)  [](#seleção)
-- [@036 L3 - Morre o do meio](base/036/Readme.md)  [](#seleção)
-- [@033 L3 - Professor Bonzinho](base/033/Readme.md)  [](#seleção)
-- [@001 L3 - Sai fora Bhaskara (Cálculo de raízes)](base/001/Readme.md)  [](#seleção)
 
 ## 05. Repetição I
 

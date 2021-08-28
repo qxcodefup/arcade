@@ -1,6 +1,6 @@
 ## #seleção L2 - Mercantil V1 - Quem chega mais perto
 
-
+[](solver.c)
 ![](__capa.jpg)
 
 ## Descrição

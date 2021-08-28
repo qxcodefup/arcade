@@ -1,6 +1,6 @@
-## #seleção L3 - Jokenpo das tartarugas!
+## #seleção L2 - Jokenpo das tartarugas!
 
-
+[](solver.c)
 ![](__capa.jpg)
 
 ## Motivação
@@ -48,17 +48,3 @@ jog1
 <<<<<<<<
 ```
 
-## Ajuda
-#### 1º Pseudocódigo
-```
-  Leia opção1 
-  Leia opção2
-  Se opção1 for igual a opção2
-  Mostre empate
-  Senão se (opçao1 for igual a pedra e opção2 igual a tesoura)
-  OU (opçao1 for igual a papel e opção2 igual a pedra)
-  OU (opçao1 for igual a tesoura e opção2 igual a papel)
-  Modestre jog1
-  Senão
-  Mostre jog2
-```

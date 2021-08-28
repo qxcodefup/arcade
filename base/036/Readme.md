@@ -1,6 +1,6 @@
 ## #seleção L3 - Morre o do meio
 
-
+[](solver.c)
 ![](__capa.jpg)
 
 ## Motivação

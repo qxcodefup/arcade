@@ -1,6 +1,6 @@
 ## #seleção L3 - Jokenpo 15
 
-
+[](solver.c)
 ## Motivação
 
 O jokenpo é emocionante. Normalmente, as crianças aprendem a jogar jokenpo antes de aprenderem par ou ímpar pois é mais fácil aprender que pedra quebra tesoura do que somar números e descobrir se par ou ímpar. Existem várias variações. Uma interessante com 15 níveis é a seguir. Cada elemento ganha de 7 elementos a sua frente e perder de 7 elementos que estão antes dele.
@@ -62,17 +62,4 @@ Dica
 O resultado da diferença entre os dois jogadores pode ser negativo, então é somado 15(numéro máximo do jogo) para que se torne positivo.
 ```
 
-Pseudocódigo
-
-```
-Ler primeiro_jogador
-Ler segundo_jogador
-
-Se (primeiro_jogador for igual a segundo_jogador):
-    Mostrar "Empate"
-Senao Se ((segundo_jogador - primeiro_jogador + 15) % 15) <= 7:
-    Mostrar "Jogador 1"
-Senao:
-    Mostrar "Jogador 2"
-```
 

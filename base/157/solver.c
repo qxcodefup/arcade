@@ -7,8 +7,10 @@ int main()
 
    scanf("%f %f %f %f", &precoa, &precog, &renda, &rendg);
 
-   if ((precoa/renda) < (precog/rendg)) printf("A\n");
-   else printf("G\n");
+   if ((precoa/renda) < (precog/rendg)) 
+      printf("A\n");
+   else
+      printf("G\n");
 
    return 0;
 }
