@@ -1,4 +1,4 @@
-## #seleção L2 - Cadê a cabeça da cobra
+## L2 - Cadê a cabeça da cobra
 
 ![](__capa.jpg)
 

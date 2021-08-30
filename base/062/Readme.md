@@ -1,4 +1,4 @@
-## #seleção L1 - Angulo Cartesiano
+## L1 - Angulo Cartesiano
 ### Retirando loops
 [](solver.c)
 ![](__capa.jpg)
