@@ -1,19 +1,13 @@
 #include <stdio.h>
 int main(){
-    float produto = 0;
+    float valor_real = 0;
     char a = '0';
-    float b = 0;
-    scanf("%f %c %f", &b, &a, &produto);
-    if(b > produto && a == 'm'){
+    float chute = 0;
+    scanf("%f %c %f", &chute, &a, &valor_real);
+    if((chute > valor_real && a == 'm') || (chute < valor_real && a == 'M')){
         puts("segundo");
-    }else if(b < produto && a == 'M'){
-        puts("segundo");
-    }else if(b > produto && a == 'M'){
+    } else {
         puts("primeiro");
-    }else if(b < produto && a == 'm'){
-        puts("primeiro");
-    }else{
-        puts("empate");
     }
 }
  

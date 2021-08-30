@@ -1,4 +1,4 @@
-## #seleção L2 - Jokenpo das tartarugas!
+## L2 - Jokenpo das tartarugas!
 
 [](solver.c)
 ![](__capa.jpg)

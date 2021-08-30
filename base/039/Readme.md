@@ -1,4 +1,4 @@
-## #seleção L2 - Mercantil V2 - Maior ou Menor
+## L2 - Mercantil V2 - Maior ou Menor
 
 [](solver.c)
 ![Silvio Santos](__capa.jpg)
@@ -66,7 +66,6 @@ primeiro
 
 ## Ajuda
 
-#### Pseudocódigo
 ```
 Leia primeiro (float)
 Leia segundo (char)
