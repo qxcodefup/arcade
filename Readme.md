@@ -62,7 +62,7 @@
 - [@024 L1 - Divisão Inteira e Quebrada](base/024/Readme.md) 
 - [@062 L1 - Angulo Cartesiano](base/062/Readme.md) 
 - [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md) 
-- [@005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md)  [](#operações)
+- [@005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md) 
 - [@028 L2 - Cadê a cabeça da cobra](base/028/Readme.md) 
 - [@019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019/Readme.md) 
 - [@006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006/Readme.md) 
