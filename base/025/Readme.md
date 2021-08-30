@@ -1,4 +1,4 @@
-## #seleção L1 - Ambos Divisíveis
+## L1 - Ambos Divisíveis
 ### Módulo e operadores lógicos
 [](solver.c)
 ![](__capa.jpg)

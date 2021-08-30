@@ -61,6 +61,7 @@
 - Operador de módulo
 - [@024 L1 - Divisão Inteira e Quebrada](base/024/Readme.md) 
 - [@062 L1 - Angulo Cartesiano](base/062/Readme.md) 
+- [@025 L1 - Ambos Divisíveis](base/025/Readme.md) 
 - [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md) 
 - [@005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md) 
 - [@028 L2 - Cadê a cabeça da cobra](base/028/Readme.md) 
@@ -68,7 +69,6 @@
 - [@006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006/Readme.md) 
 
 - Operadores lógicos
-- [@025 L1 - Ambos Divisíveis](base/025/Readme.md)  [](#seleção)
 - [@023 L2 - Jokenpo das tartarugas!](base/023/Readme.md)  [](#seleção)
 - [@039 L2 - Mercantil V2 - Maior ou Menor](base/039/Readme.md)  [](#seleção)
 - [@035 L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035/Readme.md)  [](#seleção)
