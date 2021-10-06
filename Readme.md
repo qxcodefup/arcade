@@ -23,6 +23,20 @@
 
 
 ## 01. Operações
+
+- Aula 01
+    - instalando o mingw e vscode
+    - tipos de dados básicos: `bool, int, float, char, const char *`
+    - operadores aritméticos: `+ - * / %`
+    - lendo e escrevendo variáveis: scanf, printf, puts, getchar
+    - uso avançado do scanf
+    - maldição da leitura do char, lendo ou ignorando whitespaces
+    - lendo errado a entrada, limpando o buffer
+    - como funciona o buffer de entrada
+    - utilizando funções da biblioteca math.h
+    - debugando
+
+
 - Impressão formatada(casas decimais e zeros à esquerda)
 - [@000 L1 - Operações básicas - Imprimindo float formatado](base/000/Readme.md) 
 
@@ -38,6 +52,17 @@
 
 
 ## 02. Seleção
+- Funções 01
+    - recebendo e retornando básicos [LINK]
+    - retorno de função: retorno default e returnos parciais ao invés de elses
+- Estruturas de Seleção
+    - Indentação, estruturas básicas e uso de operadores lógicos de corte
+    - if, else, else if
+    - Operadores lógicos: `&&, ||, !`
+    - Operadores relacionais: `==, !=, >, <, >=, <=`
+    - Operador ternário
+
+
 - Manipulação de Ifs e Elses e Fórmulas
 - [@015 L1 - Calculadora Numérica](base/015/Readme.md) 
 - [@155 L1 - Plantação de Morangos](base/155/Readme.md) 
@@ -66,7 +91,9 @@
 - [@005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md) 
 - [@028 L2 - Cadê a cabeça da cobra](base/028/Readme.md) 
 - [@019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019/Readme.md) 
+- [@034 L3 - Formiga da bundona](base/034/Readme.md)  [](#seleção)
 - [@006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006/Readme.md) 
+- [@037 L3 - Jokenpo 15](base/037/Readme.md)  [](#seleção)
 
 - Operadores lógicos
 - [@023 L2 - Jokenpo das tartarugas!](base/023/Readme.md) 
@@ -86,14 +113,26 @@
 - [@036 L3 - Morre o do meio](base/036/Readme.md)  [](#seleção)
 - [@033 L3 - Professor Bonzinho](base/033/Readme.md)  [](#seleção)
 
-- Melhores
+- Conversão de bases
 - [@038 L2 - A hora do próximo segundo](base/038/Readme.md)  [](#seleção)
 - [@027 L2 - Adedonha na Califórnia](base/027/Readme.md)  [](#seleção)
-- [@034 L3 - Formiga da bundona](base/034/Readme.md)  [](#seleção)
 - [@043 L3 - Dorme Tarde Acordar Cedo!](base/043/Readme.md)  [](#seleção)
-- [@037 L3 - Jokenpo 15](base/037/Readme.md)  [](#seleção)
 
-## 05. Repetição I
+- Melhores
+
+## 05. Repetição
+- Técnicas de controle de laço
+    - booleano de controle
+    - for, while, do while
+    - funções
+
+- Busca
+
+- Contagem
+
+- Técnicas de Controle (break, continue)
+
+- Seleção de Intervalo
 
 - [@056 L1 - Calça apertada - Mínimo](base/056/Readme.md)  [](#repetição)
 - [@013 L1 - Dividindo pares de sapatos pra três](base/013/Readme.md)  [](#repetição)
