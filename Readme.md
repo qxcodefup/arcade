@@ -3,9 +3,7 @@
 <!--TOC_BEGIN-->
 - [01. Operações](#01-operações)
 - [02. Seleção](#02-seleção)
-- [05. Repetição I](#05-repetição-i)
-- [06. Repetição II](#06-repetição-ii)
-- [07. Repetição Extra](#07-repetição-extra)
+- [05. Repetição](#05-repetição)
 - [08. Vetores I](#08-vetores-i)
 - [09. Vetores II](#09-vetores-ii)
 - [10. Vetores Extra](#10-vetores-extra)
@@ -24,7 +22,7 @@
 
 ## 01. Operações
 
-- Aula 01
+- Conteúdo sugeridos
     - instalando o mingw e vscode
     - tipos de dados básicos: `bool, int, float, char, const char *`
     - operadores aritméticos: `+ - * / %`
@@ -35,7 +33,6 @@
     - como funciona o buffer de entrada
     - utilizando funções da biblioteca math.h
     - debugando
-
 
 - Impressão formatada(casas decimais e zeros à esquerda)
 - [@000 L1 - Operações básicas - Imprimindo float formatado](base/000/Readme.md) 
@@ -52,15 +49,17 @@
 
 
 ## 02. Seleção
-- Funções 01
-    - recebendo e retornando básicos [LINK]
-    - retorno de função: retorno default e returnos parciais ao invés de elses
-- Estruturas de Seleção
-    - Indentação, estruturas básicas e uso de operadores lógicos de corte
-    - if, else, else if
-    - Operadores lógicos: `&&, ||, !`
-    - Operadores relacionais: `==, !=, >, <, >=, <=`
-    - Operador ternário
+
+- Conteúdo sugerido
+    - Funções
+        - recebendo e retornando básicos [LINK]
+        - retorno de função: retorno default e returnos parciais ao invés de elses
+    - Estruturas de Seleção
+        - Indentação, estruturas básicas e uso de operadores lógicos de corte
+        - if, else, else if
+        - Operadores lógicos: `&&, ||, !`
+        - Operadores relacionais: `==, !=, >, <, >=, <=`
+        - Operador ternário
 
 
 - Manipulação de Ifs e Elses e Fórmulas
@@ -90,6 +89,7 @@
 - [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md) 
 - [@005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md) 
 - [@028 L2 - Cadê a cabeça da cobra](base/028/Readme.md) 
+- [@016 L2 - Volta de 360 graus (Retirando os loops)](base/016/Readme.md)  [](#repetição)
 - [@019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019/Readme.md) 
 - [@034 L3 - Formiga da bundona](base/034/Readme.md)  [](#seleção)
 - [@006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006/Readme.md) 
@@ -118,55 +118,57 @@
 - [@027 L2 - Adedonha na Califórnia](base/027/Readme.md)  [](#seleção)
 - [@043 L3 - Dorme Tarde Acordar Cedo!](base/043/Readme.md)  [](#seleção)
 
-- Melhores
 
 ## 05. Repetição
-- Técnicas de controle de laço
-    - booleano de controle
-    - for, while, do while
-    - funções
+- Conteúdo sugerido
+    - Seleção: if, else, else if
+    - Controle: for, while, do while
+    - Controle de laço: break, continue
+    - Funções com returns parciais
 
-- Busca
-
-- Contagem
-
-- Técnicas de Controle (break, continue)
-
-- Seleção de Intervalo
-
-- [@056 L1 - Calça apertada - Mínimo](base/056/Readme.md)  [](#repetição)
-- [@013 L1 - Dividindo pares de sapatos pra três](base/013/Readme.md)  [](#repetição)
-- [@055 L1 - Ultrons - Contar Elemento](base/055/Readme.md)  [](#repetição)
-- [@045 L1 - Zero é par - Somatório de Pares!](base/045/Readme.md)  [](#repetição)
-- [@058 L2 - Busca Intervalada](base/058/Readme.md)  [](#repetição)
-- [@048 L2 - Cabo de Guerra Jedi](base/048/Readme.md)  [](#repetição)
-- [@050 L2 - Castelos de Cubos](base/050/Readme.md)  [](#repetição)
-- [@046 L2 - Jogo da Concentração](base/046/Readme.md)  [](#repetição)
-- [@057 L2 - Revolta em Portugal](base/057/Readme.md)  [](#repetição)
-- [@049 L2 - Sapinho 1 no Poço](base/049/Readme.md)  [](#repetição)
+- While e técnicas de controle (break e continue)
 - [@053 L2 - OBI 2016 - Fuga em helicóptero](base/053/Readme.md)  [](#repetição)
-- [@189 L2 - Fatores de um número](base/189/Readme.md)  [](#repetição)
-
-## 06. Repetição II
-
-- [@136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136/Readme.md)  [](#repetição)
-- [@016 L2 - Volta de 360 graus (Retirando os loops)](base/016/Readme.md)  [](#repetição)
 - [@047 L2 - Ônibus lotado](base/047/Readme.md)  [](#repetição)
-- [@137 L2 - Fatoração](base/137/Readme.md)  [](#repeticao)
-- [@066 L2 - Spok Palíndromo](base/066/Readme.md)  [](#repetição)
-- [@051 L3 - Arremesso de pedra na lua](base/051/Readme.md)  [](#repetição)
-- [@064 L3 - Conta Dígitos](base/064/Readme.md)  [](#repetição)
-- [@052 L3 - Hoje tem sopa de coelho?](base/052/Readme.md)  [](#repetição)
+- [@049 L2 - Sapinho 1 no Poço](base/049/Readme.md)  [](#repetição)
 - [@059 L3 - Sapinho 2 morrendo no poço](base/059/Readme.md)  [](#repetição)
-- [@063 L3 - Blackjack 21!](base/063/Readme.md)  [](#repetição)
-- [@054 L3 - Quebrador de Copos](base/054/Readme.md)  [](#repetição)
 - [@065 L3 - Sapinho 3 matemático não morrendo no poço](base/065/Readme.md)  [](#repetição)
 
-## 07. Repetição Extra
+- For (controle de laço)
+- [@013 L1 - Dividindo pares de sapatos pra três](base/013/Readme.md)  [](#repetição)
+- [@045 L1 - Zero é par - Somatório de Pares!](base/045/Readme.md)  [](#repetição)
+- [@050 L2 - Castelos de Cubos](base/050/Readme.md)  [](#repetição)
+- [@054 L3 - Quebrador de Copos](base/054/Readme.md)  [](#repetição)
 
+- For (múltiplso controles)
+- [@046 L2 - Jogo da Concentração](base/046/Readme.md)  [](#repetição)
+
+- Math
+- [@090 L2 - Primo](base/090/Readme.md)  [](#vetores)
+- [@189 L2 - Fatores de um número](base/189/Readme.md)  [](#repetição)
+- [@052 L3 - Hoje tem sopa de coelho?](base/052/Readme.md)  [](#repetição)
 - [@160 L3 - Somatório de Fibonacci](base/160/Readme.md)  [](#repetição)
 
+- Decomposição de Inteiros
+- [@066 L2 - Spok Palíndromo](base/066/Readme.md)  [](#repetição)
+- [@064 L3 - Conta Dígitos](base/064/Readme.md)  [](#repetição)
+
+
 ## 08. Vetores I
+
+- Separar questões de vetores: 
+    - pode usar algumas das divisões que está lá no estressado github.com/senapk/estressados
+
+- Adaptar essas questões de vieram de repetição para vetor
+- [@056 L1 - Calça apertada - Mínimo](base/056/Readme.md)  [](#repetição)
+- [@055 L1 - Ultrons - Contar Elemento](base/055/Readme.md)  [](#repetição)
+- [@058 L2 - Busca Intervalada](base/058/Readme.md)  [](#repetição)
+- [@048 L2 - Cabo de Guerra Jedi](base/048/Readme.md)  [](#repetição)
+- [@057 L2 - Revolta em Portugal](base/057/Readme.md)  [](#repetição)
+- [@136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136/Readme.md)  [](#repetição)
+- [@051 L3 - Arremesso de pedra na lua](base/051/Readme.md)  [](#repetição)
+- [@063 L3 - Blackjack 21!](base/063/Readme.md)  [](#repetição)
+
+- Questões de vetores
 
 - [@060 L1 - Joelison Fernandes - Soma do maior e menor!](base/060/Readme.md) 
 - [@061 L2 - Capoeira invertendo vetor!](base/061/Readme.md) 
@@ -174,7 +176,6 @@
 - [@091 L2 - MMC](base/091/Readme.md)  [](#vetores)
 - [@101 L2 - Mostrar mão de cartas](base/101/Readme.md)  [](#vetores)
 - [@068 L2 - Organizando a fila do RU](base/068/Readme.md)  [](#vetores)
-- [@090 L2 - Primo](base/090/Readme.md)  [](#vetores)
 - [@186 L2 - Processando uma linha de inteiros](base/186/Readme.md)  [](#vetores)
 - [@067 L2 - Queda de dominós](base/067/Readme.md)  [](#vetores)
 - [@072 L2 - Soldados Pequenos e Grandes!](base/072/Readme.md)  [](#vetores)
