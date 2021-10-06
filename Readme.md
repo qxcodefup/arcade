@@ -2,8 +2,27 @@
 
 <!--TOC_BEGIN-->
 - [01. Operações](#01-operações)
+    - [Conteúdo sugeridos](#conteúdo-sugeridos)
+    - [Impressão formatada(casas decimais e zeros à esquerda)](#impressão-formatadacasas-decimais-e-zeros-à-esquerda)
+    - [Escrevendo Expressões (sqrt, pow)](#escrevendo-expressões-sqrt-pow)
+    - [Operador de módulo](#operador-de-módulo)
 - [02. Seleção](#02-seleção)
+    - [Conteúdo sugerido](#conteúdo-sugerido)
+    - [Manipulação de Ifs e Elses e Fórmulas](#manipulação-de-ifs-e-elses-e-fórmulas)
+    - [Lógica](#lógica)
+    - [Biblioteca Math: ceil, floor, round, abs](#biblioteca-math-ceil-floor-round-abs)
+    - [Operador de módulo](#operador-de-módulo)
+    - [Operadores lógicos](#operadores-lógicos)
+    - [Seleção Intervalada](#seleção-intervalada)
+    - [Busca e Contagem](#busca-e-contagem)
+    - [Conversão de bases](#conversão-de-bases)
 - [05. Repetição](#05-repetição)
+    - [Conteúdo sugerido](#conteúdo-sugerido)
+    - [While e técnicas de controle (break e continue)](#while-e-técnicas-de-controle-break-e-continue)
+    - [For (controle de laço)](#for-controle-de-laço)
+    - [For (múltiplso controles)](#for-múltiplso-controles)
+    - [Math](#math)
+    - [Decomposição de Inteiros](#decomposição-de-inteiros)
 - [08. Vetores I](#08-vetores-i)
 - [09. Vetores II](#09-vetores-ii)
 - [10. Vetores Extra](#10-vetores-extra)
@@ -22,7 +41,7 @@
 
 ## 01. Operações
 
-- Conteúdo sugeridos
+### Conteúdo sugeridos
     - instalando o mingw e vscode
     - tipos de dados básicos: `bool, int, float, char, const char *`
     - operadores aritméticos: `+ - * / %`
@@ -34,23 +53,23 @@
     - utilizando funções da biblioteca math.h
     - debugando
 
-- Impressão formatada(casas decimais e zeros à esquerda)
+### Impressão formatada(casas decimais e zeros à esquerda)
 - [@000 L1 - Operações básicas - Imprimindo float formatado](base/000/Readme.md) 
 
-- Escrevendo Expressões (sqrt, pow)
+### Escrevendo Expressões (sqrt, pow)
 - [@002 L2 - Pintando a casa - Calculando a área do triângulo](base/002/Readme.md) 
 - [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003/Readme.md) 
 - [@196 L2 - Comprando TV parcelado](base/196/Readme.md) 
 - [@004 L3 - Mete bala - Distância entre dois pontos](base/004/Readme.md) 
 
-- Operador de módulo
+### Operador de módulo
 - [@195 L2 - Xadrez OBI 2019 F1P1](base/195/Readme.md) 
 - [@193 L2 - Dominó - OBI 2019 F1PJ](base/193/Readme.md) 
 
 
 ## 02. Seleção
 
-- Conteúdo sugerido
+### Conteúdo sugerido
     - Funções
         - recebendo e retornando básicos [LINK]
         - retorno de função: retorno default e returnos parciais ao invés de elses
@@ -62,7 +81,7 @@
         - Operador ternário
 
 
-- Manipulação de Ifs e Elses e Fórmulas
+### Manipulação de Ifs e Elses e Fórmulas
 - [@015 L1 - Calculadora Numérica](base/015/Readme.md) 
 - [@155 L1 - Plantação de Morangos](base/155/Readme.md) 
 - [@151 L1 - Impedido!](base/151/Readme.md) 
@@ -71,18 +90,18 @@
 - [@040 L2 - Está Trabalhando ou Não!](base/040/Readme.md) 
 - [@001 L2 - Sai fora Bhaskara (Cálculo de raízes)](base/001/Readme.md) 
 
-- Lógica
+### Lógica
 - [@157 L1 - Frota de Táxi - OBI 2005](base/157/Readme.md) 
 - [@014 L1 - Quantos são iguais? (Contando Repetidos)](base/014/Readme.md) 
 - [@156 L2 - Jogo de par ou ímpar - OBI 2016 - F1P1](base/156/Readme.md) 
 - [@022 L2 - Teleférico - OBI 2017 - Fase 1](base/022/Readme.md) 
 - [@194 L2 - Nota cortada - OBI 2019 F1P1](base/194/Readme.md) 
 
-- Biblioteca Math: ceil, floor, round, abs
+### Biblioteca Math: ceil, floor, round, abs
 - [@018 L2 - Arredondar](base/018/Readme.md) 
 - [@030 L2 - Mercantil V1 - Quem chega mais perto](base/030/Readme.md) 
 
-- Operador de módulo
+### Operador de módulo
 - [@024 L1 - Divisão Inteira e Quebrada](base/024/Readme.md) 
 - [@062 L1 - Angulo Cartesiano](base/062/Readme.md) 
 - [@025 L1 - Ambos Divisíveis](base/025/Readme.md) 
@@ -95,60 +114,60 @@
 - [@006 L3 - Zerinho ou um americano - Decifrando a fórmula](base/006/Readme.md) 
 - [@037 L3 - Jokenpo 15](base/037/Readme.md)  [](#seleção)
 
-- Operadores lógicos
+### Operadores lógicos
 - [@023 L2 - Jokenpo das tartarugas!](base/023/Readme.md) 
 - [@039 L2 - Mercantil V2 - Maior ou Menor](base/039/Readme.md) 
 - [@035 L2 - OBI 2017 - Fase 1 - Drone de Entrega](base/035/Readme.md) 
 - [@020 L2 - Zerinho ou Um!](base/020/Readme.md)  [](#seleção)
 
-- Seleção Intervalada
+### Seleção Intervalada
 - [@021 L2 - Aumento de Salário](base/021/Readme.md)  [](#seleção)
 - [@032 L2 - Bolada na fuça](base/032/Readme.md)  [](#seleção)
 - [@183 L2 - Criança, Adulto, Idoso, Múmia](base/183/Readme.md)  [](#seleção)
 
-- Busca e Contagem
+### Busca e Contagem
 - [@017 L2 - Ovos de galinha (Procurando o Maior valor)](base/017/Readme.md)  [](#seleção)
 - [@192 L2 - A idade de Dona Mônica - OBI 2019 - F1PJ](base/192/Readme.md) 
 - [@029 L2 - Quiz do Harry Potter](base/029/Readme.md)  [](#seleção)
 - [@036 L3 - Morre o do meio](base/036/Readme.md)  [](#seleção)
 - [@033 L3 - Professor Bonzinho](base/033/Readme.md)  [](#seleção)
 
-- Conversão de bases
+### Conversão de bases
 - [@038 L2 - A hora do próximo segundo](base/038/Readme.md)  [](#seleção)
 - [@027 L2 - Adedonha na Califórnia](base/027/Readme.md)  [](#seleção)
 - [@043 L3 - Dorme Tarde Acordar Cedo!](base/043/Readme.md)  [](#seleção)
 
 
 ## 05. Repetição
-- Conteúdo sugerido
+### Conteúdo sugerido
     - Seleção: if, else, else if
     - Controle: for, while, do while
     - Controle de laço: break, continue
     - Funções com returns parciais
 
-- While e técnicas de controle (break e continue)
+### While e técnicas de controle (break e continue)
 - [@053 L2 - OBI 2016 - Fuga em helicóptero](base/053/Readme.md)  [](#repetição)
 - [@047 L2 - Ônibus lotado](base/047/Readme.md)  [](#repetição)
 - [@049 L2 - Sapinho 1 no Poço](base/049/Readme.md)  [](#repetição)
 - [@059 L3 - Sapinho 2 morrendo no poço](base/059/Readme.md)  [](#repetição)
 - [@065 L3 - Sapinho 3 matemático não morrendo no poço](base/065/Readme.md)  [](#repetição)
 
-- For (controle de laço)
+### For (controle de laço)
 - [@013 L1 - Dividindo pares de sapatos pra três](base/013/Readme.md)  [](#repetição)
 - [@045 L1 - Zero é par - Somatório de Pares!](base/045/Readme.md)  [](#repetição)
 - [@050 L2 - Castelos de Cubos](base/050/Readme.md)  [](#repetição)
 - [@054 L3 - Quebrador de Copos](base/054/Readme.md)  [](#repetição)
 
-- For (múltiplso controles)
+### For (múltiplso controles)
 - [@046 L2 - Jogo da Concentração](base/046/Readme.md)  [](#repetição)
 
-- Math
+### Math
 - [@090 L2 - Primo](base/090/Readme.md)  [](#vetores)
 - [@189 L2 - Fatores de um número](base/189/Readme.md)  [](#repetição)
 - [@052 L3 - Hoje tem sopa de coelho?](base/052/Readme.md)  [](#repetição)
 - [@160 L3 - Somatório de Fibonacci](base/160/Readme.md)  [](#repetição)
 
-- Decomposição de Inteiros
+### Decomposição de Inteiros
 - [@066 L2 - Spok Palíndromo](base/066/Readme.md)  [](#repetição)
 - [@064 L3 - Conta Dígitos](base/064/Readme.md)  [](#repetição)
 
