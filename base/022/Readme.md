@@ -21,6 +21,10 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 
 *   2 ≤ C ≤ 100 e 1 ≤ A ≤ 1000
 
+
+## Solução
+[Vídeo](https://www.youtube.com/watch?v=w0oyrmeYHjY)
+
 ## Exemplos
 
 ```
