@@ -24,6 +24,29 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 ## Exemplos
 
 ```
+>>>>>>>>
+5
+4
+========
+1
+<<<<<<<<
+
+>>>>>>>>
+5
+8
+========
+2
+<<<<<<<<
+
+>>>>>>>>
+5
+9
+========
+3
+<<<<<<<<
+
+
+
 >>>>>>>> 01
 10
 20
