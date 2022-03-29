@@ -4,13 +4,13 @@
 
 ## Motivação
 
-Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e imprima no formato hh:mm dd/mm/aa. Você deve certificar-se de imprimir um 0 à esquerda para garantir que todas as informações tenham 2 dígitos. A hora de entrada poderá aparecer no formato 24 horas, mas apresente-a na saída no formato 12h.
+Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e imprima no formato hh:mm dd/mm/aa. Você deve certificar-se de imprimir um 0 à esquerda para garantir que todas as informações tenham 2 dígitos.
 
 ### Entrada:
 - hora, minuto, dia, mês e ano, um por linha.
 
 ### Saída:
-- hh:mm dd/mm/aa, sendo hora de 0 a 11.
+- hh:mm dd/mm/aa.
 
 ## Exemplos
 
@@ -42,7 +42,7 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 9
 2005
 ========
-02:07 07/09/05
+14:07 07/09/05
 <<<<<<<<
 
 >>>>>>>>
@@ -52,7 +52,7 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 1
 2076
 ========
-11:01 01/01/76
+23:01 01/01/76
 <<<<<<<<
 ```
 
@@ -64,9 +64,8 @@ Seja a variável `valor` um número em inteiro, você pode imprimir essa variáv
 - Javascript: `console.log(String(valor).padStart(2, "0"))`
 - Python: `print("%02d" % (valor))`
 
-Você pode usar o operador de módulo para quebrar a parte da informação de você precisa para pegar apenas a hora ou a dezena e unidade do ano.
+Você pode usar o operador de módulo usando ano % 100 para pegar só os dois últimos dígitos do ano.
 
 ---
 
-[![](video.png)](https://youtu.be/8ic8dqudXPw)
 

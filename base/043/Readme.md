@@ -74,29 +74,6 @@ h1 = int(h1) h2 = int(h2)
 etc.
 
 
-### Pseudocódigo
-
-```c
-LEIA H1, M1, S1;
-LEIA H2, M2, S2;
-
-SEG3 = S2 - S1;
-SE SEG3 < 0 
-	M1++;
-	SEG = SEG + 60;
-
-MIN3 = M2 - M1;
-SE MIN3 < 0
-	H1++;
-	MIN3 = MIN3 + 60;
-
-HOR3 = H2 - H1;
-SE HOR3 < 0 
-	HOR3 = HOR3 +  24;
-
-IMPRIMIR "HOR3 MIN3 SEG3"; 
-```
-
 ### Observação
 
 Note que você deve imprimir sempre 2 dígitos. Exemplo ele duma 1 hora, 2 minutos e 3 segundos deverá ser impresso: "01 02 03". Em C você pode usar o seguinte código para imprimir o 0 a esquerda:
