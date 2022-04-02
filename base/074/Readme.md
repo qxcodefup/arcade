@@ -50,32 +50,3 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 <<<<<<<<
 ```
 
-## Ajuda
-
-### Dica
-- Que tal criar dois vetores? Onde um armazena os valores do `pé direito` e o outro do pé `esquerdo`, e ambos tenham o mesmo tamanho.
-
-### Pseudocódigo
-```
-Ler N
-sum recebe 0
-
-Enquanto (auxiliar menor N):
-    Ler numero
-    Ler lado
-
-    Se ( lado igual 'D' ):
-        Incrementar pe_direito[numero]
-    Senao:
-        Incrementar pe_esquerdo[numero]
-
-Para( auxiliar menor ou igual MMAX ):
-    Se ( pe_esquerdo[i] menor pe_direito[i] ):
-        soma recebe pe_esquerdo[i] + soma
-    Senao:
-        soma recebe pe_direito[i] + soma
-
-Mostrar (sum)
-```
-
-- Observação: `MMAX` se trata do maior número que `M` pode assumir e, pelo enunciado da questão, esse número é igual a 60.

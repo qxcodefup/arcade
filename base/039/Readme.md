@@ -64,14 +64,3 @@ primeiro
 ```
 
 
-## Ajuda
-
-```
-Leia primeiro (float)
-Leia segundo (char)
-Leia valor (float)
-Se (verifique em que casos o segundo ganha)
-    Mostre segundo
-Se não
-    Mostre primeiro
-```

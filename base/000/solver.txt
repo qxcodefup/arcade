@@ -1,7 +1,0 @@
-a = ler_inteiro()
-b = ler_inteiro()
-imprimir(a + b)
-imprimir(a - b)
-imprimir(a * b)
-imprimir(a / b) # 2 casas decimais
-imprimir(a mod b)

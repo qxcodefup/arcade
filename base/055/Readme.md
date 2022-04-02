@@ -56,17 +56,5 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 5
 <<<<<<<<
 ```
-## Ajuda
-#### Pseudocódigo
-```
-var ultron = ler_inteiro()
-var quant = ler_inteiro()
-var contador = 0
-faça N vezes:
-    var auxiliar = ler_inteiro()
-    se auxiliar for igual a ultron
-        adicione 1 ao contador
-Mostre contator
-```
 
 

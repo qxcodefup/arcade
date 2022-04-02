@@ -90,29 +90,3 @@ Jedi
 <<<<<<<<
 ```
 
-## Ajuda
-
-- Que tal criar duas variáveis, `soma_jedi` e `soma_jedi`, que acumula os respectivos valores dos `jedi` e `sith`. 
-
-Pseudocódigo
-
-```
-var tamanho = ler_inteiro()
-var soma_jedi = 0
-var soma_sith = 0
-var auxiliar = 1
-
-Faça um laço com contador começando de 1 até igual tamanho:
-    valor = ler_inteiro()
-    Se contador menor que tamanho / 2
-        soma_jedi é incrementada com o valor
-    Senao
-        soma_sith é incrementada com o valor
-
-Se soma_jedi maior que soma_sith
-    Mostrar "Jedi"
-Senão Se soma_jedi menor que soma_sith:
-    Mostrar "Sith"
-Senão
-    Mostrar "Empate"
-```

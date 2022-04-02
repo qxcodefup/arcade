@@ -59,15 +59,4 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 0
 <<<<<<<<
 ```
-## Ajuda
-#### Pseudocódigo
-```
-Leia o tamanho do laço(tamanho), o (menor) e (maior)
-Faça tamanho vezes:
-    Leia auxiliar
-    Se auxiliar estiver dentro do intervalo
-        Adicione 1 ao contador
-Fim do laço
-Mostre contador
-```
 

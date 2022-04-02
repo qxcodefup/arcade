@@ -52,9 +52,15 @@ Observação
 * O `operador` deve ser recebido em uma variável do tipo `char`. Exemplo:
   
 ```c
-    char operador;
-
+    // código em c
+    char operador = 0;
     scanf(" %c", &operador);
+```
+
+```cpp
+    // código em c++
+    char operador { };
+    cin >> operador;
 ```
 
 

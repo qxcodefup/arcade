@@ -62,7 +62,9 @@ nao ha raiz real
 * Para calcular a raiz quadrada você deverá utilizar a função `sqrt`. A função `sqrt` retorna a raiz quadrada do número que for passado por parâmetro. Exemplo:
   
 ```
-sqrt(4) retorna 2    sqrt(5) retorna 2.23607    sqrt(9.0) retorna 3    
+sqrt(4) retorna 2    
+sqrt(5) retorna 2.23607    
+sqrt(9.0) retorna 3    
 ```
 
 Observação
@@ -74,16 +76,19 @@ Observação
 
     sqrt(4)  //retorna 2
 ```
+
 ``` c++
     #include <cmath> //c++
 
     sqrt(4) //retorna 2 
 ```
+
 ``` python
     import math #python
 
     math.sqrt(4) #retorna 2 
 ```
+
 ``` javascript
     //javascript
     Math.sqrt(4) //retorna 2 

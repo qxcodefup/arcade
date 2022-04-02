@@ -48,23 +48,3 @@ AaBbCcDdEe
 vvccccccvv
 <<<<<<<<
 ```
-## Ajuda
-#### Pseudocódigo
-```
-crie uma função identifica que recebe parâmetro: char c
-char original = c;
-se (c >= 'A' e c <= 'Z')
-    c = c + ('a' - 'A');
-se (c = 'a' ou c = 'e' ou c = 'i' ou c = 'o' ou c = 'u')
-    retorne 'v';
-se(c >= 'a' e c <= 'z')
-    retorne 'c';
-retorne original;
-
-inicie uma variavel frase com 100 espaços
-leia frase
-crie um laço que inicia i = 0 e continua enquanto frase na posição i != '\0'; i++)
-    se (frase na posição i != '/n')
-        mostre a função identifica levando (frase na posição i)
-```
-#

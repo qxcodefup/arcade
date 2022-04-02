@@ -47,18 +47,3 @@ pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
 1, dOIS, 3 iNDIOZINHOS
 <<<<<<<<
 ```
-## Ajuda
-#### Pseudocódigo
-```
-inicie uma string frase com 100 espaços
-leia a string frase
-
-crie um laço que inicia i = 0 e continua enquanto i < frase e adicione i++
-    se frase na posiçao i >= 'a' e frase na posiçao i <= 'z'
-        mostre frase na posiçao i - ('a' - 'A')
-    senão se frase na posiçao i >= 'A' e frase na posiçao i <= 'Z'
-        mostre frase na posiçao i + ('a' - 'A')
-    senão
-        mostre frase na posiçao i;
-```
-#

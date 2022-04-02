@@ -85,21 +85,3 @@ lotado
 hora de partir
 <<<<<<<<
 ```
-## Ajuda 
-#### Pseudocódigo
-```
-Inicie aux = 0
-Leia capacidade
-Laço enquanto aux menor que 2 vezes a capacidade
-  Leia movimentação
-  aux = aux + movimentação;
-  Se(aux for igual a 0)
-    mostre "vazio"
-  Senão se(aux menor que capacidade)
-    Mostre "ainda cabe"
-  Senão se(aux menos que 2 vezes capacidade)
-    Mostre "lotado"
-  Senão
-    Mostre "hora de partir"
-Fim do laço
-```

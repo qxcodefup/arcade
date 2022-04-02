@@ -70,28 +70,3 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 24
 <<<<<<<<
 ```
-
-## Ajuda
-
-Pseudocódigo
-```
-var numero_cartas = ler_inteiro()
-var ases = 0
-var total = 0
-
-Faça numero_cartas vezes
-    carta = ler_inteiro()
-    Se carta for uma As
-        ases += 1
-        total += 11
-    Senão Se carta for dama, valete ou rei
-        total += 10
-    Senao:
-        Somar o valor de carta ao total
-
-Enquanto (total > 21 e ases > 0):
-    Subtrair 10 ao total
-    Diminuir uma unidade do valor de as
-
-Mostrar (total)
-```

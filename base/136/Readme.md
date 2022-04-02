@@ -54,18 +54,3 @@ Dado uma trilha, você deve calcular o menor esforço para percorrê-la.
 <<<<<<<<
 ```
 
-## Ajuda
-```
-var gasto_indo = 0
-var gasto_voltando = 0
-var tamanho = ler_inteiro()
-var valor = ler_inteiro()
-Faça tamanho - 1 vezes
-    var novo = ler_inteiro()
-    se valor - novo > zero
-        incremente gasto_voltando da diferenca
-    se novo - valor > zero
-        incremente gasto_indo da diferenca
-    valor = novo
-Imprima o menor valor ente gasto_voltanto e gasto_indo
-```

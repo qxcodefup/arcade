@@ -13,11 +13,9 @@ int main (){
 		media += altura[i];
 	}
 	
-    if(n != 1){
-        media = media / n;
-        printf("%.2f\n", media);
-    } 
+	media = media / n;
 
+	printf("%.2f\n", media);
 	
 	for(i = 0; i < n; i++){
 		if( altura[i] < media )

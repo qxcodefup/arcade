@@ -78,21 +78,3 @@ soldados
 rebeldes
 <<<<<<<<
 ```
-
-## Ajuda
-#### Pseudocódigo
-
-```
-var tamanho = ler_inteiro()
-var soma_par = 0
-var soma_impar = 0
-Faça tamanho vezes
-    var valor = ler_inteiro()
-    Se valor for par 
-        incremente valor em soma_par
-    Senão 
-        incremente valor em soma_impar
-}
-Mostre o resultado de acordo 
-com a comparação entre soma_par e soma_impar
-```

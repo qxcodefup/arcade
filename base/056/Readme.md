@@ -43,13 +43,3 @@ Faça um programa que receba cinco valores inteiros e encontre o menor deles.
 <<<<<<<<
 ```
 
-## Ajuda
-#### Pseudocódigo
-```
-variável menor = ler_inteiro()  
-Faça 4 vezes
-    variável auxiliar = ler_inteiro()
-    Se auxiliar < menor
-        menor = auxiliar
-Mostre menor
-```

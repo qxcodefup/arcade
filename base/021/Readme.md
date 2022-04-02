@@ -23,9 +23,6 @@ Receba o valor do salário atual do funcionário e imprima o novo salário de ac
 
 * Novo Salário (float com duas casas decimais).
 
-## Ajuda
-
-Se a variável total guarda o salário final, em python você pode forçar a saída a ter apenas duas casas decimais usando
 
 ``` python
 print("%.2f" % total)
@@ -59,20 +56,3 @@ printf("%.2f", total);
 <<<<<<<<
 ```
 
-## Ajuda
-
-#### Pseudocódigo
-```
-  Leia saladio(float)
-  Crie novoSalario(float)
-  Se salario menor ou igual a 1000
-  novoSalario = salario * 1.20
-  Senão se salario menor ou igual a 1500
-  novoSalerio = salario * 1.15
-  Senão se salario menor ou igual a 2000
-  novoSalerio = salario * 1.10
-  Senão novoSalerio = salario * 1.05
-  
-  Mostre novoSalario com 2 casas
-```
-#### em C se usa %.2f para printar com 2 casas

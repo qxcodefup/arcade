@@ -54,17 +54,3 @@ ueueueao
 thndrthndrthndrctswwww
 <<<<<<<<
 ```
-## Ajuda
-#### Pseudocódigo
-
-```
-leia a frase
-vogais = ""
-consoantes = ""
-para cada caractere
-    se for vogal
-        concatene em vogais
-    senao
-        concatene em consoantes
-```
-#

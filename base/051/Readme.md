@@ -67,18 +67,3 @@ Vários competidores disputaram uma competição interessante.
 <<<<<<<<
 
 ```
-
-## Ajuda
-```
-var numero_de_competidores = ler_inteiro()
-var ganhador_indice = -1
-var ganhador_pontos = 0
-Faça indice variar de 0 até numero_de_competidores
-    Leia o valor das duas pedras
-    Se ambas as pedras caíram 10 metros ou além
-        var pontos = diferenca absoluta entre os dois valores
-        se ganhador_indice == -1 ou pontos < ganhador_pontos
-            atualiza ganhador_indice e ganhador_pontos
-Verifique so houve ganhador e imprima a resposta adequada
-```
-

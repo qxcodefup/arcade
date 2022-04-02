@@ -66,39 +66,3 @@ Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 <<<<<<<<
 ```
 
-## Ajuda
-
-### Dica
-- O vetor deve ser preenchido com zero.
-
-- Use o `A` como ponto inicial do laço e o `B` como ponto final.
-
-### Pseudocódigo
-```
-Ler N 
-Ler Q
-
-// preencher o vetor com zero
-Enquanto ( auxiliar menor que N ):
-    vetor[auxiliar] recebe 0
-
-Enquanto ( i menor que Q ):
-    Ler A
-    Ler B
-    Ler L
-
-    // A ponto inicial e B ponto final
-    j recebe A 
-    Para ( j menor ou igual B ):
-        vetor[j] recebe vetor[j] + L
-
-Mostrar (vetor) 
-```
-
-- Para mostrar/ler um vetor é necessário um laço/estrutura de repetição. Exemplo:
-```
-Ler N
-
-Enquanto ( i < N ):
-    Ler vetor[i] // mostrar vetor[i]
-```

@@ -45,21 +45,4 @@ Empate
 <<<<<<<<
 ```
 
-## Ajuda
-
-Para realizar a questão, é necessário utilizar o operador `%` . O operador `%` (lê-se mod) retorna o resto da divisão de um número por outro. Por exemplo:
-
-```
-4 % 2 retorna 0, pois o resto da divisão de 4 por 2 é 0.
-
-4 % 3 retorna 1, pois o resto da divisão de 4 por 3 é 1.
-
--5 % 3 retorna -2, pois o resto da divisão de -5 por 3 é -2.
-```
-
-Dica
-```
-O resultado da diferença entre os dois jogadores pode ser negativo, então é somado 15(numéro máximo do jogo) para que se torne positivo.
-```
-
 

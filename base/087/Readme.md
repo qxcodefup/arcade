@@ -40,34 +40,3 @@ O Dono do zoológico que fazer uma grande arca e colocar os animais dentro. Acon
 3
 <<<<<<<<
 ```
-
-## Ajuda
-
-### Dica
-- Procure elementos que tenham o mesmo valor mas com o sinal oposto `(valor = -valor)` e se encontra-los, troque os seus valores para 0. Isso evita que eles sejam contabilizados novamente por outra busca.
-
-
-### Pseudocódigo
-```
-Ler N
-Ler vetor
-casais = 0
-
-Para ( i menor que N ):
-    Para ( j menor que N ):
-        Se ( vetor[j] diferente de 0):
-            Se ( -vetor[i] igual vet[j] ):
-                Incrementar casais
-                vet[i] recebe 0 e vet[j] recebe 0
-
-Mostrar (casais)
-```
-
-- Lembrando que para ler um vetor é necessário o laço/estrutura de repetição. Exemplo:
-```
-Ler N
-
-Enquanto ( i menor que N ):
-    Ler vetor[i]
-```
-#

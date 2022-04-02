@@ -72,35 +72,3 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 <<<<<<<<
 ```
 
-## Ajuda
-Seu objetivo é utilizar operações de divisão e módulo para extrair a unidade até que o número acabe. 
-```py
-unidade = numero % 10  # operador de módulo
-numero = numero // 10  # operação de divisão inteira
-```
-
-Faça isso enquanto o número for maior e zero e compare o resultado da extração da unidade com o número procurado.
-
-Por exemplo, seja o número 239.
-
-- 1a interação: unidade = 9, número = 23
-- 2a interação: unidade = 3, número = 2
-- 3a interação: unidade = 2, número = 0
-- Acaba o laço
-
-Observe que o laço deve ser executado pelo menos uma vez. Se o seu número for 0 e estiver contando quantos zeros o número possui, você vai precisar entrar no laço pelo menos uma vez. Então você pode fazer isso com um loop infinito e um controle ao final do laço, ou um do while, caso sua linguagem suporte.
-
-```py
-# python
-while True:
-  #faça o que tem que ser feito
-  if num == 0:
-    break
-```
-
-```c
-//c
-do {
-  //faça o que tem que ser feito
-} while(num != 0);
-```

@@ -55,16 +55,3 @@ x
 0
 <<<<<<<<
 ```
-## Ajuda
-
-#### Pseudocódigo
-```
-inicie cont em 0;
-leia texto até o /n
-leia letra
-
-crie um laço onde: i = 0; texto na posição i é diferente de 0; i++
-    se texto na posição i = letra, cont++;
-mostre cont;
-```
-#

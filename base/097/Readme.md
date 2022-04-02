@@ -48,27 +48,3 @@ sim eu vou
 sim sim eu eu vou vou
 <<<<<<<<
 ```
-## Ajuda
-#### Pseudocódigo
-```
-crie uma string frase com 100 espaços
-leia frase até o /n
-inicie um contador em 0;
-
-crie um laço que inicia em i = 0 e continua enquanto i <= frase; i++){
-  se(frase na posição i != ' ' e i <= frase - 1){
-    mostre frase na posição i;
-    cont++;
-  }senão{
-    mostre(" "); //espaço
-    crie um laço onde: (a = i - cont; a < i; a++){
-      mostre frase na posição a;
-    }
-    se(i != frase){
-      mostre(" ");
-    }
-    cont = 0;
-  }
-}
-```
-#

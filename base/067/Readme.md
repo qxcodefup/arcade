@@ -47,28 +47,3 @@ precisa de ajuste
 ok
 <<<<<<<<
 ```
-
-## Ajuda
-
-#### Dica
-
-Um vetor ![](__vetor.jpg) está ordenado de forma crescente se ![](__condicao.jpg).
-Para todo elemento na posição **\[** **i \] **temos que ele é menor que o elemento na posição posterior** \[** **i +1\]** . Ou seja, caso um elemento na posição **\[ i \]** seja maior que seu vizinho da frente ( posição **\[** **i +1\]** ) o vetor não é ordenado.
-
-#### Pseudocódigo
-```
-crie bool Ordenado = true
-Leia N
-Crie um vetor Dominós de tamanho N
-Laço que leia e guarde no vetor todos elementos
-Laço que inicia i = 1 e adiciona 1 enquanto i menor que N{
-  Se Dominós na posição i menor que Dominós na posição i - 1
-    ordenado = false
-}
-Se (Ordenado) 
-  Mostre "ok"
-Se não
-  Mostre "precisa de ajuste"
-```
-
-#

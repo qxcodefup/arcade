@@ -63,21 +63,3 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 54321
 <<<<<<<<
 ```
-
-## Ajuda
-
-- Você pode formar um novo número utilizando multiplicação e soma. Por exemplo:
-```
-0 * 10 + 1, caso queira formar o número 1
-
-1 * 10 + 2, caso queira formar o número 12
-
-12 * 10 + 3, caso queira formar o número 123
-
-123 * 10 + 4, caso queira formar o número 1234
-```
-
-Criando um acumulador iniciado em 0, a cada interação do `for` você multiplica por 10 e soma o número lido.
-
-
-
