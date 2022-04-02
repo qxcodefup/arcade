@@ -1,4 +1,4 @@
-## #repetição L1 - Zero é par - Somatório de Pares!
+## #repetição L1 - Soma dos pares
 
 
 ![](__capa.jpg)

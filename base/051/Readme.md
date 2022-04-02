@@ -1,4 +1,4 @@
-## #repetição L3 - Arremesso de pedra na lua
+## #repetição L3 - Pedra na lua
 
 
 ![](__capa.jpg)

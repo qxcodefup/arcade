@@ -1,4 +1,4 @@
-## #vetores L3 - Jogando pião na rodinha
+## #vetores L3 - Pião na rodinha
 
 
 ![](__capa.jpg)

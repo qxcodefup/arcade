@@ -1,4 +1,4 @@
-## #seleção L3 - Dorme Tarde Acordar Cedo!
+## #seleção L3 - Horas de sono
 
 
 ![](__capa.jpg)

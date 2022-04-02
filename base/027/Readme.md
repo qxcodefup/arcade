@@ -1,4 +1,4 @@
-## #seleção L2 - Adedonha na Califórnia
+## #seleção L2 - Adedonha
 
 
 ![](__capa.jpg)

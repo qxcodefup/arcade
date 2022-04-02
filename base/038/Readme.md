@@ -1,4 +1,4 @@
-## #seleção L2 - A hora do próximo segundo
+## #seleção L2 - Próximo segundo
 
 [](solver.c)
 ![ponteiros de um relógio](__capa.jpg)

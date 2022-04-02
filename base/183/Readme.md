@@ -1,4 +1,4 @@
-## #seleção L2 - Criança, Adulto, Idoso, Múmia
+## #seleção L2 - Criança ou Múmia
 
 
 ![](__capa.jpg)

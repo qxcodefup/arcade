@@ -115,7 +115,7 @@
 - [@193 L2 - Dominó - OBI 2019 F1PJ](base/193/Readme.md) 
 - [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md) 
 - [@005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md) 
-- [@028 L2 - Cadê a cabeça da cobra](base/028/Readme.md) 
+- [@028 L2 - Cabeça da cobra](base/028/Readme.md) 
 - [@016 L2 - Volta de 360 graus (Retirando os loops)](base/016/Readme.md)  [](#repetição)
 - [@019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10](base/019/Readme.md) 
 - [@034 L3 - Formiga da bundona](base/034/Readme.md)  [](#seleção)
@@ -126,19 +126,19 @@
 ### Seleção Intervalada
 - [@021 L2 - Aumento de Salário](base/021/Readme.md)  [](#seleção)
 - [@032 L2 - Bolada na fuça](base/032/Readme.md)  [](#seleção)
-- [@183 L2 - Criança, Adulto, Idoso, Múmia](base/183/Readme.md)  [](#seleção)
+- [@183 L2 - Criança ou Múmia](base/183/Readme.md)  [](#seleção)
 
 ### Busca e Contagem
-- [@017 L2 - Ovos de galinha (Procurando o Maior valor)](base/017/Readme.md)  [](#seleção)
+- [@017 L2 - Maior ovo](base/017/Readme.md)  [](#seleção)
 - [@192 L2 - A idade de Dona Mônica - OBI 2019 - F1PJ](base/192/Readme.md) 
 - [@029 L2 - Quiz do Harry Potter](base/029/Readme.md)  [](#seleção)
 - [@036 L3 - Morre o do meio](base/036/Readme.md)  [](#seleção)
 - [@033 L3 - Professor Bonzinho](base/033/Readme.md)  [](#seleção)
 
 ### Conversão de bases
-- [@038 L2 - A hora do próximo segundo](base/038/Readme.md)  [](#seleção)
-- [@027 L2 - Adedonha na Califórnia](base/027/Readme.md)  [](#seleção)
-- [@043 L3 - Dorme Tarde Acordar Cedo!](base/043/Readme.md)  [](#seleção)
+- [@038 L2 - Próximo segundo](base/038/Readme.md)  [](#seleção)
+- [@027 L2 - Adedonha](base/027/Readme.md)  [](#seleção)
+- [@043 L3 - Horas de sono](base/043/Readme.md)  [](#seleção)
 
 
 ## 03. Repetição
@@ -154,11 +154,11 @@
 - [@047 L2 - Ônibus lotado](base/047/Readme.md)  [](#repetição)
 - [@049 L2 - Sapinho 1 no Poço](base/049/Readme.md)  [](#repetição)
 - [@059 L3 - Sapinho 2 morrendo no poço](base/059/Readme.md)  [](#repetição)
-- [@065 L3 - Sapinho 3 matemático não morrendo no poço](base/065/Readme.md)  [](#repetição)
+- [@065 L3 - Sapinho 3 matemático](base/065/Readme.md)  [](#repetição)
 
 ### For (controle de laço)
-- [@013 L1 - Dividindo pares de sapatos pra três](base/013/Readme.md)  [](#repetição)
-- [@045 L1 - Zero é par - Somatório de Pares!](base/045/Readme.md)  [](#repetição)
+- [@013 L1 - Sapatos para 3](base/013/Readme.md)  [](#repetição)
+- [@045 L1 - Soma dos pares](base/045/Readme.md)  [](#repetição)
 - [@050 L2 - Castelos de Cubos](base/050/Readme.md)  [](#repetição)
 - [@054 L3 - Quebrador de Copos](base/054/Readme.md)  [](#repetição)
 
@@ -184,14 +184,14 @@
 ### Mínimo
 - [@056 L1 - Calça apertada - Mínimo](base/056/Readme.md)  [](#repetição)
 - [@060 L1 - Joelison Fernandes - Soma do maior e menor!](base/060/Readme.md) 
-- [@051 L3 - Arremesso de pedra na lua](base/051/Readme.md)  [](#repetição)
-- [@100 L3 - Jogando pião na rodinha](base/100/Readme.md)  [](#vetores)
+- [@051 L3 - Pedra na lua](base/051/Readme.md)  [](#repetição)
+- [@100 L3 - Pião na rodinha](base/100/Readme.md)  [](#vetores)
 
 ### Contagem
 - [@055 L1 - Ultrons - Contar Elemento](base/055/Readme.md)  [](#repetição)
 - [@048 L2 - Cabo de Guerra Jedi](base/048/Readme.md)  [](#repetição)
 - [@057 L2 - Revolta em Portugal](base/057/Readme.md)  [](#repetição)
-- [@072 L2 - Soldados Pequenos e Grandes!](base/072/Readme.md)  [](#vetores)
+- [@072 L2 - Soldados PMG!](base/072/Readme.md)  [](#vetores)
 - [@077 L3 - Mercantil V3 - Muitas rodadas](base/077/Readme.md)  [](#vetores)
 
 ### Filtragem

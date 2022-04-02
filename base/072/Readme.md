@@ -1,4 +1,4 @@
-## #vetores L2 - Soldados Pequenos e Grandes!
+## #vetores L2 - Soldados PMG!
 
 
 ![](__capa.jpg)

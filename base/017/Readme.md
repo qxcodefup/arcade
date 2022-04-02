@@ -1,4 +1,4 @@
-## #seleção L2 - Ovos de galinha (Procurando o Maior valor)
+## #seleção L2 - Maior ovo
 
 [](solver.c)
 ![](__capa.jpg)
