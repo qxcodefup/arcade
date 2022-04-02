@@ -78,37 +78,6 @@ Super Fa
 <<<<<<<<
 ```
 
-## Ajuda
-
-Pseudocódigo
-```
-Ler primeira_questao
-Ler segundo_questao
-Ler terceira_questao
-Ler quarta_questao
-resposta_final = 0
-
-Se (primeira_questao for igual a 'd'):
-    Incrementar resposta_final
-Se (segunda_questao for igual a 'a'):
-    Incrementar resposta_final
-Se (terceira_questao for igual a 'c'):
-    Incrementar resposta_final
-Se (quarta_questao for igual a 'd'):
-    Incrementar resposta_final 
-
-Caso (resposta_final for igual a 0):
-    Mostrar "Nunca assistiu"
-Caso (resposta_final for igual a 1):
-    Mostrar "Ja ouviu falar"
-Caso (resposta_final for igual a 2):
-    Mostrar "Interessado no assunto"
-Caso (resposta_final for igual a 3):
-    Mostrar "Fa"
-Caso (resposta_final for igual a 4):
-    Mostrar "Super Fa"
-```
-
 Autor: Bruno Góes
 
 ---

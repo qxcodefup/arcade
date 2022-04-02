@@ -14,24 +14,35 @@
     - [Seleção Intervalada](#seleção-intervalada)
     - [Busca e Contagem](#busca-e-contagem)
     - [Conversão de bases](#conversão-de-bases)
-- [05. Repetição](#05-repetição)
+- [03. Repetição](#03-repetição)
     - [Conteúdo sugerido](#conteúdo-sugerido)
     - [While e técnicas de controle (break e continue)](#while-e-técnicas-de-controle-break-e-continue)
     - [For (controle de laço)](#for-controle-de-laço)
     - [For (múltiplos controles)](#for-múltiplos-controles)
     - [Math](#math)
     - [Decomposição de Inteiros](#decomposição-de-inteiros)
-- [08. Vetores I](#08-vetores-i)
-- [11. Strings I](#11-strings-i)
-- [12. Strings II](#12-strings-ii)
-- [13. String III](#13-string-iii)
-- [14. String Extra](#14-string-extra)
-- [15. Matrizes I](#15-matrizes-i)
-- [16. Matrizes II](#16-matrizes-ii)
-- [17. Matrizes Extra](#17-matrizes-extra)
-- [18. Funções e Ponteiros](#18-funções-e-ponteiros)
-- [19. Recursão](#19-recursão)
-- [20. Structs](#20-structs)
+- [04. Vetores](#04-vetores)
+    - [Mínimo](#mínimo)
+    - [Contagem](#contagem)
+    - [Filtragem](#filtragem)
+    - [Conversão](#conversão)
+    - [Manipulação](#manipulação)
+    - [Proximidade](#proximidade)
+    - [Ordenação](#ordenação)
+    - [Lógica](#lógica)
+    - [Math](#math)
+- [05. Strings](#05-strings)
+    - [Bloco I](#bloco-i)
+    - [Bloco II](#bloco-ii)
+    - [Bloco III](#bloco-iii)
+    - [Bloco IV](#bloco-iv)
+- [06. Matrizes](#06-matrizes)
+    - [Matrizes I](#matrizes-i)
+    - [Matrizes II](#matrizes-ii)
+    - [Matrizes III](#matrizes-iii)
+- [07. Funções e Ponteiros](#07-funções-e-ponteiros)
+- [08. Recursão](#08-recursão)
+- [09. Structs](#09-structs)
 <!--TOC_END-->
 
 
@@ -130,7 +141,8 @@
 - [@043 L3 - Dorme Tarde Acordar Cedo!](base/043/Readme.md)  [](#seleção)
 
 
-## 05. Repetição
+## 03. Repetição
+
 ### Conteúdo sugerido
     - Seleção: if, else, else if
     - Controle: for, while, do while
@@ -164,61 +176,79 @@
 - [@064 L3 - Conta Dígitos](base/064/Readme.md)  [](#repetição)
 
 
-## 08. Vetores I
+## 04. Vetores
 
 - Separar questões de vetores: 
     - pode usar algumas das divisões que está lá no estressado github.com/senapk/estressados
 
-- Adaptar essas questões de vieram de repetição para vetor
+### Mínimo
 - [@056 L1 - Calça apertada - Mínimo](base/056/Readme.md)  [](#repetição)
+- [@060 L1 - Joelison Fernandes - Soma do maior e menor!](base/060/Readme.md) 
+- [@051 L3 - Arremesso de pedra na lua](base/051/Readme.md)  [](#repetição)
+- [@100 L3 - Jogando pião na rodinha](base/100/Readme.md)  [](#vetores)
+
+### Contagem
 - [@055 L1 - Ultrons - Contar Elemento](base/055/Readme.md)  [](#repetição)
-- [@058 L2 - Busca Intervalada](base/058/Readme.md)  [](#repetição)
 - [@048 L2 - Cabo de Guerra Jedi](base/048/Readme.md)  [](#repetição)
 - [@057 L2 - Revolta em Portugal](base/057/Readme.md)  [](#repetição)
-- [@136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136/Readme.md)  [](#repetição)
-- [@051 L3 - Arremesso de pedra na lua](base/051/Readme.md)  [](#repetição)
+- [@072 L2 - Soldados Pequenos e Grandes!](base/072/Readme.md)  [](#vetores)
+- [@077 L3 - Mercantil V3 - Muitas rodadas](base/077/Readme.md)  [](#vetores)
+
+### Filtragem
+- [@058 L2 - Busca Intervalada](base/058/Readme.md)  [](#repetição)
+
+
+### Conversão
 - [@063 L3 - Blackjack 21!](base/063/Readme.md)  [](#repetição)
-
-- Questões de vetores
-
-- [@060 L1 - Joelison Fernandes - Soma do maior e menor!](base/060/Readme.md) 
-- [@061 L2 - Capoeira invertendo vetor!](base/061/Readme.md) 
-- [@078 L2 - Jogo do Avesso](base/078/Readme.md)  [](#vetores)
-- [@091 L2 - MMC](base/091/Readme.md)  [](#vetores)
 - [@101 L2 - Mostrar mão de cartas](base/101/Readme.md)  [](#vetores)
+- [@188 L3 - Devolvendo o troco com vetores](base/188/Readme.md)  [](#vetores)
+- [@082 L3 - As unhas de Luiza - Vetor para inteiro](base/082/Readme.md)  [](#vetores)
+
+### Manipulação
+- [@161 L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md)  [](#repetição)
+- [@061 L2 - Capoeira invertendo vetor!](base/061/Readme.md) 
+- [@091 L2 - MMC](base/091/Readme.md)  [](#vetores)
 - [@068 L2 - Organizando a fila do RU](base/068/Readme.md)  [](#vetores)
 - [@186 L2 - Processando uma linha de inteiros](base/186/Readme.md)  [](#vetores)
+- [@081 L3 - Loucura de Marquinhos - Decompor um inteiro](base/081/Readme.md)  [](#vetores)
+- [@087 L3 - Zoológico Entrando na Arca de Noé](base/087/Readme.md)  [](#vetores)
+- [@069 L3 - Zoo quantas especies!](base/069/Readme.md)  [](#vetores)
+- [@084 L3 - Zoológico Um animal de cada tipo!](base/084/Readme.md)  [](#vetores)
+
+### Proximidade
 - [@067 L2 - Queda de dominós](base/067/Readme.md)  [](#vetores)
-- [@072 L2 - Soldados Pequenos e Grandes!](base/072/Readme.md)  [](#vetores)
+- [@078 L2 - Jogo do Avesso](base/078/Readme.md)  [](#vetores)
+- [@136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136/Readme.md)  [](#repetição)
+- [@158 L3 - Trilhas - OBI 2005](base/158/Readme.md)  [](#repetição)
+- [@071 L3 - Mário e o Assassin's Creed - Parkour](base/071/Readme.md)  [](#vetores)
+- [@085 L3 - Exército - Perto da morte](base/085/Readme.md)  [](#vetores)
+- [@079 L3 - Jogo do Avesso V2](base/079/Readme.md)  [](#vetores)
+
+### Ordenação
+- [@073 L3 - Batida Policial - Ordenando vetores](base/073/Readme.md)  [](#vetores)
+- [@088 L3 - Se fosse a mediana eu tinha passado!](base/088/Readme.md)  [](#vetores)
+
+### Lógica
 - [@075 L3 - Abastecimento de água](base/075/Readme.md)  [](#vetores)
 - [@083 L3 - Anfíbios e Batráquios - Está contido](base/083/Readme.md)  [](#vetores)
-- [@082 L3 - As unhas de Luiza - Vetor para inteiro](base/082/Readme.md)  [](#vetores)
 - [@080 L3 - Baruel Ruel trocando figurinhas!](base/080/Readme.md)  [](#vetores)
-- [@073 L3 - Batida Policial - Ordenando vetores](base/073/Readme.md)  [](#vetores)
 - [@010 L3 - Bolinhas viciadas(contagem de repetições)](base/010/Readme.md)  [](#vetores)
 - [@070 L3 - Cabeças vão rolar](base/070/Readme.md)  [](#vetores)
 - [@086 L3 - Coleção de Tazos - Quantos se repetem mais](base/086/Readme.md) 
-- [@071 L3 - Mário e o Assassin's Creed - Parkour](base/071/Readme.md)  [](#vetores)
-- [@188 L3 - Devolvendo o troco com vetores](base/188/Readme.md)  [](#vetores)
-- [@085 L3 - Exército - Perto da morte](base/085/Readme.md)  [](#vetores)
-- [@100 L3 - Jogando pião na rodinha](base/100/Readme.md)  [](#vetores)
-- [@079 L3 - Jogo do Avesso V2](base/079/Readme.md)  [](#vetores)
-- [@081 L3 - Loucura de Marquinhos - Decompor um inteiro](base/081/Readme.md)  [](#vetores)
-- [@138 L3 - Permutação](base/138/Readme.md)  [](#vetores)
-- [@087 L3 - Zoológico Entrando na Arca de Noé](base/087/Readme.md)  [](#vetores)
-- [@069 L3 - Zoo quantas especies!](base/069/Readme.md)  [](#vetores)
-- [@088 L3 - Se fosse a mediana eu tinha passado!](base/088/Readme.md)  [](#vetores)
-- [@008 L3 - Força Bruta (Gerando próxima combinação)](base/008/Readme.md)  [](#vetores)
-- [@077 L3 - Mercantil V3 - Muitas rodadas](base/077/Readme.md)  [](#vetores)
 - [@074 L3 - OBI 2017 - Fase 1 - Botas Trocadas](base/074/Readme.md)  [](#vetores)
 - [@076 L3 - OBI 2017 - Fase 1 - O segredo do Cofre](base/076/Readme.md)  [](#vetores)
-- [@084 L3 - Zoológico Um animal de cada tipo!](base/084/Readme.md)  [](#vetores)
+
+### Math
+- [@138 L3 - Permutação](base/138/Readme.md)  [](#vetores)
+- [@008 L3 - Força Bruta (Gerando próxima combinação)](base/008/Readme.md)  [](#vetores)
 - [@190 L4 - Maiores Palíndromos](base/190/Readme.md)  [](#repetição)
-- [@158 L3 - Trilhas - OBI 2005](base/158/Readme.md)  [](#repetição)
-- [@161 L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md)  [](#repetição)
 
-## 11. Strings I
 
+
+## 05. Strings
+
+
+### Bloco I
 - [@173 L1 - Eribelton e a Ascologia V1 - Somar Asc](base/173/Readme.md)  [](#strings)
 - [@092 L1 - LP da Xura - Inverter String!](base/092/Readme.md)  [](#strings)
 - [@104 L1 - Maiúsculo, Minusculo e Dígito!](base/104/Readme.md)  [](#strings)
@@ -232,7 +262,7 @@
 - [@097 L2 - Gagueira V1 - Duplicar Palavras](base/097/Readme.md)  [](#strings)
 - [@093 L2 - Gritando em Caixa Alta](base/093/Readme.md)  [](#strings)
 
-## 12. Strings II
+### Bloco II
 
 - [@180 L2 - Guerra Civil no Universo Marvel](base/180/Readme.md)  [](#strings)
 - [@089 L2 - Mega Jokenpo!](base/089/Readme.md)  [](#strings)
@@ -247,7 +277,7 @@
 - [@124 L3 - Conversa de Traficantes](base/124/Readme.md)  [](#strings)
 - [@113 L3 - Eribelton e a Ascologia V3](base/113/Readme.md)  [](#strings)
 
-## 13. String III
+### Bloco III
 
 - [@099 L3 - Francês é Fresco](base/099/Readme.md)  [](#strings)
 - [@120 L3 - Gansos Gamados](base/120/Readme.md)  [](#strings)
@@ -262,7 +292,7 @@
 - [@102 L3 - Meu cachorro comeu minha tarefa V2](base/102/Readme.md)  [](#strings)
 - [@115 L3 - Máquina de Datilografar Quebrada](base/115/Readme.md)  [](#strings)
 
-## 14. String Extra
+### Bloco IV
 
 - [@121 L3 - Mário e o Assassins Creed](base/121/Readme.md)  [](#strings)
 - [@122 L3 - Nao se bububula - Gagueira V2!](base/122/Readme.md)  [](#strings)
@@ -278,7 +308,9 @@
 - [@041 L3 - Criptografia](base/041/Readme.md)  [](#string)
 
 
-## 15. Matrizes I
+## 06. Matrizes
+
+### Matrizes I
 
 - [@130 L2 - Bingo!](base/130/Readme.md)  [](#matrizes)
 - [@012 L2 - Deu a louca no Imperador!](base/012/Readme.md)  [](#matrizes)
@@ -287,7 +319,7 @@
 - [@128 L2 - Soma de elementos de em uma matriz](base/128/Readme.md)  [](#matrizes)
 - [@153 L3 - OBI 2015 - Fase 2 - Nível 1 - Torre](base/153/Readme.md)  [](#matrizes)
 
-## 16. Matrizes II
+### Matrizes II
 
 - [@133 L2 - Soldados em Posição](base/133/Readme.md)  [](#matrizes)
 - [@131 L2 - Matriz Simétrica](base/131/Readme.md)  [](#matrizes)
@@ -296,13 +328,13 @@
 - [@135 L3 - Jogo da vida](base/135/Readme.md)  [](#matrizes)
 - [@007 L3 - Tetris (Fazendo a peça cair)](base/007/Readme.md)  [](#matrizes)
 
-## 17. Matrizes Extra
+### Matrizes III
 
 - [@129 L3 - Campo Minado](base/129/Readme.md)  [](#matrizes)
 - [@159 L3 - Campo de Minhocas - OBI 2005](base/159/Readme.md)  [](#matrizes)
 - [@154 L3 - OBI 2015 - Fase 2 - Nível Júnior - Código](base/154/Readme.md)  [](#matrizes)
 
-## 18. Funções e Ponteiros
+## 07. Funções e Ponteiros
 
 - [@009 L2 - Imprimir vetor formatado](base/009/Readme.md)  [](#funções)
 - [@139 L4 - A Porta Matemática](base/139/Readme.md)  [](#funcoes)
@@ -311,19 +343,18 @@
 - [@144 L2 - Função que retorna vários valores por referência](base/144/Readme.md)  [](#ponteiros)
 - [@142 L2 - Vetor de strings com variados tamanhos](base/142/Readme.md)  [](#ponteiros)
 
-## 19. Recursão
+## 08. Recursão
 
 - [@145 L2 - Contando caracteres recursivamente](base/145/Readme.md)  [](#recursão)
 - [@141 L2 - Números de Fibonacci](base/141/Readme.md)  [](#recursão)
 - [@140 L3 - Contando caracteres recursivamente](base/140/Readme.md)  [](#recursão)
 - [@146 L3 - Torres de Hanoi](base/146/Readme.md)  [](#recursão)
 
-## 20. Structs
+## 09. Structs
 
 - [@148 L1 - Expressão](base/148/Readme.md)  [](#structs)
 - [@149 L1 - Operações](base/149/Readme.md)  [](#structs)
 - [@184 L3 - Motivando a turma de secundaristas](base/184/Readme.md) 
 - [@187 L2 - Jogo da cobrinha](base/187/Readme.md)  [](#structs)
 - [@182 L3 - Mulher mais idosa](base/182/Readme.md)  [](#structs)
-
 - [@042 L3 - OBI 2021 - Chefe Nervoso](base/042/Readme.md) 

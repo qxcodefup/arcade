@@ -54,22 +54,3 @@ jog1
 jog2
 <<<<<<<<
 ```
-
-## Ajuda
-
-Pseudocódigo
-```
-Leia primeiro_jogador
-Leia segundo_jogador
-Leia terceiro_jogador
-
-Se (primeiro_jogador for diferente de segundo_jogador) e (primeiro_jogador for diferente de terceiro_jogador):
-    Mostre "jog1"
-Senão Se (segundo_jogador for diferente de primeiro_jogador) e (segundo_jogador for diferente de terceiro_jogador):
-    Mostre "jog2"
-Senão Se (terceiro_jogador for diferente de primeiro_jogador) e (terceiro_jogador for diferente de segundo_jogador):
-    Mostre "jog3"
-Senão:
-    Mostre "empate"
-```
-
