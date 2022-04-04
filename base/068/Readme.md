@@ -3,6 +3,8 @@
 
 ![](__capa.jpg)
 
+[](solver.cpp)
+
 ## Motivação
 
 Você ganhou uma bolsa de auxílio pra organizar a fila do RU.  

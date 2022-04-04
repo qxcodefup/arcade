@@ -1,4 +1,4 @@
-## #vetores L2 - Mostrar mão de cartas
+## #vetores L2 - Mostrar cartas
 ### Imprimir vetor formatado
 
 ![](__capa.jpg)

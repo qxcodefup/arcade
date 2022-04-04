@@ -1,4 +1,4 @@
-## #vetores L3 - As unhas de Luiza - Vetor para inteiro
+## #vetores L3 - Vetor para inteiro
 
 
 ![](__capa.jpg)

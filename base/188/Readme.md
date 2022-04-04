@@ -1,4 +1,4 @@
-## #vetores L3 - Devolvendo o troco com vetores
+## #vetores L3 - Devolvendo o troco
 ##
 
 Você precisa fazer um programa que calcule como dar o troco em dinheiro.
