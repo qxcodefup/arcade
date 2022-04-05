@@ -1,4 +1,4 @@
-## #string L3 - Criptografia
+##  L3 - Criptografia
 
 ## Motivação
 Yara quer desvendar um enigma, diga-se de passagem é bem enigmático!!!

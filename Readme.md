@@ -242,7 +242,7 @@
 ### Math
 - [@138 L3 - Permutação](base/138/Readme.md) 
 - [@008 L3 - Força Bruta (Gerando próxima combinação)](base/008/Readme.md) 
-- [@190 L4 - Maiores Palíndromos](base/190/Readme.md)  [](#repetição)
+- [@190 L4 - Maiores Palíndromos ](base/190/Readme.md) 
 
 ## 05. Strings
 
@@ -271,7 +271,7 @@
 - [@181 L2 - Somando numeros](base/181/Readme.md) 
 - [@106 L2 - Valdiskley e a cifra V2!](base/106/Readme.md) 
 - [@094 L2 - Vogais e Consoantes](base/094/Readme.md) 
-- [@163 L4 - Permutação Lexograficamente Final de Fichas](base/163/Readme.md)  [](#string)
+- [@163 L4 -  Permutação Lexograficamente Final de Fichas](base/163/Readme.md) 
 - [@127 L3 - Amo a Amora meu Amor](base/127/Readme.md) 
 - [@124 L3 - Conversa de Traficantes](base/124/Readme.md) 
 - [@113 L3 - Eribelton e a Ascologia V3](base/113/Readme.md) 
@@ -304,7 +304,7 @@
 - [@107 L3 - Valdiskley e a Cifra v3!](base/107/Readme.md) 
 - [@105 L3 - Valdiskley e cifras históricas!](base/105/Readme.md) 
 - [@162 L3 - Mini-Poker - OBI2005](base/162/Readme.md) 
-- [@041 L3 - Criptografia](base/041/Readme.md)  [](#string)
+- [@041  L3 - Criptografia](base/041/Readme.md) 
 
 
 ## 06. Matrizes

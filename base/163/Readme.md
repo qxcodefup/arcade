@@ -1,4 +1,4 @@
-## L4 - #string Permutação Lexograficamente Final de Fichas
+## L4 -  Permutação Lexograficamente Final de Fichas
 
 ## Motivação:
 
