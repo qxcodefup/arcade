@@ -227,7 +227,8 @@
 ### Ordenação
 - [@073 L3 - Batida Policial](base/073/Readme.md) 
 - [@088 L3 - Mediana](base/088/Readme.md) 
-- [@069 L3 - Arca: Quantas especies!](base/069/Readme.md) 
+- [@069 L2 - Arca: Quantas especies!](base/069/Readme.md) 
+- [@197 L2 - Indices](base/197/Readme.md) 
 
 ### Lógica
 - [@075 L3 - Abastecimento de água](base/075/Readme.md) 
