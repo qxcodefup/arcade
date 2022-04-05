@@ -1,4 +1,4 @@
-## #vetores L2 - Primo
+## L2 - Primo
 
 
 ![](__capa.jpg)

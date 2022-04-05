@@ -1,4 +1,4 @@
-## #matrizes L2 - Matriz Simétrica
+## L2 - Matriz Simétrica
 
 
 ![](__capa.jpg)

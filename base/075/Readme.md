@@ -1,4 +1,4 @@
-## #vetores L3 - Abastecimento de água
+## L3 - Abastecimento de água
 
 
 ![](__capa.jpg)

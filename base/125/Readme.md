@@ -1,4 +1,4 @@
-## #strings L2 - Numerão Divisível por 11
+## L2 - Numerão Divisível por 11
 
 
 ![](__capa.jpg)

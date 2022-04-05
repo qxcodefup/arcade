@@ -1,4 +1,4 @@
-## #repetição L2 - Cabo de Guerra Jedi
+## L2 - Cabo de Guerra Jedi
 
 
 ![](__capa.jpg)

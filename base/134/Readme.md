@@ -1,4 +1,4 @@
-## #matrizes L2 - Quadrado Mágico
+## L2 - Quadrado Mágico
 
 
 ![](__capa.jpg)

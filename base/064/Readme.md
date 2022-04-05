@@ -1,4 +1,4 @@
-## #repetição L3 - Conta Dígitos
+## L3 - Conta Dígitos
 
 
 ![](__capa.jpg)

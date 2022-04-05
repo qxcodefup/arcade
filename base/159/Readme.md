@@ -1,4 +1,4 @@
-## #matrizes L3 - Campo de Minhocas - OBI 2005
+## L3 - Campo de Minhocas - OBI 2005
 
 
 ![](__capa.jpg)

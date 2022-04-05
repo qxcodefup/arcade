@@ -1,4 +1,4 @@
-## #repetição L3 - Quebrador de Copos
+## L3 - Quebrador de Copos
 
 
 ![](__capa.jpg)

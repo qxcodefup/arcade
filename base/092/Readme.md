@@ -1,4 +1,4 @@
-## #strings L1 - LP da Xura - Inverter String!
+## L1 - LP da Xura - Inverter String!
 
 
 ![](__capa.jpg)

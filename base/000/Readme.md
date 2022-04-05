@@ -8,13 +8,13 @@ Leia dois números e imprima a soma, a subtração, a multiplicação, a divisã
 
 ### Entrada:
 
-* Valores de A,B em inteiro, um por linha.
+* Valores de A, B em inteiro, um por linha.
 
 ### Saída:
 
-* Valores da soma, subtração, multiplicação e resto da divisão em inteiro, um por linha.
+* Valores da soma, subtração, multiplicação, divisão e resto da divisão.
 
-* Valor da divisão em ponto flutuante de duas casas decimais.
+* Valor da divisão deve ser em ponto flutuante de duas casas decimais.
 * O valor de B nunca será 0, então não se preocupe com divisão por 0.
 
 ## Exemplos

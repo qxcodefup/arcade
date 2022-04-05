@@ -1,4 +1,4 @@
-## #strings L3 - Matéria e Antimatéia
+## L3 - Matéria e Antimatéia
 ### Colisão entre palavras
 
 ![](__capa.jpg)

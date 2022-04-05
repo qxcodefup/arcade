@@ -1,4 +1,4 @@
-## #repetição L1 - Ultrons - Contar Elemento
+## L1 - Ultrons - Contar Elemento
 
 ![](__capa.jpg)
 [](t.tio)

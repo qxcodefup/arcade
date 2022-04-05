@@ -1,4 +1,4 @@
-## #matrizes L2 - Bingo!
+## L2 - Bingo!
 
 
 ![](__capa.jpg)

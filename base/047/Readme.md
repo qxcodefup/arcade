@@ -1,4 +1,4 @@
-## #repetição L2 - Ônibus lotado
+## L2 - Ônibus lotado
 
 
 ![](__capa.jpg)

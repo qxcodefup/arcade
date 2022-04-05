@@ -1,4 +1,4 @@
-## #vetores L3 - Cabeças vão rolar
+## L3 - Cabeças vão rolar
 
 
 ![](__capa.jpg)

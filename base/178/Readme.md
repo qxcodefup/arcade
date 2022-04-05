@@ -1,4 +1,4 @@
-## #strings L3 - Jack Sparrow e o Beijinho
+## L3 - Jack Sparrow e o Beijinho
 ### Alternar Case
 
 ![](__capa.jpg)

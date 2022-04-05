@@ -1,4 +1,4 @@
-## #strings L3 - Sorvete suor casaca chicletes - Letras em Comum!
+## L3 - Sorvete suor casaca chicletes - Letras em Comum!
 
 
 ![](__capa.jpg)

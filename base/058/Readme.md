@@ -1,4 +1,4 @@
-## #repetição L2 - Busca Intervalada
+## L2 - Busca Intervalada
 
 
 ![](__capa.jpg)

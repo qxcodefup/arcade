@@ -1,4 +1,4 @@
-## #repetição L2 - Fatores de um número
+## L2 - Fatores de um número
 ![](figura.jpg)
 
 ## Ação

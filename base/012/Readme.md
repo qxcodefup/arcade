@@ -1,4 +1,4 @@
-## #matrizes L2 - Deu a louca no Imperador!
+## L2 - Deu a louca no Imperador!
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## #vetores L2 - MMC
+## L2 - MMC
 
 
 ![](__capa.jpg)

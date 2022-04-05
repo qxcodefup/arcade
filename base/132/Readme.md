@@ -1,4 +1,4 @@
-## #matrizes L2 - Subdiagonais
+## L2 - Subdiagonais
 
 
 ![](__capa.jpg)

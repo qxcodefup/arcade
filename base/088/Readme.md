@@ -1,4 +1,4 @@
-## #vetores L3 - Se fosse a mediana eu tinha passado!
+## L3 - Se fosse a mediana eu tinha passado!
 
 
 ![](__capa.jpg)

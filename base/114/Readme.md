@@ -1,4 +1,4 @@
-## #strings L3 - MeU WoRd QuEbRoU
+## L3 - MeU WoRd QuEbRoU
 ### Formatação de Case
 
 ![](__capa.jpg)

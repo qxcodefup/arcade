@@ -1,4 +1,4 @@
-## #vetores L3 - Decompor um inteiro
+## L3 - Decompor um inteiro
 
 
 ![](__capa.jpg)

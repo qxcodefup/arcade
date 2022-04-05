@@ -1,4 +1,4 @@
-## #vetores L3 - Força Bruta (Gerando próxima combinação)
+## L3 - Força Bruta (Gerando próxima combinação)
 
 
 ![](__capa.jpg)

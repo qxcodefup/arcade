@@ -1,4 +1,4 @@
-## #vetores L2 - Jogo do Avesso
+## L2 - Jogo do Avesso
 
 
 ![](__capa.jpg)

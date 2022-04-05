@@ -1,4 +1,4 @@
-## #strings L3 - Valdiskley e cifras históricas!
+## L3 - Valdiskley e cifras históricas!
 
 
 ![](__capa.jpg)

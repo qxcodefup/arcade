@@ -1,4 +1,4 @@
-## #strings L3 - Roda Roda Jequiti
+## L3 - Roda Roda Jequiti
 
 
 ![](__capa.jpg)

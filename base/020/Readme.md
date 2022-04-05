@@ -1,4 +1,4 @@
-## #seleção L2 - Zerinho ou Um!
+## L2 - Zerinho ou Um!
 
 [](solver.c)
 ![](__capa.jpg)

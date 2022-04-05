@@ -1,4 +1,4 @@
-## #strings L3 - Francês é Fresco
+## L3 - Francês é Fresco
 ### Juntar palavras
 
 ![](solver.c)

@@ -1,4 +1,4 @@
-## #repetição L2 - Revolta em Portugal
+## L2 - Revolta em Portugal
 
 
 ![](__capa.jpg)

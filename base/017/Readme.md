@@ -1,4 +1,4 @@
-## #seleção L2 - Maior ovo
+## L2 - Maior ovo
 
 [](solver.c)
 ![](__capa.jpg)

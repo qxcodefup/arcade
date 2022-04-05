@@ -1,4 +1,4 @@
-## #strings L2 - Meu cachorro comeu minha tarefa
+## L2 - Meu cachorro comeu minha tarefa
 ### Retirar espaços
 
 ![](__capa.jpg)

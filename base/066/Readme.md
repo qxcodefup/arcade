@@ -1,4 +1,4 @@
-## #repetição L2 - Spok Palíndromo
+## L2 - Spok Palíndromo
 
 
 ![](__capa.jpg)

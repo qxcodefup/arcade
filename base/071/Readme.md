@@ -1,4 +1,4 @@
-## #vetores L3 - Mário e o Assassin's Creed - Parkour
+## L3 - Mário e o Assassin's Creed - Parkour
 
 
 ![](__capa.jpg)

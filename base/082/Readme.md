@@ -1,4 +1,4 @@
-## #vetores L3 - Vetor para inteiro
+## L3 - Vetor para inteiro
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## #vetores L3 - Baruel Ruel trocando figurinhas!
+## L3 - Baruel Ruel trocando figurinhas!
 
 
 ## Motivação

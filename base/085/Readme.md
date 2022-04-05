@@ -1,4 +1,4 @@
-## #vetores L3 - Perto do médico
+## L3 - Perto do médico
 
 
 ![](__capa.jpg)

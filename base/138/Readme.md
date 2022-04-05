@@ -1,4 +1,4 @@
-## L3 #vetores - Permutação
+## L3 - Permutação
 ![](solver.c)
 Verifique se um número é permutação de outro
 

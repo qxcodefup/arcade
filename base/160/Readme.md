@@ -1,4 +1,4 @@
-## L3 - #repetição Somatório de Fibonacci
+## L3 - Somatório de Fibonacci
 
 ![](capa.png)
 

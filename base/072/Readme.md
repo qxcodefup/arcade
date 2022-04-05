@@ -1,4 +1,4 @@
-## #vetores L2 - Soldados PMG!
+## L2 - Soldados PMG!
 
 
 ![](__capa.jpg)

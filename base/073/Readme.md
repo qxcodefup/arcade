@@ -1,4 +1,4 @@
-## #vetores L3 - Batida Policial - Ordenando vetores
+## L3 - Batida Policial - Ordenando vetores
 
 
 ![](__capa.jpg)

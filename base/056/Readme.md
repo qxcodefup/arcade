@@ -1,4 +1,4 @@
-## #repetição L1 - Calça apertada - Mínimo
+## L1 - Calça apertada - Mínimo
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## #strings L3 - Nao se bububula - Gagueira V2!
+## L3 - Nao se bububula - Gagueira V2!
 
 
 ![](__capa.jpg)

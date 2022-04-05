@@ -1,4 +1,4 @@
-## #strings L1 - Valdiskey e a cifra V1!
+## L1 - Valdiskey e a cifra V1!
 
 
 ![](__capa.jpg)

@@ -1,4 +1,4 @@
-## #strings L3 - Rocicleia e o Locioreca - Anagramas!
+## L3 - Rocicleia e o Locioreca - Anagramas!
 
 
 ![](__capa.jpg)

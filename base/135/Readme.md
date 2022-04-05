@@ -1,4 +1,4 @@
-## #matrizes L3 - Jogo da vida
+## L3 - Jogo da vida
 
 
 ![](__capa.jpg)

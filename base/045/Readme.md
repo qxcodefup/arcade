@@ -1,4 +1,4 @@
-## #repetição L1 - Soma dos pares
+## L1 - Soma dos pares
 
 
 ![](__capa.jpg)

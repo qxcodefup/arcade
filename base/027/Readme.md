@@ -1,4 +1,4 @@
-## #seleção L2 - Adedonha
+## L2 - Adedonha
 
 
 ![](__capa.jpg)

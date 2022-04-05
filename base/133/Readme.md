@@ -1,4 +1,4 @@
-## #matrizes L2 - Soldados em Posição
+## L2 - Soldados em Posição
 
 
 ![](__capa.jpg)

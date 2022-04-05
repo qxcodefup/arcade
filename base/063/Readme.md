@@ -1,4 +1,4 @@
-## #repetição L3 - Blackjack 21!
+## L3 - Blackjack 21!
 
 
 ![](__capa.jpg)

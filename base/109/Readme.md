@@ -1,4 +1,4 @@
-## #strings L2 - Eribelton e a Ascologia V2
+## L2 - Eribelton e a Ascologia V2
 ### Buscando a perfeição
 
 ![](__capa.jpg)

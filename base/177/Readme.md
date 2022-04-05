@@ -1,4 +1,4 @@
-## #strings L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
+## L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
 
 
 ![](__capa.jpg)

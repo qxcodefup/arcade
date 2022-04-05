@@ -1,4 +1,4 @@
-## #repetição L3 - Trilhas - OBI 2005
+## L3 - Trilhas - OBI 2005
 
 
 ![](__capa.jpg)

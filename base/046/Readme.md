@@ -1,4 +1,4 @@
-## #repetição L2 - Jogo da Concentração
+## L2 - Jogo da Concentração
 
 
 ![](__capa.jpg)

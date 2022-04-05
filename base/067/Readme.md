@@ -1,4 +1,4 @@
-## #vetores L2 - Queda de dominós
+## L2 - Queda de dominós
 
   
 ![](__capa.jpg)

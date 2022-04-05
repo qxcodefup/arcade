@@ -1,4 +1,4 @@
-## #strings L3 - Conversa de Traficantes
+## L3 - Conversa de Traficantes
 ### Substituições de substrings
 
 ![](__capa.jpg)

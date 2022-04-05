@@ -1,4 +1,4 @@
-## #seleção L3 - Professor Bonzinho
+## L3 - Professor Bonzinho
 
 
 ![](__capa.jpg)

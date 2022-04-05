@@ -1,4 +1,4 @@
-## #repetição L3 - Pedra na lua
+## L3 - Pedra na lua
 
 
 ![](__capa.jpg)

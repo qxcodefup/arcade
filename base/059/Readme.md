@@ -1,4 +1,4 @@
-## #repetição L3 - Sapinho 2 morrendo no poço
+## L3 - Sapinho 2 morrendo no poço
 
 
 ![sapinho](__capa.jpg)

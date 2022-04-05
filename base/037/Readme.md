@@ -1,4 +1,4 @@
-## #seleção L3 - Jokenpo 15
+## L3 - Jokenpo 15
 
 [](solver.c)
 ## Motivação

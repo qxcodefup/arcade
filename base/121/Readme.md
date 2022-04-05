@@ -1,4 +1,4 @@
-## #strings L3 - Mário e o Assassins Creed
+## L3 - Mário e o Assassins Creed
 ### Lendo cenário
 
 ![](__capa.jpg)
