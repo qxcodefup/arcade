@@ -4,7 +4,7 @@
 - [01. Operações: Impressão formatada](#01-operações-impressão-formatada)
 - [02. Operações: Biblioteca Math](#02-operações-biblioteca-math)
 - [03. Seleção: Manipulação](#03-seleção-manipulação)
-- [04. Seleção: Biblioteca Math](#04-selação-biblioteca-math)
+- [04. Selação: Biblioteca Math](#04-selação-biblioteca-math)
 - [05. Seleção: Lógica](#05-seleção-lógica)
 - [06. Seleção: Operador de módulo](#06-seleção-operador-de-módulo)
 - [07. Seleção: Intervalos](#07-seleção-intervalos)
@@ -304,8 +304,8 @@ Conteúdo sugeridos
 
 ## 27. Ponteiros
 
-- [@009 L2 - Imprimir vetor formatado](base/009/Readme.md)  [](#funções)
-- [@139 L4 - A Porta Matemática](base/139/Readme.md)  [](#funcoes)
+- [@009 L2 - Imprimir vetor formatado](base/009/Readme.md) 
+- [@139 L4 - A Porta Matemática](base/139/Readme.md) 
 - [@147 L1 - Duelo](base/147/Readme.md) 
 - [@143 L1 - Troca de valores de variáveis](base/143/Readme.md) 
 - [@144 L2 - Função que retorna vários valores por referência](base/144/Readme.md) 

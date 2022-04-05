@@ -1,4 +1,4 @@
-fix_ref.sh
+bash fix_ref.sh
 git add .
 git commit -m "updating"
 git push origin master
