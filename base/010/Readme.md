@@ -1,4 +1,4 @@
-## L3 - Bolinhas viciadas(contagem de repetições)
+## L3 - Bolinhas viciadas
 
 
 ![](__capa.jpg)

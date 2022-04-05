@@ -1,4 +1,4 @@
-## L1 - Calça apertada - Mínimo
+## L1 - Calça apertada
 
 
 ![](__capa.jpg)

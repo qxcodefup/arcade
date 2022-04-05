@@ -1,4 +1,4 @@
-## L2 - Processando uma linha de inteiros
+## L2 - Linha de inteiros
 
 ![](__capa.jpg)
 

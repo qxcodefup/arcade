@@ -1,4 +1,4 @@
-## L3 - OBI 2017 - Fase 1 - O segredo do Cofre
+## L3 - O segredo do Cofre - OBI 2017
 
 
 ![](__capa.jpg)

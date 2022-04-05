@@ -1,4 +1,4 @@
-## L3 - Baruel Ruel trocando figurinhas!
+## L3 - Figurinhas
 
 
 ## Motivação

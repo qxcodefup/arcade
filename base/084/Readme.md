@@ -1,4 +1,4 @@
-## L3 - Arca Exemplares
+## L3 - Arca: Exemplares
 
 
 ![](__capa.jpg)

@@ -183,13 +183,13 @@
     - pode usar algumas das divisões que está lá no estressado github.com/senapk/estressados
 
 ### Mínimo
-- [@056 L1 - Calça apertada - Mínimo](base/056/Readme.md) 
-- [@060 L1 - Joelison Fernandes - Soma do maior e menor!](base/060/Readme.md) 
+- [@056 L1 - Calça apertada](base/056/Readme.md) 
+- [@060 L1 - Casamento](base/060/Readme.md) 
 - [@051 L3 - Pedra na lua](base/051/Readme.md) 
 - [@100 L3 - Pião na rodinha](base/100/Readme.md) 
 
 ### Contagem
-- [@055 L1 - Ultrons - Contar Elemento](base/055/Readme.md) 
+- [@055 L1 - Contagem](base/055/Readme.md) 
 - [@048 L2 - Cabo de Guerra Jedi](base/048/Readme.md) 
 - [@057 L2 - Revolta em Portugal](base/057/Readme.md) 
 - [@072 L2 - Soldados PMG!](base/072/Readme.md) 
@@ -209,39 +209,39 @@
 - [@161 L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md) 
 - [@061 L2 - Invertendo vetor](base/061/Readme.md) 
 - [@091 L2 - MMC](base/091/Readme.md) 
-- [@068 L2 - Organizando a fila do RU](base/068/Readme.md) 
-- [@186 L2 - Processando uma linha de inteiros](base/186/Readme.md) 
+- [@068 L2 - Fila do RU](base/068/Readme.md) 
+- [@186 L2 - Linha de inteiros](base/186/Readme.md) 
 - [@081 L3 - Decompor um inteiro](base/081/Readme.md) 
-- [@087 L3 - Arca Quantos casais](base/087/Readme.md) 
-- [@084 L3 - Arca Exemplares](base/084/Readme.md) 
+- [@087 L3 - Arca: Quantos casais](base/087/Readme.md) 
+- [@084 L3 - Arca: Exemplares](base/084/Readme.md) 
 
 ### Proximidade
 - [@067 L2 - Queda de dominós](base/067/Readme.md) 
 - [@078 L2 - Jogo do Avesso](base/078/Readme.md) 
 - [@136 L2 - Trilhas - OBI 2005 - (Modo Easy)](base/136/Readme.md) 
 - [@158 L3 - Trilhas - OBI 2005](base/158/Readme.md) 
-- [@071 L3 - Mário e o Assassin's Creed - Parkour](base/071/Readme.md) 
+- [@071 L3 - Parkour](base/071/Readme.md) 
 - [@085 L3 - Perto do médico](base/085/Readme.md) 
 - [@079 L3 - Jogo do Avesso V2](base/079/Readme.md) 
 
 ### Ordenação
-- [@073 L3 - Batida Policial - Ordenando vetores](base/073/Readme.md) 
-- [@088 L3 - Se fosse a mediana eu tinha passado!](base/088/Readme.md) 
-- [@069 L3 - Arca Quantas especies!](base/069/Readme.md) 
+- [@073 L3 - Batida Policial](base/073/Readme.md) 
+- [@088 L3 - Mediana](base/088/Readme.md) 
+- [@069 L3 - Arca: Quantas especies!](base/069/Readme.md) 
 
 ### Lógica
 - [@075 L3 - Abastecimento de água](base/075/Readme.md) 
-- [@083 L3 - Anfíbios e Batráquios - Está contido](base/083/Readme.md) 
-- [@080 L3 - Baruel Ruel trocando figurinhas!](base/080/Readme.md) 
-- [@010 L3 - Bolinhas viciadas(contagem de repetições)](base/010/Readme.md) 
+- [@083 L3 - Batráquios](base/083/Readme.md) 
+- [@080 L3 - Figurinhas](base/080/Readme.md) 
+- [@086 L3 - Tazos](base/086/Readme.md) 
+- [@010 L3 - Bolinhas viciadas](base/010/Readme.md) 
 - [@070 L3 - Cabeças vão rolar](base/070/Readme.md) 
-- [@086 L3 - Coleção de Tazos - Quantos se repetem mais](base/086/Readme.md) 
-- [@074 L3 - OBI 2017 - Fase 1 - Botas Trocadas](base/074/Readme.md) 
-- [@076 L3 - OBI 2017 - Fase 1 - O segredo do Cofre](base/076/Readme.md) 
+- [@074 L3 - Botas Trocadas - OBI 2017](base/074/Readme.md) 
+- [@076 L3 - O segredo do Cofre - OBI 2017](base/076/Readme.md) 
 
 ### Math
 - [@138 L3 - Permutação](base/138/Readme.md) 
-- [@008 L3 - Força Bruta (Gerando próxima combinação)](base/008/Readme.md) 
+- [@008 L3 - Senhas](base/008/Readme.md) 
 - [@190 L4 - Maiores Palíndromos ](base/190/Readme.md) 
 
 ## 05. Strings
@@ -271,7 +271,7 @@
 - [@181 L2 - Somando numeros](base/181/Readme.md) 
 - [@106 L2 - Valdiskley e a cifra V2!](base/106/Readme.md) 
 - [@094 L2 - Vogais e Consoantes](base/094/Readme.md) 
-- [@163 L4 -  Permutação Lexograficamente Final de Fichas](base/163/Readme.md) 
+- [@163 L4 - Permutação Lexograficamente Final de Fichas](base/163/Readme.md) 
 - [@127 L3 - Amo a Amora meu Amor](base/127/Readme.md) 
 - [@124 L3 - Conversa de Traficantes](base/124/Readme.md) 
 - [@113 L3 - Eribelton e a Ascologia V3](base/113/Readme.md) 

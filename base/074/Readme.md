@@ -1,4 +1,4 @@
-## L3 - OBI 2017 - Fase 1 - Botas Trocadas
+## L3 - Botas Trocadas - OBI 2017
 
 
 ![](__capa.jpg)

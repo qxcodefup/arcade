@@ -1,4 +1,4 @@
-## L3 - Anfíbios e Batráquios - Está contido
+## L3 - Batráquios
 
 
 ![](__capa.jpg)

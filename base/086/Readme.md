@@ -1,4 +1,4 @@
-## L3 - Coleção de Tazos - Quantos se repetem mais
+## L3 - Tazos
 
 
 ![](__capa.jpg)

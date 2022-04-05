@@ -1,4 +1,4 @@
-## L3 - Se fosse a mediana eu tinha passado!
+## L3 - Mediana
 
 
 ![](__capa.jpg)
