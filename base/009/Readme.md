@@ -1,4 +1,4 @@
-## #funções L2 - Imprimir vetor formatado
+## L2 - Imprimir vetor formatado
 
 ![](__capa.jpg)
 

@@ -1,6 +1,7 @@
 ## L2 - Soldados em Posição
 
 
+[](solver.c)
 ![](__capa.jpg)
 
 ## Motivação

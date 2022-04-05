@@ -1,4 +1,4 @@
-## #funcoes L4 - A Porta Matemática
+## L4 - A Porta Matemática
 
 
 ![](capa.png)
