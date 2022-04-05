@@ -1,4 +1,4 @@
-##  L2 - Função que retorna vários valores por referência
+## L2 - Função que retorna vários valores por referência
 
 
 ![](__capa.jpg)

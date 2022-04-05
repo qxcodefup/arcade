@@ -337,10 +337,10 @@
 
 - [@009 L2 - Imprimir vetor formatado](base/009/Readme.md)  [](#funções)
 - [@139 L4 - A Porta Matemática](base/139/Readme.md)  [](#funcoes)
-- [@147  L1 - Duelo](base/147/Readme.md) 
-- [@143  L1 - Troca de valores de variáveis](base/143/Readme.md) 
-- [@144  L2 - Função que retorna vários valores por referência](base/144/Readme.md) 
-- [@142  L2 - Vetor de strings com variados tamanhos](base/142/Readme.md) 
+- [@147 L1 - Duelo](base/147/Readme.md) 
+- [@143 L1 - Troca de valores de variáveis](base/143/Readme.md) 
+- [@144 L2 - Função que retorna vários valores por referência](base/144/Readme.md) 
+- [@142 L2 - Vetor de strings com variados tamanhos](base/142/Readme.md) 
 
 ## 08. Recursão
 
@@ -353,9 +353,9 @@
 
 - [@148 L1 - Expressão](base/148/Readme.md) 
 - [@149 L1 - Operações](base/149/Readme.md) 
+- [@199 L2 - Pizza](base/199/Readme.md) 
 - [@184 L3 - Motivando a turma de secundaristas](base/184/Readme.md) 
 - [@187 L2 - Jogo da cobrinha](base/187/Readme.md) 
 - [@182 L3 - Mulher mais idosa](base/182/Readme.md) 
 - [@042 L3 - OBI 2021 - Chefe Nervoso](base/042/Readme.md) 
 - [@044 L3 - Soma de vários números.](base/044/Readme.md) 
-- [@199 L2 - Pizza](base/199/Readme.md) 
