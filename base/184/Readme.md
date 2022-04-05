@@ -1,4 +1,4 @@
-## L3 - Motivando a turma de secundaristas
+## L3 - Secundaristas
 
 
 ![](__capa.jpg)

@@ -225,9 +225,9 @@
 ### Ordenação
 - [@198 L1 - Paredes](base/198/Readme.md) 
 - [@073 L2 - Batida Policial](base/073/Readme.md) 
-- [@069 L2 - Arca: Quantas especies!](base/069/Readme.md) 
+- [@200 L2 - Vacina](base/200/Readme.md) 
+- [@088 L2 - Mediana](base/088/Readme.md) 
 - [@197 L2 - Indices](base/197/Readme.md) 
-- [@088 L3 - Mediana](base/088/Readme.md) 
 
 ### Lógica
 - [@075 L3 - Abastecimento de água](base/075/Readme.md) 
@@ -238,6 +238,7 @@
 - [@070 L3 - Cabeças vão rolar](base/070/Readme.md) 
 - [@074 L3 - Botas Trocadas - OBI 2017](base/074/Readme.md) 
 - [@076 L3 - O segredo do Cofre - OBI 2017](base/076/Readme.md) 
+- [@042 L3 - OBI 2021 - Chefe Nervoso](base/042/Readme.md) 
 
 ### Math
 - [@138 L3 - Permutação](base/138/Readme.md) 
@@ -354,8 +355,9 @@
 - [@148 L1 - Expressão](base/148/Readme.md) 
 - [@149 L1 - Operações](base/149/Readme.md) 
 - [@199 L2 - Pizza](base/199/Readme.md) 
-- [@184 L3 - Motivando a turma de secundaristas](base/184/Readme.md) 
+- [@201 L2 - Comparar Data](base/201/Readme.md) 
+- [@069 L2 - Retângulo](base/069/Readme.md) 
+- [@202 L2 - Ponto perto](base/202/Readme.md) 
 - [@187 L2 - Jogo da cobrinha](base/187/Readme.md) 
+- [@184 L3 - Secundaristas](base/184/Readme.md) 
 - [@182 L3 - Mulher mais idosa](base/182/Readme.md) 
-- [@042 L3 - OBI 2021 - Chefe Nervoso](base/042/Readme.md) 
-- [@044 L3 - Soma de vários números.](base/044/Readme.md) 

@@ -1,52 +1,64 @@
-## L2 - Arca: Quantas especies!
+# L2 - Retângulo
 
+Um retângulo com os lados paralelos aos eixos pode ser descrito por dois pontos `supEsq` e `infDir`. O ponto supEsq representa a coordenada do canto superior esquerdo e o ponto infDir 
+representa a coordenada do canto inferior direito.
 
-![](__capa.jpg)
+```C
+typedef struct  {
+    int x, y;
+} Ponto;
 
-## Motivação
-
-O dono do zoológico quer a lista de todas as especies de animais  
-que existem no zoológico. Para isso, ele te deu uma lista de todos os animais.
-
-Ele quer que você faça um programa que retorne a quantidade de espécies diferentes.  
-Considere que um número representa uma especie.
-
-## Ação
-
-Faça um programa para calcular a quantidade de numero diferentes inseridos dado um vetor e seu tamanho como entrada.
-
-Obs.: Não use uma função de ordenar pronta.  
-
-### Entrada
-
-*   Inteiro com a quantidade de elementos do vetor (1 até 50).
-*   Elementos inteiros do vetor.  
-
-### Saída
-
-*   Quantidade de espécies.
-
-## Exemplos
-
+typedef struct {
+   Ponto supEsq;
+   Ponto infDir; 
+} Retangulo;
 ```
->>>>>>>>
-3
-1 1 2
-========
-2
-<<<<<<<<
 
->>>>>>>>
-5
-1 3 2 2 3
-========
-3
-<<<<<<<<
+Construa uma função com o seguinte protótipo:
 
->>>>>>>>
-8
-1 9 3 3 3 2 1 4
-========
-5
-<<<<<<<<
+```C
+int dentro(Retangulo ret, Ponto p);
 ```
+A função dentro devolve 1 se o ponto p está dentro do retângulo rete 0, caso contrário.
+
+A função principal do seu programa é a seguinte:
+
+```C
+#include <stdio.h>
+
+typedef struct  {
+    int x, y;
+} Ponto;
+
+typedef struct {
+  Ponto supEsq;
+  Ponto infDir; 	
+} Retangulo;
+
+Ponto createPonto(int x1, int y1){
+    Ponto p = {x1, y1};
+    return p;
+}
+
+Retangulo createRetangulo(int x1, int y1, int x2, int y2) {
+    Retangulo r = {x1,y1,x2,y2};	
+    return r;
+};
+
+int dentro(Retangulo r, Ponto p);
+
+int main(){
+    int x1, y1, x2, y2;
+    scanf("%d %d %d %d", &x1, &y1, &x2, &y2);
+    Retangulo r = createRetangulo(x1, y1, x2, y2);
+    int x, y;
+    scanf("%d %d", &x, &y);
+    Ponto p = createPonto(x,y);	
+    printf("%d\n", dentro(r,p) ); //1
+}
+```
+
+
+
+
+

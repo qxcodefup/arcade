@@ -1,29 +1,45 @@
 #include <stdio.h>
 
-int main (){
-	
-	int i, j, n;
-	int cont = 0;
-	
-	scanf("%d", &n);
-	int vet[n];
-	
-	for(i = 0; i < n; i++){
-		scanf("%d", &vet[i] );
-	}
-	
-	for(i = 0; i < n; i++){
-		for(j = i + 1; j < n; j++){
-			if (vet[i] == vet[j]){
-				vet[j] = 0;				//zera elementos repetidos
-			}
-		}
-	}
-	
-	for(i = 0; i < n; i++){
-		if (vet[i] != 0) cont++;
-	}
-	
-	printf("%d\n", cont);
-	
+typedef struct  {
+    int x, y;
+} Ponto;
+
+typedef struct {
+  Ponto supEsq;
+  Ponto infDir; 	
+} Retangulo;
+
+Ponto createPonto(int x1, int y1){
+    Ponto p = {x1, y1};
+    return p;
+}
+
+Retangulo createRetangulo(int x1, int y1, int x2, int y2) {
+    Retangulo r = {{x1,y1}, {x2,y2}};
+    return r;
+};
+
+int dentro(Retangulo r, Ponto p);
+
+int main(){
+    int x1, y1, x2, y2;
+    scanf("%d %d %d %d", &x1, &y1, &x2, &y2);
+    Retangulo r = createRetangulo(x1, y1, x2, y2);
+    int x, y;
+    scanf("%d %d", &x, &y);
+    Ponto p = createPonto(x,y);	
+    printf("%d\n", dentro(r,p) ); //1
+}
+
+
+int dentro(Retangulo r, Ponto p){
+    
+    Ponto supEsq = r.supEsq;
+    Ponto infDir = r.infDir;
+
+    if( p.x >= supEsq.x && p.x <= infDir.x && p.y >= infDir.y && p.y <= supEsq.y )
+        return 1;
+    else
+        return 0;
+
 }

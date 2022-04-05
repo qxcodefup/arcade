@@ -1,6 +1,6 @@
-## L3 - Mediana
+## L2 - Mediana
 
-
+[](solver.c)
 ![](__capa.jpg)
 
 ## Motivação

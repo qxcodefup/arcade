@@ -1,6 +1,4 @@
-kkmanual Readme.md
-mdpp Readme.md
-mdpp base/* -q
+fix_ref.sh
 git add .
 git commit -m "updating"
 git push origin master
