@@ -179,8 +179,6 @@
 
 ## 04. Vetores
 
-- Separar questões de vetores: 
-    - pode usar algumas das divisões que está lá no estressado github.com/senapk/estressados
 
 ### Mínimo
 - [@056 L1 - Calça apertada](base/056/Readme.md) 
@@ -225,7 +223,8 @@
 - [@079 L3 - Jogo do Avesso V2](base/079/Readme.md) 
 
 ### Ordenação
-- [@073 L3 - Batida Policial](base/073/Readme.md) 
+- [@198 L1 - Paredes](base/198/Readme.md) 
+- [@073 L2 - Batida Policial](base/073/Readme.md) 
 - [@088 L3 - Mediana](base/088/Readme.md) 
 - [@069 L2 - Arca: Quantas especies!](base/069/Readme.md) 
 - [@197 L2 - Indices](base/197/Readme.md) 
