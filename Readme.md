@@ -351,10 +351,11 @@
 
 ## 09. Structs
 
-- [@148  L1 - Expressão](base/148/Readme.md) 
-- [@149  L1 - Operações](base/149/Readme.md) 
+- [@148 L1 - Expressão](base/148/Readme.md) 
+- [@149 L1 - Operações](base/149/Readme.md) 
 - [@184 L3 - Motivando a turma de secundaristas](base/184/Readme.md) 
-- [@187  L2 - Jogo da cobrinha](base/187/Readme.md) 
-- [@182  L3 - Mulher mais idosa](base/182/Readme.md) 
+- [@187 L2 - Jogo da cobrinha](base/187/Readme.md) 
+- [@182 L3 - Mulher mais idosa](base/182/Readme.md) 
 - [@042 L3 - OBI 2021 - Chefe Nervoso](base/042/Readme.md) 
 - [@044 L3 - Soma de vários números.](base/044/Readme.md) 
+- [@199 L2 - Pizza](base/199/Readme.md) 

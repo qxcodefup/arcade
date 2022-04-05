@@ -1,4 +1,4 @@
-##  L1 - Expressão
+## L1 - Expressão
 
 
 ![](__capa.jpg)
