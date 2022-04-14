@@ -1,4 +1,4 @@
-## L2 - Volta de 360 graus (Retirando os loops)
+## L2 - Volta de 360 graus - Retirando os loops
 
 
 ![](__capa.jpg)

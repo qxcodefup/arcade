@@ -1,4 +1,4 @@
-##  L2 - Números de Fibonacci
+## L2 - Números de Fibonacci
 
 
 ![](__capa.jpg)
