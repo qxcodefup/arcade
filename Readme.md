@@ -48,14 +48,14 @@ Conteúdo sugeridos
 
 ## 01. Operações: Impressão formatada
 - [@024 L1 - Divisão Inteira e Quebrada](base/024/Readme.md) 
-- [@000 L1 - Operações básicas - Imprimindo float formatado](base/000/Readme.md) 
-- [@011 L2 - Formatando data - Casas decimais e operador de módulo](base/011/Readme.md) 
+- [@000 L1 - Operações básicas](base/000/Readme.md) 
+- [@011 L2 - Formatando data](base/011/Readme.md) 
 
 ## 02. Operações: Biblioteca Math
-- [@002 L2 - Pintando a casa - Calculando a área do triângulo](base/002/Readme.md) 
-- [@003 L2 - Opala bebedor - Cálculo de desempenho do motor](base/003/Readme.md) 
+- [@002 L2 - Pintando a casa](base/002/Readme.md) 
+- [@003 L2 - Opala bebedor](base/003/Readme.md) 
 - [@196 L2 - Comprando TV parcelado](base/196/Readme.md) 
-- [@004 L3 - Mete bala - Distância entre dois pontos](base/004/Readme.md) 
+- [@004 L3 - Mete bala](base/004/Readme.md) 
 
 
 ```

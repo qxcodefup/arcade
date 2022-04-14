@@ -1,4 +1,4 @@
-## L1 - Operações básicas - Imprimindo float formatado
+## L1 - Operações básicas
 [](solver.c)
 ![](__capa.jpg)
 

@@ -1,4 +1,4 @@
-## L2 - Formatando data - Casas decimais e operador de módulo
+## L2 - Formatando data
 [](solver.c)
 ![](__capa.jpg)
 
