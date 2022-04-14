@@ -1,4 +1,4 @@
-## L3 - OBI 2021 - Chefe Nervoso
+## L3 - Chefe Nervoso - OBI 2021
 
 [](solver.py)
 

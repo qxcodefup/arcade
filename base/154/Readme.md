@@ -1,5 +1,4 @@
-## L3 - OBI 2015 - Fase 2 - Nível Júnior - Código
-
+## L3 - Código - OBI 2015 - Fase 2 - Nível Júnior
 
 ![](__capa.jpg)
 

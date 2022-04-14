@@ -1,4 +1,4 @@
-## L2 - Trilhas - OBI 2005 - (Modo Easy)
+## L2 - Trilhas Easy- OBI 2005
 
 
 ![](__capa.jpg)

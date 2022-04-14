@@ -1,4 +1,4 @@
-## L2 - OBI 2017 - Fase 1 - Drone de Entrega
+## L2 - Drone de Entrega - OBI 2017 - Fase 1
 
 [](solver.c)
 ![](__capa.jpg)

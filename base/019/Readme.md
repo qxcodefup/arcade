@@ -1,4 +1,4 @@
-## L2 - OBI 2017 - Fase 1 - Universitário - Game 10
+## L2 - Game 10 - OBI 2017 - Fase 1 - Universitário
 
 [](solver.c)
 ## Motivaçao
