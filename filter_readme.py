@@ -11,7 +11,7 @@ for line in lines:
         output.write("\n\n" + line + "\n")
     elif line.startswith("- ["):
         if "@" in line:
-            item = line.split("@")[1].split(" ")[0]
-            output.write(item + " ")
+            item = line.split("@")[1].split("]")[0]
+            output.write("@" + item + "\t")
 
 print(output.getvalue())

@@ -1,0 +1,88 @@
+
+
+## 01. Operações: Impressão formatada
+@024 L1 - Divisão Inteira e Quebrada	@000 L1 - Operações básicas - Imprimindo float formatado	@011 L2 - Formatando data - Casas decimais e operador de módulo	
+
+## 02. Operações: Biblioteca Math
+@002 L2 - Pintando a casa - Calculando a área do triângulo	@003 L2 - Opala bebedor - Cálculo de desempenho do motor	@196 L2 - Comprando TV parcelado	@004 L3 - Mete bala - Distância entre dois pontos	
+
+## 03. Seleção: Manipulação
+@015 L1 - Calculadora Numérica	@155 L1 - Plantação de Morangos	@151 L1 - Impedido!	@026 L1 - Positivo, Nulo ou Negativo?	@031 L2 - Fiquei de final	@040 L2 - Está Trabalhando ou Não!	@035 L2 - OBI 2017 - Fase 1 - Drone de Entrega	
+
+## 04. Selação: Biblioteca Math
+@018 L2 - Arredondar	@030 L2 - Mercantil V1 - Quem chega mais perto	@039 L2 - Mercantil V2 - Maior ou Menor	@001 L2 - Sai fora Bhaskara (Cálculo de raízes)	
+
+## 05. Seleção: Lógica
+@157 L1 - Frota de Táxi - OBI 2005	@014 L1 - Quantos são iguais? (Contando Repetidos)	@156 L2 - Jogo de par ou ímpar - OBI 2016 - F1P1	@194 L2 - Nota cortada - OBI 2019 F1P1	@023 L2 - Jokenpo das tartarugas!	@020 L2 - Zerinho ou Um!	
+
+## 06. Seleção: Operador de módulo
+@062 L2 - Angulo Cartesiano	@025 L1 - Ambos Divisíveis	@022 L2 - Teleférico - OBI 2017 - Fase 1	@195 L2 - Xadrez OBI 2019 F1P1	@193 L2 - Dominó - OBI 2019 F1PJ	@005 L2 - Ladrão de Goiabas - Contando viagens usando módulo	@028 L2 - Cabeça da cobra	@016 L2 - Volta de 360 graus (Retirando os loops)	@019 L2 - OBI 2017 - Fase 1 - Universitário - Game 10	@034 L3 - Formiga da bundona	@006 L3 - Zerinho ou um americano - Decifrando a fórmula	@037 L3 - Jokenpo 15	
+
+## 07. Seleção: Intervalos
+@021 L2 - Aumento de Salário	@032 L2 - Bolada na fuça	@183 L2 - Criança ou Múmia	
+
+## 08. Seleção: Busca e Contagem
+@017 L2 - Maior ovo	@192 L2 - A idade de Dona Mônica - OBI 2019 - F1PJ	@029 L2 - Quiz do Harry Potter	@036 L3 - Morre o do meio	@033 L3 - Professor Bonzinho	
+
+## 09. Seleção: Conversão
+@038 L2 - Próximo segundo	@027 L2 - Adedonha	@043 L3 - Horas de sono	
+
+## 10. Laço: Básico
+@013 L1 - Sapatos para 3	@045 L1 - Soma dos pares	@053 L2 - OBI 2016 - Fuga em helicóptero	@046 L2 - Jogo da Concentração	
+
+## 11. Técnicas de controle
+@047 L2 - Ônibus lotado	@049 L2 - Sapinho 1 no Poço	@059 L3 - Sapinho 2 morrendo no poço	@065 L3 - Sapinho 3 matemático	@050 L2 - Castelos de Cubos	@054 L3 - Quebrador de Copos	
+
+## 12. Laço: Math
+@090 L2 - Primo	@189 L2 - Fatores de um número	@052 L3 - Sopa de coelho?	@160 L3 - Somatório de Fibonacci	@066 L2 - Spok Palíndromo	@064 L3 - Conta Dígitos	
+
+## 13. Vetores: Busca
+@056 L1 - Calça apertada	@060 L1 - Casamento	@051 L3 - Pedra na lua	@058 L2 - Busca Intervalada	@100 L3 - Pião na rodinha	
+
+## 14. Vetores: Contagem
+@055 L1 - Contagem	@048 L2 - Cabo de Guerra Jedi	@057 L2 - Revolta em Portugal	@072 L2 - Soldados PMG!	@077 L3 - Mercantil V3 - Muitas rodadas	
+
+## 15. Vetores: Conversão
+@101 L2 - Mostrar cartas	@063 L3 - Blackjack 21!	@188 L3 - Devolvendo o troco	@082 L3 - Vetor para inteiro	
+
+## 16. Vetores: Manipulação
+@061 L2 - Invertendo vetor	@091 L2 - MMC	@068 L2 - Fila do RU	@186 L2 - Linha de inteiros	@161 L3 - Vivo ou Morto - OBI 2005	@081 L3 - Decompor um inteiro	@087 L3 - Arca: Quantos casais	@084 L3 - Arca: Exemplares	
+
+## 17. Vetores: Proximidade
+@067 L2 - Queda de dominós	@078 L2 - Jogo do Avesso	@136 L2 - Trilhas - OBI 2005 - (Modo Easy)	@158 L3 - Trilhas - OBI 2005	@071 L3 - Parkour	@085 L3 - Perto do médico	@079 L3 - Jogo do Avesso V2	
+
+## 18. Vetores: Ordenação
+@198 L1 - Paredes	@073 L2 - Batida Policial	@200 L2 - Vacina	@088 L2 - Mediana	@197 L2 - Indices	
+
+## 19. Vetores: Lógica
+@075 L3 - Abastecimento de água	@083 L3 - Batráquios	@080 L3 - Figurinhas	@086 L3 - Tazos	@010 L3 - Bolinhas viciadas	@070 L3 - Cabeças vão rolar	@074 L3 - Botas Trocadas - OBI 2017	@076 L3 - O segredo do Cofre - OBI 2017	@042 L3 - OBI 2021 - Chefe Nervoso	
+
+## 20. Vetores: Math
+@138 L3 - Permutação	@008 L3 - Senhas	@190 L4 - Maiores Palíndromos 	
+
+## 21. Strings I
+@173 L1 - Eribelton e a Ascologia V1 - Somar Asc	@092 L1 - LP da Xura - Inverter String!	@104 L1 - Maiúsculo, Minusculo e Dígito!	@177 L1 - Marileuza e as Alcaparras - Contar Ocorrencias!	@176 L1 - Substring na decoração - Obter Substrings!	@174 L1 - Valdiskey e a cifra V1!	@095 L2 - Avestruz com Alcaparras	@096 L2 - Contar Leds	@126 L2 - Crushômetro	@109 L2 - Eribelton e a Ascologia V2	@097 L2 - Gagueira V1 - Duplicar Palavras	@093 L2 - Gritando em Caixa Alta	
+
+## 22. Strings II
+@180 L2 - Guerra Civil no Universo Marvel	@089 L2 - Mega Jokenpo!	@111 L2 - Meu cachorro comeu minha tarefa	@125 L2 - Numerão Divisível por 11	@110 L2 - Organizando Ru - Homens e Mulheres!	@181 L2 - Somando numeros	@106 L2 - Valdiskley e a cifra V2!	@094 L2 - Vogais e Consoantes	@163 L4 - Permutação Lexograficamente Final de Fichas	@127 L3 - Amo a Amora meu Amor	@124 L3 - Conversa de Traficantes	@113 L3 - Eribelton e a Ascologia V3	
+
+## 23. Strings III
+@099 L3 - Francês é Fresco	@120 L3 - Gansos Gamados	@117 L3 - Identificando Ultrons V2	@118 L3 - Aniquilando Ultrons V3	@108 L3 - Identificando elementos	@178 L3 - Jack Sparrow e o Beijinho	@098 L3 - Jason e Krueguer	@152 L3 - Letras Ordenadas	@119 L3 - Matéria e Antimatéia	@114 L3 - MeU WoRd QuEbRoU	@102 L3 - Meu cachorro comeu minha tarefa V2	@115 L3 - Máquina de Datilografar Quebrada	
+
+## 24. Strings IV
+@121 L3 - Mário e o Assassins Creed	@122 L3 - Nao se bububula - Gagueira V2!	@179 L3 - Prof Muquirana - Busca máximo por critério	@112 L3 - Rocicleia e o Locioreca - Anagramas!	@116 L3 - Roda Roda Jequiti	@175 L3 - Separando a partir de tokens	@103 L3 - Separe Pneumatocito - Separação de Palavras!	@123 L3 - Sorvete suor casaca chicletes - Letras em Comum!	@107 L3 - Valdiskley e a Cifra v3!	@105 L3 - Valdiskley e cifras históricas!	@162 L3 - Mini-Poker - OBI2005	@041 L3 - Criptografia	
+
+## 25. Matrizes I
+@130 L2 - Bingo!	@012 L2 - Deu a louca no Imperador!	@191 L2 - Coluna de Valor Maior	@134 L2 - Quadrado Mágico	@128 L2 - Soma de elementos de em uma matriz	@153 L3 - OBI 2015 - Fase 2 - Nível 1 - Torre	@133 L2 - Soldados em Posição	
+
+## 26. Matrizes II
+@131 L2 - Matriz Simétrica	@150 L2 - Soma de matrizes	@132 L2 - Subdiagonais	@135 L3 - Jogo da vida	@007 L3 - Tetris (Fazendo a peça cair)	@129 L3 - Campo Minado	@159 L3 - Campo de Minhocas - OBI 2005	@154 L3 - OBI 2015 - Fase 2 - Nível Júnior - Código	
+
+## 27. Ponteiros
+@009 L2 - Imprimir vetor formatado	@139 L4 - A Porta Matemática	@147 L1 - Duelo	@143 L1 - Troca de valores de variáveis	@144 L2 - Função que retorna vários valores por referência	@142 L2 - Vetor de strings com variados tamanhos	
+
+## 28. Recursão
+@145  L2 - Contando caracteres recursivamente	@141  L2 - Números de Fibonacci	@140  L3 - Contando caracteres recursivamente	@146  L3 - Torres de Hanoi	
+
+## 29. Structs
+@148 L1 - Expressão	@149 L1 - Operações	@199 L2 - Pizza	@201 L2 - Comparar Data	@069 L2 - Retângulo	@202 L2 - Ponto perto	@187 L2 - Jogo da cobrinha	@184 L3 - Secundaristas	@182 L3 - Mulher mais idosa	
