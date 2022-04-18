@@ -11,7 +11,7 @@ cp arcade/Readme.md moodle
 kkmirror arcade moodle qxcodefup moodle
 
 cd moodle
-kkmanual --root Readme.md
+kkmanual Readme.md
 # pushing moodle
 git add .
 git commit -m "updating"

@@ -18,7 +18,8 @@ Pseudocódigo:
 */
 void hanoi(int qte, char ini, char aux, char fim)
 {
-   if (qte == 1) printf("%c -> %c\n", ini, fim);
+   if (qte == 1) 
+      printf("%c -> %c\n", ini, fim);
    else {
       hanoi(qte-1, ini, fim, aux);
       printf("%c -> %c\n", ini, fim);

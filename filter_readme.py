@@ -33,7 +33,10 @@ for line in lines:
             links.append("https://github.com/qxcodefup/moodle/blob/master/base/" + label + "/Readme.md")
 
 #print(output.getvalue())
-print("\t".join(sections))
-print("\t".join(labels))
-print("\t".join(names))
-print("\t".join(links))
+
+for sec, lab, name, link in zip(sections, labels, names, links):
+    print("{}\t{}\t{}\t{}".format(sec, lab, name, link))
+# print("\t".join(sections))
+# print("\t".join(labels))
+# print("\t".join(names))
+# print("\t".join(links))
