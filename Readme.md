@@ -47,15 +47,15 @@ Conteúdo sugeridos
 ```
 
 ## 01. Operações: Impressão formatada
-\________________ | \______________________
------------------ | -----------------------
+\________________________ | \_______________________________________________
+------------------------- | -----------------------
 ![](base/024/__thumb.jpg) | [@024 L1 - Divisão Inteira e Quebrada](base/024/Readme.md)
 ![](base/000/__thumb.jpg) | [@000 L1 - Operações básicas](base/000/Readme.md)
 ![](base/011/__thumb.jpg) | [@011 L2 - Formatando data](base/011/Readme.md)
 
 ## 02. Operações: Biblioteca Math
-\________________ | \______________________
------------------ | -----------------------
+\________________________ | \_______________________________________________
+------------------------- | -----------------------
 ![](base/002/__thumb.jpg) | [@002 L2 - Pintando a casa](base/002/Readme.md)
 ![](base/003/__thumb.jpg) | [@003 L2 - Opala bebedor](base/003/Readme.md)
 ![](base/196/__thumb.jpg) | [@196 L2 - Comprando TV parcelado](base/196/Readme.md)
