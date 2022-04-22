@@ -15,7 +15,10 @@ Aprenda a fazer divisão inteira e quebrada.
 - Dois valores inteiros do usuário, n1 e n2, um por linha.
 
 ### Saída
-- O resultado da divisão inteira de n1 por n2, o resto da divisão inteira e o resultado da divisão quebrada com 2 casas decimais.
+
+- 1a linha: o resultado da divisão inteira de n1 por n2
+- 2a linha: o resto da divisão de n1 por n2
+- 3a linha: o resultado da divisão quebrada com 2 casas decimais.
 
 ## Exemplo
 
