@@ -75,7 +75,7 @@ Conteúdo sugeridos
 ```
 
 ## 03. Seleção: Manipulação
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/015/__thumb.jpg) | [@015 L1 - Calculadora Numérica](base/015/Readme.md)
 ![](base/155/__thumb.jpg) | [@155 L1 - Plantação de Morangos](base/155/Readme.md)
@@ -86,7 +86,7 @@ Conteúdo sugeridos
 ![](base/035/__thumb.jpg) | [@035 L2 - Drone de Entrega - OBI 2017 - Fase 1](base/035/Readme.md)
 
 ## 04. Selação: Biblioteca Math
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/018/__thumb.jpg) | [@018 L2 - Arredondar](base/018/Readme.md)
 ![](base/030/__thumb.jpg) | [@030 L2 - Mercantil V1 - Quem chega mais perto](base/030/Readme.md)
@@ -94,7 +94,7 @@ Conteúdo sugeridos
 ![](base/001/__thumb.jpg) | [@001 L2 - Bhaskara](base/001/Readme.md)
 
 ## 05. Seleção: Lógica
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/157/__thumb.jpg) | [@157 L1 - Frota de Táxi - OBI 2005](base/157/Readme.md)
 ![](base/014/__thumb.jpg) | [@014 L1 - Quantos são iguais?](base/014/Readme.md)
@@ -105,7 +105,7 @@ Conteúdo sugeridos
 
 
 ## 06. Seleção: Operador de módulo
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/062/__thumb.jpg) | [@062 L2 - Angulo Cartesiano](base/062/Readme.md)
 ![](base/025/__thumb.jpg) | [@025 L1 - Ambos Divisíveis](base/025/Readme.md)
@@ -122,14 +122,14 @@ Conteúdo sugeridos
 
 
 ## 07. Seleção: Intervalos
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/021/__thumb.jpg) | [@021 L2 - Aumento de Salário](base/021/Readme.md)
 ![](base/032/__thumb.jpg) | [@032 L2 - Bolada na fuça](base/032/Readme.md)
 ![](base/183/__thumb.jpg) | [@183 L2 - Criança ou Múmia](base/183/Readme.md)
 
 ## 08. Seleção: Busca e Contagem
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/017/__thumb.jpg) | [@017 L2 - Maior ovo](base/017/Readme.md)
 ![](base/192/__thumb.jpg) | [@192 L2 - A idade de Dona Mônica - OBI 2019 - F1PJ](base/192/Readme.md)
@@ -138,7 +138,7 @@ Conteúdo sugeridos
 ![](base/033/__thumb.jpg) | [@033 L3 - Professor Bonzinho](base/033/Readme.md)
 
 ## 09. Seleção: Conversão
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/038/__thumb.jpg) | [@038 L2 - Próximo segundo](base/038/Readme.md)
 ![](base/027/__thumb.jpg) | [@027 L2 - Adedonha](base/027/Readme.md)
@@ -153,7 +153,7 @@ Conteúdo sugeridos
 ```
 
 ## 10. Laço: Básico
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/013/__thumb.jpg) | [@013 L1 - Sapatos para 3](base/013/Readme.md)
 ![](base/045/__thumb.jpg) | [@045 L1 - Soma dos pares](base/045/Readme.md)
@@ -161,7 +161,7 @@ Conteúdo sugeridos
 ![](base/046/__thumb.jpg) | [@046 L2 - Jogo da Concentração](base/046/Readme.md)
 
 ## 11. Técnicas de controle
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/047/__thumb.jpg) | [@047 L2 - Ônibus lotado](base/047/Readme.md)
 ![](base/049/__thumb.jpg) | [@049 L2 - Sapinho 1 no Poço](base/049/Readme.md)
@@ -171,7 +171,7 @@ Conteúdo sugeridos
 ![](base/054/__thumb.jpg) | [@054 L3 - Quebrador de Copos](base/054/Readme.md)
 
 ## 12. Laço: Math
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/090/__thumb.jpg) | [@090 L2 - Primo](base/090/Readme.md)
 ![](base/189/__thumb.jpg) | [@189 L2 - Fatores de um número](base/189/Readme.md)
@@ -182,7 +182,7 @@ Conteúdo sugeridos
 
 
 ## 13. Vetores: Busca
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/056/__thumb.jpg) | [@056 L1 - Calça apertada](base/056/Readme.md)
 ![](base/060/__thumb.jpg) | [@060 L1 - Casamento](base/060/Readme.md)
@@ -191,7 +191,7 @@ Conteúdo sugeridos
 ![](base/100/__thumb.jpg) | [@100 L3 - Pião na rodinha](base/100/Readme.md)
 
 ## 14. Vetores: Contagem
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/055/__thumb.jpg) | [@055 L1 - Contagem](base/055/Readme.md)
 ![](base/048/__thumb.jpg) | [@048 L2 - Cabo de Guerra Jedi](base/048/Readme.md)
@@ -200,7 +200,7 @@ Conteúdo sugeridos
 ![](base/077/__thumb.jpg) | [@077 L3 - Mercantil V3 - Muitas rodadas](base/077/Readme.md)
 
 ## 15. Vetores: Conversão
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/101/__thumb.jpg) | [@101 L2 - Mostrar cartas](base/101/Readme.md)
 ![](base/063/__thumb.jpg) | [@063 L3 - Blackjack 21!](base/063/Readme.md)
@@ -208,7 +208,7 @@ Conteúdo sugeridos
 ![](base/082/__thumb.jpg) | [@082 L3 - Vetor para inteiro](base/082/Readme.md)
 
 ## 16. Vetores: Manipulação
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/061/__thumb.jpg) | [@061 L2 - Invertendo vetor](base/061/Readme.md)
 ![](base/091/__thumb.jpg) | [@091 L2 - MMC](base/091/Readme.md)
@@ -220,7 +220,7 @@ Conteúdo sugeridos
 ![](base/084/__thumb.jpg) | [@084 L3 - Arca: Exemplares](base/084/Readme.md)
 
 ## 17. Vetores: Proximidade
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/067/__thumb.jpg) | [@067 L2 - Queda de dominós](base/067/Readme.md)
 ![](base/078/__thumb.jpg) | [@078 L2 - Jogo do Avesso](base/078/Readme.md)
@@ -231,7 +231,7 @@ Conteúdo sugeridos
 ![](base/079/__thumb.jpg) | [@079 L3 - Jogo do Avesso V2](base/079/Readme.md)
 
 ## 18. Vetores: Ordenação
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/198/__thumb.jpg) | [@198 L1 - Paredes](base/198/Readme.md)
 ![](base/073/__thumb.jpg) | [@073 L2 - Batida Policial](base/073/Readme.md)
@@ -240,7 +240,7 @@ Conteúdo sugeridos
 ![](base/197/__thumb.jpg) | [@197 L2 - Indices](base/197/Readme.md)
 
 ## 19. Vetores: Lógica
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/075/__thumb.jpg) | [@075 L3 - Abastecimento de água](base/075/Readme.md)
 ![](base/083/__thumb.jpg) | [@083 L3 - Batráquios](base/083/Readme.md)
@@ -253,7 +253,7 @@ Conteúdo sugeridos
 ![](base/042/__thumb.jpg) | [@042 L3 - Chefe Nervoso - OBI 2021](base/042/Readme.md)
 
 ## 20. Vetores: Math
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/138/__thumb.jpg) | [@138 L3 - Permutação](base/138/Readme.md)
 ![](base/008/__thumb.jpg) | [@008 L3 - Senhas](base/008/Readme.md)
@@ -261,7 +261,7 @@ Conteúdo sugeridos
 
 
 ## 21. Strings I
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/173/__thumb.jpg) | [@173 L1 - Eribelton e a Ascologia V1 - Somar Asc](base/173/Readme.md)
 ![](base/092/__thumb.jpg) | [@092 L1 - LP da Xura - Inverter String!](base/092/Readme.md)
@@ -277,7 +277,7 @@ Conteúdo sugeridos
 ![](base/093/__thumb.jpg) | [@093 L2 - Gritando em Caixa Alta](base/093/Readme.md)
 
 ## 22. Strings II
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/180/__thumb.jpg) | [@180 L2 - Guerra Civil no Universo Marvel](base/180/Readme.md)
 ![](base/089/__thumb.jpg) | [@089 L2 - Mega Jokenpo!](base/089/Readme.md)
@@ -293,7 +293,7 @@ Conteúdo sugeridos
 ![](base/113/__thumb.jpg) | [@113 L3 - Eribelton e a Ascologia V3](base/113/Readme.md)
 
 ## 23. Strings III
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/099/__thumb.jpg) | [@099 L3 - Francês é Fresco](base/099/Readme.md)
 ![](base/120/__thumb.jpg) | [@120 L3 - Gansos Gamados](base/120/Readme.md)
@@ -309,7 +309,7 @@ Conteúdo sugeridos
 ![](base/115/__thumb.jpg) | [@115 L3 - Máquina de Datilografar Quebrada](base/115/Readme.md)
 
 ## 24. Strings IV
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/121/__thumb.jpg) | [@121 L3 - Mário e o Assassins Creed](base/121/Readme.md)
 ![](base/122/__thumb.jpg) | [@122 L3 - Nao se bububula - Gagueira V2!](base/122/Readme.md)
@@ -326,7 +326,7 @@ Conteúdo sugeridos
 
 
 ## 25. Matrizes I
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/130/__thumb.jpg) | [@130 L2 - Bingo!](base/130/Readme.md)
 ![](base/012/__thumb.jpg) | [@012 L2 - Deu a louca no Imperador!](base/012/Readme.md)
@@ -337,7 +337,7 @@ Conteúdo sugeridos
 ![](base/133/__thumb.jpg) | [@133 L2 - Soldados em Posição](base/133/Readme.md)
 
 ## 26. Matrizes II
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/131/__thumb.jpg) | [@131 L2 - Matriz Simétrica](base/131/Readme.md)
 ![](base/150/__thumb.jpg) | [@150 L2 - Soma de matrizes](base/150/Readme.md)
@@ -350,7 +350,7 @@ Conteúdo sugeridos
 
 
 ## 27. Ponteiros
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/009/__thumb.jpg) | [@009 L2 - Imprimir vetor formatado](base/009/Readme.md)
 ![](base/139/__thumb.jpg) | [@139 L4 - A Porta Matemática](base/139/Readme.md)
@@ -360,7 +360,7 @@ Conteúdo sugeridos
 ![](base/142/__thumb.jpg) | [@142 L2 - Vetor de strings com variados tamanhos](base/142/Readme.md)
 
 ## 28. Recursão
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/145/__thumb.jpg) | [@145 L2 - Contando ocorrências](base/145/Readme.md)
 ![](base/141/__thumb.jpg) | [@141 L2 - Números de Fibonacci](base/141/Readme.md)
@@ -368,7 +368,7 @@ Conteúdo sugeridos
 ![](base/146/__thumb.jpg) | [@146 L3 - Torres de Hanoi](base/146/Readme.md)
 
 ## 29. Structs
-\________________________ | \______________________
+\________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/148/__thumb.jpg) | [@148 L1 - Expressão](base/148/Readme.md)
 ![](base/149/__thumb.jpg) | [@149 L1 - Operações](base/149/Readme.md)
