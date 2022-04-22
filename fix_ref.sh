@@ -1,7 +1,6 @@
 #!/bin/bash
-kkmanual Readme.md
+kkmanual Readme.md -t __thumb.jpg
 mdpp Readme.md
 mdpp base/* -q
 ./make_thumbs.sh
-cp Readme.md table.md
-kkmanual table.md -t __thumb.jpg
+
