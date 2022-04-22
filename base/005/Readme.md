@@ -1,4 +1,4 @@
-## L2 - Ladrão de Goiabas - Contando viagens usando módulo
+## L2 - Ladrão de Goiabas
 
 ![](__capa.jpg)
 

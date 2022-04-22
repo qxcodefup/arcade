@@ -5,13 +5,13 @@
 
 ## Motivação
 
-Aline: Ei André, minha vida deu uma volta de 360 graus.
-André: Vai pro colégio não tu? 360 graus volta pro mesmo lugar.
-Aline: Eu sei, é porque eu achei na rua uma carteira sem nenhum documento e cheia de dinheiro na rua.
-André: Então é 180 graus, mulher, tu agora tá estribada.
-Aline: Não, é 360 mesmo, eu levei a carteira pra casa.
-André: E?????
-Aline: Descobri que era do meu pai.
+- Aline: Ei André, minha vida deu uma volta de 360 graus.
+- André: Vai pro colégio não tu? 360 graus volta pro mesmo lugar.
+- Aline: Eu sei, é porque eu achei na rua uma carteira sem nenhum documento e cheia de dinheiro.
+- André: Então é 180 graus, mulher, tu agora tá estribada.
+- Aline: Não, é 360 mesmo, eu levei a carteira pra casa.
+- André: E?????
+- Aline: Descobri que era do meu pai.
 
 ---
 

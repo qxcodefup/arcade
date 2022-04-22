@@ -2,7 +2,7 @@
 ![](solver.c)
 Verifique se um número é permutação de outro
 
-![](capa.png)
+![](__capa.jpg)
 
 ### Motivação
 

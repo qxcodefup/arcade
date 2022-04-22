@@ -1,5 +1,7 @@
 ## L4 - Maiores Palíndromos
 
+![](__capa.jpg)
+
 ## Motivação
 Números palíndromos são números que tem a mesma leitura nos dois sentidos.
 

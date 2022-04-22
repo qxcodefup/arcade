@@ -1,5 +1,7 @@
 ## L2 - Jogo da cobrinha
 
+![](__capa.jpg)
+
 - Entrada:
     - Q, D, sendo Q a quantidade de "gomos" da cobra e D a direção que pode ser L(left), R(right), U(up), D(down)
     - Seguidas por Q linhas contendo a posição x, y de cada gomo, sendo o primeiro gomo a cabeça. O x aumenta para direita, o y aumenta para baixo.

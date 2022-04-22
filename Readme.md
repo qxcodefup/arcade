@@ -87,7 +87,7 @@ Conteúdo sugeridos
 
 ## 05. Seleção: Lógica
 - [@157 L1 - Frota de Táxi - OBI 2005](base/157/Readme.md) 
-- [@014 L1 - Quantos são iguais? (Contando Repetidos)](base/014/Readme.md) 
+- [@014 L1 - Quantos são iguais?](base/014/Readme.md) 
 - [@156 L2 - Jogo de par ou ímpar - OBI 2016 - F1P1](base/156/Readme.md) 
 - [@194 L2 - Nota cortada - OBI 2019 F1P1](base/194/Readme.md) 
 - [@023 L2 - Jokenpo das tartarugas!](base/023/Readme.md) 
@@ -100,7 +100,7 @@ Conteúdo sugeridos
 - [@022 L2 - Teleférico - OBI 2017 - Fase 1](base/022/Readme.md) 
 - [@195 L2 - Xadrez OBI 2019 F1P1](base/195/Readme.md) 
 - [@193 L2 - Dominó - OBI 2019 F1PJ](base/193/Readme.md) 
-- [@005 L2 - Ladrão de Goiabas - Contando viagens usando módulo](base/005/Readme.md) 
+- [@005 L2 - Ladrão de Goiabas](base/005/Readme.md) 
 - [@028 L2 - Cabeça da cobra](base/028/Readme.md) 
 - [@016 L2 - Volta de 360 graus - Retirando os loops](base/016/Readme.md) 
 - [@019 L2 - Game 10 - OBI 2017 - Fase 1 - Universitário](base/019/Readme.md) 
@@ -313,7 +313,7 @@ Conteúdo sugeridos
 
 ## 28. Recursão
 
-- [@145 L2 - Contando caracteres recursivamente](base/145/Readme.md) 
+- [@145 L2 - Contando ocorrências](base/145/Readme.md) 
 - [@141 L2 - Números de Fibonacci](base/141/Readme.md) 
 - [@140 L3 - Contando caracteres recursivamente](base/140/Readme.md) 
 - [@146 L3 - Torres de Hanoi](base/146/Readme.md) 

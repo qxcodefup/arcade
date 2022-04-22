@@ -1,5 +1,7 @@
 # L2 - Ponto perto
 
+![](__capa.jpg)
+
 Considere o seguinte tipo de registro que deve ser usado em seu programa:
 
 ```C
@@ -11,19 +13,19 @@ typedef struct{
 
 Implemente um função que recebe n pontos distintos e um `Ponto p` e devolva o ponto mais próximo de p entre os n pontos distintos. A função tem o seguint protótipo:
 
-```C
+```c
 Ponto proximo(Ponto vetor[], int n, Ponto p);
 ```
 
 Dica: Para isso, implemente uma função que recebe dois pontos e calcule a distância entre esse dois pontos.
 
-```C
+```c
 float distancia(Ponto p1, Ponto p2);
 ```
 
 O programa principal é o seguinte:
 
-```C
+```c
 #include <stdio.h>
 #include <math.h>
 

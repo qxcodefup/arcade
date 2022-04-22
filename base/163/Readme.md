@@ -1,5 +1,7 @@
 ## L4 - Permutação Lexograficamente Final de Fichas
 
+![](__capa.jpg)
+
 ## Motivação:
 
 Sara quer andar na montanha russa, mas para isso ela precisa esperar a sua vez na fila.
