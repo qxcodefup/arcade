@@ -1,0 +1,7 @@
+{
+    "markdown": "./Readme.md",
+    "tests": "./q.tio",
+    "upload": [],
+    "keep": [],
+    "required": []
+}
