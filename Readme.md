@@ -81,6 +81,7 @@ Conteúdo sugeridos
 ![](base/155/.thumb.jpg) | [@155 L1 - Plantação de Morangos](base/155/Readme.md)
 ![](base/151/.thumb.jpg) | [@151 L1 - Impedido!](base/151/Readme.md)
 ![](base/026/.thumb.jpg) | [@026 L1 - Positivo, Nulo ou Negativo?](base/026/Readme.md)
+![](base/203/.thumb.jpg) | [@203 L1 - Cláusulas de guarda](base/203/Readme.md)
 ![](base/031/.thumb.jpg) | [@031 L2 - Fiquei de final](base/031/Readme.md)
 ![](base/040/.thumb.jpg) | [@040 L2 - Está Trabalhando ou Não!](base/040/Readme.md)
 ![](base/035/.thumb.jpg) | [@035 L2 - Drone de Entrega - OBI 2017 - Fase 1](base/035/Readme.md)
