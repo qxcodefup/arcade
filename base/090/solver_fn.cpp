@@ -4,7 +4,7 @@ bool eh_primo(int n) {
     for (int a = 2; a < n; a++)
         if (n % a == 0)
             return false;
-    return true;
+    return true; //retorno padrao
 }
 
 int main(){

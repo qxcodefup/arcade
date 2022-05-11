@@ -4,7 +4,7 @@ int main(){
 
     int num { };
     std::cin >> num;
-    bool eh_primo = true;
+    bool eh_primo = true; //retorno padrao
     for (int a = 2; a < n; a++) {
         if (n % a == 0) {
             eh_primo = false;
