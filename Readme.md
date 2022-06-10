@@ -1,14 +1,14 @@
 # QxcodeFup
 
-Esse repositório foi criado e é mantido por mim, [David Sena](sena@ufc.br), professor da UFC de Quixadá.
+Esse repositório foi criado e é mantido por mim, David Sena (sena@ufc.br), professor da UFC de Quixadá.
 
-Nós utilizamos essas atividades no ensino das disciplinas de Fundamentos de Computação.
+Aqui na UFC, nós utilizamos essas atividades no ensino das disciplinas de Fundamentos de Computação.
 
 As atividades normalmente são utilizadas dentro do Moodle utilizando o plugin do VPL.
 
 Você que não tem acesso ao moodle, pode rodar os testes utilizando esse repositório do [replit](https://replit.com/@davidsena/fuptk).
 
-Também pode instalar o ["testador"]((github.com/senapk/tk) no seu computador e rodar diretamente na sua máquina.  
+Também pode instalar o ["testador"](github.com/senapk/tk) no seu computador e rodar diretamente na sua máquina.  
 
 
 <!--TOC_BEGIN-->
