@@ -1,5 +1,16 @@
 # QxcodeFup
 
+Esse repositório foi criado e é mantido por mim, [David Sena](sena@ufc.br), professor da UFC de Quixadá.
+
+Nós utilizamos essas atividades no ensino das disciplinas de Fundamentos de Computação.
+
+As atividades normalmente são utilizadas dentro do Moodle utilizando o plugin do VPL.
+
+Você que não tem acesso ao moodle, pode rodar os testes utilizando esse repositório do [replit](https://replit.com/@davidsena/fuptk).
+
+Também pode instalar o ["testador"]((github.com/senapk/tk) no seu computador e rodar diretamente na sua máquina.  
+
+
 <!--TOC_BEGIN-->
 - [01. Operações: Impressão formatada](#01-operações-impressão-formatada)
 - [02. Operações: Biblioteca Math](#02-operações-biblioteca-math)

@@ -11,7 +11,7 @@ Vários competidores disputaram uma competição interessante.
 - Chamemos de pedra A e pedra B. 
 - Eles tinham que arremessar ambas as pedras a pelo menos 10 metros de distância.
 - Se alguma das pedras caíssem abaixo de 10 metros, ele estaria desclassificado.
-- A pontuação pelo obtida é dada pela distância absoluta entre as pedras. Se uma pedra caiu a 12 metros e outra a 15 metros, ele fez 3 pontos.
+- A pontuação obtida é dada pela distância absoluta entre as pedras. Se uma pedra caiu a 12 metros e outra a 15 metros, ele fez 3 pontos.
 - Ganha o competidor que faz menos pontos.
 - O primeiro competidor tem número índice 0.
 - Se houver empate nos pontos, ganha o competidor que tem menor índice.

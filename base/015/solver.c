@@ -2,17 +2,23 @@
 
 int main(){
 	
-	int a, b;
-	char op;
+	int a = 0, b = 0;
+	char op = 0;
 	
 	scanf("%d %d %c", &a, &b, &op);
 	
-	if(op == '+') printf("%d\n", a + b);
-	if(op == '-') printf("%d\n", a - b);
-	if(op == '*') printf("%d\n", a * b);
-	
-	if(op == '/' && b == 0) printf("invalida\n");
-	if(op == '/' && b != 0) printf("%d\n", a / b);
-	
+	if(op == '+') {
+		printf("%d\n", a + b);
+	} else if(op == '-') {
+		printf("%d\n", a - b);
+	} else if(op == '*') {
+		printf("%d\n", a * b);
+	} else if(op == '/') {
+		if (b == 0)
+			printf("invalida\n");
+		else
+			printf("%d\n", a / b);
+	}
+
 	return 0;
 }

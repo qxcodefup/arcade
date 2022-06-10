@@ -2,7 +2,7 @@
 
 ![](__capa.jpg)
 
-Você recebe uma vetor A de inteiros não negativos de tamanho `n`. Sua tarefa é ordernar o vetor em ordem não decrescente e imprimir os índices originais da novo vetor ordenado.
+Você recebe uma vetor A de inteiros não negativos de tamanho `n`. Sua tarefa é ordernar o vetor em ordem crescente e imprimir os índices originais do novo vetor ordenado.
 
 Exemplo:
 
@@ -19,7 +19,7 @@ NOTA: A indexação da vetor começa com 0.
 
 ## Entrada 
 
-A primeira linha de entrada consiste no tamanho da vetor A. A próxima linha consiste no vetor de tamanho n
+A primeira linha de entrada consiste no tamanho da vetor A. A próxima linha consiste no vetor de tamanho n.
 
 ## Saída
 

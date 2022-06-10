@@ -1,20 +1,17 @@
 #include <stdio.h>
 
+int main() {
+    int procurado = 0, size = 0, contador = 0;
+    scanf("%d %d", &procurado, &size);
 
-int main () {
-    int x, n, contador = 0, aux, i;
+    int vetor[size];
+    for (int i = 0; i < size; i++)
+        scanf("%d", &vetor[i]);
 
-    scanf("%d", &x);
-    scanf("%d", &n);
-
-    for(i = 0; i < n; i++){
-        scanf("%d", &aux);
-        if ( aux == x )
+    for (int i = 0; i < size; i++)
+        if (vetor[i] == procurado)
             contador++;
-    }
-
     printf("%d\n", contador);
-
 
     return 0;
 }
