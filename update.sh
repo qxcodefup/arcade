@@ -1,17 +1,11 @@
-bash fix_ref.sh
-git add .
-git commit -m "updating"
-git push origin master
+make_thumbs base/*
+indexer Readme.md -t .thumb.jpg
+mdpp Readme.md
+mdpp base/* -q
 
 #copy missing or changed files
+cp Readme.md ../moodle
+
+#making mirror
 cd ..
-cp arcade/Readme.md moodle
-
-#updating
-kkmirror arcade moodle qxcodefup moodle
-
-cd moodle
-# # pushing moodle
-git add .
-git commit -m "updating"
-git push origin master
+mirror_rep arcade moodle qxcodefup moodle

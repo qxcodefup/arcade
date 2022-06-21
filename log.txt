@@ -1,11 +1,0 @@
-[1m[7m%[27m[1m[0m                                                                                ]2;tiger@jungle:~/Dropbox/gits/1_fup/arcade]1;../1_fup/arcade]7;file:///home/tiger/Dropbox/gits/1_fup/arcade\]7;file:///home/tiger/Dropbox/gits/1_fup/arcade\]7;file:///home/tiger/Dropbox/gits/1_fup/arcade\[0m[27m[24m[J╭─[1m[32mtiger@jungle[00m [1m[34m~/Dropbox/gits/1_fup/arcade [00m[33m‹master[31m●[33m› [00m
-╰─[1m$[0m [K[75C[1m[0m[75D[?1h=[?2004hlls[?1l>[?2004l
-]2;ls --color]1;ls[0m[01;34mbase[0m    filter_readme.py  log.txt    resumo.md   [01;32mupdate.sh[0m
-[01;34mconfig[0m  [01;32mfix_ref.sh[0m        [01;32mnova.py[0m    semanal.md
-[01;34mdrafts[0m  [01;32minit_rep.py[0m       Readme.md  subprocess
-[1m[7m%[27m[1m[0m                                                                                ]2;tiger@jungle:~/Dropbox/gits/1_fup/arcade]1;../1_fup/arcade]7;file:///home/tiger/Dropbox/gits/1_fup/arcade\]7;file:///home/tiger/Dropbox/gits/1_fup/arcade\]7;file:///home/tiger/Dropbox/gits/1_fup/arcade\[0m[27m[24m[J╭─[1m[32mtiger@jungle[00m [1m[34m~/Dropbox/gits/1_fup/arcade [00m[33m‹master[31m●[33m› [00m
-╰─[1m$[0m [K[75C[1m[0m[75D[?1h=[?2004hcclear[?1l>[?2004l
-]2;clear]1;clear[H[2J[3J[1m[7m%[27m[1m[0m                                                                                ]2;tiger@jungle:~/Dropbox/gits/1_fup/arcade]1;../1_fup/arcade]7;file:///home/tiger/Dropbox/gits/1_fup/arcade\]7;file:///home/tiger/Dropbox/gits/1_fup/arcade\]7;file:///home/tiger/Dropbox/gits/1_fup/arcade\[0m[27m[24m[J╭─[1m[32mtiger@jungle[00m [1m[34m~/Dropbox/gits/1_fup/arcade [00m[33m‹master[31m●[33m› [00m
-╰─[1m$[0m [K[75C[1m[0m[75D[?1h=[?2004hbbash[?1l>[?2004l
-]2;bash]1;bash]0;tiger@jungle:~/Dropbox/gits/1_fup/arcade\]7;file://jungle/home/tiger/Dropbox/gits/1_fup/arcade\[?2004h]0;arcade[01;32mtiger@jungle[00m:[01;34m~/Dropbox/gits/1_fup/arcade[00m$ clear
-[?2004l[H[2J[3J]0;tiger@jungle:~/Dropbox/gits/1_fup/arcade\]7;file://jungle/home/tiger/Dropbox/gits/1_fup/arcade\[?2004h]0;arcade[01;32mtiger@jungle[00m:[01;34m~/Dropbox/gits/1_fup/arcade[00m$ 

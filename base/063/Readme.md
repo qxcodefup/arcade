@@ -2,7 +2,6 @@
 
 
 ![](__capa.jpg)
-[](t.tio)
 ## Motivação
 
 Faça um programa que conte o valor de uma mão de blackjack.  
@@ -10,7 +9,7 @@ Ela recebe um vetor de cartas e calcula usando as seguntes regras. K, Q e J vale
 Se a soma de pontos for maior que 21, o Ás passa a valer 1 ponto, diminuindo a soma total, tentando fazer o valor baixar para menos de 21.  
   
 No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e K.  
-\[DS\]
+
 
 ### Entrada
 
