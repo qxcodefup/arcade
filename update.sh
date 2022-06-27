@@ -8,4 +8,4 @@ cp Readme.md ../moodle
 
 #making mirror
 cd ..
-mirror_rep arcade moodle qxcodefup moodle
+mirror arcade moodle qxcodefup moodle

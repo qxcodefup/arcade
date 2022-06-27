@@ -1,7 +1,10 @@
-## L3 - Conta Dígitos
-
+## L3 - Conta Dígitos 🤩🎥💎🤯
 
 ![](__capa.jpg)
+
+[🎥 🤩 Explicação](https://youtu.be/1zT-Y0Zb1K0)
+
+[💎 🤯 Resolução](https://youtu.be/utRdA8SwBzA)
 
 ## Motivação
 

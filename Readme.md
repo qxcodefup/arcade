@@ -190,7 +190,7 @@ Conteúdo sugeridos
 ![](base/052/.thumb.jpg) | [@052 L3 - Sopa de coelho?](base/052/Readme.md)
 ![](base/160/.thumb.jpg) | [@160 L3 - Somatório de Fibonacci](base/160/Readme.md)
 ![](base/066/.thumb.jpg) | [@066 L2 - Spok Palíndromo](base/066/Readme.md)
-![](base/064/.thumb.jpg) | [@064 L3 - Conta Dígitos](base/064/Readme.md)
+![](base/064/.thumb.jpg) | [@064 L3 - Conta Dígitos 🤩🎥💎🤯](base/064/Readme.md)
 
 
 ## 13. Vetores: Busca
