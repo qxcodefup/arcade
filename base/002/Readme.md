@@ -1,7 +1,9 @@
-## L2 - Pintando a casa
+## L2 - Pintando a casa 🎥💎
 [](solver.c)
 
 ![](__capa.jpg)
+
+[Explicação](https://youtu.be/nlgT_jAtmy4)
 
 ## Motivação
 
@@ -39,4 +41,4 @@ Utilize a seguinte fórmula para calcular a área de um triângulo a partir do t
 <<<<<<<<
 ```
 
-
+[Resolução](https://youtu.be/sWg893W5r_w)

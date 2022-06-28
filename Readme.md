@@ -60,15 +60,15 @@ Conteúdo sugeridos
 ## 01. Operações: Impressão formatada
 \________________________ | \_______________________________________________
 ------------------------- | -----------------------
-![](base/024/.thumb.jpg) | [@024 L1 - Divisão Inteira e Quebrada](base/024/Readme.md)
+![](base/024/.thumb.jpg) | [@024 L1 - Divisão Inteira e Quebrada 💎](base/024/Readme.md)
 ![](base/000/.thumb.jpg) | [@000 L1 - Operações básicas](base/000/Readme.md)
 ![](base/011/.thumb.jpg) | [@011 L2 - Formatando data](base/011/Readme.md)
 
 ## 02. Operações: Biblioteca Math
 \________________________ | \_______________________________________________
 ------------------------- | -----------------------
-![](base/002/.thumb.jpg) | [@002 L2 - Pintando a casa](base/002/Readme.md)
-![](base/003/.thumb.jpg) | [@003 L2 - Opala bebedor](base/003/Readme.md)
+![](base/002/.thumb.jpg) | [@002 L2 - Pintando a casa 🎥💎](base/002/Readme.md)
+![](base/003/.thumb.jpg) | [@003 L2 - Opala bebedor 🎥💎](base/003/Readme.md)
 ![](base/196/.thumb.jpg) | [@196 L2 - Comprando TV parcelado](base/196/Readme.md)
 ![](base/004/.thumb.jpg) | [@004 L3 - Mete bala](base/004/Readme.md)
 
@@ -88,8 +88,8 @@ Conteúdo sugeridos
 ## 03. Seleção: Manipulação
 \________________________ | \_______________________________________________
 ------------------------- | -----------------------
-![](base/015/.thumb.jpg) | [@015 L1 - Calculadora Numérica](base/015/Readme.md)
-![](base/155/.thumb.jpg) | [@155 L1 - Plantação de Morangos](base/155/Readme.md)
+![](base/015/.thumb.jpg) | [@015 L1 - Calculadora Numérica 💎](base/015/Readme.md)
+![](base/155/.thumb.jpg) | [@155 L1 - Plantação de Morangos 💎](base/155/Readme.md)
 ![](base/151/.thumb.jpg) | [@151 L1 - Impedido!](base/151/Readme.md)
 ![](base/026/.thumb.jpg) | [@026 L1 - Positivo, Nulo ou Negativo?](base/026/Readme.md)
 ![](base/203/.thumb.jpg) | [@203 L1 - Cláusulas de guarda](base/203/Readme.md)

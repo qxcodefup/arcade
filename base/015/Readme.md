@@ -1,4 +1,4 @@
-## L1 - Calculadora Numérica
+## L1 - Calculadora Numérica 💎
 
 [](solver.c)
 ![](__capa.jpg)
@@ -63,5 +63,5 @@ Observação
     cin >> operador;
 ```
 
-
+[Resolução](https://www.youtube.com/watch?v=W5JJ_NccMkM)
 

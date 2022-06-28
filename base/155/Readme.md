@@ -1,4 +1,4 @@
-## L1 - Plantação de Morangos
+## L1 - Plantação de Morangos 💎
 ### OBI 2016 - Fase1 - Nível 1
 ![](__capa.jpg)
 [](solver.c)
@@ -42,3 +42,4 @@ Os administradores da Fazenda Fartura planejam criar uma nova plantação de mor
 <<<<<<<<
 ```
 
+[Resolução](https://youtu.be/TsFcz1GtMFE)

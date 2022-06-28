@@ -74,5 +74,4 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 <<<<<<<<
 ```
 
-
 [💎 Resolução](https://youtu.be/utRdA8SwBzA)

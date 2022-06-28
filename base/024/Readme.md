@@ -1,4 +1,4 @@
-## L1 - Divisão Inteira e Quebrada
+## L1 - Divisão Inteira e Quebrada 💎
 
 [](solver.c)
 ![](__capa.jpg)
@@ -66,3 +66,6 @@ b = 3.4334344
 print("a=%.2f e b=%.3f" %(a, b)) //a=4.32 e b=3.433
 ```
 ---
+
+
+[Resolução](https://www.youtube.com/watch?v=budW2bakIjg)

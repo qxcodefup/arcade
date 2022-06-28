@@ -1,6 +1,9 @@
-## L2 - Opala bebedor
+## L2 - Opala bebedor 🎥💎
+
 [](solver.c)
 ![](__capa.jpg)
+
+[Explicação](https://youtu.be/d0nlVzjtMBE)
 
 ## Ação
 
@@ -40,3 +43,4 @@ Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em
 <<<<<<<<
 ```
 
+[Resolução](https://youtu.be/VkL2XkEZetk)
