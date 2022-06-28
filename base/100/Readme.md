@@ -19,6 +19,8 @@ No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
 
 - 2a linha: As N jogadas dos jogadores em centímetros. Um valor 0 significa que o pião está na linha alvo. Um valor positivo indica que ele passou da linha alvo e um valor negativo indica que ele caiu antes da linha alvo.
 
+No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e P3 tem valor 25.
+
 ### Saída
 
 - 1a linha: o número do ganhador (1o jogador tem índice 0).
