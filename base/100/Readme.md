@@ -4,27 +4,28 @@
 
 ## Motivação
 
+![](jogo.png)
+
 No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
 - N jogadores se reúnem cada um com seu pião.
-- Um rapaz faz uma linha na areia.
-- Todos os participantes jogam o pião tentando acertar o pião na linha.
-- O jogador cuja jogada for superior a 50 cm de distância da linha será desclassificado.
+- Um rapaz faz uma 3 linhas na areia. Uma linha alvo(azul) e duas linhas limite(verde).
+- Todos os participantes jogam o pião tentando colocar o pião o mais próximo possível da linha azul.
 - Quem ficou mais perto da linha ganha, desde que esteja dentro do limite.
-- Quem ficou mais longe da linha leva uma mói de peia, mesmo que esteja no limite.
+- Quem ficou mais longe da linha leva uma peia.
 
 ### Entrada
 
-- 1a linha: o tamanho T da rodinha e a quantidade N de jogadores.
+- 1a linha: a distancia L entre a linha alvo e as linhas limite e a quantidade N de jogadores.
 
-- 2a linha: As N jogadas dos jogadores em centímetros, sendo um número positivo indicando que caiu à direita da linha e um número negativo para indicar que caiu à esquerda da linha..
+- 2a linha: As N jogadas dos jogadores em centímetros. Um valor 0 significa que o pião está na linha alvo. Um valor positivo indica que ele passou da linha alvo e um valor negativo indica que ele caiu antes da linha alvo.
 
 ### Saída
 
 - 1a linha: o número do ganhador (1o jogador tem índice 0).
-    - "nenhum" se nenhum conseguiu acertar dentro do limite.
+    - "nenhum" se nenhum conseguiu acertar dentro dos limite.
     - se houver empate, o último a jogar será o ganhador.
-- 2a linha: o número do perdedor
-    - o perdedor será quem jogou mais longe do centro.
+- 2a linha: o número do perdedor.
+    - o perdedor será quem jogou mais longe do alvo.
     - se houver empate, será o último jogador empatado, na ordem das jogadas.
 
 ## Exemplos
@@ -32,7 +33,7 @@ No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
 ```
 >>>>>>>> 01
 30 3
-35 15 22
+35 -15 22
 ========
 1
 0
@@ -40,7 +41,7 @@ No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
 
 >>>>>>>> 02
 30 3
-35 32 40
+35 -32 -40
 ========
 nenhum
 2
@@ -48,15 +49,15 @@ nenhum
 
 >>>>>>>> 03
 30 3
-35 36 36
+35 36 -36
 ========
 nenhum
 2
 <<<<<<<<
 
 >>>>>>>> 04
-30 3
-25 26 24
+40 3
+-25 -26 24
 ========
 2
 1
