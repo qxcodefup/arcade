@@ -1,10 +1,9 @@
-## L3 - Conta Dígitos 🤩🎥💎🤯
+## L3 - Conta Dígitos 🎥💎
 
 ![](__capa.jpg)
 
-[🎥 🤩 Explicação](https://youtu.be/1zT-Y0Zb1K0)
+[🎥 Explicação](https://youtu.be/1zT-Y0Zb1K0)
 
-[💎 🤯 Resolução](https://youtu.be/utRdA8SwBzA)
 
 ## Motivação
 
@@ -75,3 +74,5 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 <<<<<<<<
 ```
 
+
+[💎 Resolução](https://youtu.be/utRdA8SwBzA)
