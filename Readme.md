@@ -153,7 +153,7 @@ Conteúdo sugeridos
 \________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](base/038/.thumb.jpg) | [@038 L2 - Próximo segundo](base/038/Readme.md)
-![](base/027/.thumb.jpg) | [@027 L2 - Adedonha](base/027/Readme.md)
+![](base/027/.thumb.jpg) | [@027 L2 - Adedonha 💎](base/027/Readme.md)
 ![](base/043/.thumb.jpg) | [@043 L3 - Horas de sono](base/043/Readme.md)
 
 
@@ -170,7 +170,7 @@ Conteúdo sugeridos
 ![](base/013/.thumb.jpg) | [@013 L1 - Sapatos para 3](base/013/Readme.md)
 ![](base/045/.thumb.jpg) | [@045 L1 - Soma dos pares](base/045/Readme.md)
 ![](base/053/.thumb.jpg) | [@053 L2 - Fuga em helicóptero - OBI 2016](base/053/Readme.md)
-![](base/046/.thumb.jpg) | [@046 L2 - Jogo da Concentração](base/046/Readme.md)
+![](base/046/.thumb.jpg) | [@046 L2 - Jogo da Concentração 💎](base/046/Readme.md)
 
 ## 11. Técnicas de controle
 \________________________ | \_______________________________________________
@@ -185,7 +185,7 @@ Conteúdo sugeridos
 ## 12. Laço: Math
 \________________________ | \_______________________________________________
 ------------------------- | -----------------------
-![](base/090/.thumb.jpg) | [@090 L2 - Primo](base/090/Readme.md)
+![](base/090/.thumb.jpg) | [@090 L2 - Primo 💎](base/090/Readme.md)
 ![](base/189/.thumb.jpg) | [@189 L2 - Fatores de um número](base/189/Readme.md)
 ![](base/052/.thumb.jpg) | [@052 L3 - Sopa de coelho?](base/052/Readme.md)
 ![](base/160/.thumb.jpg) | [@160 L3 - Somatório de Fibonacci](base/160/Readme.md)
@@ -200,7 +200,7 @@ Conteúdo sugeridos
 ![](base/060/.thumb.jpg) | [@060 L1 - Casamento](base/060/Readme.md)
 ![](base/051/.thumb.jpg) | [@051 L3 - Pedra na lua](base/051/Readme.md)
 ![](base/058/.thumb.jpg) | [@058 L2 - Busca Intervalada](base/058/Readme.md)
-![](base/100/.thumb.jpg) | [@100 L3 - Pião na rodinha](base/100/Readme.md)
+![](base/100/.thumb.jpg) | [@100 L3 - Pião perto da linha](base/100/Readme.md)
 
 ## 14. Vetores: Contagem
 \________________________ | \_______________________________________________
@@ -225,7 +225,7 @@ Conteúdo sugeridos
 ![](base/061/.thumb.jpg) | [@061 L2 - Invertendo vetor](base/061/Readme.md)
 ![](base/091/.thumb.jpg) | [@091 L2 - MMC](base/091/Readme.md)
 ![](base/068/.thumb.jpg) | [@068 L2 - Fila do RU](base/068/Readme.md)
-![](base/186/.thumb.jpg) | [@186 L2 - Linha de inteiros](base/186/Readme.md)
+![](base/186/.thumb.jpg) | [@186 L2 - Linha de inteiros 🎥💎](base/186/Readme.md)
 ![](base/161/.thumb.jpg) | [@161 L3 - Vivo ou Morto - OBI 2005](base/161/Readme.md)
 ![](base/081/.thumb.jpg) | [@081 L3 - Decompor um inteiro](base/081/Readme.md)
 ![](base/087/.thumb.jpg) | [@087 L3 - Arca: Quantos casais](base/087/Readme.md)

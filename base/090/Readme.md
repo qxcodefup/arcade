@@ -1,4 +1,4 @@
-## L2 - Primo
+## L2 - Primo 💎
 
 
 ![](__capa.jpg)
@@ -37,3 +37,4 @@ Dado um número inteiro, faça uma função que verifique se ele é primo.
 <<<<<<<<
 ```
 
+[Resolução](https://youtu.be/FZVqoVx9KnM)

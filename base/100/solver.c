@@ -14,14 +14,9 @@ int main(){
     for(int i = 0; i < size; i++){
         if(vet[i] >= vet[perdedor])
             perdedor = i;
-        if(vet[i] <= rodinha){
-            if(vencedor == -1){
-                vencedor = i;
-            }else{
-                if(vet[i] <= vet[vencedor]){
+        if(vet[i] <= rodinha) {
+            if ((vencedor == -1) || (vet[i] <= vet[vencedor]))
                     vencedor = i;
-                }
-            }
         }
     }
     if(vencedor == -1)

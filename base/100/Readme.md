@@ -1,11 +1,10 @@
-## L3 - Pião na rodinha
-
+## L3 - Pião perto da linha
 
 ![](__capa.jpg)
 
 ## Motivação
 
-No jogo de pião lá de Ocara, o mói de peia dos `baitinga*` funciona assim:
+No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
 - N jogadores se reúnem cada um com seu pião.
 - Um rapaz faz uma linha na areia.
 - Todos os participantes jogam o pião tentando acertar o pião na linha.
@@ -15,7 +14,7 @@ No jogo de pião lá de Ocara, o mói de peia dos `baitinga*` funciona assim:
 
 ### Entrada
 
-- 1a linha: N a quantidade de jogadores.
+- 1a linha: o tamanho T da rodinha e a quantidade N de jogadores.
 
 - 2a linha: As N jogadas dos jogadores em centímetros, sendo um número positivo indicando que caiu à direita da linha e um número negativo para indicar que caiu à esquerda da linha..
 

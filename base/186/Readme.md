@@ -1,6 +1,8 @@
-## L2 - Linha de inteiros
+## L2 - Linha de inteiros 🎥💎
 
 ![](__capa.jpg)
+
+[Explicação](https://youtu.be/r44oGh6gVU0)
 
 Você não precisa saber o tamanho do vetor quando for ler uma linha com dados. Em python o comando `input().split(" ")` já retorna o vetor dividido. Em `c`e `c++` você tem algumas formas de fazer isso.
 
@@ -53,3 +55,5 @@ ___
 <<<<<<<<
 
 ```
+
+[Resolução](https://youtu.be/r44oGh6gVU0)

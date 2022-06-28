@@ -1,4 +1,4 @@
-## L2 - Jogo da Concentração
+## L2 - Jogo da Concentração 💎
 
 
 ![](__capa.jpg)
@@ -51,3 +51,4 @@ Dados dois número A e B, com A sempre menor que B, gere a sequencia que o jogad
 <<<<<<<<
 ```
 
+[Resolução](https://youtu.be/L9FmHLc87uw)

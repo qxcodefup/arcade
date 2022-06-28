@@ -1,4 +1,4 @@
-## L2 - Adedonha
+## L2 - Adedonha 💎
 
 
 ![](__capa.jpg)
@@ -90,3 +90,5 @@ z
 a
 <<<<<<<<
 ```
+
+[Explicação](https://youtu.be/qKkmrLZfYcA)
