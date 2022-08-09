@@ -1,6 +1,6 @@
 ## L2 - Cabeça da cobra
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Descrição
 

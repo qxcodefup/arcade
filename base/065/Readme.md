@@ -1,7 +1,7 @@
 ## L3 - Sapinho 3 matemático
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

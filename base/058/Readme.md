@@ -1,7 +1,7 @@
 ## L2 - Busca Intervalada
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 [](t.tio)
 ## Motivação

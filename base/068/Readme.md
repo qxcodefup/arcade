@@ -1,7 +1,7 @@
 ## L2 - Fila do RU
 ### Separar Pares e Ímpares
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 [](solver.cpp)
 

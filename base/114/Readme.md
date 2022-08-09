@@ -1,7 +1,7 @@
 ## L3 - MeU WoRd QuEbRoU
 ### Formatação de Case
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

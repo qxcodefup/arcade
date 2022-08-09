@@ -1,6 +1,6 @@
 ## L3 - Conta Dígitos 🎥💎
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 [🎥 Explicação](https://youtu.be/1zT-Y0Zb1K0)
 

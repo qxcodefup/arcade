@@ -1,7 +1,7 @@
 ## L3 - Arca: Quantos casais
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

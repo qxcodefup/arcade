@@ -1,7 +1,7 @@
 ## L2 - Fiquei de final
 
 [](solver.c)
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Descrição
 Use o pseudocódigo a seguir para implementar o algoritmo de calcular nota e decidir se você ficou aprovado, reprovado, aprovado na final ou reprovado na final.

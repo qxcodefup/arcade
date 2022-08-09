@@ -1,7 +1,7 @@
 ## L3 - Identificando Ultrons V2
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

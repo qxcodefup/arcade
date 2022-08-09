@@ -1,7 +1,7 @@
 ## L3 - Jack Sparrow e o Beijinho
 ### Alternar Case
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

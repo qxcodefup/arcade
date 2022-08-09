@@ -1,6 +1,6 @@
 ## L2 - Ladrão de Goiabas
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

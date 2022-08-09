@@ -1,6 +1,6 @@
 ## L2 - Linha de inteiros 🎥💎
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 [Explicação](https://youtu.be/r44oGh6gVU0)
 

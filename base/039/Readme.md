@@ -1,7 +1,7 @@
 ## L2 - Mercantil V2 - Maior ou Menor
 
 [](solver.c)
-![Silvio Santos](__capa.jpg)
+![Silvio Santos]( __cover.jpg)
 
 ## Descrição
 

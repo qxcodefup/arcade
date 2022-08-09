@@ -1,7 +1,7 @@
 ## L2 - Quiz do Harry Potter
 
 [](solver.c)
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Descrição
 

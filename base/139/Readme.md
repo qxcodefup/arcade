@@ -1,7 +1,7 @@
 ## L4 - A Porta Matemática
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 Motivação
 ---------

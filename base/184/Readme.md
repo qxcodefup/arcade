@@ -1,7 +1,7 @@
 ## L3 - Secundaristas
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 Cuidado: Baseado em fatos reais!
 

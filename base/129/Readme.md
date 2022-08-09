@@ -1,7 +1,7 @@
 ## L3 - Campo Minado
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

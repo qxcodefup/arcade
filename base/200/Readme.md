@@ -1,6 +1,6 @@
 # L2 - Vacina
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 by @wladmir
 

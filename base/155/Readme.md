@@ -1,6 +1,6 @@
 ## L1 - Plantação de Morangos 💎
 ### OBI 2016 - Fase1 - Nível 1
-![](__capa.jpg)
+![]( __cover.jpg)
 [](solver.c)
 
 ## Motivação

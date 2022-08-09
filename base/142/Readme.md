@@ -1,7 +1,7 @@
 ## L2 - Vetor de strings com variados tamanhos
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Ação
 

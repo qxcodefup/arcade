@@ -1,7 +1,7 @@
 ## L3 - Jogo da vida
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

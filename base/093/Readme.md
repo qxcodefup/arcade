@@ -1,7 +1,7 @@
 ## L2 - Gritando em Caixa Alta
 ### Invertendo o Case da frase!
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

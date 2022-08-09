@@ -1,7 +1,7 @@
 ## L2 - Valdiskley e a cifra V2!
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

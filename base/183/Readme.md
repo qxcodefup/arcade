@@ -1,7 +1,7 @@
 ## L2 - Criança ou Múmia
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escreva:
 

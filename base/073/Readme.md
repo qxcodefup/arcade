@@ -1,7 +1,7 @@
 ## L2 - Batida Policial
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

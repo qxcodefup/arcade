@@ -1,7 +1,7 @@
 ## L3 - Prof Muquirana - Busca máximo por critério
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

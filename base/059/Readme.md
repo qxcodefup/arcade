@@ -1,7 +1,7 @@
 ## L3 - Sapinho 2 morrendo no poço
 
 
-![sapinho](__capa.jpg)
+![sapinho]( __cover.jpg)
 
 ## Motivação
 

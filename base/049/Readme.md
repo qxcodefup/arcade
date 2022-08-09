@@ -1,7 +1,7 @@
 ## L2 - Sapinho 1 no Poço
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

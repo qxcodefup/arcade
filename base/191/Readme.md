@@ -1,5 +1,7 @@
 ## L2 - Coluna de Valor Maior
 
+![](__cover.jpg)
+
 ## Motivação
 
 Ygor está trabalhando em sua matriz nesse exato momento! Ele quer saber qual coluna tem seu valor maior, o valor de uma coluna é dado pela soma dos quadrados(n²) dos elementos dessa coluna, Ygor quer saber qual coluna da sua matriz possui o valor maior.

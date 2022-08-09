@@ -1,7 +1,7 @@
 ## L3 - Mercantil V3 - Muitas rodadas
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

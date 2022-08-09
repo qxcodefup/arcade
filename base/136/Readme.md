@@ -1,7 +1,7 @@
 ## L2 - Trilhas Easy- OBI 2005
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 [](t.tio)
 ## Motivação
 

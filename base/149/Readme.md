@@ -1,7 +1,7 @@
 ## L1 - Operações
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

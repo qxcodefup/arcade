@@ -1,7 +1,7 @@
 ## L2 - Primo 💎
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Ação
 

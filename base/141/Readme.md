@@ -1,7 +1,7 @@
 ## L2 - Números de Fibonacci
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

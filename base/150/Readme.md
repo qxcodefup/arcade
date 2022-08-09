@@ -1,7 +1,7 @@
 ## L2 - Soma de matrizes
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Ação
 

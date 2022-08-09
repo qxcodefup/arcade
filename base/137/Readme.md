@@ -1,8 +1,8 @@
-## #repeticao L2 - Fatoração
+## L2 - Fatoração
 
 ### Fatore um numero
 
-![](capa.png)
+![](__cover.jpg)
 
 Motivação
 ---------

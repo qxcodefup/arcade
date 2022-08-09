@@ -1,7 +1,7 @@
 ## L3 - Perto do médico
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 ![](solver.cpp)
 
 ## Motivação

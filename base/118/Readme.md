@@ -1,7 +1,7 @@
 ## L3 - Aniquilando Ultrons V3
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Ação
 

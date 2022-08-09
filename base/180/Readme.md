@@ -1,7 +1,7 @@
 ## L2 - Guerra Civil no Universo Marvel
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

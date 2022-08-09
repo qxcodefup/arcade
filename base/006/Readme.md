@@ -1,6 +1,6 @@
 ## L3 - Zerinho ou um americano - Decifrando a fórmula
 [](solver.c)
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

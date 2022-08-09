@@ -1,7 +1,7 @@
 ## L2 - Jogo do Avesso
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

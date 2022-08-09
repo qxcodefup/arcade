@@ -1,7 +1,7 @@
 ## L3 - Mete bala
 [](solver.c)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/004/__capa.jpg)
+![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/004/ __cover.jpg)
 
 ## Motivação
 

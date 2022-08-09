@@ -1,6 +1,6 @@
 ## L1 - Contagem
 
-![](__capa.jpg)
+![]( __cover.jpg)
 [](t.tio)
 ## Motivação
 

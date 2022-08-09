@@ -1,7 +1,7 @@
 ## L3 - Abastecimento de água
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

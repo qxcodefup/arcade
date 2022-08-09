@@ -1,7 +1,7 @@
 ## L3 - Separe Pneumatocito - Separação de Palavras!
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

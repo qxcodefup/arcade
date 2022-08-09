@@ -17,8 +17,8 @@ int main()
    while(participantes || rodadas) { /* Termina quando ambos forem 0 */
       printf("Teste %d\n", ++teste);
 
-      for(i=0;i<participantes;i++) scanf("%d",&(part[i])); /* Le posicao dos 
-                                                              participantes */
+      for(i=0;i<participantes;i++) 
+         scanf("%d",&(part[i])); /* Le posicao dos   participantes */
 
       for(i=0;i<rodadas;i++)
       {
@@ -31,10 +31,12 @@ int main()
             scanf("%d",&acao);
 
             /* Participante acertou - Passa para o proximo */
-            if(acao == ordem) posacao++;
-
+            if(acao == ordem)
+               posacao++;
             /* Participante errou - Elimina o participante */
-            else for(k=posacao+1;k<npart;k++) part[k-1]=part[k];
+            else 
+               for(k=posacao+1;k<npart;k++) 
+               part[k-1]=part[k];
          }
       }
 

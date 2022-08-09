@@ -1,7 +1,7 @@
 ## L3 - Valdiskley e a Cifra v3!
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

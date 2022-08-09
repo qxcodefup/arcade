@@ -1,7 +1,7 @@
 ## L2 - Subdiagonais
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

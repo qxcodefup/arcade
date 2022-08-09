@@ -1,7 +1,7 @@
 ## L2 - Mercantil V1 - Quem chega mais perto
 
 [](solver.c)
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Descrição
 

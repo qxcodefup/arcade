@@ -1,7 +1,7 @@
 ## L2 - Spok Palíndromo
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

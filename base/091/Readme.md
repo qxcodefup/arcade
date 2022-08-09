@@ -1,7 +1,7 @@
 ## L2 - MMC
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Ação
 

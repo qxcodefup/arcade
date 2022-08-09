@@ -1,7 +1,7 @@
 ## L3 - Arca: Exemplares
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L2 - Função que retorna vários valores por referência
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

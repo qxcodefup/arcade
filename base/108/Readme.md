@@ -1,7 +1,7 @@
 ## L3 - Identificando elementos
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Ação
 

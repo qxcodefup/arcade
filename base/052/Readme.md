@@ -1,7 +1,7 @@
 ## L3 - Sopa de coelho?
 
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 

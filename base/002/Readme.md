@@ -1,7 +1,7 @@
 ## L2 - Pintando a casa 🎥💎
 [](solver.c)
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 [Explicação](https://youtu.be/nlgT_jAtmy4)
 

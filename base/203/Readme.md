@@ -1,5 +1,7 @@
 ## L1 - Cláusulas de guarda
 
+![](__cover.jpg)
+
 Essa questão foi extraída do seguinte vídeo. O objetivo é simplificar testes de if else pensando nas negações.
 
 Para fazer acessar a informação desejada você precisa estar conectado no wifi, fazer login e acessar como admin. Caso qualquer dessas operações não seja verdadeira, você deve emitir uma mensagem de erro exatamente nessa ordem. Caso todas sejam corretas avise que houve sucesso.

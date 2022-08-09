@@ -1,7 +1,7 @@
 ## L3 - Gansos Gamados
 ### Verificar ordenação da frase
 
-![](__capa.jpg)
+![]( __cover.jpg)
 
 ## Motivação
 
