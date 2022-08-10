@@ -1,5 +1,5 @@
 ## L2 - Fatores de um número
-![](__cover.jpg)
+![](cover.jpg)
 
 ## Ação
 Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na fatoração.

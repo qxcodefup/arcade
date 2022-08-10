@@ -1,7 +1,7 @@
 ## L1 - Positivo, Nulo ou Negativo?
 
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

@@ -2,7 +2,7 @@
 
 
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

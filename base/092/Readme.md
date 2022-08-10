@@ -1,7 +1,7 @@
 ## L1 - LP da Xura - Inverter String!
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

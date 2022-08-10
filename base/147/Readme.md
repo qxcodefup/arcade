@@ -1,7 +1,7 @@
 ## L1 - Duelo
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

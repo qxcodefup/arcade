@@ -1,7 +1,7 @@
 ## L2 - Bolada na fuça
 
 
-![Resultado de imagem para haikyuu]( __cover.jpg)
+![Resultado de imagem para haikyuu]( cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L3 - Blackjack 21!
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 ## Motivação
 
 Faça um programa que conte o valor de uma mão de blackjack.  

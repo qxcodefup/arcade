@@ -1,7 +1,7 @@
 ## L1 - Calça apertada
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

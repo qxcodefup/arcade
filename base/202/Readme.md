@@ -1,6 +1,6 @@
 # L2 - Ponto perto
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 Considere o seguinte tipo de registro que deve ser usado em seu programa:
 

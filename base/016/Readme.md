@@ -1,7 +1,7 @@
 ## L2 - Volta de 360 graus - Retirando os loops
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

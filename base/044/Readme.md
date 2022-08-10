@@ -1,6 +1,6 @@
 ## L3 - Soma de vários números.
 
-![](__cover.jpg)
+![](cover.jpg)
 [](solver.py)
 
 ## Ação

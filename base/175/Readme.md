@@ -1,7 +1,7 @@
 ## L3 - Separando a partir de tokens
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Ação
 

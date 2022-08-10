@@ -1,7 +1,7 @@
 ## L3 - Batráquios
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

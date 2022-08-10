@@ -1,6 +1,6 @@
 ## L1 - Operações básicas
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Ação
 
@@ -16,6 +16,7 @@ Leia dois números e imprima a soma, a subtração, a multiplicação, a divisã
 
 * Valor da divisão deve ser em ponto flutuante de duas casas decimais.
 * O valor de B nunca será 0, então não se preocupe com divisão por 0.
+
 
 ## Exemplos
 

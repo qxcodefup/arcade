@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@193 L2 - Dominó - OBI 2019 F1PJ</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="/tmp/tmp4vi1xo1b.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="l2---dominó---obi-2019-f1pj"><span class="citation"
+data-cites="193">@193</span> L2 - Dominó - OBI 2019 F1PJ</h2>
+<p><a
+href="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/193/solver.c"></a>
+<img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/193/cover.jpg" /></p>
+<p>O jogo de dominó tradicional, conhecido como duplo-6, possui 28
+peças. Cada peça está dividida em dois quadrados e dentro de cada
+quadrado há entre 0 e 6 círculos. O jogo é chamado de duplo-6 justamente
+porque esse é o maior número de círculos que aparece num quadrado de uma
+peça. A figura ao lado mostra uma forma de organizar as 28 peças do jogo
+duplo-6 em 7 linhas. Essa figura permite ver claramente quantas peças
+haveria num jogo de dominó, por exemplo, do tipo duplo-4: seriam todas
+as peças das 5 primeiras linhas,15 peças no total. Também poderíamos
+ver, seguindo o padrão da figura, quantas peças possui o jogo de dominó
+conhecido como mexicano, que é o duplo-12. Seriam 91 peças,
+correspondendo a 13 linhas.</p>
+<p><img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/193/image.png" /></p>
+<p>Para a nossa sorte, existe uma fórmula com a qual podemos calcular
+facilmente o número de peças de um jogo do tipo duplo-N, para um número
+N natural qualquer: ((N+1)*(N+2))/2. Neste problema,estamos precisando
+da sua ajuda para escrever um programa que, dado o valor N, use esta
+fórmula para calcular e imprimir quantas peças existem num jogo de
+dominó do tipo duplo-N.</p>
+<ul>
+<li>Entrada
+<ul>
+<li>A primeira linha da entrada contém um número natural N representando
+o tipo do jogo de dominó: duplo-N.</li>
+</ul></li>
+<li>Saída
+<ul>
+<li>Seu programa deve imprimir uma linha contendo um número natural
+representando quantas peças existem num jogo de dominó do tipo
+duplo-N.</li>
+</ul></li>
+</ul>
+<h2 id="exemplo">Exemplo</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+6
+========
+28
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+12
+========
+91
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+</code></pre>
+</body>
+</html>

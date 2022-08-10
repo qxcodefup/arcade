@@ -1,7 +1,7 @@
 ## L1 - Maiúsculo, Minusculo e Dígito!
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@157 L1 - Frota de Táxi - OBI 2005</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="/tmp/tmpc546tlpc.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="l1---frota-de-táxi---obi-2005"><span class="citation"
+data-cites="157">@157</span> L1 - Frota de Táxi - OBI 2005</h2>
+<p><a
+href="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/157/solver.c"></a>
+<img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/157/cover.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>A Companhia de Táxi Tabajara (CTT) é uma das maiores empresas de
+transporte do paı́s. Possui uma<br />
+vasta frota de carros e opera em todas as grandes cidades. Recentemente
+a CTT modernizou a sua<br />
+frota, adquirindo um lote de 500 carros bi-combustı́veis (carros que
+podem utilizar como combustı́vel<br />
+tanto álcool quanto gasolina). Além do maior conforto para os
+passageiros e o menor gasto com<br />
+manutenção, com os novos carros é possı́vel uma redução adicional de
+custo: como o preço da gasolina<br />
+está sujeito a variações muito bruscas e pode ser vantagem, em certos
+momentos, utilizar álcool como<br />
+combustı́vel. Entretanto, os carros possuem um melhor desempenho
+utilizando gasolina, ou seja, em<br />
+geral, um carro percorre mais quilômetros por litro de gasolina do que
+por litro de álcool.</p>
+<h2 id="ação">Ação</h2>
+<p>Você deve escrever um programa que, dados o preço do litro de álcool,
+o preço do litro de gasolina e os<br />
+quilômetros por litro que um carro bi-combustı́vel realiza com cada um
+desses combustı́veis, determine<br />
+se é mais econômico abastecer os carros da CTT com álcool ou com
+gasolina. No caso de não haver<br />
+diferença de custo entre abastecer com álcool ou gasolina a CTT prefere
+utilizar gasolina.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>A entrada é composta por uma linha contendo quatro números reais com
+precisão de duas casas<br />
+decimais A, G, Ra e Rg , representando respectivamente o preço por litro
+do álcool, o preço por litro<br />
+da gasolina, o rendimento (km/l) do carro utilizando álcool e o
+rendimento (km/l) do carro utilizando<br />
+gasolina.<br />
+A entrada deve ser lida do dispositivo de entrada padrão (normalmente o
+teclado).</li>
+</ul>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>A saı́da deve ser composta por uma única linha contendo o caractere
+‘A’ se é mais econômico abastecer a frota com álcool ou o caractere ‘G’
+se é mais econômico ou indiferente abastecer a frota com gasolina.<br />
+A saı́da deve ser escrita no dispositivo de saı́da padrão (normalmente a
+tela).</li>
+</ul>
+<h2 id="restrições">Restrições</h2>
+<p>0.01 ≤ A ≤ 10.00<br />
+0.01 ≤ G ≤ 10.00<br />
+0.01 ≤ Ra ≤ 20.00<br />
+0.01 ≤ Rg ≤ 20.00</p>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 01
+1.00 1.00 8.00 8.01
+========
+G
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 02
+10.00 0.01 10.01 0.01
+========
+A
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 03
+2.15 3.17 19.34 18.22
+========
+A
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 04
+3.90 3.80 19.01 19.99
+========
+G
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; 05
+4.15 3.17 16.64 19.22
+========
+G
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+</body>
+</html>

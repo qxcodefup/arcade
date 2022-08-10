@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@018 L2 - Arredondar</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="/tmp/tmphb70430p.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="l2---arredondar"><span class="citation"
+data-cites="018">@018</span> L2 - Arredondar</h2>
+<p><a
+href="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/018/solver.c"></a>
+<img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/018/cover.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Um aluno ficou implorando para o seu professor de FUP arredondar seu
+6.9999999999 para 10 porque ele precisa de um 10 para passar de
+semestre. Seu trabalho é implementar as funções ceil, floor e round para
+ajudar o professor a calcular as notas dos alunos.</p>
+<h2 id="ação">Ação</h2>
+<p>Faça as funções round, ceil e floor. Todas recebem um float e
+retornam um inteiro. <code>ceil</code> sempre arredonda pra cima,
+<code>floor</code> sempre arredonda pra baixo e <code>round</code>
+arredonda pra baixo se a parte fracionada for menor que 0.5 e arredonda
+para cima se a parte fracionaria for maior ou igual a 0.5.</p>
+<p>Protótipos:<br />
+int round(float num); int floor(float num); int ceil(float num);</p>
+<h3 id="entrada">Entrada:</h3>
+<ul>
+<li>Na main leia um char representando a operação (r, f, c) e um
+float.</li>
+</ul>
+<h3 id="saida">Saida</h3>
+<ul>
+<li>imprima um inteiro de acordo com a operação pedida.</li>
+</ul>
+<h3 id="exemplos">Exemplos:</h3>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+c
+5.5
+========
+6
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+f
+6.99
+========
+6
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+c
+6.99
+========
+7
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+r
+5.5
+========
+6
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+r
+5.4
+========
+5
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+</body>
+</html>

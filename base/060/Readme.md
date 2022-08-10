@@ -1,7 +1,7 @@
 ## L1 - Casamento
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

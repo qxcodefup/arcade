@@ -1,7 +1,7 @@
 ## L2 - Angulo Cartesiano
 ### Retirando loops
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L3 - Decompor um inteiro
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

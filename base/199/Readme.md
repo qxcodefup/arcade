@@ -1,6 +1,6 @@
 # L2 - Pizza
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 Davi adora comer pizza. Mas ele está preocupado porque a qualidade da pizza feita pela maioria dos restaurantes em Quixadá está piorando. As últimas pizzas pedidas por ele não estavam tão boas. Davi está com muita fome e quer comer pizza. Mas ele está indeciso sobre o restaurante de onde deveria pedir. Como sempre, ele pede ajuda a Edvadlo.
 

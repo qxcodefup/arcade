@@ -1,6 +1,6 @@
 ## L2 - Comprando TV parcelado
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 
 Aluízio quer comprar uma televisão parcelada. Ele tem X reais por mês disponíveis para pagar a televisão. No parcelamento, quanto mais parcelas, maior o juros que usa a seguinte regra. 

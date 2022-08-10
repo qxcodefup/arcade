@@ -1,7 +1,7 @@
 ## L1 - Frota de Táxi - OBI 2005
 
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

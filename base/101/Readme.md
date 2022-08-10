@@ -1,7 +1,7 @@
 ## L2 - Mostrar cartas
 ### Imprimir vetor formatado
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Ação
 

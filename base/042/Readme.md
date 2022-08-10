@@ -1,6 +1,6 @@
 ## L3 - Chefe Nervoso - OBI 2021
 
-![](__cover.jpg)
+![](cover.jpg)
 
 [](solver.py)
 

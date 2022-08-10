@@ -1,7 +1,7 @@
 ## L1 - Divisão Inteira e Quebrada 💎
 
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

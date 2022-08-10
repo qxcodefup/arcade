@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@194 L2 - Nota cortada - OBI 2019 F1P1</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="/tmp/tmpfjo7eaeh.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="l2---nota-cortada---obi-2019-f1p1"><span class="citation"
+data-cites="194">@194</span> L2 - Nota cortada - OBI 2019 F1P1</h2>
+<p><a
+href="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/194/solver.cpp"></a></p>
+<p><img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/194/cover.jpg" /></p>
+<p>Se pegarmos uma nota de 100 reais e a cortarmos, usando uma tesoura,
+em dois pedaços, quanto vale cada um dos pedaços? A regra é simples: se
+um dos pedaços possuir estritamente mais da metade da área da nota
+original, então ele vale 100 reais; e o outro pedaço não vale nada.</p>
+<p>Veja que se cada pedaço possuir exatamente metade da área original,
+então nenhum dos dois tem valor. Felix e Marzia decidiram fazer um
+corte, em linha reta, que comece no lado inferior da nota, a base, e
+termine no lado superior, o topo.</p>
+<p>A nota é um retângulo de comprimento 160 centímetros e altura 70
+centímetros, como mostrado na parte esquerda da figura abaixo. Felix
+sempre vai ficar com o pedaço mais à esquerda da nota e Marzia com o
+pedaço mais à direita.</p>
+<p>A parte direita da figura ilustra dois possíveis cortes. No de cima,
+Marzia ficaria claramente com o maior pedaço, que vale 100 reais; e no
+de baixo, dá para ver que Felix é quem ficaria com o maior pedaço.</p>
+<p><img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/194/figura.png" /></p>
+<p>O corte reto vai começar na base a uma distância de B centímetros a
+partir do lado esquerdo da nota; e terminar no topo a uma distância de T
+centímetros também a partir do lado esquerdo da nota. Veja a indicação
+na parte direita da figura. Neste problema, dados os valores B e T, seu
+programa deve computar quem vai ficar com o pedaço que vale 100 reais,
+ou se o valor da nota se perdeu.</p>
+<ul>
+<li>Entrada
+<ul>
+<li>A primeira linha da entrada contém um inteiro B representando a
+distância do ponto inicial do corte, na base, para o lado esquerdo da
+nota.</li>
+<li>A segunda linha da entrada contém um inteiro T representando a
+distância do ponto final do corte, no topo, para o lado esquerdo da
+nota.</li>
+</ul></li>
+<li>Saída
+<ul>
+<li>Seu programa deve imprimir uma linha contendo um número inteiro:
+<ul>
+<li>1, se Felix ficou com o pedaço que vale 100 reais;</li>
+<li>2, se Marzia ficou com o pedaço que vale 100 reais; ou</li>
+<li>0, se o valor da nota se perdeu.</li>
+</ul></li>
+</ul></li>
+</ul>
+<h2 id="testes">Testes</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+50
+86
+========
+2
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+70
+90
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+130
+138
+========
+1
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+</code></pre>
+</body>
+</html>

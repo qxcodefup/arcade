@@ -1,6 +1,6 @@
 ## L2 - Game 10 - OBI 2017 - Fase 1 - Universitário
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 [](solver.c)
 ## Motivaçao

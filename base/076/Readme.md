@@ -1,7 +1,7 @@
 ## L3 - O segredo do Cofre - OBI 2017
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

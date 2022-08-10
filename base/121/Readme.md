@@ -1,7 +1,7 @@
 ## L3 - Mário e o Assassins Creed
 ### Lendo cenário
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

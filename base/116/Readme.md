@@ -1,7 +1,7 @@
 ## L3 - Roda Roda Jequiti
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

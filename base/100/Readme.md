@@ -1,6 +1,6 @@
 ## L3 - Pião perto da linha
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

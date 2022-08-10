@@ -2,7 +2,7 @@
 
 ### Fatore um numero
 
-![](__cover.jpg)
+![](cover.jpg)
 
 Motivação
 ---------

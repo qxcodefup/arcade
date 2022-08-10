@@ -1,7 +1,7 @@
 ## L2 - Próximo segundo
 
 [](solver.c)
-![ponteiros de um relógio]( __cover.jpg)
+![ponteiros de um relógio]( cover.jpg)
 
 ## Motivação
 

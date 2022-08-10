@@ -1,7 +1,7 @@
 ## L3 - Conversa de Traficantes
 ### Substituições de substrings
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

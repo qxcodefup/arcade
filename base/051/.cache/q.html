@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@051 L3 - Pedra na lua</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="/tmp/tmpu2598bzh.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="l3---pedra-na-lua"><span class="citation"
+data-cites="051">@051</span> L3 - Pedra na lua</h2>
+<p><img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/051/cover.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Vários competidores disputaram uma competição interessante.</p>
+<ul>
+<li>Eles tinham duas pedras para lançar.</li>
+<li>Chamemos de pedra A e pedra B.</li>
+<li>Eles tinham que arremessar ambas as pedras a pelo menos 10 metros de
+distância.</li>
+<li>Se alguma das pedras caíssem abaixo de 10 metros, ele estaria
+desclassificado.</li>
+<li>A pontuação obtida é dada pela distância absoluta entre as pedras.
+Se uma pedra caiu a 12 metros e outra a 15 metros, ele fez 3
+pontos.</li>
+<li>Ganha o competidor que faz menos pontos.</li>
+<li>O primeiro competidor tem número índice 0.</li>
+<li>Se houver empate nos pontos, ganha o competidor que tem menor
+índice.</li>
+</ul>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li><p>O número N de competidores.</p></li>
+<li><p>Distância das pedras A e B de cada competidor.</p></li>
+</ul>
+<h3 id="saida">Saida</h3>
+<ul>
+<li>Se ninguém ganhar o jogo, porque todos foram desclassificados,
+imprima “sem ganhador”.</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+2
+8 11
+10 15
+========
+1
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3
+9 12
+11 13
+10 11
+========
+2
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+3
+12 15
+16 14
+10 9
+========
+1
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+4
+12 15
+20 23
+10 9
+35 35
+========
+3
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+</code></pre>
+</body>
+</html>

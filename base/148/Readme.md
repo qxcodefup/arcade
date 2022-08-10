@@ -1,7 +1,7 @@
 ## L1 - Expressão
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

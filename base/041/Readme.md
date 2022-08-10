@@ -1,6 +1,6 @@
 ## L3 - Criptografia
 
-![](__cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 Yara quer desvendar um enigma, diga-se de passagem é bem enigmático!!!

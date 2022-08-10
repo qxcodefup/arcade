@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@195 L2 - Xadrez OBI 2019 F1P1</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="/tmp/tmpbnkwuqhd.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="l2---xadrez-obi-2019-f1p1"><span class="citation"
+data-cites="195">@195</span> L2 - Xadrez OBI 2019 F1P1</h2>
+<p><a
+href="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/195/solver.c"></a></p>
+<p>No tabuleiro de xadrez, a casa na linha 1, coluna 1 (canto superior
+esquerdo) é sempre branca e as cores das casas se alternam entre branca
+e preta, de acordo com o padrão conhecido como… xadrez! Dessa forma,
+como o tabuleiro tradicional tem oito linhas e oito colunas, a casa na
+linha 8, coluna 8 (canto inferior direito) será também branca. Neste
+problema, entretanto, queremos saber a cor da casa no canto inferior
+direito de um tabuleiro com dimensões quaisquer: L linhas e C colunas.
+No exemplo da figura, para L = 6 e C = 9, a casa no canto inferior
+direito será preta!</p>
+<p><img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/195/image.png" /></p>
+<ul>
+<li>Entrada
+<ul>
+<li>A primeira linha da entrada contém um inteiro L indicando o número
+de linhas do tabuleiro.</li>
+<li>A segunda linha da entrada contém um inteiro C representando o
+número de colunas.</li>
+</ul></li>
+<li>Saída
+<ul>
+<li>Imprima uma linha na saída. A linha deve conter um inteiro,
+representando a cor da casa no canto inferior direito do tabuleiro:
+<ul>
+<li>1, se for branca; e</li>
+<li>0, se for preta.</li>
+</ul></li>
+</ul></li>
+</ul>
+<h2 id="testes">Testes</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+6
+9
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+8
+8
+========
+1
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+5
+91
+========
+1
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+401
+322
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+</body>
+</html>

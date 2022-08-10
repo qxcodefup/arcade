@@ -1,7 +1,7 @@
 ## L2 - Mediana
 
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

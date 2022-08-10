@@ -1,7 +1,7 @@
 ## L2 - Invertendo vetor
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

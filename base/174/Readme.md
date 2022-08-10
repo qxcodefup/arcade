@@ -1,7 +1,7 @@
 ## L1 - Valdiskey e a cifra V1!
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

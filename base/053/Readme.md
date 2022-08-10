@@ -7,7 +7,7 @@ O helicóptero e o policial ficam sempre parados. O objetivo do fugitivo é cheg
 
 Neste problema, dadas as posições do helicóptero, do policial e do fugitivo, e a direção em que o fugitivo decide correr, seu programa deve dizer se ele vai ou não conseguir fugir! Na figura, se o fugitivo decidir correr na direção horária, ele consegue fugir; se decidir correr na direção anti-horária, ele vai ser preso antes de chegar no helicóptero!
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ### Entrada
 

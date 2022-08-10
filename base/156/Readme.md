@@ -1,7 +1,7 @@
 ## L2 - Jogo de par ou ímpar - OBI 2016 - F1P1
 
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

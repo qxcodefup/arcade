@@ -1,7 +1,7 @@
 ## L1 - Quantos são iguais?
 
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

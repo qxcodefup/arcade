@@ -1,7 +1,7 @@
 ## L2 - Somando numeros
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Ação
 

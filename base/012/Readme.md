@@ -1,7 +1,7 @@
 ## L2 - Deu a louca no Imperador!
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

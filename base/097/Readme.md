@@ -1,7 +1,7 @@
 ## L2 - Gagueira V1 - Duplicar Palavras
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

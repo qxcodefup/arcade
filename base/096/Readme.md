@@ -1,7 +1,7 @@
 ## L2 - Contar Leds
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

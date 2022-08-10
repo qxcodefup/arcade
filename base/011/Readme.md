@@ -1,6 +1,6 @@
 ## L2 - Formatando data
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

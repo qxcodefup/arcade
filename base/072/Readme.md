@@ -1,7 +1,7 @@
 ## L2 - Soldados PMG!
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

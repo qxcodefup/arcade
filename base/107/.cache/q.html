@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@107 L3 - Valdiskley e a Cifra v3\!</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="/tmp/tmpvn6ya026.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="l3---valdiskley-e-a-cifra-v3"><span class="citation"
+data-cites="107">@107</span> L3 - Valdiskley e a Cifra v3!</h2>
+<p><img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/107/cover.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>No capítulo 3 da saga de Valdiskey você vai escrever o algoritmo que
+faz a criptografia e descriptografia. Valentina aceitou o namoro e vai
+usar o seu código para ler o conteúdo das cartinhas de amor de
+Valdiskley. Se você quiser pesquisar o nome dessa cifra é cifra de
+Vigenere.</p>
+<p><a
+href="http://pt.wikipedia.org/wiki/Cifra_de_Vigen%C3%A8re">http://pt.wikipedia.org/wiki/Cifra_de_Vigen%C3%A8re</a></p>
+<h2 id="ação">Ação</h2>
+<p>Primeiro a criptografia:</p>
+<p>Dado um texto claro e uma chave você deve:<br />
+1 - Repetir a chave até que ela tenha o mesmo tamanho do texto claro. No
+caso abaixo, repetimos a palavra princesa até completar a frase.<br />
+2 - Você soma os caracteres 2 a 2 como aprendeu a fazer no segundo
+capítulo da história de Valdiskley. Ignore a pontuação e opere apenas as
+letras.</p>
+<p>Exemplo 1: chave: “abac”<br />
+texto: batata? sim! Frita!!<br />
+senha: abacab aca bacab<br />
+saida: bbtctb? skm! Grktb!!</p>
+<p>Exemplo 2:<br />
+chave: “princesa”<br />
+texto: “quando vi voce eu buguei”<br />
+senha: “prince sa prin ce saprin”<br />
+saida: “fliafs ni kfkr gy tuvlmv”</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>A frase a ser operada, apenas caracteres minúsculos e
+pontuação.</li>
+<li>A palavra chave, apenas caracteres minúsculos e sem espaços ou
+pontuação.</li>
+<li>A operação de ‘+’ para cifrar ou ‘-’ para descifrar.</li>
+</ul>
+<p>A operação de descifrar é o contrário da cifragem.</p>
+<h3 id="saída">Saída</h3>
+<ul>
+<li>O resultado da operação.</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+batata? sim! frita!!
+abac
++
+========
+bbtctb? skm! grktb!!
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+quando vi voce eu buguei
+princesa
++
+========
+fliafs ni kfkr gy tuvlmv
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+a data ua bbfrua
+ab
+-
+========
+a casa ta aberta
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+</body>
+</html>

@@ -1,7 +1,7 @@
 ## L3 - Máquina de Datilografar Quebrada
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

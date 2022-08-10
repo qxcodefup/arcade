@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@200 L2 - Vacina</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="/tmp/tmpjptoq9c6.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="l2---vacina"><span class="citation" data-cites="200">@200</span>
+L2 - Vacina</h2>
+<p><img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/200/cover.jpg" /></p>
+<p>by <span class="citation" data-cites="wladmir">@wladmir</span></p>
+<p>Um novo vírus mortal infectando grande população de um planeta. Um
+brilhante cientista chamado Wladimir descobriu uma nova cepa de vírus
+que pode curar esta doença. A vacina produzida a partir desse vírus tem
+várias potências dependendo da contagem de células T. Uma pessoa é
+curada somente se a contagem de células T no lote da vacina for maior do
+que a contagem de células T em uma pessoa. Um médico recebe um novo
+conjunto de relatórios que contém a contagem de células T de cada
+paciente infectado, o laboratório QuixaVax armazena todas as vacinas que
+o médico possui e sua contagem de células T. Você precisa determinar se
+o médico pode salvar todos os pacientes com as vacinas que possui. O
+número de vacinas e pacientes são iguais.</p>
+<h2 id="entrada">Entrada</h2>
+<p>A primeira linha contém o número de vacinas N.</p>
+<p>A segunda linha contém N inteiros, representando a força das vacinas.
+A terceira linha contém N inteiros, que são a contagem média dos
+pacientes.</p>
+<h2 id="saída">Saída</h2>
+<p>Imprima uma única linha contendo Yes, se todos os pacientes podem ser
+salvos e No, caso contrário.</p>
+<p>A força das vacinas e a contagem de células T de pacientes cabem em
+um número inteiro.</p>
+<p><strong>Exemplo de entrada</strong></p>
+<pre><code>5
+123 146 454 542 456
+100 328 248 689 200</code></pre>
+<p><strong>Exemplo de Saída</strong></p>
+<pre><code>No</code></pre>
+<blockquote>
+<p><strong>Explicação</strong>:</p>
+<p>A vacina 1 (contagem 123) cura o paciente 1 (contagem 100).</p>
+<p>A vacina 2 (contagem 146) não cura nenhum outro.</p>
+</blockquote>
+<p><strong>Exemplo de entrada</strong></p>
+<pre><code>5
+123 690 454 150 456
+100 328 248 689 145</code></pre>
+<p><strong>Exemplo de Saída</strong></p>
+<pre><code>Yes</code></pre>
+<blockquote>
+<p><strong>Explicação</strong>:</p>
+<p>A vacina 1 (contagem 123) cura o paciente 1 (contagem 100).</p>
+<p>A vacina 2 (contagem 690) cura o paciente 4.</p>
+<p>A vacina 3 (contagem 454) cura o paciente 2.</p>
+<p>A vacina 4 (contagem 150) cura o paciente 5.</p>
+<p>A vacina 5 (contagem 150) cura o paciente 3.</p>
+</blockquote>
+</body>
+</html>

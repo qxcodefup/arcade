@@ -2,7 +2,7 @@
 ### Juntar palavras
 
 ![](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

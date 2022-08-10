@@ -1,7 +1,7 @@
 ## L3 - Bolinhas viciadas
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

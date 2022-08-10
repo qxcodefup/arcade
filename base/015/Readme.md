@@ -1,7 +1,7 @@
 ## L1 - Calculadora Numérica 💎
 
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ### Motivação
 

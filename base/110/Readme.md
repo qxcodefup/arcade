@@ -1,7 +1,7 @@
 ## L2 - Organizando Ru - Homens e Mulheres!
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

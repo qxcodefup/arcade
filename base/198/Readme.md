@@ -1,6 +1,6 @@
 # L1 - Paredes
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 by @wladmir
 

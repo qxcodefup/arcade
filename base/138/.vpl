@@ -1,0 +1,53 @@
+case=Teste 0
+input=333 3333
+output="False
+"
+grade reduction=100%
+
+case=Teste 1
+input=123 321
+output="True
+"
+grade reduction=100%
+
+case=Teste 2
+input=456 465
+output="True
+"
+grade reduction=100%
+
+case=Teste 3
+input=44463 364445
+output="False
+"
+grade reduction=100%
+
+case=Teste 4
+input=555222 252525
+output="True
+"
+grade reduction=100%
+
+case=Teste 5
+input=4454654 456482
+output="False
+"
+grade reduction=100%
+
+case=Teste 6
+input=223 23
+output="False
+"
+grade reduction=100%
+
+case=Teste 7
+input=15454 45454
+output="False
+"
+grade reduction=100%
+
+case=Teste 8
+input=121 112
+output="True
+"
+grade reduction=100%

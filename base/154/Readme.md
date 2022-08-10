@@ -1,6 +1,6 @@
 ## L3 - Código - OBI 2015 - Fase 2 - Nível Júnior
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

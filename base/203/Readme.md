@@ -1,6 +1,6 @@
 ## L1 - Cláusulas de guarda
 
-![](__cover.jpg)
+![](cover.jpg)
 
 Essa questão foi extraída do seguinte vídeo. O objetivo é simplificar testes de if else pensando nas negações.
 

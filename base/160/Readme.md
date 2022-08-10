@@ -1,6 +1,6 @@
 ## L3 - Somatório de Fibonacci
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

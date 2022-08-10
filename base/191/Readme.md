@@ -1,6 +1,6 @@
 ## L2 - Coluna de Valor Maior
 
-![](__cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

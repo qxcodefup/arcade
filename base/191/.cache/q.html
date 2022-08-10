@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@191 L2 - Coluna de Valor Maior</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="/tmp/tmpaa31xywc.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="l2---coluna-de-valor-maior"><span class="citation"
+data-cites="191">@191</span> L2 - Coluna de Valor Maior</h2>
+<p><img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/191/cover.jpg" /></p>
+<h2 id="motivação">Motivação</h2>
+<p>Ygor está trabalhando em sua matriz nesse exato momento! Ele quer
+saber qual coluna tem seu valor maior, o valor de uma coluna é dado pela
+soma dos quadrados(n²) dos elementos dessa coluna, Ygor quer saber qual
+coluna da sua matriz possui o valor maior.</p>
+<h3 id="exemplo">Exemplo :</h3>
+<pre><code>4 2 2
+3 1 3
+2 0 3</code></pre>
+<p>Na matriz acima, 3x3, onde as linhas são:0,1,2 e as colunas:0,1,2. A
+coluna que possui o seu valor maior é a coluna 0, pois, 4² + 3² + 2² =
+29, que é a maior soma de quadrados dentre as três colunas.</p>
+<h3 id="ação">Ação</h3>
+<p>Dado um inteiro N, e uma matriz (N)X(N), determinar a coluna de valor
+maior.</p>
+<h3 id="entrada">Entrada:</h3>
+<p>1 Inteiro N.</p>
+<p>1 Matriz (N)X(N) de Inteiros.</p>
+<h3 id="saída">Saída:</h3>
+<p>A coluna que possui o valor maior.</p>
+<h3 id="restrições">Restrições:</h3>
+<p>Se existirem duas ou mais colunas (j), que gera o valor maior igual,
+considere a primeira encontrada.</p>
+<h3 id="exemplos">Exemplos</h3>
+<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; Teste 0
+3
+3 4 5
+6 8 9
+0 6 7
+========
+2
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; Teste 1
+3
+-7 8 10
+9 2 5
+6 3 5
+========
+0
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; Teste 2
+5
+3 3 3 3 4
+5 6 4 8 9
+2 2 1 3 7 
+-5 5 4 6 4
+2 3 1 0 8 10
+========
+4
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>
+<h6 id="spinosa"><span class="citation"
+data-cites="spinosa">@spinosa</span></h6>
+</body>
+</html>

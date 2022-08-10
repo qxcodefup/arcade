@@ -1,7 +1,7 @@
 ## L2 - Opala bebedor 🎥💎
 
 [](solver.c)
-![]( __cover.jpg)
+![]( cover.jpg)
 
 [Explicação](https://youtu.be/d0nlVzjtMBE)
 

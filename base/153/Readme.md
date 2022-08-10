@@ -1,7 +1,7 @@
 ## L3 - Torre - OBI 2015 - Fase 2 - Nível 1
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L3 - Matéria e Antimatéia
 ### Colisão entre palavras
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L3 - Tazos
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

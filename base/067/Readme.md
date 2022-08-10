@@ -1,7 +1,7 @@
 ## L2 - Queda de dominós
 
   
-![]( __cover.jpg)
+![]( cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L2 - Castelos de Cubos
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 Zezim da Carroça ganhou bloquinhos de montar do seu pai. Como ele não tinha computador pra jogar Minecraft, resolveu criar construções magníficas com seus bloquinhos de montar. Decidiu organizar vários níveis usando a seguinte lógica:
 

@@ -1,6 +1,6 @@
 # L2 - Retângulo
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 Um retângulo com os lados paralelos aos eixos pode ser descrito por dois pontos `supEsq` e `infDir`. O ponto supEsq representa a coordenada do canto superior esquerdo e o ponto infDir 
 representa a coordenada do canto inferior direito.

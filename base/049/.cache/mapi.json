@@ -1,0 +1,19 @@
+{
+    "title": "@049 L2 - Sapinho 1 no Po\u00e7o",
+    "description": "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"\" xml:lang=\"\">\n<head>\n  <meta charset=\"utf-8\" />\n  <meta name=\"generator\" content=\"pandoc\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, user-scalable=yes\" />\n  <title>@049 L2 - Sapinho 1 no Po\u00e7o</title>\n  <style>\n    code{white-space: pre-wrap;}\n    span.smallcaps{font-variant: small-caps;}\n    span.underline{text-decoration: underline;}\n    div.column{display: inline-block; vertical-align: top; width: 50%;}\n    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}\n    ul.task-list{list-style: none;}\n  </style>\n  <link rel=\"stylesheet\" href=\"/tmp/tmplj1wtlb_.css\" />\n  <!--[if lt IE 9]>\n    <script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js\"></script>\n  <![endif]-->\n</head>\n<body>\n<h2 id=\"l2---sapinho-1-no-po\u00e7o\"><span class=\"citation\"\ndata-cites=\"049\">@049</span> L2 - Sapinho 1 no Po\u00e7o</h2>\n<p><img\nsrc=\"https://raw.githubusercontent.com/qxcodefup/arcade/master/base/049/cover.jpg\" /></p>\n<h2 id=\"motiva\u00e7\u00e3o\">Motiva\u00e7\u00e3o</h2>\n<ul>\n<li>Mam\u00e3e, minha namorada, a Myrellah disse que n\u00e3o vem mais aqui em\ncasa.</li>\n<li>Porqu\u00ea meu filho?</li>\n<li>Porque ela odeia sapo e o quintal t\u00e1 cheio.</li>\n<li>Mas eles comem as muri\u00e7ocas meu filho.</li>\n<li>Mas ela disse, ou eles ou eu.</li>\n<li>Eu escolheria os sapos.</li>\n</ul>\n<p>Mas Zezim da Carro\u00e7a pegou o sapo e jogou no fundo do po\u00e7o. Sabendo\nque o sapinho vai tentar sair do po\u00e7o, use as seguintes regras para\nmostrar os saltos do sapo at\u00e9 a sa\u00edda.</p>\n<ul>\n<li>O sapo come\u00e7a no fundo de um po\u00e7o de profundidade P cm.</li>\n<li>A cada salto ele sobe S cent\u00edmetros.</li>\n<li>Enquanto se recupera para o pr\u00f3ximo salto, ele escorrega E\ncent\u00edmetros.</li>\n</ul>\n<p>Imprima todas as posi\u00e7\u00f5es de aterrissagem dos saltos do sapinho.</p>\n<h3 id=\"entrada\">Entrada</h3>\n<ul>\n<li>P, S, E inteiros, um por linhas. S sempre ser\u00e1 maior que E.</li>\n</ul>\n<h3 id=\"sa\u00edda\">Sa\u00edda</h3>\n<ul>\n<li>as posi\u00e7\u00f5es de salto e aterrissagem do sapinho at\u00e9 que ele saia do\npo\u00e7o.</li>\n</ul>\n<h2 id=\"exemplos\">Exemplos</h2>\n<pre><code>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;\n500\n100\n20\n========\n0 100\n80 180\n160 260\n240 340\n320 420\n400 saiu\n&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;\n\n&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;\n800\n300\n200\n========\n0 300\n100 400\n200 500\n300 600\n400 700\n500 saiu\n&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</code></pre>\n</body>\n</html>\n",
+    "upload": [
+        {
+            "name": "vpl_evaluate.cases",
+            "contents": ">>>>>>>>\n500\n100\n20\n========\n0 100\n80 180\n160 260\n240 340\n320 420\n400 saiu\n<<<<<<<<\n\n>>>>>>>>\n800\n300\n200\n========\n0 300\n100 400\n200 500\n300 600\n400 700\n500 saiu\n<<<<<<<<\n\n>>>>>>>> 03\n100\n80\n10\n========\n0 80\n70 saiu\n<<<<<<<<\n\n>>>>>>>> 04\n800\n300\n50\n========\n0 300\n250 550\n500 saiu\n<<<<<<<<\n\n>>>>>>>> 05\n300\n55\n30\n========\n0 55\n25 80\n50 105\n75 130\n100 155\n125 180\n150 205\n175 230\n200 255\n225 280\n250 saiu\n<<<<<<<<\n",
+            "encoding": 0
+        }
+    ],
+    "keep": [
+        {
+            "name": "main.cpp",
+            "contents": "#include <iostream>\n\nint main() {\n    int prof { }, salto { }, escor { };\n    std::cin >> prof >> salto >> escor;\n    int pos { 0 };\n    while (true) {\n        std::cout << pos;\n        pos += salto;\n        if (pos >= prof) {\n            std::cout << \" saiu\\n\";\n            break;\n        }\n        std::cout << \" \" << pos << \"\\n\";\n        pos -= escor;\n    }\n}",
+            "encoding": 0
+        }
+    ],
+    "required": []
+}

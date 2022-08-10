@@ -1,7 +1,7 @@
 ## L2 - Cabo de Guerra Jedi
 
 
-![]( __cover.jpg)
+![]( cover.jpg)
 
 [](t.tio)
 ## Motivação

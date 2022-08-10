@@ -1,12 +1,4 @@
-Makefile
-makefile
 .vscode
-new
-00xx/
-solver
-t.tio
-t.html
-.links
-board.md
-.vpl
-.html
+solver*
+Solver*
+__*
