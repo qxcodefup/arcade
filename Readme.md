@@ -96,6 +96,7 @@ Conteúdo sugeridos
 ![](base/031/.cache/thumb.jpg) | [@031 L2 - Fiquei de final](base/031/Readme.md)
 ![](base/040/.cache/thumb.jpg) | [@040 L2 - Está Trabalhando ou Não!](base/040/Readme.md)
 ![](base/035/.cache/thumb.jpg) | [@035 L2 - Drone de Entrega - OBI 2017 - Fase 1](base/035/Readme.md)
+![](base/164/.cache/thumb.jpg) | [@164 L2 - Triângulo de varetas](base/164/Readme.md)
 
 ## 04. Selação: Biblioteca Math
 \________________________ | \_______________________________________________
