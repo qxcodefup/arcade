@@ -1,15 +1,8 @@
-rep_build . qxcodefup arcade
+user="qxcodefup"
+repo="arcade"
 
-indexer Readme.md -t .cache/thumb.jpg
+indexer Readme.md -t
 mdpp Readme.md
 mdpp base/* -q
 
-
-
-#copy missing or changed files
-#cp Readme.md ../moodle
-
-#making mirror
-#cd ..
-#mirror arcade moodle qxcodefup moodle
-
+find base -maxdepth 2 -name Readme.md -execdir mapi_def $user $repo {} \;
