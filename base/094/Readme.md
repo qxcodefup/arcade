@@ -1,7 +1,7 @@
 ## L2 - Vogais e Consoantes
 ### Identificação e Montagem
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

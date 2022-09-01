@@ -1,7 +1,7 @@
 ## L3 - Vetor para inteiro
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

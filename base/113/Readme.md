@@ -1,7 +1,7 @@
 ## L3 - Eribelton e a Ascologia V3
 ### Busca do mínimo
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Ação
 

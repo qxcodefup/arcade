@@ -1,6 +1,6 @@
 ## L4 - Permutação Lexograficamente Final de Fichas
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação:
 

@@ -1,7 +1,7 @@
 ## L2 - Arredondar
 
 [](solver.c)
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L3 - Letras Ordenadas
 ### OBI 2015 - Fase 2 - Nível 1
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

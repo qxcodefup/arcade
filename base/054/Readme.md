@@ -1,7 +1,7 @@
 ## L3 - Quebrador de Copos
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

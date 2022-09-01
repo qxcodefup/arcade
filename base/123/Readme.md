@@ -1,7 +1,7 @@
 ## L3 - Sorvete suor casaca chicletes - Letras em Comum!
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

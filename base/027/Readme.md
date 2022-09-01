@@ -1,7 +1,7 @@
 ## L2 - Adedonha 💎
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

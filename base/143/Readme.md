@@ -1,7 +1,7 @@
 ## L1 - Troca de valores de variáveis
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Ação
 

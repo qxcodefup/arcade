@@ -1,7 +1,7 @@
 ## L3 - Campo Minado
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 
@@ -20,7 +20,7 @@ O jogador deve usar essas informações para deduzir em que quadrados próximos 
 
 Dada uma matriz com a posição de cada mina, seu o programa deve preencher o resto do campo (matriz) com números ou com vazios, por exemplo:
 
-  ![1](__q.jpg)
+  ![1](q.jpg)
 
     *-*
     ---
@@ -28,7 +28,7 @@ Dada uma matriz com a posição de cada mina, seu o programa deve preencher o re
 
 ^ Esse é um campo 3x3 que tem duas minas (simbolizadas por \*). Devemos preencher dessa forma:
 
-  ![todos](__q2.jpg)  
+  ![todos](q2.jpg)  
 
     *2*
     121
@@ -102,11 +102,11 @@ Considere ( 1 <=  **n, m **<= 50).
 
 O quadrado amarelo é quem é calculado no momento, e os vermelhos são as minas consideradas no cálculo. 
 
-![ex1](__q3.png)
+![ex1](q3.png)
 
-![ex2](__q4.png)
+![ex2](q4.png)
 
-![ex3](__q5.png)  
+![ex3](q5.png)  
 
 Se ainda tiver dúvidas de como funciona, tente jogar um pouco.
 https://minesweeper.online/pt/new-game

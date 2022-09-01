@@ -1,7 +1,7 @@
 ## L2 - Está Trabalhando ou Não!
 
 [](solver.c)
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 Um funcionário trabalha de segunda a sexta, de 8 até 11:59 e de

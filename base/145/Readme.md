@@ -1,7 +1,7 @@
 ## L2 - Contando ocorrências
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Ação
 

@@ -1,7 +1,7 @@
 ## L1 - Soma dos pares
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

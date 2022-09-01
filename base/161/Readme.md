@@ -1,7 +1,7 @@
 ## L3 - Vivo ou Morto - OBI 2005
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

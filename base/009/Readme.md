@@ -1,6 +1,6 @@
 ## L2 - Imprimir vetor formatado
 
-![]( cover.jpg)
+![](cover.jpg)
 
 Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 

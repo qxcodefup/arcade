@@ -1,7 +1,7 @@
 ## L3 - Identificando elementos
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Ação
 

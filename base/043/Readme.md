@@ -1,7 +1,7 @@
 ## L3 - Horas de sono
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

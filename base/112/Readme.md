@@ -1,7 +1,7 @@
 ## L3 - Rocicleia e o Locioreca - Anagramas!
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

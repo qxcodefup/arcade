@@ -1,7 +1,7 @@
 ## L2 - Soma de elementos de em uma matriz
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

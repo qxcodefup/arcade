@@ -1,7 +1,7 @@
 ## L3 - Professor Bonzinho
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L3 - Botas Trocadas - OBI 2017
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

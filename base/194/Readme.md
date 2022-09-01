@@ -1,7 +1,7 @@
 ## L2 - Nota cortada - OBI 2019 F1P1
 [](solver.cpp)
 
-![]( cover.jpg)
+![](cover.jpg)
 
 Se pegarmos uma nota de 100 reais e a cortarmos, usando uma tesoura, em dois pedaços, quanto vale cada um dos pedaços? A regra é simples: se um dos pedaços possuir estritamente mais da metade da área da nota original, então ele vale 100 reais; e o outro pedaço não vale nada. 
 

@@ -1,7 +1,7 @@
 ## L1 - Ambos Divisíveis
 ### Módulo e operadores lógicos
 [](solver.c)
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

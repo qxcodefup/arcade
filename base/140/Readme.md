@@ -1,7 +1,7 @@
 ## L3 - Contando caracteres recursivamente
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Ação
 

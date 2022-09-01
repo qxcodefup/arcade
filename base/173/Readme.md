@@ -1,7 +1,7 @@
 ## L1 - Eribelton e a Ascologia V1 - Somar Asc
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

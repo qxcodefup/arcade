@@ -1,7 +1,7 @@
 ## L3 - Cabeças vão rolar
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

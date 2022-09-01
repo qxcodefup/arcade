@@ -1,7 +1,7 @@
 ## L3 - Pedra na lua
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

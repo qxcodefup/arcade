@@ -1,6 +1,6 @@
 ## L3 - Devolvendo o troco
 
-![]( cover.jpg)
+![](cover.jpg)
 
 Você precisa fazer um programa que calcule como dar o troco em dinheiro.
 

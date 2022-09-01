@@ -1,7 +1,7 @@
 ## L3 - Campo de Minhocas - OBI 2005
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 
@@ -15,7 +15,7 @@ Os pesquisadores da OBM mantêm um acompanhamento constante do desenvolvimento d
 
 A figura abaixo mostra um mapa da fazenda, mostrando a produtividade estimada de cada uma das células.  
 
-![](__minhocas.jpeg)
+![](minhocas.jpeg)
 
 Um pesquisador da OBM inventou e construiu uma máquina colhedeira de minhocas, e quer testá-la na fazenda.
 

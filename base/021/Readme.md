@@ -1,7 +1,7 @@
 ## L2 - Aumento de Salário
 
 [](solver.c)
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

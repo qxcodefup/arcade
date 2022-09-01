@@ -1,7 +1,7 @@
 ## L3 - Parkour
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L3 - Tetris (Fazendo a peça cair)
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

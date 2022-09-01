@@ -1,7 +1,7 @@
 ## L2 - Teleférico - OBI 2017 - Fase 1
 
 [](solver.c)
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

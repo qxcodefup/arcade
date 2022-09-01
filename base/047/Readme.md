@@ -1,7 +1,7 @@
 ## L2 - Ônibus lotado
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação:
 

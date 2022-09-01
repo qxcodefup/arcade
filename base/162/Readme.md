@@ -1,7 +1,7 @@
 ## L3 - Mini-Poker - OBI2005
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L3 - Amo a Amora meu Amor
 ### Contar Substrings
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

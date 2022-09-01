@@ -1,7 +1,7 @@
 ## L1 - Substring na decoração - Obter Substrings!
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L3 - Nao se bububula - Gagueira V2!
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L2 - Bhaskara
 
 [](solver.c)
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

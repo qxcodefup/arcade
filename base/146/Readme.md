@@ -1,7 +1,7 @@
 ## L3 - Torres de Hanoi
 
 [](solver.c)
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

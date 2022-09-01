@@ -1,6 +1,6 @@
 ## L1 - Operações básicas
 [](solver.c)
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Ação
 

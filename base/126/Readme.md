@@ -1,7 +1,7 @@
 ## L2 - Crushômetro
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

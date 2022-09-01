@@ -1,7 +1,7 @@
 ## L3 - Senhas
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

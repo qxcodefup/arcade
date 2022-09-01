@@ -1,7 +1,7 @@
 ## L2 - Meu cachorro comeu minha tarefa
 ### Retirar espaços
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

@@ -1,7 +1,7 @@
 ## L2 - Avestruz com Alcaparras
 ### Contar Maiusculas e Minusculas!
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

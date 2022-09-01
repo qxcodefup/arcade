@@ -1,7 +1,7 @@
 ## L3 - Jason e Krueguer
 ### Busca de maior ocorrencia
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

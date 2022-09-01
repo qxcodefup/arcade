@@ -1,7 +1,7 @@
 ## L2 - Revolta em Portugal
 
 
-![]( cover.jpg)
+![](cover.jpg)
 [](t.tio)
 ## Motivação
 

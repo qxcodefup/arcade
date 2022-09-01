@@ -1,7 +1,7 @@
 ## L3 - Morre o do meio
 
 [](solver.c)
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

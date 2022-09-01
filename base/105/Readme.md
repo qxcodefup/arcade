@@ -1,7 +1,7 @@
 ## L3 - Valdiskley e cifras históricas!
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

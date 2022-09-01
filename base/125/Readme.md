@@ -1,7 +1,7 @@
 ## L2 - Numerão Divisível por 11
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

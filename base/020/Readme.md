@@ -1,7 +1,7 @@
 ## L2 - Zerinho ou Um!
 
 [](solver.c)
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

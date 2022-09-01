@@ -1,7 +1,7 @@
 ## L2 - Mega Jokenpo!
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

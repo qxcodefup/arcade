@@ -1,7 +1,7 @@
 ## L2 - Matriz Simétrica
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

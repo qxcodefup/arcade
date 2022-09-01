@@ -1,7 +1,7 @@
 ## L2 - Quadrado Mágico
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

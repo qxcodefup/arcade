@@ -1,7 +1,7 @@
 ## L2 - Volta de 360 graus - Retirando os loops
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 
@@ -17,7 +17,7 @@
 
 ## Ação
 
-![angulos](__angulos.png)
+![angulos](angulos.png)
 
 Nosso sistema de ângulos no plano cartesiano é definido em graus. O ângulo 0 aponta para esquerda, o 90 aponta para cima, o 180 para direita e por aí vai. O 360 graus equivale voltar ao 0.
 

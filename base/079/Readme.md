@@ -1,7 +1,7 @@
 ## L3 - Jogo do Avesso V2
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

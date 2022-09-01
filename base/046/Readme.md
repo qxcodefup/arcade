@@ -1,6 +1,6 @@
 ## L2 - Jogo da Concentração 💎
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

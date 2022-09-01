@@ -1,7 +1,7 @@
 ## L2 - Eribelton e a Ascologia V2
 ### Buscando a perfeição
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

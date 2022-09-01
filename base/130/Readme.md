@@ -1,7 +1,7 @@
 ## L2 - Bingo!
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

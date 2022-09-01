@@ -1,7 +1,7 @@
 ## L2 - Jokenpo das tartarugas!
 
 [](solver.c)
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

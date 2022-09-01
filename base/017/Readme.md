@@ -1,7 +1,7 @@
 ## L2 - Maior ovo
 
 [](solver.c)
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 

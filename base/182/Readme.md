@@ -1,7 +1,7 @@
 ## L3 - Mulher mais idosa
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Ação
 

@@ -1,7 +1,7 @@
 ## L1 - Sapatos para 3
 
 
-![]( cover.jpg)
+![](cover.jpg)
 
 ## Motivação
 
