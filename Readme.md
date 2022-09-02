@@ -23,7 +23,7 @@ Também pode instalar o ["testador"](github.com/senapk/tk) no seu computador e r
 - [08. Seleção: Busca e Contagem](#08-seleção-busca-e-contagem)
 - [09. Seleção: Conversão](#09-seleção-conversão)
 - [10. Laço: Básico](#10-laço-básico)
-- [11. Técnicas de controle](#11-técnicas-de-controle)
+- [11. Laço: Técnicas de controle](#11-laço-técnicas-de-controle)
 - [12. Laço: Math](#12-laço-math)
 - [13. Vetores: Busca](#13-vetores-busca)
 - [14. Vetores: Contagem](#14-vetores-contagem)
@@ -174,7 +174,7 @@ Conteúdo sugeridos
 ![](.thumbs/053.jpg) | [@053 L2 - Fuga em helicóptero - OBI 2016](base/053/Readme.md)
 ![](.thumbs/046.jpg) | [@046 L2 - Jogo da Concentração 💎](base/046/Readme.md)
 
-## 11. Técnicas de controle
+## 11. Laço: Técnicas de controle
 \________________________ | \_______________________________________________
 ------------------------- | -----------------------
 ![](.thumbs/047.jpg) | [@047 L2 - Ônibus lotado](base/047/Readme.md)

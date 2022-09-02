@@ -14,8 +14,8 @@ Ele gasta exatamente 1 minuto para ir ao quintal vizinho, encher a cesta e volta
 
 ## Ação
 
-Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minutos Chico precisará para coleta.
-Você pode considerar que há pelo menos uma fruta antes da coleta.
+Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minutos Chico precisará para coleta. 
+Você pode considerar que há pelo menos uma fruta a ser coletada.
 
 ### Entrada:
 

@@ -9,7 +9,7 @@ Ao terminar uma prova de matemática, Marcelo e João estavam na dúvida se teri
 
 ## Ação
 
-Leia dois inteiros e diga se ambos sao divisíveis por 3 ou se ambos são divisíveis por 5.
+Leia dois inteiros e diga se ambos são divisíveis por 3 ou se ambos são divisíveis por 5.
 
 ### Entrada
 
