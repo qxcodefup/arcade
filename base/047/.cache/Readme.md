@@ -41,7 +41,7 @@ Você pode assumir:
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5
 0
