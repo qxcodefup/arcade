@@ -1,7 +1,6 @@
-## L2 - Volta de 360 graus - Retirando os loops
+# L2 - Volta de 360 graus - Retirando os loops
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -27,7 +26,7 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 0
 ========
@@ -64,6 +63,3 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 10
 <<<<<<<<
 ```
-
----
-

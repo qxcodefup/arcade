@@ -1,6 +1,6 @@
-## L2 - Linha de inteiros 🎥💎
+# L2 - Linha de inteiros 🎥💎
 
-![](cover.jpg)
+![_](cover.jpg)
 
 [Explicação](https://youtu.be/r44oGh6gVU0)
 
@@ -29,7 +29,7 @@ ___
 - Saída:
     - O vetor impresso ao contrário.
 
-```
+```txt
 >>>>>>>>
 19 12 32 11 17 15
 ========

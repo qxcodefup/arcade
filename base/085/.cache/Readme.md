@@ -1,25 +1,26 @@
-## @085 L3 - Perto do médico
+# @085 L3 - Perto do médico
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/085/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/085/cover.jpg)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/085/solver.cpp)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/085/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/085/solver.cpp)
 
 ## Motivação
 
 Os soldados formaram uma fila no quartel. Essa fila está representada por um vetor de inteiros. O 1 representa um médico e o 0 soldado de combate. Todo soldado de combate perto de um médico tem mais chances de sobreviver. A pergunta é quantos soldados NÃO estão adjacentes a um médico.  
 
-### Entrada
+## Entrada
 
 *   1ª linha:  quantidade de elementos do vetor.
 *   2ª linha:  elementos do vetor.
 
-### Saída
+## Saída
 
 *   A quantidade de soldados que não tem médico à sua direita ou à sua esquerda.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3
 0 0 1

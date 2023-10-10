@@ -1,7 +1,7 @@
-## L2 - Angulo Cartesiano
+# L2 - Angulo Cartesiano
 ### Retirando loops
-[](solver.c)
-![](cover.jpg)
+
+![_](cover.jpg)
 
 ## Motivação
 
@@ -15,7 +15,7 @@ Aline: Descobri que era do meu pai.
 
 ## Ação
 
-![](__angulos.png)
+![_](__angulos.png)
 
 Nosso sistema de ângulos no plano cartesiano é definido em graus. O ângulo 0 aponta para esquerda, o 90 aponta para cima, o 180 para direita e por aí vai. O 360 graus equivale voltar ao 0.  
   
@@ -25,7 +25,7 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 0
 ========
@@ -61,4 +61,4 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 ========
 10
 <<<<<<<<
-```
+```txt

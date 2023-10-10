@@ -1,7 +1,8 @@
-## @112 L3 - Rocicleia e o Locioreca - Anagramas!
+# @112 L3 - Rocicleia e o Locioreca - Anagramas!
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/112/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/112/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/112/cover.jpg)
 
 ## Motivação
 
@@ -14,17 +15,17 @@ Uma palavra é anagrama de outra se é formada pelas mesmas letras nas mesmas QU
 
 Dadas duas palavras, imprima sim se elas são anagramas e não se não são anagramas.
 
-### Entrada
+## Entrada
 
 *   A entrada são duas palavras, uma por linha, apenas caracteres minúsculos e sem espaços.
 
-### Saída
+## Saída
 
 *   A saída deve ser apenas "sim" ou "nao".
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 paralelepipedo
 pepidoelelapar

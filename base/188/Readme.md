@@ -1,6 +1,6 @@
-## L3 - Devolvendo o troco
+# L3 - Devolvendo o troco
 
-![](cover.jpg)
+![_](cover.jpg)
 
 Você precisa fazer um programa que calcule como dar o troco em dinheiro.
 
@@ -10,7 +10,7 @@ Gere a opção com a menor quantidade de ítens possível.
 
 Por exemplo: 453 reais e 83 centavos.
 
-```
+```txt
 4 de 100.00
 1 de 50.00
 1 de 2.00
@@ -28,8 +28,7 @@ Observação: Não use ifs e elses, faça um vetor de opções de troco.
 - Saída
     - As notas e moedas que devem ser dadas e se houver valor quebrado inferior a 0.05, informe ao final.
 
-
-```
+```txt
 >>>>>>>>
 77.00
 ========
@@ -46,7 +45,6 @@ Observação: Não use ifs e elses, faça um vetor de opções de troco.
 1 de 5.00
 2 de 2.00
 <<<<<<<<
-
 
 >>>>>>>>
 17.39
@@ -81,5 +79,4 @@ Falta 0.01
 Falta 0.01
 <<<<<<<<
 
-
-```
+```txt

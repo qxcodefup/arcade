@@ -1,7 +1,9 @@
-## @062 L2 - Angulo Cartesiano
+# @062 L2 - Angulo Cartesiano
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/062/Readme.md)
 ### Retirando loops
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/062/cover.jpg)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/062/cover.jpg)
 
 ## Motivação
 
@@ -15,7 +17,7 @@ Aline: Descobri que era do meu pai.
 
 ## Ação
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/062/__angulos.png)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/062/__angulos.png)
 
 Nosso sistema de ângulos no plano cartesiano é definido em graus. O ângulo 0 aponta para esquerda, o 90 aponta para cima, o 180 para direita e por aí vai. O 360 graus equivale voltar ao 0.  
   
@@ -25,7 +27,7 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 0
 ========
@@ -61,4 +63,4 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 ========
 10
 <<<<<<<<
-```
+```txt

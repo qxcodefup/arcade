@@ -1,7 +1,8 @@
-## @161 L3 - Vivo ou Morto - OBI 2005
+# @161 L3 - Vivo ou Morto - OBI 2005
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/161/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/161/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/161/cover.jpg)
 
 ## Motivação
 
@@ -17,7 +18,7 @@ Por exemplo, considere que a brincadeira inicie com cinco participantes, identif
 
 Sua tarefa é escrever um programa que determine o vencedor de uma partida de "vivo ou morto”, a partir da informação das ordens dadas pelo chefe e das ações executadas pelos participantes em cada rodada.  
   
-### Entrada
+## Entrada
 
 - A entrada é constituı́da de vários casos de teste, cada um representando uma partida. A primeira linha de um caso de teste contém dois números inteiros P e R indicando respectivamente a quantidade inicial de participantes (2 ≤ P ≤ 100) e quantidade de rodadas da partida (1 ≤ R ≤ 100). 
 - Os participantes são identificados por números de 1 a P . A segunda linha de um caso de teste descreve a fila organizada pelo chefe, contendo P números inteiros distintos x1 , x2 , . . . xP , onde x1 representa o identificador do participante no primeiro lugar na fila, x2 representa o identificador do participante no segundo lugar na fila, e assim por diante (1 ≤ xi ≤ P ).
@@ -25,7 +26,7 @@ Sua tarefa é escrever um programa que determine o vencedor de uma partida de "
 - Ordens e ações "vivo” são representadas pelo valor 1, ordens e ações "morto” pelo valor zero. Cada partida tem exatamente um vencedor, determinado somente na última rodada fornecida no caso de teste correspondente. O final da entrada é indicado por P = R = 0.
 - A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado).  
   
-### Saída
+## Saída
 
 - Para cada caso de teste seu programa deve produzir três linhas. A primeira identifica o conjunto de teste no formato "Teste n”, onde n é numerado a partir de 1. A segunda linha deve conter o identificador do vencedor. A terceira linha deve ser deixada em branco. A grafia mostrada no Exemplo de Saı́da, abaixo, deve ser seguida rigorosamente.  
 - A saı́da deve ser escrita no dispositivo de saı́da padrão (normalmente a tela).  
@@ -34,7 +35,7 @@ Sua tarefa é escrever um programa que determine o vencedor de uma partida de "
   
 ## Restrições
 
-```
+```txt
 2 ≤ P ≤ 100 (P = 0 apenas para indicar o fim da entrada)  
 1 ≤ R ≤ 100 (R = 0 apenas para indicar o fim da entrada)  
 1 ≤ xi ≤ P , para 1 ≤ i ≤ P  
@@ -45,7 +46,7 @@ Sua tarefa é escrever um programa que determine o vencedor de uma partida de "
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 5 4
 3 2 1 4 5
@@ -73,5 +74,4 @@ Teste 3
 2
 <<<<<<<<
 ```
-
 

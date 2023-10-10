@@ -1,7 +1,6 @@
-## L3 - Sapinho 3 matemático
+# L3 - Sapinho 3 matemático
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -13,17 +12,17 @@
 
 Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcular a força mínima antes de começar  a pular.  
 
-### Entrada
+## Entrada
 
 *   P, E inteiros, um por linhas.  
 
-### Saída
+## Saída
 
 *   A menor força de salto que o sapinho deve ter para conseguir sair do poço  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 10
 1

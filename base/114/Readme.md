@@ -1,7 +1,7 @@
-## L3 - MeU WoRd QuEbRoU
+# L3 - MeU WoRd QuEbRoU
 ### Formatação de Case
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -15,18 +15,18 @@ Ignore pontuação, espaço e números.
 
 A entrada é composta de minusculas, maiúsculas, números, pontuações e espaços simples.
 
-### Entrada
+## Entrada
 
 *   Texto com até 100 caracteres.
 *   Caracteres representando a formatação (M, m, p, i).
 
-### Saída
+## Saída
 
 *   O texto formatado.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 O Pato e o frango ja tao cozidos, comam!
 M

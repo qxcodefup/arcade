@@ -1,7 +1,7 @@
-## L3 - Jack Sparrow e o Beijinho
+# L3 - Jack Sparrow e o Beijinho
 ### Alternar Case
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -17,18 +17,18 @@ Não sei se você já notou, mas o Jack fala de uma forma muito peculiar.
 
 Dada uma frase, conforme o case da primeira letra, alterne o case de todas as letras seguintes.
 
-### Entrada
+## Entrada
 
 *   Linha 1: A quantidade de casos de teste.
 *   Linha 2: Um texto com até 100 caracteres maiúsculos ou minúsculos e espaços por linha, para cada caso de teste.
 
-### Saída
+## Saída
 
 *   Dado o case do primeiro caractere, refaça os cases de todos os caracteres, desconsiderando o espaço.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1
 a batata

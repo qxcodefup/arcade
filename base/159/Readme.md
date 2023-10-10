@@ -1,7 +1,6 @@
-## L3 - Campo de Minhocas - OBI 2005
+# L3 - Campo de Minhocas - OBI 2005
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -15,7 +14,7 @@ Os pesquisadores da OBM mantêm um acompanhamento constante do desenvolvimento d
 
 A figura abaixo mostra um mapa da fazenda, mostrando a produtividade estimada de cada uma das células.  
 
-![](minhocas.jpeg)
+![_](minhocas.jpeg)
 
 Um pesquisador da OBM inventou e construiu uma máquina colhedeira de minhocas, e quer testá-la na fazenda.
 
@@ -29,20 +28,20 @@ Decidiu-se então que seria efetuado um teste com a máquina, de forma a colher 
 
 Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a produtividade estimada em cada célula, calcule o número esperado total de minhocas a serem colhidas pela máquina durante o teste, conforme descrito acima.  
   
-### Entrada
+## Entrada
 
 - A primeira linha da entrada contém dois números inteiros N e M , representando respectivamente o número de linhas (1 ≤ N ≤ 100) e o número de colunas (1 ≤ M ≤ 100) de células existentes no campo experimental de minhocas.
 - Cada uma das N linhas seguintes contém M inteiros, representando as produtividades estimadas das células correspondentes a uma linha do campo de minhocas.
 - A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado).  
   
-### Saída
+## Saída
 
 - A saída deve ser composta por uma única linha contendo um inteiro, indicando o número esperado total de minhocas a serem colhidas pela máquina durante o teste.
 - A saída deve ser escrita no dispositivo de saída padrão (normalmente a tela).
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 3 5
 81 28 240 10 1

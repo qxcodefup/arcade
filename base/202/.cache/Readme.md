@@ -1,6 +1,8 @@
-## @202 L2 - Ponto perto
+# @202 L2 - Ponto perto
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/202/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/202/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/202/cover.jpg)
 
 Considere o seguinte tipo de registro que deve ser usado em seu programa:
 
@@ -43,6 +45,5 @@ int main(){
     printf("%.2f %.2f\n", q.x, q.y); //3.00 6.00 
 }
 ```
-
 
 

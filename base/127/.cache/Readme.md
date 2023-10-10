@@ -1,7 +1,9 @@
-## @127 L3 - Amo a Amora meu Amor
+# @127 L3 - Amo a Amora meu Amor
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/127/Readme.md)
 ### Contar Substrings
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/127/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/127/cover.jpg)
 
 ## Motivação
 
@@ -14,18 +16,18 @@ Ela descobriu que tinha o subtexto "amo" 5 vezes apenas nessa frase.
 
 Ajude Amora e faça um programa que recebe duas entradas uma por linha,na primeira linha contento o texto completo e a segunda o trecho. Conte e escreva quantas vezes aparece o subtexto no texto maior.
 
-### Entrada
+## Entrada
 
 * Uma frase (máximo de 100 caracteres)
 * Um trecho da frase (máximo de 20 caracteres)
 
-### Saída
+## Saída
 
 * O número de ocorrências do trecho da frase.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 amo o amor que me amou, oh amora amortecida
 amo

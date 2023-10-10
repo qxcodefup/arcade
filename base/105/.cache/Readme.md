@@ -1,7 +1,8 @@
-## @105 L3 - Valdiskley e cifras históricas!
+# @105 L3 - Valdiskley e cifras históricas!
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/105/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/105/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/105/cover.jpg)
 
 ## Motivação
 
@@ -21,19 +22,19 @@ texto "minha chinela" output "zwavn pvwaryn"
 
 Observe que em word1 podem aparecer pontuação, numeros, etc. Se word1 = "123!\*ov" e word2 = "456?-ai" todo '!' vira '?' e vice versa.
 
-### Entrada
+## Entrada
 
 *   linha 1: minusculos, numeros e pontuacao.
 *   linha 2: palavra1 de cifragem.
 *   linha 3: palavra2 de cifragem.
 
-### Saída
+## Saída
 
 *   o resultado da criptografia.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 Opa amigo xarles 2o
 a

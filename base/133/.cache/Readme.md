@@ -1,8 +1,8 @@
-## @133 L2 - Soldados em Posição
+# @133 L2 - Soldados em Posição
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/133/Readme.md)
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/133/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/133/cover.jpg)
 
 ## Motivação
 
@@ -16,7 +16,7 @@ Faça um programa que conte quantos soldados com numeração de fardamento menor
 
 **Obs**: Você tem que conferir as numerações verticalmente.
 
-### Entrada
+## Entrada
 
 * Uma matriz de tamanho qualquer contendo os valores que representam os soldados.
     * linha 1: nl e nc
@@ -28,7 +28,7 @@ Saída
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 2 1
 2
@@ -44,7 +44,6 @@ Saída
 ========
 1
 <<<<<<<<
-
 
 >>>>>>>>
 3 3
@@ -94,4 +93,4 @@ Saída
 9
 <<<<<<<<
 
-```
+```txt

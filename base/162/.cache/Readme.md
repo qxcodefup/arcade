@@ -1,7 +1,8 @@
-## @162 L3 - Mini-Poker - OBI2005
+# @162 L3 - Mini-Poker - OBI2005
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/162/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/162/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/162/cover.jpg)
 
 ## Motivação
 
@@ -24,7 +25,7 @@ As regras para pontuação em Mini-Poker são as seguintes:
 
 Escreva um programa que, fornecidas as cartas dadas a um jogador, calcule pontuação do jogador naquela jogada.  
   
-### Entrada
+## Entrada
 
 A entrada é composta por vários casos de teste, cada um correspondendo a uma jogada. A primeira linha da entrada contém um inteiro N que indica o número de casos de teste (1 ≤ N ≤ 10). 
 
@@ -32,7 +33,7 @@ Cada uma das N linhas seguintes contém cinco números inteiros C1 , C2 , C3 ,
 
 A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado).  
 
-### Saída
+## Saída
 
 Para cada caso de teste da entrada, seu programa deve produzir três linhas na saı́da.
 
@@ -51,7 +52,7 @@ A grafia mostrada no Exemplo de Saı́da, abaixo, deve ser seguida rigorosamente
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 5
 1 2 3 4 5
@@ -77,5 +78,4 @@ Teste 5
 
 <<<<<<<<
 ```
-
 

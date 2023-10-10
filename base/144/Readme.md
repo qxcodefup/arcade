@@ -1,7 +1,6 @@
-## L2 - Função que retorna vários valores por referência
+# L2 - Função que retorna vários valores por referência
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -30,7 +29,6 @@ int main(){
    // Chame a função 'converte_tempo' para converter o valor de 'tempo' em horas
    // minutos e segundos, gravando o resultado nas variáveis 'h', 'm' e 's'.
 
-
    printf("%d:%d:%d", h, m, s);
 }
 ```
@@ -43,7 +41,7 @@ Você deverá:
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 7384
 ========

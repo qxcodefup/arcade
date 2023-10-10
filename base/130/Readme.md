@@ -1,7 +1,6 @@
-## L2 - Bingo!
+# L2 - Bingo!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -18,17 +17,17 @@ Dado um vetor de tamanho 6 de elementos inteiros, verifique quantos elementos de
 30 87 55 69  
 13 60 99 66
 
-### Entrada
+## Entrada
 
 *   Entrada de 6 numero inteiros
 
-### Saída
+## Saída
 
 *   Número de vezes que os elementos do vetor e repetem na matriz 4x4.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 55 30 2 974 79 23
 ========

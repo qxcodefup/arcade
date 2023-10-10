@@ -1,7 +1,6 @@
-## L2 - Numerão Divisível por 11
+# L2 - Numerão Divisível por 11
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -16,17 +15,17 @@ Existem formas para se determinar essa divisibilidade. Pesquise um pouco.
 
 [http://www.escolakids.com/divisibilidade-por-11.htm](http://www.escolakids.com/divisibilidade-por-11.htm)  
 
-### Entrada
+## Entrada
 
 * Um "número" com até 20 dígitos.
 
-### Saída
+## Saída
 
 * "sim" se o numero for divisível por 11 e "nao" caso contrário.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 11
 ========

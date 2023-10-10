@@ -1,7 +1,6 @@
-## L2 - Mercantil V1 - Quem chega mais perto
+# L2 - Mercantil V1 - Quem chega mais perto
 
-[](solver.c)
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Descrição
 
@@ -11,21 +10,21 @@ O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o 
 
 Se ambos ficarem à mesma distancia do valor real, então houve empate.
 
-[DS]
+## Entrada
 
-### Entrada
 * linha 1: o valor do produto.(valor inteiro entre 1 e 100)
 * linha 2: o chute do Primeiro
 * linha 3: o chute de Segundo
 
-### Saída
+## Saída
+
 * "primeiro" se o chute do Primeiro for o mais próximo do valor do produto
 * "segundo" se o chute do Segundo for o mais próximo do valor do produto
 * "empate" caso ambos ficarem à mesma distancia
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1
 2
@@ -80,19 +79,17 @@ Observação
 #include <math.h> //c
 
 abs(-3) //retorna 3
-```
+```txt
 ```c++
 #include <cmath> //c++
 
 abs(-3) //retorna 3
-```
+```txt
 ```python
 #python
 abs(-3) #retorna 3
-```
+```txt
 ```javascript
 //javascript 
 Math.abs(-3) //retorna 3
 ```
-
-

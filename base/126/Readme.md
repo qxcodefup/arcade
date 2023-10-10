@@ -1,7 +1,6 @@
-## L2 - Crushômetro
+# L2 - Crushômetro
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -22,22 +21,22 @@ Para fazer o cálculo, some todos os pontos e imprima da seguinte forma:
 - "As chances do crush te dar bola sao: 100%!"
 - para imprimir o '%', basta coloca-lo duas vezes, assim:
 
-```
+```txt
 printf("%%");
 ```
 
-### Entrada
+## Entrada
 
 * Seu primeiro nome
 * Primeiro nome do seu crush
 
-### Saída
+## Saída
 
 * Porcentagem de chances do crush te dar bola
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 Yudi
 Priscilla

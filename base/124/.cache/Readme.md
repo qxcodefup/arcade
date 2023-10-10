@@ -1,7 +1,9 @@
-## @124 L3 - Conversa de Traficantes
+# @124 L3 - Conversa de Traficantes
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/124/Readme.md)
 ### Substituições de substrings
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/124/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/124/cover.jpg)
 
 ## Motivação
 
@@ -22,17 +24,17 @@ Todos os caracteres são minúsculos e sem pontuação.
 
 NÃO use nenhuma função pronta para fazer isso.
 
-### Entrada
+## Entrada
 
 * Um texto, uma palavra e sua substituição.  
 
-### Saída
+## Saída
 
 * Imprima o texto com as substituições.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 a aba absorveu
 ab

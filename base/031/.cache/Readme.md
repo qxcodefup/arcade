@@ -1,12 +1,14 @@
-## @031 L2 - Fiquei de final
+# @031 L2 - Fiquei de final
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/031/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/031/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/031/cover.jpg)
 
 ## Descrição
+
 Use o pseudocódigo a seguir para implementar o algoritmo de calcular nota e decidir se você ficou aprovado, reprovado, aprovado na final ou reprovado na final.
 
-```
+```txt
 leia a primeira nota
 leia a segunda nota
 media = some as notas e divida por 2
@@ -23,18 +25,19 @@ se entre 4 e 7
       reprovado
 ```
 
-### Entrada
+## Entrada
 
-* 3 notas: nota1, nota2 e nota\_final, uma por linha
- 
-### Saída
+- 3 notas: nota1, nota2 e nota\_final, uma por linha
+
+## Saída
+
 - aprovado, reprovado, aprovado na final ou reprovado na final  
 
 Obs: descarte a nota da final se ela não for necessária.
 
 ## Exemplo
 
-```
+```txt
 >>>>>>>>
 8
 8
@@ -67,4 +70,3 @@ reprovado
 reprovado na final
 <<<<<<<<
 ```
-

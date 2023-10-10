@@ -1,7 +1,8 @@
-## @084 L3 - Arca: Exemplares
+# @084 L3 - Arca: Exemplares
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/084/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/084/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/084/cover.jpg)
 
 ## Motivação
 
@@ -16,18 +17,18 @@ Não use uma função de ordenar pronta.
 
 \[DS\]
 
-### Entrada
+## Entrada
 
 - linha 1: um número com a quantidade de elementos do vetor
 - linha 2: o vetor de inteiros  
 
-### Saída
+## Saída
 
 - O novo vetor ordenado contendo um exemplar de cada elemento.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3
 1 1 2

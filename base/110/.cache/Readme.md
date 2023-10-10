@@ -1,7 +1,8 @@
-## @110 L2 - Organizando Ru - Homens e Mulheres!
+# @110 L2 - Organizando Ru - Homens e Mulheres!
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/110/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/110/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/110/cover.jpg)
 
 ## Motivação
 
@@ -13,7 +14,7 @@ Você receberá uma frase e irá tratar as vogais como as mulheres e as consoant
 
 Cada frase tem até 100 char.
 
-### Entrada
+## Entrada
 
 *   1a linha: uma frase com letras minusculas e espaço apenas com ate 100 caracteres.  
 
@@ -25,7 +26,7 @@ Cada frase tem até 100 char.
 
 ## Exemplos  
 
-```
+```txt
 >>>>>>>>
 um abraco amigo
 ========
@@ -53,4 +54,4 @@ thunder thunder thunder cats owwww
 ueueueao
 thndrthndrthndrctswwww
 <<<<<<<<
-```
+```txt

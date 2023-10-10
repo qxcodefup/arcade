@@ -1,7 +1,6 @@
-## L3 - Horas de sono
+# L3 - Horas de sono
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -15,18 +14,18 @@ Se o segundo horário for menor que o primeiro, compreenda que é no outro dia.
 Se você dormir 23:00 e acorda às 6:00 então você tem 7:00 horas de sono.
 \[DS\]
 
-### Entrada
+## Entrada
 
 - linha 1: hora minuto segundo (do horário que vai dormir).
 - linha 2: hora minuto segundo (do horário que vai acordar).
 
-### Saída
+## Saída
 
 - hora minuto segundo (do tempo de sono que resta).
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 01 00 00
 03 00 00
@@ -58,21 +57,20 @@ Se você dormir 23:00 e acorda às 6:00 então você tem 7:00 horas de sono.
 
 ## Ajuda
 Em python2 você pode pegar as strings assim:
-```
+```txt
 h1, m1, s1 = raw\_input().split(" ")
 h2, m2, s2 = raw\_input().split(" ")
-```
+```txt
 Em python3 você pode pegar as strings assim:
-```
+```txt
 h1, m1, s1 = input().split(" ")
 h2, m2, s2 = input().split(" ")
-```
+```txt
 As variáveis serão string.Para converter para int use: 
-```
+```txt
 h1 = int(h1) h2 = int(h2) 
-```
+```txt
 etc.
-
 
 ### Observação
 
@@ -80,5 +78,4 @@ Note que você deve imprimir sempre 2 dígitos. Exemplo ele duma 1 hora, 2 minut
 ```c
 printf("%02d\n", hora);
 ```
-
 

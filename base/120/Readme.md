@@ -1,7 +1,7 @@
-## L3 - Gansos Gamados
+# L3 - Gansos Gamados
 ### Verificar ordenação da frase
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -23,17 +23,17 @@
 
 Dada uma frase, imprima "sim" se as palavras estiverem ordenadas e "nao" caso contrario.
 
-### Entrada
+## Entrada
 
 - Uma frase de até 100 caracteres minúsculos e sem acento.
 
-### Saída
+## Saída
 
 - "sim" ou "nao".
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 a amora azul
 ========

@@ -1,7 +1,8 @@
-## @036 L3 - Morre o do meio
+# @036 L3 - Morre o do meio
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/036/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/036/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/036/cover.jpg)
 
 ## Motivação
 
@@ -25,17 +26,17 @@ Moral da história: Não confie em pessoas que tem claramente interesses diferen
 
 Receba três valores e imprima o valor do meio.
 
-### Entrada
+## Entrada
 
 * Os três valores, uma por linha, todos os valores serão diferentes.
 
-### Saída
+## Saída
 
 * O valor do meio.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5
 2
@@ -68,4 +69,3 @@ Receba três valores e imprima o valor do meio.
 5
 <<<<<<<<
 ```
-

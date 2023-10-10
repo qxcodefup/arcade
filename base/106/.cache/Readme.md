@@ -1,7 +1,8 @@
-## @106 L2 - Valdiskley e a cifra V2!
+# @106 L2 - Valdiskley e a cifra V2!
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/106/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/106/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/106/cover.jpg)
 
 ## Motivação
 
@@ -20,7 +21,7 @@ No capítulo 3 você vai usar um algoritmo de força bruta para "quebrar" a crip
 
 Na operação entre dois caracteres podemos imaginar uma lista circular onde o 'a' reinicia depois do 'z'. Você pode pensar que 'a' vale 0, 'b' vale 1 e assim por diante.
 
-```
+```txt
 a + a = a 
 a + b = b   
 b + a = b 
@@ -36,26 +37,26 @@ z + b = a
 
 Na descriptografia utilizamos a operação inversa.
 
-```
+```txt
 c - a = c
 c - b = b
 c - c = a
 c - d = z
 c - e = y  
-```
-### Entrada
+```txt
+## Entrada
 
 *   Um caractere minusculo.
 *   Linha: a operação '-' ou '+'.
 *   Linha: Um segundo caractere minúsculo.
 
-### Saída
+## Saída
 
 *   O resultado da operação de criptografia ou descriptografia.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 a
 +

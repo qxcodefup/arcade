@@ -1,13 +1,14 @@
-## @090 L2 - Primo 💎
+# @090 L2 - Primo 💎
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/090/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/090/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/090/cover.jpg)
 
 ## Ação
 
 Dado um número inteiro, faça uma função que verifique se ele é primo.  
 
-### Entrada
+## Entrada
 
 *   Um numero inteiro N.
 
@@ -17,7 +18,7 @@ Dado um número inteiro, faça uma função que verifique se ele é primo.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5
 ========

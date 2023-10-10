@@ -1,7 +1,6 @@
-## L1 - Calça apertada
+# L1 - Calça apertada
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -11,17 +10,17 @@ Tem mulheres que gostam de roupa apertada. E homens sertanejos também. Mariana 
 
 Faça um programa que receba cinco valores inteiros e encontre o menor deles.  
 
-### Entrada
+## Entrada
 
 *   5 valores inteiros (entre 1 e 30), um por linha.
 
-### Saída
+## Saída
 
 *   O menor valor inteiro.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1
 4

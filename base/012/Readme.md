@@ -1,7 +1,6 @@
-## L2 - Deu a louca no Imperador!
+# L2 - Deu a louca no Imperador
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -25,27 +24,30 @@ Usando G para gladiadores, C para Condenados à morte e L para o Leão, o usuár
 OBS: Como a economia em Roma estava precária, o Cyzar só possuía um Leão, logo só pode haver um L na arena.
 
 Regras do cálculo:
+
 - G vale por 2 C
 - Caso C esteja posicionado na diagonal secundária da matriz, ele tem o mesmo valor de um G.
 - Caso apareça um L, toda a linha será destruída!
 
 Some todos os G's e C's e determine quem é o vencedor.
 
-### Entrada
+## Entrada
+
 - 1a linha: Número de linhas e colunas da matriz
 - linhas seguintes, o conteúdo da matriz com três caracteres apenas
-    - G para Gladiadores
-    - C para Condenados a morte
-    - L para Leão.
+  - G para Gladiadores
+  - C para Condenados a morte
+  - L para Leão.
 
-### Saída
+## Saída
+
 - "Gladiadores" caso G seja maior
 - "Condenados a morte" caso C seja maior
 - "Ninguém" caso contrário.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3
 G L G
@@ -73,4 +75,3 @@ G C C
 Ninguem
 <<<<<<<<
 ```
-

@@ -1,7 +1,8 @@
-## @014 L1 - Quantos são iguais?
+# @014 L1 - Quantos são iguais?
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/014/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/014/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/014/cover.jpg)
 
 ## Motivação
 
@@ -11,16 +12,17 @@ Três competidores olímpicos de arremesso de disco tinham desempenhos muito par
 
 Leia três valores do usuário e imprima quantos são iguais.
 
-### Entrada:
+## Entrada
+
 - Leia três valores do usuário.
 
-### Saída:
-- Imprima a quantidade de valores iguais dentre os três.
+## Saída
 
+- Imprima a quantidade de valores iguais dentre os três.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 1
 4
@@ -28,7 +30,6 @@ Leia três valores do usuário e imprima quantos são iguais.
 ========
 2
 <<<<<<<<
-
 
 >>>>>>>> 02
 1
@@ -46,5 +47,3 @@ Leia três valores do usuário e imprima quantos são iguais.
 3
 <<<<<<<<
 ```
-
-

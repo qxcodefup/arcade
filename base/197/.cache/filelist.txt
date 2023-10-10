@@ -1,0 +1,6 @@
+a.out
+Readme.md
+cover.jpg
+solver2.cpp.out
+q.tio
+

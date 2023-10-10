@@ -1,7 +1,8 @@
-## @148 L1 - Expressão
+# @148 L1 - Expressão
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/148/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/148/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/148/cover.jpg)
 
 ## Motivação
 
@@ -15,7 +16,7 @@ Crie um programa que leia do usuário dois números inteiros e um operador do ti
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5
 5

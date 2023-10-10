@@ -1,7 +1,8 @@
-## @174 L1 - Valdiskey e a cifra V1!
+# @174 L1 - Valdiskey e a cifra V1!
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/174/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/174/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/174/cover.jpg)
 
 ## Motivação
 
@@ -21,18 +22,18 @@ Valdisklei chegou em casa com sua tarefinha sobre o alfabeto.
 
 Dado uma letra e um valor de rotação retorne a letra resultante.
 
-### Entrada
+## Entrada
 
 * Letra minuscula entre 'a' e 'z'
 * Um valor inteiro positivo ou negativo onde negativo significa um rotação pra frente e negativo uma rotação pra trás.
 
-### Saída
+## Saída
 
 * A letra resultante
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>> 01
 a
 0
@@ -67,4 +68,4 @@ b
 ========
 z
 <<<<<<<<
-```
+```txt

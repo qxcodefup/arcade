@@ -1,7 +1,8 @@
-## @089 L2 - Mega Jokenpo!
+# @089 L2 - Mega Jokenpo!
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/089/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/089/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/089/cover.jpg)
 
 ## Motivação
 
@@ -18,17 +19,17 @@ NÃO faça na força BRUTA. Observe que cada elemento ganha dos 4 elementos a su
 - Ar sopra fogo, corrói pedra, evapoenferruja a tesoura e arma.  
 - Arma acerta pedra, fogo, tesoura e humano.
 
-### Entrada
+## Entrada
 
 - Texto em minúsculo e sem acentos contendo as opcões dos dois jogadores.  
 
-### Saída
+## Saída
 
 - empate, jog1 ou jog2.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 sponge
 gun
@@ -85,5 +86,4 @@ human
 jog2
 <<<<<<<<
 ```
-
 

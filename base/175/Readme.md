@@ -1,13 +1,12 @@
-## L3 - Separando a partir de tokens
+# L3 - Separando a partir de tokens
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
 Dada uma frase (max 100 char) com palavras (letras minusculas), números e espaço, divida os elementos em n frases usando os tokens ' # ' e ' ; ' como referência de fim para aquela frase.
 
-### Entrada
+## Entrada
 
 * Uma frase (max 100 char) com palavras (letras minusculas), números e espaços que podem ser separados por tokens.
 
@@ -17,7 +16,7 @@ Dada uma frase (max 100 char) com palavras (letras minusculas), números e espa�
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 mamae me ama#15#1.76;
 ========

@@ -1,7 +1,8 @@
-## @143 L1 - Troca de valores de variáveis
+# @143 L1 - Troca de valores de variáveis
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/143/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/143/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/143/cover.jpg)
 
 ## Ação
 
@@ -35,7 +36,7 @@ Você deverá:
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1 2
 ========

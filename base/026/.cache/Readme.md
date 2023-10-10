@@ -1,7 +1,8 @@
-## @026 L1 - Positivo, Nulo ou Negativo?
+# @026 L1 - Positivo, Nulo ou Negativo?
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/026/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/026/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/026/cover.jpg)
 
 ## Motivação
 
@@ -18,15 +19,17 @@ e você comeu 5 sanduíches, com quanto você fica?
 O Chaves não sabe diferenciar positivo, negativo e nulo, mas você sabe!
 Eu espero!
 
-### Entrada
+## Entrada
+
 - Leia um valor inteiro do usuário.
 
-### Saída
+## Saída
+
 - Imprima "positivo", "nulo" ou "negativo" de acordo com o valor lido.
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>>
 5
 ========
@@ -44,4 +47,4 @@ negativo
 ========
 nulo
 <<<<<<<<
-```
+```txt

@@ -1,5 +1,4 @@
-## L3 - Sapinho 2 morrendo no poço
-
+# L3 - Sapinho 2 morrendo no poço
 
 ![sapinho]( cover.jpg)
 
@@ -22,17 +21,17 @@ para mostrar os saltos do sapo até a saída.
 * A cada salto o sapinho fica mais cansado e o próximo salto será 10 cm menor.
 * Se ele ficar abaixo da agua ele morrerá afogado.
 
-### Entrada
+## Entrada
 
 * P, S, E inteiros, um por linhas.
 
-### Saída
+## Saída
 
 * as posições de salto e aterrissagem do sapinho até que ele saia ou morra afogado.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 800
 300

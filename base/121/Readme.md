@@ -1,7 +1,7 @@
-## L3 - Mário e o Assassins Creed
+# L3 - Mário e o Assassins Creed
 ### Lendo cenário
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -28,13 +28,13 @@ E o vetor 1133464221 seria como o seguinte cenário:
     __#######_
     ##########
 
-### Entrada
+## Entrada
 
 - A quantidade de elementos no vetor (1 à 20).  
 
 - O vetor de números, sendo cada número entre 1 e 20.  
 
-### Saída:
+## Saída
 
 - Cenário representado por  **\_**  e  **#**
 
@@ -72,4 +72,4 @@ __#####___
 __#######_
 ##########
 <<<<<<<<
-```
+```txt

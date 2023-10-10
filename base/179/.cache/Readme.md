@@ -1,7 +1,8 @@
-## @179 L3 - Prof Muquirana - Busca máximo por critério
+# @179 L3 - Prof Muquirana - Busca máximo por critério
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/179/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/179/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/179/cover.jpg)
 
 ## Motivação
 
@@ -22,7 +23,7 @@ Por exemplo: 026897 quer dizer : aluno 02, notas 6, 8, 9 e 7.
 
 Faça um programa para imprimir o id do aluno com a maior nota.
 
-### Entrada
+## Entrada
 
 * 1a linha: A quantidade de elementos no vetor(1 a 50).
 * 2a linha: O vetor com os ids e notas dos alunos.
@@ -33,7 +34,7 @@ Faça um programa para imprimir o id do aluno com a maior nota.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 2
 034444 024444

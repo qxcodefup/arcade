@@ -1,7 +1,8 @@
-## @139 L4 - A Porta Matemática
+# @139 L4 - A Porta Matemática
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/139/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/139/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/139/cover.jpg)
 
 Motivação
 ---------
@@ -21,18 +22,18 @@ sobre](https://pt.wikipedia.org/wiki/Conjectura_de_Collatz)
 
 Faça um programa que dado um conjunto de portas retorne a porta matemática.
 
-### Entrada
+## Entrada
 
 -   1 Inteiro N seguido de N Inteiros.
 
-### Saída
+## Saída
 
 -   O número que representa a porta matemática.
 -   Ou \"a porta nao existe\", caso a porta não exista
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>>
 6
 1 2 4 7 8 5

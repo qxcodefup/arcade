@@ -1,6 +1,6 @@
-## L2 - Jogo da Concentração 💎
+# L2 - Jogo da Concentração 💎
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -8,7 +8,7 @@ Um jogo de concentração muito antigo é fazer contagem utilizando dois número
 
 Se a pessoa estiver utilizando os números 1 e 10, ela deve manter na memória e repetir a sequência até os número trocarem de posição. A sequência completa fica assim:
 
-```
+```txt
 1 10 2 9 3 8 4 7 5 6 6 5 7 4 8 3 9 2 10 1
 ```
 
@@ -18,7 +18,7 @@ Dados dois número A e B, com A sempre menor que B, gere a sequencia que o jogad
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1 10
 ========

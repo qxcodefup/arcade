@@ -1,7 +1,8 @@
-## @153 L3 - Torre - OBI 2015 - Fase 2 - Nível 1
+# @153 L3 - Torre - OBI 2015 - Fase 2 - Nível 1
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/153/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/153/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/153/cover.jpg)
 
 ## Motivação
 
@@ -15,13 +16,13 @@ O professor Paulo está solicitando a sua ajuda para implementar um programa que
 
 No exemplo da figura acima, com um tabuleiro de dimensão seis (ou seja, seis linhas por seis colunas), o peso máximo é 67, referente à posição (4,4).
 
-### Entrada
+## Entrada
 
 - A primeira linha da entrada contém um inteiro N, representando a dimensão do tabuleiro.
 
 - Cada uma das N linhas seguintes contém N inteiros positivos X\_i, definindo os números em cada posição do tabuleiro.
 
-### Saída
+## Saída
 
 Seu programa deve produzir uma única linha, contendo um único inteiro, o peso máximo entre todas as posições do tabuleiro.
 
@@ -36,7 +37,7 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o peso 
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 6
 4 1 3 8 4 5

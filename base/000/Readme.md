@@ -1,26 +1,25 @@
-## L1 - Operações básicas
-[](solver.c)
-![](cover.jpg)
+# L1 - Operações básicas
+
+![_](cover.jpg)
 
 ## Ação
 
 Leia dois números e imprima a soma, a subtração, a multiplicação, a divisão e o resto da divisão entre eles respectivamente.
 
-### Entrada:
+## Entrada
 
 * Valores de A, B em inteiro, um por linha.
 
-### Saída:
+## Saída
 
 * Valores da soma, subtração, multiplicação, divisão e resto da divisão.
 
 * Valor da divisão deve ser em ponto flutuante de duas casas decimais.
 * O valor de B nunca será 0, então não se preocupe com divisão por 0.
 
-
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1
 4
@@ -50,5 +49,4 @@ Seja a variável `valor` um número em ponto flutuante, você pode imprimir essa
 - Javascript: `console.log(valor.toFixed(2))`
 - Python: `print("%.2f" % (valor))`
 
-
-[![](video.png)](https://youtu.be/XbjHzCULmEI)
+[![_](video.png)](https://youtu.be/XbjHzCULmEI)

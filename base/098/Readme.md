@@ -1,7 +1,7 @@
-## L3 - Jason e Krueguer
+# L3 - Jason e Krueguer
 ### Busca de maior ocorrencia
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -24,7 +24,7 @@ Algum tempo depois...
 
 Faça um programa que dada uma string retorne uma linha contendo o subtexto com a maior quantidade de vogais juntas.
 
-### Entrada
+## Entrada
 
 *   1a linha: a quantidade de casos de teste(1 a 50). Uma linha por caso de teste contendo uma frase de até 50 caracteres, apenas com minuscula.
 
@@ -34,7 +34,7 @@ Faça um programa que dada uma string retorne uma linha contendo o subtexto com 
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1
 aeb

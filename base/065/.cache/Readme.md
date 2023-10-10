@@ -1,7 +1,8 @@
-## @065 L3 - Sapinho 3 matemático
+# @065 L3 - Sapinho 3 matemático
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/065/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/065/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/065/cover.jpg)
 
 ## Motivação
 
@@ -13,17 +14,17 @@
 
 Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcular a força mínima antes de começar  a pular.  
 
-### Entrada
+## Entrada
 
 *   P, E inteiros, um por linhas.  
 
-### Saída
+## Saída
 
 *   A menor força de salto que o sapinho deve ter para conseguir sair do poço  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 10
 1

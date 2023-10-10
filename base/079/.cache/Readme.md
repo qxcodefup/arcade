@@ -1,7 +1,8 @@
-## @079 L3 - Jogo do Avesso V2
+# @079 L3 - Jogo do Avesso V2
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/079/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/079/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/079/cover.jpg)
 
 ## Motivação
 
@@ -22,18 +23,19 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 
 \[DS\]
 
-### Entrada
+## Entrada
 
 *   linha 1: o tamanho N do vetor de operarios(0 < N < 100) e a quantidade X de gritos do chefe( 0 < X < 100)
 *   linha 2: o vetor de operarios, cada elemento entre (0 < 100)
 *   linha 3: o vetor de gritos, cada elemento entre (0 < 100)
 
-### Saída
+## Saída
+
 - o novo vetor.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3 1
 3 1 4
@@ -58,5 +60,4 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 [-3 -4 8 9 1 -5 -6]
 <<<<<<<<
 ```
-
 

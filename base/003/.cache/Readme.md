@@ -1,7 +1,8 @@
-## @003 L2 - Opala bebedor 🎥💎
+# @003 L2 - Opala bebedor 🎥💎
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/003/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/003/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/003/cover.jpg)
 
 [Explicação](https://youtu.be/d0nlVzjtMBE)
 
@@ -9,23 +10,25 @@
 
 Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em minutos e o consumo de um carro em litros e pediu que você faça um programa que calcule o desempenho do motor em km por litro.
 
-### Dica:
+## Dica
 
 - O tempo em hora eh tempo em minutos/60
 - A distancia percorrida é velocidade vezes tempo em horas
 - O desempenho é distancia / consumo.
 
-### Entrada
+## Entrada
+
 - Velocidade em km/h
 - Tempo em minutos
 - Consumo em litros
 
-### Saída
+## Saída
+
 - Desempenho com duas cadas decimais.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> corsa
 100
 60
@@ -43,4 +46,4 @@ Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em
 <<<<<<<<
 ```
 
-[Resolução](https://youtu.be/VkL2XkEZetk)
+[Resolução](https://youtu.be/VkL2XkEZetk

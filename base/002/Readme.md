@@ -1,7 +1,6 @@
-## L2 - Pintando a casa 🎥💎
-[](solver.c)
+# L2 - Pintando a casa 🎥💎
 
-![](cover.jpg)
+![_](cover.jpg)
 
 [Explicação](https://youtu.be/nlgT_jAtmy4)
 
@@ -13,17 +12,19 @@ Fernando comprou uma casa triangular. Na hora de calcular a quantidade de tinta 
 
 Utilize a seguinte fórmula para calcular a área de um triângulo a partir do tamanho de seus lados.
 
-![](heron.jpg)
+![_](heron.jpg)
 
-### Entrada
+## Entrada
+
 - 3 lados em float, um por linha
 
-### Saída
+## Saída
+
 - Área com duas casas decimais.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 4
 3

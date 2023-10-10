@@ -1,6 +1,6 @@
 # L1 - Paredes
 
-![](cover.jpg)
+![_](cover.jpg)
 
 by @wladmir
 
@@ -18,7 +18,7 @@ A segunda linha de cada caso de teste contém N inteiros (A1 ... An) denotando a
 Imprima um único inteiro denotando o número total de paredes contadas por Bob
 
 **Exemplo de Entrada**
-```
+```txt
 >>>>>>>>
 5
 1 3 3 5 4
@@ -40,9 +40,8 @@ Imprima um único inteiro denotando o número total de paredes contadas por Bob
 1
 <<<<<<<<
 
-```
+```txt
 Aluízio será capaz de ver as paredes de altura 1,3,5.
-
 
 
 

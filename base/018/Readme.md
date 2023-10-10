@@ -1,7 +1,6 @@
-## L2 - Arredondar
+# L2 - Arredondar
 
-[](solver.c)
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -16,17 +15,17 @@ int round(float num);
 int floor(float num);
 int ceil(float num);
 
-### Entrada:
+## Entrada
 
-*   Na main leia um char representando a operação (r, f, c) e um float.
+* Na main leia um char representando a operação (r, f, c) e um float.
 
 ### Saida
 
-*   imprima um inteiro de acordo com a operação pedida.  
+* imprima um inteiro de acordo com a operação pedida.  
 
-### Exemplos:
+### Exemplos
 
-```
+```txt
 >>>>>>>>
 c
 5.5
@@ -62,4 +61,3 @@ r
 5
 <<<<<<<<
 ```
-

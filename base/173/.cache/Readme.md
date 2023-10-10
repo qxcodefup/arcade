@@ -1,7 +1,8 @@
-## @173 L1 - Eribelton e a Ascologia V1 - Somar Asc
+# @173 L1 - Eribelton e a Ascologia V1 - Somar Asc
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/173/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/173/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/173/cover.jpg)
 
 ## Motivação
 
@@ -16,17 +17,17 @@ Quanto menor o valor obtido, maior é o poder ascológico de um nome.
 
 Receba um nome como entrada e some todos os caracteres. Imprima o resto da soma por 50.  
 
-### Entrada
+## Entrada
 
 *   Um nome.  
 
-### Saída
+## Saída
 
 *   Resto da divisão da soma dos caracteres por 50.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 David
 ========

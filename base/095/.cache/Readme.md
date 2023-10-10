@@ -1,7 +1,9 @@
-## @095 L2 - Avestruz com Alcaparras
+# @095 L2 - Avestruz com Alcaparras
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/095/Readme.md)
 ### Contar Maiusculas e Minusculas!
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/095/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/095/cover.jpg)
 
 ## Motivação
 
@@ -19,17 +21,17 @@ Conte os caracteres MAIÚSCULOS e MINÚSCULOS.
 
 OBS: Não use o método count do python.
 
-### Entrada
+## Entrada
 
 *   Uma frase de até 100 caracteres e uma letra.
 
-### Saída
+## Saída
 
 *   O número de vezes que a letra aparece na frase.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 A Andreia alimentou a avestruz com alcaparras
 a
@@ -50,4 +52,4 @@ x
 ========  
 0
 <<<<<<<<
-```
+```txt

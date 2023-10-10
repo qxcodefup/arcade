@@ -1,11 +1,10 @@
-## L3 - Permutação
-![](solver.c)
+# L3 - Permutação
+!
 Verifique se um número é permutação de outro
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ### Motivação
-
 
 Júlia está no mundo da matemática, e tem um problema bem curioso ela
 pretende reordenar dígitos de uma determinada sequência para gerar outra
@@ -20,21 +19,19 @@ Sabendo disso, ajude Júlia nessa missão e retorne se um número é ou não per
 
 ### Ação
 
-
 Dados 2 Inteiros, retornar se ambos são permutação entre si.
 
-### Entrada
+## Entrada
 
 -   2 Inteiros , A e B.
 
-### Saída
+## Saída
 
 -   "True", se A é permutação de B.
 -   "False", se A não é permutação de B.
 
-
 ### Testes
-```
+```txt
 >>>>>>>>
 123 321
 ========

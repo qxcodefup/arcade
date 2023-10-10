@@ -1,7 +1,9 @@
-## @120 L3 - Gansos Gamados
+# @120 L3 - Gansos Gamados
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/120/Readme.md)
 ### Verificar ordenação da frase
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/120/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/120/cover.jpg)
 
 ## Motivação
 
@@ -23,17 +25,17 @@
 
 Dada uma frase, imprima "sim" se as palavras estiverem ordenadas e "nao" caso contrario.
 
-### Entrada
+## Entrada
 
 - Uma frase de até 100 caracteres minúsculos e sem acento.
 
-### Saída
+## Saída
 
 - "sim" ou "nao".
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 a amora azul
 ========

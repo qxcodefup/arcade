@@ -1,7 +1,7 @@
-## L2 - Queda de dominós
+# L2 - Queda de dominós
 
   
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -13,19 +13,19 @@ Para ajudar nessa importante tarefa, Deo pediu sua ajuda para verificar se uma f
 
 Leia um vetor de tamanho n (quantidade de dominós) , e diga se ele está ordenado de forma crescente.  
   
-### Entrada
+## Entrada
 
 *   O número **n** ( 0 < **n **<= 50) de dominós.  
 *   A altura (inteira) de cada dominó.  
 
-### Saída
+## Saída
 
 *   "ok" caso  caso vetor esteja ordenado.
 *   "precisa de ajuste" caso vetor esteja desordenado.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5
 1 2 3 4 4
@@ -46,4 +46,4 @@ precisa de ajuste
 ========
 ok
 <<<<<<<<
-```
+```txt

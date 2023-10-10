@@ -1,7 +1,8 @@
-## @104 L1 - Maiúsculo, Minusculo e Dígito!
+# @104 L1 - Maiúsculo, Minusculo e Dígito!
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/104/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/104/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/104/cover.jpg)
 
 ## Motivação
 
@@ -13,11 +14,11 @@ Sexta série é fogo. Pedrinho já repetiu 8 vezes a tarefinha de português e a
 
 Dado a entrada de um caractere retorne maiúsculo se ele for minúsculo e vice versa.
 
-### Entrada
+## Entrada
 
 *   Um caractere.
 
-### Saída
+## Saída
 
 *   Se ele for maiúsculo, retorne o minúsculo.
 *   Se ele for minusculo, retorne o maiúsculo.
@@ -25,7 +26,7 @@ Dado a entrada de um caractere retorne maiúsculo se ele for minúsculo e vice v
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 a
 ========
@@ -50,7 +51,6 @@ b
 !
 <<<<<<<<
 ```
-
 
 
 #

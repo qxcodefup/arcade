@@ -1,7 +1,8 @@
-## @144 L2 - Função que retorna vários valores por referência
+# @144 L2 - Função que retorna vários valores por referência
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/144/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/144/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/144/cover.jpg)
 
 ## Motivação
 
@@ -30,7 +31,6 @@ int main(){
    // Chame a função 'converte_tempo' para converter o valor de 'tempo' em horas
    // minutos e segundos, gravando o resultado nas variáveis 'h', 'm' e 's'.
 
-
    printf("%d:%d:%d", h, m, s);
 }
 ```
@@ -43,7 +43,7 @@ Você deverá:
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 7384
 ========

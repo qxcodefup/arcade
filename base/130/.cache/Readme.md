@@ -1,7 +1,8 @@
-## @130 L2 - Bingo!
+# @130 L2 - Bingo!
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/130/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/130/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/130/cover.jpg)
 
 ## Motivação
 
@@ -18,17 +19,17 @@ Dado um vetor de tamanho 6 de elementos inteiros, verifique quantos elementos de
 30 87 55 69  
 13 60 99 66
 
-### Entrada
+## Entrada
 
 *   Entrada de 6 numero inteiros
 
-### Saída
+## Saída
 
 *   Número de vezes que os elementos do vetor e repetem na matriz 4x4.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 55 30 2 974 79 23
 ========

@@ -1,7 +1,7 @@
-## L2 - Fila do RU
+# L2 - Fila do RU
 ### Separar Pares e Ímpares
 
-![](cover.jpg)
+![_](cover.jpg)
 
 [](solver.cpp)
 
@@ -16,19 +16,19 @@ e STAs (seu professor agradece) e uma para alunos.
 
 Imprima todos os números ímpares na ordem em que foram inseridos na primeira linha, e imprima todos os pares na segunda linha de forma análoga.
 
-### Entrada
+## Entrada
 
 *   Quantidade N de pessoas na fila.
 *   N valores inteiros onde um número ímpar representa um aluno e um par representa um servidor.  
 
-### Saída
+## Saída
 
 *   Os números ímpares na ordem que aparecem na entrada.
 *   Os números pares na ordem que aparecem na entrada.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 2
 4 2
@@ -52,4 +52,4 @@ Imprima todos os números ímpares na ordem em que foram inseridos na primeira l
 [ 1 5 3 9 ]
 [ 2 4 ]
 <<<<<<<<
-```
+```txt

@@ -1,7 +1,8 @@
-## @149 L1 - Operações
+# @149 L1 - Operações
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/149/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/149/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/149/cover.jpg)
 
 ## Motivação
 
@@ -15,7 +16,7 @@ Crie um programa que leia do usuário dois números inteiros e calcule o valor d
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5  
 2

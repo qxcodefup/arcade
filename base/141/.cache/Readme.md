@@ -1,7 +1,8 @@
-## @141 L2 - Números de Fibonacci
+# @141 L2 - Números de Fibonacci
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/141/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/141/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/141/cover.jpg)
 
 ## Motivação
 
@@ -37,7 +38,7 @@ A função fib abaixo retorna o n-ésimo número de Fibonacci, mas de forma não
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 1
 ========

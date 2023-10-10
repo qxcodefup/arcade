@@ -1,7 +1,8 @@
-## @049 L2 - Sapinho 1 no Poço
+# @049 L2 - Sapinho 1 no Poço
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/049/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/049/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/049/cover.jpg)
 
 ## Motivação
 
@@ -22,17 +23,17 @@ para mostrar os saltos do sapo até a saída.
 
 Imprima todas as posições de aterrissagem dos saltos do sapinho.
 
-### Entrada
+## Entrada
 
 * P, S, E inteiros, um por linhas. S sempre será maior que E.
 
-### Saída
+## Saída
 
 * as posições de salto e aterrissagem do sapinho até que ele saia do poço.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 500
 100

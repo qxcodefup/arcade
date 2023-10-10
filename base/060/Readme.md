@@ -1,7 +1,6 @@
-## L1 - Casamento
+# L1 - Casamento
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -13,17 +12,17 @@ Que história ein?
 
 Escreva um programa onde receba um vetor de tamanho 5 e que dê como saída a soma do maior e do menor elemento deste vetor. Assuma que você não conhece o limite superior ou inferior dos elementos que estão no vetor.
 
-### Entrada
+## Entrada
 
 *   Um vetor possuindo 5 elementos.
 
-### Saída
+## Saída
 
 *   A soma do maior elemento com o menor.
 
 ## Exemplo
 
-```
+```txt
 >>>>>>>>
 1 2 3 4 5
 ========

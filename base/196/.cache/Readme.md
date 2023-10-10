@@ -1,7 +1,8 @@
-## @196 L2 - Comprando TV parcelado
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/196/cover.jpg)
+# @196 L2 - Comprando TV parcelado
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/196/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/196/cover.jpg)
 
 Aluízio quer comprar uma televisão parcelada. Ele tem X reais por mês disponíveis para pagar a televisão. No parcelamento, quanto mais parcelas, maior o juros que usa a seguinte regra. 
 
@@ -18,7 +19,7 @@ Aluízio quer comprar uma televisão parcelada. Ele tem X reais por mês dispon�
 
 Dado o valor da televisão e a quantidade de parcelas, um por linha, calcule o valor da parcela e o valor total que Aluízio vai pagar. Imprima a saída conforme o exemplo a seguir.
 
-```
+```txt
 >>>>>>>>
 100
 1

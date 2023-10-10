@@ -1,7 +1,6 @@
-## L2 - Invertendo vetor
+# L2 - Invertendo vetor
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -14,7 +13,7 @@ Um aluno capoeirista estava sentado quietinho no cantinho da UFC quando um amigo
 
 Faça uma função que ajude o capoeirista a inverter um vetor passado na entrada.
 
-### Entrada
+## Entrada
 
 *   1ª linha: número de elementos
 

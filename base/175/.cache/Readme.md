@@ -1,13 +1,14 @@
-## @175 L3 - Separando a partir de tokens
+# @175 L3 - Separando a partir de tokens
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/175/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/175/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/175/cover.jpg)
 
 ## Ação
 
 Dada uma frase (max 100 char) com palavras (letras minusculas), números e espaço, divida os elementos em n frases usando os tokens ' # ' e ' ; ' como referência de fim para aquela frase.
 
-### Entrada
+## Entrada
 
 * Uma frase (max 100 char) com palavras (letras minusculas), números e espaços que podem ser separados por tokens.
 
@@ -17,7 +18,7 @@ Dada uma frase (max 100 char) com palavras (letras minusculas), números e espa�
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 mamae me ama#15#1.76;
 ========

@@ -1,6 +1,8 @@
-## @164 L2 - Triângulo de varetas
+# @164 L2 - Triângulo de varetas
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/164/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/164/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/164/cover.jpg)
 
 Você pegou no chão de casa 3 varetas de tamanhos distintos e tentou formar um triângulo com essas varetas.
 
@@ -8,10 +10,9 @@ Para formar um triângulo, nenhuma das varetas pode ser maior que a soma das out
 
 Leia o tamanho das 3 varetas e informe se é possível formar o triângulo.
 
-
 ## Testes
 
-```
+```txt
 >>>>>>>>
 4
 7

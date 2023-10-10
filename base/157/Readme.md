@@ -1,7 +1,6 @@
-## L1 - Frota de Táxi - OBI 2005
+# L1 - Frota de Táxi - OBI 2005
 
-[](solver.c)
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -21,7 +20,7 @@ quilômetros por litro que um carro bi-combustı́vel realiza com cada um desse
 se é mais econômico abastecer os carros da CTT com álcool ou com gasolina. No caso de não haver  
 diferença de custo entre abastecer com álcool ou gasolina a CTT prefere utilizar gasolina.  
   
-### Entrada
+## Entrada
 
 - A entrada é composta por uma linha contendo quatro números reais com precisão de duas casas  
 decimais A, G, Ra e Rg , representando respectivamente o preço por litro do álcool, o preço por litro  
@@ -29,7 +28,7 @@ da gasolina, o rendimento (km/l) do carro utilizando álcool e o rendimento (km
 gasolina.  
 A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado).  
   
-### Saída
+## Saída
 
 - A saı́da deve ser composta por uma única linha contendo o caractere 'A' se é mais econômico abastecer
 a frota com álcool ou o caractere 'G' se é mais econômico ou indiferente abastecer a frota com gasolina.  
@@ -44,7 +43,7 @@ A saı́da deve ser escrita no dispositivo de saı́da padrão (normalmente a t
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 1.00 1.00 8.00 8.01
 ========

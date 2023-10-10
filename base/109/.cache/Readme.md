@@ -1,7 +1,9 @@
-## @109 L2 - Eribelton e a Ascologia V2
+# @109 L2 - Eribelton e a Ascologia V2
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/109/Readme.md)
 ### Buscando a perfeição
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/109/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/109/cover.jpg)
 
 ## Motivação
 
@@ -16,7 +18,7 @@ Para isso a única modificação que você pode fazer no nome é adicionar uma l
 final da palavra, um alfabético minúsculo apenas. Apenas um. Se não existir
 nenhuma adição que coloque o valor em 0, escreva "sem sorte".
 
-### Entrada
+## Entrada
 
 - Uma palavra apenas com minúsculos e maiúsculos sem espaços (1 a 30 chars).
 
@@ -26,7 +28,7 @@ O novo nome ou "sem sorte"
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 Dhaquison
 ========

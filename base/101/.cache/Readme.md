@@ -1,7 +1,9 @@
-## @101 L2 - Mostrar cartas
+# @101 L2 - Mostrar cartas
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/101/Readme.md)
 ### Imprimir vetor formatado
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/101/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/101/cover.jpg)
 
 ## Ação
 
@@ -9,15 +11,17 @@ Leia um vetor contendo uma mão de cartas e mostre as cartas para o usuário.
 
 As cartas estão codificadas da seguinte forma. O 1 vale A, os valores 11, 12 e 13 valem respectivamente J, Q e K.
 
-### Entrada
+## Entrada
+
 - 1ª linha: 'N' quantidade de cartas na mão
 - 2ª linha: 'N' valores representando as cartas do usuário.
-### Saída
+## Saída
+
 - Vetor formatado entre [ ], separados por ' , '.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 0
 ========
@@ -51,4 +55,4 @@ As cartas estão codificadas da seguinte forma. O 1 vale A, os valores 11, 12 e 
 ========
 [10, 10, 2, 2, J, A]
 <<<<<<<<
-```
+```txt

@@ -1,7 +1,8 @@
-## @027 L2 - Adedonha 💎
+# @027 L2 - Adedonha 💎
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/027/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/027/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/027/cover.jpg)
 
 ## Motivação
 
@@ -47,10 +48,12 @@ Três irmãos da Califórnia (um distrito da cidade de Quixadá) estavam debaixo
 
 Leia a soma dos dedos dos três irmãos e diga qual a letra L que será utilizada no jogo.
 
-### Entrada 
+## Entrada
+
 - Um inteiro representando a soma dos dedos dos 3 irmãos
 
-### Saída
+## Saída
+
 - A letra correspondente ou "Joguem de novo" se ninguém colocou nenhum dedo.
 
 ## Limites
@@ -59,7 +62,7 @@ Leia a soma dos dedos dos três irmãos e diga qual a letra L que será utilizad
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 0 
 ========

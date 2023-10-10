@@ -1,7 +1,7 @@
-## L2 - Meu cachorro comeu minha tarefa
+# L2 - Meu cachorro comeu minha tarefa
 ### Retirar espaços
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -18,17 +18,17 @@ Pergunta:
 
 Faça um código que retire os espaços duplicados que existem entre duas palavras.
 
-### Entrada
+## Entrada
 
 *   Um texto(até 200 chars) com duas palavras e vários espaços entre elas.
 
-### Saída
+## Saída
 
 *   O menor valor inteiro.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 galinha          pintadinha
 ========

@@ -1,7 +1,9 @@
-## @121 L3 - Mário e o Assassins Creed
+# @121 L3 - Mário e o Assassins Creed
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/121/Readme.md)
 ### Lendo cenário
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/121/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/121/cover.jpg)
 
 ## Motivação
 
@@ -28,13 +30,13 @@ E o vetor 1133464221 seria como o seguinte cenário:
     __#######_
     ##########
 
-### Entrada
+## Entrada
 
 - A quantidade de elementos no vetor (1 à 20).  
 
 - O vetor de números, sendo cada número entre 1 e 20.  
 
-### Saída:
+## Saída
 
 - Cenário representado por  **\_**  e  **#**
 
@@ -72,4 +74,4 @@ __#####___
 __#######_
 ##########
 <<<<<<<<
-```
+```txt

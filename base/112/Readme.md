@@ -1,7 +1,6 @@
-## L3 - Rocicleia e o Locioreca - Anagramas!
+# L3 - Rocicleia e o Locioreca - Anagramas!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -14,17 +13,17 @@ Uma palavra é anagrama de outra se é formada pelas mesmas letras nas mesmas QU
 
 Dadas duas palavras, imprima sim se elas são anagramas e não se não são anagramas.
 
-### Entrada
+## Entrada
 
 *   A entrada são duas palavras, uma por linha, apenas caracteres minúsculos e sem espaços.
 
-### Saída
+## Saída
 
 *   A saída deve ser apenas "sim" ou "nao".
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 paralelepipedo
 pepidoelelapar

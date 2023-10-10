@@ -1,7 +1,6 @@
-## L1 - Valdiskey e a cifra V1!
+# L1 - Valdiskey e a cifra V1!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -21,18 +20,18 @@ Valdisklei chegou em casa com sua tarefinha sobre o alfabeto.
 
 Dado uma letra e um valor de rotação retorne a letra resultante.
 
-### Entrada
+## Entrada
 
 * Letra minuscula entre 'a' e 'z'
 * Um valor inteiro positivo ou negativo onde negativo significa um rotação pra frente e negativo uma rotação pra trás.
 
-### Saída
+## Saída
 
 * A letra resultante
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>> 01
 a
 0
@@ -67,4 +66,4 @@ b
 ========
 z
 <<<<<<<<
-```
+```txt

@@ -1,7 +1,6 @@
-## L2 - Quiz do Harry Potter
+# L2 - Quiz do Harry Potter
 
-[](solver.c)
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Descrição
 
@@ -49,16 +48,19 @@ Número de acertos | Saída do programa
 3               | Fa
 4               | Super Fa
 
-### Entrada
+## Entrada
+
 - 4 letras(abcd) uma por linha.
-### Saída
+
+## Saída
+
 - O texto correspondente ao número de acertos.
 
 ---
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>>
 a
 c

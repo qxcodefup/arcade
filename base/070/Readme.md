@@ -1,7 +1,6 @@
-## L3 - Cabeças vão rolar
+# L3 - Cabeças vão rolar
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -32,18 +31,18 @@ Cinco pessoas e a princesa escolhe o 3.
 Sobra o cinco.  
 Dica: Não faça isso em casa.
 
-### Entrada
+## Entrada
 
 *   O número N de participantes.  
 *   O número X do participante que inicia o jogo.  
 
-### Saída
+## Saída
 
 *   O número do jogador vencedor.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5 
 3
@@ -57,4 +56,4 @@ Dica: Não faça isso em casa.
 ========
 4
 <<<<<<<<
-```
+```txt

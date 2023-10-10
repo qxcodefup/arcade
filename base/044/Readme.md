@@ -1,13 +1,13 @@
-## L3 - Soma de vários números.
+# L3 - Soma de vários números.
 
-![](cover.jpg)
+![_](cover.jpg)
 [](solver.py)
 
 ## Ação
 
 Faça uma função que receba um vetor e retorne e mmc dos números.
 
-### Entrada
+## Entrada
 
 *   Um número N (N < 50) seguindo de N números inteiros.
 
@@ -17,7 +17,7 @@ Faça uma função que receba um vetor e retorne e mmc dos números.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 4 2 5 4 6
 ========
@@ -35,4 +35,4 @@ Faça uma função que receba um vetor e retorne e mmc dos números.
 ========
 120
 <<<<<<<<
-```
+```txt

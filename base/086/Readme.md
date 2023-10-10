@@ -1,7 +1,6 @@
-## L3 - Tazos
+# L3 - Tazos
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -9,18 +8,18 @@ Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos e
 
 \[DS\]
 
-### Entrada
+## Entrada
 
 - Linha 1: um número positivo com a quantidade de elementos do vetor (1 a 50), ordenado.
 - Linha 2: o vetor de inteiros.
 
-### Saída
+## Saída
 
 - Os elementos que se repetem mais.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3
 1 1 2

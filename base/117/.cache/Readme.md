@@ -1,7 +1,8 @@
-## @117 L3 - Identificando Ultrons V2
+# @117 L3 - Identificando Ultrons V2
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/117/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/117/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/117/cover.jpg)
 
 ## Motivação
 
@@ -27,7 +28,7 @@ Como são 3 ocorrências em 5 letras, isso dá mais de 50%, o que garante que o 
 *   Código ultron com N letras( 1 <= N <=26).  As letras não se repetem dentro do código.
 *   Código da pessoa.
 
-### Saída
+## Saída
 
 *   "pessoa" se a correspondência for menor ou igual a 50%.  
     "ultron" se a correspondência for maior do que 50%.  
@@ -35,7 +36,7 @@ Como são 3 ocorrências em 5 letras, isso dá mais de 50%, o que garante que o 
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 4
 aeiou

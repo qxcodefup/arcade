@@ -1,13 +1,14 @@
-## @091 L2 - MMC
+# @091 L2 - MMC
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/091/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/091/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/091/cover.jpg)
 
 ## Ação
 
 Faça uma função que calcule e retorne o mmc de dois números.  
 
-### Entrada
+## Entrada
 
 *   Dois numeros inteiros N e M.
 
@@ -17,7 +18,7 @@ Faça uma função que calcule e retorne o mmc de dois números.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 6 9
 ========

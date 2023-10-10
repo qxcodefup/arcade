@@ -1,7 +1,8 @@
-## @051 L3 - Pedra na lua
+# @051 L3 - Pedra na lua
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/051/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/051/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/051/cover.jpg)
 
 ## Motivação
 
@@ -16,8 +17,7 @@ Vários competidores disputaram uma competição interessante.
 - O primeiro competidor tem número índice 0.
 - Se houver empate nos pontos, ganha o competidor que tem menor índice.
 
-
-### Entrada
+## Entrada
 
 * O número N de competidores.
 
@@ -29,7 +29,7 @@ Vários competidores disputaram uma competição interessante.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 2
 8 11
@@ -66,4 +66,4 @@ Vários competidores disputaram uma competição interessante.
 3
 <<<<<<<<
 
-```
+```txt

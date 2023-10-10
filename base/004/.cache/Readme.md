@@ -1,7 +1,8 @@
-## @004 L3 - Mete bala
-[](solver.c)
+# @004 L3 - Mete bala
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/004/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/004/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/004/cover.jpg)
 
 ## Motivação
 
@@ -16,19 +17,18 @@ Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto
 
 <img style="transform: translateY(0.1em);" src="https://render.githubusercontent.com/render/math?math=d_%7BAB%7D%3D%5Csqrt%7B(X_B-X_A)%5E2%2B(Y_B-Y_A)%5E2%7D">
 
-
-### Entrada:
+## Entrada
 
 * Coordenada X e coordenada Y do primeiro ponto.
 * Coordenada X e coordenada Y do segundo ponto.
 
-### Saída:
+## Saída
 
 * A distância entre os pontos com duas casas decimais.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 3
 7
@@ -75,5 +75,3 @@ printf("%.2f", valor);
 Para calcular a raiz quadrada você deverá importar a biblioteca math.h em seu projeto e chamar a função sqrt() passando o valor que você deseja encontrar a raiz.
 
 Para elevar ao quadrado você pode usar a função pow(x,2) que retorna x², ou fazer x * x. A função pow() também pertence à math.h.
-
-

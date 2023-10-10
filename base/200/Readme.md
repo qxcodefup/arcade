@@ -1,6 +1,6 @@
 # L2 - Vacina
 
-![](cover.jpg)
+![_](cover.jpg)
 
 by @wladmir
 
@@ -16,13 +16,11 @@ A segunda linha contém N inteiros, representando a força das vacinas. A tercei
 
 Imprima uma única linha contendo Yes, se todos os pacientes podem ser salvos e No, caso contrário.
 
-
 A força das vacinas e a contagem de células T de pacientes cabem em um número inteiro.
-
 
 **Exemplo de entrada**
 
-```
+```txt
 5
 123 146 454 542 456
 100 328 248 689 200
@@ -30,7 +28,7 @@ A força das vacinas e a contagem de células T de pacientes cabem em um número
 
 **Exemplo de Saída** 
 
-```
+```txt
 No
 ```
 
@@ -40,10 +38,9 @@ No
 >
 > A vacina 2 (contagem 146) não cura nenhum outro.
 
-
 **Exemplo de entrada**
 
-```
+```txt
 5
 123 690 454 150 456
 100 328 248 689 145
@@ -51,7 +48,7 @@ No
 
 **Exemplo de Saída** 
 
-```
+```txt
 Yes
 ```
 
@@ -66,11 +63,6 @@ Yes
 > A vacina 4 (contagem 150) cura o paciente 5.
 >
 > A vacina 5 (contagem 150) cura o paciente 3.
-
-
-
-
-
 
 
 

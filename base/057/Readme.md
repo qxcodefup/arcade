@@ -1,7 +1,6 @@
-## L2 - Revolta em Portugal
+# L2 - Revolta em Portugal
 
-
-![](cover.jpg)
+![_](cover.jpg)
 [](t.tio)
 ## Motivação
 
@@ -15,13 +14,13 @@ Um grupo de portugueses planejava fazer uma revolução armada.
 
 Verifique se o grupo de Manoel ou de Joaquim conseguirá vencer essa batalha. Dado um vetor de números, os números ímpares representam os soldados e os números pares representam os rebeldes infiltrados. Some as forças e descubra qual dos dois grupos é mais forte.
 
-### Entrada
+## Entrada
 
 * 1ª linha: tamanho do vetor (1 a 50)
 
 * Próximas linhas: valor dos números, cada número entre 1 e 50.
 
-### Saída
+## Saída
 
 * "soldados" se os soldados(impares) somados são mais fortes.
 
@@ -31,7 +30,7 @@ Verifique se o grupo de Manoel ou de Joaquim conseguirá vencer essa batalha. Da
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>>
 2
 1
@@ -77,4 +76,4 @@ soldados
 ========
 rebeldes
 <<<<<<<<
-```
+```txt

@@ -1,13 +1,12 @@
-## L2 - MMC
+# L2 - MMC
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
 Faça uma função que calcule e retorne o mmc de dois números.  
 
-### Entrada
+## Entrada
 
 *   Dois numeros inteiros N e M.
 
@@ -17,7 +16,7 @@ Faça uma função que calcule e retorne o mmc de dois números.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 6 9
 ========

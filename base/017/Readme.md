@@ -1,7 +1,6 @@
-## L2 - Maior ovo
+# L2 - Maior ovo
 
-[](solver.c)
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -23,17 +22,17 @@ empática e fome, decidiu comer só o ovo maiorzinho.
 
 Leia 4 números e imprima o maior valor.
 
-### Entrada:
+## Entrada
 
 * Leia quatro valores inteiros do usuário.
 
-### Saída:
+## Saída
 
 * Imprima o maior valor lido.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3
 3
@@ -52,4 +51,3 @@ Leia 4 números e imprima o maior valor.
 8
 <<<<<<<<
 ```
-

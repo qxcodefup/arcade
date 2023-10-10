@@ -1,7 +1,6 @@
-## L3 - Campo Minado
+# L3 - Campo Minado
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -42,19 +41,19 @@ Mais exemplos no final da página.
 Leia uma matriz com **n** linhas e **m** colunas com a posição das minas. Preencha o restante da matriz seguindo as regras citadas.  
 Considere ( 1 <=  **n, m **<= 50).
 
-### Entrada
+## Entrada
 
 *   O número **n **(linhas)e **m**(colunas) .  
 
 *   Cada elemento da matriz: \* ou -  
 
-### Saída
+## Saída
 
 *   Campo preenchido com minas, vazios e números.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3 3
 ***
@@ -95,7 +94,6 @@ Considere ( 1 <=  **n, m **<= 50).
 *
 <<<<<<<<
 ```
-
 
 
 ## Mais exemplos

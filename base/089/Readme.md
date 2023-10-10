@@ -1,7 +1,6 @@
-## L2 - Mega Jokenpo!
+# L2 - Mega Jokenpo!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -18,17 +17,17 @@ NÃO faça na força BRUTA. Observe que cada elemento ganha dos 4 elementos a su
 - Ar sopra fogo, corrói pedra, evapoenferruja a tesoura e arma.  
 - Arma acerta pedra, fogo, tesoura e humano.
 
-### Entrada
+## Entrada
 
 - Texto em minúsculo e sem acentos contendo as opcões dos dois jogadores.  
 
-### Saída
+## Saída
 
 - empate, jog1 ou jog2.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 sponge
 gun
@@ -85,5 +84,4 @@ human
 jog2
 <<<<<<<<
 ```
-
 

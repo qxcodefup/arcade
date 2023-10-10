@@ -1,7 +1,8 @@
-## @182 L3 - Mulher mais idosa
+# @182 L3 - Mulher mais idosa
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/182/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/182/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/182/cover.jpg)
 
 ## Ação
 
@@ -9,11 +10,11 @@ Leia um grupo de pessoas e informe o nome da mulher mais idosa do grupo.
 
 Cada pessoa tem nome(string até 20 char, sem whitespace), idade(int) e sexo(char 'm' ou 'f').
 
-### Entrada
+## Entrada
 
 - 1a linha: o número de pessoas, seguido por uma pessoa por linha.
 
-### Saída
+## Saída
 
 - O nome da mulher mais idosa, ou 'nao ha mulher' se não houverem mulheres no grupo.
 
@@ -23,7 +24,7 @@ Antes e fazer a busca pela mulher mais idosa, você deve ler os dados e armazen�
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 2
 ana 80 f
@@ -58,5 +59,4 @@ melissa 84 f
 melissa
 <<<<<<<<
 ```
-
 

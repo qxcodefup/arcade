@@ -1,7 +1,6 @@
-## L2 - Spok Palíndromo
+# L2 - Spok Palíndromo
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -18,17 +17,17 @@ Fazer uma função que recebe um inteiro referente ao ID de um planeta e retorne
 2ª Obs: Um número é `palíndromo` quando o seu inverso é igual a ele. 
 Por exemplo: 121 é palíndromo pois seu inverso é 121.
 
-### Entrada
+## Entrada
 
 *   Um número inteiro que indica o ID.  
 
-### Saída
+## Saída
 
 *   1 caso ID seja palíndromo.
 *   0 caso contrário.  
 
 ## Exemplo
-```
+```txt
 >>>>>>>>
 121
 ========  
@@ -40,4 +39,4 @@ Por exemplo: 121 é palíndromo pois seu inverso é 121.
 ========
 0
 <<<<<<<<
-```
+```txt

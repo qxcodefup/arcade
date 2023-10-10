@@ -1,7 +1,6 @@
-## L3 - Sopa de coelho?
+# L3 - Sopa de coelho?
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -24,11 +23,11 @@ Dado o número N, imprima o enésimo termo da série.
 
 Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, se estiver programando em c, use um long int.
 
-### Entrada
+## Entrada
 
 - N, um por linha.
 
-### Saída
+## Saída
 
 - O enésimo termo de Fibonacci.
 
@@ -38,7 +37,7 @@ Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, 
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1
 ========
@@ -56,4 +55,4 @@ Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, 
 ========
 12586269025
 <<<<<<<<
-```
+```txt

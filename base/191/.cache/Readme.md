@@ -1,13 +1,15 @@
-## @191 L2 - Coluna de Valor Maior
+# @191 L2 - Coluna de Valor Maior
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/191/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/191/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/191/cover.jpg)
 
 ## Motivação
 
 Ygor está trabalhando em sua matriz nesse exato momento! Ele quer saber qual coluna tem seu valor maior, o valor de uma coluna é dado pela soma dos quadrados(n²) dos elementos dessa coluna, Ygor quer saber qual coluna da sua matriz possui o valor maior.
 
 ### Exemplo :
-```
+```txt
 4 2 2
 3 1 3
 2 0 3
@@ -19,13 +21,13 @@ Na matriz acima, 3x3, onde as linhas são:0,1,2 e as colunas:0,1,2. A coluna que
 
 Dado um inteiro N, e uma matriz (N)X(N), determinar a coluna de valor maior.
 
-### Entrada:
+## Entrada
 
 1 Inteiro N.
 
 1 Matriz (N)X(N) de Inteiros.
 
-### Saída:
+## Saída
 
 A coluna que possui o valor maior.
 
@@ -34,7 +36,7 @@ A coluna que possui o valor maior.
 Se existirem duas ou mais colunas (j), que gera o valor maior igual, considere a primeira encontrada.
 
 ### Exemplos
-```
+```txt
 >>>>>>>> Teste 0
 3
 3 4 5
@@ -63,5 +65,5 @@ Se existirem duas ou mais colunas (j), que gera o valor maior igual, considere a
 ========
 4
 <<<<<<<<
-```
+```txt
 ###### @spinosa

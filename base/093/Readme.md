@@ -1,7 +1,7 @@
-## L2 - Gritando em Caixa Alta
+# L2 - Gritando em Caixa Alta
 ### Invertendo o Case da frase!
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -18,17 +18,17 @@
 
 Dado um texto(max 100 char) mostre o texto invertido. O que for minúsculo imprima em maiúsculo e vice versa. Números e pontuação deixe inalterado.
 
-### Entrada
+## Entrada
 
 *   Um texto (max 100 char)
 
-### Saída
+## Saída
 
 *   O texto com os caracteres invertido. O que for minúsculo imprima em maiúsculo e vice versa.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 O ovomaltine e GOSTOSO
 ========
@@ -46,4 +46,4 @@ pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
 ========
 1, dOIS, 3 iNDIOZINHOS
 <<<<<<<<
-```
+```txt

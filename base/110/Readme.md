@@ -1,7 +1,6 @@
-## L2 - Organizando Ru - Homens e Mulheres!
+# L2 - Organizando Ru - Homens e Mulheres!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -13,7 +12,7 @@ Você receberá uma frase e irá tratar as vogais como as mulheres e as consoant
 
 Cada frase tem até 100 char.
 
-### Entrada
+## Entrada
 
 *   1a linha: uma frase com letras minusculas e espaço apenas com ate 100 caracteres.  
 
@@ -25,7 +24,7 @@ Cada frase tem até 100 char.
 
 ## Exemplos  
 
-```
+```txt
 >>>>>>>>
 um abraco amigo
 ========
@@ -53,4 +52,4 @@ thunder thunder thunder cats owwww
 ueueueao
 thndrthndrthndrctswwww
 <<<<<<<<
-```
+```txt

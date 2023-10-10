@@ -1,13 +1,12 @@
-## L2 - Somando numeros
+# L2 - Somando numeros
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
 Dada uma frase(max 100 char) com palavras(letras minusculas), números e espaço, some todos os números que encontrar. Numa palavra existem apenas números ou apenas alfabéticos. Palavras são separadas por 1 espaço.
 
-### Entrada
+## Entrada
 
 * Uma frase(max 100 char) com palavras (letras minusculas), números e espaço
 
@@ -17,7 +16,7 @@ Dada uma frase(max 100 char) com palavras(letras minusculas), números e espaço
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 apesar de 2 jogadores serem expulsos, a seleção brasileira venceu a seleção italiana por 5 x 1
 ========

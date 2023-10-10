@@ -1,7 +1,8 @@
-## @002 L2 - Pintando a casa 🎥💎
-[](solver.c)
+# @002 L2 - Pintando a casa 🎥💎
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/002/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/002/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/002/cover.jpg)
 
 [Explicação](https://youtu.be/nlgT_jAtmy4)
 
@@ -13,17 +14,19 @@ Fernando comprou uma casa triangular. Na hora de calcular a quantidade de tinta 
 
 Utilize a seguinte fórmula para calcular a área de um triângulo a partir do tamanho de seus lados.
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/002/heron.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/002/heron.jpg)
 
-### Entrada
+## Entrada
+
 - 3 lados em float, um por linha
 
-### Saída
+## Saída
+
 - Área com duas casas decimais.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 4
 3

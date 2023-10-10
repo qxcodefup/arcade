@@ -1,7 +1,8 @@
-## @070 L3 - Cabeças vão rolar
+# @070 L3 - Cabeças vão rolar
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/070/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/070/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/070/cover.jpg)
 
 ## Motivação
 
@@ -32,18 +33,18 @@ Cinco pessoas e a princesa escolhe o 3.
 Sobra o cinco.  
 Dica: Não faça isso em casa.
 
-### Entrada
+## Entrada
 
 *   O número N de participantes.  
 *   O número X do participante que inicia o jogo.  
 
-### Saída
+## Saída
 
 *   O número do jogador vencedor.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5 
 3
@@ -57,4 +58,4 @@ Dica: Não faça isso em casa.
 ========
 4
 <<<<<<<<
-```
+```txt

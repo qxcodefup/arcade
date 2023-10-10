@@ -1,13 +1,12 @@
-## L2 - Primo 💎
+# L2 - Primo 💎
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
 Dado um número inteiro, faça uma função que verifique se ele é primo.  
 
-### Entrada
+## Entrada
 
 *   Um numero inteiro N.
 
@@ -17,7 +16,7 @@ Dado um número inteiro, faça uma função que verifique se ele é primo.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5
 ========

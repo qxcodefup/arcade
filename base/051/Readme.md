@@ -1,7 +1,6 @@
-## L3 - Pedra na lua
+# L3 - Pedra na lua
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -16,8 +15,7 @@ Vários competidores disputaram uma competição interessante.
 - O primeiro competidor tem número índice 0.
 - Se houver empate nos pontos, ganha o competidor que tem menor índice.
 
-
-### Entrada
+## Entrada
 
 * O número N de competidores.
 
@@ -29,7 +27,7 @@ Vários competidores disputaram uma competição interessante.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 2
 8 11
@@ -66,4 +64,4 @@ Vários competidores disputaram uma competição interessante.
 3
 <<<<<<<<
 
-```
+```txt

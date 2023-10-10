@@ -5,7 +5,6 @@ calc value times = value * juros + value
     where
         juros = (times - 1) * 0.05
 
-
 main = do
     value <- readLn :: IO Float
     times <- readLn :: IO Float

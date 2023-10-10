@@ -1,7 +1,8 @@
-## @054 L3 - Quebrador de Copos
+# @054 L3 - Quebrador de Copos
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/054/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/054/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/054/cover.jpg)
 
 ## Motivação
 
@@ -11,17 +12,17 @@ A brincadeira preferida de Maurício é pegar os copos da sua mãe e fazer uma t
 
 Faça um programa que dado um numero N inteiro (0<N<50) mostre na tela um triangulo isósceles formado por apenas N e com altura igual a N.
 
-### Entrada
+## Entrada
 
 * Inteiro N (0<N<50)
 
-### Saída
+## Saída
 
 * Um triângulo isósceles formado por apenas pelo numero N e com altura igual a N.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3
 ========

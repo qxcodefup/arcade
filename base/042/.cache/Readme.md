@@ -1,6 +1,8 @@
-## @042 L3 - Chefe Nervoso - OBI 2021
+# @042 L3 - Chefe Nervoso - OBI 2021
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/042/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/042/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/042/cover.jpg)
 
 [](solver.py)
 
@@ -12,11 +14,10 @@ Infelizmente, de vez em quando seu chefe fala números errados para você ao tel
 
 Infelizmente, seu chefe pode cometer erros repetidos, e diz “zero” para cada erro. Por exemplo, seu chefe pode falar ao telefone “Um, três, cinco, quatro, zero, zero, sete, zero, zero, seis”, o que significa uma soma total igual a 7, conforme explicado na tabela abaixo:
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/042/capa.png)
-
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/042/capa.png)
 
 Para não deixar seu chefe ainda mais nervoso, escreva um programa que determine a soma total dos números falados por seu chefe ao telefone.
-### Entrada
+## Entrada
 
 A primeira linha da entrada contém um inteiro N , a quantidade de números inteiros (incluindo os “zeros”) que o seu chefe falou ao telefone. Cada uma das N linhas seguintes contém um número inteiro Xi .
 
@@ -31,7 +32,7 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 4
 3
@@ -58,4 +59,4 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 7
 <<<<<<<<
 
-```
+```txt

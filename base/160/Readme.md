@@ -1,15 +1,14 @@
-## L3 - Somatório de Fibonacci
+# L3 - Somatório de Fibonacci
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
-
 
 Pedrinho está no mundo da matemática e agora ele é o cara, mas precisa da sua ajuda por hora.
 
 Ele está estudando sobre a série de Fibonacci, para quem não sabe ou quem quer saber, um novo termo na sequência de Fibonacci é gerado pela soma dos dois anteriores, começando em 1 e 2, os dez primeiros termos da serie de Fibonacci são:
 
-```
+```txt
 1, 2, 3, 5, 8, 13, 21, 34,55, 89, ...
 ```
 
@@ -19,7 +18,7 @@ Pedrinho quer dado um limite predefinido, calcular a soma de todos os termos da 
 
 - Dado um inteiro N e considerando os termos na sequência de Fibonacci cujos valores não excedem N, encontre a soma dos termos de valor par.
 
-### Entrada:
+## Entrada
 
 - 1 Inteiro N, 1 \< N \< 4000000.
 
@@ -29,7 +28,7 @@ Pedrinho quer dado um limite predefinido, calcular a soma de todos os termos da 
 
 ### Exemplos:
 
-```
+```txt
 >>>>>>>> Teste 0
 50
 ========

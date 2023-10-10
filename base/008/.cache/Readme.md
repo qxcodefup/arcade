@@ -1,7 +1,8 @@
-## @008 L3 - Senhas
+# @008 L3 - Senhas
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/008/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/008/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/008/cover.jpg)
 
 ## Motivação
 
@@ -9,25 +10,27 @@ Todo algoritmo de força bruta exige a geração de todas as combinações poss�
 
 Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem aparecer nela são "0,1,3". Calculando todas as permutações com repetição geraria as seguintes possibilidades:
 
-```
+```txt
 00, 01, 03, 10, 11, 13, 30, 31, 33 
 ```
 
-## Dica:
+## Dica
 
 É comum esses algoritmos de força bruta executarem por muitas horas e muitos dias. Então é importante guardar a última senha testada para no caso de ter que retornar os testes, retornar a partir do ponto que parou.
 
-### Entrada
+## Entrada
+
 - 1a linha: S Q, respectivamente o tamanho da senha e a quantidade de novas senhas a serem geradas. S entre 1 e 50, Q entre 1 e 100.
 - 2a linha: algarismos que podem aparecer na senha.
 - 3a linha: senha de partida.
 
-### Saída
+## Saída
+
 - As Q novas senhas a serem testadas uma por linha.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> numerico apenas
 4 10
 0179
@@ -76,4 +79,3 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 0089
 <<<<<<<<
 ```
-

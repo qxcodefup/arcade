@@ -1,8 +1,10 @@
-## @137 L2 - Fatoração
+# @137 L2 - Fatoração
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/137/Readme.md)
 
 ### Fatore um numero
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/137/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/137/cover.jpg)
 
 Motivação
 ---------
@@ -16,11 +18,11 @@ Ação
 
 Leia um Inteiro e represente-o com sua forma fatorada.
 
-### Entrada
+## Entrada
 
 -   1 Inteiro N.
 
-### Saída
+## Saída
 
 Sua forma fatorada, representado pela bases seguido de seus expoentes separado por um espaço.
 

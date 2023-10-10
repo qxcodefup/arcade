@@ -1,6 +1,7 @@
-## @039 L2 - Mercantil V2 - Maior ou Menor
+# @039 L2 - Mercantil V2 - Maior ou Menor
 
-[](solver.c)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/039/Readme.md)
+
 ![Silvio Santos](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/039/cover.jpg)
 
 ## Descrição
@@ -17,7 +18,7 @@ O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o 
 
 [DS]
 
-### Entrada:
+## Entrada
 
 * linha 1: o chute do Primeiro Jogador(float)
 * linha 2: a escolha do Segundo Jogador(m para menor e M para maior)
@@ -29,7 +30,7 @@ O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o 
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1.1
 m
@@ -62,5 +63,4 @@ m
 primeiro
 <<<<<<<<
 ```
-
 

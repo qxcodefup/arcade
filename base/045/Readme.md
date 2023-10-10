@@ -1,7 +1,6 @@
-## L1 - Soma dos pares
+# L1 - Soma dos pares
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -17,16 +16,16 @@ Some todos os números inteiros pares que estão entre A e B, inclusive A e B.
 
 Descubra em http://www.profcardy.com/cardicas/tirateima.php?id=1
 
-### Entrada
+## Entrada
 
 * Dois números inteiros A e B, sendo B maior ou igual à A.
 
-### Saída
+## Saída
 
 * A soma de todos os números pares ou invalido caso A seja maior que B.
 
 ## Exemplos
-```
+```txt
 >>>>>>>>
 1
 10
@@ -54,4 +53,4 @@ invalido
 ========
 6
 <<<<<<<<
-```
+```txt

@@ -1,8 +1,6 @@
-## L2 - Soldados em Posição
+# L2 - Soldados em Posição
 
-
-[](solver.c)
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -16,7 +14,7 @@ Faça um programa que conte quantos soldados com numeração de fardamento menor
 
 **Obs**: Você tem que conferir as numerações verticalmente.
 
-### Entrada
+## Entrada
 
 * Uma matriz de tamanho qualquer contendo os valores que representam os soldados.
     * linha 1: nl e nc
@@ -28,7 +26,7 @@ Saída
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 2 1
 2
@@ -44,7 +42,6 @@ Saída
 ========
 1
 <<<<<<<<
-
 
 >>>>>>>>
 3 3
@@ -94,4 +91,4 @@ Saída
 9
 <<<<<<<<
 
-```
+```txt

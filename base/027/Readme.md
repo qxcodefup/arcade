@@ -1,7 +1,6 @@
-## L2 - Adedonha 💎
+# L2 - Adedonha 💎
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -47,10 +46,12 @@ Três irmãos da Califórnia (um distrito da cidade de Quixadá) estavam debaixo
 
 Leia a soma dos dedos dos três irmãos e diga qual a letra L que será utilizada no jogo.
 
-### Entrada 
+## Entrada
+
 - Um inteiro representando a soma dos dedos dos 3 irmãos
 
-### Saída
+## Saída
+
 - A letra correspondente ou "Joguem de novo" se ninguém colocou nenhum dedo.
 
 ## Limites
@@ -59,7 +60,7 @@ Leia a soma dos dedos dos três irmãos e diga qual a letra L que será utilizad
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 0 
 ========

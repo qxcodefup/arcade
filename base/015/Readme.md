@@ -1,9 +1,8 @@
-## L1 - Calculadora Numérica 💎
+# L1 - Calculadora Numérica 💎
 
-[](solver.c)
-![](cover.jpg)
+![_](cover.jpg)
 
-### Motivação
+## Motivação
 
 Quem nunca numa prova de matemática ou física no ensino médio escutou um coleguinha dizer: "Professor, pode usar a calculadora?" que atire a primeira pedra.
 
@@ -11,16 +10,17 @@ Quem nunca numa prova de matemática ou física no ensino médio escutou um cole
 
 Leia dois números inteiros e um símbolo e imprima o resultado.
 
-### Entrada:
+## Entrada
 
 * Leia do usuário dois valores inteiros e um operador em caractere ('+', '-', '\*' ou '/')
 
-### Saída:
+## Saída
 
 * Imprima o resultado da operação em inteiro. Nunca haverá divisão por 0.
 
 ## Exemplos
-```
+
+```txt
 >>>>>>>>
 5
 2
@@ -49,6 +49,7 @@ Leia dois números inteiros e um símbolo e imprima o resultado.
 ## Ajuda
 
 Observação
+
 * O `operador` deve ser recebido em uma variável do tipo `char`. Exemplo:
   
 ```c
@@ -64,4 +65,3 @@ Observação
 ```
 
 [Resolução](https://www.youtube.com/watch?v=W5JJ_NccMkM)
-

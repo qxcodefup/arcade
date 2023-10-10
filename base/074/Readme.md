@@ -1,7 +1,6 @@
-## L3 - Botas Trocadas - OBI 2017
+# L3 - Botas Trocadas - OBI 2017
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -9,11 +8,11 @@ A divisão de Suprimentos de Botas e Calçados do Exército comprou um grande n�
 
 Quando o sargento descobriu que você sabia programar, ele solicitou com a gentileza habitual que você escrevesse um programa que, dada a lista contendo a descrição de cada bota entregue, determina quantos pares corretos de botas poderão ser formados no total.
 
-### Entrada
+## Entrada
 
 - A primeira linha da entrada contém um inteiro N indicando o número de botas individuais entregues. Cada uma das N linhas seguintes descreve uma bota, contendo um número inteiro M e uma letra L, separados por um espaço em branco. M indica o número do tamanho da bota e L indica o pé da bota: L= 'D' indica que a bota é para o pé direito, L= 'E' indica que a bota é para o pé esquerdo.
 
-### Saída
+## Saída
 
 - Seu programa deve imprimir uma única linha contendo um único número inteiro indicando o número total de pares corretos de botas que podem ser formados.
 
@@ -26,7 +25,7 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 4
 40 D

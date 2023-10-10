@@ -1,6 +1,8 @@
-## @197 L2 - Indices
+# @197 L2 - Indices
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/197/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/197/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/197/cover.jpg)
 
 Você recebe uma vetor A de inteiros não negativos de tamanho `n`. Sua tarefa é ordernar o vetor em ordem crescente e imprimir os índices originais do novo vetor ordenado.
 
@@ -15,7 +17,6 @@ A = {1,3,4,5,7}.
 A saída para esse vetor deve ser "4 2 0 1 3"
 
 NOTA: A indexação da vetor começa com 0.
-
 
 ## Entrada 
 
@@ -33,17 +34,15 @@ representando os índices originais de cada elemento no vetor ordenado entre [ ]
 0 <= A[i] <= 10<sup>6<sup>
 
 Exemplo de Entrada
-```
+```txt
 5
 4 5 3 7 1
 ```
 
 Exemplo de Saída
-```
+```txt
 [ 4 2 0 1 3 ]
 ``` 
-
-
 
 
 

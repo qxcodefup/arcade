@@ -1,7 +1,6 @@
-## L2 - Soldados PMG!
+# L2 - Soldados PMG!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -22,19 +21,19 @@ double media(int vet[], int qtd){
 }  
 ```
 
-### Entrada
+## Entrada
 
 *   Quantidade de soldados.
 *   Altura em double de cada soldado.  
 
-### Saída
+## Saída
 
 *   Média das altura com duas casas decimais.
 *   Para cada soldado, imprima 'P' se o mesmo tiver altura menor que a média, 'M' se for exatamente igual à média e 'G' se for maior que a média.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1
 1.30
@@ -68,12 +67,10 @@ P G G G
 <<<<<<<<
 ```
 
-
 ## Dicas
 
 Você pode começar criando um vetor de tamanho N e atribuindo a ele todos os valores.
 Depois você pode percorrer e somar todos os elementos para descobrir o valor total, dividindo por N terá a média. Logo depois é só percorrer o vetor verificando se cada elemento é menor igual ou maior que a média.
-
 
 
 

@@ -1,7 +1,8 @@
-## @078 L2 - Jogo do Avesso
+# @078 L2 - Jogo do Avesso
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/078/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/078/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/078/cover.jpg)
 
 ## Motivação
 
@@ -30,20 +31,20 @@ O 8 volta ao normal e o 1 se agacha.
 Considere que nunca existem duas pessoas com o mesmo número no vetor.  
 Se o chefe disser um número errado, ninguém deve se mexer.
 
-### Entrada
+## Entrada
 
 *   a quantidade de casos de teste.
 *   Para cada caso teste:  
     \* O tamanho do vetor de operários (N < 100) e o grito do chefe (0 < X < 100).  
     \* O vetor de operários, um valor inteiro para cada elemento  (0 < 100).
 
-### Saída
+## Saída
 
 *   Vetor resultante.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1
 2 3

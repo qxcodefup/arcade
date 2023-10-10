@@ -1,7 +1,6 @@
-## L2 - Ônibus lotado
+# L2 - Ônibus lotado
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação:
 
@@ -30,12 +29,12 @@ Você pode assumir:
 * Um número negativo representa a saída de pessoas.
 * Nunca vão sair mais pessoas do que tem no ônibus
 
-### Entrada:
+## Entrada
 
 * O inteiro **C** (capacidade).
 * O inteiro**M** (movimentação). Continue lendo até o ônibus partir.
 
-### Saída
+## Saída
 
 * O estado do ônibus para cada entrada ou saída de gente.
 
@@ -84,4 +83,4 @@ vazio
 lotado
 hora de partir
 <<<<<<<<
-```
+```txt

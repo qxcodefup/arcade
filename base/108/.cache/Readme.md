@@ -1,7 +1,8 @@
-## @108 L3 - Identificando elementos
+# @108 L3 - Identificando elementos
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/108/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/108/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/108/cover.jpg)
 
 ## Ação
 
@@ -16,23 +17,22 @@ Int contem não tem ponto.
 Int e float podem ser negativos.  
 Se existir pelo menos um alfabético então é string.
 
-### Entrada
+## Entrada
 
 *   Uma frase(max 100 char) com palavras(letras minusculas), números, espaço e ponto
 
-### Saída
+## Saída
 
 *   o tipo de cada palavra( str, float ou int) separado por espaço.  
 
 ## Exemplos  
 
-```
+```txt
 >>>>>>>> 01
 tenho 15 4nos 1.75 altur4 -15 conto p0rr4 -4.04
 ========
 str int str float str int str str float
 <<<<<<<<
-
 
 >>>>>>>> 02
 a proxima eleição presidencial no Brasil ocorrerá em 2 de outubro de 2018
@@ -48,20 +48,17 @@ aa 1 -2.0
 str int float
 <<<<<<<<
 
-
 >>>>>>>> 04
 02a -x1 -4.b54 p0
 ========
 str str str str
 <<<<<<<<
 
-
 >>>>>>>> 05
 -pato -40 -5.4
 ========
 str int float
 <<<<<<<<
-
 
 >>>>>>>> 06
 02 -1 -4.54 p0

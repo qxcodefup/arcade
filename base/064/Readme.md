@@ -1,9 +1,8 @@
-## L3 - Conta Dígitos 🎥💎
+# L3 - Conta Dígitos 🎥💎
 
-![](cover.jpg)
+![_](cover.jpg)
 
 [🎥 Explicação](https://youtu.be/1zT-Y0Zb1K0)
-
 
 ## Motivação
 
@@ -15,12 +14,12 @@ Após passar uma semana tentando ele repassou esse problema para você.
 
 Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber quantas vezes aparece e o segundo sendo o número do contato.
 
-### Entrada
+## Entrada
 
 *   Valor inteiro A (entre 1 e 9).
 *   Valor inteiro B.
 
-### Saída
+## Saída
 
 *   Número de vezes que o dígito A aparece em B  
 
@@ -35,14 +34,12 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 1
 <<<<<<<<
 
-
 >>>>>>>>
 1
 10
 ========
 1
 <<<<<<<<
-
 
 
 >>>>>>>>

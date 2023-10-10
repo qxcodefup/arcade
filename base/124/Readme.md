@@ -1,7 +1,7 @@
-## L3 - Conversa de Traficantes
+# L3 - Conversa de Traficantes
 ### Substituições de substrings
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -22,17 +22,17 @@ Todos os caracteres são minúsculos e sem pontuação.
 
 NÃO use nenhuma função pronta para fazer isso.
 
-### Entrada
+## Entrada
 
 * Um texto, uma palavra e sua substituição.  
 
-### Saída
+## Saída
 
 * Imprima o texto com as substituições.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 a aba absorveu
 ab

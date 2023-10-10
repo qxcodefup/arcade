@@ -1,7 +1,8 @@
-## @029 L2 - Quiz do Harry Potter
+# @029 L2 - Quiz do Harry Potter
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/029/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/029/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/029/cover.jpg)
 
 ## Descrição
 
@@ -49,16 +50,19 @@ Número de acertos | Saída do programa
 3               | Fa
 4               | Super Fa
 
-### Entrada
+## Entrada
+
 - 4 letras(abcd) uma por linha.
-### Saída
+
+## Saída
+
 - O texto correspondente ao número de acertos.
 
 ---
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>>
 a
 c

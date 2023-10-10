@@ -1,7 +1,6 @@
-## L1 - Troca de valores de variáveis
+# L1 - Troca de valores de variáveis
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
@@ -35,7 +34,7 @@ Você deverá:
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1 2
 ========

@@ -1,7 +1,8 @@
-## @126 L2 - Crushômetro
+# @126 L2 - Crushômetro
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/126/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/126/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/126/cover.jpg)
 
 ## Motivação
 
@@ -22,22 +23,22 @@ Para fazer o cálculo, some todos os pontos e imprima da seguinte forma:
 - "As chances do crush te dar bola sao: 100%!"
 - para imprimir o '%', basta coloca-lo duas vezes, assim:
 
-```
+```txt
 printf("%%");
 ```
 
-### Entrada
+## Entrada
 
 * Seu primeiro nome
 * Primeiro nome do seu crush
 
-### Saída
+## Saída
 
 * Porcentagem de chances do crush te dar bola
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 Yudi
 Priscilla

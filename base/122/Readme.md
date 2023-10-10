@@ -1,7 +1,6 @@
-## L3 - Nao se bububula - Gagueira V2!
+# L3 - Nao se bububula - Gagueira V2!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -22,17 +21,17 @@ Para uma "falsa" separação silábica Arnaldo definiu que toda vogal seguida de
 
 Implemente o código de Arnoldo.
 
-### Entrada
+## Entrada
 
 - Uma linha de texto.
 
-### Saída
+## Saída
 
 - A linha de texto gaguejada.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 Volte cá seu cabra safado
 ========

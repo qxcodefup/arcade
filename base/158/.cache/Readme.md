@@ -1,5 +1,6 @@
-## @158 L3 - Trilhas - OBI 2005
+# @158 L3 - Trilhas - OBI 2005
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/158/Readme.md)
 
 
 ## Motivação
@@ -8,14 +9,13 @@ Nos finais de semana Paulo faz longas caminhadas pelas bonitas trilhas que atrav
   
 Paulo tem uma nova namorada, e quer convencê-la a passear junto com ele pelas trilhas. Para o primeiro passeio juntos, Paulo quer escolher uma trilha "fácil”. Segundo o seu critério, a trilha mais fácil é a que, em um dos sentidos do percurso, exige o menor esforço de subida. O esforço exigido em um trecho de subida é proporcional ao desnı́vel do trecho.
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/158/__figura.jpg)
-
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/158/__figura.jpg)
 
 ## Ação
 
 Dadas as informações colhidas por Paulo sobre distâncias e altitudes de um conjunto de trilhas, você deve escrever um programa que determine qual é a trilha que exige o menor esforço de subida.  
   
-### Entrada
+## Entrada
 
 - A primeira linha da entrada contém um número inteiro N que indica o número de trilhas. 
 - Cada uma das N linhas seguintes contém a descrição de uma trilha (1 ≤ N ≤ 100). 
@@ -25,7 +25,7 @@ Dadas as informações colhidas por Paulo sobre distâncias e altitudes de um
 - Paulo pode percorrer a trilha em qualquer sentido (ou seja, partindo do ponto de altitude H1 em direção ao ponto de altitude HM , ou partindo do ponto de altitude HM em direção ao ponto de altitude H1 ). 
 - A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado).
   
-### Saída
+## Saída
 
 - Seu programa deve produzir uma única linha na saı́da, contendo um número inteiro representando o identificador da melhor trilha, conforme determinado pelo seu programa. Em caso de empate entre duas ou mais trilhas, imprima a de menor identificador. 
 - A saı́da deve ser escrita no dispositivo de saı́da padrão (normalmente a tela).  
@@ -45,7 +45,7 @@ Dadas as informações colhidas por Paulo sobre distâncias e altitudes de um
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 5
 4 498 500 498 498
@@ -56,7 +56,6 @@ Dadas as informações colhidas por Paulo sobre distâncias e altitudes de um
 ========
 2
 <<<<<<<<
-
 
 >>>>>>>>
 3

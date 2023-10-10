@@ -1,7 +1,6 @@
-## L3 - Prof Muquirana - Busca máximo por critério
+# L3 - Prof Muquirana - Busca máximo por critério
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -22,7 +21,7 @@ Por exemplo: 026897 quer dizer : aluno 02, notas 6, 8, 9 e 7.
 
 Faça um programa para imprimir o id do aluno com a maior nota.
 
-### Entrada
+## Entrada
 
 * 1a linha: A quantidade de elementos no vetor(1 a 50).
 * 2a linha: O vetor com os ids e notas dos alunos.
@@ -33,7 +32,7 @@ Faça um programa para imprimir o id do aluno com a maior nota.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 2
 034444 024444

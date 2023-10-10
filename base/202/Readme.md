@@ -1,6 +1,6 @@
 # L2 - Ponto perto
 
-![](cover.jpg)
+![_](cover.jpg)
 
 Considere o seguinte tipo de registro que deve ser usado em seu programa:
 
@@ -43,6 +43,5 @@ int main(){
     printf("%.2f %.2f\n", q.x, q.y); //3.00 6.00 
 }
 ```
-
 
 

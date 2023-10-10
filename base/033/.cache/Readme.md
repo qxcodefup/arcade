@@ -1,7 +1,8 @@
-## @033 L3 - Professor Bonzinho
+# @033 L3 - Professor Bonzinho
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/033/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/033/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/033/cover.jpg)
 
 ## Motivação
 
@@ -15,17 +16,17 @@ Faça um programa que receba as notas das três provas e do trabalho e calcule a
 
 A ordem da entrada é importante nessa questão. As três primeira entradas são as notas da prova.  
 
-### Entrada
+## Entrada
 
-*   Três notas de prova como float e uma nota de trabalho, um por linha.
+- Três notas de prova como float e uma nota de trabalho, um por linha.
 
-### Saída
+## Saída
 
-*   "Aprovado com nota" ou "Final com nota" onde nota é o valor da nota com uma casa decimal.  
+- "Aprovado com nota" ou "Final com nota" onde nota é o valor da nota com uma casa decimal.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 10
 10
@@ -46,6 +47,7 @@ Final com 6.0
 ```
 
 ## Dica
+
 - Some todas as notas
 - Faça a busca pela menor nota
 - Calcule a soma - menor

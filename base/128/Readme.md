@@ -1,7 +1,6 @@
-## L2 - Soma de elementos de em uma matriz
+# L2 - Soma de elementos de em uma matriz
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -11,17 +10,17 @@
 
 Receba uma matriz 2x3 de notas inteiras e retorne a soma de todas as notas.
 
-### Entrada
+## Entrada
 
 * Os valores da matriz
 
-### Saída
+## Saída
 
 * A soma dos valores da matriz
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1 2 3
 4 5 6

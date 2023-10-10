@@ -1,7 +1,8 @@
-## @131 L2 - Matriz Simétrica
+# @131 L2 - Matriz Simétrica
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/131/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/131/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/131/cover.jpg)
 
 ## Motivação
 
@@ -11,17 +12,17 @@ Joãozinho aprendeu na aula de matemática que uma matriz diz-se simétrica se c
 
 Faça uma função onde verifique se uma matriz 3x3 é simetrica ou não. Tenha como saida a informação "nao" se não for simétrica e "sim caso contrário.
 
-### Entrada
+## Entrada
 
 *   Os valores da matriz.
 
-### Saída
+## Saída
 
 *   "nao" se não for simétrica e "sim caso contrário.
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>>
 1 4 7
 4 1 8

@@ -1,7 +1,6 @@
-## L3 - Valdiskley e a Cifra v3!
+# L3 - Valdiskley e a Cifra v3!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -28,7 +27,7 @@ texto: "quando vi voce eu buguei"
 senha: "prince sa prin ce saprin"  
 saida: "fliafs ni kfkr gy tuvlmv"
 
-### Entrada
+## Entrada
 
 *   A frase a ser operada, apenas caracteres minúsculos e pontuação.
 *   A palavra chave, apenas caracteres minúsculos e sem espaços ou pontuação.
@@ -36,13 +35,13 @@ saida: "fliafs ni kfkr gy tuvlmv"
 
 A operação de descifrar é o contrário da cifragem.
 
-### Saída
+## Saída
 
 *   O resultado da operação.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 batata? sim! frita!!
 abac

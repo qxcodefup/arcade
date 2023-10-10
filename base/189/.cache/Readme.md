@@ -1,12 +1,13 @@
-## @189 L2 - Fatores de um número
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/189/cover.jpg)
+# @189 L2 - Fatores de um número
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/189/Readme.md)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/189/cover.jpg)
 
 ## Ação
 Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na fatoração.
 
-
 ## Testes
-```
+```txt
 >>>>>>>>
 8
 ========
@@ -26,7 +27,6 @@ Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na
 5 1
 11 1
 <<<<<<<<
-
 
 >>>>>>>>
 552

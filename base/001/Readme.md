@@ -1,7 +1,6 @@
-## L2 - Bhaskara
+# L2 - Bhaskara
 
-[](solver.c)
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -11,17 +10,19 @@ Não sei se você amava ou odiava o tal do Bhaskara por inventar aquela fórmula
 
 Dados os valores de A, B e C, calcule as raízes.
 
-### Entrada:
+## Entrada
+
 - Valores de A, B e C em ponto flutuante, um por linha.
 
-### Saída:
+## Saída
+
 - Caso delta seja positivo, a saída deve ser a raiz positiva e raiz negativa, com duas casas decimais, uma raiz por linha.
 - Caso delta seja igual a zero, uma única raiz deve ser considerada, com duas casas decimais.
 - Caso delta sela negativo, a saída deve ser "nao ha raiz real"
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> duas raízes
 5.4
 25.0
@@ -61,7 +62,7 @@ nao ha raiz real
 
 * Para calcular a raiz quadrada você deverá utilizar a função `sqrt`. A função `sqrt` retorna a raiz quadrada do número que for passado por parâmetro. Exemplo:
   
-```
+```txt
 sqrt(4) retorna 2    
 sqrt(5) retorna 2.23607    
 sqrt(9.0) retorna 3    
@@ -92,5 +93,4 @@ Observação
 ``` javascript
     //javascript
     Math.sqrt(4) //retorna 2 
-```
-
+```txt

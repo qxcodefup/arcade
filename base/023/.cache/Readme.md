@@ -1,7 +1,8 @@
-## @023 L2 - Jokenpo das tartarugas!
+# @023 L2 - Jokenpo das tartarugas
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/023/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/023/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/023/cover.jpg)
 
 ## Motivação
 
@@ -14,18 +15,18 @@ Faça uma função que retorne o resultado do jogo pedra, papel e tesoura para q
 Receba as duas opções do jogadores e informe quem ganhou a partida.
 Os jogadores podem escolher entre R(rock), P(paper) e S(scissor), que correspondem ao nosso pedra, papel e tesoura.
 
-### Entrada:
+## Entrada
 
 * 1a linha: opção do jogador 1.
 * 2a linha: opção do jogador 2.
 
-### Saída:
+## Saída
 
 * O jogador que ganhou ou empate (jog1, jog2, empate).
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>> 01
 R
 P
@@ -47,4 +48,3 @@ P
 jog1
 <<<<<<<<
 ```
-

@@ -1,5 +1,4 @@
-## L3 - Formiga da bundona
-
+# L3 - Formiga da bundona
 
 ## Motivação
 
@@ -11,17 +10,17 @@ A distância entre os dois marcadores em horas consecutivas é 6 centímetros. O
 
 Dado a posição inicial da formiga no relógio, a direção que ela está caminhado H(horário) A(Anti-horário) e quantos centímetros ela caminhou em inteiro, informe em que posição do relógio ela vai terminar sua caminhada.
 
-### Entrada
+## Entrada
 
 - Posição da Hora 'H' e do Minuto 'M' que a formiga começa sua caminhada. O sentido 'S' que ela anda, sendo Horário(H) ou Anti-horário(A) e distância D caminhada em centímetros. Para simplificar, o meio dia será representado pelo horário 00:00 e não por 12:00.
 
-### Saída
+## Saída
 
 - Posição hora e minuto que ela termina sua caminhada.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 00
 00
@@ -40,4 +39,3 @@ A
 11 50
 <<<<<<<<
 ```
-

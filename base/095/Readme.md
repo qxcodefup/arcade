@@ -1,7 +1,7 @@
-## L2 - Avestruz com Alcaparras
+# L2 - Avestruz com Alcaparras
 ### Contar Maiusculas e Minusculas!
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -19,17 +19,17 @@ Conte os caracteres MAIÚSCULOS e MINÚSCULOS.
 
 OBS: Não use o método count do python.
 
-### Entrada
+## Entrada
 
 *   Uma frase de até 100 caracteres e uma letra.
 
-### Saída
+## Saída
 
 *   O número de vezes que a letra aparece na frase.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 A Andreia alimentou a avestruz com alcaparras
 a
@@ -50,4 +50,4 @@ x
 ========  
 0
 <<<<<<<<
-```
+```txt

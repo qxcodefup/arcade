@@ -1,6 +1,6 @@
-## L4 - Permutação Lexograficamente Final de Fichas
+# L4 - Permutação Lexograficamente Final de Fichas
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação:
 
@@ -14,10 +14,9 @@ Sara tem um número de ficha, e lhe disseram que as fichas são geradas a partir
 
 - Se a última ficha gerada for a última permutação, as próximas fichas serão iguais.
 
-
 ### Exemplo:
 
-```
+```txt
 1° ficha = 123
 2° ficha = 132
 3° ficha = 213
@@ -38,7 +37,7 @@ Dada a ficha de Sara e o número de fichas seguintes que Sara comprou, determine
 
 última ficha.
 
-### Entrada:
+## Entrada
 
 - 1 String S, representando a ficha de Sara.
 
@@ -57,7 +56,7 @@ Dada a ficha de Sara e o número de fichas seguintes que Sara comprou, determine
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> Teste 0
 123
 5

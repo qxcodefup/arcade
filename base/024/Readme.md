@@ -1,7 +1,6 @@
-## L1 - Divisão Inteira e Quebrada 💎
+# L1 - Divisão Inteira e Quebrada 💎
 
-[](solver.c)
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -11,10 +10,11 @@
 
 Aprenda a fazer divisão inteira e quebrada.
 
-### Entrada
+## Entrada
+
 - Dois valores inteiros do usuário, n1 e n2, um por linha.
 
-### Saída
+## Saída
 
 - 1a linha: o resultado da divisão inteira de n1 por n2
 - 2a linha: o resto da divisão de n1 por n2
@@ -22,7 +22,7 @@ Aprenda a fazer divisão inteira e quebrada.
 
 ## Exemplo
 
-```
+```txt
 >>>>>>>>
 6
 3
@@ -42,7 +42,6 @@ Aprenda a fazer divisão inteira e quebrada.
 <<<<<<<<
 
 ```
-
 
 ## Dica
 
@@ -64,8 +63,7 @@ Para **python**, você tem várias possibilidades.
 a = 4.3243255
 b = 3.4334344
 print("a=%.2f e b=%.3f" %(a, b)) //a=4.32 e b=3.433
-```
+```txt
 ---
-
 
 [Resolução](https://www.youtube.com/watch?v=budW2bakIjg)

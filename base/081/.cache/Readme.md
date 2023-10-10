@@ -1,7 +1,8 @@
-## @081 L3 - Decompor um inteiro
+# @081 L3 - Decompor um inteiro
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/081/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/081/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/081/cover.jpg)
 
 ## Motivação
 
@@ -12,7 +13,7 @@ sua paz de espírito fazendo esse código pra ele. Lembrando que a entrada deve
 ser vários valores inteiros, e a saída um vetor com todos os inteiros da entrada.  
 \[DS\]  
 
-### Entrada
+## Entrada
 
 - Um valor que deve ser lido como número e não como string. O número tem até 8 casas decimais.
 
@@ -24,7 +25,7 @@ OBS: Use os operadores de divisão e módulo para obter os números.
   
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 12345
 ========
@@ -54,4 +55,4 @@ OBS: Use os operadores de divisão e módulo para obter os números.
 ========
 9 5 3
 <<<<<<<<
-```
+```txt

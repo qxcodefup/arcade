@@ -1,7 +1,8 @@
-## @021 L2 - Aumento de Salário
+# @021 L2 - Aumento de Salário
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/021/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/021/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/021/cover.jpg)
 
 ## Motivação
 
@@ -15,14 +16,13 @@ Os funcionários estão nervosos pra saber quanto vão ganhar no novo contracheq
 
 Receba o valor do salário atual do funcionário e imprima o novo salário de acordo com as regras informadas na descrição.
 
-### Entrada:
+## Entrada
 
 * Salário atual do funcionário (float com até duas casas decimais).
 
-### Saída:
+## Saída
 
 * Novo Salário (float com duas casas decimais).
-
 
 ``` python
 print("%.2f" % total)
@@ -36,7 +36,7 @@ printf("%.2f", total);
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 900.00
 ========
@@ -55,4 +55,3 @@ printf("%.2f", total);
 2105.46
 <<<<<<<<
 ```
-

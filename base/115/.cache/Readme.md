@@ -1,7 +1,8 @@
-## @115 L3 - Máquina de Datilografar Quebrada
+# @115 L3 - Máquina de Datilografar Quebrada
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/115/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/115/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/115/cover.jpg)
 
 ## Motivação
 
@@ -20,18 +21,18 @@ Maratona de Programação da SBC 2010.
 
 Faça um programa que dado um numero representando a tecla quebrada e o numero negociado inicialmente, imprima o numero representado no contrato.
 
-### Entrada
+## Entrada
 
 *   A primeira um digito entre 1 e 9 representando a tecla quebrada
 *   A segunda o número que foi negociado inicialmente, com até 100 dígitos.
 
-### Saída
+## Saída
 
 *   Você deve imprimir uma linha contendo um único inteiro V, o valor numérico representado de fato no contrato.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5
 5000000

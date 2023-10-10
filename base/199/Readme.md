@@ -1,6 +1,6 @@
 # L2 - Pizza
 
-![](cover.jpg)
+![_](cover.jpg)
 
 Davi adora comer pizza. Mas ele está preocupado porque a qualidade da pizza feita pela maioria dos restaurantes em Quixadá está piorando. As últimas pizzas pedidas por ele não estavam tão boas. Davi está com muita fome e quer comer pizza. Mas ele está indeciso sobre o restaurante de onde deveria pedir. Como sempre, ele pede ajuda a Edvadlo.
 
@@ -26,7 +26,7 @@ Imprima o nome do restaurante que Joey deve escolher.
 
 **Exemplo de Entrada**
 
-```
+```txt
 >>>>>>>>
 3
 fornoalenha 108
@@ -40,5 +40,4 @@ burguery
 ## Sugestão
 
 Crie a struct Restaurante e faça uma função que receba a lista de restaurantes e retorne o resultado.
-
 

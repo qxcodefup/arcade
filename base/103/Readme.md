@@ -1,13 +1,12 @@
-## L3 - Separe Pneumatocito - Separação de Palavras!
+# L3 - Separe Pneumatócito - Separação de Palavras!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
 \- Menino solta esse tal de Angri Bids e vai estudar que tem prova de português amanhã.  
 \- Já sei de tudo mãe.  
-\- Então me diga as 3 excessões de separação e as 3 excessões de não separação.  
+\- Então me diga as 3 exceções de separação e as 3 exceções de não separação.  
 Que a professora mandou você estudar do site [http://www.coladaweb.com/portugues/regras-para-divisao-silabica](http://www.coladaweb.com/portugues/regras-para-divisao-silabica).  
 \- Que exceções mãe, só com a regra básica já dá pra tirar a média. Se eu achar uma consoante depois de uma vogal eu separo a sílaba!  
 Quase levando uma voadora do subzero, Pedrinho tem seu celular arrancado da mão e leva um grito na orelha!  
@@ -21,17 +20,17 @@ Agora só devolvo seu celular quando você souber separar pneumoradiologia.
 Faça um programa que receba uma palavra e separe suas silabas levando em consideração o seguinte critério:  
 Se após uma vogal existir uma consoante, deve-se separar a sílaba.
 
-### Entrada
+## Entrada
 
 *   Uma linha com um texto.
 
-### Saída
+## Saída
 
 *   O mesmo texto com **- (hífen)** entre as sílabas.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 Paralelepipedo
 ========

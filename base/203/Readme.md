@@ -1,6 +1,6 @@
-## L1 - Cláusulas de guarda
+# L1 - Cláusulas de guarda
 
-![](cover.jpg)
+![_](cover.jpg)
 
 Essa questão foi extraída do seguinte vídeo. O objetivo é simplificar testes de if else pensando nas negações.
 
@@ -24,9 +24,8 @@ if (!login) {
 }
 ```
 
-
 ### tests
-```
+```txt
 >>>>>>>>
 0
 0
@@ -74,7 +73,6 @@ you need to login first
 ========
 you must to login as admin
 <<<<<<<<
-
 
 >>>>>>>>
 1

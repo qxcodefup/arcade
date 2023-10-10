@@ -1,7 +1,8 @@
-## @183 L2 - Criança ou Múmia
+# @183 L2 - Criança ou Múmia
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/183/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/183/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/183/cover.jpg)
 
 Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escreva:
 
@@ -13,10 +14,9 @@ Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escrev
 
 OBS: por simplificações, não faça flexão de gênero (idoso, idosa, adulto, adulta), não use acento, nem ç, nem maiúscula. 
 
-
 ### Exemplos
 
-```
+```txt
 >>>>>>>>
 mario
 4

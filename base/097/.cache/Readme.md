@@ -1,7 +1,8 @@
-## @097 L2 - Gagueira V1 - Duplicar Palavras
+# @097 L2 - Gagueira V1 - Duplicar Palavras
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/097/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/097/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/097/cover.jpg)
 
 ## Motivação
 
@@ -13,17 +14,17 @@ A disfemia, conhecida popularmente como gagueira ou gaguez, é a mais comum deso
 
 Faça um programa que receba uma frase(max 100 char) e imprima a mesma frase com as palavras repetidas.
 
-### Entrada
+## Entrada
 
 *   A entrada é uma frase composta apenas de letras minúsculas e espaços. Não existem espaços no começo ou no final da entrada. Não aparecem dois espaços juntos.
 
-### Saída
+## Saída
 
 *   A frase com as palavras repetidas.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 ola planeta terra
 ========
@@ -47,4 +48,4 @@ sim eu vou
 ========
 sim sim eu eu vou vou
 <<<<<<<<
-```
+```txt

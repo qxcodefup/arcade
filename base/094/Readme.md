@@ -1,7 +1,7 @@
-## L2 - Vogais e Consoantes
+# L2 - Vogais e Consoantes
 ### Identificação e Montagem
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -19,17 +19,17 @@ Pirou de vez menino? O que é vcvcvcvcvc, tá achando que a vida é um chat?
 
 Se você entendeu, faça o código que dada a frase de entrada(max 50 char), imprime a codificação de Pedrinho.
 
-### Entrada
+## Entrada
 
 *   A frase. (max 50 char)
 
-### Saída
+## Saída
 
 *   A frase códificada.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 Pedrinho Marcio
 ========
@@ -47,4 +47,4 @@ AaBbCcDdEe
 ========
 vvccccccvv
 <<<<<<<<
-```
+```txt

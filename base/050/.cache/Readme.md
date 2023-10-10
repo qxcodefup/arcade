@@ -1,7 +1,8 @@
-## @050 L2 - Castelos de Cubos
+# @050 L2 - Castelos de Cubos
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/050/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/050/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/050/cover.jpg)
 
 Zezim da Carroça ganhou bloquinhos de montar do seu pai. Como ele não tinha computador pra jogar Minecraft, resolveu criar construções magníficas com seus bloquinhos de montar. Decidiu organizar vários níveis usando a seguinte lógica:
 
@@ -21,17 +22,17 @@ Algum tempo depois descobriu que esses números, 1, 2, 4, 9, 16, 25, etc eram ch
 
 Dado um inteiro lido do usuário, determine, sem uso de operadores reais (como raiz quadrada, por exemplo), se ele é um quadrado perfeito, imprimindo "sim" se ele for quadrado perfeito e "nao", caso contrário.  
 
-### Entrada
+## Entrada
 
 - Um número inteiro.
 
-### Saída
+## Saída
 
 - sim ou nao
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 16
 ========

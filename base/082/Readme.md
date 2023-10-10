@@ -1,7 +1,6 @@
-## L3 - Vetor para inteiro
+# L3 - Vetor para inteiro
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -14,7 +13,7 @@ Pensava ela: "sozinhos esses números, não são nada, mas juntos são o número
 
 Faça um programa que deve transformar um vetor em um número inteiro e retornar esse valor inteiro. Todos os elementos do vetor devem conter apenas um dígito.
 
-### Entrada
+## Entrada
 
 - Um numero que representa o tamanho do vetor e seus elementos, um por linha.  
 
@@ -24,7 +23,7 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3
 1
@@ -62,4 +61,4 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 ========
 54321
 <<<<<<<<
-```
+```txt

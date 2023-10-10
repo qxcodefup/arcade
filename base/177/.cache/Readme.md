@@ -1,7 +1,8 @@
-## @177 L1 - Marileuza e as Alcaparras - Contar Ocorrencias!
+# @177 L1 - Marileuza e as Alcaparras - Contar Ocorrências!
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/177/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/177/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/177/cover.jpg)
 
 ## Motivação
 
@@ -16,17 +17,17 @@ Mamãe se sentindo superada por uma menina de 6 anos responde!
 
 Ajude Emanuelita a fazer o código que conta quantas vezes um caractere aparece numa frase. Conte apenas os caracteres exatos. Cada frase tem até 100 caracteres.
 
-### Entrada
+## Entrada
 
 * Uma frase de ate 100 caracteres e uma letra  
 
-### Saída
+## Saída
 
 * A quantidade de vezes que a letra aparece na frase
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 A Andreia alimentou a avestruz com alcaparras
 a
@@ -54,4 +55,4 @@ x
 ========
 0
 <<<<<<<<
-```
+```txt

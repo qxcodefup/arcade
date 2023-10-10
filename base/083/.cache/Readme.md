@@ -1,7 +1,8 @@
-## @083 L3 - Batráquios
+# @083 L3 - Batráquios
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/083/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/083/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/083/cover.jpg)
 
 ## Motivação
 
@@ -18,12 +19,12 @@ Não entendeu? Quem mandou gazear a aula de biologia. -_-
 
 Dados dois vetores, verifique se o primeiro está contido no segundo.
 
-### Entrada
+## Entrada
 
 - 1a linha: Número de elementos do primeiro vetor(1 a 50) seguido dos elementos.  
 - 2a linha: Número de elementos do segundo vetor(1 a 50) seguido dos elementos.
 
-### Saída
+## Saída
 
 - "sim" se o primeiro está condido no segundo e não caso contrário.
 
@@ -31,7 +32,7 @@ Dados dois vetores, verifique se o primeiro está contido no segundo.
   
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 2 1 3
 3 1 5 3
@@ -52,4 +53,4 @@ nao
 ========
 sim
 <<<<<<<<
-```
+```txt

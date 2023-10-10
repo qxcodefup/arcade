@@ -1,8 +1,10 @@
-## @099 L3 - Francês é Fresco
+# @099 L3 - Francês é Fresco
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/099/Readme.md)
 ### Juntar palavras
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/099/solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/099/cover.jpg)
+!
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/099/cover.jpg)
 
 ## Motivação
 
@@ -18,17 +20,17 @@ Se tiver 3 ou mais vogais juntas so junte todas amo o orvalho -> amorvalho
 
 o gago disse e e e eu te amo -> o gago disseu te amo
 
-### Entrada
+## Entrada
 
 *   Um texto. (max 100 char)
 
-### Saída
+## Saída
 
 *   O liaison das palavras.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 a porta amassou
 ========

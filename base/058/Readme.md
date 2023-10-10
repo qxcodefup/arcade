@@ -1,7 +1,6 @@
-## L2 - Busca Intervalada
+# L2 - Busca Intervalada
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 [](t.tio)
 ## Motivação
@@ -16,18 +15,18 @@ Moral da história: maldito zap que não deixa mais o povo brincar de nada diver
 
 Dado uma lista de número e um intervalo, calcule quantas vezes um número cai dentro do intervalo fechado. Em um intervalo fechado os valores inferior e superior também fazem parte do intervalo.  
 
-### Entrada
+## Entrada
 
 * 1a linha Quantidade N de elementos do vetor, Limite inferior e limite superior.
 * Próximas linhas: N números inteiros.
 
-### Saída
+## Saída
 
 *   Números inteiros que estão dentro do intervalo, incluindo os limites.
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>>
 4 1 3
 1

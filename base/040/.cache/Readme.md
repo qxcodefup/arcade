@@ -1,7 +1,8 @@
-## @040 L2 - Está Trabalhando ou Não!
+# @040 L2 - Está Trabalhando ou Não!
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/040/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/040/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/040/cover.jpg)
 
 ## Motivação
 Um funcionário trabalha de segunda a sexta, de 8 até 11:59 e de
@@ -13,15 +14,17 @@ fazer um código que lê o dia da semana, a hora e o minuto e informa ao chefe s
 
 [DS]
 
-### Entrada
+## Entrada
+
 - É formada por um dia inteiro representando o dia (1 = DOM, 2 = SEG, 3 = TER, 4 = QUA, 5 =QUI, 6 = SEX, 7 = SAB) e mais dois inteiros representando hora e minuto, um por linha.
 
-### Saída
+## Saída
+
 - Deve ser SIM se ele deve estar trabalhando ou NAO se ele não deve estar trabalhando.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 2
 12
@@ -46,6 +49,5 @@ NAO
 NAO
 <<<<<<<<
 ```
-
 
 

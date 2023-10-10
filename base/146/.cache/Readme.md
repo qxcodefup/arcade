@@ -1,7 +1,8 @@
-## @146 L3 - Torres de Hanoi
+# @146 L3 - Torres de Hanoi
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/146/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/146/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/146/cover.jpg)
 
 ## Motivação
 
@@ -38,11 +39,11 @@ http://www.dynamicdrive.com/dynamicindex12/towerhanoi.htm
 
 Este problema parece difícil de resolver para o caso geral com _n_ discos. Porém, como acontece em vários problemas, utilizando recursão chegamos em um algoritmo simples e elegante. Mova recursivamente os \\(n-1\\) primeiros discos para a torre auxiliar, depois mova o último disco da torre inicial para a torre final, e então mova recursivamente os \\(n-1\\) discos da torre auxiliar para a torre final.
 
-### Entrada
+## Entrada
 
 - Número de discos para mover da torre 'A' para a torre 'C'.
 
-### Saída
+## Saída
 
 - Sequência de movimentos para mover todos os discos (um movimento por linha). 
 - Notação do movimento do disco no topo da torre: 
@@ -50,7 +51,7 @@ Este problema parece difícil de resolver para o caso geral com _n_ discos. Por�
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3
 ========

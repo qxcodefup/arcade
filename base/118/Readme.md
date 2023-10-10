@@ -1,7 +1,6 @@
-## L3 - Aniquilando Ultrons V3
+# L3 - Aniquilando Ultrons V3
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
@@ -18,18 +17,18 @@ ambiente:"ruame ronuai Lion uuuaaaa ronia kkk luno"
 
 Saida: "pessoa ultron chefe pessoa ultron pessoa chefe"
 
-### Entrada
+## Entrada
 
 - linha 1: codigo ultron de N letras( 1 < N < 10)
 - linha 2: linhas de ate X caracteres(1 < X < 500),  com vários códigos de pessoas, cada código de pessoas tem ate Y caracteres (1 < Y < 20) contendo apenas letras minúsculas e maiúsculas. Os códigos de pessoas são separados por espaço.
 
-### Saída
+## Saída
 
 - uma linha contendo para cada pessoa a saída se ela é "ultron", "pessoa" ou "chefe"
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 aeiou  
 arta euio auiaoauio riu pegasus

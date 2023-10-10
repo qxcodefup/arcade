@@ -1,7 +1,6 @@
-## L1 - Substring na decoração - Obter Substrings!
+# L1 - Substring na decoração - Obter Substrings!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -20,13 +19,13 @@ Coisas de nerds!
 
 Faça uma função que retorna uma substring dada a String passada, o ÍNDICE da posição inicial e o número de caracteres. Se os valores de inicio forem inválidos, retorne uma String vazia. Retorne a quantidade de caracteres pedidos ou até terminar a palavra.
 
-### Entrada
+## Entrada
 
 * Um texto, no máximo 100 chars.
 * O índice do primeiro caractere.
 * Quantidade de caracteres.
 
-### Saída
+## Saída
 
 * A substring.
 
@@ -41,7 +40,6 @@ Coralina
 ========
 Cora
 <<<<<<<<
-
 
 >>>>>>>> 02
 Power Ranger

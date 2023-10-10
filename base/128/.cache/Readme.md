@@ -1,7 +1,8 @@
-## @128 L2 - Soma de elementos de em uma matriz
+# @128 L2 - Soma de elementos de em uma matriz
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/128/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/128/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/128/cover.jpg)
 
 ## Motivação
 
@@ -11,17 +12,17 @@
 
 Receba uma matriz 2x3 de notas inteiras e retorne a soma de todas as notas.
 
-### Entrada
+## Entrada
 
 * Os valores da matriz
 
-### Saída
+## Saída
 
 * A soma dos valores da matriz
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1 2 3
 4 5 6

@@ -1,7 +1,6 @@
-## L3 - Arca: Exemplares
+# L3 - Arca: Exemplares
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -16,18 +15,18 @@ Não use uma função de ordenar pronta.
 
 \[DS\]
 
-### Entrada
+## Entrada
 
 - linha 1: um número com a quantidade de elementos do vetor
 - linha 2: o vetor de inteiros  
 
-### Saída
+## Saída
 
 - O novo vetor ordenado contendo um exemplar de cada elemento.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3
 1 1 2

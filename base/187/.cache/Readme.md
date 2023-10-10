@@ -1,6 +1,8 @@
-## @187 L2 - Jogo da cobrinha
+# @187 L2 - Jogo da cobrinha
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/187/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/187/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/187/cover.jpg)
 
 - Entrada:
     - Q, D, sendo Q a quantidade de "gomos" da cobra e D a direção que pode ser L(left), R(right), U(up), D(down)
@@ -10,7 +12,7 @@
 
 - Testes
 
-```
+```txt
 >>>>>>>>
 1 L
 5 5
@@ -28,7 +30,6 @@
 5 5
 6 5
 <<<<<<<<
-
 
 >>>>>>>>
 4 U
@@ -73,4 +74,4 @@ struct Pos{
 };
 
 void atualizar_cobra(struct Pos cobra[], int size, char direcao);
-```
+```txt

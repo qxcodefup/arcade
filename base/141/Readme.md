@@ -1,7 +1,6 @@
-## L2 - Números de Fibonacci
+# L2 - Números de Fibonacci
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -37,7 +36,7 @@ A função fib abaixo retorna o n-ésimo número de Fibonacci, mas de forma não
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 1
 ========

@@ -1,7 +1,6 @@
-## L1 - Maiúsculo, Minusculo e Dígito!
+# L1 - Maiúsculo, Minusculo e Dígito!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -13,11 +12,11 @@ Sexta série é fogo. Pedrinho já repetiu 8 vezes a tarefinha de português e a
 
 Dado a entrada de um caractere retorne maiúsculo se ele for minúsculo e vice versa.
 
-### Entrada
+## Entrada
 
 *   Um caractere.
 
-### Saída
+## Saída
 
 *   Se ele for maiúsculo, retorne o minúsculo.
 *   Se ele for minusculo, retorne o maiúsculo.
@@ -25,7 +24,7 @@ Dado a entrada de um caractere retorne maiúsculo se ele for minúsculo e vice v
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 a
 ========
@@ -50,7 +49,6 @@ b
 !
 <<<<<<<<
 ```
-
 
 
 #

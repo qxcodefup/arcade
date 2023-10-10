@@ -1,7 +1,6 @@
-## L2 - Guerra Civil no Universo Marvel
+# L2 - Guerra Civil no Universo Marvel
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -16,21 +15,21 @@ Crie um programa que receba o número de integrantes, crie um vetor para cada ti
 * "Draw" se for empate  
 * E por fim, o nome do campeão com o maior poder
 
-### Entrada
+## Entrada
 
 * Quantidade de integrantes do time do Homem de Ferro
 * Nome e poder de cada
 * Quantidade de integrantes do time do Capitão América
 * Nome e poder de cada
 
-### Saída
+## Saída
 
 * Time vencedor
 * Nome do campeão mais poderoso
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>>
 2
 Homem de Ferro

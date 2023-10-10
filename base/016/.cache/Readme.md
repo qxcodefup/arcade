@@ -1,7 +1,8 @@
-## @016 L2 - Volta de 360 graus - Retirando os loops
+# @016 L2 - Volta de 360 graus - Retirando os loops
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/016/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/016/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/016/cover.jpg)
 
 ## Motivação
 
@@ -27,7 +28,7 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 0
 ========
@@ -64,6 +65,3 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 10
 <<<<<<<<
 ```
-
----
-

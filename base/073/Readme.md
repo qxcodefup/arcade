@@ -1,7 +1,6 @@
-## L2 - Batida Policial
+# L2 - Batida Policial
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -25,19 +24,19 @@ Ordenar é função básica na computação. Que tal implementar o bubblesort? D
   
 Também é muito importante que você aprenda como sua linguagem pode fazer a ordenação por você. Todas as linguagens(C, C++, Python, JavaScript, etc) já tem métodos de ordenação prontos e é importante que você aprenda a utilizá-los.  
 
-### Entrada
+## Entrada
 
 *   1ª linha: o tamanho do vetor (1 a 50).
     
 *   2ª linha: os elementos desordenados.
 
-### Saída
+## Saída
 
 *   Os elementos do vetor ordenados em ordem crescente.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 4
 8 3 7 4

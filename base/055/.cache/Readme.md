@@ -1,6 +1,8 @@
-## @055 L1 - Contagem
+# @055 L1 - Contagem
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/055/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/055/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/055/cover.jpg)
 [](t.tio)
 ## Motivação
 
@@ -10,19 +12,19 @@ Na saga dos Vingadores, o Ultron é um inimigo capaz de fazer cópias de sí mes
 
 Faça um programa que dado um vetor, retorne quantas vezes um determinado elemento se repete nele.
 
-### Entrada
+## Entrada
 
 * 1ª linha: Os números (X, entre 0 e 9 e N, entre 1 e 50), representado X o número que corresponde ao elemento procurado e N a quantidade de elementos no vetor.
 
 * Linhas subsequentes: os elementos da lista.
 
-### Saída
+## Saída
 
 * A quantidade de vezes que o elemento aparece no vetor.
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>>
 5 3
 2
@@ -56,5 +58,4 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 5
 <<<<<<<<
 ```
-
 

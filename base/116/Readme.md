@@ -1,7 +1,6 @@
-## L3 - Roda Roda Jequiti
+# L3 - Roda Roda Jequiti
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -33,19 +32,19 @@ Ex: "**extraordinario**", "**aeioubcdfgh**" , '**\***' -> "**e\*\*\*ao\*di\*a\*i
 Ex: "**Teco-Teco!**" , "**tbxyan**" , '**\_**' -> "**T\_\_\_-T\_\_\_!**"  
 Ex: "**Seu Pilantra!**" , "**yzxa**" , '**\***' -> "**\*\*\* \*\*\*a\*\*\*a!**"
 
-### Entrada
+## Entrada
 
 *   Frase(max 100 char),
 *   Chutes (max 26 char) 
 *   Caractere de marcação (1 char).
 
-### Saída
+## Saída
 
 *   Uma frase com as letras chutadas corretamente e o caractere marcador nas letras erradas.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 extraordinario
 aeioubcdfgh

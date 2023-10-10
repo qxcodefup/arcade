@@ -1,7 +1,7 @@
-## L3 - Meu cachorro comeu minha tarefa V2
+# L3 - Meu cachorro comeu minha tarefa V2
 ### Retirar espaços duplicados
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -20,7 +20,7 @@ pra não entregar a lição de casa. A moda agora é cloud computing.
 
 Faça um código que retire os espaços duplicados no meio da frase.
 
-### Entrada
+## Entrada
 
 *   um texto(até 200 chars) só com minúsculas e espaço.
 
@@ -30,7 +30,7 @@ Faça um código que retire os espaços duplicados no meio da frase.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 a  almofada ta muito  fofa
 ========

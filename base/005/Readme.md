@@ -1,6 +1,6 @@
-## L2 - Ladrão de Goiabas
+# L2 - Ladrão de Goiabas
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -14,23 +14,24 @@ Ele gasta exatamente 1 minuto para ir ao quintal vizinho, encher a cesta e volta
 
 ## Ação
 
-Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minutos Chico precisará para coleta. 
+Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minutos Chico precisará para coleta.
+
 Você pode considerar que há pelo menos uma fruta a ser coletada.
 
-### Entrada:
+## Entrada
 
 * Capacidade da cesta.
 * Quantidade de bananas.
 * Quantidade de goiabas.
 * Quantidade de mangas.
 
-### Saída:
+## Saída
 
 * Duração da coleta em minutos.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> conta exata
 3
 1
@@ -59,6 +60,6 @@ Você pode considerar que há pelo menos uma fruta a ser coletada.
 <<<<<<<<
 ```
 
-## Aviso:
+## Aviso
 
 Roubar frutas do seu vizinho é errado.

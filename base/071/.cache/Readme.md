@@ -1,7 +1,8 @@
-## @071 L3 - Parkour
+# @071 L3 - Parkour
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/071/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/071/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/071/cover.jpg)
 
 ## Motivação
 
@@ -24,7 +25,7 @@ Um cenário é um vetor de números positivos onde o vetor representa a altura d
 
 O vetor 1, 1, 3, 3, 4, 6, 4, 2, 2, 1 seria como o seguinte cenário:
 
-```
+```txt
 _____#____
 _____#____
 ____###___
@@ -41,18 +42,18 @@ Do 1 para o 3, do 4 para o 6, do 6 para o 4, e do 4 para o 2.
 
 Receba um vetor de inteiros e conte quantas vezes dois números consecutivos possuem diferença absoluta maior que 1.
 
-### Entrada
+## Entrada
 
 *   Quantidade de elementos do vetor (1 a 50).
 *   Elementos do vetor.  
 
-### Saída
+## Saída
 
 *   Quantidade de movimentos de parkour.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5
 1 2 1 2 3

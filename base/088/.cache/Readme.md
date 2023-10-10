@@ -1,7 +1,8 @@
-## @088 L2 - Mediana
+# @088 L2 - Mediana
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/088/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/088/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/088/cover.jpg)
 
 ## Motivação
 
@@ -23,18 +24,18 @@ do vetor ORDENADO. No vetor v = {1, 2, 3}, por exemplo, a mediana é 2, pois est
 
 Assim, você deve ordenar o vetor antes de calcular a mediana.
 
-### Entrada
+## Entrada
 
 - 1° linha: A quantidade de elementos do vetor.  
 - 2a linha: Os elementos em ponto flutuante de forma não ordenada.
 
-### Saída
+## Saída
 
 - O Valor da mediana com até uma casa decimal.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 2
 2 4
@@ -62,4 +63,4 @@ Assim, você deve ordenar o vetor antes de calcular a mediana.
 ========
 9.0
 <<<<<<<<
-```
+```txt

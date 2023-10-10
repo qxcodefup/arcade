@@ -1,8 +1,8 @@
-## L3 - Francês é Fresco
+# L3 - Francês é Fresco
 ### Juntar palavras
 
-![](solver.c)
-![](cover.jpg)
+!
+![_](cover.jpg)
 
 ## Motivação
 
@@ -18,17 +18,17 @@ Se tiver 3 ou mais vogais juntas so junte todas amo o orvalho -> amorvalho
 
 o gago disse e e e eu te amo -> o gago disseu te amo
 
-### Entrada
+## Entrada
 
 *   Um texto. (max 100 char)
 
-### Saída
+## Saída
 
 *   O liaison das palavras.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 a porta amassou
 ========

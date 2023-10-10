@@ -1,7 +1,8 @@
-## @056 L1 - Calça apertada
+# @056 L1 - Calça apertada
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/056/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/056/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/056/cover.jpg)
 
 ## Motivação
 
@@ -11,17 +12,17 @@ Tem mulheres que gostam de roupa apertada. E homens sertanejos também. Mariana 
 
 Faça um programa que receba cinco valores inteiros e encontre o menor deles.  
 
-### Entrada
+## Entrada
 
 *   5 valores inteiros (entre 1 e 30), um por linha.
 
-### Saída
+## Saída
 
 *   O menor valor inteiro.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1
 4

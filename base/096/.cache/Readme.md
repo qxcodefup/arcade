@@ -1,7 +1,8 @@
-## @096 L2 - Contar Leds
+# @096 L2 - Contar Leds
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/096/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/096/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/096/cover.jpg)
 
 ## Motivação
 
@@ -11,13 +12,13 @@ João quer montar um painel de leds contendo diversos números. Ele não possui 
 
 Considerando a configuração dos leds dos números abaixo, faça um algoritmo que ajude João a descobrir a quantidade de leds necessário para montar o valor.
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/096/leds.png)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/096/leds.png)
 
-### Entrada
+## Entrada
 
 *   A entrada contém um inteiro **N**,** (1 ≤ N ≤ 1000), ** correspondente ao número de casos de teste, seguido de **N **linhas, cada linha contendo um número** (1 ≤ V ≤ 10100) **correspondente ao valor que João quer montar com os leds.
 
-### Saída
+## Saída
 
 *   Para cada caso de teste, imprima uma linha contendo o número de leds que João precisa para montar o valor desejado, seguido da palavra "leds".  
 
@@ -27,7 +28,7 @@ Agradecimentos a Cassio F.
   
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3
 1
@@ -67,4 +68,4 @@ Agradecimentos a Cassio F.
 ========
 49 leds
 <<<<<<<<
-```
+```txt

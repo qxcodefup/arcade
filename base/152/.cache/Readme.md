@@ -1,7 +1,9 @@
-## @152 L3 - Letras Ordenadas
+# @152 L3 - Letras Ordenadas
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/152/Readme.md)
 ### OBI 2015 - Fase 2 - Nível 1
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/152/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/152/cover.jpg)
 
 ## Motivação
 
@@ -11,11 +13,11 @@ Uma _subsequência_ de uma cadeia de caracteres é uma cadeia de caracteres que 
 
 Dada uma cadeia de caracteres S, escreva um programa para determinar o tamanho da maior subsequência de S que é uma cadeia de caracteres crescente.
 
-### Entrada
+## Entrada
 
 A entrada consiste em uma única linha, contendo uma cadeia de caracteres S.
 
-### Saída
+## Saída
 
 Seu programa deve produzir uma única linha, contendo um único inteiro, o tamanho da maior subsequência de S que é uma cadeia de caracteres crescente.
 
@@ -31,7 +33,7 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o taman
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 BANANAS
 ========

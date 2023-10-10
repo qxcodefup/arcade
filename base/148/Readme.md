@@ -1,7 +1,6 @@
-## L1 - Expressão
+# L1 - Expressão
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -15,7 +14,7 @@ Crie um programa que leia do usuário dois números inteiros e um operador do ti
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5
 5

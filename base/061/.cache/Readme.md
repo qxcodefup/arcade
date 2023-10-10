@@ -1,7 +1,8 @@
-## @061 L2 - Invertendo vetor
+# @061 L2 - Invertendo vetor
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/061/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/061/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/061/cover.jpg)
 
 ## Motivação
 
@@ -14,7 +15,7 @@ Um aluno capoeirista estava sentado quietinho no cantinho da UFC quando um amigo
 
 Faça uma função que ajude o capoeirista a inverter um vetor passado na entrada.
 
-### Entrada
+## Entrada
 
 *   1ª linha: número de elementos
 

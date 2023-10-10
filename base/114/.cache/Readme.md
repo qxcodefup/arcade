@@ -1,7 +1,9 @@
-## @114 L3 - MeU WoRd QuEbRoU
+# @114 L3 - MeU WoRd QuEbRoU
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/114/Readme.md)
 ### Formatação de Case
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/114/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/114/cover.jpg)
 
 ## Motivação
 
@@ -15,18 +17,18 @@ Ignore pontuação, espaço e números.
 
 A entrada é composta de minusculas, maiúsculas, números, pontuações e espaços simples.
 
-### Entrada
+## Entrada
 
 *   Texto com até 100 caracteres.
 *   Caracteres representando a formatação (M, m, p, i).
 
-### Saída
+## Saída
 
 *   O texto formatado.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 O Pato e o frango ja tao cozidos, comam!
 M

@@ -1,6 +1,7 @@
-## @038 L2 - Próximo segundo
+# @038 L2 - Próximo segundo
 
-[](solver.c)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/038/Readme.md)
+
 ![ponteiros de um relógio](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/038/cover.jpg)
 
 ## Motivação
@@ -13,17 +14,17 @@ Após cair da cama, sua mãe lhe disse que se ele não se levantasse em um segun
 
 Supondo que João seja sobre humano, seu trabalho é fazer um programa para calcular em qual hora minuto e segundo ele deve ter terminar de arrumar seu quarto.
 
-### Entrada
+## Entrada
 
 * Três inteiros, hora, minuto e segundo inicial em uma linha.
 
-### Saída:
+## Saída
 
 * Hora, minuto e segundo final e uma linha.
 
-## Exemplos:
+## Exemplos
 
-```
+```txt
 >>>>>>>>
 12 10 11
 ========
@@ -54,14 +55,15 @@ Supondo que João seja sobre humano, seu trabalho é fazer um programa para calc
 ### Lendo as variáveis
 
 Para ler as variáveis em python e javascript você pode fazer assim:
-- Python: `hora, min, seg = map(int, input().split(" "))`
-- Javascript = `let [hora, min, seg] = input().split(" ").map(Number)`
 
+* Python: `hora, min, seg = map(int, input().split(" "))`
+* Javascript = `let [hora, min, seg] = input().split(" ").map(Number)`
 
 ### Imprimindo com 2 dígitos
+
 Para imprimir um número inteiro colocando zeros a esquerda utilize o seguinte comando. Se o printf contiver %0xd, o número vai ser impresso completando com zeros a esquerda se o número tiver menos que x caracteres. Para imprimir com dois dígitos a variável **valor** use.
 
-```
+```txt
 c
 printf("%02d", valor);
 
@@ -70,4 +72,4 @@ print("%02d" % (valor))
 
 javascript
 console.log("String(valor).padStart(2, '0'));
-```
+```txt

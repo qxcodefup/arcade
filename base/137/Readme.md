@@ -1,8 +1,8 @@
-## L2 - Fatoração
+# L2 - Fatoração
 
 ### Fatore um numero
 
-![](cover.jpg)
+![_](cover.jpg)
 
 Motivação
 ---------
@@ -16,11 +16,11 @@ Ação
 
 Leia um Inteiro e represente-o com sua forma fatorada.
 
-### Entrada
+## Entrada
 
 -   1 Inteiro N.
 
-### Saída
+## Saída
 
 Sua forma fatorada, representado pela bases seguido de seus expoentes separado por um espaço.
 

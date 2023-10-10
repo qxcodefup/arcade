@@ -1,6 +1,6 @@
 # L2 - Retângulo
 
-![](cover.jpg)
+![_](cover.jpg)
 
 Um retângulo com os lados paralelos aos eixos pode ser descrito por dois pontos `supEsq` e `infDir`. O ponto supEsq representa a coordenada do canto superior esquerdo e o ponto infDir 
 representa a coordenada do canto inferior direito.
@@ -20,7 +20,7 @@ Construa uma função com o seguinte protótipo:
 
 ```C
 int dentro(Retangulo ret, Ponto p);
-```
+```txt
 A função dentro devolve 1 se o ponto p está dentro do retângulo rete 0, caso contrário.
 
 A função principal do seu programa é a seguinte:
@@ -59,8 +59,6 @@ int main(){
     printf("%d\n", dentro(r,p) ); //1
 }
 ```
-
-
 
 
 

@@ -1,7 +1,8 @@
-## @180 L2 - Guerra Civil no Universo Marvel
+# @180 L2 - Guerra Civil no Universo Marvel
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/180/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/180/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/180/cover.jpg)
 
 ## Motivação
 
@@ -16,21 +17,21 @@ Crie um programa que receba o número de integrantes, crie um vetor para cada ti
 * "Draw" se for empate  
 * E por fim, o nome do campeão com o maior poder
 
-### Entrada
+## Entrada
 
 * Quantidade de integrantes do time do Homem de Ferro
 * Nome e poder de cada
 * Quantidade de integrantes do time do Capitão América
 * Nome e poder de cada
 
-### Saída
+## Saída
 
 * Time vencedor
 * Nome do campeão mais poderoso
 
 ### Exemplos
 
-```
+```txt
 >>>>>>>>
 2
 Homem de Ferro

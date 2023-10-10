@@ -1,25 +1,26 @@
-## @142 L2 - Vetor de strings com variados tamanhos
+# @142 L2 - Vetor de strings com variados tamanhos
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/142/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/142/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/142/cover.jpg)
 
 ## Ação
 
 Leia um conjunto de strings e aloque apenas a quantidade de memória necessária para armazenar estas strings. Em seguida ordene e imprima as strings. Somente serão aceitas respostas com alocação dinâmica das strings (verificação manual).
 
-### Entrada
+## Entrada
 
 - Linha 1: número de strings.
 - Uma linha para cada strings.
 A linha começa com um inteiro indicando quantos caracteres tem a string,
 seguido de um espaço e a string.
   
-### Saída
+## Saída
     - Strings em ordem crescente (ou seja, na ordem do dicionário).
   
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 6
 12 Gilberto Gil

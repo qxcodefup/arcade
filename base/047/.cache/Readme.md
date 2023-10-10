@@ -1,7 +1,8 @@
-## @047 L2 - Ônibus lotado
+# @047 L2 - Ônibus lotado
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/047/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/047/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/047/cover.jpg)
 
 ## Motivação:
 
@@ -30,12 +31,12 @@ Você pode assumir:
 * Um número negativo representa a saída de pessoas.
 * Nunca vão sair mais pessoas do que tem no ônibus
 
-### Entrada:
+## Entrada
 
 * O inteiro **C** (capacidade).
 * O inteiro**M** (movimentação). Continue lendo até o ônibus partir.
 
-### Saída
+## Saída
 
 * O estado do ônibus para cada entrada ou saída de gente.
 
@@ -84,4 +85,4 @@ vazio
 lotado
 hora de partir
 <<<<<<<<
-```
+```txt

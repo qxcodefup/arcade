@@ -1,7 +1,6 @@
-## L3 - Mercantil V3 - Muitas rodadas
+# L3 - Mercantil V3 - Muitas rodadas
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -16,21 +15,20 @@
     - O segundo jogador caso contrário.
 - O jogo acontecerá em várias rodadas. Ganhará o jogo quem vencer mais rodadas. Acontecerá empate se ambos ganharem a mesma quantidade de rodadas.
 
-
-### Entrada
+## Entrada
 
 *   1ª linha: a quantidade de rodadas.  
 *   2ª linha: o valor dos produtos de todas as rodadas.
 *   3ª linha: os chutes do primeiro (float) para todas as rodadas.
 *   4ª linha: as escolhas do segundo (m para menor, M para maior) para todas as rodadas.  
 
-### Saída
+## Saída
 
 *   Resultado do jogo ("primeiro" ou "segundo" ou "empate").
 
 ## Exemplos  
 
-```
+```txt
 >>>>>>>>
 1  
 1.0  
@@ -85,7 +83,6 @@ M m m
 segundo
 <<<<<<<<
 ```
-
 
 ## Dicas
 

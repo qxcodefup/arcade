@@ -1,7 +1,6 @@
-## L3 - Abastecimento de água
+# L3 - Abastecimento de água
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -16,19 +15,19 @@ O prefeito quer saber exatamente como a distribuição de água está sendo feit
 
 Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 
-### Entrada
+## Entrada
 
 *   **N** (quantidade de casas) e **Q** (quantidade decaminhões)
     
 *   Nas próximas **Q** linhas: o ponto **A**, **B** e a quantidade inteira **L** de água de cada caminhão.
 
-### Saída
+## Saída
 
 *   Vetor com o total de água de cada casa.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5 1
 0 2 1  

@@ -1,7 +1,8 @@
-## @176 L1 - Substring na decoração - Obter Substrings!
+# @176 L1 - Substring na decoração - Obter Substrings!
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/176/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/176/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/176/cover.jpg)
 
 ## Motivação
 
@@ -20,13 +21,13 @@ Coisas de nerds!
 
 Faça uma função que retorna uma substring dada a String passada, o ÍNDICE da posição inicial e o número de caracteres. Se os valores de inicio forem inválidos, retorne uma String vazia. Retorne a quantidade de caracteres pedidos ou até terminar a palavra.
 
-### Entrada
+## Entrada
 
 * Um texto, no máximo 100 chars.
 * O índice do primeiro caractere.
 * Quantidade de caracteres.
 
-### Saída
+## Saída
 
 * A substring.
 
@@ -41,7 +42,6 @@ Coralina
 ========
 Cora
 <<<<<<<<
-
 
 >>>>>>>> 02
 Power Ranger

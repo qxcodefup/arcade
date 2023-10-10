@@ -1,7 +1,6 @@
-## L3 - Sorvete suor casaca chicletes - Letras em Comum!
+# L3 - Sorvete suor casaca chicletes - Letras em Comum!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -23,17 +22,17 @@ Elas tem em comum as letras (a, c e o).
 
 Dada uma frase com até 100 caracteres, será que você consegue me dizer a quantidade de letras que todas as palavras tem em comum?
 
-### Entrada
+## Entrada
 
 - Uma frase com até 100 caracteres.  
 
-### Saída
+## Saída
 
 - Um inteiro representando a quantidade de letras em comum.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 sorvete suor casaca chicletes pegasus
 ========

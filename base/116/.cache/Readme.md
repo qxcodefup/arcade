@@ -1,7 +1,8 @@
-## @116 L3 - Roda Roda Jequiti
+# @116 L3 - Roda Roda Jequiti
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/116/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/116/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/116/cover.jpg)
 
 ## Motivação
 
@@ -33,19 +34,19 @@ Ex: "**extraordinario**", "**aeioubcdfgh**" , '**\***' -> "**e\*\*\*ao\*di\*a\*i
 Ex: "**Teco-Teco!**" , "**tbxyan**" , '**\_**' -> "**T\_\_\_-T\_\_\_!**"  
 Ex: "**Seu Pilantra!**" , "**yzxa**" , '**\***' -> "**\*\*\* \*\*\*a\*\*\*a!**"
 
-### Entrada
+## Entrada
 
 *   Frase(max 100 char),
 *   Chutes (max 26 char) 
 *   Caractere de marcação (1 char).
 
-### Saída
+## Saída
 
 *   Uma frase com as letras chutadas corretamente e o caractere marcador nas letras erradas.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 extraordinario
 aeioubcdfgh

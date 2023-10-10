@@ -1,7 +1,8 @@
-## @134 L2 - Quadrado Mágico
+# @134 L2 - Quadrado Mágico
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/134/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/134/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/134/cover.jpg)
 
 ## Motivação
 
@@ -11,17 +12,17 @@ Dizemos que uma matriz quadrada inteira é um quadrado mágico se a soma dos ele
 
 Diga se a uma matriz de elementos inteiros 3x3 dada como entrada é quadrado mágico ou não.  
   
-### Entrada
+## Entrada
 
 *   A matriz 3x3
 
-### Saída
+## Saída
 
 *   "sim" se for quadrado mágico e "nao" caso contrário.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1 2 3
 4 5 6

@@ -1,7 +1,6 @@
-## L1 - Operações
+# L1 - Operações
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -15,7 +14,7 @@ Crie um programa que leia do usuário dois números inteiros e calcule o valor d
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 5  
 2

@@ -1,10 +1,12 @@
-## @100 L3 - Pião perto da linha
+# @100 L3 - Pião perto da linha
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/100/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/100/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/100/cover.jpg)
 
 ## Motivação
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/100/jogo.png)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/100/jogo.png)
 
 No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
 - N jogadores se reúnem cada um com seu pião.
@@ -13,7 +15,7 @@ No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
 - Quem ficou mais perto da linha ganha, desde que esteja dentro do limite.
 - Quem ficou mais longe da linha leva uma peia.
 
-### Entrada
+## Entrada
 
 - 1a linha: a distancia L entre a linha alvo e as linhas limite e a quantidade N de jogadores.
 
@@ -21,7 +23,7 @@ No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
 
 No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e P3 tem valor 25.
 
-### Saída
+## Saída
 
 - 1a linha: o número do ganhador (1o jogador tem índice 0).
     - "nenhum" se nenhum conseguiu acertar dentro dos limite.
@@ -32,7 +34,7 @@ No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 30 3
 35 -15 22
@@ -65,6 +67,5 @@ nenhum
 1
 <<<<<<<<
 ```
-
 
 * baitinga: modo carinhoso que um cearense chama o outro quando está invocado!

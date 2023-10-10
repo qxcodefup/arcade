@@ -1,6 +1,8 @@
-## @203 L1 - Cláusulas de guarda
+# @203 L1 - Cláusulas de guarda
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/203/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/203/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/203/cover.jpg)
 
 Essa questão foi extraída do seguinte vídeo. O objetivo é simplificar testes de if else pensando nas negações.
 
@@ -24,9 +26,8 @@ if (!login) {
 }
 ```
 
-
 ### tests
-```
+```txt
 >>>>>>>>
 0
 0
@@ -74,7 +75,6 @@ you need to login first
 ========
 you must to login as admin
 <<<<<<<<
-
 
 >>>>>>>>
 1

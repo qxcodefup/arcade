@@ -1,7 +1,9 @@
-## @098 L3 - Jason e Krueguer
+# @098 L3 - Jason e Krueguer
+
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/098/Readme.md)
 ### Busca de maior ocorrencia
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/098/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/098/cover.jpg)
 
 ## Motivação
 
@@ -24,7 +26,7 @@ Algum tempo depois...
 
 Faça um programa que dada uma string retorne uma linha contendo o subtexto com a maior quantidade de vogais juntas.
 
-### Entrada
+## Entrada
 
 *   1a linha: a quantidade de casos de teste(1 a 50). Uma linha por caso de teste contendo uma frase de até 50 caracteres, apenas com minuscula.
 
@@ -34,7 +36,7 @@ Faça um programa que dada uma string retorne uma linha contendo o subtexto com 
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1
 aeb

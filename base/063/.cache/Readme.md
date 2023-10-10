@@ -1,7 +1,8 @@
-## @063 L3 - Blackjack 21!
+# @063 L3 - Blackjack 21!
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/063/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/063/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/063/cover.jpg)
 ## Motivação
 
 Faça um programa que conte o valor de uma mão de blackjack.  
@@ -10,18 +11,17 @@ Se a soma de pontos for maior que 21, o Ás passa a valer 1 ponto, diminuindo a 
   
 No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e K.  
 
-
-### Entrada
+## Entrada
 
 - A entrada começa informando a quantidade de elementos do vetor e é seguida pelos valores inteiros um por linha.
 
-### Saída
+## Saída
 
 - A saída deve ser um inteiro informando o valor da mão do blackjack.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 2
 1
@@ -68,4 +68,4 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 ========
 24
 <<<<<<<<
-```
+```txt

@@ -1,7 +1,7 @@
-## L2 - Mostrar cartas
+# L2 - Mostrar cartas
 ### Imprimir vetor formatado
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
@@ -9,15 +9,17 @@ Leia um vetor contendo uma mão de cartas e mostre as cartas para o usuário.
 
 As cartas estão codificadas da seguinte forma. O 1 vale A, os valores 11, 12 e 13 valem respectivamente J, Q e K.
 
-### Entrada
+## Entrada
+
 - 1ª linha: 'N' quantidade de cartas na mão
 - 2ª linha: 'N' valores representando as cartas do usuário.
-### Saída
+## Saída
+
 - Vetor formatado entre [ ], separados por ' , '.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 0
 ========
@@ -51,4 +53,4 @@ As cartas estão codificadas da seguinte forma. O 1 vale A, os valores 11, 12 e 
 ========
 [10, 10, 2, 2, J, A]
 <<<<<<<<
-```
+```txt

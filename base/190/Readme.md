@@ -1,12 +1,12 @@
-## L4 - Maiores Palíndromos
+# L4 - Maiores Palíndromos
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 Números palíndromos são números que tem a mesma leitura nos dois sentidos.
 
 ### Exemplo :
-```
+```txt
 9,11,121,252,25452,11411.
 ```
 
@@ -15,14 +15,14 @@ Pedrinho quer saber qual o maior palíndromo formado pelo produto de 2 números 
 ## Ação
 Dado dois inteiros N e M, retornar os M maiores palíndromos formados pelo produto de dois números de N dígitos.
 
-### Entrada:
+## Entrada
 2 Inteiros N, M.
 
 ### Saida:
 Os M maiores palíndromos formados pelo produto de dois números cuja quantidade de dígitos é N.
 
 ## Exemplos
-```
+```txt
 >>>>>>>>
 2 3
 ========

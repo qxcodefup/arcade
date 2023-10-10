@@ -1,13 +1,14 @@
-## @181 L2 - Somando numeros
+# @181 L2 - Somando numeros
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/181/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/181/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/181/cover.jpg)
 
 ## Ação
 
 Dada uma frase(max 100 char) com palavras(letras minusculas), números e espaço, some todos os números que encontrar. Numa palavra existem apenas números ou apenas alfabéticos. Palavras são separadas por 1 espaço.
 
-### Entrada
+## Entrada
 
 * Uma frase(max 100 char) com palavras (letras minusculas), números e espaço
 
@@ -17,7 +18,7 @@ Dada uma frase(max 100 char) com palavras(letras minusculas), números e espaço
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 apesar de 2 jogadores serem expulsos, a seleção brasileira venceu a seleção italiana por 5 x 1
 ========

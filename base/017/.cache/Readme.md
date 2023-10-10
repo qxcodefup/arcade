@@ -1,7 +1,8 @@
-## @017 L2 - Maior ovo
+# @017 L2 - Maior ovo
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/017/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/017/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/017/cover.jpg)
 
 ## Motivação
 
@@ -23,17 +24,17 @@ empática e fome, decidiu comer só o ovo maiorzinho.
 
 Leia 4 números e imprima o maior valor.
 
-### Entrada:
+## Entrada
 
 * Leia quatro valores inteiros do usuário.
 
-### Saída:
+## Saída
 
 * Imprima o maior valor lido.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 3
 3
@@ -52,4 +53,3 @@ Leia 4 números e imprima o maior valor.
 8
 <<<<<<<<
 ```
-

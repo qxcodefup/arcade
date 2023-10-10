@@ -1,7 +1,7 @@
-## L2 - Eribelton e a Ascologia V2
+# L2 - Eribelton e a Ascologia V2
 ### Buscando a perfeição
 
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -16,7 +16,7 @@ Para isso a única modificação que você pode fazer no nome é adicionar uma l
 final da palavra, um alfabético minúsculo apenas. Apenas um. Se não existir
 nenhuma adição que coloque o valor em 0, escreva "sem sorte".
 
-### Entrada
+## Entrada
 
 - Uma palavra apenas com minúsculos e maiúsculos sem espaços (1 a 30 chars).
 
@@ -26,7 +26,7 @@ O novo nome ou "sem sorte"
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 Dhaquison
 ========

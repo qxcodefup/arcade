@@ -1,7 +1,6 @@
-## L1 - LP da Xura - Inverter String!
+# L1 - LP da Xuxa - Inverter String!
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -16,17 +15,17 @@ Mamãe, é que eu ví na internet que se tocarmos as músicas da Xuxa ao contrá
 Ajude Carlinhos a testar essa teoria.  
 Dado uma string, imprima a mesma string ao contrário.
 
-### Entrada
+## Entrada
 
 *   Uma frase de até 100 caracteres.
 
-### Saída
+## Saída
 
 *   Imprima a frase ao contrario.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 ra on odnalor at acopip ed oriehc o
 ========
@@ -44,4 +43,4 @@ oacaroc ues on x mu ieuqram
 ========
 marquei um x no seu coracao
 <<<<<<<<
-```
+```txt

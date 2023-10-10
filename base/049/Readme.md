@@ -1,7 +1,6 @@
-## L2 - Sapinho 1 no Poço
+# L2 - Sapinho 1 no Poço
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -22,17 +21,17 @@ para mostrar os saltos do sapo até a saída.
 
 Imprima todas as posições de aterrissagem dos saltos do sapinho.
 
-### Entrada
+## Entrada
 
 * P, S, E inteiros, um por linhas. S sempre será maior que E.
 
-### Saída
+## Saída
 
 * as posições de salto e aterrissagem do sapinho até que ele saia do poço.
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 500
 100

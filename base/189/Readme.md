@@ -1,12 +1,11 @@
-## L2 - Fatores de um número
-![](cover.jpg)
+# L2 - Fatores de um número
+![_](cover.jpg)
 
 ## Ação
 Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na fatoração.
 
-
 ## Testes
-```
+```txt
 >>>>>>>>
 8
 ========
@@ -26,7 +25,6 @@ Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na
 5 1
 11 1
 <<<<<<<<
-
 
 >>>>>>>>
 552

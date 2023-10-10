@@ -1,7 +1,6 @@
-## L1 - Eribelton e a Ascologia V1 - Somar Asc
+# L1 - Eribelton e a Ascologia V1 - Somar Asc
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -16,17 +15,17 @@ Quanto menor o valor obtido, maior é o poder ascológico de um nome.
 
 Receba um nome como entrada e some todos os caracteres. Imprima o resto da soma por 50.  
 
-### Entrada
+## Entrada
 
 *   Um nome.  
 
-### Saída
+## Saída
 
 *   Resto da divisão da soma dos caracteres por 50.  
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>> 01
 David
 ========

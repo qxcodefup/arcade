@@ -1,6 +1,8 @@
-## @186 L2 - Linha de inteiros 🎥💎
+# @186 L2 - Linha de inteiros 🎥💎
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/186/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/186/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/186/cover.jpg)
 
 [Explicação](https://youtu.be/r44oGh6gVU0)
 
@@ -29,7 +31,7 @@ ___
 - Saída:
     - O vetor impresso ao contrário.
 
-```
+```txt
 >>>>>>>>
 19 12 32 11 17 15
 ========

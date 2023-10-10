@@ -1,7 +1,8 @@
-## @045 L1 - Soma dos pares
+# @045 L1 - Soma dos pares
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/045/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/045/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/045/cover.jpg)
 
 ## Motivação
 
@@ -17,16 +18,16 @@ Some todos os números inteiros pares que estão entre A e B, inclusive A e B.
 
 Descubra em http://www.profcardy.com/cardicas/tirateima.php?id=1
 
-### Entrada
+## Entrada
 
 * Dois números inteiros A e B, sendo B maior ou igual à A.
 
-### Saída
+## Saída
 
 * A soma de todos os números pares ou invalido caso A seja maior que B.
 
 ## Exemplos
-```
+```txt
 >>>>>>>>
 1
 10
@@ -54,4 +55,4 @@ invalido
 ========
 6
 <<<<<<<<
-```
+```txt

@@ -1,7 +1,6 @@
-## L2 - Criança ou Múmia
+# L2 - Criança ou Múmia
 
-
-![](cover.jpg)
+![_](cover.jpg)
 
 Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escreva:
 
@@ -13,10 +12,9 @@ Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escrev
 
 OBS: por simplificações, não faça flexão de gênero (idoso, idosa, adulto, adulta), não use acento, nem ç, nem maiúscula. 
 
-
 ### Exemplos
 
-```
+```txt
 >>>>>>>>
 mario
 4

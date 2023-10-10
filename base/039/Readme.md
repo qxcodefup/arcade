@@ -1,6 +1,5 @@
-## L2 - Mercantil V2 - Maior ou Menor
+# L2 - Mercantil V2 - Maior ou Menor
 
-[](solver.c)
 ![Silvio Santos]( cover.jpg)
 
 ## Descrição
@@ -17,7 +16,7 @@ O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o 
 
 [DS]
 
-### Entrada:
+## Entrada
 
 * linha 1: o chute do Primeiro Jogador(float)
 * linha 2: a escolha do Segundo Jogador(m para menor e M para maior)
@@ -29,7 +28,7 @@ O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o 
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1.1
 m
@@ -62,5 +61,4 @@ m
 primeiro
 <<<<<<<<
 ```
-
 

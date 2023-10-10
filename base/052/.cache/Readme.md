@@ -1,7 +1,8 @@
-## @052 L3 - Sopa de coelho?
+# @052 L3 - Sopa de coelho?
 
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/052/Readme.md)
 
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/052/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/052/cover.jpg)
 
 ## Motivação
 
@@ -24,11 +25,11 @@ Dado o número N, imprima o enésimo termo da série.
 
 Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, se estiver programando em c, use um long int.
 
-### Entrada
+## Entrada
 
 - N, um por linha.
 
-### Saída
+## Saída
 
 - O enésimo termo de Fibonacci.
 
@@ -38,7 +39,7 @@ Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, 
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 1
 ========
@@ -56,4 +57,4 @@ Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, 
 ========
 12586269025
 <<<<<<<<
-```
+```txt

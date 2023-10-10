@@ -1,7 +1,8 @@
-## @020 L2 - Zerinho ou Um!
+# @020 L2 - Zerinho ou Um
 
-[](solver.c)
-![](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/020/cover.jpg)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/020/Readme.md)
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/020/cover.jpg)
 
 ## Motivação
 
@@ -12,16 +13,17 @@ Que tal implementar um código que lê os dedos e informa quem ganhou o jogo?
 
 Receba três valores correspondentes dos jogadores e em seguida imprima quem foi o vencedor ou se ouve empate segundo as regras do zerim ou um.
 
-### Entrada:
+## Entrada
 
 * As opções dos 3 jogadores, uma por linha.
 
-### Saída:
+## Saída
 
 * O jogador (jog1, jog2, jog3) que ganhou ou "empate".
 
 ## Exemplos
-```
+
+```txt
 >>>>>>>>
 1
 1
@@ -53,4 +55,4 @@ jog1
 ========
 jog2
 <<<<<<<<
-```
+```txt

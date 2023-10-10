@@ -1,7 +1,6 @@
-## L1 - Impedido!
+# L1 - Impedido!
 ### OBI 2015 - Fase 2 - Nível 1
 
-[](solver.c)
 
 ## Motivação
 
@@ -9,13 +8,13 @@ A regra do impedimento no futebol pode parecer estranha, mas sem ela, se a gente
 
 A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógica dela. O seu programa deve apenas determinar, dadas as três posições L,R e D, se há ou não impedimento, implementando exatamente a condição acima. A figura abaixo mostra um exemplo onde \\bf não há impedimento:
 
-![](cover.jpg)
+![_](cover.jpg)
 
-### Entrada
+## Entrada
 
 - A entrada é composta 3 linhas, contendo os três inteiros L, R e D.
 
-### Saída
+## Saída
 
 - Seu programa deve produzir uma única linha, contendo um único caractere, que deve ser "S" caso haja impedimento, ou "N" caso contrário.
 
@@ -27,7 +26,7 @@ A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógi
 
 ## Exemplos
 
-```
+```txt
 >>>>>>>>
 35
 60
