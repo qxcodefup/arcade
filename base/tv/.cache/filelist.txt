@@ -1,8 +1,4 @@
 Readme.md
 cover.jpg
-.a.hs
-.a.o
-.a.hi
-.a.out
 q.tio
 

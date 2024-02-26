@@ -1,7 +1,4 @@
-# L3 - Soma de vários números.
-
-![_](cover.jpg)
-[](solver.py)
+# L3 - Soma de vários números
 
 ## Ação
 

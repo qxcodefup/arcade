@@ -20,7 +20,7 @@ A segunda linha de cada caso de teste contém N inteiros (A1 ... An) denotando a
 
 Imprima um único inteiro denotando o número total de paredes contadas por Bob
 
-**Exemplo de Entrada**
+## Exemplo de Entrada
 
 ``` txt
 >>>>>>>>

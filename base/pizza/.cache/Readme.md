@@ -10,23 +10,22 @@ Edvaldo sugere que Davi atribua alguns pontos a cada restaurante e, em seguida, 
 
 Davi atribuiu pontos a todos os restaurantes, mas não consegue descobrir qual restaurante satisfaz os critérios de Edvaldo. Você pode ajudá-lo?
 
-## Entrada:
+## Entrada
 
 A primeira linha possui N, o número total de restaurantes.
 
 As próximas N linhas contêm o nome do restaurante e os pontos atribuídos por Davi, separados por um espaço. O nome do restaurante não tem espaços, é apenas em letras minúsculas e não terá mais de 20 caracteres.
 
-## Saída:
+## Saída
 
 Imprima o nome do restaurante que Joey deve escolher.
 
-## Restrições:
+## Restrições
 
-1 <= N <= 10<sup>5</sup>
+- 1 <= N <= 10^5
+- 1 <= pontos <= 10^6
 
-1 <= pontos <= 10<sup>6</sup>
-
-**Exemplo de Entrada**
+## Exemplo de Entrada
 
 ``` txt
 >>>>>>>>
@@ -42,4 +41,3 @@ burguery
 ## Sugestão
 
 Crie a struct Restaurante e faça uma função que receba a lista de restaurantes e retorne o resultado.
-

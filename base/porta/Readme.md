@@ -2,12 +2,11 @@
 
 ![_](cover.jpg)
 
-Motivação
----------
+## Motivação
 
 Pedrinho precisa encontrar a sua sala onde terá sua aula de matemática.
 
-Disseram para Pedrinho: A sala de matemática tem em sua porta um número de identificação, que misteriosamente se altera conforme as portas que estão próximas a ela, mas segue sempre uma regra: a porta matemática é aquela que possui dentre as outras, o número que gera a maior sequência da conjectura de collatz e que é um quadrado perfeito. 
+Disseram para Pedrinho: A sala de matemática tem em sua porta um número de identificação, que misteriosamente se altera conforme as portas que estão próximas a ela, mas segue sempre uma regra: a porta matemática é aquela que possui dentre as outras, o número que gera a maior sequência da conjectura de collatz e que é um quadrado perfeito.
 
 Pedrinho tem uma sequência de números de possíveis portas, ajude ele a identificar a porta matemática. Observações:
 
@@ -22,12 +21,12 @@ Faça um programa que dado um conjunto de portas retorne a porta matemática.
 
 ## Entrada
 
--   1 Inteiro N seguido de N Inteiros.
+- 1 Inteiro N seguido de N Inteiros.
 
 ## Saída
 
--   O número que representa a porta matemática.
--   Ou \"a porta nao existe\", caso a porta não exista
+- O número que representa a porta matemática.
+- Ou \"a porta nao existe\", caso a porta não exista
 
 ### Exemplos
 
@@ -53,5 +52,3 @@ Faça um programa que dado um conjunto de portas retorne a porta matemática.
 a porta nao existe
 <<<<<<<<
 ```
-
-@spinosa

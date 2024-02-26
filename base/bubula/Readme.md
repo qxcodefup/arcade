@@ -50,4 +50,3 @@ Solte essa faca ou eu arranco suas tripas no dente!
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
 <<<<<<<<
 ```
-

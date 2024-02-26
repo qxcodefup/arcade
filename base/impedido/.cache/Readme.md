@@ -2,8 +2,7 @@
 
 Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/impedido/Readme.md)
 
-### OBI 2015 - Fase 2 - Nível 1
-
+## OBI 2015 - Fase 2 - Nível 1
 
 ## Motivação
 
@@ -23,9 +22,9 @@ A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógi
 
 ## Restrições
 
-* 0 ≤ L ≤ 100
-* 0 ≤ R ≤ 100
-* 0 ≤ D ≤ 100
+- 0 ≤ L ≤ 100
+- 0 ≤ R ≤ 100
+- 0 ≤ D ≤ 100
 
 ## Exemplos
 
@@ -54,4 +53,3 @@ S
 N
 <<<<<<<<
 ```
-

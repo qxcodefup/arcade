@@ -66,5 +66,3 @@ Faça um programa que dado um numero representando a tecla quebrada e o numero n
 0
 <<<<<<<<
 ```
-
-#

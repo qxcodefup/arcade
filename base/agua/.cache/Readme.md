@@ -20,7 +20,7 @@ Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 ## Entrada
 
 * **N** (quantidade de casas) e **Q** (quantidade decaminhões)
-    
+
 * Nas próximas **Q** linhas: o ponto **A**, **B** e a quantidade inteira **L** de água de cada caminhão.
 
 ## Saída
@@ -66,4 +66,3 @@ Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 1 2 3 4
 <<<<<<<<
 ```
-

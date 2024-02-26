@@ -4,10 +4,10 @@
 
 ## Motivação
 
-Vários competidores disputaram uma competição interessante. 
+Vários competidores disputaram uma competição interessante.
 
-- Eles tinham duas pedras para lançar. 
-- Chamemos de pedra A e pedra B. 
+- Eles tinham duas pedras para lançar.
+- Chamemos de pedra A e pedra B.
 - Eles tinham que arremessar ambas as pedras a pelo menos 10 metros de distância.
 - Se alguma das pedras caíssem abaixo de 10 metros, ele estaria desclassificado.
 - A pontuação obtida é dada pela distância absoluta entre as pedras. Se uma pedra caiu a 12 metros e outra a 15 metros, ele fez 3 pontos.
@@ -17,9 +17,9 @@ Vários competidores disputaram uma competição interessante.
 
 ## Entrada
 
-* O número N de competidores.
+- O número N de competidores.
 
-* Distância das pedras A e B de cada competidor.
+- Distância das pedras A e B de cada competidor.
 
 ### Saida
 

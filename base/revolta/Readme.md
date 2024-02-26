@@ -1,7 +1,7 @@
 # L2 - @revolta em Portugal
 
 ![_](cover.jpg)
-[](t.tio)
+
 ## Motivação
 
 Um grupo de portugueses planejava fazer uma revolução armada.

@@ -48,4 +48,3 @@ Não use uma função de ordenar pronta.
 1 2 3 4 9
 <<<<<<<<
 ```
-

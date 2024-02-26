@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-Aluízio quer comprar uma televisão parcelada. Ele tem X reais por mês disponíveis para pagar a televisão. No parcelamento, quanto mais parcelas, maior o juros que usa a seguinte regra. 
+Aluízio quer comprar uma televisão parcelada. Ele tem X reais por mês disponíveis para pagar a televisão. No parcelamento, quanto mais parcelas, maior o juros que usa a seguinte regra.
 
 - 1 vez sem juros
 - 2 vezes com juros de 5%

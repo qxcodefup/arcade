@@ -22,11 +22,11 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 
 ## Restrições
 
-* 2 ≤ N ≤ 105 e 2 ≤ M ≤ 105
+- 2 ≤ N ≤ 105 e 2 ≤ M ≤ 105
 
 ## Informações sobre a pontuação
 
-* Em um conjunto de testes somando 40 pontos, N ≤ 1000 e M ≤ 1000
+- Em um conjunto de testes somando 40 pontos, N ≤ 1000 e M ≤ 1000
 
 ## Exemplos
 
@@ -47,4 +47,3 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 [ 3 1 0 0 0 3 0 0 2 0 ]
 <<<<<<<<
 ```
-

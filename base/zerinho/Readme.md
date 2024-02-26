@@ -5,6 +5,7 @@
 ## Motivação
 
 Você já jogou zerim ou um? Aposto que sim!
+
 Que tal implementar um código que lê os dedos e informa quem ganhou o jogo?
 
 ## Ação

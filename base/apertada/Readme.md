@@ -41,4 +41,3 @@ Faça um programa que receba cinco valores inteiros e encontre o menor deles.
 3
 <<<<<<<<
 ```
-

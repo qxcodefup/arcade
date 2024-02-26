@@ -5,14 +5,13 @@ Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/b
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/trabalhando/cover.jpg)
 
 ## Motivação
+
 Um funcionário trabalha de segunda a sexta, de 8 até 11:59 e de
 14 até 17:59. Às 17:59 é pra ele ainda estar trabalhando!
 No sábado ele trabalha apenas de 8 até 11:59.
 
 O chefe cansou de tentar decorar isso tudo e deu 15 contos pra você
 fazer um código que lê o dia da semana, a hora e o minuto e informa ao chefe se ainda é pro funcionário estar trabalhando!
-
-[DS]
 
 ## Entrada
 
@@ -49,5 +48,3 @@ NAO
 NAO
 <<<<<<<<
 ```
-
-

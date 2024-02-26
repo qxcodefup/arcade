@@ -10,17 +10,18 @@ A questão é o seguinte:
 
 Dado o nome completo do aluno e 3 notas que ele tirou no curso, imprimir os alunos da maior média para menor média.
 
-## Entrada e Saída
+## Input
 
-- Input:
-    - no de alunos
-    - para cada aluno:
-        - nome completo do aluno
-        - notas n1, n2, n3
-- Saída
-    - nome do aluno
-    - media
-    - n1, n2, n3
+- no de alunos
+- para cada aluno:
+  - nome completo do aluno
+  - notas n1, n2, n3
+
+## Saída
+
+- nome do aluno
+- media
+- n1, n2, n3
 
 ## Testes
 

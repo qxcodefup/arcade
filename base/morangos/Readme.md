@@ -1,6 +1,6 @@
 # L1 - Plantação de @morangos
 
-### OBI 2016 - Fase1 - Nível 1
+## OBI 2016 - Fase1 - Nível 1
 
 ![_](cover.jpg)
 
@@ -18,8 +18,8 @@ Os administradores da Fazenda Fartura planejam criar uma nova plantação de mor
 
 ## Restrições
 
-* 1 ≤ comprimento ≤ 100
-* 1 ≤ largura ≤ 100
+- 1 ≤ comprimento ≤ 100
+- 1 ≤ largura ≤ 100
 
 ## Exemplos
 

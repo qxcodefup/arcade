@@ -18,7 +18,8 @@ Zero Um arregala os olhos e pergunta:
 
 ## Ação
 
-Implemente uma função que reordena o vetor de inteiros dado como entrada e retorne o vetor ordenado.  
+Implemente uma função que reordena o vetor de inteiros dado como entrada e retorne o vetor ordenado.
+
 Ordenar é função básica na computação. Que tal implementar o bubblesort? Dê uma olhadinha na internet e descubra como fazer isso.  
   
 Também é muito importante que você aprenda como sua linguagem pode fazer a ordenação por você. Todas as linguagens(C, C++, Python, JavaScript, etc) já tem métodos de ordenação prontos e é importante que você aprenda a utilizá-los.  
@@ -26,7 +27,6 @@ Também é muito importante que você aprenda como sua linguagem pode fazer a or
 ## Entrada
 
 * 1ª linha: o tamanho do vetor (1 a 50).
-    
 * 2ª linha: os elementos desordenados.
 
 ## Saída
@@ -50,4 +50,3 @@ Também é muito importante que você aprenda como sua linguagem pode fazer a or
 1 3 4 7 8
 <<<<<<<<
 ```
-

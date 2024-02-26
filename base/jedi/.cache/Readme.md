@@ -4,7 +4,6 @@ Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/b
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/jedi/cover.jpg)
 
-[](t.tio)
 ## Motivação
 
 * Hoje é Dia de gincana galeraaaaaaa!
@@ -90,4 +89,3 @@ Empate
 Jedi
 <<<<<<<<
 ```
-

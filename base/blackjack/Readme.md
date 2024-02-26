@@ -1,6 +1,7 @@
 # L3 - @blackjack 21
 
 ![_](cover.jpg)
+
 ## Motivação
 
 Faça um programa que conte o valor de uma mão de blackjack.  

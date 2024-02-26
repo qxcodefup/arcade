@@ -60,9 +60,9 @@ nao ha raiz real
 
 ## Ajuda
 
-* Para calcular a raiz quadrada você deverá utilizar a função `sqrt`. A função `sqrt` retorna a raiz quadrada do número que for passado por parâmetro. Exemplo:
+- Para calcular a raiz quadrada você deverá utilizar a função `sqrt`. A função `sqrt` retorna a raiz quadrada do número que for passado por parâmetro. Exemplo:
   
-```
+```txt
 sqrt(4) retorna 2    
 sqrt(5) retorna 2.23607    
 sqrt(9.0) retorna 3    
@@ -70,7 +70,7 @@ sqrt(9.0) retorna 3
 
 Observação
 
-* Para ser utilizada a função `sqrt`, ela deve ser importada. Segue as formas de importação em algumas linguagens e como utilizar:
+- Para ser utilizada a função `sqrt`, ela deve ser importada. Segue as formas de importação em algumas linguagens e como utilizar:
 
 ``` c
     #include <math.h> //c

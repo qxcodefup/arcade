@@ -1,4 +1,4 @@
-# L1 - @operacoes basicas
+# L1 - @operacoes básicas
 
 ![_](cover.jpg)
 
@@ -8,14 +8,14 @@ Leia dois números e imprima a soma, a subtração, a multiplicação, a divisã
 
 ## Entrada
 
-* Valores de A, B em inteiro, um por linha.
+- Valores de A, B em inteiro, um por linha.
 
 ## Saída
 
-* Valores da soma, subtração, multiplicação, divisão e resto da divisão.
+- Valores da soma, subtração, multiplicação, divisão e resto da divisão.
 
-* Valor da divisão deve ser em ponto flutuante de duas casas decimais.
-* O valor de B nunca será 0, então não se preocupe com divisão por 0.
+- Valor da divisão deve ser em ponto flutuante de duas casas decimais.
+- O valor de B nunca será 0, então não se preocupe com divisão por 0.
 
 ## Exemplos
 
@@ -44,7 +44,9 @@ Leia dois números e imprima a soma, a subtração, a multiplicação, a divisã
 ```
 
 ## Resolução
+
 Seja a variável `valor` um número em ponto flutuante, você pode imprimir essa variável com duas casas decimais você pode fazer assim:
+
 - C: `printf("%2.f", valor)`
 - Javascript: `console.log(valor.toFixed(2))`
 - Python: `print("%.2f" % (valor))`

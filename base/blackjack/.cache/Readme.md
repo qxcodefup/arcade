@@ -3,6 +3,7 @@
 Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/blackjack/Readme.md)
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/blackjack/cover.jpg)
+
 ## Motivação
 
 Faça um programa que conte o valor de uma mão de blackjack.  

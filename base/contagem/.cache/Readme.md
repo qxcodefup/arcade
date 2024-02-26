@@ -3,7 +3,7 @@
 Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/contagem/Readme.md)
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/contagem/cover.jpg)
-[](t.tio)
+
 ## Motivação
 
 Na saga dos Vingadores, o Ultron é um inimigo capaz de fazer cópias de sí mesmo. João é um grande fã da Saga e possui um enorme poster que contém diversas copias do Ultron junto aos heróis. João gostaria de saber quantos Ultrons estão presentes no poster.
@@ -58,4 +58,3 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 5
 <<<<<<<<
 ```
-

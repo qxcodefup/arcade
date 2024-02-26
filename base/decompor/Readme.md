@@ -8,7 +8,8 @@ Marquinhos está para ficar louco. Hermeneutico o desafiou a fazer um código
 que quebra inteiros em um vetor. Mas essa tarefa aparentemente simples está
 acabando com os miolos de Marquinhos. Por favor, ajude Marquinhos a recuperar
 sua paz de espírito fazendo esse código pra ele. Lembrando que a entrada deve
-ser vários valores inteiros, e a saída um vetor com todos os inteiros da entrada.  
+ser vários valores inteiros, e a saída um vetor com todos os inteiros da entrada.
+
 \[DS\]  
 
 ## Entrada

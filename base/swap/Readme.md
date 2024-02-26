@@ -29,6 +29,7 @@ int main(){
 ```
 
 Você deverá:
+
 - Implementar a função 'troca'.
 - Chamar a função 'troca' dentro da função 'main'.
 
@@ -53,5 +54,3 @@ Você deverá:
 0 0
 <<<<<<<<
 ```
-
-#

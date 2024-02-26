@@ -1,4 +1,4 @@
-# L3 - @sorvete suor casaca chicletes - Letras em Comum!
+# L3 - @sorvete suor casaca chicletes - Letras em Comum
 
 ![_](cover.jpg)
 
@@ -57,5 +57,3 @@ aaabbcc bbac bbbaacc ccbddbabda basdbdc
 3
 <<<<<<<<
 ```
-
-#

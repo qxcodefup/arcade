@@ -1,6 +1,5 @@
 # L3 - Francês é @fresco - Juntar palavras
 
-!
 ![_](cover.jpg)
 
 ## Motivação
@@ -52,5 +51,3 @@ o orvalho ouviu uniformemente e eu uivei
 orvalhouviuniformementeuivei
 <<<<<<<<
 ```
-
-#

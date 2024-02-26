@@ -8,7 +8,7 @@ Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/b
 
 Sua vó, que é uma frenquentadora assídua do bingo dos idosos, estava tendo dificuldades para saber quantos números estava acertando por partida.
 
-Sendo um bom netinho que você é, você desisdiu criar um programa que ajudasse sua vovozinha.
+Sendo um bom netinho que você é, você desistiu criar um programa que ajudasse sua vovozinha.
 
 ## Ação
 
@@ -48,4 +48,3 @@ Dado um vetor de tamanho 6 de elementos inteiros, verifique quantos elementos de
 6
 <<<<<<<<
 ```
-

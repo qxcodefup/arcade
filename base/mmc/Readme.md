@@ -35,5 +35,3 @@ Faça uma função que calcule e retorne o mmc de dois números.
 6
 <<<<<<<<
 ```
-
-#

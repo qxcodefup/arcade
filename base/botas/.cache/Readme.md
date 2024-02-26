@@ -20,10 +20,10 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 
 ## Restrições
 
-* 2 ≤ N ≤ 104
-* N é par
-* 30 ≤ M ≤ 60
-* L é o caractere 'D' ou o caractere 'E'
+- 2 ≤ N ≤ 104
+- N é par
+- 30 ≤ M ≤ 60
+- L é o caractere 'D' ou o caractere 'E'
 
 ## Exemplos
 
@@ -50,4 +50,3 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 1
 <<<<<<<<
 ```
-

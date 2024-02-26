@@ -1,8 +1,8 @@
 # L2 - @omeletao
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/omeletão/Readme.md)
+Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/omeletao/Readme.md)
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/omeletão/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/omeletao/cover.jpg)
 
 ## Motivação
 

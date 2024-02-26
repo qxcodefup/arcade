@@ -14,13 +14,12 @@ O filho tirou 5 notas durante o semestre: 6, 6, 7, 7.1, 7.2
 
 \[DS\]
 
-#### Obs: NÃO use o método pronto de ordenar do PYTHON.
+Obs: NÃO use o método pronto de ordenar do PYTHON.
 
 ## Ação
 
 O cálculo da mediana consiste em descobrir qual o valor intermediário
-do vetor ORDENADO. No vetor v = {1, 2, 3}, por exemplo, a mediana é 2, pois este
-é o elemento de valor intermediário. Se a quantidade de elementos for par então a médiana é a media entre os dois elementos centrais.
+do vetor ORDENADO. No vetor v = {1, 2, 3}, por exemplo, a mediana é 2, pois este é o elemento de valor intermediário. Se a quantidade de elementos for par, então a mediana é a media entre os dois elementos centrais.
 
 Assim, você deve ordenar o vetor antes de calcular a mediana.
 

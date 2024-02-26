@@ -2,7 +2,7 @@
 
 Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/morangos/Readme.md)
 
-### OBI 2016 - Fase1 - Nível 1
+## OBI 2016 - Fase1 - Nível 1
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/morangos/cover.jpg)
 
@@ -20,8 +20,8 @@ Os administradores da Fazenda Fartura planejam criar uma nova plantação de mor
 
 ## Restrições
 
-* 1 ≤ comprimento ≤ 100
-* 1 ≤ largura ≤ 100
+- 1 ≤ comprimento ≤ 100
+- 1 ≤ largura ≤ 100
 
 ## Exemplos
 

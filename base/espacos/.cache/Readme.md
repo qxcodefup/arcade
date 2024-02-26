@@ -7,15 +7,17 @@ Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/b
 ## Motivação
 
 Joãozinho chega na escola com o trabalho digitado e a professora  
-pergunta:  
+pergunta:
+
 \- Porque esse trabalho com esses espaços desse jeito?  
 "briofitas sao plantas e pteridofilas  sao dinossauros que voam"
 
 \- É que meu poodle bateu no espaço do meu notebook e agora ele tá  
 doido fessora.  
+
 \- Mas, número 1, pteridófilas são plantas, pterodáctilos que são  
 dinossauros. E número 2, eu não aceito mais desculpas de cachorros  
-pra não entregar a lição de casa. A moda agora é cloud computing.
+pra não entregar a lição de casa.
 
 ## Ação
 
@@ -56,5 +58,3 @@ a  bola  ta furada
 a bola ta furada
 <<<<<<<<
 ```
-
-#

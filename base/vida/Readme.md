@@ -18,12 +18,12 @@ Mais informações: Procure sobre Jogo da vida na Wikipedia
 
 ## Entrada
 
-    - NL, NC, seguida da matriz de char
-    - Na matriz, uma célula morta é representada com o char `.` e uma célula viva por `#`.
+- NL, NC, seguida da matriz de char
+- Na matriz, uma célula morta é representada com o char `.` e uma célula viva por `#`.
 
 ## Saída
 
-    - Próxima geração do jogo.
+- Próxima geração do jogo.
 
 ## Exemplos
 
@@ -73,4 +73,3 @@ Mais informações: Procure sobre Jogo da vida na Wikipedia
 .....##...........
 <<<<<<<<
 ```
-

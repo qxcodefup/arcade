@@ -1,4 +1,4 @@
-# L3 - @sorvete suor casaca chicletes - Letras em Comum!
+# L3 - @sorvete suor casaca chicletes - Letras em Comum
 
 Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/sorvete/Readme.md)
 
@@ -59,5 +59,3 @@ aaabbcc bbac bbbaacc ccbddbabda basdbdc
 3
 <<<<<<<<
 ```
-
-#

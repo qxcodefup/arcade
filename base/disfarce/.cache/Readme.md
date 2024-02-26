@@ -12,10 +12,12 @@ Como o homem de ferro está muito ocupado lutando, o computador dele vai enviar 
 
 ## Ação
 
-Você receberá letras que correspondem ao rastro genético magnético do ultron e o código da pessoa analisada. Se o código da pessoas tiver MAIS de 50% das letras iguais ao código do ultron, ela é ultron.  
+Você receberá letras que correspondem ao rastro genético magnético do ultron e o código da pessoa analisada. Se o código da pessoas tiver MAIS de 50% das letras iguais ao código do ultron, ela é ultron.
+
 Se a correspondência for 100% ela é chefe.
 
-Suponha que o código do Ultron é "abcd".  
+Suponha que o código do Ultron é "abcd".
+
 Significa que sempre que a pessoa tiver um desses caracteres, maiúsculo ou minúsculo, conte uma ocorrência.
 
 A pessoa de código "David", tem 3 letras repetidas: 'D', 'a', e 'd'.
@@ -31,8 +33,8 @@ Como são 3 ocorrências em 5 letras, isso dá mais de 50%, o que garante que o 
 ## Saída
 
 * "pessoa" se a correspondência for menor ou igual a 50%.  
-    "ultron" se a correspondência for maior do que 50%.  
-    "chefe" se a correspondência for 100%.
+* "ultron" se a correspondência for maior do que 50%.  
+* "chefe" se a correspondência for 100%.
 
 ## Exemplos
 
@@ -65,5 +67,3 @@ ultron
 pessoa
 <<<<<<<<
 ```
-
-#

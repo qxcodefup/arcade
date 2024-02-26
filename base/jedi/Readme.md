@@ -2,7 +2,6 @@
 
 ![_](cover.jpg)
 
-[](t.tio)
 ## Motivação
 
 * Hoje é Dia de gincana galeraaaaaaa!
@@ -88,4 +87,3 @@ Empate
 Jedi
 <<<<<<<<
 ```
-

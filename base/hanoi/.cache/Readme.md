@@ -10,20 +10,21 @@ O objetivo do jogo das torres de hanoi é mover todos os discos da torre inicial
 
 ## Exemplo
 
-                ++                  ++                 ++
-                ||                  ||                 ||
-                ||                  ||                 ||
-                ||                  ||                 ||
-                ||                  ||                 ||
-              +-++-+                ||                 ||
-              |    |                ||                 ||
-            +-+----+-+              ||                 ||
-            |        |              ||                 ||
-          +-+--------+-+            ||                 ||
-          |            |            ||                 ||
-          +------------+            ++                 ++
-          Torre inicial        Torre auxiliar      Torre final
-                A                   B                  C
+```txt
+      ++                  ++                 ++
+      ||                  ||                 ||
+      ||                  ||                 ||
+      ||                  ||                 ||
+      ||                  ||                 ||
+    +-++-+                ||                 ||
+    |    |                ||                 ||
+  +-+----+-+              ||                 ||
+  |        |              ||                 ||
++-+--------+-+            ||                 ||
+|            |            ||                 ||
++------------+            ++                 ++
+Torre inicial        Torre auxiliar      Torre final
+      A                   B                  C
 
 Solução:
 A -> C
@@ -34,8 +35,9 @@ B -> A
 B -> C
 A -> C
 
-Simule as jogadas em
-http://www.dynamicdrive.com/dynamicindex12/towerhanoi.htm
+```
+
+Simule as jogadas em [JOGO](http://www.dynamicdrive.com/dynamicindex12/towerhanoi.htm)
 
 Este problema parece difícil de resolver para o caso geral com _n_ discos. Porém, como acontece em vários problemas, utilizando recursão chegamos em um algoritmo simples e elegante. Mova recursivamente os \\(n-1\\) primeiros discos para a torre auxiliar, depois mova o último disco da torre inicial para a torre final, e então mova recursivamente os \\(n-1\\) discos da torre auxiliar para a torre final.
 
@@ -45,9 +47,9 @@ Este problema parece difícil de resolver para o caso geral com _n_ discos. Por�
 
 ## Saída
 
-- Sequência de movimentos para mover todos os discos (um movimento por linha). 
-- Notação do movimento do disco no topo da torre: 
-    * torre de origem -> torre de destino.
+- Sequência de movimentos para mover todos os discos (um movimento por linha).
+- Notação do movimento do disco no topo da torre
+  - torre de origem -> torre de destino.
 
 ## Exemplos
 
@@ -64,4 +66,3 @@ B -> C
 A -> C
 <<<<<<<<
 ```
-

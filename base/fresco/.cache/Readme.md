@@ -2,7 +2,6 @@
 
 Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fresco/Readme.md)
 
-!
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fresco/cover.jpg)
 
 ## Motivação
@@ -54,5 +53,3 @@ o orvalho ouviu uniformemente e eu uivei
 orvalhouviuniformementeuivei
 <<<<<<<<
 ```
-
-#

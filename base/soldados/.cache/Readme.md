@@ -19,8 +19,8 @@ Faça um programa que conte quantos soldados com numeração de fardamento menor
 ## Entrada
 
 * Uma matriz de tamanho qualquer contendo os valores que representam os soldados.
-    * linha 1: nl e nc
-    * linhas seguintes a matriz
+  * linha 1: nl e nc
+  * linhas seguintes a matriz
 
 Saída
 

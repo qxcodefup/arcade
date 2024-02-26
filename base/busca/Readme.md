@@ -2,8 +2,6 @@
 
 ![_](cover.jpg)
 
-[](t.tio)
-
 ## Motivação
 
 No jogo de amarelinha é necessário jogar a pedrinha no número certo. Não vale jogar no número maior nem no número menor. Pra ficar mais divertido, dois amigos decidiram reformular as regras do jogo permitindo jogar a pedrinha dentro do intervalo estabelecido. Funcionava, assim:  
@@ -59,4 +57,3 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 0
 <<<<<<<<
 ```
-

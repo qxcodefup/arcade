@@ -22,6 +22,7 @@ Construa uma função com o seguinte protótipo:
 ```C
 int dentro(Retangulo ret, Ponto p);
 ```
+
 A função dentro devolve 1 se o ponto p está dentro do retângulo rete 0, caso contrário.
 
 A função principal do seu programa é a seguinte:
@@ -35,7 +36,7 @@ typedef struct  {
 
 typedef struct {
   Ponto supEsq;
-  Ponto infDir; 	
+  Ponto infDir;
 } Retangulo;
 
 Ponto createPonto(int x1, int y1){
@@ -44,7 +45,7 @@ Ponto createPonto(int x1, int y1){
 }
 
 Retangulo createRetangulo(int x1, int y1, int x2, int y2) {
-    Retangulo r = {x1,y1,x2,y2};	
+    Retangulo r = {x1,y1,x2,y2};
     return r;
 };
 
@@ -56,10 +57,7 @@ int main(){
     Retangulo r = createRetangulo(x1, y1, x2, y2);
     int x, y;
     scanf("%d %d", &x, &y);
-    Ponto p = createPonto(x,y);	
+    Ponto p = createPonto(x,y);
     printf("%d\n", dentro(r,p) ); //1
 }
 ```
-
-
-

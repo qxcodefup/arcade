@@ -1,6 +1,6 @@
 # L2 - Mostrar @cartas
 
-### Imprimir vetor formatado
+## Imprimir vetor formatado
 
 ![_](cover.jpg)
 
@@ -14,6 +14,7 @@ As cartas estão codificadas da seguinte forma. O 1 vale A, os valores 11, 12 e 
 
 - 1ª linha: 'N' quantidade de cartas na mão
 - 2ª linha: 'N' valores representando as cartas do usuário.
+
 ## Saída
 
 - Vetor formatado entre [ ], separados por ' , '.

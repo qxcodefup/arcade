@@ -2,7 +2,7 @@
 
 Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/cartas/Readme.md)
 
-### Imprimir vetor formatado
+## Imprimir vetor formatado
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cartas/cover.jpg)
 
@@ -16,6 +16,7 @@ As cartas estão codificadas da seguinte forma. O 1 vale A, os valores 11, 12 e 
 
 - 1ª linha: 'N' quantidade de cartas na mão
 - 2ª linha: 'N' valores representando as cartas do usuário.
+
 ## Saída
 
 - Vetor formatado entre [ ], separados por ' , '.

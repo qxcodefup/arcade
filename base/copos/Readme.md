@@ -45,4 +45,3 @@ Faça um programa que dado um numero N inteiro (0<N<50) mostre na tela um triang
 4.4.4.4
 <<<<<<<<
 ```
-

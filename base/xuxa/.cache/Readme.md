@@ -1,4 +1,4 @@
-# L1 - LP da @xuxa - Inverter String!
+# L1 - LP da @xuxa - Inverter String
 
 Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/xuxa/Readme.md)
 
@@ -14,7 +14,8 @@ Mamãe, é que eu ví na internet que se tocarmos as músicas da Xuxa ao contrá
 
 ## Ação
 
-Ajude Carlinhos a testar essa teoria.  
+Ajude Carlinhos a testar essa teoria.
+
 Dado uma string, imprima a mesma string ao contrário.
 
 ## Entrada

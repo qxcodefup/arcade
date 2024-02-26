@@ -56,5 +56,3 @@ i
 o pATO E O FRANGO JA TAO COZIDOS, COMAM!
 <<<<<<<<
 ```
-
-#

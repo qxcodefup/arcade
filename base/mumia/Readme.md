@@ -10,9 +10,9 @@ Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escrev
 * idoso se menor que 1000,
 * mumia caso contrario (não ponha o acento).
 
-OBS: por simplificações, não faça flexão de gênero (idoso, idosa, adulto, adulta), não use acento, nem ç, nem maiúscula. 
+OBS: por simplificações, não faça flexão de gênero (idoso, idosa, adulto, adulta), não use acento, nem ç, nem maiúscula.
 
-### Exemplos
+## Exemplos
 
 ``` txt
 >>>>>>>>
@@ -30,7 +30,8 @@ jose eh idoso
 <<<<<<<<
 ```
 
-### Dica
+## Dica
+
 Utilize a técnica do seleção intervalada e termine com um else sem condição.
 
 ```c
@@ -43,4 +44,3 @@ else if(x < 65)
 else
     ...
 ```
-

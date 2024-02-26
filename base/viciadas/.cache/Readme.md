@@ -8,7 +8,8 @@ Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/b
 
 Você, enquanto passeava pelos corredores esquecidos de sua Universidade descobriu um jogo de apostas clandestino.
 
-Nele, existe um GRANDE cilindro como de bingo cheio de bolinhas de gude numeradas. 
+Nele, existe um GRANDE cilindro como de bingo cheio de bolinhas de gude numeradas.
+
 Todo dia uma bolinha é sorteada, o número é anotado e depois ela é colocada de volta.
 
 Os participantes do jogo não sabem quantas bolinhas existem, nem quais números estão escritos nas bolinhas, podendo inclusive ter números repetidos.
@@ -59,4 +60,3 @@ crescente.
 1 3
 <<<<<<<<
 ```
-

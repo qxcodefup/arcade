@@ -23,11 +23,10 @@ int main(){
 
 Agora tente adaptar esse código para carregar vários inteiros em um vetor e depois imprimir o vetor ao contrário.
 
-___
 - Entrada:
-    - N inteiros numa mesma linha, (1< N < 30).
+  - N inteiros numa mesma linha, (1< N < 30).
 - Saída:
-    - O vetor impresso ao contrário.
+  - O vetor impresso ao contrário.
 
 ``` txt
 >>>>>>>>

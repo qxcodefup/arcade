@@ -35,7 +35,7 @@ Ex: "**Seu Pilantra!**" , "**yzxa**" , '**\***' -> "**\*\*\* \*\*\*a\*\*\*a!**"
 ## Entrada
 
 * Frase(max 100 char),
-* Chutes (max 26 char) 
+* Chutes (max 26 char)
 * Caractere de marcação (1 char).
 
 ## Saída
@@ -69,5 +69,3 @@ yzxa
 *** ***a***a!
 <<<<<<<<
 ```
-
-#

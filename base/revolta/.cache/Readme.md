@@ -3,7 +3,7 @@
 Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/revolta/Readme.md)
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/revolta/cover.jpg)
-[](t.tio)
+
 ## Motivação
 
 Um grupo de portugueses planejava fazer uma revolução armada.

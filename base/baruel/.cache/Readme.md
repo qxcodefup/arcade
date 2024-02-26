@@ -13,10 +13,12 @@ Baruel Ruel tem muitas figurinhas do álbum de futebol. Ele estava indo para uma
 ## Entrada
 
 - É composta da quantidade de figurinhas no álbum e da lista de figurinhas de Baruel de forma ORDENADA. A saída deve ser uma linha contendo as figurinhas repetidas e os números da figurinhas que faltam. Se não houver figurinhas repetidas ou não faltar nenhuma escreva 'N'.  
+
 **Ex:**  
-linha 1: quantidade de figurinha total do album(1 a 50)  
-linha 2: quantidade de figurinhas que Baruel possui (1 a 100)  
-linha 3: números das figurinhas de forma ORDENADA.
+
+- linha 1: quantidade de figurinha total do album(1 a 50)  
+- linha 2: quantidade de figurinhas que Baruel possui (1 a 100)  
+- linha 3: números das figurinhas de forma ORDENADA.
 
 ## Saída
 
@@ -62,4 +64,3 @@ N
 4 5
 <<<<<<<<
 ```
-

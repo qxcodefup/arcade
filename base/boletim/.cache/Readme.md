@@ -17,11 +17,11 @@ Receba uma matriz 2x3 de notas inteiras e retorne a soma de todas as notas.
 
 ## Entrada
 
-* Os valores da matriz
+- Os valores da matriz
 
 ## Saída
 
-* A soma dos valores da matriz
+- A soma dos valores da matriz
 
 ## Exemplos
 
@@ -47,5 +47,3 @@ Receba uma matriz 2x3 de notas inteiras e retorne a soma de todas as notas.
 14
 <<<<<<<<
 ```
-
-#

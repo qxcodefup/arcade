@@ -26,12 +26,12 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o peso 
 
 ## Restrições
 
-* 3 ≤ N ≤ 1000
-* 0 < X\_i ≤ 100
+- 3 ≤ N ≤ 1000
+- 0 < X\_i ≤ 100
 
 ## Informações sobre a pontuação
 
-* Em um conjunto de casos de teste cuja soma é 60 pontos, N ≤ 300.
+- Em um conjunto de casos de teste cuja soma é 60 pontos, N ≤ 300.
 
 ## Exemplos
 
@@ -57,4 +57,3 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o peso 
 20
 <<<<<<<<
 ```
-

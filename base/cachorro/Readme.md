@@ -7,11 +7,13 @@
 Joãozinho chega na escola com o trabalho digitado e a professora
 
 Pergunta:  
+
 \- Porque esse trabalho com esses espaços desse jeito?  
 "briofitas  sao   plantas e    pteridofitas     sao dinossauros que     voam"
 
-\- É que meu poodle bateu no espaço do meu notebook e agora ele tá doido, fessora.  
-\- Mas, número 1, pteridófitas são plantas, pterodáctilos que são dinossauros. E número 2, eu não aceito mais desculpas de cachorros pra não entregar a lição de casa. A onda agora é cloud computing.
+\- É que meu poodle bateu no espaço do meu notebook e agora ele tá doido, fessora.
+
+\- Mas, número 1, pteridófitas são plantas, pterodáctilos que são dinossauros. E número 2, eu não aceito mais desculpas de cachorros pra não entregar a lição de casa.
 
 ## Ação
 
@@ -52,4 +54,3 @@ meteoro        pegasus
 meteoro pegasus
 <<<<<<<<
 ```
-

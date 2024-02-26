@@ -71,4 +71,3 @@ Seja a variável `valor` um número em inteiro, você pode imprimir essa variáv
 - Python: `print("%02d" % (valor))`
 
 Você pode usar o operador de módulo usando ano % 100 para pegar só os dois últimos dígitos do ano.
-

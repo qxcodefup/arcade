@@ -6,15 +6,17 @@ Essa questão foi extraída do seguinte vídeo. O objetivo é simplificar testes
 
 Para fazer acessar a informação desejada você precisa estar conectado no wifi, fazer login e acessar como admin. Caso qualquer dessas operações não seja verdadeira, você deve emitir uma mensagem de erro exatamente nessa ordem. Caso todas sejam corretas avise que houve sucesso.
 
-Entrada: 
-    - valor bool de wifi, login e admin
-    - saída:
-        - se wifi for false: you must connect to wifi
-        - se login for false: you need to login first
-        - se admin for false: you neet to login as admin
-        - caso todos sejam verdadeiros: done
+## Entrada
 
-Dica: ao invés de múltiplos if elses aninhados, verifique as negações. 
+- valor bool de wifi, login e admin
+- saída:
+  - se wifi for false: you must connect to wifi
+  - se login for false: you need to login first
+  - se admin for false: you neet to login as admin
+  - caso todos sejam verdadeiros: done
+
+Dica: ao invés de múltiplos if elses aninhados, verifique as negações.
+
 ```c
 if (!wifi) {
 
@@ -24,7 +26,8 @@ if (!login) {
 }
 ```
 
-### tests
+## tests
+
 ``` txt
 >>>>>>>>
 0

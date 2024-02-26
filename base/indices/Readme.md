@@ -8,7 +8,7 @@ Exemplo:
 
 A = {4,5,3,7,1}
 
-Após a ordenação, o vetor ordenado será 
+Após a ordenação, o vetor ordenado será
 
 A = {1,3,4,5,7}.
 
@@ -16,7 +16,7 @@ A saída para esse vetor deve ser "4 2 0 1 3"
 
 NOTA: A indexação da vetor começa com 0.
 
-## Entrada 
+## Entrada
 
 A primeira linha de entrada consiste no tamanho da vetor A. A próxima linha consiste no vetor de tamanho n.
 
@@ -25,23 +25,21 @@ A primeira linha de entrada consiste no tamanho da vetor A. A próxima linha con
 A saída consiste em uma única linha de inteiros
 representando os índices originais de cada elemento no vetor ordenado entre [ ]
 
-## Restrições:
+## Restrições
 
-1 <= m <= 10<sup>6<sup>
+1 <= m <= 10^6
 
-0 <= A[i] <= 10<sup>6<sup>
+0 <= A\[i\] <= 10^6
 
 Exemplo de Entrada
-```
+
+```txt
 5
 4 5 3 7 1
 ```
 
 Exemplo de Saída
-```
+
+```txt
 [ 4 2 0 1 3 ]
 ```
-
-
-
-

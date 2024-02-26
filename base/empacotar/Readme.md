@@ -29,5 +29,3 @@ Crie um programa que leia do usuário dois números inteiros e calcule o valor d
 10 0 1.0 25
 <<<<<<<<
 ```
-
-#

@@ -9,6 +9,7 @@ Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/b
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/piao/jogo.png)
 
 No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
+
 - N jogadores se reúnem cada um com seu pião.
 - Um rapaz faz uma 3 linhas na areia. Uma linha alvo(azul) e duas linhas limite(verde).
 - Todos os participantes jogam o pião tentando colocar o pião o mais próximo possível da linha azul.
@@ -26,11 +27,11 @@ No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e
 ## Saída
 
 - 1a linha: o número do ganhador (1o jogador tem índice 0).
-    - "nenhum" se nenhum conseguiu acertar dentro dos limite.
-    - se houver empate, o último a jogar será o ganhador.
+  - "nenhum" se nenhum conseguiu acertar dentro dos limite.
+  - se houver empate, o último a jogar será o ganhador.
 - 2a linha: o número do perdedor.
-    - o perdedor será quem jogou mais longe do alvo.
-    - se houver empate, será o último jogador empatado, na ordem das jogadas.
+  - o perdedor será quem jogou mais longe do alvo.
+  - se houver empate, será o último jogador empatado, na ordem das jogadas.
 
 ## Exemplos
 
@@ -68,4 +69,4 @@ nenhum
 <<<<<<<<
 ```
 
-* baitinga: modo carinhoso que um cearense chama o outro quando está invocado!
+- baitinga: modo carinhoso que um cearense chama o outro quando está invocado!

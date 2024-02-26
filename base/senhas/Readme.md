@@ -8,7 +8,7 @@ Todo algoritmo de força bruta exige a geração de todas as combinações poss�
 
 Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem aparecer nela são "0,1,3". Calculando todas as permutações com repetição geraria as seguintes possibilidades:
 
-```
+```txt
 00, 01, 03, 10, 11, 13, 30, 31, 33 
 ```
 

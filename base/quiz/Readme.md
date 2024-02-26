@@ -12,31 +12,31 @@ A seguir as perguntas e a respostas:
 
 1 - A que casa pertencia Harry Potter e seus amigos ?
 
-  a) Hufflepuff  
-  b) Ravenclaw  
-  c) Slytherin  
-  d) Gryffindor \[RESPOSTA CORRETA\]  
+- a) Hufflepuff  
+- b) Ravenclaw  
+- c) Slytherin  
+- d) Gryffindor \[RESPOSTA CORRETA\]  
 
 2 - Qual o nome verdadeiro do personagem o qual é conhecido por aquele que não deve ser nomeado ?
 
-  a) Tom Riddle \[RESPOSTA CORRETA\]  
-  b) Draco Malfoy  
-  c) Bellatrix Lestrange  
-  d) Pedro Pettigrew  
+- a) Tom Riddle \[RESPOSTA CORRETA\]  
+- b) Draco Malfoy  
+- c) Bellatrix Lestrange  
+- d) Pedro Pettigrew  
 
 3 - Quais dessa opções não é uma Relíquia da Morte ?
 
-  a) A varinha de sabugueiro  
-  b) A pedra da ressurreição  
-  c) A pedra filosofal \[RESPOSTA CORRETA\]  
-  d) A capa de invisibilidade  
+- a) A varinha de sabugueiro  
+- b) A pedra da ressurreição  
+- c) A pedra filosofal \[RESPOSTA CORRETA\]  
+- d) A capa de invisibilidade  
 
 4 - O ministério da magia  proibiu o uso de três feitiços, conhecidos como as maldições imperdoáveis, por ela possuírem caráter maligno e o objetivo cruel. Marque opção abaixo que não corresponde a umas das maldições imperdoáveis:
 
-  a) Crucio  
-  b) Imperio  
-  c) Avada Kedavra  
-  d) Expecto Patronum \[REPOSTA CORRETA\]  
+- a) Crucio  
+- b) Imperio  
+- c) Avada Kedavra  
+- d) Expecto Patronum \[REPOSTA CORRETA\]  
 
 A saída do programa vai variar com o número de acerto, da seguinte maneira:
 

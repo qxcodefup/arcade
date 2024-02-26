@@ -38,6 +38,7 @@ int main(){
 ## Ação
 
 Você deverá:
+
 - Implementar a função 'converte_tempo'.
 - Chamar a função 'converte_tempo' dentro da função 'main'.
 
@@ -62,5 +63,3 @@ Você deverá:
 0:1:0
 <<<<<<<<
 ```
-
-#

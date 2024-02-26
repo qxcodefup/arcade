@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-[🎥 Explicação](https://youtu.be/1zT-Y0Zb1K0)
+[Explicação](https://youtu.be/1zT-Y0Zb1K0)
 
 ## Motivação
 
@@ -25,7 +25,7 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 
 ## Exemplos
 
-```
+```txt
 
 >>>>>>>>
 0
@@ -71,4 +71,4 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 <<<<<<<<
 ```
 
-[💎 Resolução](https://youtu.be/utRdA8SwBzA)
+[Resolução](https://youtu.be/utRdA8SwBzA)

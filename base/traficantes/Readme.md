@@ -6,10 +6,11 @@
 
 O traficante Aldemir liga para seu comparsa Valdemiro por um telefone que estava grampeado. Aldemir fala:
 
-  -preciso de tutu pra comprar uma tutuda porque o Carlos nao me entutu mais.  
+\- preciso de tutu pra comprar uma tutuda porque o Carlos nao me entutu mais.  
+
 Valdemiro retruca:  
-  -nao me axreca aqui, a xrada que voce me xssou  
-   xrece que foi xssada na \*\*\*\*\*.
+
+\- nao me axreca aqui, a xrada que voce me xssou  xrece que foi xssada na \*\*\*\*\*.
 
 O que os guardas não sabiam era que "tutu" significava grana e  todos os "x" eram um "pa". E que na verdade eles comerciavam contas duplicadas do Tíbia.
 

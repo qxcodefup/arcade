@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-## Motivação:
+## Motivação
 
 Só quem depende do transporte público sabe o quanto um ônibus consegue desafiar a leis da física.
 A quantidade de gente é tão grande que o motorista não consegue nem enxergar quantos entram ou quantos saem no busão.
@@ -15,7 +15,6 @@ leia a **M** (quantidade de pessoas que entram ou saem)  e mostre o estado do b
 Imprima (sem aspas) :
 
 * "vazio"                     -se não houver passageiros.
-
 * "ainda cabe"           -se houver passageiros, mas não está lotado ainda.
 * "lotado"                   -se a quantidade de passageiros alcançar a capacidade.
 * "hora de partir"     -se a quantidade de passageiros alcançar duas vezes a capacidade.

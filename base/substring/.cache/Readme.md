@@ -20,7 +20,7 @@ Faça uma função que retorna uma substring dada a String passada, o ÍNDICE da
 
 ## Exemplos
 
-```
+```txt
 
 >>>>>>>> 01
 Coralina
@@ -55,4 +55,3 @@ r Ranger
 * Crie uma variável resposta como String vazia.
 
 * Faca um laço que percorra os caracteres que você precisa da palavra e adicione na String resposta.
-

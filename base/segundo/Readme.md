@@ -61,7 +61,7 @@ Para ler as variáveis em python e javascript você pode fazer assim:
 
 Para imprimir um número inteiro colocando zeros a esquerda utilize o seguinte comando. Se o printf contiver %0xd, o número vai ser impresso completando com zeros a esquerda se o número tiver menos que x caracteres. Para imprimir com dois dígitos a variável **valor** use.
 
-```
+```c
 c
 printf("%02d", valor);
 

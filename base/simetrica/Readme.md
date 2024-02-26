@@ -4,11 +4,11 @@
 
 ## Motivação
 
-Joãozinho aprendeu na aula de matemática que uma matriz diz-se simétrica se coincidir com a sua transposta, ou seja, se A = AT. O professor de Joãozinho passou uma atividade sobre o conteúdo para que a turma resolve-se. Ajude Joãozinho a resolver a ativade.
+Joãozinho aprendeu na aula de matemática que uma matriz diz-se simétrica se coincidir com a sua transposta, ou seja, se A = AT. O professor de Joãozinho passou uma atividade sobre o conteúdo para que a turma resolve-se. Ajude Joãozinho a resolver a atividade.
 
 ## Ação
 
-Faça uma função onde verifique se uma matriz 3x3 é simetrica ou não. Tenha como saida a informação "nao" se não for simétrica e "sim caso contrário.
+Faça uma função onde verifique se uma matriz 3x3 é simétrica ou não. Tenha como saida a informação "nao" se não for simétrica e "sim caso contrário.
 
 ## Entrada
 
@@ -45,4 +45,3 @@ sim
 nao
 <<<<<<<<
 ```
-

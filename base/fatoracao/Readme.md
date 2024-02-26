@@ -1,32 +1,30 @@
 # L2 - Fatoração
 
-### Fatore um numero
+## Fatore um numero
 
 ![_](cover.jpg)
 
-Motivação
----------
+## Motivação
 
 Fatoração é um processo utilizado na matemática que consiste em representar um número ou uma expressão como produto de fatores.
 
 Saiba mais em: [Processos de Fatoração](https://www.todamateria.com.br/fatoracao)
 
-Ação
-----
+## Ação
 
 Leia um Inteiro e represente-o com sua forma fatorada.
 
 ## Entrada
 
--   1 Inteiro N.
+- 1 Inteiro N.
 
 ## Saída
 
-Sua forma fatorada, representado pela bases seguido de seus expoentes separado por um espaço.
+- Sua forma fatorada, representado pela bases seguido de seus expoentes separado por um espaço.
 
-Exemplos
---------
+## Exemplos
 
+```txt
 >>>>>>>>
 8
 ========
@@ -46,4 +44,4 @@ Exemplos
 5 1
 <<<<<<<<
 
-by @spinora
+```

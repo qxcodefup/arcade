@@ -33,4 +33,3 @@ Crie um programa que leia do usuário dois números inteiros e um operador do ti
 0
 <<<<<<<<
 ```
-

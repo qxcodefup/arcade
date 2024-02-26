@@ -14,7 +14,7 @@ Some todos os números inteiros pares que estão entre A e B, inclusive A e B.
 
 ## Zero é par?
 
-Descubra em http://www.profcardy.com/cardicas/tirateima.php?id=1
+Descubra em [LINK](http://www.profcardy.com/cardicas/tirateima.php?id=1).
 
 ## Entrada
 
@@ -25,6 +25,7 @@ Descubra em http://www.profcardy.com/cardicas/tirateima.php?id=1
 * A soma de todos os números pares ou invalido caso A seja maior que B.
 
 ## Exemplos
+
 ``` txt
 >>>>>>>>
 1

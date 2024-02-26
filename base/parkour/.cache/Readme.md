@@ -25,7 +25,7 @@ Um cenário é um vetor de números positivos onde o vetor representa a altura d
 
 O vetor 1, 1, 3, 3, 4, 6, 4, 2, 2, 1 seria como o seguinte cenário:
 
-```
+``` txt
 _____#____
 _____#____
 ____###___
@@ -81,4 +81,3 @@ Receba um vetor de inteiros e conte quantas vezes dois números consecutivos pos
 6
 <<<<<<<<
 ```
-

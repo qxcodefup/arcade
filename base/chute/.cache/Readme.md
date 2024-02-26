@@ -6,7 +6,7 @@ Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/b
 
 ## Descrição
 
-Pedro e João foram no Silvio Santos. O programa era aquele que o Silvio mostrava um produto do mercantil, ambos os participantes chutavam o preço e a pessoa que chegasse mais próximo do preço real ganhava.
+Pedro e João foram no Sílvio Santos. O programa era aquele que o Sílvio mostrava um produto do mercantil, ambos os participantes chutavam o preço e a pessoa que chegasse mais próximo do preço real ganhava.
 
 O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o valor do produto e o valor do chute de cada jogador. O jogador que chegar mais perto ganha.
 
@@ -82,15 +82,18 @@ Observação
 
 abs(-3) //retorna 3
 ```
+
 ```c++
 #include <cmath> //c++
 
 abs(-3) //retorna 3
 ```
+
 ```python
 #python
 abs(-3) #retorna 3
 ```
+
 ```javascript
 //javascript 
 Math.abs(-3) //retorna 3

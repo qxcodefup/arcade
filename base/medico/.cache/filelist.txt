@@ -1,5 +1,4 @@
 Readme.md
 cover.jpg
-package.json
 q.tio
 

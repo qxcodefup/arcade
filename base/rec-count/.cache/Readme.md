@@ -15,7 +15,7 @@ Forneça um algoritmo recursivo para contar quantas vezes um determinado caracte
 
 ## Saída
 
-    - Número de ocorrências do caractere na string.
+- Número de ocorrências do caractere na string.
 
 ## Exemplos
 
@@ -27,5 +27,3 @@ a
 4
 <<<<<<<<
 ```
-
-#

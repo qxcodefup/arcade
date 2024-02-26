@@ -58,4 +58,3 @@ Imprima todas as posições de aterrissagem dos saltos do sapinho.
 500 saiu
 <<<<<<<<
 ```
-

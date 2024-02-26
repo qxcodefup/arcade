@@ -14,10 +14,10 @@ A função duelo recebe como entrada dois dicionários, onde cada um deles repre
   
 ## Entrada
 
-    1a linha - vida do 1o personagem  
-    2a linha - ataque do 1o personagem  
-    3a linha - vida do 2o personagem  
-    4a linha - ataque do 2o personagem  
+- 1a linha - vida do 1o personagem  
+- 2a linha - ataque do 1o personagem
+- 3a linha - vida do 2o personagem  
+- 4a linha - ataque do 2o personagem  
 
 ## Exemplos
 
@@ -58,5 +58,3 @@ Personagem 2
 Empate
 <<<<<<<<
 ```
-
-#

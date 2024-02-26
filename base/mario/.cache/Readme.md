@@ -2,34 +2,40 @@
 
 Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/mario/Readme.md)
 
-### Lendo cenário
+## Lendo cenário
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/mario/cover.jpg)
 
 ## Motivação
 
-Thaiquovisqui da Silva está fazendo um joguinho com uma mistura de Super Mário e Assassins Creed.  
+Thaiquovisqui da Silva está fazendo um joguinho com uma mistura de Super Mário e Assassins Creed.
+
 Nele, o Mário anda em um cenário 2D, mas ao invés de pular na cabeça dos inimigos ele mata com uma chave de fenda.  
+
 Lembre-se que o Mário é encanador! Então isso faz todo sentido jogabilístico.
 
 ## Ação  
 
 Faça um programa que dado um vetor de números inteiros positivos mostre o cenário que esse vetor representa.  
 Um cenário é um vetor de números positivos onde o vetor representa a altura dos blocos.  
-O vetor 1312 seria o seguinte cenário. (Onde não houver nada coloque  **\_ **)
+O vetor 1312 seria o seguinte cenário. (Onde não houver nada coloque  **\_**)
 
-    _#__
-    _#_#
-    ####
+```txt
+_#__
+_#_#
+####
+```
 
 E o vetor 1133464221 seria como o seguinte cenário:
 
-    _____#____
-    _____#____
-    ____###___
-    __#####___
-    __#######_
-    ##########
+```txt
+_____#____
+_____#____
+____###___
+__#####___
+__#######_
+##########
+```
 
 ## Entrada
 

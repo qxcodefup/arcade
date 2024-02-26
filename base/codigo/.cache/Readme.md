@@ -18,7 +18,7 @@ Gabriel inventou um código para representar números naturais, usando uma sequ�
 
 ## Restrições
 
-* 3 ≤ N ≤ 104
+- 3 ≤ N ≤ 104
 
 ## Exemplos
 
@@ -51,4 +51,3 @@ Gabriel inventou um código para representar números naturais, usando uma sequ�
 0
 <<<<<<<<
 ```
-

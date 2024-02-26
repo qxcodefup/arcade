@@ -6,7 +6,7 @@
 
 Use o pseudocódigo a seguir para implementar o algoritmo de calcular nota e decidir se você ficou aprovado, reprovado, aprovado na final ou reprovado na final.
 
-```
+```txt
 leia a primeira nota
 leia a segunda nota
 media = some as notas e divida por 2

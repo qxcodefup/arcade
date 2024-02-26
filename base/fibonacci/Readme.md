@@ -8,7 +8,7 @@ Pedrinho está no mundo da matemática e agora ele é o cara, mas precisa da sua
 
 Ele está estudando sobre a série de Fibonacci, para quem não sabe ou quem quer saber, um novo termo na sequência de Fibonacci é gerado pela soma dos dois anteriores, começando em 1 e 2, os dez primeiros termos da serie de Fibonacci são:
 
-```
+```txt
 1, 2, 3, 5, 8, 13, 21, 34,55, 89, ...
 ```
 
@@ -22,11 +22,11 @@ Pedrinho quer dado um limite predefinido, calcular a soma de todos os termos da 
 
 - 1 Inteiro N, 1 \< N \< 4000000.
 
-### Saida:
+## Saida
 
 - A soma dos termos de valor par
 
-### Exemplos:
+## Exemplos
 
 ``` txt
 >>>>>>>> Teste 0
@@ -47,5 +47,3 @@ Pedrinho quer dado um limite predefinido, calcular a soma de todos os termos da 
 1089154
 <<<<<<<<
 ```
-
-@spinosa

@@ -20,7 +20,7 @@ Sugestão: Faça um função que calcula a média:
 
 ```c
 double media(int vet[], int qtd){  
-	//seu código aqui
+    //seu código aqui
 }  
 ```
 
@@ -74,6 +74,3 @@ P G G G
 
 Você pode começar criando um vetor de tamanho N e atribuindo a ele todos os valores.
 Depois você pode percorrer e somar todos os elementos para descobrir o valor total, dividindo por N terá a média. Logo depois é só percorrer o vetor verificando se cada elemento é menor igual ou maior que a média.
-
-
-

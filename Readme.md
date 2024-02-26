@@ -1,6 +1,6 @@
 # QxcodeFup
 
-Esse repositório foi criado e é mantido por mim, David Sena (sena@ufc.br), professor da UFC de Quixadá.
+Esse repositório foi criado e é mantido por mim, David Sena `sena@ufc.br`, professor da UFC de Quixadá.
 
 Aqui na UFC, nós utilizamos essas atividades no ensino das disciplinas de Fundamentos de Computação.
 
@@ -57,7 +57,7 @@ Conteúdo sugeridos
 ## 01. Operações: Impressão formatada
 
 - [L1 - Divisão Inteira e @quebrada](base/quebrada/Readme.md)
-- [L1 - @operacoes basicas](base/operacoes/Readme.md)
+- [L1 - @operacoes básicas](base/operacoes/Readme.md)
 - [L2 - Formatando @data](base/data/Readme.md)
 
 ## 02. Operações: Biblioteca Math
@@ -247,7 +247,7 @@ Conteúdo sugeridos
 ## 21. Strings I
 
 - [L1 - Eribelton e a @ascologia V1 - Somar Asc](base/ascologia/Readme.md)
-- [L1 - LP da @xuxa - Inverter String!](base/xuxa/Readme.md)
+- [L1 - LP da @xuxa - Inverter String](base/xuxa/Readme.md)
 - [L1 - @inverte case de char](base/inverte/Readme.md)
 - [L1 - Marileuza e as @alcaparras - Contar Ocorrências](base/alcaparras/Readme.md)
 - [L1 - @substring - Obter Substrings](base/substring/Readme.md)
@@ -297,7 +297,7 @@ Conteúdo sugeridos
 - [L3 - Roda Roda @jequiti](base/jequiti/Readme.md)
 - [L3 - Separando a partir de @tokens](base/tokens/Readme.md)
 - [L3 - Separe Pneumatócito - @silabas](base/silabas/Readme.md)
-- [L3 - @sorvete suor casaca chicletes - Letras em Comum!](base/sorvete/Readme.md)
+- [L3 - @sorvete suor casaca chicletes - Letras em Comum](base/sorvete/Readme.md)
 - [L3 - Valdiskley e a @vigenere](base/vigenere/Readme.md)
 - [L3 - Valdiskley e @atbash](base/atbash/Readme.md)
 - [L3 - Mini @poker - OBI2005](base/poker/Readme.md)

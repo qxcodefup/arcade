@@ -12,7 +12,7 @@ Gere a opção com a menor quantidade de ítens possível.
 
 Por exemplo: 453 reais e 83 centavos.
 
-```
+```txt
 4 de 100.00
 1 de 50.00
 1 de 2.00
@@ -26,9 +26,9 @@ Falta 0.03
 Observação: Não use ifs e elses, faça um vetor de opções de troco.
 
 - Entrada
-    - Um número float indicando o valor do troco.
+  - Um número float indicando o valor do troco.
 - Saída
-    - As notas e moedas que devem ser dadas e se houver valor quebrado inferior a 0.05, informe ao final.
+  - As notas e moedas que devem ser dadas e se houver valor quebrado inferior a 0.05, informe ao final.
 
 ``` txt
 >>>>>>>>

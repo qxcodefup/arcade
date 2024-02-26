@@ -13,9 +13,10 @@ dizendo quais são Ultrons e quais são pessoas.
 - Para ser Ultron, mais de 50% das letras precisa coincidir.
 - Para cada pessoa no ambiente escreva "pessoa", "ultron" ou "chefe".
 
-Ex:  
-códido ultron: "ultron"  
-ambiente:"ruame ronuai Lion uuuaaaa ronia kkk luno"
+Ex:
+
+- códido ultron: "ultron"  
+- ambiente:"ruame ronuai Lion uuuaaaa ronia kkk luno"
 
 Saida: "pessoa ultron chefe pessoa ultron pessoa chefe"
 
@@ -45,5 +46,3 @@ arta euio auiaoauio riu pegasus rea
 ultron pessoa pessoa pessoa pessoa chefe
 <<<<<<<<
 ```
-
-#

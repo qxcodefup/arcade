@@ -16,11 +16,11 @@ Receba um nome como entrada e some todos os caracteres. Imprima o resto da soma 
 
 ## Entrada
 
-* Um nome.  
+- Um nome.  
 
 ## Saída
 
-* Resto da divisão da soma dos caracteres por 50.  
+- Resto da divisão da soma dos caracteres por 50.  
 
 ## Exemplos
 

@@ -7,6 +7,7 @@ Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/b
 ## Motivação
 
 Você já jogou zerim ou um? Aposto que sim!
+
 Que tal implementar um código que lê os dedos e informa quem ganhou o jogo?
 
 ## Ação

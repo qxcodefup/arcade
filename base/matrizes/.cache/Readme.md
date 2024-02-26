@@ -46,4 +46,3 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 [ 6 ]
 <<<<<<<<
 ```
-

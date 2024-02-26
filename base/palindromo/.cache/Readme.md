@@ -10,7 +10,7 @@ Números palíndromos são números que tem a mesma leitura nos dois sentidos.
 
 ### Exemplo
 
-```
+```txt
 9,11,121,252,25452,11411.
 ```
 

@@ -12,10 +12,13 @@ Um aluno ficou implorando para o seu professor de FUP arredondar seu 6.999999999
 
 Faça as funções round, ceil e floor. Todas recebem um float e retornam um inteiro. `ceil` sempre arredonda pra cima, `floor` sempre arredonda pra baixo e `round` arredonda pra baixo se a parte fracionada for menor que 0.5 e arredonda para cima se a parte fracionaria for maior ou igual a 0.5.  
 
-Protótipos:  
+Protótipos:
+
+```c
 int round(float num);
 int floor(float num);
 int ceil(float num);
+```
 
 ## Entrada
 

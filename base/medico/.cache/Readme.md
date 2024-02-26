@@ -35,4 +35,3 @@ Os soldados formaram uma fila no quartel. Essa fila está representada por um ve
 1
 <<<<<<<<
 ```
-

@@ -1,9 +1,6 @@
-# L3 - Soma de vários números.
+# L3 - Soma de vários números
 
 Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/somas/Readme.md)
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/somas/cover.jpg)
-[](solver.py)
 
 ## Ação
 

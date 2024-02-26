@@ -4,7 +4,7 @@
 
 ## Motivação
 
-Toda criança certamente já brincou de "vivo ou morto”. A brincadeira é dirigida por um "chefe” (um adulto), que comanda dois ou mais participantes (crianças). A brincadeira é composta de rodadas. 
+Toda criança certamente já brincou de "vivo ou morto”. A brincadeira é dirigida por um "chefe” (um adulto), que comanda dois ou mais participantes (crianças). A brincadeira é composta de rodadas.
 
 No inı́cio, os participantes são organizados pelo chefe em fila única. A cada rodada o chefe grita "vivo” ou "morto” e todos os participantes tentam seguir sua ordem, levantando-se ao ouvir a palavra "vivo” ou abaixando-se ao ouvir a palavra "morto”. Um participante que não segue a ordem do chefe é eliminado, deixando o seu lugar na fila.
 
@@ -18,7 +18,7 @@ Sua tarefa é escrever um programa que determine o vencedor de uma partida de "
   
 ## Entrada
 
-- A entrada é constituı́da de vários casos de teste, cada um representando uma partida. A primeira linha de um caso de teste contém dois números inteiros P e R indicando respectivamente a quantidade inicial de participantes (2 ≤ P ≤ 100) e quantidade de rodadas da partida (1 ≤ R ≤ 100). 
+- A entrada é constituı́da de vários casos de teste, cada um representando uma partida. A primeira linha de um caso de teste contém dois números inteiros P e R indicando respectivamente a quantidade inicial de participantes (2 ≤ P ≤ 100) e quantidade de rodadas da partida (1 ≤ R ≤ 100).
 - Os participantes são identificados por números de 1 a P . A segunda linha de um caso de teste descreve a fila organizada pelo chefe, contendo P números inteiros distintos x1 , x2 , . . . xP , onde x1 representa o identificador do participante no primeiro lugar na fila, x2 representa o identificador do participante no segundo lugar na fila, e assim por diante (1 ≤ xi ≤ P ).
 - Cada uma das R linhas seguintes representa uma rodada, contendo um número inteiro inteiro N indicando o número de participantes da rodada (2 ≤ N ≤ P ), um número inteiro inteiro J representando a ordem dada pelo chefe (0 ≤ J ≤ 1) e N números inteiros Ai representando a ação do participante colocado na i-ésima posição na fila (0 ≤ Ai ≤ 1).
 - Ordens e ações "vivo” são representadas pelo valor 1, ordens e ações "morto” pelo valor zero. Cada partida tem exatamente um vencedor, determinado somente na última rodada fornecida no caso de teste correspondente. O final da entrada é indicado por P = R = 0.
@@ -33,7 +33,7 @@ Sua tarefa é escrever um programa que determine o vencedor de uma partida de "
   
 ## Restrições
 
-```
+```txt
 2 ≤ P ≤ 100 (P = 0 apenas para indicar o fim da entrada)  
 1 ≤ R ≤ 100 (R = 0 apenas para indicar o fim da entrada)  
 1 ≤ xi ≤ P , para 1 ≤ i ≤ P  
@@ -72,4 +72,3 @@ Teste 3
 2
 <<<<<<<<
 ```
-

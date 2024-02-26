@@ -7,12 +7,12 @@ No tabuleiro de xadrez, a casa na linha 1, coluna 1 (canto superior esquerdo) é
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/xadrez/image.png)
 
 - Entrada
-    - A primeira linha da entrada contém um inteiro L indicando o número de linhas do tabuleiro. 
-    - A segunda linha da entrada contém um inteiro C representando o número de colunas.
+  - A primeira linha da entrada contém um inteiro L indicando o número de linhas do tabuleiro.
+  - A segunda linha da entrada contém um inteiro C representando o número de colunas.
 - Saída
-    - Imprima uma linha na saída. A linha deve conter um inteiro, representando a cor da casa no canto inferior direito do tabuleiro:
-        - 1, se for branca; e
-        - 0, se for preta.
+  - Imprima uma linha na saída. A linha deve conter um inteiro, representando a cor da casa no canto inferior direito do tabuleiro:
+    - 1, se for branca; e
+    - 0, se for preta.
 
 ## Testes
 

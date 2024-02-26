@@ -14,10 +14,12 @@ No capítulo 3 da saga de Valdiskey você vai escrever o algoritmo que faz a cri
 
 Primeiro a criptografia:
 
-Dado um texto claro e uma chave você deve:  
-1 - Repetir a chave até que ela tenha o mesmo tamanho do texto claro. No caso abaixo, repetimos a palavra princesa até completar a frase.  
-2 - Você soma os caracteres 2 a 2 como aprendeu a fazer no segundo capítulo da história de Valdiskley. Ignore a pontuação e opere apenas as letras.
+Dado um texto claro e uma chave você deve:
 
+- Repetir a chave até que ela tenha o mesmo tamanho do texto claro. No caso abaixo, repetimos a palavra princesa até completar a frase.  
+- Você soma os caracteres 2 a 2 como aprendeu a fazer no segundo capítulo da história de Valdiskley. Ignore a pontuação e opere apenas as letras.
+
+```txt
 Exemplo 1: chave: "abac"  
 texto: batata? sim! Frita!!  
 senha: abacab aca bacab  
@@ -28,18 +30,19 @@ chave: "princesa"
 texto: "quando vi voce eu buguei"  
 senha: "prince sa prin ce saprin"  
 saida: "fliafs ni kfkr gy tuvlmv"
+```
 
 ## Entrada
 
-* A frase a ser operada, apenas caracteres minúsculos e pontuação.
-* A palavra chave, apenas caracteres minúsculos e sem espaços ou pontuação.
-* A operação de '+' para cifrar ou '-' para descifrar.
+- A frase a ser operada, apenas caracteres minúsculos e pontuação.
+- A palavra chave, apenas caracteres minúsculos e sem espaços ou pontuação.
+- A operação de '+' para cifrar ou '-' para descifrar.
 
 A operação de descifrar é o contrário da cifragem.
 
 ## Saída
 
-* O resultado da operação.
+- O resultado da operação.
 
 ## Exemplos
 
@@ -68,4 +71,3 @@ ab
 a casa ta aberta
 <<<<<<<<
 ```
-

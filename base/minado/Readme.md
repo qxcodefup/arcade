@@ -19,19 +19,23 @@ O jogador deve usar essas informações para deduzir em que quadrados próximos 
 
 Dada uma matriz com a posição de cada mina, seu o programa deve preencher o resto do campo (matriz) com números ou com vazios, por exemplo:
 
-  ![1](q.jpg)
+![1](q.jpg)
 
-    *-*
-    ---
-    ---
+``` txt
+*-*
+---
+---
+```
 
-^ Esse é um campo 3x3 que tem duas minas (simbolizadas por \*). Devemos preencher dessa forma:
+Esse é um campo 3x3 que tem duas minas (simbolizadas por \*). Devemos preencher dessa forma:
 
-  ![todos](q2.jpg)  
+![todos](q2.png)  
 
-    *2*
-    121
-    ---
+``` txt
+*2*
+121
+---
+```
 
 As minas são simbolizadas com asteriscos \* e os campos vazios são simbolizados com sinal de menos -  
 Mais exemplos no final da página.
@@ -39,11 +43,11 @@ Mais exemplos no final da página.
 ## Ação
 
 Leia uma matriz com **n** linhas e **m** colunas com a posição das minas. Preencha o restante da matriz seguindo as regras citadas.  
-Considere ( 1 <=  **n, m **<= 50).
+Considere ( 1 <=  **n, m**<= 50).
 
 ## Entrada
 
-* O número **n **(linhas)e **m**(colunas) .  
+* O número **n**(linhas)e **m**(colunas) .  
 
 * Cada elemento da matriz: \* ou -  
 
@@ -95,10 +99,9 @@ Considere ( 1 <=  **n, m **<= 50).
 <<<<<<<<
 ```
 
-
 ## Mais exemplos
 
-O quadrado amarelo é quem é calculado no momento, e os vermelhos são as minas consideradas no cálculo. 
+O quadrado amarelo é quem é calculado no momento, e os vermelhos são as minas consideradas no cálculo.
 
 ![ex1](q3.png)
 
@@ -106,7 +109,4 @@ O quadrado amarelo é quem é calculado no momento, e os vermelhos são as minas
 
 ![ex3](q5.png)  
 
-Se ainda tiver dúvidas de como funciona, tente jogar um pouco.
-https://minesweeper.online/pt/new-game
-
-#
+Se ainda tiver dúvidas de como funciona, tente jogar um pouco. [JOGO](https://minesweeper.online/pt/new-game)

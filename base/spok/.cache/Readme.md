@@ -16,7 +16,7 @@ Fazer uma função que recebe um inteiro referente ao ID de um planeta e retorne
 
 1ª Obs: Faça essa questão sem usar vetores ou strings.  
 
-2ª Obs: Um número é `palíndromo` quando o seu inverso é igual a ele. 
+2ª Obs: Um número é `palíndromo` quando o seu inverso é igual a ele.
 Por exemplo: 121 é palíndromo pois seu inverso é 121.
 
 ## Entrada
@@ -29,6 +29,7 @@ Por exemplo: 121 é palíndromo pois seu inverso é 121.
 * 0 caso contrário.  
 
 ## Exemplo
+
 ``` txt
 >>>>>>>>
 121
