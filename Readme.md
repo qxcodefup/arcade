@@ -9,7 +9,7 @@ As atividades normalmente são utilizadas dentro do Moodle utilizando o plugin d
 Também pode executá-las diretamente no seu computador ou no replit através do [TKO](https://github.com/senapk/tko).  
 
 <!-- toc -->
-- [01. Operações: Impressão formatada](#01-operações-impressão-formatada)
+- [01. Operações: impressão formatada](#01-operações-impressão-formatada)
 - [02. Operações: Biblioteca Math](#02-operações-biblioteca-math)
 - [03. Seleção: Manipulação](#03-seleção-manipulação)
 - [04. Seleção: Biblioteca Math](#04-seleção-biblioteca-math)
@@ -54,8 +54,14 @@ Conteúdo sugeridos
 - debugando
 ```
 
-## 01. Operações: Impressão formatada
+## 01. Operações: impressão formatada
 
+- [L0 - Soma @tres inteiros](base/tres/Readme.md)
+- [L0 - Dividindo: resultado e @resto](base/resto/Readme.md)
+- [L0 - @media de dois inteiros](base/media/Readme.md)
+- [L0 - Quanto @sobrou](base/sobrou/Readme.md)
+- [L0 - Converte @segundos](base/segundos/Readme.md)
+- [L0 - Conversor de @celsius para Fahrenheit](base/celsius/Readme.md)
 - [L1 - Divisão Inteira e @quebrada](base/quebrada/Readme.md)
 - [L1 - @operacoes básicas](base/operacoes/Readme.md)
 - [L2 - Formatando @data](base/data/Readme.md)
@@ -81,6 +87,12 @@ Conteúdo sugeridos
 
 ## 03. Seleção: Manipulação
 
+- [L0 - É 3 @ou 5](base/ou/Readme.md)
+- [L0 - É @positivo](base/positivo/Readme.md)
+- [L0 - @maximo entre dois números](base/maximo/Readme.md)
+- [L0 - @multiplo de sete](base/multiplo/Readme.md)
+- [L0 - @par ou impar](base/par/Readme.md)
+- [L0 - Positivo, @nulo ou negativo](base/nulo/Readme.md)
 - [L1 - @calculadora Numérica](base/calculadora/Readme.md)
 - [L1 - Plantação de @morangos](base/morangos/Readme.md)
 - [L1 - @impedido](base/impedido/Readme.md)
