@@ -18,7 +18,7 @@ sobrou.
 
 - Linhas 1, 2, 3: Quantidade dos 3 produtos
 - Linhas 4, 5, 6: Valor dos 3 produtos
-- Linha 3: Quantidade de dinheiro
+- Linha 7: Quantidade de dinheiro
 
 ### Saída
 
