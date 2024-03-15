@@ -49,6 +49,8 @@ Seja a variável `valor` um número em ponto flutuante, você pode imprimir essa
 
 - C: `printf("%2.f", valor)`
 - Javascript: `console.log(valor.toFixed(2))`
-- Python: `print("%.2f" % (valor))`
+- Python: `print("{:.2f}".format(valor))`
+
+
 
 [![_](video.png)](https://youtu.be/XbjHzCULmEI)

@@ -48,7 +48,7 @@ Leia dois números inteiros e um símbolo e imprima o resultado.
 
 ## Ajuda
 
-Observação
+Observação para quem está programando em **C** ou **C++**:
 
 * O `operador` deve ser recebido em uma variável do tipo `char`. Exemplo:
   

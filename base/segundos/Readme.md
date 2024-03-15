@@ -27,6 +27,7 @@ Hora:Minuto:Segundo
 ### Observação
 
 - Pule uma linha com `'\n'` depois de mostrar a soma.
+Somente para quem está programando em **C**:
 - Exemplo: std::cout << media << '\n';
 
 ## Exemplos

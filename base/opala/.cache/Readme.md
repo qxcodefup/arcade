@@ -45,3 +45,25 @@ Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em
 4.00
 <<<<<<<<
 ```
+
+## Dica
+
+Para imprimir em **c ou c++** com duas casas decimais use:
+
+```C
+//c ou c++
+#include <stdio.h>
+float a = 4.3243255;
+float b = 3.4334344;
+printf("a=%.2f e b=%.3f", a, b); //a=4.32 e b=3.433
+```
+
+Em  **Python**, você tem várias possibilidades.
+
+```python
+a = 4.3243255
+b = 3.4334344
+print("a={:.2f} e b={:.3f}".format(a, b)) //a=4.32 e b=3.433
+```
+[Veja outras opções na documentação oficial](https://docs.python.org/pt-br/3/tutorial/inputoutput.html#fancier-output-formatting)
+

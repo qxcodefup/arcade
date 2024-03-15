@@ -17,6 +17,8 @@ Para fazer acessar a informação desejada você precisa estar conectado no wifi
   - se admin for false: you neet to login as admin
   - caso todos sejam verdadeiros: done
 
+Para simplicar a entrada do programa, usaremos **0** para indicar **false** e **1** para indicar **true**.
+
 Dica: ao invés de múltiplos if elses aninhados, verifique as negações.
 
 ```c

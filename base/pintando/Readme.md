@@ -22,6 +22,7 @@ Utilize a seguinte fórmula para calcular a área de um triângulo a partir do t
 
 - Área com duas casas decimais.
 
+
 ## Exemplos
 
 ``` txt
@@ -41,5 +42,28 @@ Utilize a seguinte fórmula para calcular a área de um triângulo a partir do t
 59.92
 <<<<<<<<
 ```
+
+## Dica
+
+Para imprimir em **c ou c++** com duas casas decimais use:
+
+```C
+//c ou c++
+#include <stdio.h>
+float a = 4.3243255;
+float b = 3.4334344;
+printf("a=%.2f e b=%.3f", a, b); //a=4.32 e b=3.433
+```
+
+Para **Python**, você tem várias possibilidades.
+
+```python
+a = 4.3243255
+b = 3.4334344
+print("a={:.2f} e b={:.3f}".format(a, b)) //a=4.32 e b=3.433
+```
+[Veja outras opções na documentação oficial](https://docs.python.org/pt-br/3/tutorial/inputoutput.html#fancier-output-formatting)
+
+
 
 [Resolução](https://youtu.be/sWg893W5r_w)

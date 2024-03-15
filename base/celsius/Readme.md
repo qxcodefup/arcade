@@ -27,11 +27,22 @@ Fahrenheit. O valor fornecido será fracionário (double).
 
 ### Dicas
 
+Caso você esteja programando em **C**:
 - Use `double` em vez de `float` para evitar erro de precisão de ponto flutuante
 - Use o `std::fixed` e `std::setprecision(6)` da biblioteca `iomanip` para fixar
 o número de casas decimais
 - Exemplo: std::cout << std::fixed << std::setprecision(6)
 << tFahrenheit << '\n';
+
+Caso você esteja programando em **Python** existem diversas maneira para formatar uma saída de texto.
+
+Exemplo:
+```python
+print("{:.6f}".format(temperatura))
+```
+
+[Veja outras opções na documentação oficial](https://docs.python.org/pt-br/3/tutorial/inputoutput.html#fancier-output-formatting)
+
 
 ## Exemplos
 

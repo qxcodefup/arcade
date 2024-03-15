@@ -68,6 +68,6 @@ Seja a variável `valor` um número em inteiro, você pode imprimir essa variáv
 
 - C: `printf("%02d", valor)`
 - Javascript: `console.log(String(valor).padStart(2, "0"))`
-- Python: `print("%02d" % (valor))`
+- Python: `print("{:02d}".format(valor))`
 
 Você pode usar o operador de módulo usando ano % 100 para pegar só os dois últimos dígitos do ano.

@@ -62,7 +62,8 @@ Para **python**, você tem várias possibilidades.
 ```python
 a = 4.3243255
 b = 3.4334344
-print("a=%.2f e b=%.3f" %(a, b)) //a=4.32 e b=3.433
+print("a={:.2f} e b={:.3f}".format(a, b)) //a=4.32 e b=3.433
 ```
+[Veja outras opções na documentação oficial](https://docs.python.org/pt-br/3/tutorial/inputoutput.html#fancier-output-formatting)
 
 [Resolução](https://www.youtube.com/watch?v=budW2bakIjg)

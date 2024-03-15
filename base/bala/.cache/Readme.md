@@ -64,7 +64,7 @@ Como imprimir duas casas decimais em Python e C:
 
 ```py
 # imprimindo com duas casas decimais em python 3
-print ("%.2f" % valor)
+print ("{:.2f}".format(valor))
 ```
 
 ```c

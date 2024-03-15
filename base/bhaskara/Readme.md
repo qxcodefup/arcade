@@ -72,11 +72,16 @@ Observação
 
 - Para ser utilizada a função `sqrt`, ela deve ser importada. Segue as formas de importação em algumas linguagens e como utilizar:
 
+Em **C**:
+
 ``` c
     #include <math.h> //c
 
     sqrt(4)  //retorna 2
 ```
+
+
+Em **C++**:
 
 ``` c++
     #include <cmath> //c++
@@ -84,11 +89,15 @@ Observação
     sqrt(4) //retorna 2 
 ```
 
+Em **Python**:
+
 ``` python
     import math #python
 
     math.sqrt(4) #retorna 2 
 ```
+
+Em **JavaScript**:
 
 ``` javascript
     //javascript
