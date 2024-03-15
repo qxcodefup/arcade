@@ -121,8 +121,8 @@ Conteúdo sugeridos
 
 ## 06. Seleção: Operador de módulo
 
-- [L2 - Removendo @loops no ângulo Cartesiano](base/loops/Readme.md)
 - [L1 - Ambos @divisiveis](base/divisiveis/Readme.md)
+- [L2 - Removendo @loops no ângulo Cartesiano](base/loops/Readme.md)
 - [L2 - @teleferico - OBI 2017 - Fase 1](base/teleferico/Readme.md)
 - [L2 - @xadrez OBI 2019 F1P1](base/xadrez/Readme.md)
 - [L2 - Jogo de @domino - OBI 2019 F1PJ](base/domino/Readme.md)
