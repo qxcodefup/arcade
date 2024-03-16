@@ -1,6 +1,11 @@
 # L1 - @empacotar
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/empacotar/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/empacotar/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup empacotar`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/empacotar/cover.jpg)
 

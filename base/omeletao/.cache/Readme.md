@@ -1,6 +1,11 @@
 # L2 - @omeletao
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/omeletao/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/omeletao/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup omeletao`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/omeletao/cover.jpg)
 

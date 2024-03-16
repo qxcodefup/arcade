@@ -1,6 +1,11 @@
 # L3 - @secundaristas
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/secundaristas/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/secundaristas/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup secundaristas`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/secundaristas/cover.jpg)
 

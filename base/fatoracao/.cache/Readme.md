@@ -1,6 +1,11 @@
 # L2 - Fatoração
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fatoracao/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fatoracao/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup fatoracao`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ## Fatore um numero
 

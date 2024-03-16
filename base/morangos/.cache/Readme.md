@@ -1,6 +1,11 @@
 # L1 - Plantação de @morangos
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/morangos/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/morangos/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup morangos`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ## OBI 2016 - Fase1 - Nível 1
 

@@ -1,6 +1,11 @@
 # L3 - @baruel - figurinhas repetidas
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/baruel/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/baruel/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup baruel`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ## Motivação
 

@@ -1,6 +1,11 @@
 # L2 - Jogo da @concentracao
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/concentracao/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/concentracao/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup concentracao`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/concentracao/cover.jpg)
 

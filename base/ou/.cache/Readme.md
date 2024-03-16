@@ -1,6 +1,11 @@
 # L0 - É 3 @ou 5
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/ou/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/ou/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup ou`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![Imagem eh o número 3](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/ou/cover.jpg)
 

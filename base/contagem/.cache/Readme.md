@@ -1,6 +1,11 @@
 # L1 - @contagem
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/contagem/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/contagem/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup contagem`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/contagem/cover.jpg)
 

@@ -1,6 +1,11 @@
 # L2 - @indices
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/indices/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/indices/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup indices`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/indices/cover.jpg)
 

@@ -1,6 +1,11 @@
 # L2 - Jogo de @domino - OBI 2019 F1PJ
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/domino/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/domino/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup domino`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/domino/cover.jpg)
 

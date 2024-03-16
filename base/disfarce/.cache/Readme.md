@@ -1,6 +1,11 @@
 # L3 - Identificando Ultrons V2 - @disfarce
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/disfarce/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/disfarce/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup disfarce`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/disfarce/cover.jpg)
 

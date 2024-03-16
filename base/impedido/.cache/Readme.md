@@ -1,6 +1,11 @@
 # L1 - @impedido
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/impedido/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/impedido/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup impedido`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ## OBI 2015 - Fase 2 - Nível 1
 

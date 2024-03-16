@@ -1,6 +1,11 @@
 # L3 - Mini @poker - OBI2005
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/poker/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/poker/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup poker`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/poker/cover.jpg)
 

@@ -1,6 +1,11 @@
 # L3 - Quebrador de @copos
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/copos/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/copos/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup copos`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/copos/cover.jpg)
 

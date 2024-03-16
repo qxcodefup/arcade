@@ -1,6 +1,11 @@
 # L3 - Jogo do @avesso2
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/avesso2/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/avesso2/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup avesso2`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/avesso2/cover.jpg)
 

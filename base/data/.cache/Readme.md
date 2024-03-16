@@ -1,6 +1,11 @@
 # L2 - Formatando @data
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/data/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/data/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup data`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/data/cover.jpg)
 

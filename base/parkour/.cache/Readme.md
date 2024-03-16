@@ -1,6 +1,11 @@
 # L3 - @parkour
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/parkour/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/parkour/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup parkour`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/parkour/cover.jpg)
 

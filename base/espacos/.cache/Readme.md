@@ -1,6 +1,11 @@
 # L3 - Meu cachorro comeu minha tarefa V2 - retirar @espacos duplicados
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/espacos/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/espacos/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup espacos`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/espacos/cover.jpg)
 

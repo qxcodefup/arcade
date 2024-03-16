@@ -1,6 +1,11 @@
 # L2 - Hora do chute - @maior ou menor
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/maior/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/maior/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup maior`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![Silvio Santos](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/maior/cover.jpg)
 

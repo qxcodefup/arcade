@@ -1,6 +1,11 @@
 # L3 - Jogo da @vida
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/vida/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/vida/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup vida`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vida/cover.jpg)
 

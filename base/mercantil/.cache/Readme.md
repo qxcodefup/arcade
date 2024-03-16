@@ -1,6 +1,11 @@
 # L3 - @mercantil V3 - Muitas rodadas
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/mercantil/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/mercantil/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup mercantil`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/mercantil/cover.jpg)
 

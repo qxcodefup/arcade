@@ -1,6 +1,11 @@
 # L2 - Comprando @tv parcelada
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/tv/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/tv/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup tv`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/tv/cover.jpg)
 

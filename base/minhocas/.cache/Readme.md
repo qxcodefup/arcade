@@ -1,6 +1,11 @@
 # L3 - Campo de @minhocas - OBI 2005
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/minhocas/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/minhocas/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup minhocas`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minhocas/cover.jpg)
 

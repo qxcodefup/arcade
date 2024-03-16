@@ -1,6 +1,11 @@
 # L2 - @gritando em Caixa Alta -  Invertendo o Case da frase
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/gritando/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/gritando/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup gritando`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/gritando/cover.jpg)
 

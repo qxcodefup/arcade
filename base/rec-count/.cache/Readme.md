@@ -1,6 +1,11 @@
 # L3 - @rec-count - Contando caracteres recursivamente
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/rec-count/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/rec-count/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup rec-count`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/rec-count/cover.jpg)
 

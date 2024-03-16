@@ -1,6 +1,11 @@
 # L2 - @fatores de um número
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fatores/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fatores/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup fatores`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fatores/cover.jpg)
 

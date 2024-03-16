@@ -1,6 +1,11 @@
 # L2 - Próximo @segundo
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/segundo/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/segundo/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup segundo`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![ponteiros de um relógio](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/segundo/cover.jpg)
 

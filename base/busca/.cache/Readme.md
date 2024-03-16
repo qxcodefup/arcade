@@ -1,6 +1,11 @@
 # L2 - @busca Intervalada
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/busca/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/busca/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup busca`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/busca/cover.jpg)
 

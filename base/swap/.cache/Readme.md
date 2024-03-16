@@ -1,6 +1,11 @@
 # L1 - @swap - Troca de valores de variáveis
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/swap/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/swap/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup swap`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/swap/cover.jpg)
 

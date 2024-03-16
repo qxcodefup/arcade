@@ -1,6 +1,11 @@
 # L3 - O segredo do @cofre - OBI 2017
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/cofre/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/cofre/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup cofre`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cofre/cover.jpg)
 

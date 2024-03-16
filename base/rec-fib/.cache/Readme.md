@@ -1,6 +1,11 @@
 # L2 - @rec-fib - Números de Fibonacci
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/rec-fib/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/rec-fib/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup rec-fib`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/rec-fib/cover.jpg)
 

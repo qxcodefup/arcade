@@ -1,6 +1,11 @@
 # L2 - @game10 - OBI 2017 - Fase 1 - Universitário
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/game10/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/game10/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup game10`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/game10/cover.jpg)
 

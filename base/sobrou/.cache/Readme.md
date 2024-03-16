@@ -1,6 +1,11 @@
 # L0 - Quanto @sobrou
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/sobrou/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/sobrou/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup sobrou`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![Imagem Quantos Sobrou](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sobrou/cover.jpg)
 

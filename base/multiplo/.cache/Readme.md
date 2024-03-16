@@ -1,6 +1,11 @@
 # L0 - @multiplo de sete
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/multiplo/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/multiplo/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup multiplo`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![Imagem eh Positivo](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/multiplo/cover.jpg)
 

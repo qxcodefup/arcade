@@ -1,6 +1,11 @@
 # L0 - Soma @tres inteiros
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/tres/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/tres/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup tres`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![Imagem Soma Simples](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/tres/cover.jpg)
 

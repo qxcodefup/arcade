@@ -1,6 +1,11 @@
 # L2 - @bolada na fuça
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/bolada/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/bolada/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup bolada`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![Resultado de imagem para haikyuu](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/bolada/cover.jpg)
 

@@ -1,6 +1,11 @@
 # L2 - Hora do @chute - Quem chega mais perto
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/chute/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/chute/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup chute`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/chute/cover.jpg)
 

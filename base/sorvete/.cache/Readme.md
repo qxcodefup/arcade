@@ -1,6 +1,11 @@
 # L3 - @sorvete suor casaca chicletes - Letras em Comum
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/sorvete/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/sorvete/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup sorvete`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sorvete/cover.jpg)
 

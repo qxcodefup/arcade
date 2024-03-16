@@ -1,6 +1,11 @@
 # L3 - @jokenpo15
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/jokenpo15/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/jokenpo15/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup jokenpo15`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ## Motivação
 

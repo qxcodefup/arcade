@@ -1,6 +1,11 @@
 # L3 - @vivo ou Morto - OBI 2005
 
-Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/vivo/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/vivo/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup vivo`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko).
+
+---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vivo/cover.jpg)
 
