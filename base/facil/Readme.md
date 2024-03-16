@@ -1,6 +1,13 @@
 # L2 - Trilhas @facil - OBI 2005
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/facil/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup facil`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/facil/cover.jpg)
 
 ## Motivação
 

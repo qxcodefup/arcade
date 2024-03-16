@@ -1,6 +1,13 @@
 # L0 - Dividindo: resultado e @resto
 
-![Imagem Teorema da Divisão](cover.png)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/resto/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup resto`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![Imagem Teorema da Divisão](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/resto/cover.png)
 
 ## Ação
 

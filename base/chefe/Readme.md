@@ -1,6 +1,13 @@
 # L3 - Aniquilando Ultrons V3 - identificando @chefe
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/chefe/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup chefe`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/chefe/cover.jpg)
 
 ## Ação
 

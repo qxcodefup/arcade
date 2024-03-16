@@ -1,6 +1,13 @@
 # L2 - @arredondar número
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/arredondar/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup arredondar`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/arredondar/cover.jpg)
 
 ## Motivação
 

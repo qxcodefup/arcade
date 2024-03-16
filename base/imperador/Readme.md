@@ -1,6 +1,13 @@
 # L2 - Deu a louca no @imperador
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/imperador/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup imperador`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/imperador/cover.jpg)
 
 ## Motivação
 

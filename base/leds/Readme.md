@@ -1,6 +1,13 @@
 # L2 - Contar @leds
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/leds/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup leds`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/leds/cover.jpg)
 
 ## Motivação
 
@@ -10,7 +17,7 @@ João quer montar um painel de leds contendo diversos números. Ele não possui 
 
 Considerando a configuração dos leds dos números abaixo, faça um algoritmo que ajude João a descobrir a quantidade de leds necessário para montar o valor.
 
-![_](leds.png)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/leds/leds.png)
 
 ## Entrada
 

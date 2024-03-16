@@ -1,6 +1,13 @@
 # L2 - Soma de @matrizes
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/matrizes/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup matrizes`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/matrizes/cover.jpg)
 
 ## Ação
 

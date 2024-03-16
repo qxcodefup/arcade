@@ -1,6 +1,13 @@
 # L2 - @pintando a casa
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/pintando/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup pintando`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pintando/cover.jpg)
 
 [Explicação](https://youtu.be/nlgT_jAtmy4)
 
@@ -12,7 +19,7 @@ Fernando comprou uma casa triangular. Na hora de calcular a quantidade de tinta 
 
 Utilize a seguinte fórmula para calcular a área de um triângulo a partir do tamanho de seus lados.
 
-![_](heron.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pintando/heron.jpg)
 
 ## Entrada
 

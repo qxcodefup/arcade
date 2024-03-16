@@ -1,6 +1,13 @@
 # L1 - @inverte case de char
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/inverte/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup inverte`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/inverte/cover.jpg)
 
 ## Ação
 

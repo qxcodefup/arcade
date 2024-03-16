@@ -1,6 +1,13 @@
 # L1 - @operacoes básicas
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/operacoes/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup operacoes`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/operacoes/cover.jpg)
 
 ## Ação
 
@@ -53,4 +60,4 @@ Seja a variável `valor` um número em ponto flutuante, você pode imprimir essa
 
 
 
-[![_](video.png)](https://youtu.be/XbjHzCULmEI)
+[![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/operacoes/video.png)](https://youtu.be/XbjHzCULmEI)

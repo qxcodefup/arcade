@@ -1,6 +1,13 @@
 # L2 - @revolta em Portugal
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/revolta/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup revolta`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/revolta/cover.jpg)
 
 ## Motivação
 

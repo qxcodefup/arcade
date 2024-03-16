@@ -1,6 +1,13 @@
 # L2 - Triângulo de @varetas
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/varetas/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup varetas`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/varetas/cover.jpg)
 
 Você pegou no chão de casa 3 varetas de tamanhos distintos e tentou formar um triângulo com essas varetas.
 

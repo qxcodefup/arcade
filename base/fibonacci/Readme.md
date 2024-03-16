@@ -1,6 +1,13 @@
 # L3 - Somatório de @fibonacci
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fibonacci/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup fibonacci`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fibonacci/cover.jpg)
 
 ## Motivação
 

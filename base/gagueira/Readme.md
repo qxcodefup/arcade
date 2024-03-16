@@ -1,6 +1,13 @@
 # L2 - @gagueira V1 - Duplicar Palavras
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/gagueira/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup gagueira`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/gagueira/cover.jpg)
 
 ## Motivação
 

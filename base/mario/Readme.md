@@ -1,8 +1,15 @@
 # L3 - @mario e o Assassins Creed
 
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/mario/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup mario`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
 ## Lendo cenário
 
-![_](cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/mario/cover.jpg)
 
 ## Motivação
 

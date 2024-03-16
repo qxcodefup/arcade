@@ -1,6 +1,13 @@
 # L0 - @maximo entre dois números
 
-![Imagem eh Positivo](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/maximo/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup maximo`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![Imagem eh Positivo](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/maximo/cover.jpg)
 
 ## Ação
 

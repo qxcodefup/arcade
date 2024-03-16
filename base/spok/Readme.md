@@ -1,6 +1,13 @@
 # L2 - @spok palíndromo
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/spok/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup spok`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/spok/cover.jpg)
 
 ## Motivação
 

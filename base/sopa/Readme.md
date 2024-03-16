@@ -1,6 +1,13 @@
 # L3 - @sopa de coelho
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/sopa/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup sopa`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sopa/cover.jpg)
 
 ## Motivação
 
@@ -13,7 +20,7 @@ Estudando um pouco ele descobriu uma regra interessante criado por Leonardo de P
 3\. Não há problemas genéticos no cruzamento consanguíneo;
 4\. Todos os meses, cada casal dá à luz a um novo casal;
 
-![Sopa](sopa.jpg)
+![Sopa](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sopa/sopa.jpg)
 
 Por incrível que pareça, essas regras geram a seguinte sucessão de números: 1, 1, 2, 3, 5, 8, 13, ...
 

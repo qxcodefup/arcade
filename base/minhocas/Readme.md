@@ -1,6 +1,13 @@
 # L3 - Campo de @minhocas - OBI 2005
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/minhocas/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup minhocas`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minhocas/cover.jpg)
 
 ## Motivação
 
@@ -14,7 +21,7 @@ Os pesquisadores da OBM mantêm um acompanhamento constante do desenvolvimento d
 
 A figura abaixo mostra um mapa da fazenda, mostrando a produtividade estimada de cada uma das células.  
 
-![_](minhocas.jpeg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minhocas/minhocas.jpeg)
 
 Um pesquisador da OBM inventou e construiu uma máquina colhedeira de minhocas, e quer testá-la na fazenda.
 

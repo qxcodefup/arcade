@@ -1,6 +1,13 @@
 # L2 - @gomos da cobrinha
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/gomos/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup gomos`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/gomos/cover.jpg)
 
 - Entrada:
   - Q, D, sendo Q a quantidade de "gomos" da cobra e D a direção que pode ser L(left), R(right), U(up), D(down)

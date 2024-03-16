@@ -1,6 +1,13 @@
 # L3 - Máquina de @datilografar Quebrada
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/datilografar/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup datilografar`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/datilografar/cover.jpg)
 
 ## Motivação
 

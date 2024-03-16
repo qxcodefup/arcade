@@ -1,6 +1,13 @@
 # L2 - Eribelton e a Ascologia V2 - Buscando a @perfeicao
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/perfeicao/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup perfeicao`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/perfeicao/cover.jpg)
 
 ## Motivação
 

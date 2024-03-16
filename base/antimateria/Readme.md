@@ -1,6 +1,13 @@
 # L3 - Matéria e @antimateria
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/antimateria/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup antimateria`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/antimateria/cover.jpg)
 
 ## Motivação
 

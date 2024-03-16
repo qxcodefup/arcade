@@ -1,8 +1,15 @@
 # L3 - @baruel - figurinhas repetidas
 
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/baruel/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup baruel`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
 ## Motivação
 
-![_](cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/baruel/cover.jpg)
 
 Baruel Ruel tem muitas figurinhas do álbum de futebol. Ele estava indo para uma feira de troca de figurinhas quando tropeçou e misturou as figurinhas todas. Ele não sabe mais quais figurinhas estão repetidas e tem pra trocar, nem quais estão faltando pra completar a coleção. Ajude Baruel Ruel com essa tarefa.
 

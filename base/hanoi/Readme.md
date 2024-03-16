@@ -1,6 +1,13 @@
 # L3 - Torres de @hanoi
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/hanoi/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup hanoi`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/hanoi/cover.jpg)
 
 ## Motivação
 

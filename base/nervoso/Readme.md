@@ -1,6 +1,13 @@
 # L3 - Chefe @nervoso - OBI 2021
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/nervoso/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup nervoso`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/nervoso/cover.jpg)
 
 [](solver.py)
 
@@ -12,7 +19,7 @@ Infelizmente, de vez em quando seu chefe fala números errados para você ao tel
 
 Infelizmente, seu chefe pode cometer erros repetidos, e diz “zero” para cada erro. Por exemplo, seu chefe pode falar ao telefone “Um, três, cinco, quatro, zero, zero, sete, zero, zero, seis”, o que significa uma soma total igual a 7, conforme explicado na tabela abaixo:
 
-![_](capa.png)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/nervoso/capa.png)
 
 Para não deixar seu chefe ainda mais nervoso, escreva um programa que determine a soma total dos números falados por seu chefe ao telefone.
 

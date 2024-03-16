@@ -1,6 +1,13 @@
 # L3 - Francês é @fresco - Juntar palavras
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fresco/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup fresco`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fresco/cover.jpg)
 
 ## Motivação
 

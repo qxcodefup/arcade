@@ -1,6 +1,13 @@
 # L1 - Eribelton e a @ascologia V1 - Somar Asc
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/ascologia/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup ascologia`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/ascologia/cover.jpg)
 
 ## Motivação
 

@@ -1,10 +1,17 @@
 # L3 - @piao perto da linha
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/piao/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup piao`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/piao/cover.jpg)
 
 ## Motivação
 
-![_](jogo.png)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/piao/jogo.png)
 
 No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
 

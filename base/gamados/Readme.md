@@ -1,6 +1,13 @@
 # L3 - Gansos @gamados - Verificar ordenação da frase
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/gamados/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup gamados`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/gamados/cover.jpg)
 
 ## Motivação
 

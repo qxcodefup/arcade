@@ -1,6 +1,13 @@
 # L2 - Ponto @perto
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/perto/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup perto`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/perto/cover.jpg)
 
 Considere o seguinte tipo de registro que deve ser usado em seu programa:
 

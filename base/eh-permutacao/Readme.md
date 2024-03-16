@@ -1,8 +1,15 @@
 # L3 - @eh-permutacao
 
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/eh-permutacao/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup eh-permutacao`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
 Verifique se um número é permutacao de outro
 
-![_](cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/eh-permutacao/cover.jpg)
 
 ## Motivação
 

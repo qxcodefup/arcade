@@ -1,5 +1,12 @@
 # L0 - É @positivo
 
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/positivo/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup positivo`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
 ## Ação
 
 Implemente um programa que recebe um número inteiro e imprima SIM se ele é maior ou igual a 0.

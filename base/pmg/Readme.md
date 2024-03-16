@@ -1,6 +1,13 @@
 # L2 - Soldados @pmg
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/pmg/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup pmg`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pmg/cover.jpg)
 
 ## Motivação
 

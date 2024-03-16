@@ -1,6 +1,13 @@
 # L3 - Mulher mais @idosa
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/idosa/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup idosa`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/idosa/cover.jpg)
 
 ## Ação
 

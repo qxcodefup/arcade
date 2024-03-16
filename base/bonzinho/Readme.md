@@ -1,6 +1,13 @@
 # L3 - Professor @bonzinho
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/bonzinho/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup bonzinho`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/bonzinho/cover.jpg)
 
 ## Motivação
 

@@ -1,6 +1,13 @@
 # L2 - Cabo de Guerra @jedi
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/jedi/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup jedi`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/jedi/cover.jpg)
 
 ## Motivação
 

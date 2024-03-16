@@ -1,6 +1,13 @@
 # L2 - @boletim - Soma de elementos de em uma matriz
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/boletim/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup boletim`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/boletim/cover.jpg)
 
 ## Motivação
 

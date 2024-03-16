@@ -1,6 +1,13 @@
 # L2 - imprimir vetor @formatado
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/formatado/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup formatado`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/formatado/cover.jpg)
 
 Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 

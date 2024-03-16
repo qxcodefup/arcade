@@ -1,6 +1,13 @@
 # L1 - @valdiskley e a cifra V1
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/valdiskley/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup valdiskley`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/valdiskley/cover.jpg)
 
 ## Motivação
 

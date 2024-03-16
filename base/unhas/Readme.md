@@ -1,6 +1,13 @@
 # L3 - Pintando @unhas Vetor para inteiro
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/unhas/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup unhas`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/unhas/cover.jpg)
 
 ## Motivação
 

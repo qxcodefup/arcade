@@ -1,6 +1,13 @@
 # L3 - @rocicleia e o Locioreca - Anagramas
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/rocicleia/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup rocicleia`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/rocicleia/cover.jpg)
 
 ## Motivação
 

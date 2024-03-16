@@ -1,6 +1,13 @@
 # L2 - Comprando @tv parcelada
 
-![_](cover.jpg)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/tv/Readme.md)
+- Para programar na sua máquina (local/virtual) use:
+  - `tko down fup tv`
+- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+
+---
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/tv/cover.jpg)
 
 Aluízio quer comprar uma televisão parcelada. Ele tem X reais por mês disponíveis para pagar a televisão. No parcelamento, quanto mais parcelas, maior o juros que usa a seguinte regra.
 
