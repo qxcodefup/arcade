@@ -1,6 +1,0 @@
-Readme.md
-gen.py
-cover.jpg
-capa.png
-q.tio
-

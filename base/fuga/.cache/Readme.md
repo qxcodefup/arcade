@@ -7,6 +7,11 @@
 
 ---
 
+<!-- toch -->
+[Entrada](#entrada) | [Saída](#saída) | [Restrições](#restrições) | [Exemplos](#exemplos)
+-- | -- | -- | --
+<!-- toch -->
+
 Um fugitivo, um helicóptero e um policial estão em posições distintas numa pista circular, exatamente como a mostrada na figura ao lado, com dezesseis posições numeradas de 0 a 15 em direção anti-horária.
 
 O helicóptero e o policial ficam sempre parados. O objetivo do fugitivo é chegar no helicóptero sem passar pelo policial antes, claro. Ele pode decidir correr na direção horária, ou na direção anti-horária.

@@ -1,5 +1,0 @@
-Readme.md
-cover.jpg
-heron.jpg
-q.tio
-

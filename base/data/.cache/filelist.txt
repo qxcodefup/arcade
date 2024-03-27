@@ -1,5 +1,0 @@
-video.png
-Readme.md
-cover.jpg
-q.tio
-

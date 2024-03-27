@@ -1,11 +1,9 @@
 # L2 - @fuga em helicóptero - OBI 2016
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fuga/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup fuga`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
+<!-- toch -->
+[Entrada](#entrada) | [Saída](#saída) | [Restrições](#restrições) | [Exemplos](#exemplos)
+-- | -- | -- | --
+<!-- toch -->
 
 Um fugitivo, um helicóptero e um policial estão em posições distintas numa pista circular, exatamente como a mostrada na figura ao lado, com dezesseis posições numeradas de 0 a 15 em direção anti-horária.
 
@@ -13,7 +11,7 @@ O helicóptero e o policial ficam sempre parados. O objetivo do fugitivo é cheg
 
 Neste problema, dadas as posições do helicóptero, do policial e do fugitivo, e a direção em que o fugitivo decide correr, seu programa deve dizer se ele vai ou não conseguir fugir! Na figura, se o fugitivo decidir correr na direção horária, ele consegue fugir; se decidir correr na direção anti-horária, ele vai ser preso antes de chegar no helicóptero!
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fuga/cover.jpg)
+![_](cover.jpg)
 
 ## Entrada
 

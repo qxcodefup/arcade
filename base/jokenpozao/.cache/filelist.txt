@@ -1,5 +1,0 @@
-Readme.md
-cover.jpg
-generator.py
-q.tio
-

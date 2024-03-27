@@ -1,9 +1,0 @@
-quadrado9.png
-quadrado2.png
-quadrado16.png
-Readme.md
-cover.jpg
-quadrado25.png
-quadrado1.png
-q.tio
-

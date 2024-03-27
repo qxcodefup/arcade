@@ -1,6 +1,0 @@
-Readme.md
-cover.jpg
-q.tio
-.comments/capa.jpg.xml
-.comments
-

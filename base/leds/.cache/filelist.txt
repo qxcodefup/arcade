@@ -1,5 +1,0 @@
-Readme.md
-cover.jpg
-leds.png
-q.tio
-

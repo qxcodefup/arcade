@@ -1,6 +1,0 @@
-Readme.md
-cover.jpg
-vetor.jpg
-condicao.jpg
-q.tio
-

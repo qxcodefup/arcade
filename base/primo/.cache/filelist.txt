@@ -1,5 +1,0 @@
-solver_fn.cpp
-Readme.md
-cover.jpg
-q.tio
-
