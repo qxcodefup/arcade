@@ -1,4 +1,4 @@
-# L3 - Soma de vários números
+# L3 - @somas - Soma de vários números
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/somas/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

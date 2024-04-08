@@ -38,6 +38,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [27. Ponteiros](#27-ponteiros)
 - [28. Recursão](#28-recursão)
 - [29. Structs](#29-structs)
+- [30. Em construção](#30-em-construção)
 <!-- toc -->
 
 ```txt
@@ -363,3 +364,8 @@ Conteúdo sugeridos
 - [L2 - @gomos da cobrinha](base/gomos/Readme.md)
 - [L3 - @secundaristas](base/secundaristas/Readme.md)
 - [L3 - Mulher mais @idosa](base/idosa/Readme.md)
+
+## 30. Em construção
+
+- [L2 - @fatoracao - Fatoração](base/fatoracao/Readme.md)
+- [L3 - @somas - Soma de vários números](base/somas/Readme.md)

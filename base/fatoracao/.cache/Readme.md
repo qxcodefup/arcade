@@ -1,4 +1,4 @@
-# L2 - Fatoração
+# L2 - @fatoracao - Fatoração
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fatoracao/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

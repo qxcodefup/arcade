@@ -1,11 +1,4 @@
-# L3 - Soma de vários números
-
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/somas/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup somas`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
+# L3 - @somas - Soma de vários números
 
 ## Ação
 
