@@ -1,39 +1,22 @@
 # L1 - @swap - Troca de valores de variáveis
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/swap/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup swap`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/swap/cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
-Implemente a função 'troca', que recebe como parâmetro duas variáveis inteiras passadas por referência, e troca os valores destas variáveis.
+Implemente a função `troca`, que recebe como parâmetro duas variáveis inteiras passadas por referência, e troca os valores destas variáveis.
 
-O arquivo de envio já terá parte do código preenchido, veja abaixo:
 
-```C
-#include <stdio.h>
+## Draft
 
-// Implemente a função 'troca'.
-void troca(int *a, int *b){
+- lib.c: arquivo que você vai implementar a função `swap`.
+- main.c: arquivo já implementado que contém a função `main` que chama a função `swap`.
 
-}
-
-int main(){
-
-   int x = 0, y = 0;
-
-   scanf("%d %d", &x, &y);
-
-   // Chame a função 'troca' para trocar os valores de x e y.
-
-   printf("%d %d", x, y);
-}
-```
+<!-- links .cache/draft -->
+- c
+  - [lib.c](.cache/draft/c/lib.c)
+  - [main.c](.cache/draft/c/main.c)
+<!-- links -->
 
 Você deverá:
 
@@ -61,3 +44,16 @@ Você deverá:
 0 0
 <<<<<<<<
 ```
+
+
+upload:
+   vpl_evaluate.sh
+   vpl_cases.txt
+
+keep:
+   main.c
+   data.txt
+
+required:
+   lib.c
+   lib.h
