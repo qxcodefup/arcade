@@ -68,7 +68,7 @@ Conteúdo sugeridos
 
 ## Operações Básicas <!-- group -->
 
-### Operações: impressão formatada <!-- @op_form -->
+### Operações: impressão formatada <!-- @op_form +basic:10 -->
 
 - [Impressão Formatada](wiki/impressao_formatada.md)
 - [L0 - Soma @tres inteiros](base/tres/Readme.md)
@@ -81,7 +81,7 @@ Conteúdo sugeridos
 - [L1 - @operacoes básicas](base/operacoes/Readme.md)
 - [L2 - Formatando @data](base/data/Readme.md)
 
-### Operações: Biblioteca Math <!-- @op_math r:op_form -->
+### Operações: Biblioteca Math <!-- @op_math r:op_form +basic:10 -->
 
 - [L2 - @pintando a casa](base/pintando/Readme.md)
 - [L2 - @opala bebedor](base/opala/Readme.md)
