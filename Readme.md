@@ -1,3 +1,4 @@
+<!-- level_one:50 level_mult:1.2 -->
 # QxcodeFup
 
 Esse repositório foi criado e é mantido por mim, David Sena `sena@ufc.br`, professor da UFC de Quixadá.
@@ -69,6 +70,7 @@ Conteúdo sugeridos
 
 ### Operações: impressão formatada <!-- @op_form -->
 
+- [Impressão Formatada](wiki/impressao_formatada.md)
 - [L0 - Soma @tres inteiros](base/tres/Readme.md)
 - [L0 - Dividindo: resultado e @resto](base/resto/Readme.md)
 - [L0 - @media de dois inteiros](base/media/Readme.md)
@@ -79,7 +81,7 @@ Conteúdo sugeridos
 - [L1 - @operacoes básicas](base/operacoes/Readme.md)
 - [L2 - Formatando @data](base/data/Readme.md)
 
-### Operações: Biblioteca Math <!-- @op_math -->
+### Operações: Biblioteca Math <!-- @op_math r:op_form -->
 
 - [L2 - @pintando a casa](base/pintando/Readme.md)
 - [L2 - @opala bebedor](base/opala/Readme.md)
@@ -100,7 +102,7 @@ Conteúdo sugeridos
     - Operador ternário
 ```
 
-### Seleção: Manipulação <!-- @selecao_manipulacao -->
+### Seleção: Manipulação <!-- @selecao_manipulacao r:op_math +sel:10 -->
 
 - [L0 - É 3 @ou 5](base/ou/Readme.md)
 - [L0 - É @positivo](base/positivo/Readme.md)
@@ -112,7 +114,7 @@ Conteúdo sugeridos
 - [L2 - Está @trabalhando ou não](base/trabalhando/Readme.md)
 - [L2 - Triângulo de @varetas](base/varetas/Readme.md)
 
-### Seleção: Biblioteca Math <!-- @selecao_math -->
+### Seleção: Biblioteca Math <!-- @selecao_math r:op_math +sel:10 -->
 
 - [L0 - @maximo entre dois números](base/maximo/Readme.md)
 - [L1 - @chaves - Positivo, Nulo ou Negativo?](base/chaves/Readme.md)
@@ -121,7 +123,7 @@ Conteúdo sugeridos
 - [L2 - Hora do chute - @maior ou menor](base/maior/Readme.md)
 - [L2 - Fórmula de @bhaskara](base/bhaskara/Readme.md)
 
-### Seleção: Lógica <!-- @selecao_logica -->
+### Seleção: Lógica <!-- @selecao_logica r:op_math +sel:10 -->
 
 - [L1 - Plantação de @morangos](base/morangos/Readme.md)
 - [L1 - Cláusulas de @guarda](base/guarda/Readme.md)
@@ -133,7 +135,7 @@ Conteúdo sugeridos
 - [L2 - @jokenpo das tartarugas](base/jokenpo/Readme.md)
 - [L2 - @zerinho ou Um](base/zerinho/Readme.md)
 
-### Seleção: Operador de módulo <!-- @selecao_modulo -->
+### Seleção: Operador de módulo <!-- @selecao_modulo r:op_math +sel:10 -->
 
 - [L0 - @par ou impar](base/par/Readme.md)
 - [L1 - Ambos @divisiveis](base/divisiveis/Readme.md)
@@ -143,7 +145,7 @@ Conteúdo sugeridos
 - [L3 - Zerinho ou um @americano - Decifrando a fórmula](base/americano/Readme.md)
 - [L3 - @jokenpo15](base/jokenpo15/Readme.md)
 
-### Seleção: Listas circulares <!-- @selecao_circular -->
+### Seleção: Listas circulares <!-- @selecao_circular r:selecao_modulo opt +sel:20 -->
 
 - [L2 - Removendo @loops no ângulo Cartesiano](base/loops/Readme.md)
 - [L2 - @game10 - OBI 2017 - Fase 1 - Universitário](base/game10/Readme.md)
@@ -152,13 +154,13 @@ Conteúdo sugeridos
 - [L2 - Cabeça da @cobra](base/cobra/Readme.md)
 - [L3 - Formiga da @bundona](base/bundona/Readme.md)
 
-### Seleção: Intervalos <!-- @selecao_intervalo -->
+### Seleção: Intervalos <!-- @selecao_intervalo r:selecao_logica +sel:10 -->
 
 - [L2 - Aumento de @salario](base/salario/Readme.md)
 - [L2 - @bolada na fuça](base/bolada/Readme.md)
 - [L2 - Criança ou @mumia](base/mumia/Readme.md)
 
-### Seleção: Busca e Contagem <!-- @selecao_busca -->
+### Seleção: Busca e Contagem <!-- @selecao_busca r:selecao_logica +sel:10 -->
 
 - [L2 - @omeletao](base/omeletao/Readme.md)
 - [L2 - A idade de Dona @monica - OBI 2019 - F1PJ](base/monica/Readme.md)
@@ -166,7 +168,7 @@ Conteúdo sugeridos
 - [L3 - Morre o do @meio](base/meio/Readme.md)
 - [L3 - Professor @bonzinho](base/bonzinho/Readme.md)
 
-### Seleção: Conversão <!-- @selecao_conversao -->
+### Seleção: Conversão <!-- @selecao_conversao r:selecao_logica +sel:20 -->
 
 - [L2 - Próximo @segundo](base/segundo/Readme.md)
 - [L2 - @adedonha](base/adedonha/Readme.md)
@@ -181,14 +183,14 @@ Conteúdo sugeridos
 - Funções com returns parciais
 ```
 
-### Repetição: Básico <!-- @laco_basico -->
+### Repetição: Básico <!-- @laco_basico r:selecao_logica +rep:10 -->
 
 - [L1 - @sapatos para 3](base/sapatos/Readme.md)
 - [L1 - Soma dos @pares](base/pares/Readme.md)
 - [L2 - @fuga em helicóptero - OBI 2016](base/fuga/Readme.md)
 - [L2 - Jogo da @concentracao](base/concentracao/Readme.md)
 
-### Repetição: Técnicas de controle <!-- @laco_controle -->
+### Repetição: Técnicas de controle <!-- @laco_controle r:laco_basico +rep:15 -->
 
 - [L2 - Ônibus @lotado](base/lotado/Readme.md)
 - [L2 - @sapinho 1 no Poço](base/sapinho/Readme.md)
@@ -197,7 +199,7 @@ Conteúdo sugeridos
 - [L2 - @castelos de Cubos](base/castelos/Readme.md)
 - [L3 - Quebrador de @copos](base/copos/Readme.md)
 
-### Repetição: Math <!-- @laco_math -->
+### Repetição: Math <!-- @laco_math r:laco_controle +rep:15 opt -->
 
 - [L2 - É @primo](base/primo/Readme.md)
 - [L2 - @fatores de um número](base/fatores/Readme.md)
@@ -214,7 +216,7 @@ Conteúdo sugeridos
 - Vetores: manipulação, proximidade, ordenação
 ```
 
-### Vetores: Busca <!-- @vetor_busca -->
+### Vetores: Busca <!-- @vetor_busca r:laco_controle +vet:10 -->
 
 - [L1 - Calça @apertada](base/apertada/Readme.md)
 - [L1 - @casamento](base/casamento/Readme.md)
@@ -222,7 +224,7 @@ Conteúdo sugeridos
 - [L2 - @busca Intervalada](base/busca/Readme.md)
 - [L3 - @piao perto da linha](base/piao/Readme.md)
 
-### Vetores: Contagem <!-- @vetor_contagem -->
+### Vetores: Contagem <!-- @vetor_contagem r:vetor_busca +vet:10 -->
 
 - [L1 - @contagem](base/contagem/Readme.md)
 - [L2 - Cabo de Guerra @jedi](base/jedi/Readme.md)
@@ -230,14 +232,14 @@ Conteúdo sugeridos
 - [L2 - Soldados @pmg](base/pmg/Readme.md)
 - [L3 - @mercantil V3 - Muitas rodadas](base/mercantil/Readme.md)
 
-### Vetores: Conversão <!-- @vetor_conversao -->
+### Vetores: Conversão <!-- @vetor_conversao r:vetor_contagem +vet:15 -->
 
 - [L2 - Mostrar @cartas](base/cartas/Readme.md)
 - [L3 - @blackjack 21](base/blackjack/Readme.md)
 - [L3 - Devolvendo o @troco](base/troco/Readme.md)
 - [L3 - Pintando @unhas Vetor para inteiro](base/unhas/Readme.md)
 
-### Vetores: Manipulação <!-- @vetor_manipulacao -->
+### Vetores: Manipulação <!-- @vetor_manipulacao r:vetor_conversao +vet:20 -->
 
 - [L2 - @invertendo vetor](base/invertendo/Readme.md)
 - [L2 - @mmc](base/mmc/Readme.md)
@@ -248,7 +250,7 @@ Conteúdo sugeridos
 - [L3 - Arca - Quantos @casais](base/casais/Readme.md)
 - [L3 - Arca - @exemplares únicos](base/exemplares/Readme.md)
 
-### Vetores: Proximidade <!-- @vetor_proximidade -->
+### Vetores: Proximidade <!-- @vetor_proximidade r:vetor_manipulacao +vet:20 -->
 
 - [L2 - Queda de @dominos](base/dominos/Readme.md)
 - [L2 - Jogo do @avesso](base/avesso/Readme.md)
@@ -258,7 +260,7 @@ Conteúdo sugeridos
 - [L3 - Perto do @medico](base/medico/Readme.md)
 - [L3 - Jogo do @avesso2](base/avesso2/Readme.md)
 
-### Vetores: Ordenação <!-- @vetor_ordenacao -->
+### Vetores: Ordenação <!-- @vetor_ordenacao r:vetor_contagem +vet:20 -->
 
 - [L1 - @paredes](base/paredes/Readme.md)
 - [L2 - Batida @policial](base/policial/Readme.md)
@@ -266,7 +268,7 @@ Conteúdo sugeridos
 - [L2 - @mediana](base/mediana/Readme.md)
 - [L2 - @indices](base/indices/Readme.md)
 
-### Vetores: Lógica <!-- @vetor_logica -->
+### Vetores: Lógica <!-- @vetor_logica r:vetor_contagem +vet:20 -->
 
 - [L3 - Abastecimento de @agua](base/agua/Readme.md)
 - [L3 - @batraquios - está contido](base/batraquios/Readme.md)
@@ -278,7 +280,7 @@ Conteúdo sugeridos
 - [L3 - O segredo do @cofre - OBI 2017](base/cofre/Readme.md)
 - [L3 - Chefe @nervoso - OBI 2021](base/nervoso/Readme.md)
 
-### Vetores: Math <!-- @vetor_math -->
+### Vetores: Math <!-- @vetor_math r:vetor_contagem opt +vet:30 -->
 
 - [L3 - @eh-permutacao](base/eh-permutacao/Readme.md)
 - [L3 - @senhas - algoritmo de força bruta](base/senhas/Readme.md)
@@ -292,7 +294,7 @@ Conteúdo sugeridos
 - Strings: busca, contagem, conversão
 ```
 
-### Strings I <!-- @strings_i -->
+### Strings I <!-- @strings_i r:vetor_logica +str:10 -->
 
 - [L1 - Eribelton e a @ascologia V1 - Somar Asc](base/ascologia/Readme.md)
 - [L1 - LP da @xuxa - Inverter String](base/xuxa/Readme.md)
@@ -304,7 +306,7 @@ Conteúdo sugeridos
 - [L2 - Contar @leds](base/leds/Readme.md)
 - [L2 - @crushometro](base/crushometro/Readme.md)
 
-### Strings II <!-- @strings_ii -->
+### Strings II <!-- @strings_ii r:strings_i +str:10 -->
 
 - [L2 - Eribelton e a Ascologia V2 - Buscando a @perfeicao](base/perfeicao/Readme.md)
 - [L2 - @gagueira V1 - Duplicar Palavras](base/gagueira/Readme.md)
@@ -316,7 +318,7 @@ Conteúdo sugeridos
 - [L2 - Organizando @ru - Separando vogais de consoantes](base/ru/Readme.md)
 - [L2 - Encontrando e somando @numeros](base/numeros/Readme.md)
 
-### Strings III <!-- @strings_iii -->
+### Strings III <!-- @strings_iii r:strings_ii opt +str:10 -->
 
 - [L2 - Valdiskley casando com @valentina](base/valentina/Readme.md)
 - [L2 - @vcvcvc - Vogais e Consoantes - Substituindo](base/vcvcvc/Readme.md)
@@ -328,7 +330,7 @@ Conteúdo sugeridos
 - [L3 - Identificando Ultrons V2 - @disfarce](base/disfarce/Readme.md)
 - [L3 - Aniquilando Ultrons V3 - identificando @chefe](base/chefe/Readme.md)
 
-### Strings IV <!-- @strings_iv -->
+### Strings IV <!-- @strings_iv r:strings_ii opt +str:15 -->
 
 - [L3 - @identificando tipos](base/identificando/Readme.md)
 - [L3 - Jack Sparrow e @calipso - Alternar Case](base/calipso/Readme.md)
@@ -340,7 +342,7 @@ Conteúdo sugeridos
 - [L3 - @mario e o Assassins Creed](base/mario/Readme.md)
 - [L3 - Nao se @bubula - Gagueira V2](base/bubula/Readme.md)
 
-### Strings V <!-- @strings_v -->
+### Strings V <!-- @strings_v r:strings_ii opt +str:20 -->
 
 - [L3 - Prof @muquirana - Busca máximo por critério](base/muquirana/Readme.md)
 - [L3 - @rocicleia e o Locioreca - Anagramas](base/rocicleia/Readme.md)
@@ -349,7 +351,7 @@ Conteúdo sugeridos
 - [L3 - Separe Pneumatócito - @silabas](base/silabas/Readme.md)
 - [L3 - @sorvete suor casaca chicletes - Letras em Comum](base/sorvete/Readme.md)
 
-### Strings VI <!-- @strings_vi -->
+### Strings VI <!-- @strings_vi r:strings_ii opt +str:25 -->
 
 - [L3 - Valdiskley e a @vigenere](base/vigenere/Readme.md)
 - [L3 - Mini @poker - OBI2005](base/poker/Readme.md)
@@ -359,7 +361,7 @@ Conteúdo sugeridos
 
 ## Matrizes <!-- group -->
 
-### Matrizes I <!-- @matrizes_i -->
+### Matrizes I <!-- @matrizes_i r:vetor_logica +mat:30 -->
 
 - [L2 - @bingo](base/bingo/Readme.md)
 - [L2 - Deu a louca no @imperador](base/imperador/Readme.md)
@@ -369,7 +371,7 @@ Conteúdo sugeridos
 - [L3 - @torre - OBI 2015 - Fase 2 - Nível 1](base/torre/Readme.md)
 - [L2 - @soldados em Posição](base/soldados/Readme.md)
 
-### Matrizes II <!-- @matrizes_ii -->
+### Matrizes II <!-- @matrizes_ii r:matrizes_i opt +mat:40 -->
 
 - [L2 - Matriz @simetrica](base/simetrica/Readme.md)
 - [L2 - Soma de @matrizes](base/matrizes/Readme.md)
@@ -382,7 +384,7 @@ Conteúdo sugeridos
 
 ## Extra <!-- group -->
 
-### Ponteiros <!-- @ponteiros -->
+### Ponteiros <!-- @ponteiros r:vetor_contagem +extra:20 -->
 
 - [L2 - imprimir vetor @formatado](base/formatado/Readme.md)
 - [L4 - A @porta Matemática](base/porta/Readme.md)
@@ -391,14 +393,14 @@ Conteúdo sugeridos
 - [L2 - Função que retorna vários valores por @endereco](base/endereco/Readme.md)
 - [L2 - @realoc - Vetor de strings com variados tamanhos](base/realoc/Readme.md)
 
-### Recursão <!-- @recursao -->
+### Recursão <!-- @recursao r:ponteiros +extra:30 -->
 
 - [L2 - Contando @ocorrencias](base/ocorrencias/Readme.md)
 - [L2 - @rec-fib - Números de Fibonacci](base/rec-fib/Readme.md)
 - [L3 - @rec-count - Contando caracteres recursivamente](base/rec-count/Readme.md)
 - [L3 - Torres de @hanoi](base/hanoi/Readme.md)
 
-### Structs <!-- @structs -->
+### Structs <!-- @structs r:ponteiros +extra:30 -->
 
 - [L1 - @expressao](base/expressao/Readme.md)
 - [L1 - @empacotar](base/empacotar/Readme.md)
@@ -410,7 +412,7 @@ Conteúdo sugeridos
 - [L3 - @secundaristas](base/secundaristas/Readme.md)
 - [L3 - Mulher mais @idosa](base/idosa/Readme.md)
 
-### Em construção <!-- @em_construcao -->
+### Em construção <!-- @em_construcao r:ponteiros +extra:10 -->
 
 - [L2 - @fatoracao - Fatoração](base/fatoracao/Readme.md)
 - [L3 - @somas - Soma de vários números](base/somas/Readme.md)
