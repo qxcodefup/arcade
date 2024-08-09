@@ -1,0 +1,22 @@
+# Conteúdo
+
+- Introdução
+  - instalando o mingw e vscode
+  - tipos de dados básicos: `bool, int, float, char, const char *`
+  - operadores aritméticos: `+ - * / %`
+  - lendo e escrevendo variáveis: scanf, printf, puts, getchar
+  - uso avançado do scanf
+  - maldição da leitura do char, lendo ou ignorando whitespaces
+  - lendo errado a entrada, limpando o buffer
+  - como funciona o buffer de entrada
+  - utilizando funções da biblioteca math.h
+  - debugando
+- Funções
+  - recebendo e retornando básicos
+  - retorno de função: retorno default e returnos parciais ao invés de elses
+- Estruturas de Seleção
+  - Indentação, estruturas básicas e uso de operadores lógicos de corte
+  - if, else, else if
+  - Operadores lógicos: `&&, ||, !`
+  - Operadores relacionais: `==, !=, >, <, >=, <=`
+  - Operador ternário
