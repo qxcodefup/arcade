@@ -76,7 +76,6 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [L2 - Está @trabalhando ou não](base/trabalhando/Readme.md)
 - [ ] [L2 - Triângulo de @varetas](base/varetas/Readme.md)
 - [ ] [L2 - Fórmula de @bhaskara](base/bhaskara/Readme.md)
-- [ ] [L0 - @patas - Chico Bento e Cebolinha](base/patas/Readme.md)
 
 ### Base - Seleção - Lógica<!-- @main_sel_log +sel:10 -->
 
@@ -106,6 +105,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [L0 - @dieta - Rubens comendo no Brolio](base/dieta/Readme.md)
 - [ ] [L0 - @ceu - Ingrid quer chegar no céu](base/ceu/Readme.md)
 - [ ] [L0 - @colorido - Paulo Victor e seu sapato colorido](base/colorido/Readme.md)
+- [ ] [L0 - @patas - Chico Bento e Cebolinha](base/patas/Readme.md)
 - [ ] [L1 - @zigzag - Viunei e a saúde mental](base/zigzag/Readme.md)
 - [ ] [L0 - @esconde - Diana no esconde-esconde](base/esconde/Readme.md)
 
