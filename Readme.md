@@ -76,6 +76,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [L2 - Está @trabalhando ou não](base/trabalhando/Readme.md)
 - [ ] [L2 - Triângulo de @varetas](base/varetas/Readme.md)
 - [ ] [L2 - Fórmula de @bhaskara](base/bhaskara/Readme.md)
+- [ ] [L0 - @patas - Chico Bento e Cebolinha](base/patas/Readme.md)
 
 ### Base - Seleção - Lógica<!-- @main_sel_log +sel:10 -->
 
