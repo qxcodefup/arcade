@@ -1,4 +1,4 @@
-# L0 - @colorido - Paulo Victor e seu sapato colorido
+# L1 - @colorido - Paulo Victor e seu sapato colorido
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/colorido/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

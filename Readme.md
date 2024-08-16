@@ -104,10 +104,11 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [L0 - @filhos - Filhos de Seu David](base/filhos/Readme.md)
 - [ ] [L0 - @dieta - Rubens comendo no Brolio](base/dieta/Readme.md)
 - [ ] [L0 - @ceu - Ingrid quer chegar no céu](base/ceu/Readme.md)
-- [ ] [L0 - @colorido - Paulo Victor e seu sapato colorido](base/colorido/Readme.md)
-- [ ] [L0 - @patas - Chico Bento e Cebolinha](base/patas/Readme.md)
-- [ ] [L1 - @zigzag - Viunei e a saúde mental](base/zigzag/Readme.md)
 - [ ] [L0 - @esconde - Diana no esconde-esconde](base/esconde/Readme.md)
+- [ ] [L1 - @dindin - Clenda adora chocolate](base/dindin/Readme.md)
+- [ ] [L1 - @patas - Chico Bento e Cebolinha](base/patas/Readme.md)
+- [ ] [L1 - @zigzag - Viunei e a saúde mental](base/zigzag/Readme.md)
+- [ ] [L1 - @colorido - Paulo Victor e seu sapato colorido](base/colorido/Readme.md)
 
 ### Base - Repetição - Técnicas de Controle<!-- @main_repii +rep:15 -->
 
