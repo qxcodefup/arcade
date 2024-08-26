@@ -1,4 +1,4 @@
-# L0 - É @positivo
+# L0 - @positivo - sim ou não
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/positivo/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

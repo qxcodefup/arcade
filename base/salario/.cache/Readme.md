@@ -1,4 +1,4 @@
-# L2 - Aumento de @salario
+# L2 - @salario - Calculando aumento
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/salario/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

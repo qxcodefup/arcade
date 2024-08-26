@@ -1,13 +1,6 @@
-# L1 - Cláusulas de @guarda
+# L1 - @guarda - retornando problemas primeiro
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/guarda/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup guarda`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/guarda/cover.jpg)
+![_](cover.jpg)
 
 Essa questão foi extraída do seguinte vídeo. O objetivo é simplificar testes de if else pensando nas negações.
 

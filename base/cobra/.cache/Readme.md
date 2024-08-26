@@ -1,4 +1,4 @@
-# L2 - Cabeça da @cobra
+# L2 - @cobra - jogo da cobrinha
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/cobra/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

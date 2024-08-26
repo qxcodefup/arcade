@@ -1,4 +1,4 @@
-# L2 - Jogo da @concentracao
+# L2 - @concentracao - Jogo de laço
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/concentracao/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

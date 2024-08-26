@@ -1,13 +1,6 @@
-# L0 - Converte @segundos
+# L0 - @segundos - converter segundos em h:m:s
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/segundos/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup segundos`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![Imagem Tempo em Horas, Minutos e Segundos](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/segundos/cover.jpg)
+![Imagem Tempo em Horas, Minutos e Segundos](cover.jpg)
 
 ## Ação
 

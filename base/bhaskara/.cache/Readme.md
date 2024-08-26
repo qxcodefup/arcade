@@ -1,4 +1,4 @@
-# L2 - Fórmula de @bhaskara
+# L2 - @bhaskara - usando biblioteca matemática
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/bhaskara/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

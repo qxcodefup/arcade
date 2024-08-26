@@ -1,4 +1,4 @@
-# L3 - Mete @bala
+# L3 - @bala - distância entre dois pontos
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/bala/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

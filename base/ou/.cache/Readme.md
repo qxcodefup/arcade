@@ -1,4 +1,4 @@
-# L0 - É 3 @ou 5
+# L0 - @ou - É 3 ou 5
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/ou/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

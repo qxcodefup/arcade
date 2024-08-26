@@ -1,4 +1,4 @@
-# L2 - Ladrão de @goiabas
+# L2 - @goiabas - pegar do pé do vizinho
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/goiabas/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

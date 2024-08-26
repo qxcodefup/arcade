@@ -1,4 +1,4 @@
-# L3 - Arca - @exemplares únicos
+# L3 - @exemplares - Arca quantos exemplares
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/exemplares/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

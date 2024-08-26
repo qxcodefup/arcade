@@ -1,13 +1,6 @@
-# L3 - Devolvendo o @troco
+# L3 - @troco - Calculando troco
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/troco/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup troco`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/troco/cover.jpg)
+![_](cover.jpg)
 
 Você precisa fazer um programa que calcule como dar o troco em dinheiro.
 

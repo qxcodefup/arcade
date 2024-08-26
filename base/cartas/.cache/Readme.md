@@ -1,4 +1,4 @@
-# L2 - Mostrar @cartas
+# L2 - @cartas - Transformando números em letras
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/cartas/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

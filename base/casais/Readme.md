@@ -1,13 +1,6 @@
-# L3 - Arca - Quantos @casais
+# L3 - @casais - Quantos casais na arca
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/casais/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup casais`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/casais/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 

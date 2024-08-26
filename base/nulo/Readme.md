@@ -1,13 +1,6 @@
-# L0 - Positivo, @nulo ou negativo
+# L0 - @nulo - positivo ou negativo
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/nulo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup nulo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![Imagem eh Positivo](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/nulo/cover.jpg)
+![Imagem eh Positivo](cover.jpg)
 
 ## Ação
 

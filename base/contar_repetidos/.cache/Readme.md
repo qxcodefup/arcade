@@ -1,13 +1,13 @@
-# L1 - @contagem
+# L1 - @contar_repetidos Ultron
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/contagem/Readme.md)
+- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/contar_repetidos/Readme.md)
 - Para programar na sua máquina (local/virtual) use:
-  - `tko down fup contagem`
+  - `tko down fup contar_repetidos`
 - Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
 
 ---
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/contagem/cover.jpg)
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/contar_repetidos/cover.jpg)
 
 ## Motivação
 

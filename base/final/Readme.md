@@ -1,13 +1,6 @@
-# L2 - Fiquei de @final
+# L2 - @final - será que eu passo?
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/final/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup final`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/final/cover.jpg)
+![_](cover.jpg)
 
 ## Descrição
 

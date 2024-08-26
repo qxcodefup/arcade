@@ -1,13 +1,6 @@
-# L0 - Quanto @sobrou
+# L0 - @sobrou - calculando quanto sobrou
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/sobrou/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup sobrou`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![Imagem Quantos Sobrou](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sobrou/cover.jpg)
+![Imagem Quantos Sobrou](cover.jpg)
 
 ## Ação
 

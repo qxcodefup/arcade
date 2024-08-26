@@ -1,4 +1,4 @@
-# L2 - Triângulo de @varetas
+# L2 - @varetas - critério para triângulos
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/varetas/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

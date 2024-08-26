@@ -1,4 +1,4 @@
-# L2 - Jogo de par ou @impar - OBI 2016 - F1P1
+# L2 - @impar ou par - OBI 2016 - F1P1
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/impar/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

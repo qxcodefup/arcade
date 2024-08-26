@@ -1,4 +1,4 @@
-# L2 - Nota @cortada - OBI 2019 F1P1
+# L2 - @cortada - essa nota presta? - OBI 2019 F1P1
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/cortada/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

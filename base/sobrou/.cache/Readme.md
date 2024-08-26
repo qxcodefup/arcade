@@ -1,4 +1,4 @@
-# L0 - Quanto @sobrou
+# L0 - @sobrou - calculando quanto sobrou
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/sobrou/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

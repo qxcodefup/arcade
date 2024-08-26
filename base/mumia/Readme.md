@@ -1,13 +1,6 @@
-# L2 - Criança ou @mumia
+# L2 - @mumia - criança, jovem, adulto
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/mumia/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup mumia`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/mumia/cover.jpg)
+![_](cover.jpg)
 
 Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escreva:
 

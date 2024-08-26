@@ -1,4 +1,4 @@
-# L0 - Dividindo: resultado e @resto
+# L0 - @resto - resultado e resto na divisão
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/resto/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

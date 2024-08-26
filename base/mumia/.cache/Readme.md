@@ -1,4 +1,4 @@
-# L2 - Criança ou @mumia
+# L2 - @mumia - criança, jovem, adulto
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/mumia/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

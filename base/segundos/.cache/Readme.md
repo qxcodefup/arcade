@@ -1,4 +1,4 @@
-# L0 - Converte @segundos
+# L0 - @segundos - converter segundos em h:m:s
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/segundos/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

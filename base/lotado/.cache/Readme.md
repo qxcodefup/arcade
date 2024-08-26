@@ -1,4 +1,4 @@
-# L2 - Ônibus @lotado
+# L2 - @lotado - Ônibus dos alunos
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/lotado/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

@@ -1,4 +1,4 @@
-# L3 - Arca - Quantos @casais
+# L3 - @casais - Quantos casais na arca
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/casais/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

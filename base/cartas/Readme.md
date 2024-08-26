@@ -1,15 +1,8 @@
-# L2 - Mostrar @cartas
-
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/cartas/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup cartas`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
+# L2 - @cartas - Transformando números em letras
 
 ## Imprimir vetor formatado
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cartas/cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
