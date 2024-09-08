@@ -1,4 +1,4 @@
-# L1 - @pares - Calculando soma
+# L0 - @pares - Calculando soma
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/pares/Readme.md)
 - Para programar na sua máquina (local/virtual) use:

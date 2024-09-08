@@ -12,9 +12,13 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 <!-- toc -->
 - [Caminho Base](#caminho-base)
   - [Base - Operações](#base---operações)
-  - [Base - Seleção](#base---seleção)
-  - [Base - Repetição ](#base---repetição-)
-  - [Base - Vetores](#base---vetores)
+  - [Base - Seleção I](#base---seleção-i)
+  - [Base - Seleção II](#base---seleção-ii)
+  - [Base - Repetição I](#base---repetição-i)
+  - [Base - Repetição II](#base---repetição-ii)
+  - [Base - Vetores I](#base---vetores-i)
+  - [Base - Vetores II](#base---vetores-ii)
+- [Base - Vetores III](#base---vetores-iii)
   - [Base - Strings](#base---strings)
 - [Extra](#extra)
   - [Operações - extra](#operações---extra)
@@ -37,7 +41,6 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 
 ### Base - Operações<!-- @main_op +basic:10 -->
 
-- [Impressão Formatada](wiki/impressao_formatada.md)
 - [ ] [L0 - @tres - soma de inteiros](base/tres/Readme.md)
 - [ ] [L0 - @resto - resultado e resto na divisão](base/resto/Readme.md)
 - [ ] [L0 - @media de dois inteiros](base/media/Readme.md)
@@ -47,27 +50,31 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [L2 - @pintando a casa](base/pintando/Readme.md)
 - [ ] [L3 - @bala - distância entre dois pontos](base/bala/Readme.md)
 
-### Base - Seleção<!-- @main_sel +sel:10 -->
+### Base - Seleção I<!-- @main_sel +sel:10 -->
 
-- [ ] [Conteúdo](wiki/conteudo_op_selecao.md)
+- [ ] [L0 - @abs - Valor absoluto](base/abs/Readme.md)
+- [ ] [L0 - @max - Maior de dois números](base/max/Readme.md)
 - [ ] [L0 - @ou - É 3 ou 5](base/ou/Readme.md)
 - [ ] [L0 - @positivo - sim ou não](base/positivo/Readme.md)
 - [ ] [L0 - @multiplo de sete](base/multiplo/Readme.md)
 - [ ] [L0 - @nulo - positivo ou negativo](base/nulo/Readme.md)
 - [ ] [L1 - @calculadora Numérica](base/calculadora/Readme.md)
+- [ ] [L1 - @guarda - retornando problemas primeiro](base/guarda/Readme.md)
+- [ ] [L1 - @quantos são iguais](base/quantos/Readme.md)
+- [ ] [L2 - @impar ou par - OBI 2016 - F1P1](base/impar/Readme.md)
+- [ ] [L2 - @arredondar número](base/arredondar/Readme.md)
+- [ ] [L2 - @mumia - criança, jovem, adulto](base/mumia/Readme.md)
+- [ ] [L3 - @meio - A raposa e os esquilos](base/meio/Readme.md)
+- [ ] [L2 - @jokenpo das tartarugas](base/jokenpo/Readme.md)
+
+### Base - Seleção II<!-- @main_sel_ii +sel:15 -->
+
 - [ ] [L2 - @final - será que eu passo?](base/final/Readme.md)
 - [ ] [L2 - @trabalhando - semana e sábado](base/trabalhando/Readme.md)
 - [ ] [L2 - @varetas - critério para triângulos](base/varetas/Readme.md)
 - [ ] [L2 - @bhaskara - usando biblioteca matemática](base/bhaskara/Readme.md)
-- [ ] [L2 - @jokenpo das tartarugas](base/jokenpo/Readme.md)
-- [ ] [L1 - @guarda - retornando problemas primeiro](base/guarda/Readme.md)
-- [ ] [L1 - @quantos são iguais](base/quantos/Readme.md)
-- [ ] [L2 - @impar ou par - OBI 2016 - F1P1](base/impar/Readme.md)
 - [ ] [L2 - @cortada - essa nota presta? - OBI 2019 F1P1](base/cortada/Readme.md)
-- [ ] [L2 - @mumia - criança, jovem, adulto](base/mumia/Readme.md)
 - [ ] [L2 - @monica - A idade do filho mais velho - OBI 2019 - F1PJ](base/monica/Readme.md)
-- [ ] [L3 - @meio - A raposa e os esquilos](base/meio/Readme.md)
-- [ ] [L2 - @arredondar número](base/arredondar/Readme.md)
 - [ ] [L2 - @drone de Entrega - OBI 2017 - Fase 1](base/drone/Readme.md)
 - [ ] [L2 - @teleferico - OBI 2017 - Fase 1](base/teleferico/Readme.md)
 - [ ] [L2 - @goiabas - pegar do pé do vizinho](base/goiabas/Readme.md)
@@ -75,29 +82,42 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [L2 - @game10 - OBI 2017 - Fase 1 - Universitário](base/game10/Readme.md)
 - [ ] [L2 - @salario - Calculando aumento](base/salario/Readme.md)
 
-### Base - Repetição <!-- @main_rep +rep:15 -->
+### Base - Repetição I<!-- @main_rep +rep:10 -->
 
-- [ ] [Conteúdo Repetição](wiki/repeticao.md)
+- [ ] [L0 - @loop_i treino de loop](base/loop_i/Readme.md)
+- [ ] [L0 - @loop_ii - imprimindo em linha](base/loop_ii/Readme.md)
+- [ ] [L0 - @loop_iii - loop decrescente](base/loop_iii/Readme.md)
+- [ ] [L0 - @loop_v - loop com continue e break](base/loop_v/Readme.md)
+- [ ] [L0 - @loop_iv - loop em ambas as direções](base/loop_iv/Readme.md)
+- [ ] [L0 - @pares - Calculando soma](base/pares/Readme.md)
+- [ ] [L0 - @sapatos para 2 e 3](base/sapatos/Readme.md)
 - [ ] [L0 - @filhos - Filhos de Seu David](base/filhos/Readme.md)
-- [ ] [L0 - @dieta - Rubens comendo no Brolio](base/dieta/Readme.md)
 - [ ] [L0 - @ceu - Ingrid quer chegar no céu](base/ceu/Readme.md)
 - [ ] [L0 - @esconde - Diana no esconde-esconde](base/esconde/Readme.md)
-- [ ] [L1 - @dindin - Clenda adora chocolate](base/dindin/Readme.md)
-- [ ] [L1 - @patas - Chico Bento e Cebolinha](base/patas/Readme.md)
+
+### Base - Repetição II<!-- @main_rep_ii +rep:15 -->
+
 - [ ] [L1 - @zigzag - Viunei e a saúde mental](base/zigzag/Readme.md)
 - [ ] [L1 - @colorido - Paulo Victor e seu sapato colorido](base/colorido/Readme.md)
-- [ ] [L1 - @sapatos para 2 e 3](base/sapatos/Readme.md)
-- [ ] [L1 - @pares - Calculando soma](base/pares/Readme.md)
 - [ ] [L2 - @concentracao - Jogo de laço](base/concentracao/Readme.md)
 - [ ] [L2 - @fuga em helicóptero - OBI 2016](base/fuga/Readme.md)
 - [ ] [L2 - @lotado - Ônibus dos alunos](base/lotado/Readme.md)
 - [ ] [L2 - @sapinho 1 no Poço](base/sapinho/Readme.md)
 - [ ] [L2 - @fatores de um número](base/fatores/Readme.md)
 
-### Base - Vetores<!-- @main_vet +vet:20 -->
+### Base - Vetores I<!-- @main_vet +vet:20 -->
 
+- [ ] [L0 - @vet_i - carregando vetor em várias linhas](base/vet_i/Readme.md)
+- [ ] [L0 - @vet_ii - carregando vetor na mesma linha](base/vet_ii/Readme.md)
+- [ ] [L0 - @vet_iii - impressão formatada](base/vet_iii/Readme.md)
 - [ ] [L1 - @apertada - Busca do menor valor](base/apertada/Readme.md)
-- [ ] [L1 - @contar_repetidos Ultron](base/contar_repetidos/Readme.md)
+- [ ] [L0 - @dieta - Rubens comendo no Brolio](base/dieta/Readme.md)
+- [ ] [L1 - @patas - Chico Bento e Cebolinha](base/patas/Readme.md)
+- [ ] [L1 - @dindin - Clenda adora chocolate](base/dindin/Readme.md)
+- [ ] [L1 - @contar_repetidos](base/contar_repetidos/Readme.md)
+
+### Base - Vetores II<!-- @main_vet_ii +vet:20 -->
+
 - [ ] [L2 - @revolta em Portugal](base/revolta/Readme.md)
 - [ ] [L2 - @cartas - Transformando números em letras](base/cartas/Readme.md)
 - [ ] [L2 - @invertendo vetor](base/invertendo/Readme.md)
@@ -108,6 +128,9 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [L3 - @exemplares - Arca quantos exemplares](base/exemplares/Readme.md)
 - [ ] [L3 - @parkour](base/parkour/Readme.md)
 - [ ] [L3 - @medico - Busca por proximidade](base/medico/Readme.md)
+
+## Base - Vetores III<!-- @main_vet_iii +vet:20 -->
+
 - [ ] [L3 - @batraquios - está contido](base/batraquios/Readme.md)
 - [ ] [L3 - @baruel - figurinhas repetidas](base/baruel/Readme.md)
 - [ ] [L3 - @tazos - qual o mais repetido](base/tazos/Readme.md)

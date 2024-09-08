@@ -1,10 +1,6 @@
-# L1 - @contar_repetidos Ultron
+# L1 - @contar_repetidos
 
 ![_](cover.jpg)
-
-## Motivação
-
-Na saga dos Vingadores, o Ultron é um inimigo capaz de fazer cópias de sí mesmo. João é um grande fã da Saga e possui um enorme poster que contém diversas copias do Ultron junto aos heróis. João gostaria de saber quantos Ultrons estão presentes no poster.
 
 ## Ação
 

@@ -1,4 +1,4 @@
-# L1 - @contar_repetidos Ultron
+# L1 - @contar_repetidos
 
 - Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/contar_repetidos/Readme.md)
 - Para programar na sua máquina (local/virtual) use:
@@ -8,10 +8,6 @@
 ---
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/contar_repetidos/cover.jpg)
-
-## Motivação
-
-Na saga dos Vingadores, o Ultron é um inimigo capaz de fazer cópias de sí mesmo. João é um grande fã da Saga e possui um enorme poster que contém diversas copias do Ultron junto aos heróis. João gostaria de saber quantos Ultrons estão presentes no poster.
 
 ## Ação
 

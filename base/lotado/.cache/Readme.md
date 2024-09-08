@@ -38,7 +38,7 @@ Você pode assumir:
 ## Entrada
 
 * O inteiro **C** (capacidade).
-* O inteiro**M** (movimentação). Continue lendo até o ônibus partir.
+* O inteiro **M** (movimentação). Continue lendo até o ônibus partir.
 
 ## Saída
 
