@@ -14,12 +14,12 @@ Ela descobriu que tinha o subtexto "amo" 6 vezes  nessa frase.
 
 Ajude Amora e faça um programa que recebe duas entradas, uma por linha, na primeira linha contento o texto completo e a segunda o trecho. Conte e escreva quantas vezes aparece o subtexto no texto maior.
 
-## Entrada
+### Entrada
 
 * Uma frase (máximo de 100 caracteres)
 * Um trecho da frase (máximo de 20 caracteres)
 
-## Saída
+### Saída
 
 * O número de ocorrências do trecho da frase.  
 
@@ -32,7 +32,9 @@ amo
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT
 o rato ratificou o carate que rateamos no cerato.
 rat

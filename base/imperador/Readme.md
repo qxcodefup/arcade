@@ -29,7 +29,7 @@ Regras do cálculo:
 
 Some todos os G's e C's e determine quem é o vencedor.
 
-## Entrada
+### Entrada
 
 - 1a linha: Número de linhas e colunas da matriz
 - linhas seguintes, o conteúdo da matriz com três caracteres apenas
@@ -54,7 +54,9 @@ C G G
 #OUTPUT
 Condenados a morte
 #END
+```
 
+```py
 #INPUT
 3
 G G C
@@ -63,7 +65,9 @@ G C C
 #OUTPUT
 Condenados a morte
 #END
+```
 
+```py
 #INPUT
 3
 C C G

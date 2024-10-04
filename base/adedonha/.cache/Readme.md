@@ -46,11 +46,11 @@ Três irmãos da Califórnia (um distrito da cidade de Quixadá) estavam debaixo
 
 Leia a soma dos dedos dos três irmãos e diga qual a letra L que será utilizada no jogo.
 
-## Entrada
+### Entrada
 
 - Um inteiro representando a soma dos dedos dos 3 irmãos
 
-## Saída
+### Saída
 
 - A letra correspondente ou "Joguem de novo" se ninguém colocou nenhum dedo.
 
@@ -66,25 +66,33 @@ Leia a soma dos dedos dos três irmãos e diga qual a letra L que será utilizad
 #OUTPUT
 joguem de novo
 #END
+```
 
+```py
 #INPUT
 1
 #OUTPUT
 a
 #END
+```
 
+```py
 #INPUT
 2
 #OUTPUT
 b
 #END
+```
 
+```py
 #INPUT
 26
 #OUTPUT
 z
 #END
+```
 
+```py
 #INPUT
 27
 #OUTPUT

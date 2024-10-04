@@ -5,7 +5,7 @@
 
 ![Imagem meteriologica](cover.jpg)
 
-### Ação
+## Ação
 
 Você deve escrever um programa que recebe três números inteiros e retorna a soma desses três números.
 
@@ -17,7 +17,7 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 - A saída deve conter um único valor: a soma dos três números inteiros, seguido por uma quebra de linha.
 
 
-### Shell
+## Testes
 
 ```
 #INPUT
@@ -27,7 +27,9 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 #OUTPUT
 9
 #END
+```
 
+```py
 #INPUT
 12
 17
@@ -35,7 +37,9 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 #OUTPUT
 53
 #END
+```
 
+```py
 #INPUT
 -10
 -4

@@ -4,7 +4,7 @@
 
 Faça uma função que receba um vetor e retorne e mmc dos números.
 
-## Entrada
+### Entrada
 
 * Um número N (N < 50) seguindo de N números inteiros.
 
@@ -26,7 +26,9 @@ Faça uma função que receba um vetor e retorne e mmc dos números.
 #OUTPUT
 20
 #END
+```
 
+```py
 #INPUT
 4 4 8 10 15
 #OUTPUT

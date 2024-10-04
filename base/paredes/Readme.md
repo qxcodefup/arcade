@@ -8,7 +8,7 @@ Um engenheiro chamado Aluízio constrói algumas paredes de várias alturas em l
 
 Aluízio só pode ver paredes quando estão atrás se elas são maiores que as que estão na frente.
 
-## Entrada
+### Entrada
 
 A primeira linha de cada caso de teste contém N denotando o número real de paredes.
 
@@ -27,14 +27,18 @@ Imprima um único inteiro denotando o número total de paredes contadas por Bob
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT
 4
 1 2 3 5 
 #OUTPUT
 4
 #END
+```
 
+```py
 #INPUT
 4
 5 5 2 1

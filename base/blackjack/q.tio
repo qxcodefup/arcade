@@ -5,7 +5,9 @@
 #OUTPUT
 21
 #END
+```
 
+```py
 #INPUT
 2
 11
@@ -13,7 +15,9 @@
 #OUTPUT
 20
 #END
+```
 
+```py
 #INPUT
 3
 1
@@ -22,7 +26,9 @@
 #OUTPUT
 13
 #END
+```
 
+```py
 #INPUT
 5
 1
@@ -33,7 +39,9 @@
 #OUTPUT
 17
 #END
+```
 
+```py
 #INPUT
 5
 1
@@ -44,14 +52,18 @@
 #OUTPUT
 24
 #END
+```
 
+```py
 #INPUT 06
 1
 1
 #OUTPUT
 11
 #END
+```
 
+```py
 #INPUT 07
 4
 1
@@ -61,7 +73,9 @@
 #OUTPUT
 15
 #END
+```
 
+```py
 #INPUT 09
 3
 11

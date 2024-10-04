@@ -12,7 +12,9 @@ lotado
 lotado
 hora de partir
 #END
+```
 
+```py
 #INPUT
 10
 10
@@ -23,7 +25,9 @@ lotado
 vazio
 hora de partir
 #END
+```
 
+```py
 #INPUT
 3
 1

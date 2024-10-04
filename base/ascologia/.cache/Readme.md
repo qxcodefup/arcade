@@ -14,7 +14,7 @@ Ele não acreditando nisso, criou sua própria ciência, a ascologia. Na ascolog
 
 Receba um nome como entrada e some todos os caracteres. Imprima o resto da soma por 50.
 
-## Entrada
+### Entrada
 
 - Um nome.  
 
@@ -36,25 +36,33 @@ Scya
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT 03
 Ana
 #OUTPUT
 22
 #END
+```
 
+```py
 #INPUT 04
 BruNa
 #OUTPUT
 22
 #END
+```
 
+```py
 #INPUT 05
 Marcos
 #OUTPUT
 13
 #END
+```
 
+```py
 #INPUT 06
 andre
 #OUTPUT
@@ -68,7 +76,9 @@ CumpadreWashington
 #OUTPUT
 25
 #END
+```
 
+```py
 #INPUT
 Fernando
 #OUTPUT

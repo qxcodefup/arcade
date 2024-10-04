@@ -5,14 +5,18 @@
 .3.3.
 3.3.3
 #END
+```
 
+```py
 #INPUT
 2
 #OUTPUT
 .2.
 2.2
 #END
+```
 
+```py
 #INPUT
 4
 #OUTPUT
@@ -21,13 +25,17 @@
 .4.4.4.
 4.4.4.4
 #END
+```
 
+```py
 #INPUT 04
 1
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 05
 5
 #OUTPUT

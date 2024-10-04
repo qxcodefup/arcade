@@ -3,19 +3,25 @@ a  almofada ta muito  fofa
 #OUTPUT
 a almofada ta muito fofa
 #END
+```
 
+```py
 #INPUT
 ai  bb cx
 #OUTPUT
 ai bb cx
 #END
+```
 
+```py
 #INPUT
 aiu  bbk cxmp
 #OUTPUT
 aiu bbk cxmp
 #END
+```
 
+```py
 #INPUT
 a  bola  ta furada
 #OUTPUT

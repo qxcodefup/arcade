@@ -17,7 +17,9 @@
 #OUTPUT
 4 5
 #END
+```
 
+```py
 #INPUT
 3 L
 5 5
@@ -28,7 +30,9 @@
 5 5
 6 5
 #END
+```
 
+```py
 #INPUT
 4 U
 5 5
@@ -41,21 +45,27 @@
 6 5
 6 6
 #END
+```
 
+```py
 #INPUT
 1 R
 5 5
 #OUTPUT
 6 5
 #END
+```
 
+```py
 #INPUT
 1 D
 5 5
 #OUTPUT
 5 6
 #END
+```
 
+```py
 #INPUT
 1 U
 5 5

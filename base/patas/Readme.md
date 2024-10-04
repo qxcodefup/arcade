@@ -4,7 +4,7 @@ Chico Bento fez uma aposta com o Cebolinha para ver quem conseguia estimar melho
 
 Leia os animais e some as patas de todos eles.
 
-## Entrada e Saída
+### Entrada e Saída
 
 - Entrada
   - 1a linha: chute do Chico Bento
@@ -20,7 +20,7 @@ Leia os animais e some as patas de todos eles.
 
 ## Testes
 
-```txt
+```py
 #INPUT um animal
 4
 4
@@ -30,7 +30,9 @@ c
 4
 empate
 #END
+```
 
+```py
 #INPUT
 7
 8
@@ -41,7 +43,9 @@ c
 6
 Chico Bento
 #END
+```
 
+```py
 #INPUT
 15
 15
@@ -55,7 +59,9 @@ g
 16
 empate
 #END
+```
 
+```py
 #INPUT
 15
 17
@@ -69,7 +75,9 @@ g
 16
 empate
 #END
+```
 
+```py
 #INPUT
 17
 15
@@ -83,7 +91,9 @@ g
 16
 empate
 #END
+```
 
+```py
 #INPUT
 18
 15
@@ -97,7 +107,9 @@ g
 16
 Cebolinha
 #END
+```
 
+```py
 #INPUT
 15
 18

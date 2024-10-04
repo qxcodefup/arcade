@@ -16,7 +16,7 @@ A saída para esse vetor deve ser "4 2 0 1 3"
 
 NOTA: A indexação da vetor começa com 0.
 
-## Entrada
+### Entrada
 
 A primeira linha de entrada consiste no tamanho da vetor A. A próxima linha consiste no vetor de tamanho n.
 
@@ -33,13 +33,13 @@ representando os índices originais de cada elemento no vetor ordenado entre [ ]
 
 Exemplo de Entrada
 
-```txt
+```py
 5
 4 5 3 7 1
 ```
 
 Exemplo de Saída
 
-```txt
+```py
 [ 4 2 0 1 3 ]
 ```

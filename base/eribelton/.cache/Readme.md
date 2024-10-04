@@ -6,7 +6,7 @@
 
 Diferente da versão 2 em que você ou encontrava um nome perfeito ou digitava estou sem sorte, use a mesma regra de apenas colocar um caractere minúsculo para procurar o melhor valor, mesmo que não seja zero. Se adicionando um caractere não melhorar o valor, deixe sem o caractere adicional.
 
-## Entrada
+### Entrada
 
 * Uma palavra(max 50 char) com apenas minusculos e maiúsculos sem espaços.
 
@@ -26,7 +26,9 @@ e
 ec
 0
 #END
+```
 
+```py
 #INPUT
 d
 #OUTPUT
@@ -34,7 +36,9 @@ d
 d
 0
 #END
+```
 
+```py
 #INPUT
 Aga
 #OUTPUT
@@ -42,7 +46,9 @@ Aga
 Agaa
 12
 #END
+```
 
+```py
 #INPUT
 Rufus
 #OUTPUT
@@ -50,7 +56,9 @@ Rufus
 Rufusu
 0
 #END
+```
 
+```py
 #INPUT
 Ariates
 #OUTPUT

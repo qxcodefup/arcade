@@ -19,7 +19,7 @@ Implemente um programa que leia dois números inteiros e imprima o valor absolut
 
 - Dois números inteiros, separados por espaço.
 
-### Saída
+#### Saída
 
 - Valor absoluto da diferença entre dois números
 
@@ -27,28 +27,34 @@ Implemente um programa que leia dois números inteiros e imprima o valor absolut
 
 Crie sua própria função para calcular o valor absoluto de um número.
 
-### Shell
+## Testes
 
-```python
+```py
 
 #INPUT
 1 5
 #OUTPUT
 4
 #END
+```
 
+```py
 #INPUT
 5 1
 #OUTPUT
 4
 #END
+```
 
+```py
 #INPUT
 -5 1
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 1 -5
 #OUTPUT

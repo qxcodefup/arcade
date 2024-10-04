@@ -21,7 +21,7 @@ Por exemplo: 026897 quer dizer : aluno 02, notas 6, 8, 9 e 7.
 
 Faça um programa para imprimir o id do aluno com a maior nota.
 
-## Entrada
+### Entrada
 
 * 1a linha: A quantidade de elementos no vetor(1 a 50).
 * 2a linha: O vetor com os ids e notas dos alunos.
@@ -39,14 +39,18 @@ Faça um programa para imprimir o id do aluno com a maior nota.
 #OUTPUT
 03
 #END
+```
 
+```py
 #INPUT
 2
 014444 024444
 #OUTPUT
 02
 #END
+```
 
+```py
 #INPUT
 6
 028888 047989 059999 072213 199989 019999

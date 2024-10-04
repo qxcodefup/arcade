@@ -12,7 +12,7 @@ A diagonal principal de uma matriz **A** é a coleção das entradas **A** i,j e
 
 Em uma matriz de elementos inteiros 5x5, some todos os elementos da diagonal principal e subtraia da soma dos elementos da diagonal secundária.
 
-## Entrada
+### Entrada
 
 * Os valores da matriz.
 
@@ -32,7 +32,9 @@ Em uma matriz de elementos inteiros 5x5, some todos os elementos da diagonal pri
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 1 1 0 0 1
 1 1 1 0 0
@@ -42,7 +44,9 @@ Em uma matriz de elementos inteiros 5x5, some todos os elementos da diagonal pri
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 2 4 6 3 9
 8 7 5 4 1

@@ -4,224 +4,288 @@
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 70
 90
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 130
 138
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 3
 3
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 1
 1
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 54
 54
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 159
 159
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 17
 17
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 14
 14
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 101
 101
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 111
 111
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 79
 79
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 80
 80
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 99
 99
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 89
 89
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 75
 52
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 112
 124
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 157
 31
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 108
 4
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 67
 69
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 148
 75
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 50
 150
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 59
 101
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 113
 115
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 46
 61
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 16
 28
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 83
 16
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 151
 140
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 11
 56
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 139
 75
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 35
 76
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 1
 159
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 159
 1

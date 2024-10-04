@@ -8,7 +8,7 @@ A divisão de Suprimentos de Botas e Calçados do Exército comprou um grande n�
 
 Quando o sargento descobriu que você sabia programar, ele solicitou com a gentileza habitual que você escrevesse um programa que, dada a lista contendo a descrição de cada bota entregue, determina quantos pares corretos de botas poderão ser formados no total.
 
-## Entrada
+### Entrada
 
 - A primeira linha da entrada contém um inteiro N indicando o número de botas individuais entregues. Cada uma das N linhas seguintes descreve uma bota, contendo um número inteiro M e uma letra L, separados por um espaço em branco. M indica o número do tamanho da bota e L indica o pé da bota: L= 'D' indica que a bota é para o pé direito, L= 'E' indica que a bota é para o pé esquerdo.
 
@@ -35,7 +35,9 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 6
 38 E

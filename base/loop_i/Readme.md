@@ -6,7 +6,7 @@ O número A sempre será menor ou igual ao número B.
 
 ## Testes
 
-```txt
+```py
 
 #INPUT
 1
@@ -22,7 +22,9 @@ O número A sempre será menor ou igual ao número B.
 8
 9
 #END
+```
 
+```py
 #INPUT
 10
 14
@@ -32,7 +34,9 @@ O número A sempre será menor ou igual ao número B.
 12
 13
 #END
+```
 
+```py
 #INPUT
 -5
 0

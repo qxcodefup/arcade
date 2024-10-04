@@ -6,7 +6,9 @@
 #OUTPUT
 Personagem 1
 #END
+```
 
+```py
 #INPUT
 100
 20
@@ -15,7 +17,9 @@ Personagem 1
 #OUTPUT
 Personagem 1
 #END
+```
 
+```py
 #INPUT
 100
 20
@@ -24,7 +28,9 @@ Personagem 1
 #OUTPUT
 Personagem 2
 #END
+```
 
+```py
 #INPUT
 100
 100

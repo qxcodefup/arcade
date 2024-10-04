@@ -14,7 +14,7 @@ Faça um programa que receba as notas das três provas e do trabalho e calcule a
 
 A ordem da entrada é importante nessa questão. As três primeira entradas são as notas da prova.  
 
-## Entrada
+### Entrada
 
 - Três notas de prova como float e uma nota de trabalho, um por linha.
 
@@ -33,7 +33,9 @@ A ordem da entrada é importante nessa questão. As três primeira entradas são
 #OUTPUT
 Aprovado com 10.0
 #END
+```
 
+```py
 #INPUT
 10
 2

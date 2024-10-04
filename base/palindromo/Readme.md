@@ -8,7 +8,7 @@ Números palíndromos são números que tem a mesma leitura nos dois sentidos.
 
 ### Exemplo
 
-```txt
+```py
 9,11,121,252,25452,11411.
 ```
 
@@ -18,7 +18,7 @@ Pedrinho quer saber qual o maior palíndromo formado pelo produto de 2 números 
 
 Dado dois inteiros N e M, retornar os M maiores palíndromos formados pelo produto de dois números de N dígitos.
 
-## Entrada
+### Entrada
 
 2 Inteiros N, M.
 
@@ -36,7 +36,9 @@ Os M maiores palíndromos formados pelo produto de dois números cuja quantidade
 8448
 8118
 #END
+```
 
+```py
 #INPUT
 2 5
 #OUTPUT
@@ -46,7 +48,9 @@ Os M maiores palíndromos formados pelo produto de dois números cuja quantidade
 8008
 7227
 #END
+```
 
+```py
 #INPUT
 3 5
 #OUTPUT
@@ -56,7 +60,9 @@ Os M maiores palíndromos formados pelo produto de dois números cuja quantidade
 861168
 855558
 #END
+```
 
+```py
 #INPUT
 4 5
 #OUTPUT

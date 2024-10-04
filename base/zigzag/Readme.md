@@ -14,7 +14,7 @@ Existem muitas variações de jogos de atenção para jogar em grupo. Um famoso 
 - Se o número for divisível por 5, deve-se dizer zag ao invés do número.
 - Se for divisível por 3 e por 5, deve-se dizer zigzag ao invés do número.
 
-## Entrada e saída
+### Entrada e saída
 
 - Entrada
   - 1a linha: início da sequência
@@ -24,7 +24,7 @@ Existem muitas variações de jogos de atenção para jogar em grupo. Um famoso 
 
 ## Testes
 
-```txt
+```py
 #INPUT
 1
 16
@@ -46,7 +46,9 @@ zig
 zigzag
 16
 #END
+```
 
+```py
 #INPUT
 25
 35

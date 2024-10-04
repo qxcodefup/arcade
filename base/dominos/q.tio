@@ -4,49 +4,63 @@
 #OUTPUT
 ok
 #END
+```
 
+```py
 #INPUT
 6
 2 4 2 6 8 10
 #OUTPUT
 precisa de ajuste
 #END
+```
 
+```py
 #INPUT
 1
 2
 #OUTPUT
 ok
 #END
+```
 
+```py
 #INPUT 04
 4
 1 1 2 3
 #OUTPUT
 ok
 #END
+```
 
+```py
 #INPUT 05
 5
 1 2 6 8 3
 #OUTPUT
 precisa de ajuste
 #END
+```
 
+```py
 #INPUT 06
 1
 500
 #OUTPUT
 ok
 #END
+```
 
+```py
 #INPUT 07
 8
 1 2 6 12 45 54 99 100
 #OUTPUT
 ok
 #END
+```
 
+```py
 #INPUT 08
 4
 2 3 4 1

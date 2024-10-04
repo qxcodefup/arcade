@@ -6,7 +6,7 @@
 
 Faça uma função que calcule e retorne o mmc de dois números.  
 
-## Entrada
+### Entrada
 
 * Dois numeros inteiros N e M.
 
@@ -22,13 +22,17 @@ Faça uma função que calcule e retorne o mmc de dois números.
 #OUTPUT
 18
 #END
+```
 
+```py
 #INPUT
 3 4
 #OUTPUT
 12
 #END
+```
 
+```py
 #INPUT
 3 6
 #OUTPUT

@@ -6,7 +6,7 @@
 
 Dada uma frase (max 100 char) com palavras (letras minusculas), números e espaço, divida os elementos em n frases usando os tokens ' # ' e ' ; ' como referência de fim para aquela frase.
 
-## Entrada
+### Entrada
 
 * Uma frase (max 100 char) com palavras (letras minusculas), números e espaços que podem ser separados por tokens.
 
@@ -24,7 +24,9 @@ mamae me ama
 15
 1.76
 #END
+```
 
+```py
 #INPUT
 aa 4#1 -f; -2.0;
 #OUTPUT
@@ -32,7 +34,9 @@ aa 4
 1 -f
  -2.0
 #END
+```
 
+```py
 #INPUT
 coca zero;1.75#8;U;
 #OUTPUT

@@ -4,21 +4,27 @@ lema
 #OUTPUT
 a
 #END
+```
 
+```py
 #INPUT
 pegasus
 suspiro
 #OUTPUT
 pegapiro
 #END
+```
 
+```py
 #INPUT
 olho
 ohio
 #OUTPUT
 olio
 #END
+```
 
+```py
 #INPUT
 minhoca
 arvore

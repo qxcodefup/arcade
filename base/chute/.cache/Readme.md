@@ -10,13 +10,13 @@ O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o 
 
 Se ambos ficarem à mesma distancia do valor real, então houve empate.
 
-## Entrada
+### Entrada
 
 * linha 1: o valor do produto.(valor inteiro entre 1 e 100)
 * linha 2: o chute do Primeiro
 * linha 3: o chute de Segundo
 
-## Saída
+### Saída
 
 * "primeiro" se o chute do Primeiro for o mais próximo do valor do produto
 * "segundo" se o chute do Segundo for o mais próximo do valor do produto
@@ -32,7 +32,9 @@ Se ambos ficarem à mesma distancia do valor real, então houve empate.
 #OUTPUT
 primeiro
 #END
+```
 
+```py
 #INPUT
 3
 5
@@ -40,7 +42,9 @@ primeiro
 #OUTPUT
 segundo
 #END
+```
 
+```py
 #INPUT
 10
 11
@@ -48,7 +52,9 @@ segundo
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT
 20
 21
@@ -56,7 +62,9 @@ empate
 #OUTPUT
 primeiro
 #END
+```
 
+```py
 #INPUT
 20
 21
@@ -93,7 +101,7 @@ abs(-3) //retorna 3
 
 Em **Python**:
 
-```python
+```py
 #python
 abs(-3) #retorna 3
 ```

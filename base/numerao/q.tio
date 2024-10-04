@@ -3,43 +3,57 @@
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 110
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 123
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT 04
 1
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT 05
 121
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT 06
 120
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT 07
 12100000000
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT 08
 12109020000
 #OUTPUT

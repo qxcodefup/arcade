@@ -8,7 +8,7 @@ Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos e
 
 \[DS\]
 
-## Entrada
+### Entrada
 
 - Linha 1: um número positivo com a quantidade de elementos do vetor (1 a 50), ordenado.
 - Linha 2: o vetor de inteiros.
@@ -26,49 +26,63 @@ Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos e
 #OUTPUT
 [ 1 ]
 #END
+```
 
+```py
 #INPUT
 2
 1 2
 #OUTPUT
 [ 1 2 ]
 #END
+```
 
+```py
 #INPUT
 4
 2 2 5 5
 #OUTPUT
 [ 2 5 ]
 #END
+```
 
+```py
 #INPUT
 5
 1 1 3 3 3
 #OUTPUT
 [ 3 ]
 #END
+```
 
+```py
 #INPUT
 9
 2 2 3 5 5 5 7 7 7
 #OUTPUT
 [ 5 7 ]
 #END
+```
 
+```py
 #INPUT
 12
 2 2 3 5 5 5 7 7 7 9 9 9
 #OUTPUT
 [ 5 7 9 ]
 #END
+```
 
+```py
 #INPUT
 13
 2 2 3 5 5 5 7 7 7 9 9 9 9
 #OUTPUT
 [ 9 ]
 #END
+```
 
+```py
 #INPUT
 5
 2 3 5 8 9

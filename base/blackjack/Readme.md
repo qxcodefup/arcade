@@ -10,7 +10,7 @@ Se a soma de pontos for maior que 21, o Ás passa a valer 1 ponto, diminuindo a 
   
 No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e K.  
 
-## Entrada
+### Entrada
 
 - A entrada começa informando a quantidade de elementos do vetor e é seguida pelos valores inteiros um por linha.
 
@@ -28,7 +28,9 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 #OUTPUT
 21
 #END
+```
 
+```py
 #INPUT
 2
 11
@@ -36,7 +38,9 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 #OUTPUT
 20
 #END
+```
 
+```py
 #INPUT
 3
 1
@@ -45,7 +49,9 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 #OUTPUT
 13
 #END
+```
 
+```py
 #INPUT
 5
 1
@@ -56,7 +62,9 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 #OUTPUT
 17
 #END
+```
 
+```py
 #INPUT
 5
 1

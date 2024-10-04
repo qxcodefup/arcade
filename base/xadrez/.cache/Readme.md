@@ -21,21 +21,27 @@ No tabuleiro de xadrez, a casa na linha 1, coluna 1 (canto superior esquerdo) é
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 8
 8
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 5
 91
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 401
 322

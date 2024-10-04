@@ -16,7 +16,7 @@ Some todos os números inteiros pares que estão entre A e B, inclusive A e B.
 
 Descubra em [LINK](http://www.profcardy.com/cardicas/tirateima.php?id=1).
 
-## Entrada
+### Entrada
 
 * Dois números inteiros A e B, sendo B maior ou igual à A.
 
@@ -33,21 +33,27 @@ Descubra em [LINK](http://www.profcardy.com/cardicas/tirateima.php?id=1).
 #OUTPUT
 30
 #END
+```
 
+```py
 #INPUT
 1
 5
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 5
 1
 #OUTPUT
 invalido
 #END
+```
 
+```py
 #INPUT
 6
 6

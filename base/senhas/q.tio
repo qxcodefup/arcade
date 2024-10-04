@@ -14,7 +14,9 @@
 0019
 0070
 #END
+```
 
+```py
 #INPUT misturado
 3 7
 #!1Ap
@@ -28,7 +30,9 @@
 !!p
 !1#
 #END
+```
 
+```py
 #INPUT numerico invertido
 4 10
 0982
@@ -45,7 +49,9 @@
 0080
 0089
 #END
+```
 
+```py
 #INPUT 04 muitos
 6 50
 Zou29@#

@@ -8,13 +8,13 @@ Por exemplo, se sabemos que dona Mônica tem 52 anos e as idades conhecidas de d
 
 Em mais um exemplo, se dona Mônica tem 47 anos e as idades de dois dos filhos são 21 e 9 anos, então o outro filho tem que ter 17 anos e, portanto, a idade do filho mais velho é 21.
 
-## Entrada
+### Entrada
 
 - A primeira linha da entrada contém um inteiro M representando a idade de dona Mônica.  
 - A segunda linha da entrada contém um inteiro A representando a idade de um dos filhos.
 - A terceira linha da entrada contém um inteiro B representando a idade de outro filho.
 
-## Saída
+### Saída
 
 - Seu programa deve imprimir uma linha, contendo um número inteiro, representando a idade do filho mais velho de dona Mônica.
 
@@ -35,7 +35,9 @@ Restrições:
 #OUTPUT
 20
 #END
+```
 
+```py
 #INPUT
 47
 21
@@ -64,7 +66,7 @@ maior = C > maior ? C : maior; //pega o maior de maior e C
 
 Em python teríamos assim:
 
-```python
+```py
 # deixe 5, se 5 for maior que 4, senão deixe 4
 int x = 5 if 5 > 4 else 4
 

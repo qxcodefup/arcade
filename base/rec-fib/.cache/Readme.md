@@ -6,7 +6,7 @@
 
 Os números de Fibonacci são definidos recursivamente de acordo com a expressão abaixo:
 
-```txt
+```py
 se n=1 ou n=2, então fib(n) = 1
 se n >= 3, então fib(n) = fib(n-1) + fib(n-2).
 
@@ -44,19 +44,25 @@ int main(){
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 02
 2
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 03
 3
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT 04
 4
 #OUTPUT

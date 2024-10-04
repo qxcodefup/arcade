@@ -6,7 +6,7 @@ Ela sempre fica triste quando chega lá e não tem mais chocolate. A intuição 
 
 Pensando nisso, ela resolveu anotar qual dindin foi vindido e o turno da venda para calcular qual o dindin mais vendido e o horário mais vago pra comprar.
 
-## Entrada e Saída
+### Entrada e Saída
 
 - Entrada
   - 1a linha: qtd de dindins vendidos
@@ -24,7 +24,7 @@ Pensando nisso, ela resolveu anotar qual dindin foi vindido e o turno da venda p
   - `m` para o horário da manhã
   - `t` para o horário depois do almoço
 
-```txt
+```py
 
 #INPUT
 1
@@ -33,7 +33,9 @@ c m
 c
 t
 #END
+```
 
+```py
 #INPUT
 2
 c m
@@ -42,7 +44,9 @@ l t
 empate
 empate
 #END
+```
 
+```py
 #INPUT
 2
 c m
@@ -51,7 +55,9 @@ c t
 c
 empate
 #END
+```
 
+```py
 #INPUT
 2
 l m
@@ -60,7 +66,9 @@ l t
 l
 empate
 #END
+```
 
+```py
 #INPUT
 2
 c t
@@ -69,7 +77,9 @@ l t
 empate
 m
 #END
+```
 
+```py
 #INPUT
 2
 c m
@@ -78,7 +88,9 @@ l m
 empate
 t
 #END
+```
 
+```py
 #INPUT
 3
 c m
@@ -88,7 +100,9 @@ l m
 c
 t
 #END
+```
 
+```py
 #INPUT
 5
 c m

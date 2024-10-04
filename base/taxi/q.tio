@@ -3,115 +3,153 @@
 #OUTPUT
 G
 #END
+```
 
+```py
 #INPUT 02
 10.00 0.01 10.01 0.01
 #OUTPUT
 A
 #END
+```
 
+```py
 #INPUT 03
 2.15 3.17 19.34 18.22
 #OUTPUT
 A
 #END
+```
 
+```py
 #INPUT 04
 3.90 3.80 19.01 19.99
 #OUTPUT
 G
 #END
+```
 
+```py
 #INPUT 05
 4.15 3.17 16.64 19.22
 #OUTPUT
 G
 #END
+```
 
+```py
 #INPUT 06
 1.15 3.02 9.02 8.92
 #OUTPUT
 A
 #END
+```
 
+```py
 #INPUT 07
 9.15 9.17 9.43 8.76
 #OUTPUT
 A
 #END
+```
 
+```py
 #INPUT 08
 9.15 9.76 1.37 1.44
 #OUTPUT
 A
 #END
+```
 
+```py
 #INPUT 09
 9.85 8.71 1.76 1.94
 #OUTPUT
 G
 #END
+```
 
+```py
 #INPUT 10
 3.77 3.61 10.43 11.88
 #OUTPUT
 G
 #END
+```
 
+```py
 #INPUT 11
 0.30 0.31 19.02 19.99
 #OUTPUT
 G
 #END
+```
 
+```py
 #INPUT 12
 1.20 2.30 10.00 16.00
 #OUTPUT
 A
 #END
+```
 
+```py
 #INPUT 13
 1.37 1.76 1.76 1.35
 #OUTPUT
 A
 #END
+```
 
+```py
 #INPUT 14
 1.00 1.00 2.00 2.00
 #OUTPUT
 G
 #END
+```
 
+```py
 #INPUT 15
 0.01 0.01 20.00 20.00
 #OUTPUT
 G
 #END
+```
 
+```py
 #INPUT 16
 0.02 0.01 20.00 20.00
 #OUTPUT
 G
 #END
+```
 
+```py
 #INPUT 17
 0.01 0.02 20.00 20.00
 #OUTPUT
 A
 #END
+```
 
+```py
 #INPUT 18
 10.00 0.01 20.00 20.00
 #OUTPUT
 G
 #END
+```
 
+```py
 #INPUT 19
 0.01 10.00 20.00 20.00
 #OUTPUT
 A
 #END
+```
 
+```py
 #INPUT 20
 10.00 0.01 10.00 0.01
 #OUTPUT

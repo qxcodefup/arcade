@@ -6,7 +6,7 @@
 
 Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e imprima no formato hh:mm dd/mm/aa. Você deve certificar-se de imprimir um 0 à esquerda para garantir que todas as informações tenham 2 dígitos.
 
-## Entrada
+### Entrada
 
 - hora, minuto, dia, mês e ano, um por linha.
 
@@ -26,7 +26,9 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 #OUTPUT
 04:12 12/03/88
 #END
+```
 
+```py
 #INPUT
 12
 30
@@ -36,7 +38,9 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 #OUTPUT
 12:30 01/03/88
 #END
+```
 
+```py
 #INPUT
 14
 7
@@ -46,7 +50,9 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 #OUTPUT
 14:07 07/09/05
 #END
+```
 
+```py
 #INPUT
 23
 1

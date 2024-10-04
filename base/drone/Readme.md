@@ -10,7 +10,7 @@ O drone entregará uma caixa de cada vez, e colocará a caixa diretamente dentro
 
 O aplicativo de controle do drone está quase pronto, mas falta um pequeno detalhe: um programa que, dadas as dimensões da maior janela do cliente e as dimensões da caixa que deve ser entregue, determine se o drone vai ser capaz de entregar a compra (pela janela) ou se a compra terá que ser entregue por meios normais.
 
-## Entrada
+### Entrada
 
 - A entrada é composta por cinco linhas, cada uma contendo um número inteiro. A três primeiras linhas contêm os valores A, B, C, indicando as três dimensões da caixa, em centímetros. As duas últimas linhas contêm os valores H e L, indicando a altura e a largura da janela, em centímetros.
 
@@ -35,7 +35,9 @@ O aplicativo de controle do drone está quase pronto, mas falta um pequeno detal
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT
 75
 100
@@ -45,7 +47,9 @@ S
 #OUTPUT
 N
 #END
+```
 
+```py
 #INPUT
 20
 22

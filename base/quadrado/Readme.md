@@ -10,7 +10,7 @@ Dizemos que uma matriz quadrada inteira é um quadrado mágico se a soma dos ele
 
 Diga se a uma matriz de elementos inteiros 3x3 dada como entrada é quadrado mágico ou não.  
   
-## Entrada
+### Entrada
 
 * A matriz 3x3
 
@@ -28,7 +28,9 @@ Diga se a uma matriz de elementos inteiros 3x3 dada como entrada é quadrado má
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT
 2 7 6
 9 5 1
@@ -36,7 +38,9 @@ nao
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 8 1 6
 3 5 7

@@ -19,7 +19,7 @@ Pergunta:
 
 Faça um código que retire os espaços duplicados que existem entre duas palavras.
 
-## Entrada
+### Entrada
 
 * Um texto(até 200 chars) com duas palavras e vários espaços entre elas.
 
@@ -35,19 +35,25 @@ galinha          pintadinha
 #OUTPUT
 galinha pintadinha
 #END
+```
 
+```py
 #INPUT
 a    almofada
 #OUTPUT
 a almofada
 #END
+```
 
+```py
 #INPUT
 comi    sorvete
 #OUTPUT
 comi sorvete
 #END
+```
 
+```py
 #INPUT
 meteoro        pegasus
 #OUTPUT

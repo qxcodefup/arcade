@@ -21,7 +21,9 @@ Crie um programa que leia do usuário dois números inteiros e calcule o valor d
 #OUTPUT
 7 3 2.5 10
 #END
+```
 
+```py
 #INPUT
 5  
 5

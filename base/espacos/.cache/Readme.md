@@ -21,7 +21,7 @@ pra não entregar a lição de casa.
 
 Faça um código que retire os espaços duplicados no meio da frase.
 
-## Entrada
+### Entrada
 
 * um texto(até 200 chars) só com minúsculas e espaço.
 
@@ -37,19 +37,25 @@ a  almofada ta muito  fofa
 #OUTPUT
 a almofada ta muito fofa
 #END
+```
 
+```py
 #INPUT
 ai  bb cx
 #OUTPUT
 ai bb cx
 #END
+```
 
+```py
 #INPUT
 aiu  bbk cxmp
 #OUTPUT
 aiu bbk cxmp
 #END
+```
 
+```py
 #INPUT
 a  bola  ta furada
 #OUTPUT

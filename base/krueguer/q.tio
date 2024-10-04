@@ -4,14 +4,18 @@ aeb
 #OUTPUT
 ae
 #END
+```
 
+```py
 #INPUT
 1
 aebeiocdu
 #OUTPUT
 eio
 #END
+```
 
+```py
 #INPUT
 2
 abdeiuofaoi
@@ -20,7 +24,9 @@ xaeioux
 eiuo
 aeiou
 #END
+```
 
+```py
 #INPUT
 3
 aebaibaobaub

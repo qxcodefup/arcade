@@ -16,7 +16,7 @@ Infelizmente, seu chefe pode cometer erros repetidos, e diz “zero” para cada
 
 Para não deixar seu chefe ainda mais nervoso, escreva um programa que determine a soma total dos números falados por seu chefe ao telefone.
 
-## Entrada
+### Entrada
 
 A primeira linha da entrada contém um inteiro N , a quantidade de números inteiros (incluindo os “zeros”) que o seu chefe falou ao telefone. Cada uma das N linhas seguintes contém um número inteiro Xi .
 

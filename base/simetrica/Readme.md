@@ -10,7 +10,7 @@ Joãozinho aprendeu na aula de matemática que uma matriz diz-se simétrica se c
 
 Faça uma função onde verifique se uma matriz 3x3 é simétrica ou não. Tenha como saida a informação "nao" se não for simétrica e "sim caso contrário.
 
-## Entrada
+### Entrada
 
 * Os valores da matriz.
 
@@ -28,7 +28,9 @@ Faça uma função onde verifique se uma matriz 3x3 é simétrica ou não. Tenha
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 3 3 3
 3 3 3
@@ -36,7 +38,9 @@ sim
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 1 2 3
 4 5 6

@@ -3,13 +3,17 @@ O ovomaltine e GOSTOSO
 #OUTPUT
 o OVOMALTINE E gostoso
 #END
+```
 
+```py
 #INPUT
 Paralelepipedarte-ei se NAO me passar a CARTEIRA
 #OUTPUT
 pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
 #END
+```
 
+```py
 #INPUT
 1, Dois, 3 Indiozinhos
 #OUTPUT

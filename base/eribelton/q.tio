@@ -5,7 +5,9 @@ e
 ec
 0
 #END
+```
 
+```py
 #INPUT
 d
 #OUTPUT
@@ -13,7 +15,9 @@ d
 d
 0
 #END
+```
 
+```py
 #INPUT
 Aga
 #OUTPUT
@@ -21,7 +25,9 @@ Aga
 Agaa
 12
 #END
+```
 
+```py
 #INPUT
 Rufus
 #OUTPUT
@@ -29,7 +35,9 @@ Rufus
 Rufusu
 0
 #END
+```
 
+```py
 #INPUT
 Ariates
 #OUTPUT

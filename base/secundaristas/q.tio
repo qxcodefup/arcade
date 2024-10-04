@@ -17,7 +17,9 @@ Hartheobaudo Hidropolino
    Media: 5.73
    N1: 4.70, N2: 4.30, N3: 8.20
 #END
+```
 
+```py
 #INPUT 01
 3
 Alameda do Anjos
@@ -37,7 +39,9 @@ Hartheobaudo Hidropolino
    Media: 5.73
    N1: 4.70, N2: 4.30, N3: 8.20
 #END
+```
 
+```py
 #INPUT 02
 4
 Kimberly
@@ -62,7 +66,9 @@ Heleno Malino
    Media: 6.10
    N1: 4.50, N2: 4.90, N3: 8.90
 #END
+```
 
+```py
 #INPUT 03
 3
 Alameda do Andes
@@ -82,7 +88,9 @@ Hartheobaudo Hidropolino
    Media: 5.73
    N1: 4.70, N2: 4.30, N3: 8.20
 #END
+```
 
+```py
 #INPUT 04
 5
 Kimberly

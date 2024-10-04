@@ -10,7 +10,7 @@ No sábado ele trabalha apenas de 8 até 11.
 
 Faça um código que lê o dia da semana e a hora e informa ao chefe se ainda é para funcionário estar trabalhando!
 
-## Entrada
+### Entrada
 
 - 1a linha: o dia da semana (1 = DOM, 2 = SEG, 3 = TER, 4 = QUA, 5 =QUI, 6 = SEX, 7 = SAB).
 - 2a linha: um inteiro representando hora.
@@ -28,126 +28,162 @@ Faça um código que lê o dia da semana e a hora e informa ao chefe se ainda é
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT
 2
 7
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT
 2
 13
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT
 2
 14
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT
 2
 18
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT
 2
 17
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT
 3
 17
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT
 1
 9
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT
 1
 14
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT
 3
 19
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT sexta 8
 6
 8
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT sexta 11
 6
 11
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT sexta 12
 6
 12
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT sexta as 15
 6
 15
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT sab 7
 7
 7
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT sab 8
 7
 8
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT sab 11
 7
 11
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT sab 12
 7
 12
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT sab as 15
 7
 15

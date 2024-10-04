@@ -12,7 +12,7 @@ Considerando a configuração dos leds dos números abaixo, faça um algoritmo q
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/leds/leds.png)
 
-## Entrada
+### Entrada
 
 * A entrada contém um inteiro **N**, (1 ≤ N ≤ 1000), correspondente ao número de casos de teste, seguido de **N** linhas, cada linha contendo um número (1 ≤ V ≤ 10100) correspondente ao valor que João quer montar com os leds.
 
@@ -37,7 +37,9 @@ Agradecimentos a Cassio F.
 5 leds
 5 leds
 #END
+```
 
+```py
 #INPUT
 3
 11
@@ -48,7 +50,9 @@ Agradecimentos a Cassio F.
 10 leds
 10 leds
 #END
+```
 
+```py
 #INPUT
 3
 115380
@@ -59,7 +63,9 @@ Agradecimentos a Cassio F.
 29 leds
 25 leds
 #END
+```
 
+```py
 #INPUT
 1
 1234567890

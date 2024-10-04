@@ -4,133 +4,171 @@
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 8
 8
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 5
 91
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 401
 322
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 3
 4
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 2
 2
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 2
 3
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 3
 5
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 10
 6
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 5
 10
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 1
 1
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 2
 1
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 1
 2
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 4
 8
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 222
 224
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 210
 210
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 100
 13
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 211
 154
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 204
 202
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 180
 33

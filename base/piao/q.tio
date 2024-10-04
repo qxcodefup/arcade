@@ -5,7 +5,9 @@
 1
 0
 #END
+```
 
+```py
 #INPUT 02
 30 3
 35 32 40
@@ -13,7 +15,9 @@
 nenhum
 2
 #END
+```
 
+```py
 #INPUT 03
 30 3
 35 36 36
@@ -21,7 +25,9 @@ nenhum
 nenhum
 2
 #END
+```
 
+```py
 #INPUT 04
 30 3
 25 26 24
@@ -29,7 +35,9 @@ nenhum
 2
 1
 #END
+```
 
+```py
 #INPUT 01
 30 3
 -35 15 22
@@ -37,7 +45,9 @@ nenhum
 1
 0
 #END
+```
 
+```py
 #INPUT 02
 30 3
 -35 32 40
@@ -45,7 +55,9 @@ nenhum
 nenhum
 2
 #END
+```
 
+```py
 #INPUT 03
 30 3
 -35 -36 36
@@ -53,7 +65,9 @@ nenhum
 nenhum
 2
 #END
+```
 
+```py
 #INPUT 04
 30 3
 -25 -26 24
@@ -61,7 +75,9 @@ nenhum
 2
 1
 #END
+```
 
+```py
 #INPUT 05
 30 4
 -25 -26 24 1
@@ -69,7 +85,9 @@ nenhum
 3
 1
 #END
+```
 
+```py
 #INPUT 06
 30 6
 -25 -26 24 1 20 -2

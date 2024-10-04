@@ -5,7 +5,7 @@
 
 ![Imagem Teorema da Divisão](cover.png)
 
-### Ação
+## Ação
 
 Na cadeira de Matemática Díscreta, o professor irá apresentar o teorema da
 divisão. Ele diz o seguinte:
@@ -31,107 +31,135 @@ quociente e resto da divisão do primeiro pelo segundo número.
 
 - Quociente e resto separados por espaço
 
-### Shell
+## Testes
 
-```txt
+```py
 #INPUT 0
 51
 31
 #OUTPUT
 1 20
 #END
+```
 
+```py
 #INPUT 1
 398
 50
 #OUTPUT
 7 48
 #END
+```
 
+```py
 #INPUT 2
 350
 40
 #OUTPUT
 8 30
 #END
+```
 
+```py
 #INPUT 3
 587
 460
 #OUTPUT
 1 127
 #END
+```
 
+```py
 #INPUT 4
 215
 158
 #OUTPUT
 1 57
 #END
+```
 
+```py
 #INPUT 5
 760
 360
 #OUTPUT
 2 40
 #END
+```
 
+```py
 #INPUT 6
 498
 203
 #OUTPUT
 2 92
 #END
+```
 
+```py
 #INPUT 7
 61
 25
 #OUTPUT
 2 11
 #END
+```
 
+```py
 #INPUT 8
 32
 7
 #OUTPUT
 4 4
 #END
+```
 
+```py
 #INPUT 9
 873
 254
 #OUTPUT
 3 111
 #END
+```
 
+```py
 #INPUT 10
 689
 326
 #OUTPUT
 2 37
 #END
+```
 
+```py
 #INPUT 11
 939
 155
 #OUTPUT
 6 9
 #END
+```
 
+```py
 #INPUT 12
 302
 78
 #OUTPUT
 3 68
 #END
+```
 
+```py
 #INPUT 13
 584
 318
 #OUTPUT
 1 266
 #END
+```
 
+```py
 #INPUT 14
 899
 317

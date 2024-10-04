@@ -3,31 +3,41 @@
 #OUTPUT
 positivo
 #END
+```
 
+```py
 #INPUT
 -1
 #OUTPUT
 negativo
 #END
+```
 
+```py
 #INPUT
 0
 #OUTPUT
 nulo
 #END
+```
 
+```py
 #INPUT 04
 4
 #OUTPUT
 positivo
 #END
+```
 
+```py
 #INPUT 05
 -5
 #OUTPUT
 negativo
 #END
+```
 
+```py
 #INPUT 06
 -11
 #OUTPUT

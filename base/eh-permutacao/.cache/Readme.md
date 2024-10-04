@@ -17,11 +17,11 @@ chamada de permutação. Exemplo: 123,321,213,231...
 
 Sabendo disso, ajude Júlia nessa missão e retorne se um número é ou não permutação de outro.
 
-### Ação
+## Ação
 
 Dados 2 Inteiros, retornar se ambos são permutação entre si.
 
-## Entrada
+### Entrada
 
 - 2 Inteiros , A e B.
 
@@ -38,13 +38,17 @@ Dados 2 Inteiros, retornar se ambos são permutação entre si.
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 544 45
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 12354 45312
 #OUTPUT

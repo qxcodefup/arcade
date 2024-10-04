@@ -5,7 +5,9 @@ mamae me ama
 15
 1.76
 #END
+```
 
+```py
 #INPUT
 aa 4#1 -f; -2.0;
 #OUTPUT
@@ -13,7 +15,9 @@ aa 4
 1 -f
  -2.0
 #END
+```
 
+```py
 #INPUT
 coca zero;1.75#8;U;
 #OUTPUT

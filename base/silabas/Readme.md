@@ -20,7 +20,7 @@ Agora só devolvo seu celular quando você souber separar pneumoradiologia.
 Faça um programa que receba uma palavra e separe suas silabas levando em consideração o seguinte critério:  
 Se após uma vogal existir uma consoante, deve-se separar a sílaba.
 
-## Entrada
+### Entrada
 
 * Uma linha com um texto.
 
@@ -36,13 +36,17 @@ Paralelepipedo
 #OUTPUT
 Pa-ra-le-le-pi-pe-do
 #END
+```
 
+```py
 #INPUT
 Eu sou o rei de Fup
 #OUTPUT
 Eu sou o rei de Fu-p
 #END
+```
 
+```py
 #INPUT
 Floresta Amazonica
 #OUTPUT

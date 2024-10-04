@@ -6,7 +6,7 @@
 
 ![Imagem Quantos Sobrou](cover.jpg)
 
-### Ação
+## Ação
 
 Suponha a situação que uma pessoa recebe uma lista com o preço e a
 quantidade de três produtos que ela deve comprar. Ela recebe uma certa quantia
@@ -28,9 +28,9 @@ sobrou.
 
 - O valor do troco que a pessoa deve receber, com duas casas decimais.
 
-## Shell
+## Testes
 
-```txt
+```py
 #INPUT 0
 2
 8
@@ -42,7 +42,9 @@ sobrou.
 #OUTPUT
 14208.87
 #END
+```
 
+```py
 #INPUT 1
 9
 3
@@ -54,7 +56,9 @@ sobrou.
 #OUTPUT
 16818.79
 #END
+```
 
+```py
 #INPUT 2
 2
 2
@@ -66,7 +70,9 @@ sobrou.
 #OUTPUT
 16156.45
 #END
+```
 
+```py
 #INPUT 3
 5
 3
@@ -78,7 +84,9 @@ sobrou.
 #OUTPUT
 10608.00
 #END
+```
 
+```py
 #INPUT 4
 9
 6
@@ -90,7 +98,9 @@ sobrou.
 #OUTPUT
 3266.63
 #END
+```
 
+```py
 #INPUT 5
 3
 8
@@ -102,7 +112,9 @@ sobrou.
 #OUTPUT
 60386.80
 #END
+```
 
+```py
 #INPUT 6
 3
 4

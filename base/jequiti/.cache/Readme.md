@@ -32,7 +32,7 @@ Ex: "**extraordinario**", "**aeioubcdfgh**" , '**\***' -> "**e\*\*\*ao\*di\*a\*i
 Ex: "**Teco-Teco!**" , "**tbxyan**" , '**\_**' -> "**T\_\_\_-T\_\_\_!**"  
 Ex: "**Seu Pilantra!**" , "**yzxa**" , '**\***' -> "**\*\*\* \*\*\*a\*\*\*a!**"
 
-## Entrada
+### Entrada
 
 * Frase(max 100 char),
 * Chutes (max 26 char)
@@ -52,7 +52,9 @@ aeioubcdfgh
 #OUTPUT
 e***ao*di*a*io
 #END
+```
 
+```py
 #INPUT
 Teco-Teco!
 tbxyan
@@ -60,7 +62,9 @@ _
 #OUTPUT
 T___-T___!
 #END
+```
 
+```py
 #INPUT
 Seu Pilantra!
 yzxa

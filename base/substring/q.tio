@@ -5,7 +5,9 @@ Coralina
 #OUTPUT
 Cora
 #END
+```
 
+```py
 #INPUT 02
 Power Ranger
 4
@@ -13,7 +15,9 @@ Power Ranger
 #OUTPUT
 r Ranger
 #END
+```
 
+```py
 #INPUT 03
 Coralina
 0
@@ -21,7 +25,9 @@ Coralina
 #OUTPUT
 C
 #END
+```
 
+```py
 #INPUT 04
 Coralina
 1
@@ -29,7 +35,9 @@ Coralina
 #OUTPUT
 o
 #END
+```
 
+```py
 #INPUT 05
 Coralina
 1
@@ -37,7 +45,9 @@ Coralina
 #OUTPUT
 oral
 #END
+```
 
+```py
 #INPUT 06
 Power Ranger
 4
@@ -45,7 +55,9 @@ Power Ranger
 #OUTPUT
 r Ranger
 #END
+```
 
+```py
 #INPUT 07
 Decoracao
 4

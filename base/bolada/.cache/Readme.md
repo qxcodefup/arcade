@@ -27,7 +27,7 @@ Com isso, ele concluiu uma faixa de satisfação dos saques:
 
 Desenvolva o programa que dados os valores de entrada, imprima o resultado de satisfação.
 
-## Entrada
+### Entrada
 
 - Tipo de saque (c ou b) do tipo char
 - Um inteiro para a força do atleta
@@ -45,21 +45,27 @@ c
 #OUTPUT
 Perfeito
 #END
+```
 
+```py
 #INPUT
 b
 68
 #OUTPUT
 Fraco, nem passou
 #END
+```
 
+```py
 #INPUT
 c
 160
 #OUTPUT
 Muito forte, bola fora
 #END
+```
 
+```py
 #INPUT
 b
 99

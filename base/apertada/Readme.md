@@ -10,7 +10,7 @@ Tem mulheres que gostam de roupa apertada. E homens sertanejos também. Mariana 
 
 Faça um programa que receba cinco valores inteiros e encontre o menor deles.  
 
-## Entrada
+### Entrada
 
 * 5 valores inteiros (entre 1 e 30), um por linha.
 
@@ -30,7 +30,9 @@ Faça um programa que receba cinco valores inteiros e encontre o menor deles.
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 4
 7

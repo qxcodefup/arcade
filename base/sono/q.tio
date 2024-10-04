@@ -4,56 +4,72 @@
 #OUTPUT
 02 00 00
 #END
+```
 
+```py
 #INPUT
 02 11 00
 03 10 10
 #OUTPUT
 00 59 10
 #END
+```
 
+```py
 #INPUT
 04 10 00
 03 10 10
 #OUTPUT
 23 00 10
 #END
+```
 
+```py
 #INPUT
 04 00 01
 03 00 00
 #OUTPUT
 22 59 59
 #END
+```
 
+```py
 #INPUT 05
 0 0 0
 1 1 1
 #OUTPUT
 01 01 01
 #END
+```
 
+```py
 #INPUT 06
 10 0 0
 11 12 13
 #OUTPUT
 01 12 13
 #END
+```
 
+```py
 #INPUT 07
 04 05 00
 03 05 00
 #OUTPUT
 23 00 00
 #END
+```
 
+```py
 #INPUT 08
 03 15 32
 21 34 07
 #OUTPUT
 18 18 35
 #END
+```
 
+```py
 #INPUT 09
 21 15 32
 06 34 09

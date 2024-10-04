@@ -29,7 +29,7 @@ Hora:Minuto:Segundo
 - Tempo formatado em Horas:Minutos:Segundos
 
 
-### Shell
+## Testes
 
 ```
 #INPUT 0
@@ -37,85 +37,113 @@ Hora:Minuto:Segundo
 #OUTPUT
 1:0:41
 #END
+```
 
+```py
 #INPUT 1
 22067
 #OUTPUT
 6:7:47
 #END
+```
 
+```py
 #INPUT 2
 9934
 #OUTPUT
 2:45:34
 #END
+```
 
+```py
 #INPUT 3
 30100
 #OUTPUT
 8:21:40
 #END
+```
 
+```py
 #INPUT 4
 22769
 #OUTPUT
 6:19:29
 #END
+```
 
+```py
 #INPUT 5
 19324
 #OUTPUT
 5:22:4
 #END
+```
 
+```py
 #INPUT 6
 15078
 #OUTPUT
 4:11:18
 #END
+```
 
+```py
 #INPUT 7
 32958
 #OUTPUT
 9:9:18
 #END
+```
 
+```py
 #INPUT 8
 30562
 #OUTPUT
 8:29:22
 #END
+```
 
+```py
 #INPUT 9
 28064
 #OUTPUT
 7:47:44
 #END
+```
 
+```py
 #INPUT 10
 9305
 #OUTPUT
 2:35:5
 #END
+```
 
+```py
 #INPUT 11
 31745
 #OUTPUT
 8:49:5
 #END
+```
 
+```py
 #INPUT 12
 26881
 #OUTPUT
 7:28:1
 #END
+```
 
+```py
 #INPUT 13
 20427
 #OUTPUT
 5:40:27
 #END
+```
 
+```py
 #INPUT 14
 13561
 #OUTPUT

@@ -14,7 +14,7 @@ Saiba mais em: [Processos de Fatoração](https://www.todamateria.com.br/fatorac
 
 Leia um Inteiro e represente-o com sua forma fatorada.
 
-## Entrada
+### Entrada
 
 - 1 Inteiro N.
 
@@ -24,19 +24,23 @@ Leia um Inteiro e represente-o com sua forma fatorada.
 
 ## Exemplos
 
-```txt
+```py
 #INPUT
 8
 #OUTPUT
 2 3
 #END
+```
 
+```py
 #INPUT
 9
 #OUTPUT
 3 2
 #END
+```
 
+```py
 #INPUT
 10
 #OUTPUT

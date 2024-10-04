@@ -21,7 +21,7 @@ para mostrar os saltos do sapo até a saída.
 
 Imprima todas as posições de aterrissagem dos saltos do sapinho.
 
-## Entrada
+### Entrada
 
 * P, S, E inteiros, um por linhas. S sempre será maior que E.
 
@@ -44,7 +44,9 @@ Imprima todas as posições de aterrissagem dos saltos do sapinho.
 320 420
 400 saiu
 #END
+```
 
+```py
 #INPUT
 800
 300

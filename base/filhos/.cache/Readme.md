@@ -4,7 +4,7 @@ Seu David, hoje com 79 anos, no interior dos cafundós de Quixadá, conta que te
 
 Leia a idade do filho mais novo de seu David e a quantidade de filhos que ele teve e imprima a idade de todos os filhos em ordem crescente.
 
-## Entrada e Saída
+### Entrada e Saída
 
 - Entrada
   - linha 0 - idade do filho mais novo.
@@ -14,7 +14,7 @@ Leia a idade do filho mais novo de seu David e a quantidade de filhos que ele te
 
 ## Testes
 
-```txt
+```py
 #INPUT
 2
 3
@@ -23,7 +23,9 @@ Leia a idade do filho mais novo de seu David e a quantidade de filhos que ele te
 4
 6
 #END
+```
 
+```py
 #INPUT
 1
 6
@@ -35,7 +37,9 @@ Leia a idade do filho mais novo de seu David e a quantidade de filhos que ele te
 9
 11
 #END
+```
 
+```py
 #INPUT
 10
 4

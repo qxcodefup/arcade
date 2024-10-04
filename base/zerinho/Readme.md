@@ -12,7 +12,7 @@ Que tal implementar um código que lê os dedos e informa quem ganhou o jogo?
 
 Receba três valores correspondentes dos jogadores e em seguida imprima quem foi o vencedor ou se ouve empate segundo as regras do zerim ou um.
 
-## Entrada
+### Entrada
 
 * As opções dos 3 jogadores, uma por linha.
 
@@ -30,7 +30,9 @@ Receba três valores correspondentes dos jogadores e em seguida imprima quem foi
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT
 0
 0
@@ -38,7 +40,9 @@ empate
 #OUTPUT
 jog3
 #END
+```
 
+```py
 #INPUT
 1
 0
@@ -46,7 +50,9 @@ jog3
 #OUTPUT
 jog1
 #END
+```
 
+```py
 #INPUT
 1
 0

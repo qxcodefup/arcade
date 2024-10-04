@@ -12,7 +12,7 @@ O segredo vai depender de quantas vezes cada um dos dez inteiros entre 0 e 9 vai
 
 Dada a sequência de inteiros na barra e a sequência de posições entre as quais o dono desliza o controle, começando da posição inicial 1, seu programa deve contar quantas vezes cada inteiro, entre 0 e 9, vai aparecer dentro do controle.
 
-## Entrada
+### Entrada
 
 - A primeira linha da entrada contém dois inteiros N e M, representando o número de posições na barra do cofre e o número de posições na sequência que o dono vai seguir para deslizar o controle. A segunda linha contém N inteiros entre 0 e 9, definindo a barra do cofre. A terceira linha contém M inteiros representando a sequência de posições que o dono vai seguir. A primeira posição nessa sequência é sempre 1 e não há duas posições consecutivas iguais.
 
@@ -38,7 +38,9 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 #OUTPUT
 [ 1 6 3 1 4 3 0 1 0 4 ]
 #END
+```
 
+```py
 #INPUT 02
 5 4
 5 8 0 5 1

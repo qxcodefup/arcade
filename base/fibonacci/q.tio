@@ -3,43 +3,57 @@
 #OUTPUT
 44
 #END
+```
 
+```py
 #INPUT Teste 1
 100
 #OUTPUT
 44
 #END
+```
 
+```py
 #INPUT Teste 2
 1000000
 #OUTPUT
 1089154
 #END
+```
 
+```py
 #INPUT Teste 3
 500000
 #OUTPUT
 257114
 #END
+```
 
+```py
 #INPUT Teste 4
 30000
 #OUTPUT
 14328
 #END
+```
 
+```py
 #INPUT Teste 5
 500
 #OUTPUT
 188
 #END
+```
 
+```py
 #INPUT Teste 6
 3000000
 #OUTPUT
 1089154
 #END
+```
 
+```py
 #INPUT Teste 7
 4000000
 #OUTPUT

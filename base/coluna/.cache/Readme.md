@@ -8,7 +8,7 @@ Ygor está trabalhando em sua matriz nesse exato momento! Ele quer saber qual co
 
 ### Exemplo
 
-```txt
+```py
 4 2 2
 3 1 3
 2 0 3
@@ -16,17 +16,17 @@ Ygor está trabalhando em sua matriz nesse exato momento! Ele quer saber qual co
 
 Na matriz acima, 3x3, onde as linhas são:0,1,2 e as colunas:0,1,2. A coluna que possui o seu valor maior é a coluna 0, pois, 4² + 3² + 2² = 29, que é a maior soma de quadrados dentre as três colunas.
 
-### Ação
+## Ação
 
 Dado um inteiro N, e uma matriz (N)X(N), determinar a coluna de valor maior.
 
-## Entrada
+### Entrada
 
 1 Inteiro N.
 
 1 Matriz (N)X(N) de Inteiros.
 
-## Saída
+### Saída
 
 A coluna que possui o valor maior.
 
@@ -45,7 +45,9 @@ Se existirem duas ou mais colunas (j), que gera o valor maior igual, considere a
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT Teste 1
 3
 -7 8 10
@@ -54,7 +56,9 @@ Se existirem duas ou mais colunas (j), que gera o valor maior igual, considere a
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT Teste 2
 5
 3 3 3 3 4

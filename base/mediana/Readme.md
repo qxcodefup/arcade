@@ -21,7 +21,7 @@ do vetor ORDENADO. No vetor v = {1, 2, 3}, por exemplo, a mediana é 2, pois est
 
 Assim, você deve ordenar o vetor antes de calcular a mediana.
 
-## Entrada
+### Entrada
 
 - 1° linha: A quantidade de elementos do vetor.  
 - 2a linha: Os elementos em ponto flutuante de forma não ordenada.
@@ -39,21 +39,27 @@ Assim, você deve ordenar o vetor antes de calcular a mediana.
 #OUTPUT
 3.0
 #END
+```
 
+```py
 #INPUT
 3
 0 1 2
 #OUTPUT
 1.0
 #END
+```
 
+```py
 #INPUT
 4
 0 9 3.2 1
 #OUTPUT
 6.1
 #END
+```
 
+```py
 #INPUT
 5
 0 2 9 8 5.1

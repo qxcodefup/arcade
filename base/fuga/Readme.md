@@ -1,8 +1,8 @@
 # L2 - @fuga em helicóptero - OBI 2016
 
 <!-- toch -->
-[Entrada](#entrada) | [Saída](#saída) | [Restrições](#restrições) | [Exemplos](#exemplos)
--- | -- | -- | --
+[Saída](#saída) | [Restrições](#restrições) | [Exemplos](#exemplos)
+-- | -- | --
 <!-- toch -->
 
 Um fugitivo, um helicóptero e um policial estão em posições distintas numa pista circular, exatamente como a mostrada na figura ao lado, com dezesseis posições numeradas de 0 a 15 em direção anti-horária.
@@ -13,7 +13,7 @@ Neste problema, dadas as posições do helicóptero, do policial e do fugitivo, 
 
 ![_](cover.jpg)
 
-## Entrada
+### Entrada
 
 - A entrada consiste de uma linha com quatro inteiros: H, P, F e D, representando, respectivamente, as posições do helicóptero, do policial e do fugitivo, e a direção em que o fugitivo corre, -1 para horário e 1 para anti-horário.
 
@@ -33,19 +33,25 @@ Neste problema, dadas as posições do helicóptero, do policial e do fugitivo, 
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT
 4 14 7 1
 #OUTPUT
 N
 #END
+```
 
+```py
 #INPUT
 15 9 8 -1
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT
 0 14 15 -1
 #OUTPUT

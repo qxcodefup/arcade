@@ -28,7 +28,7 @@ Decidiu-se então que seria efetuado um teste com a máquina, de forma a colher 
 
 Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a produtividade estimada em cada célula, calcule o número esperado total de minhocas a serem colhidas pela máquina durante o teste, conforme descrito acima.  
   
-## Entrada
+### Entrada
 
 - A primeira linha da entrada contém dois números inteiros N e M , representando respectivamente o número de linhas (1 ≤ N ≤ 100) e o número de colunas (1 ≤ M ≤ 100) de células existentes no campo experimental de minhocas.
 - Cada uma das N linhas seguintes contém M inteiros, representando as produtividades estimadas das células correspondentes a uma linha do campo de minhocas.
@@ -50,7 +50,9 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 #OUTPUT
 451
 #END
+```
 
+```py
 #INPUT 02
 9 9
 2 1 1 1 1 1 1 1 2
@@ -65,7 +67,9 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 #OUTPUT
 13
 #END
+```
 
+```py
 #INPUT 03
 10 10
 3 5 5 5 5 5 5 5 5 5

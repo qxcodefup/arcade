@@ -14,13 +14,13 @@ Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em
 - A distancia percorrida é velocidade vezes tempo em horas
 - O desempenho é distancia / consumo.
 
-## Entrada
+### Entrada
 
 - Velocidade em km/h
 - Tempo em minutos
 - Consumo em litros
 
-## Saída
+### Saída
 
 - Desempenho com duas cadas decimais.
 
@@ -34,7 +34,9 @@ Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em
 #OUTPUT
 10.00
 #END
+```
 
+```py
 #INPUT fusca
 60
 40
@@ -58,7 +60,7 @@ printf("a=%.2f e b=%.3f", a, b); //a=4.32 e b=3.433
 
 Em  **Python**, você tem várias possibilidades.
 
-```python
+```py
 a = 4.3243255
 b = 3.4334344
 print("a={:.2f} e b={:.3f}".format(a, b)) //a=4.32 e b=3.433

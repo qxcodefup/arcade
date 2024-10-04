@@ -14,7 +14,7 @@ Veja que, na situação da figura, o jogador deveria apertar o botão apenas uma
 
 Neste problema vamos considerar que existem N posições e não apenas três. Dado o número de posições N, a posição D na qual o disco voador aparece, e a posição A onde está o avião, seu programa deve computar o número mínimo de vezes que o jogador precisa apertar o botão para movimentar o avião até a mesma posição do disco voador e poder atirar!
 
-## Entrada
+### Entrada
 
 - A primeira linha da entrada contém um inteiro N, o número de posições. A segunda linha contém um inteiro D, a posição do disco voador. A terceira linha contém um inteiro A, a posição do avião.
 
@@ -37,7 +37,9 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 20
 8
@@ -45,7 +47,9 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 #OUTPUT
 15
 #END
+```
 
+```py
 #INPUT
 3
 2

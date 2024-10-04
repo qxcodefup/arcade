@@ -4,38 +4,50 @@
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT
 6
 6
 #OUTPUT
 4
 #END
+```
 
+```py
 #INPUT 03
 5 3
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT 04
 2 1
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 05
 3 2
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 06
 6 6
 #OUTPUT
 4
 #END
+```
 
+```py
 #INPUT 07
 16 2
 #OUTPUT

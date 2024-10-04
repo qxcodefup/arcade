@@ -17,7 +17,7 @@ Dado um vetor de tamanho 6 de elementos inteiros, verifique quantos elementos de
 30 87 55 69  
 13 60 99 66
 
-## Entrada
+### Entrada
 
 * Entrada de 6 numero inteiros
 
@@ -33,13 +33,17 @@ Dado um vetor de tamanho 6 de elementos inteiros, verifique quantos elementos de
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT
 2 7 88 31 19 40
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 47 20 23 27 9 1
 #OUTPUT

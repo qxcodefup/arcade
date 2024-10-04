@@ -8,7 +8,7 @@ Edvaldo sugere que Davi atribua alguns pontos a cada restaurante e, em seguida, 
 
 Davi atribuiu pontos a todos os restaurantes, mas não consegue descobrir qual restaurante satisfaz os critérios de Edvaldo. Você pode ajudá-lo?
 
-## Entrada
+### Entrada
 
 A primeira linha possui N, o número total de restaurantes.
 

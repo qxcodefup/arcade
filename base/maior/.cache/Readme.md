@@ -14,7 +14,7 @@
 
 O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o chute do primeiro jogador, a escolha do segundo jogador(maior ou menor) e o valor real do produto.
 
-## Entrada
+### Entrada
 
 - linha 1: o chute do Primeiro Jogador(float)
 - linha 2: a escolha do Segundo Jogador(m para menor e M para maior)
@@ -34,7 +34,9 @@ m
 #OUTPUT
 segundo
 #END
+```
 
+```py
 #INPUT
 1.1
 M
@@ -42,7 +44,9 @@ M
 #OUTPUT
 primeiro
 #END
+```
 
+```py
 #INPUT
 0.9
 M
@@ -50,7 +54,9 @@ M
 #OUTPUT
 segundo
 #END
+```
 
+```py
 #INPUT
 1.3
 m

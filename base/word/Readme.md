@@ -14,7 +14,7 @@ Ignore pontuação, espaço e números.
 
 A entrada é composta de minusculas, maiúsculas, números, pontuações e espaços simples.
 
-## Entrada
+### Entrada
 
 * Texto com até 100 caracteres.
 * Caracteres representando a formatação (M, m, p, i).
@@ -32,21 +32,27 @@ M
 #OUTPUT
 O PATO E O FRANGO JA TAO COZIDOS, COMAM!
 #END
+```
 
+```py
 #INPUT
 O Pato e o frango ja tao cozidos, comam!
 m
 #OUTPUT
 o pato e o frango ja tao cozidos, comam!
 #END
+```
 
+```py
 #INPUT
 O Pato e o frango ja tao cozidos, comam!
 p
 #OUTPUT
 o Pato e o Frango Ja Tao Cozidos, Comam!
 #END
+```
 
+```py
 #INPUT
 O Pato e o frango ja tao cozidos, comam!
 i

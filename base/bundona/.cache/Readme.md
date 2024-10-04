@@ -10,7 +10,7 @@ A distância entre os dois marcadores em horas consecutivas é 6 centímetros. O
 
 Dado a posição inicial da formiga no relógio, a direção que ela está caminhado H(horário) A(Anti-horário) e quantos centímetros ela caminhou em inteiro, informe em que posição do relógio ela vai terminar sua caminhada.
 
-## Entrada
+### Entrada
 
 - Posição da Hora 'H' e do Minuto 'M' que a formiga começa sua caminhada. O sentido 'S' que ela anda, sendo Horário(H) ou Anti-horário(A) e distância D caminhada em centímetros. Para simplificar, o meio dia será representado pelo horário 00:00 e não por 12:00.
 
@@ -29,7 +29,9 @@ H
 #OUTPUT
 01 20
 #END
+```
 
+```py
 #INPUT
 00
 10

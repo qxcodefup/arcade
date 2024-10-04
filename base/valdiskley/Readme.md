@@ -20,7 +20,7 @@ Valdisklei chegou em casa com sua tarefinha sobre o alfabeto.
 
 Dado uma letra e um valor de rotação retorne a letra resultante.
 
-## Entrada
+### Entrada
 
 * Letra minuscula entre 'a' e 'z'
 * Um valor inteiro positivo ou negativo onde negativo significa um rotação pra frente e negativo uma rotação pra trás.
@@ -38,28 +38,36 @@ a
 #OUTPUT
 a
 #END
+```
 
+```py
 #INPUT 02
 b
 3
 #OUTPUT
 e
 #END
+```
 
+```py
 #INPUT 03
 z
 2
 #OUTPUT
 b
 #END
+```
 
+```py
 #INPUT 04
 f
 -3
 #OUTPUT
 c
 #END
+```
 
+```py
 #INPUT 05
 b
 -2

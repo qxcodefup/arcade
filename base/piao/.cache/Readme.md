@@ -14,7 +14,7 @@ No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
 - Quem ficou mais perto da linha ganha, desde que esteja dentro do limite.
 - Quem ficou mais longe da linha leva uma peia.
 
-## Entrada
+### Entrada
 
 - 1a linha: a distancia L entre a linha alvo e as linhas limite e a quantidade N de jogadores.
 
@@ -41,7 +41,9 @@ No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e
 1
 0
 #END
+```
 
+```py
 #INPUT 02
 30 3
 35 -32 -40
@@ -49,7 +51,9 @@ No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e
 nenhum
 2
 #END
+```
 
+```py
 #INPUT 03
 30 3
 35 36 -36
@@ -57,7 +61,9 @@ nenhum
 nenhum
 2
 #END
+```
 
+```py
 #INPUT 04
 40 3
 -25 -26 24

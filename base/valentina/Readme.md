@@ -43,7 +43,7 @@ c - d = z
 c - e = y  
 ```
 
-## Entrada
+### Entrada
 
 * Um caractere minusculo.
 * Linha: a operação '-' ou '+'.
@@ -63,7 +63,9 @@ a
 #OUTPUT
 a
 #END
+```
 
+```py
 #INPUT
 b
 +
@@ -71,7 +73,9 @@ d
 #OUTPUT
 e
 #END
+```
 
+```py
 #INPUT
 z
 +
@@ -79,7 +83,9 @@ c
 #OUTPUT
 b
 #END
+```
 
+```py
 #INPUT
 f
 -
@@ -87,7 +93,9 @@ d
 #OUTPUT
 c
 #END
+```
 
+```py
 #INPUT
 b
 -
@@ -95,7 +103,9 @@ c
 #OUTPUT
 z
 #END
+```
 
+```py
 #INPUT
 b
 +

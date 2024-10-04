@@ -6,7 +6,7 @@
 
 Forneça um algoritmo recursivo para contar quantas vezes um determinado caractere ocorre em uma string. Não é permitido usar comandos de repetição nesta função. A função main e o protótipo da função recursiva são fornecidos no arquivo de envio.
 
-## Entrada
+### Entrada
 
 - Linha 1: string com até 100 caracteres.
 - Linha 2: caractere (que será contado na string anterior)

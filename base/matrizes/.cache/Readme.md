@@ -6,7 +6,7 @@
 
 Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida calcule e imprima a soma destas matrizes. Se S é a soma das matrizes A e B, então cada elemento S\[i\]\[j\] é calculado como A\[i\]\[j\] + B\[i\]\[j\], ou seja, a soma dos elementos de mesma posição nas matrizes A e B.
 
-## Entrada
+### Entrada
 
 - Linha 1: número de linhas das matrizes A e B.  
 - Linha 2: número de colunas das matrizes A e B.  
@@ -31,7 +31,9 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 [ 2 3 4 ]
 [ 6 7 8 ]
 #END
+```
 
+```py
 #INPUT 01
 2
 1

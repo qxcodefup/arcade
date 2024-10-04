@@ -39,7 +39,7 @@ Nele, o Mário precisa de 4 movimentos de parkour. Do 1 para o 3, do 4 para o 6,
 
 Receba um vetor de inteiros e conte quantas vezes dois números consecutivos possuem diferença absoluta maior que 1.
 
-## Entrada
+### Entrada
 
 * Quantidade de elementos do vetor (1 a 50).
 * Elementos do vetor.  
@@ -57,21 +57,27 @@ Receba um vetor de inteiros e conte quantas vezes dois números consecutivos pos
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 6
 4 2 5 4 5 3
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT
 8
 1 3 5 7 6 5 4 3
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT
 14
 4 2 5 3 6 4 3 4 3 2 3 2 3 5

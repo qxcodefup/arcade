@@ -17,7 +17,7 @@ Fazer uma função que recebe um inteiro referente ao ID de um planeta e retorne
 2ª Obs: Um número é `palíndromo` quando o seu inverso é igual a ele.
 Por exemplo: 121 é palíndromo pois seu inverso é 121.
 
-## Entrada
+### Entrada
 
 * Um número inteiro que indica o ID.  
 
@@ -34,7 +34,9 @@ Por exemplo: 121 é palíndromo pois seu inverso é 121.
 #OUTPUT  
 1
 #END
+```
 
+```py
 #INPUT
 123
 #OUTPUT

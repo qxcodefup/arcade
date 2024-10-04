@@ -3,43 +3,57 @@
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 123
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT 03
 122
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT 04
 1
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 05
 11
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 06
 1235321
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 07
 0
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 08
 2220122
 #OUTPUT

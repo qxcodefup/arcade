@@ -3,79 +3,105 @@
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 360
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 361
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 722
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 -2
 #OUTPUT
 358
 #END
+```
 
+```py
 #INPUT
 -350
 #OUTPUT
 10
 #END
+```
 
+```py
 #INPUT 07
 -1
 #OUTPUT
 359
 #END
+```
 
+```py
 #INPUT 08
 362
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT 09
 -360
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT 10
 -361
 #OUTPUT
 359
 #END
+```
 
+```py
 #INPUT 11
 750
 #OUTPUT
 30
 #END
+```
 
+```py
 #INPUT 12
 -730
 #OUTPUT
 350
 #END
+```
 
+```py
 #INPUT 13
 1000
 #OUTPUT
 280
 #END
+```
 
+```py
 #INPUT 14
 -1300
 #OUTPUT

@@ -4,7 +4,7 @@ Professor Rubens percebeu que depois que passou a comer rotineiramente no Broile
 
 Nos dias que ele vai para o Broiler, ele acaba comendo demais, pois um prato pra duas pessoas alimenta quatro pessoas. Então ele decidiu tentar comer menos nos outros dias para tentar manter a média de calorias da semana abaixo de 2200.
 
-## Entrada e Saída
+### Entrada e Saída
 
 - Entrada
   - linha 1: quantidade de dias que ele registrou as calorias
@@ -14,14 +14,16 @@ Nos dias que ele vai para o Broiler, ele acaba comendo demais, pois um prato pra
 
 ## Testes
 
-```txt
+```py
 #INPUT
 1
 3000
 #OUTPUT
 3000.0
 #END
+```
 
+```py
 #INPUT
 2
 3000
@@ -29,7 +31,9 @@ Nos dias que ele vai para o Broiler, ele acaba comendo demais, pois um prato pra
 #OUTPUT
 3500.0
 #END
+```
 
+```py
 #INPUT
 3
 2000
@@ -38,7 +42,9 @@ Nos dias que ele vai para o Broiler, ele acaba comendo demais, pois um prato pra
 #OUTPUT
 1000.0
 #END
+```
 
+```py
 #INPUT
 4
 5000

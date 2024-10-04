@@ -7,7 +7,9 @@
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT
 75
 100
@@ -17,7 +19,9 @@ S
 #OUTPUT
 N
 #END
+```
 
+```py
 #INPUT
 20
 22
@@ -27,7 +31,9 @@ N
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT 04
 1
 1
@@ -37,7 +43,9 @@ S
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT 05
 80
 80
@@ -47,7 +55,9 @@ S
 #OUTPUT
 N
 #END
+```
 
+```py
 #INPUT 06
 2
 2
@@ -57,7 +67,9 @@ N
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT 07
 10
 20

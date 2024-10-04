@@ -4,91 +4,117 @@ gun
 #OUTPUT
 jog1
 #END
+```
 
+```py
 #INPUT 02
 air
 scissors
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 03
 gun
 gun
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT 04
 air
 gun
 #OUTPUT
 jog1
 #END
+```
 
+```py
 #INPUT 05
 fire
 air
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 06
 water
 human
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 07
 scissors
 paper
 #OUTPUT
 jog1
 #END
+```
 
+```py
 #INPUT 08
 sponge
 human
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 09
 human
 fire
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 10
 air
 water
 #OUTPUT
 jog1
 #END
+```
 
+```py
 #INPUT 11
 water
 paper
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 12
 human
 scissors
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 13
 paper
 sponge
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 14
 water
 gun

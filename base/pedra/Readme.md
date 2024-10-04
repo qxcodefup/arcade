@@ -15,7 +15,7 @@ Vários competidores disputaram uma competição interessante.
 - O primeiro competidor tem número índice 0.
 - Se houver empate nos pontos, ganha o competidor que tem menor índice.
 
-## Entrada
+### Entrada
 
 - O número N de competidores.
 
@@ -35,7 +35,9 @@ Vários competidores disputaram uma competição interessante.
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 3
 9 12
@@ -44,7 +46,9 @@ Vários competidores disputaram uma competição interessante.
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 3
 12 15
@@ -53,7 +57,9 @@ Vários competidores disputaram uma competição interessante.
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 4
 12 15

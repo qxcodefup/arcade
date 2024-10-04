@@ -5,7 +5,9 @@
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 3
 9 12
@@ -14,7 +16,9 @@
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 3
 12 15
@@ -23,7 +27,9 @@
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 4
 12 15
@@ -33,7 +39,9 @@
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT 04
 2
 10 8
@@ -41,7 +49,9 @@
 #OUTPUT
 sem ganhador
 #END
+```
 
+```py
 #INPUT 05
 2
 8 9
@@ -49,7 +59,9 @@ sem ganhador
 #OUTPUT
 sem ganhador
 #END
+```
 
+```py
 #INPUT 06
 2
 10 9
@@ -57,7 +69,9 @@ sem ganhador
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 07
 3
 12 17
@@ -66,7 +80,9 @@ sem ganhador
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 08
 3
 9 12
@@ -75,7 +91,9 @@ sem ganhador
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT 09
 4
 9 8
@@ -85,7 +103,9 @@ sem ganhador
 #OUTPUT
 sem ganhador
 #END
+```
 
+```py
 #INPUT 10
 4
 9 8
@@ -95,7 +115,9 @@ sem ganhador
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT 11
 4
 9 8

@@ -6,7 +6,7 @@
 
 Use o pseudocódigo a seguir para implementar o algoritmo de calcular nota e decidir se você ficou aprovado, reprovado, aprovado na final ou reprovado na final.
 
-```txt
+```py
 leia a primeira nota
 leia a segunda nota
 media = some as notas e divida por 2
@@ -23,7 +23,7 @@ se entre 4 e 7
       reprovado
 ```
 
-## Entrada
+### Entrada
 
 - 3 notas: nota1, nota2 e nota\_final, uma por linha
 
@@ -43,7 +43,9 @@ Obs: descarte a nota da final se ela não for necessária.
 #OUTPUT
 aprovado
 #END
+```
 
+```py
 #INPUT
 8
 2
@@ -51,7 +53,9 @@ aprovado
 #OUTPUT
 aprovado na final
 #END
+```
 
+```py
 #INPUT
 4
 2
@@ -59,7 +63,9 @@ aprovado na final
 #OUTPUT
 reprovado
 #END
+```
 
+```py
 #INPUT
 4
 8

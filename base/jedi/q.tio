@@ -5,7 +5,9 @@
 #OUTPUT
 Empate
 #END
+```
 
+```py
 #INPUT
 2
 2
@@ -13,7 +15,9 @@ Empate
 #OUTPUT
 Jedi
 #END
+```
 
+```py
 #INPUT
 2
 2
@@ -21,7 +25,9 @@ Jedi
 #OUTPUT
 Sith
 #END
+```
 
+```py
 #INPUT
 4
 2
@@ -31,7 +37,9 @@ Sith
 #OUTPUT
 Sith
 #END
+```
 
+```py
 #INPUT
 6
 2
@@ -43,7 +51,9 @@ Sith
 #OUTPUT
 Empate
 #END
+```
 
+```py
 #INPUT
 8
 2

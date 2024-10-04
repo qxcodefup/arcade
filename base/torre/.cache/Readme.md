@@ -14,7 +14,7 @@ O professor Paulo está solicitando a sua ajuda para implementar um programa que
 
 No exemplo da figura acima, com um tabuleiro de dimensão seis (ou seja, seis linhas por seis colunas), o peso máximo é 67, referente à posição (4,4).
 
-## Entrada
+### Entrada
 
 - A primeira linha da entrada contém um inteiro N, representando a dimensão do tabuleiro.
 
@@ -47,7 +47,9 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o peso 
 #OUTPUT
 67
 #END
+```
 
+```py
 #INPUT
 3
 5 1 1

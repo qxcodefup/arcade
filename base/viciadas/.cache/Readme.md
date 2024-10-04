@@ -20,7 +20,7 @@ Então você teve uma ideia! Que tal analisar a frequência de ocorrência dos n
 
 Conte as ocorrências e descubra qual elemento ocorre mais vezes no vetor.
 
-## Entrada
+### Entrada
 
 * linha 1: um número com a quantidade de elementos do vetor (até 5000)
 * linha 2: o vetor de inteiros.
@@ -41,7 +41,9 @@ crescente.
 2
 1
 #END
+```
 
+```py
 #INPUT 02
 5
 1 3 2 2 3
@@ -49,7 +51,9 @@ crescente.
 3
 2 3
 #END
+```
 
+```py
 #INPUT 03
 10
 2 9 3 3 3 2 1 4 1 1

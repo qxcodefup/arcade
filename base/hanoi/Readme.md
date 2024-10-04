@@ -8,7 +8,7 @@ O objetivo do jogo das torres de hanoi é mover todos os discos da torre inicial
 
 ## Exemplo
 
-```txt
+```py
       ++                  ++                 ++
       ||                  ||                 ||
       ||                  ||                 ||
@@ -39,7 +39,7 @@ Simule as jogadas em [JOGO](http://www.dynamicdrive.com/dynamicindex12/towerhano
 
 Este problema parece difícil de resolver para o caso geral com _n_ discos. Porém, como acontece em vários problemas, utilizando recursão chegamos em um algoritmo simples e elegante. Mova recursivamente os \\(n-1\\) primeiros discos para a torre auxiliar, depois mova o último disco da torre inicial para a torre final, e então mova recursivamente os \\(n-1\\) discos da torre auxiliar para a torre final.
 
-## Entrada
+### Entrada
 
 - Número de discos para mover da torre 'A' para a torre 'C'.
 

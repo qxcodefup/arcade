@@ -34,19 +34,25 @@ Agora tente adaptar esse código para carregar vários inteiros em um vetor e de
 #OUTPUT
 [ 15 17 11 32 12 19 ]
 #END
+```
 
+```py
 #INPUT
 15
 #OUTPUT
 [ 15 ]
 #END
+```
 
+```py
 #INPUT
 15 12
 #OUTPUT
 [ 12 15 ]
 #END
+```
 
+```py
 #INPUT
 15 17 11
 #OUTPUT

@@ -12,7 +12,7 @@ Você receberá uma frase e irá tratar as vogais como as mulheres e as consoant
 
 Cada frase tem até 100 char.
 
-## Entrada
+### Entrada
 
 * 1a linha: uma frase com letras minusculas e espaço apenas com ate 100 caracteres.  
 
@@ -31,21 +31,27 @@ um abraco amigo
 uaaoaio
 mbrcmg
 #END
+```
 
+```py
 #INPUT
 meteoro de pegasus
 #OUTPUT
 eeooeeau
 mtrdpgss
 #END
+```
 
+```py
 #INPUT
 hora de morfar
 #OUTPUT
 oaeoa
 hrdmrfr
 #END
+```
 
+```py
 #INPUT
 thunder thunder thunder cats owwww
 #OUTPUT

@@ -11,7 +11,7 @@ Leia dois números inteiros A e B, na mesma linha, e faça um loop `incremental`
 
 ## Testes
 
-```txt
+```py
 
 
 #INPUT
@@ -19,13 +19,17 @@ Leia dois números inteiros A e B, na mesma linha, e faça um loop `incremental`
 #OUTPUT
 [ 1 3 5 7 9 ]
 #END
+```
 
+```py
 #INPUT
 5 10
 #OUTPUT
 [ 5 7 9 ]
 #END
+```
 
+```py
 #INPUT
 -5 10
 #OUTPUT

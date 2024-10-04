@@ -6,7 +6,9 @@ d
 #OUTPUT
 Ja ouviu falar
 #END
+```
 
+```py
 #INPUT
 d
 a
@@ -15,7 +17,9 @@ d
 #OUTPUT
 Super Fa
 #END
+```
 
+```py
 #INPUT 03
 b
 b
@@ -24,7 +28,9 @@ b
 #OUTPUT
 Nunca assistiu
 #END
+```
 
+```py
 #INPUT 04
 d
 b
@@ -33,7 +39,9 @@ b
 #OUTPUT
 Ja ouviu falar
 #END
+```
 
+```py
 #INPUT 05
 d
 b
@@ -42,7 +50,9 @@ d
 #OUTPUT
 Interessado no assunto
 #END
+```
 
+```py
 #INPUT 06
 d
 b

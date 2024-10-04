@@ -5,7 +5,7 @@
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/guarda/cover.jpg)
 
-### Motivação
+## Motivação
 
 Imagine um sistema de acesso seguro onde é necessário atender a várias condições para conceder permissão. Por exemplo, ao tentar acessar uma informação importante em um sistema, você precisa garantir que está conectado à rede, autenticado e com permissões administrativas. 
 
@@ -26,7 +26,7 @@ Implemente um programa que verifique três condições necessárias para acessar
 - Caso todos sejam verdadeiros: "done".
 
 
-### Shell
+## Testes
 
 ``` py
 #INPUT
@@ -36,7 +36,9 @@ Implemente um programa que verifique três condições necessárias para acessar
 #OUTPUT
 you must connect to wifi
 #END
+```
 
+```py
 #INPUT
 0
 1
@@ -44,7 +46,9 @@ you must connect to wifi
 #OUTPUT
 you must connect to wifi
 #END
+```
 
+```py
 #INPUT
 0
 0
@@ -52,7 +56,9 @@ you must connect to wifi
 #OUTPUT
 you must connect to wifi
 #END
+```
 
+```py
 #INPUT
 1
 0
@@ -60,7 +66,9 @@ you must connect to wifi
 #OUTPUT
 you need to login first
 #END
+```
 
+```py
 #INPUT
 1
 0
@@ -68,7 +76,9 @@ you need to login first
 #OUTPUT
 you need to login first
 #END
+```
 
+```py
 #INPUT
 1
 1
@@ -76,7 +86,9 @@ you need to login first
 #OUTPUT
 you must to login as admin
 #END
+```
 
+```py
 #INPUT
 1
 1

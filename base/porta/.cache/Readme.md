@@ -15,11 +15,11 @@ sobre](https://www.todamateria.com.br/quadrado-perfeito)
 - Conjectura de Collatz: [Saiba
 sobre](https://pt.wikipedia.org/wiki/Conjectura_de_Collatz)
 
-### Ação
+## Ação
 
 Faça um programa que dado um conjunto de portas retorne a porta matemática.
 
-## Entrada
+### Entrada
 
 - 1 Inteiro N seguido de N Inteiros.
 
@@ -37,14 +37,18 @@ Faça um programa que dado um conjunto de portas retorne a porta matemática.
 #OUTPUT
 4
 #END
+```
 
+```py
 #INPUT
 2
 49 81
 #OUTPUT
 49
 #END
+```
 
+```py
 #INPUT
 2
 5 6

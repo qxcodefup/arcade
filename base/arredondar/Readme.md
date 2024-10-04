@@ -5,7 +5,7 @@
 
 ![_](cover.jpg)
 
-### Motivação
+## Motivação
 
 Um aluno ficou implorando para o seu professor de FUP arredondar seu 6.9999999999 para 10 porque ele precisa de um 10 para passar de semestre. Seu trabalho é implementar as funções ceil, floor e round para ajudar o professor a calcular as notas dos alunos.
 
@@ -23,7 +23,7 @@ int ceil(float num);
 ```
 Na função principal (main), leia um caractere que representa a operação (r, f, c) e um número do tipo float. Depois, chame a função correspondente e imprima o resultado.
 
-### Shell
+## Testes
 
 - Um caractere (r, f ou c) representando a operação.
 - Um número float
@@ -41,28 +41,36 @@ c
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 f
 6.99
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 c
 6.99
 #OUTPUT
 7
 #END
+```
 
+```py
 #INPUT
 r
 5.5
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 r
 5.4

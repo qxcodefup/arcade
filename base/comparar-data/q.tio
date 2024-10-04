@@ -8,7 +8,9 @@
 #OUTPUT
 Mais recente
 #END
+```
 
+```py
 #INPUT Test 2
 2
 3
@@ -19,7 +21,9 @@ Mais recente
 #OUTPUT
 Mais antiga
 #END
+```
 
+```py
 #INPUT Test 3
 1
 4
@@ -30,7 +34,9 @@ Mais antiga
 #OUTPUT
 Mais antiga
 #END
+```
 
+```py
 #INPUT Test 4
 1
 4
@@ -41,7 +47,9 @@ Mais antiga
 #OUTPUT
 Mais antiga
 #END
+```
 
+```py
 #INPUT Test 5
 1
 5
@@ -52,7 +60,9 @@ Mais antiga
 #OUTPUT
 Mais recente
 #END
+```
 
+```py
 #INPUT Test 6
 1
 5

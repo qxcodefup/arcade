@@ -5,7 +5,9 @@
 #OUTPUT
 No
 #END
+```
 
+```py
 #INPUT
 5
 123 146 454 542 456
@@ -13,7 +15,9 @@ No
 #OUTPUT
 No
 #END
+```
 
+```py
 #INPUT
 5
 123 690 454 150 456

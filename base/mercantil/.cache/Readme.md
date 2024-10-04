@@ -15,7 +15,7 @@
   - O segundo jogador caso contrário.
 - O jogo acontecerá em várias rodadas. Ganhará o jogo quem vencer mais rodadas. Acontecerá empate se ambos ganharem a mesma quantidade de rodadas.
 
-## Entrada
+### Entrada
 
 - 1ª linha: a quantidade de rodadas.  
 - 2ª linha: o valor dos produtos de todas as rodadas.
@@ -37,7 +37,9 @@ M
 #OUTPUT
 primeiro
 #END
+```
 
+```py
 #INPUT
 2  
 1.0 2.0  
@@ -46,7 +48,9 @@ m m
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT  
 2
 1.0 2.0
@@ -55,7 +59,9 @@ m M
 #OUTPUT
 primeiro
 #END
+```
 
+```py
 #INPUT
 2
 1.0 2.0
@@ -64,7 +70,9 @@ m M
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT
 3
 1.0 2.0 4.0
@@ -73,7 +81,9 @@ m M m
 #OUTPUT
 primeiro
 #END
+```
 
+```py
 #INPUT
 3
 1.0 2.0 4.02

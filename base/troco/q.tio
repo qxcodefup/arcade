@@ -6,7 +6,9 @@
 1 de 5.00
 1 de 2.00
 #END
+```
 
+```py
 #INPUT
 19.00
 #OUTPUT
@@ -14,7 +16,9 @@
 1 de 5.00
 2 de 2.00
 #END
+```
 
+```py
 #INPUT
 17.39
 #OUTPUT
@@ -25,7 +29,9 @@
 1 de 0.10
 Falta 0.04
 #END
+```
 
+```py
 #INPUT
 57.01
 #OUTPUT
@@ -34,7 +40,9 @@ Falta 0.04
 1 de 2.00
 Falta 0.01
 #END
+```
 
+```py
 #INPUT
 377.76
 #OUTPUT

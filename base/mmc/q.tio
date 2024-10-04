@@ -3,13 +3,17 @@
 #OUTPUT
 18
 #END
+```
 
+```py
 #INPUT
 3 4
 #OUTPUT
 12
 #END
+```
 
+```py
 #INPUT
 3 6
 #OUTPUT

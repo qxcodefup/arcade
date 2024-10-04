@@ -16,11 +16,11 @@ No zerim ou um americano cada participante coloca quantos dedos quiser na roda. 
 
 Suponha que existem 4 jogadores. O contador, o jogador 1, aponta pra cima e diz "zero", e então aponta pra si mesmo e diz "um", aponta pro jogador 2 e diz "dois", pro jogador 3 e diz "três", pro jogador 4 e diz "quatro", volta a apontar pra si e diz "cinco" e assim até que os números acabem.
 
-## Entrada
+### Entrada
 
 - Os números dos 4 jogadores, um por linha.
 
-## Saída
+### Saída
 
 - "nenhum" se a soma deu 0, jog1, jog2, jog3 ou jog4.
 
@@ -35,7 +35,9 @@ Suponha que existem 4 jogadores. O contador, o jogador 1, aponta pra cima e diz 
 #OUTPUT
 nenhum
 #END
+```
 
+```py
 #INPUT
 0
 0
@@ -44,7 +46,9 @@ nenhum
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT
 2
 2

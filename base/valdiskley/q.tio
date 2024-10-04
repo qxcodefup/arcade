@@ -4,28 +4,36 @@ a
 #OUTPUT
 a
 #END
+```
 
+```py
 #INPUT 02
 b
 3
 #OUTPUT
 e
 #END
+```
 
+```py
 #INPUT 03
 z
 2
 #OUTPUT
 b
 #END
+```
 
+```py
 #INPUT 04
 f
 -3
 #OUTPUT
 c
 #END
+```
 
+```py
 #INPUT 05
 b
 -2

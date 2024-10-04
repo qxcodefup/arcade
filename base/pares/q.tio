@@ -4,42 +4,54 @@
 #OUTPUT
 30
 #END
+```
 
+```py
 #INPUT
 1
 5
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 5
 1
 #OUTPUT
 invalido
 #END
+```
 
+```py
 #INPUT
 6
 6
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT 05
 10
 20
 #OUTPUT
 90
 #END
+```
 
+```py
 #INPUT 06
 1
 7
 #OUTPUT
 12
 #END
+```
 
+```py
 #INPUT 07
 8
 8

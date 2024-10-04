@@ -18,7 +18,9 @@ Leia o tamanho das 3 varetas e informe se é possível formar o triângulo.
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 16
 14
@@ -26,7 +28,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 7
 13
@@ -34,7 +38,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 2
 3
@@ -42,7 +48,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 11
 20
@@ -50,7 +58,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 7
 1
@@ -58,7 +68,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 13
 17
@@ -66,7 +78,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 9
 8
@@ -74,7 +88,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 3
 11
@@ -82,7 +98,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 4
 8
@@ -90,7 +108,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 10
 3
@@ -98,7 +118,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 19
 10
@@ -106,7 +128,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 14
 17
@@ -114,7 +138,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 3
 10
@@ -122,7 +148,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 2
 20
@@ -130,7 +158,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 18
 19
@@ -138,7 +168,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 16
 11
@@ -146,7 +178,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 7
 12
@@ -154,7 +188,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 17
 14
@@ -162,7 +198,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 11
 17
@@ -170,7 +208,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 6
 6
@@ -178,7 +218,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 8
 17
@@ -186,7 +228,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 7
 10
@@ -194,7 +238,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 18
 5
@@ -202,7 +248,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 3
 6
@@ -210,7 +258,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 8
 15
@@ -218,7 +268,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 4
 11
@@ -226,7 +278,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 9
 17
@@ -234,7 +288,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 9
 5
@@ -242,7 +298,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 12
 15
@@ -250,7 +308,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 13
 1
@@ -258,7 +318,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 9
 20
@@ -266,7 +328,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 7
 7
@@ -274,7 +338,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 20
 16
@@ -282,7 +348,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 15
 19
@@ -290,7 +358,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 2
 18
@@ -298,7 +368,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 18
 13
@@ -306,7 +378,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 17
 2
@@ -314,7 +388,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 7
 2
@@ -322,7 +398,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 10
 5
@@ -330,7 +408,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 1
 10
@@ -338,7 +418,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 18
 18
@@ -346,7 +428,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 2
 16
@@ -354,7 +438,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 8
 8
@@ -362,7 +448,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 18
 14
@@ -370,7 +458,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 6
 7
@@ -378,7 +468,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 20
 5
@@ -386,7 +478,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 12
 13
@@ -394,7 +488,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 4
 20
@@ -402,7 +498,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 9
 9
@@ -410,7 +508,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 1
 10
@@ -418,7 +518,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 4
 19
@@ -426,7 +528,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 7
 12
@@ -434,7 +538,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 16
 20
@@ -442,7 +548,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 5
 9
@@ -450,7 +558,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 11
 14
@@ -458,7 +568,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 15
 5
@@ -466,7 +578,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 15
 8
@@ -474,7 +588,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 4
 12
@@ -482,7 +598,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 6
 20
@@ -490,7 +608,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 13
 12
@@ -498,7 +618,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 9
 16
@@ -506,7 +628,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 15
 2
@@ -514,7 +638,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 16
 10
@@ -522,7 +648,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 16
 14
@@ -530,7 +658,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 9
 4
@@ -538,7 +668,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 9
 10
@@ -546,7 +678,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 5
 4
@@ -554,7 +688,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 14
 19
@@ -562,7 +698,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 1
 5
@@ -570,7 +708,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 9
 9
@@ -578,7 +718,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 18
 18
@@ -586,7 +728,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 5
 4
@@ -594,7 +738,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 4
 11
@@ -602,7 +748,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 13
 6
@@ -610,7 +758,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 11
 6
@@ -618,7 +768,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 15
 7
@@ -626,7 +778,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 3
 3
@@ -634,7 +788,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 18
 8
@@ -642,7 +798,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 5
 9
@@ -650,7 +808,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 3
 9
@@ -658,7 +818,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 4
 7
@@ -666,7 +828,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 1
 3
@@ -674,7 +838,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 11
 6
@@ -682,7 +848,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 2
 11
@@ -690,7 +858,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 6
 1
@@ -698,7 +868,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 5
 7
@@ -706,7 +878,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 6
 9
@@ -714,7 +888,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 3
 19
@@ -722,7 +898,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 18
 3
@@ -730,7 +908,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 1
 17
@@ -738,7 +918,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 20
 20
@@ -746,7 +928,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 9
 12
@@ -754,7 +938,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 12
 2
@@ -762,7 +948,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 14
 15
@@ -770,7 +958,9 @@ True
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 4
 20
@@ -778,7 +968,9 @@ False
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 20
 17
@@ -786,7 +978,9 @@ False
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 14
 14
@@ -794,7 +988,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 11
 16
@@ -802,7 +998,9 @@ True
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 7
 5

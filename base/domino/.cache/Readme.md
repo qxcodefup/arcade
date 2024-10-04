@@ -21,7 +21,9 @@ Para a nossa sorte, existe uma fórmula com a qual podemos calcular facilmente o
 #OUTPUT
 28
 #END
+```
 
+```py
 #INPUT
 12
 #OUTPUT

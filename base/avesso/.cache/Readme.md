@@ -36,7 +36,7 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor.
 
 Se o chefe disser um número errado, ninguém deve se mexer.
 
-## Entrada
+### Entrada
 
 - a quantidade de casos de teste.
 - Para cada caso teste:  
@@ -57,7 +57,9 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 #OUTPUT
 [3 -1]
 #END
+```
 
+```py
 #INPUT
 1
 2 3
@@ -65,7 +67,9 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 #OUTPUT
 [2 1]
 #END
+```
 
+```py
 #INPUT
 1
 2 1
@@ -73,7 +77,9 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 #OUTPUT
 [-4 1]
 #END
+```
 
+```py
 #INPUT
 3
 3 1
@@ -87,7 +93,9 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 [4 -1 5]
 [4 -1 5]
 #END
+```
 
+```py
 #INPUT
 3
 7 0

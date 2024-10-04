@@ -15,7 +15,7 @@ Existem formas para se determinar essa divisibilidade. Pesquise um pouco.
 
 [http://www.escolakids.com/divisibilidade-por-11.htm](http://www.escolakids.com/divisibilidade-por-11.htm)  
 
-## Entrada
+### Entrada
 
 * Um "número" com até 20 dígitos.
 
@@ -31,13 +31,17 @@ Existem formas para se determinar essa divisibilidade. Pesquise um pouco.
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 110
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 123
 #OUTPUT

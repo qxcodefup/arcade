@@ -1,13 +1,6 @@
 # L2 - @indices
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/indices/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup indices`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/indices/cover.jpg)
+![_](cover.jpg)
 
 Você recebe uma vetor A de inteiros não negativos de tamanho `n`. Sua tarefa é ordernar o vetor em ordem crescente e imprimir os índices originais do novo vetor ordenado.
 
@@ -23,7 +16,7 @@ A saída para esse vetor deve ser "4 2 0 1 3"
 
 NOTA: A indexação da vetor começa com 0.
 
-## Entrada
+### Entrada
 
 A primeira linha de entrada consiste no tamanho da vetor A. A próxima linha consiste no vetor de tamanho n.
 
@@ -40,13 +33,13 @@ representando os índices originais de cada elemento no vetor ordenado entre [ ]
 
 Exemplo de Entrada
 
-```txt
+```py
 5
 4 5 3 7 1
 ```
 
 Exemplo de Saída
 
-```txt
+```py
 [ 4 2 0 1 3 ]
 ```

@@ -17,7 +17,7 @@
 
 Dado um texto(max 100 char) mostre o texto invertido. O que for minúsculo imprima em maiúsculo e vice versa. Números e pontuação deixe inalterado.
 
-## Entrada
+### Entrada
 
 * Um texto (max 100 char)
 
@@ -33,13 +33,17 @@ O ovomaltine e GOSTOSO
 #OUTPUT
 o OVOMALTINE E gostoso
 #END
+```
 
+```py
 #INPUT
 Paralelepipedarte-ei se NAO me passar a CARTEIRA
 #OUTPUT
 pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
 #END
+```
 
+```py
 #INPUT
 1, Dois, 3 Indiozinhos
 #OUTPUT

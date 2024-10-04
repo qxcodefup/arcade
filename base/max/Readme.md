@@ -24,30 +24,36 @@ Implemente um programa que leia dois números inteiros e imprima o maior deles. 
 
 Caso sua linguagem tenha uma função pronta para esse problema, como max(), utilize-a. No entanto, também é importante tentar criar sua própria função para calcular o maior de dois números.
 
-### Shell
+## Testes
 
-```txt
+```py
 #INPUT
 4
 5
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT
 5
 4
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT
 12
 12
 #OUTPUT
 12
 #END
+```
 
+```py
 #INPUT
 -5
 0

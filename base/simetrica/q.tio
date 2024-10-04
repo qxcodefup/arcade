@@ -5,7 +5,9 @@
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 3 3 3
 3 3 3
@@ -13,7 +15,9 @@ sim
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 1 2 3
 4 5 6
@@ -21,7 +25,9 @@ sim
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT 04
 2 7 6
 9 5 1
@@ -29,7 +35,9 @@ nao
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT 05
 8 1 6
 3 5 7
@@ -37,7 +45,9 @@ nao
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT 06
 1 4 7
 4 1 8

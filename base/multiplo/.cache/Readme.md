@@ -5,7 +5,7 @@
 
 ![Imagem eh Positivo](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/multiplo/cover.jpg)
 
-### Ação
+## Ação
 
 Muitas vezes, em problemas matemáticos ou de programação, precisamos determinar se um número é múltiplo de outro para simplificar cálculos ou tomar decisões. Um exemplo clássico é verificar se um número é múltiplo de 7, o que pode ser útil em situações como regras de divisibilidade.
 
@@ -20,45 +20,57 @@ Implemente um programa que recebe um número inteiro e imprime "SIM" caso ele se
 - "SIM" caso o número seja múltiplo de 7.
 - "NAO" caso o número não seja múltiplo de 7.
 
-### Shell
+## Testes
 
-```txt
+```py
 #INPUT 0
 3
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT 1
 14
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT 2
 21
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT 3
 0
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT 4
 45
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT 5
 -20
 #OUTPUT
 NAO
 #END
+```
 
+```py
 #INPUT 6
 -21
 #OUTPUT

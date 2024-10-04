@@ -31,13 +31,17 @@ Você deverá:
 #OUTPUT
 2 1
 #END
+```
 
+```py
 #INPUT
 -1 3
 #OUTPUT
 3 -1
 #END
+```
 
+```py
 #INPUT
 0 0
 #OUTPUT

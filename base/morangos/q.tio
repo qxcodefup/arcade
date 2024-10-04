@@ -6,7 +6,9 @@
 #OUTPUT
 616
 #END
+```
 
+```py
 #INPUT
 12
 38
@@ -15,7 +17,9 @@
 #OUTPUT
 456
 #END
+```
 
+```py
 #INPUT 03
 9
 4
@@ -24,7 +28,9 @@
 #OUTPUT
 36
 #END
+```
 
+```py
 #INPUT 04
 9
 3
@@ -33,7 +39,9 @@
 #OUTPUT
 27
 #END
+```
 
+```py
 #INPUT 05
 10
 8
@@ -42,7 +50,9 @@
 #OUTPUT
 80
 #END
+```
 
+```py
 #INPUT 06
 14
 19
@@ -51,7 +61,9 @@
 #OUTPUT
 266
 #END
+```
 
+```py
 #INPUT 07
 18
 14
@@ -60,7 +72,9 @@
 #OUTPUT
 400
 #END
+```
 
+```py
 #INPUT 08
 16
 14
@@ -69,7 +83,9 @@
 #OUTPUT
 224
 #END
+```
 
+```py
 #INPUT 09
 71
 88
@@ -78,7 +94,9 @@
 #OUTPUT
 6248
 #END
+```
 
+```py
 #INPUT 10
 72
 60
@@ -87,7 +105,9 @@
 #OUTPUT
 4320
 #END
+```
 
+```py
 #INPUT 11
 66
 58
@@ -96,7 +116,9 @@
 #OUTPUT
 7410
 #END
+```
 
+```py
 #INPUT 12
 65
 92
@@ -105,7 +127,9 @@
 #OUTPUT
 5980
 #END
+```
 
+```py
 #INPUT 13
 91
 84
@@ -114,7 +138,9 @@
 #OUTPUT
 7644
 #END
+```
 
+```py
 #INPUT 14
 31
 57

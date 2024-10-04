@@ -8,7 +8,7 @@ Todo algoritmo de força bruta exige a geração de todas as combinações poss�
 
 Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem aparecer nela são "0,1,3". Calculando todas as permutações com repetição geraria as seguintes possibilidades:
 
-```txt
+```py
 00, 01, 03, 10, 11, 13, 30, 31, 33 
 ```
 
@@ -16,7 +16,7 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 
 É comum esses algoritmos de força bruta executarem por muitas horas e muitos dias. Então é importante guardar a última senha testada para no caso de ter que retornar os testes, retornar a partir do ponto que parou.
 
-## Entrada
+### Entrada
 
 - 1a linha: S Q, respectivamente o tamanho da senha e a quantidade de novas senhas a serem geradas. S entre 1 e 50, Q entre 1 e 100.
 - 2a linha: algarismos que podem aparecer na senha.
@@ -45,7 +45,9 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 0019
 0070
 #END
+```
 
+```py
 #INPUT misturado
 3 7
 #!1Ap
@@ -59,7 +61,9 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 !!p
 !1#
 #END
+```
 
+```py
 #INPUT numerico invertido
 4 10
 0982

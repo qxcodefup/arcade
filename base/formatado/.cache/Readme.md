@@ -19,14 +19,18 @@ Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 #OUTPUT
 []
 #END
+```
 
+```py
 #INPUT
 1
 3 10 16 11
 #OUTPUT
 [10, 16, 11]
 #END
+```
 
+```py
 #INPUT
 3
 3 10 16 11
@@ -37,7 +41,9 @@ Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 [88]
 [34, 12, 32, 100]
 #END
+```
 
+```py
 #INPUT
 4
 3 10 16 11

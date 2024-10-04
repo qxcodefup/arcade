@@ -4,28 +4,36 @@ amo
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT
 o rato ratificou o carate que rateamos no cerato.
 rat
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT 03
 lua de cristal que me faz sonhar menos
 me
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT 04
 marquei um x no seu umbigo de zumbak
 um
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT 05
 super golpe de kungfu
 kungfu

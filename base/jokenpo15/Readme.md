@@ -8,7 +8,7 @@ O jokenpo é emocionante. Normalmente, as crianças aprendem a jogar jokenpo ant
 
 Vamos fazer do Human o número 0, Tree será 1 e assim sucessivamente. O número 3 (sponje) ganha de (4, 5, 6, 7, 8, 9, 10) e perde de (11, 12, 13, 14, 0, 1, 2).
 
-## Entrada
+### Entrada
 
 - Dois números, A, B um por linha indicando as escolhas do primeiro e do segundo jogador.
 
@@ -35,7 +35,9 @@ Jogador 2
 #OUTPUT
 Jogador 1
 #END
+```
 
+```py
 #INPUT
 0
 0

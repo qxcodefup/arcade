@@ -5,7 +5,9 @@
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT
 2 7 6
 9 5 1
@@ -13,7 +15,9 @@ nao
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 8 1 6
 3 5 7

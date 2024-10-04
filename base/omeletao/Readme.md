@@ -22,7 +22,7 @@ empática e fome, decidiu comer só o ovo maiorzinho.
 
 Leia 4 números e imprima o maior valor.
 
-## Entrada
+### Entrada
 
 * Leia quatro valores inteiros do usuário.
 
@@ -41,7 +41,9 @@ Leia 4 números e imprima o maior valor.
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT
 5
 1

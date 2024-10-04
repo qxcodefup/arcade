@@ -18,7 +18,7 @@ Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minuto
 
 Você pode considerar que há pelo menos uma fruta a ser coletada.
 
-## Entrada
+### Entrada
 
 * Capacidade da cesta.
 * Quantidade de bananas.
@@ -40,7 +40,9 @@ Você pode considerar que há pelo menos uma fruta a ser coletada.
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT sobrando duas
 10
 4
@@ -49,7 +51,9 @@ Você pode considerar que há pelo menos uma fruta a ser coletada.
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT sobrando uma
 2
 4

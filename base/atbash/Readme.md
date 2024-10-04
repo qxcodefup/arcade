@@ -20,7 +20,7 @@ texto "minha chinela" output "zwavn pvwaryn"
 
 Observe que em word1 podem aparecer pontuação, numeros, etc. Se word1 = "123!\*ov" e word2 = "456?-ai" todo '!' vira '?' e vice versa.
 
-## Entrada
+### Entrada
 
 * linha 1: minusculos, numeros e pontuacao.
 * linha 2: palavra1 de cifragem.
@@ -40,7 +40,9 @@ x
 #OUTPUT
 Opx xmigo axrles 2o
 #END
+```
 
+```py
 #INPUT
 minha chinela
 abcdefghijlm

@@ -13,14 +13,14 @@ enigma e cada digito da 'key', se a quantidade de dígitos da 'key' for menor qu
 
 ### Exemplo
 
-```txt
+```py
 Enigma = nnb!ovofl
 Key = 123
 ```
 
 Ao processar cada caractere do enigma acima com a 'key', temos:
 
-```txt
+```py
 n n b ! o v o f l
 1 2 3 1 2 3 1 2 3
 
@@ -29,7 +29,7 @@ o l a   m u n d o
 
 Perceba que na prática os caracteres serão convertidos para o seu código decimal ASCII.
 
-```txt
+```py
 'n' = 110 = 1101110
  1  =  1  = 0000001
             1101111 = 111 = 'o'
@@ -43,7 +43,7 @@ Yara irá procurar a chave pra você.
 
 Então dada a chave(KEY) e o enigma(E) de Yara retornar o enigma revelado.  
 
-## Entrada
+### Entrada
 
 Um conjunto de caracteres E, representando o enigma.
 
@@ -68,14 +68,18 @@ nnb!ovofl
 #OUTPUT
 ola mundo
 #END
+```
 
+```py
 #INPUT Teste 1
 Br'tbn+'qhdb'tfeb+'iht'tfebjht
 777
 #OUTPUT
 Eu sei, voce sabe, nos sabemos
 #END
+```
 
+```py
 #INPUT Teste 2
 jsmc*&cs&uis&ucs&vgo
 666

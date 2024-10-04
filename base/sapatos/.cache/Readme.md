@@ -6,7 +6,7 @@ Leia dois números A e B.
 
 Depois, some os números que são divisíveis por 2 e divisíveis por 3 que estão entre A e B, inclusive A e B.
 
-## Entrada
+### Entrada
 
 - Dois números inteiros A e B, sendo B maior que A.
 
@@ -23,21 +23,27 @@ Depois, some os números que são divisíveis por 2 e divisíveis por 3 que est�
 #OUTPUT
 36
 #END
+```
 
+```py
 #INPUT 02
 1
 10
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT 03
 10
 1
 #OUTPUT
 invalido
 #END
+```
 
+```py
 #INPUT 04
 6
 6

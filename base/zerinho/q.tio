@@ -5,7 +5,9 @@
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT
 0
 0
@@ -13,7 +15,9 @@ empate
 #OUTPUT
 jog3
 #END
+```
 
+```py
 #INPUT
 1
 0
@@ -21,7 +25,9 @@ jog3
 #OUTPUT
 jog1
 #END
+```
 
+```py
 #INPUT
 1
 0
@@ -29,7 +35,9 @@ jog1
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 08
 1
 1
@@ -37,7 +45,9 @@ jog2
 #OUTPUT
 jog3
 #END
+```
 
+```py
 #INPUT 09
 0
 1
@@ -45,7 +55,9 @@ jog3
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 10
 0
 1
@@ -53,7 +65,9 @@ jog2
 #OUTPUT
 jog1
 #END
+```
 
+```py
 #INPUT 12
 0
 0

@@ -6,7 +6,7 @@
 
 Leia um conjunto de strings e aloque apenas a quantidade de memória necessária para armazenar estas strings. Em seguida ordene e imprima as strings. Somente serão aceitas respostas com alocação dinâmica das strings (verificação manual).
 
-## Entrada
+### Entrada
 
 - Linha 1: número de strings.
 - Uma linha para cada strings.

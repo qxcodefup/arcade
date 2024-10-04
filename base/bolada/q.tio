@@ -4,63 +4,81 @@ c
 #OUTPUT
 Perfeito
 #END
+```
 
+```py
 #INPUT
 b
 68
 #OUTPUT
 Fraco, nem passou
 #END
+```
 
+```py
 #INPUT
 c
 160
 #OUTPUT
 Muito forte, bola fora
 #END
+```
 
+```py
 #INPUT
 b
 99
 #OUTPUT
 Satisfeito
 #END
+```
 
+```py
 #INPUT 05
 c
 90
 #OUTPUT
 Perfeito
 #END
+```
 
+```py
 #INPUT 06
 c
 87
 #OUTPUT
 Fraco, nem passou
 #END
+```
 
+```py
 #INPUT 07
 b
 120
 #OUTPUT
 Muito forte, bola fora
 #END
+```
 
+```py
 #INPUT 08
 c
 127
 #OUTPUT
 Muito forte, bola fora
 #END
+```
 
+```py
 #INPUT 09
 c
 115
 #OUTPUT
 Satisfeito
 #END
+```
 
+```py
 #INPUT 10
 c
 50

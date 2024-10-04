@@ -6,20 +6,24 @@ O número A sempre será menor ou igual ao número B.
 
 ## Testes
 
-```txt
+```py
 
 #INPUT
 1 10
 #OUTPUT
 [ 1 2 3 4 5 6 7 8 9 ]
 #END
+```
 
+```py
 #INPUT
 10 14
 #OUTPUT
 [ 10 11 12 13 ]
 #END
+```
 
+```py
 #INPUT
 -5 0
 #OUTPUT

@@ -21,7 +21,7 @@ para mostrar os saltos do sapo até a saída.
 * A cada salto o sapinho fica mais cansado e o próximo salto será 10 cm menor.
 * Se ele ficar abaixo da agua ele morrerá afogado.
 
-## Entrada
+### Entrada
 
 * P, S, E inteiros, um por linhas.
 
@@ -42,7 +42,9 @@ para mostrar os saltos do sapo até a saída.
 390 670
 570 saiu
 #END
+```
 
+```py
 #INPUT
 800
 300
@@ -72,7 +74,9 @@ para mostrar os saltos do sapo até a saída.
 0 90
 -110 morreu
 #END
+```
 
+```py
 #INPUT
 100
 50
@@ -86,7 +90,9 @@ para mostrar os saltos do sapo até a saída.
 0 0
 -30 morreu
 #END
+```
 
+```py
 #INPUT
 100
 60

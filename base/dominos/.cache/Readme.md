@@ -12,7 +12,7 @@ Para ajudar nessa importante tarefa, Deo pediu sua ajuda para verificar se uma f
 
 Leia um vetor de tamanho n (quantidade de dominós) , e diga se ele está ordenado de forma crescente.  
   
-## Entrada
+### Entrada
 
 * O número **n** ( 0 < n <= 50) de dominós.  
 * A altura (inteira) de cada dominó.  
@@ -31,14 +31,18 @@ Leia um vetor de tamanho n (quantidade de dominós) , e diga se ele está ordena
 #OUTPUT
 ok
 #END
+```
 
+```py
 #INPUT
 6
 2 4 2 6 8 10
 #OUTPUT
 precisa de ajuste
 #END
+```
 
+```py
 #INPUT
 1
 2

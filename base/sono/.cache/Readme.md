@@ -14,7 +14,7 @@ Se o segundo horário for menor que o primeiro, compreenda que é no outro dia.
 Se você dormir 23:00 e acorda às 6:00 então você tem 7:00 horas de sono.
 \[DS\]
 
-## Entrada
+### Entrada
 
 - linha 1: hora minuto segundo (do horário que vai dormir).
 - linha 2: hora minuto segundo (do horário que vai acordar).
@@ -32,21 +32,27 @@ Se você dormir 23:00 e acorda às 6:00 então você tem 7:00 horas de sono.
 #OUTPUT
 02 00 00
 #END
+```
 
+```py
 #INPUT
 02 11 00
 03 10 10
 #OUTPUT
 00 59 10
 #END
+```
 
+```py
 #INPUT
 04 10 00
 03 10 10
 #OUTPUT
 23 00 10
 #END
+```
 
+```py
 #INPUT
 04 00 01
 03 00 00
@@ -59,7 +65,7 @@ Se você dormir 23:00 e acorda às 6:00 então você tem 7:00 horas de sono.
 
 Em python2 você pode pegar as strings assim:
 
-```txt
+```py
 h1, m1, s1 = raw\_input().split(" ")
 h2, m2, s2 = raw\_input().split(" ")
 ```

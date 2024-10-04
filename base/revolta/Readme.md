@@ -14,7 +14,7 @@ Um grupo de portugueses planejava fazer uma revolução armada.
 
 Verifique se o grupo de Manoel ou de Joaquim conseguirá vencer essa batalha. Dado um vetor de números, os números ímpares representam os soldados e os números pares representam os rebeldes infiltrados. Some as forças e descubra qual dos dois grupos é mais forte.
 
-## Entrada
+### Entrada
 
 * 1ª linha: tamanho do vetor (1 a 50)
 
@@ -38,7 +38,9 @@ Verifique se o grupo de Manoel ou de Joaquim conseguirá vencer essa batalha. Da
 #OUTPUT
 rebeldes
 #END
+```
 
+```py
 #INPUT
 3
 1
@@ -47,7 +49,9 @@ rebeldes
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT
 2
 2
@@ -55,7 +59,9 @@ empate
 #OUTPUT
 soldados
 #END
+```
 
+```py
 #INPUT
 4
 1
@@ -65,7 +71,9 @@ soldados
 #OUTPUT
 soldados
 #END
+```
 
+```py
 #INPUT
 5
 1

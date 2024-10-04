@@ -9,7 +9,9 @@
 #OUTPUT
 3.00 6.00
 #END
+```
 
+```py
 #INPUT Test 2
 2.9 4.8
 5

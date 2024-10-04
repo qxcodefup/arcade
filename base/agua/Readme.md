@@ -15,13 +15,13 @@ O prefeito quer saber exatamente como a distribuição de água está sendo feit
 
 Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 
-## Entrada
+### Entrada
 
 * **N** (quantidade de casas) e **Q** (quantidade decaminhões)
 
 * Nas próximas **Q** linhas: o ponto **A**, **B** e a quantidade inteira **L** de água de cada caminhão.
 
-## Saída
+### Saída
 
 * Vetor com o total de água de cada casa.
 
@@ -42,7 +42,9 @@ Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 #OUTPUT
 1 1 3 2 2
 #END
+```
 
+```py
 #INPUT
 10 5
 1 4 5
@@ -53,7 +55,9 @@ Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 #OUTPUT
 1 6 6 6 8 5 5 5 8 4
 #END
+```
 
+```py
 #INPUT
 4 4
 0 0 1

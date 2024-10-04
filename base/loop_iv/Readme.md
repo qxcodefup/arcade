@@ -10,26 +10,32 @@ Após resolver da forma como preferir, pense como seria possível resolver esse 
 
 ## Testes
 
-```txt
+```py
 
 #INPUT
 10 0
 #OUTPUT
 [ 10 9 8 7 6 5 4 3 2 1 ]
 #END
+```
 
+```py
 #INPUT
 0 10
 #OUTPUT
 [ 0 1 2 3 4 5 6 7 8 9 ]
 #END
+```
 
+```py
 #INPUT
 0 -5
 #OUTPUT
 [ 0 -1 -2 -3 -4 ]
 #END
+```
 
+```py
 #INPUT
 5 10
 #OUTPUT

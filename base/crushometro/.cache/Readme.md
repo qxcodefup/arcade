@@ -25,7 +25,7 @@ Para fazer o cálculo, some todos os pontos e imprima da seguinte forma:
 printf("%%");
 ```
 
-## Entrada
+### Entrada
 
 * Seu primeiro nome
 * Primeiro nome do seu crush
@@ -43,28 +43,36 @@ Priscilla
 #OUTPUT
 As chances do crush te dar bola sao: 20%!
 #END
+```
 
+```py
 #INPUT
 Shun
 Hyoga
 #OUTPUT
 As chances do crush te dar bola sao: 0%!
 #END
+```
 
+```py
 #INPUT
 Kratos
 Athena
 #OUTPUT
 As chances do crush te dar bola sao: 20%!
 #END
+```
 
+```py
 #INPUT
 Paula
 Paulo
 #OUTPUT
 As chances do crush te dar bola sao: 100%!
 #END
+```
 
+```py
 #INPUT
 Shun
 Hyoga

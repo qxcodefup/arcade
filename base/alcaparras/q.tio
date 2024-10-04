@@ -4,21 +4,27 @@ a
 #OUTPUT
 8
 #END
+```
 
+```py
 #INPUT 02
 A Andreia alimentou a avestruz com alcaparras
 A
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT 03
 A Andreia atirou alcachofras no leao
 e
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT 04
 A Andreia atirou alcachofras no leao
 x

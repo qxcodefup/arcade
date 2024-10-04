@@ -12,7 +12,7 @@ Paulo tem uma nova namorada, e quer convencê-la a passear junto com ele pelas 
 
 Dadas as informações colhidas por Paulo sobre distâncias e altitudes de um conjunto de trilhas, você deve escrever um programa que determine qual é a trilha que exige o menor esforço de subida.  
   
-## Entrada
+### Entrada
 
 - A primeira linha da entrada contém um número inteiro N que indica o número de trilhas.
 - Cada uma das N linhas seguintes contém a descrição de uma trilha (1 ≤ N ≤ 100).
@@ -54,7 +54,9 @@ Dadas as informações colhidas por Paulo sobre distâncias e altitudes de um
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 3
 5 600 601 600 601 600

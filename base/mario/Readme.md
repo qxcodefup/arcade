@@ -18,7 +18,7 @@ Faça um programa que dado um vetor de números inteiros positivos mostre o cen�
 Um cenário é um vetor de números positivos onde o vetor representa a altura dos blocos.  
 O vetor 1312 seria o seguinte cenário. (Onde não houver nada coloque  **\_**)
 
-```txt
+```py
 _#__
 _#_#
 ####
@@ -26,7 +26,7 @@ _#_#
 
 E o vetor 1133464221 seria como o seguinte cenário:
 
-```txt
+```py
 _____#____
 _____#____
 ____###___
@@ -35,7 +35,7 @@ __#######_
 ##########
 ```
 
-## Entrada
+### Entrada
 
 - A quantidade de elementos no vetor (1 à 20).  
 
@@ -56,7 +56,9 @@ _#__
 _#_#
 ####
 #END
+```
 
+```py
 #INPUT
 5
 1 3 1 2 5
@@ -67,7 +69,9 @@ _#__#
 _#_##
 #####
 #END
+```
 
+```py
 #INPUT
 10
 1 1 3 3 4 6 4 2 2 1

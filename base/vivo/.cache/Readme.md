@@ -16,7 +16,7 @@ Por exemplo, considere que a brincadeira inicie com cinco participantes, identif
 
 Sua tarefa é escrever um programa que determine o vencedor de uma partida de "vivo ou morto”, a partir da informação das ordens dadas pelo chefe e das ações executadas pelos participantes em cada rodada.  
   
-## Entrada
+### Entrada
 
 - A entrada é constituı́da de vários casos de teste, cada um representando uma partida. A primeira linha de um caso de teste contém dois números inteiros P e R indicando respectivamente a quantidade inicial de participantes (2 ≤ P ≤ 100) e quantidade de rodadas da partida (1 ≤ R ≤ 100).
 - Os participantes são identificados por números de 1 a P . A segunda linha de um caso de teste descreve a fila organizada pelo chefe, contendo P números inteiros distintos x1 , x2 , . . . xP , onde x1 representa o identificador do participante no primeiro lugar na fila, x2 representa o identificador do participante no segundo lugar na fila, e assim por diante (1 ≤ xi ≤ P ).
@@ -33,7 +33,7 @@ Sua tarefa é escrever um programa que determine o vencedor de uma partida de "
   
 ## Restrições
 
-```txt
+```py
 2 ≤ P ≤ 100 (P = 0 apenas para indicar o fim da entrada)  
 1 ≤ R ≤ 100 (R = 0 apenas para indicar o fim da entrada)  
 1 ≤ xi ≤ P , para 1 ≤ i ≤ P  

@@ -14,21 +14,27 @@ Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na
 #OUTPUT
 2 3
 #END
+```
 
+```py
 #INPUT
 40
 #OUTPUT
 2 3
 5 1
 #END
+```
 
+```py
 #INPUT
 55
 #OUTPUT
 5 1
 11 1
 #END
+```
 
+```py
 #INPUT
 552
 #OUTPUT
@@ -36,7 +42,9 @@ Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na
 3 1
 23 1
 #END
+```
 
+```py
 #INPUT
 169400
 #OUTPUT

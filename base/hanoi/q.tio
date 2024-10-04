@@ -9,7 +9,9 @@ B -> A
 B -> C
 A -> C
 #END
+```
 
+```py
 #INPUT 02
 5
 #OUTPUT

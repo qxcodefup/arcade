@@ -3,67 +3,89 @@
 #OUTPUT
 joguem de novo
 #END
+```
 
+```py
 #INPUT
 1
 #OUTPUT
 a
 #END
+```
 
+```py
 #INPUT
 2
 #OUTPUT
 b
 #END
+```
 
+```py
 #INPUT
 26
 #OUTPUT
 z
 #END
+```
 
+```py
 #INPUT
 27
 #OUTPUT
 a
 #END
+```
 
+```py
 #INPUT 06
 28
 #OUTPUT
 b
 #END
+```
 
+```py
 #INPUT 07
 52
 #OUTPUT
 z
 #END
+```
 
+```py
 #INPUT 08
 53
 #OUTPUT
 a
 #END
+```
 
+```py
 #INPUT 09
 30
 #OUTPUT
 d
 #END
+```
 
+```py
 #INPUT 10
 54
 #OUTPUT
 b
 #END
+```
 
+```py
 #INPUT 11
 80
 #OUTPUT
 b
 #END
+```
 
+```py
 #INPUT 12
 150
 #OUTPUT

@@ -10,7 +10,7 @@ A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógi
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/impedido/cover.jpg)
 
-## Entrada
+### Entrada
 
 - A entrada é composta 3 linhas, contendo os três inteiros L, R e D.
 
@@ -34,7 +34,9 @@ A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógi
 #OUTPUT
 N
 #END
+```
 
+```py
 #INPUT
 55
 68
@@ -42,7 +44,9 @@ N
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT
 66
 80

@@ -17,7 +17,7 @@ e você comeu 5 sanduíches, com quanto você fica?
 O Chaves não sabe diferenciar positivo, negativo e nulo, mas você sabe!
 Eu espero!
 
-## Entrada
+### Entrada
 
 - Leia um valor inteiro do usuário.
 
@@ -33,13 +33,17 @@ Eu espero!
 #OUTPUT
 positivo
 #END
+```
 
+```py
 #INPUT
 -1
 #OUTPUT
 negativo
 #END
+```
 
+```py
 #INPUT
 0
 #OUTPUT

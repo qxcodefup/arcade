@@ -3,43 +3,57 @@
 #OUTPUT
 1080.00
 #END
+```
 
+```py
 #INPUT
 1500.00
 #OUTPUT
 1725.00
 #END
+```
 
+```py
 #INPUT
 2005.20
 #OUTPUT
 2105.46
 #END
+```
 
+```py
 #INPUT 04
 500.00
 #OUTPUT
 600.00
 #END
+```
 
+```py
 #INPUT 05
 1000.00
 #OUTPUT
 1200.00
 #END
+```
 
+```py
 #INPUT 06
 1001.00
 #OUTPUT
 1151.15
 #END
+```
 
+```py
 #INPUT 08
 2000.00
 #OUTPUT
 2200.00
 #END
+```
 
+```py
 #INPUT 09
 3007.21
 #OUTPUT

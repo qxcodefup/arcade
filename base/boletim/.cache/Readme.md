@@ -13,7 +13,7 @@
 
 Receba uma matriz 2x3 de notas inteiras e retorne a soma de todas as notas.
 
-## Entrada
+### Entrada
 
 - Os valores da matriz
 
@@ -30,14 +30,18 @@ Receba uma matriz 2x3 de notas inteiras e retorne a soma de todas as notas.
 #OUTPUT
 21
 #END
+```
 
+```py
 #INPUT
 1 1 1
 1 1 1
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 5 2 1
 3 2 1

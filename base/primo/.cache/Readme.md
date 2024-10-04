@@ -6,7 +6,7 @@
 
 Dado um número inteiro, faça uma função que verifique se ele é primo.  
 
-## Entrada
+### Entrada
 
 * Um numero inteiro N.
 
@@ -22,13 +22,17 @@ Dado um número inteiro, faça uma função que verifique se ele é primo.
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 21
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 2
 #OUTPUT

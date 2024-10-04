@@ -4,49 +4,63 @@
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 5
 8
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 5
 9
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT 01
 10
 20
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT 02
 12
 55
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT 03
 100
 87
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 04
 40
 10
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 05
 10
 5

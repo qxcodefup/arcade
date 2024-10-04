@@ -48,7 +48,7 @@ Número de acertos | Saída do programa
 3               | Fa
 4               | Super Fa
 
-## Entrada
+### Entrada
 
 - 4 letras(abcd) uma por linha.
 
@@ -69,7 +69,9 @@ d
 #OUTPUT
 Ja ouviu falar
 #END
+```
 
+```py
 #INPUT
 d
 a

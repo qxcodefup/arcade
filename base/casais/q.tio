@@ -4,21 +4,27 @@
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 5
 1 3 2 2 -3
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 10
 1 9 -3 3 3 2 -1 4 -1 1`
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT 03
 10
 1 9 -3 3 3 2 -1 4 -1 1

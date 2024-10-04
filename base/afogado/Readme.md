@@ -12,11 +12,11 @@
 
 Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcular a força mínima antes de começar  a pular.  
 
-## Entrada
+### Entrada
 
 - P, E inteiros, um por linhas.  
 
-## Saída
+### Saída
 
 - A menor força de salto que o sapinho deve ter para conseguir sair do poço  
 
@@ -29,21 +29,27 @@ Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcula
 #OUTPUT
 10
 #END
+```
 
+```py
 #INPUT
 20
 1
 #OUTPUT
 16
 #END
+```
 
+```py
 #INPUT
 200
 10
 #OUTPUT
 67
 #END
+```
 
+```py
 #INPUT
 500
 30

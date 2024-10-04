@@ -17,7 +17,7 @@ Não entendeu? Quem mandou gazear a aula de biologia. -_-
 
 Dados dois vetores, verifique se o primeiro está contido no segundo.
 
-## Entrada
+### Entrada
 
 - 1a linha: Número de elementos do primeiro vetor(1 a 50) seguido dos elementos.  
 - 2a linha: Número de elementos do segundo vetor(1 a 50) seguido dos elementos.
@@ -37,14 +37,18 @@ Dados dois vetores, verifique se o primeiro está contido no segundo.
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 2 1 3
 3 6 5 3
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT
 3 1 3 2
 6 1 5 3 6 8 2

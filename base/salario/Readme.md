@@ -14,7 +14,7 @@ Os funcionários estão nervosos pra saber quanto vão ganhar no novo contracheq
 
 Receba o valor do salário atual do funcionário e imprima o novo salário de acordo com as regras informadas na descrição.
 
-## Entrada
+### Entrada
 
 * Salário atual do funcionário (float com até duas casas decimais).
 
@@ -40,13 +40,17 @@ printf("%.2f", total);
 #OUTPUT
 1080.00
 #END
+```
 
+```py
 #INPUT
 1500.00
 #OUTPUT
 1725.00
 #END
+```
 
+```py
 #INPUT
 2005.20
 #OUTPUT

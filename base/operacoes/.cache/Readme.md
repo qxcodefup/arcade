@@ -6,7 +6,7 @@
 
 Leia dois números e imprima a soma, a subtração, a multiplicação, a divisão e o resto da divisão entre eles respectivamente.
 
-## Entrada
+### Entrada
 
 - Valores de A, B em inteiro, um por linha.
 
@@ -30,7 +30,9 @@ Leia dois números e imprima a soma, a subtração, a multiplicação, a divisã
 0.25
 1
 #END
+```
 
+```py
 #INPUT
 3
 3

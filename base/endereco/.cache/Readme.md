@@ -50,13 +50,17 @@ Você deverá:
 #OUTPUT
 2:3:4
 #END
+```
 
+```py
 #INPUT
 3601
 #OUTPUT
 1:0:1
 #END
+```
 
+```py
 #INPUT
 60
 #OUTPUT

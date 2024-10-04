@@ -5,7 +5,9 @@
 #OUTPUT
 primeiro
 #END
+```
 
+```py
 #INPUT
 3
 5
@@ -13,7 +15,9 @@ primeiro
 #OUTPUT
 segundo
 #END
+```
 
+```py
 #INPUT
 10
 11
@@ -21,7 +25,9 @@ segundo
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT
 20
 21
@@ -29,7 +35,9 @@ empate
 #OUTPUT
 primeiro
 #END
+```
 
+```py
 #INPUT
 20
 21
@@ -37,7 +45,9 @@ primeiro
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT 06
 10
 11
@@ -45,7 +55,9 @@ empate
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT 07
 10
 12
@@ -53,7 +65,9 @@ empate
 #OUTPUT
 segundo
 #END
+```
 
+```py
 #INPUT 08
 10
 11
@@ -61,7 +75,9 @@ segundo
 #OUTPUT
 primeiro
 #END
+```
 
+```py
 #INPUT 10
 20
 22
@@ -69,7 +85,9 @@ primeiro
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT 11
 20
 21

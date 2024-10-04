@@ -5,7 +5,9 @@
 #OUTPUT
 N
 #END
+```
 
+```py
 #INPUT
 55
 68
@@ -13,7 +15,9 @@ N
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT
 66
 80
@@ -21,7 +25,9 @@ S
 #OUTPUT
 N
 #END
+```
 
+```py
 #INPUT 04
 33
 40
@@ -29,7 +35,9 @@ N
 #OUTPUT
 N
 #END
+```
 
+```py
 #INPUT 05
 80
 80
@@ -37,7 +45,9 @@ N
 #OUTPUT
 N
 #END
+```
 
+```py
 #INPUT 06
 40
 40
@@ -45,7 +55,9 @@ N
 #OUTPUT
 N
 #END
+```
 
+```py
 #INPUT 07
 71
 47

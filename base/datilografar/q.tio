@@ -4,28 +4,36 @@
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 5
 5004000
 #OUTPUT
 4000
 #END
+```
 
+```py
 #INPUT
 3
 123456
 #OUTPUT
 12456
 #END
+```
 
+```py
 #INPUT
 9
 99999999991999999
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 7
 777

@@ -16,7 +16,7 @@ Regras:
 É importante entender que todos os nascimentos e mortes ocorrem simultaneamente. Juntos eles constituem uma geração ou, como podemos chamá-los, um "instante" na história da vida completa da configuração inicial.
 Mais informações: Procure sobre Jogo da vida na Wikipedia
 
-## Entrada
+### Entrada
 
 - NL, NC, seguida da matriz de char
 - Na matriz, uma célula morta é representada com o char `.` e uma célula viva por `#`.
@@ -40,7 +40,9 @@ Mais informações: Procure sobre Jogo da vida na Wikipedia
 ...##...
 ...##...
 #END
+```
 
+```py
 #INPUT
 4 8
 ......#.
@@ -53,7 +55,9 @@ Mais informações: Procure sobre Jogo da vida na Wikipedia
 .#.#....
 ..#.....
 #END
+```
 
+```py
 #INPUT
 7 18
 ..................

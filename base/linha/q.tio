@@ -3,19 +3,25 @@
 #OUTPUT
 [ 15 17 11 32 12 19 ]
 #END
+```
 
+```py
 #INPUT
 15
 #OUTPUT
 [ 15 ]
 #END
+```
 
+```py
 #INPUT
 15 12
 #OUTPUT
 [ 12 15 ]
 #END
+```
 
+```py
 #INPUT
 15 17 11
 #OUTPUT

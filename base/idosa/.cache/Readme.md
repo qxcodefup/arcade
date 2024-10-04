@@ -8,7 +8,7 @@ Leia um grupo de pessoas e informe o nome da mulher mais idosa do grupo.
 
 Cada pessoa tem nome(string até 20 char, sem whitespace), idade(int) e sexo(char 'm' ou 'f').
 
-## Entrada
+### Entrada
 
 - 1a linha: o número de pessoas, seguido por uma pessoa por linha.
 
@@ -30,7 +30,9 @@ joao 43 m
 #OUTPUT
 ana
 #END
+```
 
+```py
 #INPUT 02
 2
 jose 80 m
@@ -38,7 +40,9 @@ joao 43 m
 #OUTPUT
 nao tem mulher
 #END
+```
 
+```py
 #INPUT 03
 3
 joao 43 m
@@ -47,7 +51,9 @@ melissa 34 f
 #OUTPUT
 ana
 #END
+```
 
+```py
 #INPUT 04
 3
 joao 88 m

@@ -25,7 +25,7 @@ int main(){
 }
 ```
 
-## Entrada
+### Entrada
 
 - Linha 1: string com até 100 caracteres.
 - Linha 2: caractere (que será contado na string anterior)

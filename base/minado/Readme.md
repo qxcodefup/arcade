@@ -45,7 +45,7 @@ Mais exemplos no final da página.
 Leia uma matriz com **n** linhas e **m** colunas com a posição das minas. Preencha o restante da matriz seguindo as regras citadas.  
 Considere ( 1 <=  **n, m**<= 50).
 
-## Entrada
+### Entrada
 
 * O número **n**(linhas)e **m**(colunas) .  
 
@@ -68,7 +68,9 @@ Considere ( 1 <=  **n, m**<= 50).
 25*
 -2*
 #END
+```
 
+```py
 #INPUT
 3 3
 ---
@@ -79,7 +81,9 @@ Considere ( 1 <=  **n, m**<= 50).
 1*1
 111
 #END
+```
 
+```py
 #INPUT
 3 5
 *----
@@ -90,7 +94,9 @@ Considere ( 1 <=  **n, m**<= 50).
 1113*
 --1**
 #END
+```
 
+```py
 #INPUT
 1 1
 *

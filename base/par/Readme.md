@@ -17,43 +17,55 @@ Implemente um programa que recebe um número inteiro e diga se ele é par ou imp
 
 ## Exemplos
 
-```txt
+```py
 #INPUT 0
 3
 #OUTPUT
 IMPAR
 #END
+```
 
+```py
 #INPUT 1
 12
 #OUTPUT
 PAR
 #END
+```
 
+```py
 #INPUT 2
 33
 #OUTPUT
 IMPAR
 #END
+```
 
+```py
 #INPUT 3
 0
 #OUTPUT
 PAR
 #END
+```
 
+```py
 #INPUT 4
 7
 #OUTPUT
 IMPAR
 #END
+```
 
+```py
 #INPUT 5
 20
 #OUTPUT
 PAR
 #END
+```
 
+```py
 #INPUT 6
 15
 #OUTPUT

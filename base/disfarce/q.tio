@@ -14,7 +14,9 @@ pessoa
 chefe
 ultron
 #END
+```
 
+```py
 #INPUT
 2
 aeiou

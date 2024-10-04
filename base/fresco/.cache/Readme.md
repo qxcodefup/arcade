@@ -16,7 +16,7 @@ Se tiver 3 ou mais vogais juntas so junte todas amo o orvalho -> amorvalho
 
 o gago disse e e e eu te amo -> o gago disseu te amo
 
-## Entrada
+### Entrada
 
 * Um texto. (max 100 char)
 
@@ -32,19 +32,25 @@ a porta amassou
 #OUTPUT
 a portamassou
 #END
+```
 
+```py
 #INPUT
 carla almeida alencar
 #OUTPUT
 carlalmeidalencar
 #END
+```
 
+```py
 #INPUT
 a carla a ama
 #OUTPUT
 a carlama
 #END
+```
 
+```py
 #INPUT
 o orvalho ouviu uniformemente e eu uivei
 #OUTPUT

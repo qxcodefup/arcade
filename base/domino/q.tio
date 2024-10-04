@@ -3,97 +3,129 @@
 #OUTPUT
 28
 #END
+```
 
+```py
 #INPUT
 12
 #OUTPUT
 91
 #END
+```
 
+```py
 #INPUT
 4
 #OUTPUT
 15
 #END
+```
 
+```py
 #INPUT
 3
 #OUTPUT
 10
 #END
+```
 
+```py
 #INPUT
 1
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT
 2
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 10
 #OUTPUT
 66
 #END
+```
 
+```py
 #INPUT
 9
 #OUTPUT
 55
 #END
+```
 
+```py
 #INPUT
 5
 #OUTPUT
 21
 #END
+```
 
+```py
 #INPUT
 7
 #OUTPUT
 36
 #END
+```
 
+```py
 #INPUT
 8
 #OUTPUT
 45
 #END
+```
 
+```py
 #INPUT
 531
 #OUTPUT
 141778
 #END
+```
 
+```py
 #INPUT
 2791
 #OUTPUT
 3899028
 #END
+```
 
+```py
 #INPUT
 0
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 5139
 #OUTPUT
 13212370
 #END
+```
 
+```py
 #INPUT
 10000
 #OUTPUT
 50015001
 #END
+```
 
+```py
 #INPUT
 7408
 #OUTPUT

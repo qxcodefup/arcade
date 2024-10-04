@@ -3,19 +3,25 @@ sorvete suor casaca chicletes pegasus
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 minhoca quixe tempero musica roubo
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 acaro cocegas cagado aquecido
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT
 aaabbcc bbac bbbaacc ccbddbabda basdbdc
 #OUTPUT

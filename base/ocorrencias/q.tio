@@ -4,21 +4,27 @@ a
 #OUTPUT
 4
 #END
+```
 
+```py
 #INPUT 02
 o rato roeu a roupa do rei de roma
 a
 #OUTPUT
 4
 #END
+```
 
+```py
 #INPUT 03
 o rato roeu a roupa do rei de roma
 x
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT 04
 o rato roeu a roupa do rei de roma
 o

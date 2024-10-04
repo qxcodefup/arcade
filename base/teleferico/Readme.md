@@ -8,7 +8,7 @@ A turma do colégio vai fazer uma excursão na serra e todos os alunos e monitor
 
 Dados como entrada a capacidade C da cabine e o número total A de alunos, você deve escrever um programa para calcular o número mínimo de viagens do teleférico.
 
-## Entrada
+### Entrada
 
 - A primeira linha da entrada contém um inteiro C, representando a capacidade da cabine. A segunda linha da entrada contém um inteiro A, representando o número total de alunos na turma.
 
@@ -33,14 +33,18 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 5
 8
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 5
 9
@@ -55,14 +59,18 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT 02
 12
 55
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT 03
 100
 87

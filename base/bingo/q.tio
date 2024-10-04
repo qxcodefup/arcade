@@ -3,31 +3,41 @@
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT
 2 7 88 31 19 40
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 47 20 23 27 9 1
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT 01
 55 30 2 74 79 23
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT 04
 1 7 5 3 4 8
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 05
 21 48 9 12 7 1
 #OUTPUT

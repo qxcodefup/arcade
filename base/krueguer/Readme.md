@@ -23,7 +23,7 @@ Algum tempo depois...
 
 Faça um programa que dada uma string retorne uma linha contendo o subtexto com a maior quantidade de vogais juntas.
 
-## Entrada
+### Entrada
 
 * 1a linha: a quantidade de casos de teste(1 a 50). Uma linha por caso de teste contendo uma frase de até 50 caracteres, apenas com minuscula.
 
@@ -40,14 +40,18 @@ aeb
 #OUTPUT
 ae
 #END
+```
 
+```py
 #INPUT
 1
 aebeiocdu
 #OUTPUT
 eio
 #END
+```
 
+```py
 #INPUT
 2
 abdeiuofaoi
@@ -56,7 +60,9 @@ xaeioux
 eiuo
 aeiou
 #END
+```
 
+```py
 #INPUT
 3
 aebaibaobaub

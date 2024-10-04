@@ -5,7 +5,9 @@ x
 #OUTPUT
 Opx xmigo axrles 2o
 #END
+```
 
+```py
 #INPUT
 minha chinela
 abcdefghijlm
@@ -13,7 +15,9 @@ nopqrtuvwxyz
 #OUTPUT
 zwavn pvwaryn
 #END
+```
 
+```py
 #INPUT 03
 aquoso estrela
 aeios
@@ -21,7 +25,9 @@ aeios
 #OUTPUT
 4qu020 32tr3l4
 #END
+```
 
+```py
 #INPUT 04
 eu desejo eu quero eu vou
 eo

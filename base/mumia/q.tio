@@ -4,56 +4,72 @@ mario
 #OUTPUT
 mario eh crianca
 #END
+```
 
+```py
 #INPUT
 jose
 65
 #OUTPUT
 jose eh idoso
 #END
+```
 
+```py
 #INPUT 03
 mario
 1
 #OUTPUT
 mario eh crianca
 #END
+```
 
+```py
 #INPUT 04
 mariana
 12
 #OUTPUT
 mariana eh jovem
 #END
+```
 
+```py
 #INPUT 05
 maria
 17
 #OUTPUT
 maria eh jovem
 #END
+```
 
+```py
 #INPUT 06
 marina
 18
 #OUTPUT
 marina eh adulto
 #END
+```
 
+```py
 #INPUT 07
 marion
 64
 #OUTPUT
 marion eh adulto
 #END
+```
 
+```py
 #INPUT 08
 marilene
 65
 #OUTPUT
 marilene eh idoso
 #END
+```
 
+```py
 #INPUT 09
 maridracula
 10000

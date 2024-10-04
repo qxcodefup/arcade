@@ -24,7 +24,7 @@ double media(int vet[], int qtd){
 }  
 ```
 
-## Entrada
+### Entrada
 
 * Quantidade de soldados.
 * Altura em double de cada soldado.  
@@ -44,7 +44,9 @@ double media(int vet[], int qtd){
 1.30
 M
 #END
+```
 
+```py
 #INPUT
 2
 1.70 1.60
@@ -52,7 +54,9 @@ M
 1.65
 G P
 #END
+```
 
+```py
 #INPUT
 3
 1.70 1.60 1.8
@@ -60,7 +64,9 @@ G P
 1.70
 M P G
 #END
+```
 
+```py
 #INPUT
 4
 1.00 1.70 1.60 1.80

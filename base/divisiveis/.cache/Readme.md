@@ -10,7 +10,7 @@ Ao terminar uma prova de matemática, Marcelo e João estavam na dúvida se teri
 
 Leia dois inteiros e diga se ambos são divisíveis por 3 ou se ambos são divisíveis por 5.
 
-## Entrada
+### Entrada
 
 - Dois números inteiros.
 
@@ -28,14 +28,18 @@ Leia dois inteiros e diga se ambos são divisíveis por 3 ou se ambos são divis
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 3
 10
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT
 6
 9

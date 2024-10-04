@@ -20,7 +20,7 @@ Algum tempo depois descobriu que esses números, 1, 2, 4, 9, 16, 25, etc eram ch
 
 Dado um inteiro lido do usuário, determine, sem uso de operadores reais (como raiz quadrada, por exemplo), se ele é um quadrado perfeito, imprimindo "sim" se ele for quadrado perfeito e "nao", caso contrário.  
 
-## Entrada
+### Entrada
 
 - Um número inteiro.
 
@@ -36,13 +36,17 @@ Dado um inteiro lido do usuário, determine, sem uso de operadores reais (como r
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 18
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT
 81
 #OUTPUT

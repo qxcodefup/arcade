@@ -3,19 +3,25 @@ a porta amassou
 #OUTPUT
 a portamassou
 #END
+```
 
+```py
 #INPUT
 carla almeida alencar
 #OUTPUT
 carlalmeidalencar
 #END
+```
 
+```py
 #INPUT
 a carla a ama
 #OUTPUT
 a carlama
 #END
+```
 
+```py
 #INPUT
 o orvalho ouviu uniformemente e eu uivei
 #OUTPUT

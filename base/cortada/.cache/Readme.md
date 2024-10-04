@@ -34,14 +34,18 @@ O corte reto vai começar na base a uma distância de B centímetros a partir do
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 70
 90
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 130
 138

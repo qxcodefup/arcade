@@ -13,7 +13,7 @@ Faça uma função que retorne o resultado do jogo pedra, papel e tesoura para q
 Receba as duas opções do jogadores e informe quem ganhou a partida.
 Os jogadores podem escolher entre R(rock), P(paper) e S(scissor), que correspondem ao nosso pedra, papel e tesoura.
 
-## Entrada
+### Entrada
 
 * 1a linha: opção do jogador 1.
 * 2a linha: opção do jogador 2.
@@ -31,14 +31,18 @@ P
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 02
 P
 P
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT 03
 S
 P

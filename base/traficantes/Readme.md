@@ -21,7 +21,7 @@ Todos os caracteres são minúsculos e sem pontuação.
 
 NÃO use nenhuma função pronta para fazer isso.
 
-## Entrada
+### Entrada
 
 * Um texto, uma palavra e sua substituição.  
 
@@ -39,7 +39,9 @@ c
 #OUTPUT
 a ca csorveu
 #END
+```
 
+```py
 #INPUT
 a almofada esta mofada e molhada
 mo
@@ -47,7 +49,9 @@ bigode
 #OUTPUT
 a albigodefada esta bigodefada e bigodelhada
 #END
+```
 
+```py
 #INPUT
 a bd abda
 bd

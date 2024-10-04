@@ -5,7 +5,7 @@
 
 ![_](cover.jpg)
 
-### Motivação
+## Motivação
 
 Três competidores olímpicos de arremesso de disco tinham desempenhos muito parecidos. Constantemente eles jogavam os discos à mesma distância. Decidiram então criar um algoritmo que informava quantos deles tinham conseguido o mesmo resultado.
 
@@ -19,7 +19,7 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 
 - Um número inteiro indicando quantos valores são iguais dentre os três fornecidos.
 
-### Shell
+## Testes
 
 ``` py
 #INPUT 01
@@ -29,7 +29,9 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT 02
 1
 5
@@ -37,7 +39,9 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT 03
 1
 1

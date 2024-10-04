@@ -26,7 +26,7 @@
 
 Dada uma frase, imprima "sim" se as palavras estiverem ordenadas e "nao" caso contrario.
 
-## Entrada
+### Entrada
 
 - Uma frase de até 100 caracteres minúsculos e sem acento.
 
@@ -42,19 +42,25 @@ a amora azul
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 o rato roeu a roupa
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT
 a b c d e f
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 a b c d a f
 #OUTPUT

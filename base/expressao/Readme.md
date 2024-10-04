@@ -22,7 +22,9 @@ Crie um programa que leia do usuário dois números inteiros e um operador do ti
 #OUTPUT
 10
 #END
+```
 
+```py
 #INPUT
 5
 5

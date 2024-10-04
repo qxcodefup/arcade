@@ -7,7 +7,7 @@
 
 ## Testes
 
-```txt
+```py
 #INPUT
 3
 1
@@ -18,19 +18,25 @@
 2
 3
 #END
+```
 
+```py
 #INPUT
 0
 #OUTPUT
 #END
+```
 
+```py
 #INPUT
 1
 6
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 5
 1

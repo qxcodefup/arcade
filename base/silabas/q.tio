@@ -3,13 +3,17 @@ Paralelepipedo
 #OUTPUT
 Pa-ra-le-le-pi-pe-do
 #END
+```
 
+```py
 #INPUT
 Eu sou o rei de Fup
 #OUTPUT
 Eu sou o rei de Fu-p
 #END
+```
 
+```py
 #INPUT
 Floresta Amazonica
 #OUTPUT

@@ -8,7 +8,7 @@ Uma trilha é descrita como um conjunto de alturas representando os trechos de s
 
 Por exemplo, seja a trilha de 6 pontos a seguir.
 
-```txt
+```py
 300 305 301 299 290 295
 ```
 
@@ -26,7 +26,7 @@ Se ela for percorrida no sentido contrário vai gastar 14 de esforço. Então o 
 
 Dado uma trilha, você deve calcular o menor esforço para percorrê-la.
   
-## Entrada
+### Entrada
 
 - A descrição de uma trilha inicia com um número inteiro M que indica a quantidade de pontos de medição da trilha (2 ≤ M ≤ 1000), seguido de M números inteiros Hi, um por linha, representando a altura dos pontos da trilha (medidos a intervalos regulares e iguais para todas as linhas).
 - Pode-se percorrer a trilha em qualquer sentido (ou seja, partindo do ponto de altitude H1 em direção ao ponto de altitude HM , ou partindo do ponto de altitude HM em direção ao ponto de altitude H1 ).

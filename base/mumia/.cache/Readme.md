@@ -31,7 +31,7 @@ Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escrev
 
 Por simplificações, não faça flexão de gênero (idoso, idosa, adulto, adulta), não use acento, nem ç, nem maiúscula.
 
-## Shell
+## Testes
 
 ``` py
 #INPUT
@@ -40,7 +40,9 @@ mario
 #OUTPUT
 mario eh crianca
 #END
+```
 
+```py
 #INPUT
 jose
 65

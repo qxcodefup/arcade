@@ -1,19 +1,12 @@
 # L2 - @vacina
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/vacina/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup vacina`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vacina/cover.jpg)
+![_](cover.jpg)
 
 by @wladmir
 
 Um novo vírus mortal infectando grande população de um planeta. Um brilhante cientista chamado Wladimir descobriu uma nova cepa de vírus que pode curar esta doença. A vacina produzida a partir desse vírus tem várias potências dependendo da contagem de células T. Uma pessoa é curada somente se a contagem de células T no lote da vacina for maior do que a contagem de células T em uma pessoa. Um médico recebe um novo conjunto de relatórios que contém a contagem de células T de cada paciente infectado, o laboratório QuixaVax armazena todas as vacinas que o médico possui e sua contagem de células T. Você precisa determinar se o médico pode salvar todos os pacientes com as vacinas que possui. O número de vacinas e pacientes são iguais.
 
-## Entrada
+### Entrada
 
 A primeira linha contém o número de vacinas N.
 
@@ -27,7 +20,7 @@ A força das vacinas e a contagem de células T de pacientes cabem em um número
 
 ## Exemplo de entrada 1
 
-```txt
+```py
 5
 123 146 454 542 456
 100 328 248 689 200
@@ -35,7 +28,7 @@ A força das vacinas e a contagem de células T de pacientes cabem em um número
 
 ## Exemplo de Saída 1
 
-```txt
+```py
 No
 ```
 
@@ -47,7 +40,7 @@ A vacina 1 (contagem 123) cura o paciente 1 (contagem 100).
 
 ## Exemplo de entrada 2
 
-```txt
+```py
 5
 123 690 454 150 456
 100 328 248 689 145
@@ -55,7 +48,7 @@ A vacina 1 (contagem 123) cura o paciente 1 (contagem 100).
 
 ## Exemplo de Saída 2
 
-```txt
+```py
 Yes
 ```
 

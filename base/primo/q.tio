@@ -3,31 +3,41 @@
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 21
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 2
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 04
 3
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 05
 4
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT 06
 9
 #OUTPUT

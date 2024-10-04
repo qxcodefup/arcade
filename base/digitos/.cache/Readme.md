@@ -14,7 +14,7 @@ Após passar uma semana tentando ele repassou esse problema para você.
 
 Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber quantas vezes aparece e o segundo sendo o número do contato.
 
-## Entrada
+### Entrada
 
 * Valor inteiro A (entre 1 e 9).
 * Valor inteiro B.
@@ -25,7 +25,7 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 
 ## Exemplos
 
-```txt
+```py
 
 #INPUT
 0
@@ -33,7 +33,9 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 1
 10
@@ -48,21 +50,27 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 9
 44902391
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 4
 5939
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 0
 51007140

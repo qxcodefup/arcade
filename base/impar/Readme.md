@@ -5,7 +5,7 @@
 
 ![_](cover.jpg)
 
-### Motivação
+## Motivação
 
 Dois amigos, Alice e Bob, estão jogando um jogo muito simples, em que um deles grita ou "par" ou "ímpar" e o outro imediatamente responde ao contrário, respectivamente "ímpar" ou "par". Em seguida, ambos exibem ao mesmo tempo uma mão cada um, em que alguns dedos estão estendidos e outros dobrados. Então eles contam o número total de dedos estendidos. Se a soma for par, quem gritou "par" ganha. Se a soma for ímpar, quem gritou "ímpar" ganha.
 
@@ -34,7 +34,7 @@ Seu programa deve determinar quem ganhou, tendo a informação de quem gritou pa
 - 0 ≤ D\_1 ≤ 5
 - 0 ≤ D\_2 ≤ 5
 
-## Shell
+## Testes
 
 ``` py
 #INPUT
@@ -44,7 +44,9 @@ Seu programa deve determinar quem ganhou, tendo a informação de quem gritou pa
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 1
 0
@@ -52,7 +54,9 @@ Seu programa deve determinar quem ganhou, tendo a informação de quem gritou pa
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 0
 1

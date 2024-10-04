@@ -5,7 +5,9 @@ joao 43 m
 #OUTPUT
 ana
 #END
+```
 
+```py
 #INPUT 02
 2
 jose 80 m
@@ -13,7 +15,9 @@ joao 43 m
 #OUTPUT
 nao tem mulher
 #END
+```
 
+```py
 #INPUT 03
 3
 joao 43 m
@@ -22,7 +26,9 @@ melissa 34 f
 #OUTPUT
 ana
 #END
+```
 
+```py
 #INPUT 04
 3
 joao 88 m
@@ -31,7 +37,9 @@ melissa 84 f
 #OUTPUT
 melissa
 #END
+```
 
+```py
 #INPUT 05
 3
 joao 88 m
@@ -40,7 +48,9 @@ melios 84 m
 #OUTPUT
 nao tem mulher
 #END
+```
 
+```py
 #INPUT 06
 7
 maria 11 f
@@ -53,7 +63,9 @@ mogli 45 m
 #OUTPUT
 meire
 #END
+```
 
+```py
 #INPUT 07
 6
 maria 11 f
@@ -65,7 +77,9 @@ sergio 101 m
 #OUTPUT
 meire
 #END
+```
 
+```py
 #INPUT 08
 5
 maria 99 f
@@ -76,7 +90,9 @@ sergio 14 m
 #OUTPUT
 maria
 #END
+```
 
+```py
 #INPUT 09
 7
 mario 80 m

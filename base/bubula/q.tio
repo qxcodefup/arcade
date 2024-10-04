@@ -3,25 +3,33 @@ Volte cá seu cabra safado
 #OUTPUT
 VoVoVolte cá seu cacacabra sasasafado
 #END
+```
 
+```py
 #INPUT
 Morreu Maria Prea
 #OUTPUT
 MoMoMorreu MaMaMaria Prea
 #END
+```
 
+```py
 #INPUT
 Solte essa faca ou eu arranco suas tripas no dente!
 #OUTPUT
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
 #END
+```
 
+```py
 #INPUT 04
 Solte essa faca ou eu arranco suas tripas no dente
 #OUTPUT
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente
 #END
+```
 
+```py
 #INPUT 05
 Nao se bula ou eu te mato
 #OUTPUT

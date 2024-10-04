@@ -5,7 +5,9 @@
 8448
 8118
 #END
+```
 
+```py
 #INPUT
 2 5
 #OUTPUT
@@ -15,7 +17,9 @@
 8008
 7227
 #END
+```
 
+```py
 #INPUT
 3 5
 #OUTPUT
@@ -25,7 +29,9 @@
 861168
 855558
 #END
+```
 
+```py
 #INPUT
 4 5
 #OUTPUT

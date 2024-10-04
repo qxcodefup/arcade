@@ -23,7 +23,7 @@ Dado o número N, imprima o enésimo termo da série.
 
 Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, se estiver programando em c, use um long int.
 
-## Entrada
+### Entrada
 
 - N, um por linha.
 
@@ -43,13 +43,17 @@ Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, 
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 6
 #OUTPUT
 8
 #END
+```
 
+```py
 #INPUT
 50
 #OUTPUT

@@ -25,7 +25,9 @@ Dado o valor da televisão e a quantidade de parcelas, um por linha, calcule o v
 100.00
 100.00
 #END
+```
 
+```py
 #INPUT
 100
 2
@@ -33,7 +35,9 @@ Dado o valor da televisão e a quantidade de parcelas, um por linha, calcule o v
 52.50
 105.00
 #END
+```
 
+```py
 #INPUT
 100
 10
@@ -41,7 +45,9 @@ Dado o valor da televisão e a quantidade de parcelas, um por linha, calcule o v
 14.50
 145.00
 #END
+```
 
+```py
 #INPUT
 102
 3
@@ -49,7 +55,9 @@ Dado o valor da televisão e a quantidade de parcelas, um por linha, calcule o v
 37.40
 112.20
 #END
+```
 
+```py
 #INPUT
 52
 4
@@ -57,7 +65,9 @@ Dado o valor da televisão e a quantidade de parcelas, um por linha, calcule o v
 14.95
 59.80
 #END
+```
 
+```py
 #INPUT
 100
 5

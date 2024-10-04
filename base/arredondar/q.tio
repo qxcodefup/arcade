@@ -4,77 +4,99 @@ c
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 f
 6.99
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 c
 6.99
 #OUTPUT
 7
 #END
+```
 
+```py
 #INPUT
 r
 5.5
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 r
 5.4
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT 06
 c
 0.5
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 07
 f
 6.7
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT 08
 f
 0.5
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT 09
 r
 7.3
 #OUTPUT
 7
 #END
+```
 
+```py
 #INPUT 10
 r
 7.5
 #OUTPUT
 8
 #END
+```
 
+```py
 #INPUT 11
 f
 3.33
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT 12
 r
 9.7

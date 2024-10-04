@@ -24,7 +24,7 @@ Moral da história: Não confie em pessoas que tem claramente interesses diferen
 
 Receba três valores e imprima o valor do meio.
 
-## Entrada
+### Entrada
 
 * Os três valores, uma por linha, todos os valores serão diferentes.
 
@@ -42,7 +42,9 @@ Receba três valores e imprima o valor do meio.
 #OUTPUT
 4
 #END
+```
 
+```py
 #INPUT
 6
 5
@@ -50,7 +52,9 @@ Receba três valores e imprima o valor do meio.
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 1
 0
@@ -58,7 +62,9 @@ Receba três valores e imprima o valor do meio.
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 4
 6

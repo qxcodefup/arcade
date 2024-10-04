@@ -12,7 +12,7 @@ Que história ein?
 
 Escreva um programa onde receba um vetor de tamanho 5 e que dê como saída a soma do maior e do menor elemento deste vetor. Assuma que você não conhece o limite superior ou inferior dos elementos que estão no vetor.
 
-## Entrada
+### Entrada
 
 * Um vetor possuindo 5 elementos.
 
@@ -28,25 +28,33 @@ Escreva um programa onde receba um vetor de tamanho 5 e que dê como saída a so
 #OUTPUT
 6
 #END
+```
 
+```py
 #INPUT
 3 3 1 4 6
 #OUTPUT
 7
 #END
+```
 
+```py
 #INPUT
 3 2 1 4 4
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT
 -3 -2 -1 -4 -4
 #OUTPUT
 -5
 #END
+```
 
+```py
 #INPUT
 -10000 -2 -1 -4 +10000
 #OUTPUT

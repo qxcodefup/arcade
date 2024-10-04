@@ -6,7 +6,7 @@ Para tentar fazer a contagem demorar mais, ela inventou que ele deveria contar a
 
 Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só poderia sair depois que terminasse a contagem.
 
-## Entrada e Saída
+### Entrada e Saída
 
 - Entrada
   - 1a linha: número alvo N
@@ -19,7 +19,7 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 
 ## Testes
 
-```txt
+```py
 
 #INPUT
 5
@@ -31,7 +31,9 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 2
 0
 #END
+```
 
+```py
 #INPUT
 9
 #OUTPUT
@@ -46,7 +48,9 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 2
 0
 #END
+```
 
+```py
 #INPUT
 13
 #OUTPUT

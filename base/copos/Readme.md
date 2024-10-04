@@ -10,7 +10,7 @@ A brincadeira preferida de Maurício é pegar os copos da sua mãe e fazer uma t
 
 Faça um programa que dado um numero N inteiro (0<N<50) mostre na tela um triangulo isósceles formado por apenas N e com altura igual a N.
 
-## Entrada
+### Entrada
 
 * Inteiro N (0<N<50)
 
@@ -28,14 +28,18 @@ Faça um programa que dado um numero N inteiro (0<N<50) mostre na tela um triang
 .3.3.
 3.3.3
 #END
+```
 
+```py
 #INPUT
 2
 #OUTPUT
 .2.
 2.2
 #END
+```
 
+```py
 #INPUT
 4
 #OUTPUT

@@ -4,84 +4,108 @@ Priscilla
 #OUTPUT
 As chances do crush te dar bola sao: 20%!
 #END
+```
 
+```py
 #INPUT
 Shun
 Hyoga
 #OUTPUT
 As chances do crush te dar bola sao: 0%!
 #END
+```
 
+```py
 #INPUT
 Kratos
 Athena
 #OUTPUT
 As chances do crush te dar bola sao: 20%!
 #END
+```
 
+```py
 #INPUT
 Paula
 Paulo
 #OUTPUT
 As chances do crush te dar bola sao: 100%!
 #END
+```
 
+```py
 #INPUT 05
 Sabrina
 Sheehan
 #OUTPUT
 As chances do crush te dar bola sao: 70%!
 #END
+```
 
+```py
 #INPUT 06
 Cosette
 Caboclos
 #OUTPUT
 As chances do crush te dar bola sao: 40%!
 #END
+```
 
+```py
 #INPUT 07
 Ermanoteu
 Helainete
 #OUTPUT
 As chances do crush te dar bola sao: 80%!
 #END
+```
 
+```py
 #INPUT 08
 Will
 Ana
 #OUTPUT
 As chances do crush te dar bola sao: 0%!
 #END
+```
 
+```py
 #INPUT 09
 Emerson
 Tamires
 #OUTPUT
 As chances do crush te dar bola sao: 80%!
 #END
+```
 
+```py
 #INPUT 10
 Eduardo
 Gabriel
 #OUTPUT
 As chances do crush te dar bola sao: 20%!
 #END
+```
 
+```py
 #INPUT 11
 Zac
 Zyra
 #OUTPUT
 As chances do crush te dar bola sao: 40%!
 #END
+```
 
+```py
 #INPUT 12
 Talyta
 Thanos
 #OUTPUT
 As chances do crush te dar bola sao: 70%!
 #END
+```
 
+```py
 #INPUT 13
 Sakura
 Sasuke

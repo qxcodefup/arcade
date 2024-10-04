@@ -5,7 +5,9 @@
 #OUTPUT
 aprovado
 #END
+```
 
+```py
 #INPUT
 8
 2
@@ -13,7 +15,9 @@ aprovado
 #OUTPUT
 aprovado na final
 #END
+```
 
+```py
 #INPUT
 4
 2
@@ -21,7 +25,9 @@ aprovado na final
 #OUTPUT
 reprovado
 #END
+```
 
+```py
 #INPUT
 4
 8
@@ -29,7 +35,9 @@ reprovado
 #OUTPUT
 reprovado na final
 #END
+```
 
+```py
 #INPUT 05
 4
 8

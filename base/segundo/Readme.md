@@ -12,7 +12,7 @@ Após cair da cama, sua mãe lhe disse que se ele não se levantasse em um segun
 
 Supondo que João seja sobre humano, seu trabalho é fazer um programa para calcular em qual hora minuto e segundo ele deve ter terminar de arrumar seu quarto.
 
-## Entrada
+### Entrada
 
 * Três inteiros, hora, minuto e segundo inicial em uma linha.
 
@@ -28,19 +28,25 @@ Supondo que João seja sobre humano, seu trabalho é fazer um programa para calc
 #OUTPUT
 12 10 12
 #END
+```
 
+```py
 #INPUT
 12 10 59
 #OUTPUT
 12 11 00
 #END
+```
 
+```py
 #INPUT
 12 59 59
 #OUTPUT
 13 00 00
 #END
+```
 
+```py
 #INPUT
 23 59 59
 #OUTPUT

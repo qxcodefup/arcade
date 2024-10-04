@@ -14,7 +14,7 @@ Moral da história: maldito zap que não deixa mais o povo brincar de nada diver
 
 Dado uma lista de número e um intervalo, calcule quantas vezes um número cai dentro do intervalo fechado. Em um intervalo fechado os valores inferior e superior também fazem parte do intervalo.  
 
-## Entrada
+### Entrada
 
 * 1a linha Quantidade N de elementos do vetor, Limite inferior e limite superior.
 * Próximas linhas: N números inteiros.
@@ -35,7 +35,9 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 5 3 5
 1
@@ -46,7 +48,9 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 4 3 5
 1

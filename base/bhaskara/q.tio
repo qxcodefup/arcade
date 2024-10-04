@@ -6,7 +6,9 @@
 0.44
 -5.07
 #END
+```
 
+```py
 #INPUT duas raízes
 3.0
 -7.0
@@ -15,7 +17,9 @@
 1.33
 1.00
 #END
+```
 
+```py
 #INPUT uma raiz
 9.0
 -12.0
@@ -23,7 +27,9 @@
 #OUTPUT
 0.67
 #END
+```
 
+```py
 #INPUT sem raízes
 5.0
 3.0
@@ -31,7 +37,9 @@
 #OUTPUT
 nao ha raiz real
 #END
+```
 
+```py
 #INPUT 05
 1.0
 -1.0
@@ -40,7 +48,9 @@ nao ha raiz real
 5.00
 -4.00
 #END
+```
 
+```py
 #INPUT 06
 2.00
 0.00
@@ -48,7 +58,9 @@ nao ha raiz real
 #OUTPUT
 0.00
 #END
+```
 
+```py
 #INPUT 07
 5.3
 3.4

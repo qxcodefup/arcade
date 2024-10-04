@@ -6,7 +6,7 @@
 
 Faça uma função que retorna uma substring dada a String passada, o ÍNDICE da posição inicial e o número de caracteres a serem obtidos. Se os valores de inicio forem inválidos, retorne uma String vazia. Retorne a quantidade de caracteres pedidos ou até terminar a palavra.
 
-## Entrada
+### Entrada
 
 * Um texto, no máximo 100 chars.
 * O índice do primeiro caractere.
@@ -18,7 +18,7 @@ Faça uma função que retorna uma substring dada a String passada, o ÍNDICE da
 
 ## Exemplos
 
-```txt
+```py
 
 #INPUT 01
 Coralina
@@ -27,7 +27,9 @@ Coralina
 #OUTPUT
 Cora
 #END
+```
 
+```py
 #INPUT 01
 Coralina
 1
@@ -35,7 +37,9 @@ Coralina
 #OUTPUT
 oral
 #END
+```
 
+```py
 #INPUT 02
 Power Ranger
 4

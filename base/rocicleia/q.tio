@@ -4,35 +4,45 @@ pepidoelelapar
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 rocicleia
 licioreca
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 batata
 tabata
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 borboleta
 brobuleta
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT
 amor
 roam
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT 06
 pegasus
 susgae

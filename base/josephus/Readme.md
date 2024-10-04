@@ -28,7 +28,7 @@ Remova elementos intercaladamente em uma lista circular.
   
 Cinco pessoas e é sorteado o 3.  
 
-```txt
+```py
 1 2 3 4 5  : O 3 mata o 4 e a espada vai pro 5.  
 1 2 3 5     : O 5 mata o 1 e a espada vai pro 2.  
 2 3 5        : O 2 mata o 3 e a espada vai pro 5.  
@@ -38,7 +38,7 @@ Cinco pessoas e é sorteado o 3.
 
 Sobra o cinco.  
 
-## Entrada
+### Entrada
 
 * O número N de participantes.  
 * O número X do participante que inicia o jogo.  
@@ -57,7 +57,9 @@ Sobra o cinco.
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT
 6
 6

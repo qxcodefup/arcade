@@ -4,7 +4,9 @@ a batata
 #OUTPUT
 a BaTaTa
 #END
+```
 
+```py
 #INPUT
 2
 AAAAAAAA
@@ -13,7 +15,9 @@ bBbBbBbB
 AaAaAaAa
 bBbBbBbB
 #END
+```
 
+```py
 #INPUT
 2
 Morra Prea
@@ -22,7 +26,9 @@ BigODE Aparado
 MoRrA pReA
 BiGoDe ApArAdO
 #END
+```
 
+```py
 #INPUT 04
 3
 a Morra Prea

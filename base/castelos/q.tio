@@ -3,55 +3,73 @@
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 18
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT
 81
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT 04
 0
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT 05
 5
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT 06
 1
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT 07
 4
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT 08
 35
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT 09
 140
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT 10
 6084
 #OUTPUT

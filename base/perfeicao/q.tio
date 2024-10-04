@@ -3,37 +3,49 @@ Dhaquison
 #OUTPUT
 Dhaquisonn
 #END
+```
 
+```py
 #INPUT
 Alfredo
 #OUTPUT
 Alfredoc
 #END
+```
 
+```py
 #INPUT
 Maikou
 #OUTPUT
 sem sorte
 #END
+```
 
+```py
 #INPUT
 Davidp
 #OUTPUT
 Davidpd
 #END
+```
 
+```py
 #INPUT 05
 Ana
 #OUTPUT
 sem sorte
 #END
+```
 
+```py
 #INPUT 06
 David
 #OUTPUT
 Davidp
 #END
+```
 
+```py
 #INPUT 07
 Ticiany
 #OUTPUT

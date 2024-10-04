@@ -26,7 +26,7 @@ Como se você juntasse as duas palavras, mas excluísse as letras até que não 
 
 Faça um programa que dado duas palavra, a matéria e a anti-matéria, imprima no final somente as letras que estão na, matéria mas não estão na antimatéria.
 
-## Entrada
+### Entrada
 
 - Duas palavras, uma por linha.
 
@@ -43,21 +43,27 @@ lema
 #OUTPUT
 a
 #END
+```
 
+```py
 #INPUT  
 pegasus
 suspiro
 #OUTPUT
 pegapiro
 #END
+```
 
+```py
 #INPUT  
 olho
 ohio
 #OUTPUT  
 olio
 #END
+```
 
+```py
 #INPUT
 minhoca
 arvore

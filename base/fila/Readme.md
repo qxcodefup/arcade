@@ -15,7 +15,7 @@ e STAs (seu professor agradece) e uma para alunos.
 
 Imprima todos os números ímpares na ordem em que foram inseridos na primeira linha, e imprima todos os pares na segunda linha de forma análoga.
 
-## Entrada
+### Entrada
 
 * Quantidade N de pessoas na fila.
 * N valores inteiros onde um número ímpar representa um aluno e um par representa um servidor.  
@@ -35,7 +35,9 @@ Imprima todos os números ímpares na ordem em que foram inseridos na primeira l
 [ ]
 [ 4 2 ]
 #END
+```
 
+```py
 #INPUT
 4
 2 6 4 1
@@ -43,7 +45,9 @@ Imprima todos os números ímpares na ordem em que foram inseridos na primeira l
 [ 1 ]
 [ 2 6 4 ]
 #END
+```
 
+```py
 #INPUT
 6
 1 2 5 3 4 9

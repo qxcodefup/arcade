@@ -6,7 +6,9 @@
 #OUTPUT
 3.61
 #END
+```
 
+```py
 #INPUT 02
 1
 8.2
@@ -15,7 +17,9 @@
 #OUTPUT
 6.28
 #END
+```
 
+```py
 #INPUT 03
 3
 1
@@ -24,7 +28,9 @@
 #OUTPUT
 4.00
 #END
+```
 
+```py
 #INPUT 04
 7
 3
@@ -33,7 +39,9 @@
 #OUTPUT
 5.00
 #END
+```
 
+```py
 #INPUT 05
 0
 0
@@ -42,7 +50,9 @@
 #OUTPUT
 0.00
 #END
+```
 
+```py
 #INPUT 06
 47.88
 43.91

@@ -4,77 +4,99 @@
 #OUTPUT
 Jogador 2
 #END
+```
 
+```py
 #INPUT
 5
 9
 #OUTPUT
 Jogador 1
 #END
+```
 
+```py
 #INPUT
 0
 0
 #OUTPUT
 Empate
 #END
+```
 
+```py
 #INPUT 04
 13
 1
 #OUTPUT
 Jogador 1
 #END
+```
 
+```py
 #INPUT 05
 12
 10
 #OUTPUT
 Jogador 2
 #END
+```
 
+```py
 #INPUT 06
 8
 10
 #OUTPUT
 Jogador 1
 #END
+```
 
+```py
 #INPUT 07
 1
 12
 #OUTPUT
 Jogador 2
 #END
+```
 
+```py
 #INPUT 08
 9
 1
 #OUTPUT
 Jogador 1
 #END
+```
 
+```py
 #INPUT 09
 2
 7
 #OUTPUT
 Jogador 1
 #END
+```
 
+```py
 #INPUT 10
 5
 4
 #OUTPUT
 Jogador 2
 #END
+```
 
+```py
 #INPUT 11
 8
 1
 #OUTPUT
 Jogador 2
 #END
+```
 
+```py
 #INPUT 12
 0
 6

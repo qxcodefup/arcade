@@ -13,7 +13,7 @@ Um aluno capoeirista estava sentado quietinho no cantinho da UFC quando um amigo
 
 Faça uma função que ajude o capoeirista a inverter um vetor passado na entrada.
 
-## Entrada
+### Entrada
 
 * 1ª linha: número de elementos
 
@@ -32,21 +32,27 @@ Faça uma função que ajude o capoeirista a inverter um vetor passado na entrad
 #OUTPUT
 [ 4 3 2 1 ]
 #END
+```
 
+```py
 #INPUT 02
 2
 1 2
 #OUTPUT
 [ 2 1 ]
 #END
+```
 
+```py
 #INPUT 03
 6
 1 2 3 4 5 6
 #OUTPUT
 [ 6 5 4 3 2 1 ]
 #END
+```
 
+```py
 #INPUT 04
 5
 1 2 3 4 5

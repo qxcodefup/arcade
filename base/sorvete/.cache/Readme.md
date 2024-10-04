@@ -22,7 +22,7 @@ Elas tem em comum as letras (a, c e o).
 
 Dada uma frase com até 100 caracteres, será que você consegue me dizer a quantidade de letras que todas as palavras tem em comum?
 
-## Entrada
+### Entrada
 
 - Uma frase com até 100 caracteres.  
 
@@ -38,19 +38,25 @@ sorvete suor casaca chicletes pegasus
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 minhoca quixe tempero musica roubo
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 acaro cocegas cagado aquecido
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT
 aaabbcc bbac bbbaacc ccbddbabda basdbdc
 #OUTPUT

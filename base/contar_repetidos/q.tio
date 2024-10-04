@@ -6,7 +6,9 @@
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 0 4
 0
@@ -16,7 +18,9 @@
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT
 2 8
 2

@@ -16,7 +16,7 @@ Se a criança jogar a pedra no 0 e começa com o pé direito, a contagem fica as
 
 1d 2e 3d 4e 5d 6e 7d 8e 9d ceu
 
-## Entrada e Saída
+### Entrada e Saída
 
 - Entrada
   - 1a linha: número N que caiu a pedra
@@ -30,42 +30,52 @@ Se a criança jogar a pedra no 0 e começa com o pé direito, a contagem fica as
 
 ## Testes
 
-```txt
+```py
 #INPUT
 8
 d
 #OUTPUT
 [ 0d 1e 2d 3e 4d 5e 6d 7e 9d ceu ]
 #END
+```
 
+```py
 #INPUT
 0
 e
 #OUTPUT
 [ 1e 2d 3e 4d 5e 6d 7e 8d 9e ceu ]
 #END
+```
 
+```py
 #INPUT
 0
 d
 #OUTPUT
 [ 1d 2e 3d 4e 5d 6e 7d 8e 9d ceu ]
 #END
+```
 
+```py
 #INPUT
 1
 d
 #OUTPUT
 [ 0d 2e 3d 4e 5d 6e 7d 8e 9d ceu ]
 #END
+```
 
+```py
 #INPUT
 2
 d
 #OUTPUT
 [ 0d 1e 3d 4e 5d 6e 7d 8e 9d ceu ]
 #END
+```
 
+```py
 #INPUT
 10
 e

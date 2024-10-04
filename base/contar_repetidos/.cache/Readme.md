@@ -6,7 +6,7 @@
 
 Faça um programa que dado um vetor, retorne quantas vezes um determinado elemento se repete nele.
 
-## Entrada
+### Entrada
 
 * 1ª linha: Os números (X, entre 0 e 9 e N, entre 1 e 50), representado X o número que corresponde ao elemento procurado e N a quantidade de elementos no vetor.
 
@@ -27,7 +27,9 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 0 4
 0
@@ -37,7 +39,9 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 #OUTPUT
 3
 #END
+```
 
+```py
 #INPUT
 2 8
 2

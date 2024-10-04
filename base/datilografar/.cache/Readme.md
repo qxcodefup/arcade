@@ -19,7 +19,7 @@ Maratona de Programação da SBC 2010.
 
 Faça um programa que dado um numero representando a tecla quebrada e o numero negociado inicialmente, imprima o numero representado no contrato.
 
-## Entrada
+### Entrada
 
 * A primeira um digito entre 1 e 9 representando a tecla quebrada
 * A segunda o número que foi negociado inicialmente, com até 100 dígitos.
@@ -37,28 +37,36 @@ Faça um programa que dado um numero representando a tecla quebrada e o numero n
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 5
 5004000
 #OUTPUT
 4000
 #END
+```
 
+```py
 #INPUT
 3
 123456
 #OUTPUT
 12456
 #END
+```
 
+```py
 #INPUT
 9
 99999999991999999
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 7
 777

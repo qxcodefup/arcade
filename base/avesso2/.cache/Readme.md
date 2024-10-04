@@ -24,7 +24,7 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 
 \[DS\]
 
-## Entrada
+### Entrada
 
 - linha 1: o tamanho N do vetor de operários(0 < N < 100) e a quantidade X de gritos do chefe( 0 < X < 100)
 - linha 2: o vetor de operários, cada elemento entre (0 < 100)
@@ -44,7 +44,9 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 #OUTPUT
 [-3 1 -4]
 #END
+```
 
+```py
 #INPUT
 3 3
 3 1 4
@@ -52,7 +54,9 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 #OUTPUT
 [3 -1 4]
 #END
+```
 
+```py
 #INPUT
 7 5
 3 4 8 9 1 5 6

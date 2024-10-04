@@ -8,7 +8,7 @@ Conte quantas vezes o caractere aparece na frase ignorando case.
 
 OBS: Não use o método count do python.
 
-## Entrada
+### Entrada
 
 * Uma frase de até 100 caracteres e uma letra.
 
@@ -25,14 +25,18 @@ a
 #OUTPUT
 10
 #END
+```
 
+```py
 #INPUT
 A Andreia atirou alcachofras no LEAO
 e
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT  
 A Andreia atirou alcachofras no leao
 x

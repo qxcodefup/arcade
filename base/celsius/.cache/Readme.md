@@ -5,7 +5,7 @@
 
 ![Imagem Conversor Celsius para Fahrenheit](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/celsius/cover.jpg)
 
-### Ação
+## Ação
 
 No Brasil, a unidade de temperatura que utilizamos é o grau Celsius (ºC),
 diferente dos países de origem inglesa. Nesses países, a unidade usual é o
@@ -24,91 +24,117 @@ Fahrenheit. O valor fornecido será fracionário (double).
 
 - Temperatura em Celsius  
 
-### Saída
+#### Saída
 
 - O valor correspondente em Fahrenheit, com 6 casas decimais.
 
-### Shell
+## Testes
 
-```txt
+```py
 #INPUT 0
 43.000000
 #OUTPUT
 109.400000
 #END
+```
 
+```py
 #INPUT 1
 55.000000
 #OUTPUT
 131.000000
 #END
+```
 
+```py
 #INPUT 2
 99.000000
 #OUTPUT
 210.200000
 #END
+```
 
+```py
 #INPUT 3
 69.000000
 #OUTPUT
 156.200000
 #END
+```
 
+```py
 #INPUT 4
 64.000000
 #OUTPUT
 147.200000
 #END
+```
 
+```py
 #INPUT 5
 84.000000
 #OUTPUT
 183.200000
 #END
+```
 
+```py
 #INPUT 6
 95.000000
 #OUTPUT
 203.000000
 #END
+```
 
+```py
 #INPUT 7
 56.000000
 #OUTPUT
 132.800000
 #END
+```
 
+```py
 #INPUT 8
 36.000000
 #OUTPUT
 96.800000
 #END
+```
 
+```py
 #INPUT 9
 13.000000
 #OUTPUT
 55.400000
 #END
+```
 
+```py
 #INPUT 11
 31.000000
 #OUTPUT
 87.800000
 #END
+```
 
+```py
 #INPUT 12
 18.000000
 #OUTPUT
 64.400000
 #END
+```
 
+```py
 #INPUT 13
 98.000000
 #OUTPUT
 208.400000
 #END
+```
 
+```py
 #INPUT 14
 63.000000
 #OUTPUT

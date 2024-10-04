@@ -38,7 +38,7 @@ AR APAGA FOGO, ERODE ROCHA, EVAPORA ÁGUA, ENFERRUJA ARMA.
 ARMA MIRA ROCHA, DISPARA, SUPERA TESOURA, ATIRA NO HUMANO.
 ```
 
-## Entrada
+### Entrada
 
 - Texto em inglês em minúsculo e sem acentos contendo as opções dos dois jogadores.  
 
@@ -55,49 +55,63 @@ gun
 #OUTPUT
 jog1
 #END
+```
 
+```py
 #INPUT 02
 air
 scissors
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 03
 gun
 gun
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT 04
 air
 gun
 #OUTPUT
 jog1
 #END
+```
 
+```py
 #INPUT 05
 fire
 air
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 06
 water
 human
 #OUTPUT
 jog2
 #END
+```
 
+```py
 #INPUT 07
 scissors
 paper
 #OUTPUT
 jog1
 #END
+```
 
+```py
 #INPUT 08
 sponge
 human

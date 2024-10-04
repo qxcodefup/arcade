@@ -3,55 +3,73 @@
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT
 4 14 7 1
 #OUTPUT
 N
 #END
+```
 
+```py
 #INPUT
 15 9 8 -1
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT
 0 14 15 -1
 #OUTPUT
 N
 #END
+```
 
+```py
 #INPUT 05
 8 12 11 -1
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT 06
 12 6 13 -1
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT 07
 10 6 13 -1
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT 08
 15 3 13 1
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT 09
 0 11 14 1
 #OUTPUT
 S
 #END
+```
 
+```py
 #INPUT 10
 2 4 13 1
 #OUTPUT

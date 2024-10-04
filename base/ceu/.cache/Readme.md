@@ -12,7 +12,7 @@ Se a criança jogar a pedra no 10, a contagem fica assim:
 
 0 1 2 3 4 5 6 7 8 9
 
-## Entrada e Saída
+### Entrada e Saída
 
 - Entrada
   - 1a linha: número N que caiu a pedra
@@ -25,37 +25,47 @@ Se a criança jogar a pedra no 10, a contagem fica assim:
 
 ## Testes
 
-```txt
+```py
 #INPUT
 8
 #OUTPUT
 [ 0 1 2 3 4 5 6 7 9 ceu ]
 #END
+```
 
+```py
 #INPUT
 0
 #OUTPUT
 [ 1 2 3 4 5 6 7 8 9 ceu ]
 #END
+```
 
+```py
 #INPUT
 0
 #OUTPUT
 [ 1 2 3 4 5 6 7 8 9 ceu ]
 #END
+```
 
+```py
 #INPUT
 1
 #OUTPUT
 [ 0 2 3 4 5 6 7 8 9 ceu ]
 #END
+```
 
+```py
 #INPUT
 2
 #OUTPUT
 [ 0 1 3 4 5 6 7 8 9 ceu ]
 #END
+```
 
+```py
 #INPUT
 10
 #OUTPUT

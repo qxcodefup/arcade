@@ -5,7 +5,9 @@
 #OUTPUT
 rebeldes
 #END
+```
 
+```py
 #INPUT
 3
 1
@@ -14,7 +16,9 @@ rebeldes
 #OUTPUT
 empate
 #END
+```
 
+```py
 #INPUT
 2
 2
@@ -22,7 +26,9 @@ empate
 #OUTPUT
 soldados
 #END
+```
 
+```py
 #INPUT
 4
 1
@@ -32,7 +38,9 @@ soldados
 #OUTPUT
 soldados
 #END
+```
 
+```py
 #INPUT
 5
 1

@@ -21,7 +21,7 @@ Para uma "falsa" separação silábica Arnaldo definiu que toda vogal seguida de
 
 Implemente o código de Arnoldo.
 
-## Entrada
+### Entrada
 
 - Uma linha de texto.
 
@@ -43,7 +43,9 @@ Morreu Maria Prea
 #OUTPUT
 MoMoMorreu MaMaMaria Prea
 #END
+```
 
+```py
 #INPUT
 Solte essa faca ou eu arranco suas tripas no dente!
 #OUTPUT

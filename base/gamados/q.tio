@@ -3,37 +3,49 @@ a amora azul
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 o rato roeu a roupa
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT
 a b c d e f
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 a b c d a f
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT 05
 ab a ba
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT 06
 a amiga da minha vizinha zooume
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT 07
 arrocha arregao
 #OUTPUT

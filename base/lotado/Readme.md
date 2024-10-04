@@ -28,7 +28,7 @@ Você pode assumir:
 * Um número negativo representa a saída de pessoas.
 * Nunca vão sair mais pessoas do que tem no ônibus
 
-## Entrada
+### Entrada
 
 * O inteiro **C** (capacidade).
 * O inteiro **M** (movimentação). Continue lendo até o ônibus partir.
@@ -54,7 +54,9 @@ lotado
 lotado
 hora de partir
 #END
+```
 
+```py
 #INPUT
 10
 10
@@ -65,7 +67,9 @@ lotado
 vazio
 hora de partir
 #END
+```
 
+```py
 #INPUT
 3
 1

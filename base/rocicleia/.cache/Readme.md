@@ -13,7 +13,7 @@ Uma palavra é anagrama de outra se é formada pelas mesmas letras nas mesmas QU
 
 Dadas duas palavras, imprima sim se elas são anagramas e não se não são anagramas.
 
-## Entrada
+### Entrada
 
 * A entrada são duas palavras, uma por linha, apenas caracteres minúsculos e sem espaços.
 
@@ -30,28 +30,36 @@ pepidoelelapar
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 rocicleia
 licioreca
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 batata
 tabata
 #OUTPUT
 sim
 #END
+```
 
+```py
 #INPUT
 borboleta
 brobuleta
 #OUTPUT
 nao
 #END
+```
 
+```py
 #INPUT
 amor
 roam

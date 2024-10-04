@@ -3,37 +3,49 @@ galinha          pintadinha
 #OUTPUT
 galinha pintadinha
 #END
+```
 
+```py
 #INPUT
 a    almofada
 #OUTPUT
 a almofada
 #END
+```
 
+```py
 #INPUT
 comi    sorvete
 #OUTPUT
 comi sorvete
 #END
+```
 
+```py
 #INPUT
 meteoro        pegasus
 #OUTPUT
 meteoro pegasus
 #END
+```
 
+```py
 #INPUT 05
 a   almofada
 #OUTPUT
 a almofada
 #END
+```
 
+```py
 #INPUT 06
 meteoro          pegasus
 #OUTPUT
 meteoro pegasus
 #END
+```
 
+```py
 #INPUT 07
 galinha pintadinha
 #OUTPUT

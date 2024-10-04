@@ -3,55 +3,73 @@
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 6
 #OUTPUT
 8
 #END
+```
 
+```py
 #INPUT
 50
 #OUTPUT
 12586269025
 #END
+```
 
+```py
 #INPUT 04
 2
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT 05
 9
 #OUTPUT
 34
 #END
+```
 
+```py
 #INPUT 06
 17
 #OUTPUT
 1597
 #END
+```
 
+```py
 #INPUT 07
 25
 #OUTPUT
 75025
 #END
+```
 
+```py
 #INPUT 08
 33
 #OUTPUT
 3524578
 #END
+```
 
+```py
 #INPUT 09
 41
 #OUTPUT
 165580141
 #END
+```
 
+```py
 #INPUT 10
 49
 #OUTPUT

@@ -5,7 +5,9 @@ abac
 #OUTPUT
 bbtctb? skm! grktb!!
 #END
+```
 
+```py
 #INPUT
 quando vi voce eu buguei
 princesa
@@ -13,7 +15,9 @@ princesa
 #OUTPUT
 fliafs ni kfkr gy tuvlmv
 #END
+```
 
+```py
 #INPUT
 a data ua bbfrua
 ab
@@ -21,7 +25,9 @@ ab
 #OUTPUT
 a casa ta aberta
 #END
+```
 
+```py
 #INPUT 04
 o bobe!
 ab
@@ -29,7 +35,9 @@ ab
 #OUTPUT
 o coce!
 #END
+```
 
+```py
 #INPUT 05
 o coce!
 ab

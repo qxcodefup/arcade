@@ -13,7 +13,7 @@ Pensava ela: "sozinhos esses números, não são nada, mas juntos são o número
 
 Faça um programa que deve transformar um vetor em um número inteiro e retornar esse valor inteiro. Todos os elementos do vetor devem conter apenas um dígito.
 
-## Entrada
+### Entrada
 
 - Um numero que representa o tamanho do vetor e seus elementos, um por linha.  
 
@@ -32,7 +32,9 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 #OUTPUT
 123
 #END
+```
 
+```py
 #INPUT
 4
 3
@@ -42,7 +44,9 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 #OUTPUT
 3451
 #END
+```
 
+```py
 #INPUT
 2
 1
@@ -50,7 +54,9 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 #OUTPUT
 12
 #END
+```
 
+```py
 #INPUT
 5
 5

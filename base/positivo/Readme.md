@@ -5,7 +5,7 @@
 
 ![Maior que Zero](cover.jpg)
 
-### Ação
+## Ação
 
 Em muitas aplicações, precisamos verificar se um número é positivo ou não para tomar decisões. Por exemplo, ao validar se uma quantidade ou saldo está em condições aceitáveis.
 
@@ -19,33 +19,41 @@ Implemente um programa que recebe um número inteiro e imprime "SIM" se o númer
 
 - "SIM" se o número for maior ou igual a zero, caso contrário, apenas uma quebra de linha.
 
-### Shell
+## Testes
 
-```txt
+```py
 #INPUT 0
 3
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT 1
 -12
 #OUTPUT
 
 #END
+```
 
+```py
 #INPUT 2
 -3
 #OUTPUT
 
 #END
+```
 
+```py
 #INPUT 3
 1
 #OUTPUT
 SIM
 #END
+```
 
+```py
 #INPUT 4
 0
 #OUTPUT

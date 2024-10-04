@@ -15,7 +15,7 @@ Para isso a única modificação que você pode fazer no nome é adicionar uma l
 final da palavra, um alfabético minúsculo apenas. Apenas um. Se não existir
 nenhuma adição que coloque o valor em 0, escreva "sem sorte".
 
-## Entrada
+### Entrada
 
 - Uma palavra apenas com minúsculos e maiúsculos sem espaços (1 a 30 chars).
 
@@ -31,19 +31,25 @@ Dhaquison
 #OUTPUT
 Dhaquisonn
 #END
+```
 
+```py
 #INPUT
 Alfredo
 #OUTPUT
 Alfredoc
 #END
+```
 
+```py
 #INPUT
 Maikou
 #OUTPUT
 sem sorte
 #END
+```
 
+```py
 #INPUT
 Davidp
 #OUTPUT

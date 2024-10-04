@@ -8,7 +8,7 @@ Baruel Ruel tem muitas figurinhas do álbum de futebol. Ele estava indo para uma
 
 \[DS\]
 
-## Entrada
+### Entrada
 
 - É composta da quantidade de figurinhas no álbum e da lista de figurinhas de Baruel de forma ORDENADA. A saída deve ser uma linha contendo as figurinhas repetidas e os números da figurinhas que faltam. Se não houver figurinhas repetidas ou não faltar nenhuma escreva 'N'.  
 
@@ -34,7 +34,9 @@ Baruel Ruel tem muitas figurinhas do álbum de futebol. Ele estava indo para uma
 1 1 1 2
 4
 #END
+```
 
+```py
 #INPUT
 2
 4
@@ -43,7 +45,9 @@ Baruel Ruel tem muitas figurinhas do álbum de futebol. Ele estava indo para uma
 1 2
 N
 #END
+```
 
+```py
 #INPUT
 5
 2
@@ -52,7 +56,9 @@ N
 N
 1 2 3
 #END
+```
 
+```py
 #INPUT
 5
 5

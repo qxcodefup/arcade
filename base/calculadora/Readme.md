@@ -1,13 +1,13 @@
 # L1 - @calculadora Numérica
 
 <!-- toch -->
-[Shell](#shell)
---
+[Motivação](#motivação) | [Testes](#testes)
+-- | --
 <!-- toch -->
 
 ![_](cover.jpg)
 
-### Motivação
+## Motivação
 
 Quem nunca, durante uma prova de matemática ou física no ensino médio, escutou um coleguinha perguntar: "Professor, pode usar a calculadora?"? Essa atividade traz essa prática para o mundo da programação, onde você terá a chance de criar sua própria calculadora que realiza operações básicas entre dois números inteiros.
 
@@ -30,7 +30,7 @@ A entrada consiste em três linhas:
 
 - Nunca haverá divisão por zero
 
-## Shell
+## Testes
 
 ``` py
 #INPUT
@@ -40,7 +40,9 @@ A entrada consiste em três linhas:
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 3
 5
@@ -48,7 +50,9 @@ A entrada consiste em três linhas:
 #OUTPUT
 8
 #END
+```
 
+```py
 #INPUT
 7
 9

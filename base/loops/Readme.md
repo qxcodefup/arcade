@@ -30,31 +30,41 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 360
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT
 361
 #OUTPUT
 1
 #END
+```
 
+```py
 #INPUT
 722
 #OUTPUT
 2
 #END
+```
 
+```py
 #INPUT
 -2
 #OUTPUT
 358
 #END
+```
 
+```py
 #INPUT
 -350
 #OUTPUT

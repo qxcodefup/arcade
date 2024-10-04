@@ -6,7 +6,7 @@
 
 Dado a entrada de um caractere, retorne maiúsculo se ele for minúsculo e vice versa.
 
-## Entrada
+### Entrada
 
 * Um caractere.
 
@@ -24,19 +24,25 @@ a
 #OUTPUT
 A
 #END
+```
 
+```py
 #INPUT
 B
 #OUTPUT
 b
 #END
+```
 
+```py
 #INPUT
 5
 #OUTPUT
 5
 #END
+```
 
+```py
 #INPUT
 !
 #OUTPUT

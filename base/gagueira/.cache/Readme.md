@@ -12,7 +12,7 @@ A disfemia, conhecida popularmente como gagueira ou gaguez, é a mais comum deso
 
 Faça um programa que receba uma frase(max 100 char) e imprima a mesma frase com as palavras repetidas.
 
-## Entrada
+### Entrada
 
 * A entrada é uma frase composta apenas de letras minúsculas e espaços. Não existem espaços no começo ou no final da entrada. Não aparecem dois espaços juntos.
 
@@ -28,19 +28,25 @@ ola planeta terra
 #OUTPUT
 ola ola planeta planeta terra terra
 #END
+```
 
+```py
 #INPUT
 gosto de tomate
 #OUTPUT
 gosto gosto de de tomate tomate
 #END
+```
 
+```py
 #INPUT
 minha ufc
 #OUTPUT
 minha minha ufc ufc
 #END
+```
 
+```py
 #INPUT
 sim eu vou
 #OUTPUT

@@ -15,7 +15,7 @@ Crie um programa que receba o número de integrantes, crie um vetor para cada ti
 * "Draw" se for empate  
 * E por fim, o nome do campeão com o maior poder
 
-## Entrada
+### Entrada
 
 * Quantidade de integrantes do time do Homem de Ferro
 * Nome e poder de cada
@@ -45,7 +45,9 @@ Soldado Invernal
 Team Captain Wins
 Homem de Ferro
 #END
+```
 
+```py
 #INPUT
 3
 Pantera Negra

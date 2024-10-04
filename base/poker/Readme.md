@@ -23,7 +23,7 @@ As regras para pontuação em Mini-Poker são as seguintes:
 
 Escreva um programa que, fornecidas as cartas dadas a um jogador, calcule pontuação do jogador naquela jogada.  
   
-## Entrada
+### Entrada
 
 A entrada é composta por vários casos de teste, cada um correspondendo a uma jogada. A primeira linha da entrada contém um inteiro N que indica o número de casos de teste (1 ≤ N ≤ 10).
 

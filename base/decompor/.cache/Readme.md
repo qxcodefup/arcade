@@ -12,7 +12,7 @@ ser vários valores inteiros, e a saída um vetor com todos os inteiros da entra
 
 \[DS\]  
 
-## Entrada
+### Entrada
 
 - Um valor que deve ser lido como número e não como string. O número tem até 8 casas decimais.
 
@@ -30,25 +30,33 @@ OBS: Use os operadores de divisão e módulo para obter os números.
 #OUTPUT
 1 2 3 4 5
 #END
+```
 
+```py
 #INPUT
 2357
 #OUTPUT
 2 3 5 7
 #END
+```
 
+```py
 #INPUT
 567
 #OUTPUT
 5 6 7
 #END
+```
 
+```py
 #INPUT
 4937
 #OUTPUT
 4 9 3 7
 #END
+```
 
+```py
 #INPUT
 953
 #OUTPUT

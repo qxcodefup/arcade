@@ -18,7 +18,7 @@ Pirou de vez menino? O que é vcvcvcvcvc, tá achando que a vida é um chat?
 
 Se você entendeu, faça o código que dada a frase de entrada(max 50 char), imprime a codificação de Pedrinho.
 
-## Entrada
+### Entrada
 
 * A frase. (max 50 char)
 
@@ -34,13 +34,17 @@ Pedrinho Marcio
 #OUTPUT
 cvccvccv cvccvv
 #END
+```
 
+```py
 #INPUT
 Reumario Albrito
 #OUTPUT
 cvvcvcvv vcccvcv
 #END
+```
 
+```py
 #INPUT
 AaBbCcDdEe
 #OUTPUT

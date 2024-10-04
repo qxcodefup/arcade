@@ -10,11 +10,11 @@ Não sei se você amava ou odiava o tal do Bhaskara por inventar aquela fórmula
 
 Dados os valores de A, B e C, calcule as raízes.
 
-## Entrada
+### Entrada
 
 - Valores de A, B e C em ponto flutuante, um por linha.
 
-## Saída
+### Saída
 
 - Caso delta seja positivo, a saída deve ser a raiz positiva e raiz negativa, com duas casas decimais, uma raiz por linha.
 - Caso delta seja igual a zero, uma única raiz deve ser considerada, com duas casas decimais.
@@ -31,7 +31,9 @@ Dados os valores de A, B e C, calcule as raízes.
 0.44
 -5.07
 #END
+```
 
+```py
 #INPUT duas raízes
 3.0
 -7.0
@@ -40,7 +42,9 @@ Dados os valores de A, B e C, calcule as raízes.
 1.33
 1.00
 #END
+```
 
+```py
 #INPUT uma raiz
 9.0
 -12.0
@@ -48,7 +52,9 @@ Dados os valores de A, B e C, calcule as raízes.
 #OUTPUT
 0.67
 #END
+```
 
+```py
 #INPUT sem raízes
 5.0
 3.0
@@ -62,7 +68,7 @@ nao ha raiz real
 
 - Para calcular a raiz quadrada você deverá utilizar a função `sqrt`. A função `sqrt` retorna a raiz quadrada do número que for passado por parâmetro. Exemplo:
   
-```txt
+```c
 sqrt(4) retorna 2    
 sqrt(5) retorna 2.23607    
 sqrt(9.0) retorna 3    
@@ -79,7 +85,6 @@ Em **C**:
 
     sqrt(4)  //retorna 2
 ```
-
 
 Em **C++**:
 

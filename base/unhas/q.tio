@@ -6,7 +6,9 @@
 #OUTPUT
 123
 #END
+```
 
+```py
 #INPUT
 4
 3
@@ -16,7 +18,9 @@
 #OUTPUT
 3451
 #END
+```
 
+```py
 #INPUT
 2
 1
@@ -24,7 +28,9 @@
 #OUTPUT
 12
 #END
+```
 
+```py
 #INPUT
 5
 5
@@ -35,7 +41,9 @@
 #OUTPUT
 54321
 #END
+```
 
+```py
 #INPUT 05
 3
 1
@@ -44,7 +52,9 @@
 #OUTPUT
 100
 #END
+```
 
+```py
 #INPUT 06
 3
 1
@@ -53,7 +63,9 @@
 #OUTPUT
 102
 #END
+```
 
+```py
 #INPUT 07
 3
 0
@@ -62,7 +74,9 @@
 #OUTPUT
 0
 #END
+```
 
+```py
 #INPUT 08
 5
 1
@@ -73,7 +87,9 @@
 #OUTPUT
 12345
 #END
+```
 
+```py
 #INPUT 09
 1
 1

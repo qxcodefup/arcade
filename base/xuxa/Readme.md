@@ -16,7 +16,7 @@ Ajude Carlinhos a testar essa teoria.
 
 Dado uma string, imprima a mesma string ao contrário.
 
-## Entrada
+### Entrada
 
 * Uma frase de até 100 caracteres.
 
@@ -32,13 +32,17 @@ ra on odnalor at acopip ed oriehc o
 #OUTPUT
 o cheiro de pipoca ta rolando no ar
 #END
+```
 
+```py
 #INPUT
 rahnos zaf em euq latsirc ed aul
 #OUTPUT
 lua de cristal que me faz sonhar
 #END
+```
 
+```py
 #INPUT
 oacaroc ues on x mu ieuqram
 #OUTPUT

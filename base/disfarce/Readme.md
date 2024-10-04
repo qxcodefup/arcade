@@ -22,7 +22,7 @@ A pessoa de código "David", tem 3 letras repetidas: 'D', 'a', e 'd'.
 
 Como são 3 ocorrências em 5 letras, isso dá mais de 50%, o que garante que o David é um Ultron.
 
-## Entrada
+### Entrada
 
 * A quantidade X de casos de teste ( 1 <= X <= 50) Cada caso de teste contém
 * Código ultron com N letras( 1 <= N <=26).  As letras não se repetem dentro do código.
@@ -53,7 +53,9 @@ pessoa
 chefe
 ultron
 #END
+```
 
+```py
 #INPUT
 2
 aeiou

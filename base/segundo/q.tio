@@ -3,19 +3,25 @@
 #OUTPUT
 12 10 12
 #END
+```
 
+```py
 #INPUT
 12 10 59
 #OUTPUT
 12 11 00
 #END
+```
 
+```py
 #INPUT
 12 59 59
 #OUTPUT
 13 00 00
 #END
+```
 
+```py
 #INPUT
 23 59 59
 #OUTPUT

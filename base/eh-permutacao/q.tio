@@ -3,61 +3,81 @@
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT
 544 45
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT
 12354 45312
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT Teste 0
 333 3333
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT Teste 2
 456 465
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT Teste 3
 44463 364445
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT Teste 4
 555222 252525
 #OUTPUT
 True
 #END
+```
 
+```py
 #INPUT Teste 5
 4454654 456482
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT Teste 6
 223 23
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT Teste 7
 15454 45454
 #OUTPUT
 False
 #END
+```
 
+```py
 #INPUT Teste 8
 121 112
 #OUTPUT

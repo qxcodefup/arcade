@@ -3,21 +3,27 @@
 #OUTPUT
 2 3
 #END
+```
 
+```py
 #INPUT
 40
 #OUTPUT
 2 3
 5 1
 #END
+```
 
+```py
 #INPUT
 55
 #OUTPUT
 5 1
 11 1
 #END
+```
 
+```py
 #INPUT
 552
 #OUTPUT
@@ -25,7 +31,9 @@
 3 1
 23 1
 #END
+```
 
+```py
 #INPUT
 169400
 #OUTPUT
