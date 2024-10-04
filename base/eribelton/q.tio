@@ -1,39 +1,39 @@
->>>>>>>>
+#INPUT
 e
-========
+#OUTPUT
 1
 ec
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 d
-========
+#OUTPUT
 0
 d
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Aga
-========
+#OUTPUT
 15
 Agaa
 12
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Rufus
-========
+#OUTPUT
 33
 Rufusu
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Ariates
-========
+#OUTPUT
 13
 Ariatesa
 10
-<<<<<<<<
+#END

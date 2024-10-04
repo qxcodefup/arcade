@@ -1,8 +1,8 @@
->>>>>>>> numerico apenas
+#INPUT numerico apenas
 4 10
 0179
 9997
-========
+#OUTPUT
 9999
 0000
 0001
@@ -13,13 +13,13 @@
 0017
 0019
 0070
-<<<<<<<<
+#END
 
->>>>>>>> misturado
+#INPUT misturado
 3 7
 #!1Ap
 !#A
-========
+#OUTPUT
 !#p
 !!#
 !!!
@@ -27,13 +27,13 @@
 !!A
 !!p
 !1#
-<<<<<<<<
+#END
 
->>>>>>>> numerico invertido
+#INPUT numerico invertido
 4 10
 0982
 2222
-========
+#OUTPUT
 0000
 0009
 0008
@@ -44,13 +44,13 @@
 0092
 0080
 0089
-<<<<<<<<
+#END
 
->>>>>>>> 04 muitos
+#INPUT 04 muitos
 6 50
 Zou29@#
 ####ou
-========
+#OUTPUT
 ####o2
 ####o9
 ####o@
@@ -101,4 +101,4 @@ ZZZZoZ
 ZZZZoo
 ZZZZou
 ZZZZo2
-<<<<<<<<
+#END

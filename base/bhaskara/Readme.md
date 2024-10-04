@@ -22,40 +22,40 @@ Dados os valores de A, B e C, calcule as raízes.
 
 ## Exemplos
 
-``` txt
->>>>>>>> duas raízes
+``` py
+#INPUT duas raízes
 5.4
 25.0
 -12.0
-========
+#OUTPUT
 0.44
 -5.07
-<<<<<<<<
+#END
 
->>>>>>>> duas raízes
+#INPUT duas raízes
 3.0
 -7.0
 4.0
-========
+#OUTPUT
 1.33
 1.00
-<<<<<<<<
+#END
 
->>>>>>>> uma raiz
+#INPUT uma raiz
 9.0
 -12.0
 4.0
-========
+#OUTPUT
 0.67
-<<<<<<<<
+#END
 
->>>>>>>> sem raízes
+#INPUT sem raízes
 5.0
 3.0
 5.0
-========
+#OUTPUT
 nao ha raiz real
-<<<<<<<<
+#END
 ```
 
 ## Ajuda

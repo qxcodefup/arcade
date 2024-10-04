@@ -1,12 +1,5 @@
 # L2 - Hora do @chute - Quem chega mais perto
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/chute/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup chute`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/chute/cover.jpg)
 
 ## Descrição
@@ -31,46 +24,46 @@ Se ambos ficarem à mesma distancia do valor real, então houve empate.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 2
 3
-========
+#OUTPUT
 primeiro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 5
 4
-========
+#OUTPUT
 segundo
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
 11
 9
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 20
 21
 22
-========
+#OUTPUT
 primeiro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 20
 21
 21
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 ```
 
 ## Ajuda

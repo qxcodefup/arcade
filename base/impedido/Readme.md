@@ -1,12 +1,5 @@
 # L1 - @impedido
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/impedido/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup impedido`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ## OBI 2015 - Fase 2 - Nível 1
 
 ## Motivação
@@ -15,7 +8,7 @@ A regra do impedimento no futebol pode parecer estranha, mas sem ela, se a gente
 
 A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógica dela. O seu programa deve apenas determinar, dadas as três posições L,R e D, se há ou não impedimento, implementando exatamente a condição acima. A figura abaixo mostra um exemplo onde \\bf não há impedimento:
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/impedido/cover.jpg)
+![_](cover.jpg)
 
 ## Entrada
 
@@ -33,28 +26,28 @@ A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógi
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 35
 60
 75
-========
+#OUTPUT
 N
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 55
 68
 67
-========
+#OUTPUT
 S
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 66
 80
 80
-========
+#OUTPUT
 N
-<<<<<<<<
+#END
 ```

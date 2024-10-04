@@ -1,13 +1,6 @@
 # L3 - Somatório de @fibonacci
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fibonacci/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup fibonacci`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fibonacci/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -35,22 +28,22 @@ Pedrinho quer dado um limite predefinido, calcular a soma de todos os termos da 
 
 ## Exemplos
 
-``` txt
->>>>>>>> Teste 0
+``` py
+#INPUT Teste 0
 50
-========
+#OUTPUT
 44
-<<<<<<<<
+#END
 
->>>>>>>> Teste 1
+#INPUT Teste 1
 100
-========
+#OUTPUT
 44
-<<<<<<<<
+#END
 
->>>>>>>> Teste 2
+#INPUT Teste 2
 1000000
-========
+#OUTPUT
 1089154
-<<<<<<<<
+#END
 ```

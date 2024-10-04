@@ -34,36 +34,36 @@ Receba três valores e imprima o valor do meio.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
 2
 4
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 5
 7
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 0
 6
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 6
 5
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
 ```

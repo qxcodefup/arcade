@@ -1,8 +1,12 @@
 # L0 - @sobrou - calculando quanto sobrou
 
+[Ação](#ação) | [Shell](#shell) 
+-- | -- 
+
+
 ![Imagem Quantos Sobrou](cover.jpg)
 
-## Ação
+### Ação
 
 Suponha a situação que uma pessoa recebe uma lista com o preço e a
 quantidade de três produtos que ela deve comprar. Ela recebe uma certa quantia
@@ -22,12 +26,12 @@ sobrou.
 
 ### Saída
 
-- Troco que a pessoa deve receber, com duas casas decimais.
+- O valor do troco que a pessoa deve receber, com duas casas decimais.
 
-## Exemplos
+## Shell
 
 ```txt
->>>>>>>> 0
+#INPUT 0
 2
 8
 5
@@ -35,11 +39,11 @@ sobrou.
 4206.00
 761.00
 54771.87
-========
+#OUTPUT
 14208.87
-<<<<<<<<
+#END
 
->>>>>>>> 1
+#INPUT 1
 9
 3
 5
@@ -47,11 +51,11 @@ sobrou.
 3200.00
 3327.00
 49569.79
-========
+#OUTPUT
 16818.79
-<<<<<<<<
+#END
 
->>>>>>>> 2
+#INPUT 2
 2
 2
 6
@@ -59,11 +63,11 @@ sobrou.
 4837.00
 455.00
 32500.45
-========
+#OUTPUT
 16156.45
-<<<<<<<<
+#END
 
->>>>>>>> 3
+#INPUT 3
 5
 3
 4
@@ -71,11 +75,11 @@ sobrou.
 2410.00
 2458.00
 29180
-========
+#OUTPUT
 10608.00
-<<<<<<<<
+#END
 
->>>>>>>> 4
+#INPUT 4
 9
 6
 8
@@ -83,11 +87,11 @@ sobrou.
 4799.00
 1566.00
 60536.63
-========
+#OUTPUT
 3266.63
-<<<<<<<<
+#END
 
->>>>>>>> 5
+#INPUT 5
 3
 8
 10
@@ -95,11 +99,11 @@ sobrou.
 4913.00
 3758.00
 143486.80
-========
+#OUTPUT
 60386.80
-<<<<<<<<
+#END
 
->>>>>>>> 6
+#INPUT 6
 3
 4
 4
@@ -107,8 +111,8 @@ sobrou.
 178.00
 2730.00
 47773.89
-========
+#OUTPUT
 22119.89
-<<<<<<<<
+#END
 
 ```

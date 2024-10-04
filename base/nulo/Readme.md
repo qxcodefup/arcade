@@ -1,15 +1,18 @@
 # L0 - @nulo - positivo ou negativo
 
+
+[Ação](#ação) | [Shell](#shell) 
+-- | -- 
+
 ![Imagem eh Positivo](cover.jpg)
 
-## Ação
+### Ação
 
-Implemente um programa que recebe um número inteiro e diga se ele é positivo ou
-negativo ou nulo.
+Distinguir se um número é positivo, negativo ou nulo é uma das verificações mais básicas em problemas de programação. Isso pode ser útil para determinar ações em diferentes condições. Implemente um programa que recebe um número inteiro e determine se ele é positivo, negativo ou nulo, imprimindo um símbolo apropriado.
 
 ### Entrada
 
-- Um inteiro
+- Um número inteiro
 
 ### Saída
 
@@ -17,42 +20,42 @@ negativo ou nulo.
 - "-" se o número for negativo
 - "0" se o número for nulo
 
-## Exemplos
+### Shell
 
 ```txt
->>>>>>>> 0
+#INPUT 0
 3
-========
+#OUTPUT
 +
-<<<<<<<<
+#END
 
->>>>>>>> 1
+#INPUT 1
 -12
-========
+#OUTPUT
 -
-<<<<<<<<
+#END
 
->>>>>>>> 2
+#INPUT 2
 0
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>> 3
+#INPUT 3
 18
-========
+#OUTPUT
 +
-<<<<<<<<
+#END
 
->>>>>>>> 4
+#INPUT 4
 -7
-========
+#OUTPUT
 -
-<<<<<<<<
+#END
 
->>>>>>>> 6
+#INPUT 6
 15
-========
+#OUTPUT
 +
-<<<<<<<<
+#END
 ```

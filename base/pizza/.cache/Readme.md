@@ -1,12 +1,5 @@
 # L2 - @pizza
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/pizza/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup pizza`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pizza/cover.jpg)
 
 Davi adora comer pizza. Mas ele está preocupado porque a qualidade da pizza feita pela maioria dos restaurantes em Quixadá está piorando. As últimas pizzas pedidas por ele não estavam tão boas. Davi está com muita fome e quer comer pizza. Mas ele está indeciso sobre o restaurante de onde deveria pedir. Como sempre, ele pede ajuda a Edvadlo.
@@ -32,15 +25,15 @@ Imprima o nome do restaurante que Joey deve escolher.
 
 ## Exemplo de Entrada
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
 fornoalenha 108
 burguery 145
 qsabor 49
-========
+#OUTPUT
 burguery
-<<<<<<<<
+#END
 ```
 
 ## Sugestão

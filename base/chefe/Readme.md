@@ -1,13 +1,6 @@
 # L3 - Aniquilando Ultrons V3 - identificando @chefe
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/chefe/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup chefe`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/chefe/cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
@@ -36,18 +29,18 @@ Saida: "pessoa ultron chefe pessoa ultron pessoa chefe"
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 aeiou  
 arta euio auiaoauio riu pegasus
-========  
+#OUTPUT  
 pessoa chefe chefe ultron pessoa
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 aer
 arta euio auiaoauio riu pegasus rea
-========
+#OUTPUT
 ultron pessoa pessoa pessoa pessoa chefe
-<<<<<<<<
+#END
 ```

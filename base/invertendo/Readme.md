@@ -1,13 +1,6 @@
 # L2 - @invertendo vetor
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/invertendo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup invertendo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/invertendo/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -32,32 +25,32 @@ Faça uma função que ajude o capoeirista a inverter um vetor passado na entrad
 
 ### Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 4
 1 2 3 4
-========
+#OUTPUT
 [ 4 3 2 1 ]
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 2
 1 2
-========
+#OUTPUT
 [ 2 1 ]
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 6
 1 2 3 4 5 6
-========
+#OUTPUT
 [ 6 5 4 3 2 1 ]
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 5
 1 2 3 4 5
-========
+#OUTPUT
 [ 5 4 3 2 1 ]
-<<<<<<<<
+#END
 ```

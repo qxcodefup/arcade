@@ -1,12 +1,5 @@
 # L2 - @fuga em helicóptero - OBI 2016
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fuga/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup fuga`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 <!-- toch -->
 [Entrada](#entrada) | [Saída](#saída) | [Restrições](#restrições) | [Exemplos](#exemplos)
 -- | -- | -- | --
@@ -18,7 +11,7 @@ O helicóptero e o policial ficam sempre parados. O objetivo do fugitivo é cheg
 
 Neste problema, dadas as posições do helicóptero, do policial e do fugitivo, e a direção em que o fugitivo decide correr, seu programa deve dizer se ele vai ou não conseguir fugir! Na figura, se o fugitivo decidir correr na direção horária, ele consegue fugir; se decidir correr na direção anti-horária, ele vai ser preso antes de chegar no helicóptero!
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fuga/cover.jpg)
+![_](cover.jpg)
 
 ## Entrada
 
@@ -34,28 +27,28 @@ Neste problema, dadas as posições do helicóptero, do policial e do fugitivo, 
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 4 14 7 -1
-========
+#OUTPUT
 S
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4 14 7 1
-========
+#OUTPUT
 N
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 15 9 8 -1
-========
+#OUTPUT
 S
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 0 14 15 -1
-========
+#OUTPUT
 N
-<<<<<<<<
+#END
 ```

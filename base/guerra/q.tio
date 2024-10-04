@@ -1,4 +1,4 @@
->>>>>>>>
+#INPUT
 2
 Homem de Ferro
 500
@@ -9,12 +9,12 @@ Capitao America
 400
 Soldado Invernal
 450
-========
+#OUTPUT
 Team Captain Wins
 Homem de Ferro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 Pantera Negra
 600
@@ -29,12 +29,12 @@ Wanda
 1200
 Homem Formiga
 300
-========
+#OUTPUT
 Team Iron Wins
 Wanda
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 2
 Homem de Ferro
 500
@@ -45,12 +45,12 @@ Capitao America
 650
 Soldado Invernal
 350
-========
+#OUTPUT
 Draw
 Capitao America
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 5
 Homem de Ferro
 600
@@ -73,12 +73,12 @@ Gaviao Arqueiro
 400
 Falcao
 350
-========
+#OUTPUT
 Team Iron Wins
 Visao
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 1
 Homem de Ferro
 800
@@ -87,7 +87,7 @@ Capitao America
 500
 Soldado Invernal
 500
-========
+#OUTPUT
 Team Captain Wins
 Homem de Ferro
-<<<<<<<<
+#END

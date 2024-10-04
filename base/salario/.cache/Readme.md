@@ -1,12 +1,5 @@
 # L2 - @salario - Calculando aumento
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/salario/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup salario`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/salario/cover.jpg)
 
 ## Motivação
@@ -41,22 +34,22 @@ printf("%.2f", total);
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 900.00
-========
+#OUTPUT
 1080.00
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1500.00
-========
+#OUTPUT
 1725.00
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2005.20
-========
+#OUTPUT
 2105.46
-<<<<<<<<
+#END
 ```

@@ -1,12 +1,5 @@
 # L3 - Zerinho ou um @americano - Decifrando a fórmula
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/americano/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup americano`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/americano/cover.jpg)
 
 ## Motivação
@@ -33,31 +26,31 @@ Suponha que existem 4 jogadores. O contador, o jogador 1, aponta pra cima e diz 
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 0
 0
 0
 0
-========
+#OUTPUT
 nenhum
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 0
 0
 2
 0
-========
+#OUTPUT
 jog2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 2
 2
 2
-========
+#OUTPUT
 jog4
-<<<<<<<<
+#END
 ```

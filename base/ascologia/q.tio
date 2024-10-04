@@ -1,47 +1,47 @@
->>>>>>>> 01
+#INPUT 01
 David
-========
+#OUTPUT
 38
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 Scya
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 Ana
-========
+#OUTPUT
 22
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 BruNa
-========
+#OUTPUT
 22
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 Marcos
-========
+#OUTPUT
 13
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 andre
-========
+#OUTPUT
 22
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 CumpadreWashington
-========
+#OUTPUT
 25
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Fernando
-========
+#OUTPUT
 13
-<<<<<<<<
+#END

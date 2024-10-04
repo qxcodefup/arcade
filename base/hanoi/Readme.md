@@ -1,13 +1,6 @@
 # L3 - Torres de @hanoi
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/hanoi/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup hanoi`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/hanoi/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -58,10 +51,10 @@ Este problema parece difícil de resolver para o caso geral com _n_ discos. Por�
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
-========
+#OUTPUT
 A -> C
 A -> B
 C -> B
@@ -69,5 +62,5 @@ A -> C
 B -> A
 B -> C
 A -> C
-<<<<<<<<
+#END
 ```

@@ -1,46 +1,95 @@
 # L2 - @mumia - criança, jovem, adulto
 
+[Motiv](#motivação) | [Shell](#shell) | [Dicas](#dicas) 
+-- | -- | --
+
 ![_](cover.jpg)
+
+###  Motivação
+
+Em um projeto escolar, um professor precisa classificar os alunos de acordo com suas idades. A tarefa é determinar se um aluno é uma criança, jovem, adulto, idoso ou uma múmia, com base em regras específicas. O professor gostaria que a implementação fosse feita de forma clara e eficiente.
 
 Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escreva:
 
-* crianca se menor que 12 (não use o ç),
-* jovem se menor que 18,
-* adulto se menor que 65,
-* idoso se menor que 1000,
-* mumia caso contrario (não ponha o acento).
+* "crianca" se menor que 12 (não use o ç),
+* "jovem" se menor que 18,
+* "adulto" se menor que 65,
+* "idoso" se menor que 1000,
+* "mumia" caso contrario (não ponha o acento).
 
-OBS: por simplificações, não faça flexão de gênero (idoso, idosa, adulto, adulta), não use acento, nem ç, nem maiúscula.
+### Entrada
 
-## Exemplos
+- Na primeira o nome da pessoa (uma string)
+- Na segunfa linha a idade (um inteiro)
 
-``` txt
->>>>>>>>
+### Saída 
+
+- Uma frase no formato "`<nome>` eh `<classificação>`"
+
+
+### Restrição
+
+Por simplificações, não faça flexão de gênero (idoso, idosa, adulto, adulta), não use acento, nem ç, nem maiúscula.
+
+## Shell
+
+``` py
+#INPUT
 mario
 4
-========
+#OUTPUT
 mario eh crianca
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 jose
 65
-========
+#OUTPUT
 jose eh idoso
-<<<<<<<<
+#END
 ```
 
-## Dica
+### Dicas
 
-Utilize a técnica do seleção intervalada e termine com um else sem condição.
-
+- **C** - Utilize a técnica do seleção intervalada e termine com um else sem condição:
 ```c
-if(x < 12)  
-    ...  
-else if(x < 18)  
+int main() {
+    if(x < 12) {
+        ...
+    }  
+    else if(x < 18) {
+        ...
+    }  
+    else if(x < 65) {
+        ...
+    }  
+    else {
+        ...
+    }
+}
+```
+
+- **Python** - Utilize a técnica do seleção intervalada e termine com um else sem condição:
+``` python
+if x < 12:
     ...
-else if(x < 65)  
+elif x < 18:
     ...
-else
+elif x < 65:
     ...
+else:
+    ...
+```
+- **TypeScript** - Utilize a técnica do seleção intervalada e termine com um else sem condição:
+
+``` ts
+if(x < 12) {
+    ...
+} else if(x < 18) {
+    ...
+} else if(x < 65) {
+    ...
+} else {
+    ...
+}
 ```

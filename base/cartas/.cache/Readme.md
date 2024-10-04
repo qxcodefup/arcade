@@ -1,12 +1,5 @@
 # L2 - @cartas - Transformando números em letras
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/cartas/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup cartas`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ## Imprimir vetor formatado
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cartas/cover.jpg)
@@ -28,38 +21,38 @@ As cartas estão codificadas da seguinte forma. O 1 vale A, os valores 11, 12 e 
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 0
-========
+#OUTPUT
 []
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 13
 1 2 3 4 5 6 7 8 9 10 11 12 13
-========
+#OUTPUT
 [A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 1 1 3 13
-========
+#OUTPUT
 [A, A, 3, K]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 1 12 13 1 1 10
-========
+#OUTPUT
 [A, Q, K, A, A, 10]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 10 10 2 2 11 1
-========
+#OUTPUT
 [10, 10, 2, 2, J, A]
-<<<<<<<<
+#END
 ```

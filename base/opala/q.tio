@@ -1,31 +1,31 @@
->>>>>>>> corsa
+#INPUT corsa
 100
 60
 10
-========
+#OUTPUT
 10.00
-<<<<<<<<
+#END
 
->>>>>>>> fusca
+#INPUT fusca
 60
 40
 10
-========
+#OUTPUT
 4.00
-<<<<<<<<
+#END
 
->>>>>>>> 03 moto
+#INPUT 03 moto
 65
 45
 2.5
-========
+#OUTPUT
 19.50
-<<<<<<<<
+#END
 
->>>>>>>> 04 opala
+#INPUT 04 opala
 120
 50
 20.4
-========
+#OUTPUT
 4.90
-<<<<<<<<
+#END

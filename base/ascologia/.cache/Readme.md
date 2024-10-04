@@ -1,12 +1,5 @@
 # L1 - Eribelton e a @ascologia V1 - Somar Asc
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/ascologia/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup ascologia`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/ascologia/cover.jpg)
 
 ## Motivação
@@ -31,54 +24,54 @@ Receba um nome como entrada e some todos os caracteres. Imprima o resto da soma 
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 David
-========
+#OUTPUT
 38
-<<<<<<<<  
+#END  
 
->>>>>>>> 02
+#INPUT 02
 Scya
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 Ana
-========
+#OUTPUT
 22
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 BruNa
-========
+#OUTPUT
 22
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 Marcos
-========
+#OUTPUT
 13
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 andre
-========
+#OUTPUT
 22
-<<<<<<<<
+#END
 ```
 
 <!-- 
->>>>>>>>
+#INPUT
 CumpadreWashington
-========
+#OUTPUT
 25
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Fernando
-========
+#OUTPUT
 13
-<<<<<<<<
+#END
 -->

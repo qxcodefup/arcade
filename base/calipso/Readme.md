@@ -1,13 +1,6 @@
 # L3 - Jack Sparrow e @calipso - Alternar Case
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/calipso/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup calipso`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/calipso/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -38,29 +31,29 @@ Dada uma frase, conforme o case da primeira letra, alterne o case de todas as le
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 a batata
-========
+#OUTPUT
 a BaTaTa
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 AAAAAAAA
 bBbBbBbB
-========
+#OUTPUT
 AaAaAaAa
 bBbBbBbB
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 Morra Prea
 BigODE Aparado
-========
+#OUTPUT
 MoRrA pReA
 BiGoDe ApArAdO
-<<<<<<<<
+#END
 ```

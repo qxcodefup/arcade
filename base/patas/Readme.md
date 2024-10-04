@@ -21,28 +21,28 @@ Leia os animais e some as patas de todos eles.
 ## Testes
 
 ```txt
->>>>>>>> um animal
+#INPUT um animal
 4
 4
 1
 c
-========
+#OUTPUT
 4
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 7
 8
 2
 g
 c
-========
+#OUTPUT
 6
 Chico Bento
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 15
 15
 5
@@ -51,12 +51,12 @@ c
 g
 v
 g
-========
+#OUTPUT
 16
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 15
 17
 5
@@ -65,12 +65,12 @@ c
 g
 v
 g
-========
+#OUTPUT
 16
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 17
 15
 5
@@ -79,12 +79,12 @@ c
 g
 v
 g
-========
+#OUTPUT
 16
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 18
 15
 5
@@ -93,12 +93,12 @@ c
 g
 v
 g
-========
+#OUTPUT
 16
 Cebolinha
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 15
 18
 5
@@ -107,8 +107,8 @@ c
 g
 v
 g
-========
+#OUTPUT
 16
 Chico Bento
-<<<<<<<<
+#END
 ```

@@ -1,13 +1,6 @@
 # L3 - @eribelton e a Ascologia V3 - Busca do mínimo
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/eribelton/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup eribelton`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/eribelton/cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
@@ -25,44 +18,44 @@ Diferente da versão 2 em que você ou encontrava um nome perfeito ou digitava e
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 e
-========
+#OUTPUT
 1
 ec
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 d
-========
+#OUTPUT
 0
 d
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Aga
-========
+#OUTPUT
 15
 Agaa
 12
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Rufus
-========
+#OUTPUT
 33
 Rufusu
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Ariates
-========
+#OUTPUT
 13
 Ariatesa
 10
-<<<<<<<<
+#END
 ```

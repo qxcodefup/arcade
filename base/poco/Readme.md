@@ -1,13 +1,6 @@
 # L3 - Sapinho 2 morrendo no @poco
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/poco/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup poco`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![sapinho](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/poco/cover.jpg)
+![sapinho]( cover.jpg)
 
 ## Motivação
 
@@ -38,23 +31,23 @@ para mostrar os saltos do sapo até a saída.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 800
 300
 100
-========
+#OUTPUT
 0 300
 200 490
 390 670
 570 saiu
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 800
 300
 200
-========
+#OUTPUT
 0 300
 100 390
 190 470
@@ -78,13 +71,13 @@ para mostrar os saltos do sapo até a saída.
 100 200
 0 90
 -110 morreu
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 50
 30
-========
+#OUTPUT
 0 50
 20 60
 30 60
@@ -92,13 +85,13 @@ para mostrar os saltos do sapo até a saída.
 20 30
 0 0
 -30 morreu
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 60
 30
-========
+#OUTPUT
 0 60
 30 80
 50 90
@@ -108,6 +101,5 @@ para mostrar os saltos do sapo até a saída.
 30 30
 0 0
 -30 morreu
-<<<<<<<<
+#END
 ```
-

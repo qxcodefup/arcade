@@ -1,12 +1,5 @@
 # L2 - @avestruz com Alcaparras - ignorar case
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/avestruz/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup avestruz`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/avestruz/cover.jpg)
 
 ## Ação
@@ -25,25 +18,25 @@ OBS: Não use o método count do python.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 A Andreia alimentou a avestruz com alcaparras
 a
-========
+#OUTPUT
 10
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 A Andreia atirou alcachofras no LEAO
 e
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>  
+#INPUT  
 A Andreia atirou alcachofras no leao
 x
-========  
+#OUTPUT  
 0
-<<<<<<<<
+#END
 ```

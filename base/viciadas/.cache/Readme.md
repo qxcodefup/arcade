@@ -1,12 +1,5 @@
 # L3 - Bolinhas @viciadas
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/viciadas/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup viciadas`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/viciadas/cover.jpg)
 
 ## Motivação
@@ -40,28 +33,28 @@ crescente.
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 3 
 1 1 2
-========
+#OUTPUT
 2
 1
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 5
 1 3 2 2 3
-========
+#OUTPUT
 3
 2 3
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 10
 2 9 3 3 3 2 1 4 1 1
-========
+#OUTPUT
 5
 1 3
-<<<<<<<<
+#END
 ```

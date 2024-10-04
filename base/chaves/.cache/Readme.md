@@ -1,12 +1,5 @@
 # L1 - @chaves - Positivo, Nulo ou Negativo?
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/chaves/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup chaves`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/chaves/cover.jpg)
 
 ## Motivação
@@ -34,22 +27,22 @@ Eu espero!
 
 ### Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
-========
+#OUTPUT
 positivo
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 -1
-========
+#OUTPUT
 negativo
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 0
-========
+#OUTPUT
 nulo
-<<<<<<<<
+#END
 ```

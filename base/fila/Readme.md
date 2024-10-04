@@ -1,13 +1,6 @@
 # L2 - @fila do RU - Separar Pares e Ímpares
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fila/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup fila`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fila/cover.jpg)
+![_](cover.jpg)
 
 [](solver.cpp)
 
@@ -34,28 +27,28 @@ Imprima todos os números ímpares na ordem em que foram inseridos na primeira l
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 2
 4 2
-========
+#OUTPUT
 [ ]
 [ 4 2 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 2 6 4 1
-========
+#OUTPUT
 [ 1 ]
 [ 2 6 4 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 1 2 5 3 4 9
-========
+#OUTPUT
 [ 1 5 3 9 ]
 [ 2 4 ]
-<<<<<<<<
+#END
 ```

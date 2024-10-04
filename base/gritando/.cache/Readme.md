@@ -1,12 +1,5 @@
 # L2 - @gritando em Caixa Alta -  Invertendo o Case da frase
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/gritando/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup gritando`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/gritando/cover.jpg)
 
 ## Motivação
@@ -34,22 +27,22 @@ Dado um texto(max 100 char) mostre o texto invertido. O que for minúsculo impri
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 O ovomaltine e GOSTOSO
-========
+#OUTPUT
 o OVOMALTINE E gostoso
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Paralelepipedarte-ei se NAO me passar a CARTEIRA
-========
+#OUTPUT
 pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1, Dois, 3 Indiozinhos
-========
+#OUTPUT
 1, dOIS, 3 iNDIOZINHOS
-<<<<<<<<
+#END
 ```

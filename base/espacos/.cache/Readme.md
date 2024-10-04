@@ -1,12 +1,5 @@
 # L3 - Meu cachorro comeu minha tarefa V2 - retirar @espacos duplicados
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/espacos/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup espacos`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/espacos/cover.jpg)
 
 ## Motivação
@@ -38,28 +31,28 @@ Faça um código que retire os espaços duplicados no meio da frase.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 a  almofada ta muito  fofa
-========
+#OUTPUT
 a almofada ta muito fofa
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 ai  bb cx
-========
+#OUTPUT
 ai bb cx
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 aiu  bbk cxmp
-========
+#OUTPUT
 aiu bbk cxmp
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a  bola  ta furada
-========
+#OUTPUT
 a bola ta furada
-<<<<<<<<
+#END
 ```

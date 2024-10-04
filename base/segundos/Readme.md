@@ -1,5 +1,9 @@
 # L0 - @segundos - converter segundos em h:m:s
 
+[Ação](#ação) | [Shell](#shell) | [Dicas](#dicas)
+-- | -- | --
+
+
 ![Imagem Tempo em Horas, Minutos e Segundos](cover.jpg)
 
 ## Ação
@@ -18,108 +22,132 @@ Hora:Minuto:Segundo
 
 ### Entrada
 
-- Tempo em segundos
+- Um único número inteiro representando o tempo em segundos.
 
 ### Saída
 
 - Tempo formatado em Horas:Minutos:Segundos
 
-### Observação
 
-- Pule uma linha com `'\n'` depois de mostrar a soma.
-Somente para quem está programando em **C**:
-- Exemplo: std::cout << media << '\n';
-
-## Exemplos
+### Shell
 
 ```
->>>>>>>> 0
+#INPUT 0
 3641
-========
+#OUTPUT
 1:0:41
-<<<<<<<<
+#END
 
->>>>>>>> 1
+#INPUT 1
 22067
-========
+#OUTPUT
 6:7:47
-<<<<<<<<
+#END
 
->>>>>>>> 2
+#INPUT 2
 9934
-========
+#OUTPUT
 2:45:34
-<<<<<<<<
+#END
 
->>>>>>>> 3
+#INPUT 3
 30100
-========
+#OUTPUT
 8:21:40
-<<<<<<<<
+#END
 
->>>>>>>> 4
+#INPUT 4
 22769
-========
+#OUTPUT
 6:19:29
-<<<<<<<<
+#END
 
->>>>>>>> 5
+#INPUT 5
 19324
-========
+#OUTPUT
 5:22:4
-<<<<<<<<
+#END
 
->>>>>>>> 6
+#INPUT 6
 15078
-========
+#OUTPUT
 4:11:18
-<<<<<<<<
+#END
 
->>>>>>>> 7
+#INPUT 7
 32958
-========
+#OUTPUT
 9:9:18
-<<<<<<<<
+#END
 
->>>>>>>> 8
+#INPUT 8
 30562
-========
+#OUTPUT
 8:29:22
-<<<<<<<<
+#END
 
->>>>>>>> 9
+#INPUT 9
 28064
-========
+#OUTPUT
 7:47:44
-<<<<<<<<
+#END
 
->>>>>>>> 10
+#INPUT 10
 9305
-========
+#OUTPUT
 2:35:5
-<<<<<<<<
+#END
 
->>>>>>>> 11
+#INPUT 11
 31745
-========
+#OUTPUT
 8:49:5
-<<<<<<<<
+#END
 
->>>>>>>> 12
+#INPUT 12
 26881
-========
+#OUTPUT
 7:28:1
-<<<<<<<<
+#END
 
->>>>>>>> 13
+#INPUT 13
 20427
-========
+#OUTPUT
 5:40:27
-<<<<<<<<
+#END
 
->>>>>>>> 14
+#INPUT 14
 13561
-========
+#OUTPUT
 3:46:1
-<<<<<<<<
+#END
+```
+
+
+### Dicas
+
+- **C** -  Aqui está uma menira de realizar impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
+```c
+int main() {
+    printf("%d:%d:%d", hora, minuto, segundo)
+}
+```
+
+- **Python** - Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
+``` python
+print(f"{hora}:{minuto}:{segundos}")
+- ou -
+print("{}:{}:{}".format(hora, minuto, segundos))
+
+```
+
+- **TypeScript** - Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
+``` ts
+console.log(hora + ":" + minuto + ":" + segundo);
+- ou -
+write(hora + ":" + minuto + ":" + segundo);
+- ou -
+console.log(`${hora}:${minuto}:${segundo}`);
+- ou -
+write(`${hora}:${minuto}:${segundo}`);
 ```

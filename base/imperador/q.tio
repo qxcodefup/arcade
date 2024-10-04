@@ -1,95 +1,95 @@
->>>>>>>>
+#INPUT
 3
 G L G
 C C C
 C G G
-========
+#OUTPUT
 Condenados a morte
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 G G C
 C C C
 G C C
-========
+#OUTPUT
 Condenados a morte
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 C C G
 C G C
 G C C
-========
+#OUTPUT
 Ninguem
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 3
 C G G
 C G C
 G C C
-========
+#OUTPUT
 Gladiadores
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 3
 C C G
 C L C
 G C C
-========
+#OUTPUT
 Ninguem
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 3
 C G G
 C L C
 G C C
-========
+#OUTPUT
 Gladiadores
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 4
 G L G G
 C C C C
 G C G C
 C G C C
-========
+#OUTPUT
 Condenados a morte
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 4
 G G G L
 C C G C
 C G C C
 G C C G
-========
+#OUTPUT
 Ninguem
-<<<<<<<<
+#END
 
->>>>>>>> 09
+#INPUT 09
 5
 G G G G L
 C C G C C
 C C G C C
 C C G G C
 C C C C C
-========
+#OUTPUT
 Condenados a morte
-<<<<<<<<
+#END
 
->>>>>>>> 10
+#INPUT 10
 5
 C C C C C
 L G G C G
 G G G G G
 C G C G C
 C G C C C
-========
+#OUTPUT
 Gladiadores
-<<<<<<<<
+#END

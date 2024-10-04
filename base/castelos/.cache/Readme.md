@@ -1,12 +1,5 @@
 # L2 - @castelos de Cubos
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/castelos/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup castelos`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/castelos/cover.jpg)
 
 Zezim da Carroça ganhou bloquinhos de montar do seu pai. Como ele não tinha computador pra jogar Minecraft, resolveu criar construções magníficas com seus bloquinhos de montar. Decidiu organizar vários níveis usando a seguinte lógica:
@@ -37,22 +30,22 @@ Dado um inteiro lido do usuário, determine, sem uso de operadores reais (como r
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 16
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 18
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 81
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 ```

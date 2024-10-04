@@ -1,69 +1,101 @@
 # L0 - @multiplo de sete
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/multiplo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup multiplo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
+[Ação](#ação) | [Shell](#shell) | [Dicas](#dicas)
+-- | -- | --
 
 ![Imagem eh Positivo](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/multiplo/cover.jpg)
 
-## Ação
+### Ação
 
-Implemente um programa que recebe um número inteiro e imprima SIM caso ele seja
-múltiplo de 7 e NAO caso contrário.
+Muitas vezes, em problemas matemáticos ou de programação, precisamos determinar se um número é múltiplo de outro para simplificar cálculos ou tomar decisões. Um exemplo clássico é verificar se um número é múltiplo de 7, o que pode ser útil em situações como regras de divisibilidade.
+
+Implemente um programa que recebe um número inteiro e imprime "SIM" caso ele seja múltiplo de 7, e "NAO" caso contrário.
 
 ### Entrada
 
-- Um inteiro
+- Um número inteiro.
 
 ### Saída
 
-- "SIM" caso o número for múltiplo de 7
+- "SIM" caso o número seja múltiplo de 7.
+- "NAO" caso o número não seja múltiplo de 7.
 
-## Exemplos
+### Shell
 
 ```txt
->>>>>>>> 0
+#INPUT 0
 3
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>> 1
+#INPUT 1
 14
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>> 2
+#INPUT 2
 21
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>> 3
+#INPUT 3
 0
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>> 4
+#INPUT 4
 45
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>> 5
+#INPUT 5
 -20
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>> 6
+#INPUT 6
 -21
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
+```
+
+### Dicas
+
+- **C** - Use o operador de módulo `%` para verificar se um número é múltiplo de 7:
+``` c
+int main() {
+    if (numero % 7 == 0) printf("SIM\n");
+    else printf("NAO\n");
+}
+```
+
+- **Python** - Utilize o operador % para determinar se o número é divisível por 7:
+``` python
+if numero % 7 == 0:
+    print("SIM")
+else:
+    print("NAO")
+```
+
+- **TypeScript** - Em TypeScript, o operador % funciona da mesma maneira:
+``` ts
+if (numero % 7 === 0) {
+    console.log("SIM");
+} else {
+    console.log("NAO");
+}
+```
+``` ts
+if (numero % 7 === 0) {
+    write("SIM");
+} else {
+    write("NAO");
+}
 ```

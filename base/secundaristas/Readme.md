@@ -1,13 +1,6 @@
 # L3 - @secundaristas
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/secundaristas/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup secundaristas`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/secundaristas/cover.jpg)
+![_](cover.jpg)
 
 Cuidado: Baseado em fatos reais!
 
@@ -32,8 +25,8 @@ Dado o nome completo do aluno e 3 notas que ele tirou no curso, imprimir os alun
 
 ## Testes
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 3
 Alameda do Anjos
 4.5 4.1 8.9
@@ -41,7 +34,7 @@ Heleno Malino
 4.7 4.3 8.2
 Hartheobaudo Hidropolino
 9.0 10.0 8.2
-========
+#OUTPUT
 0: Hartheobaudo Hidropolino
    Media: 9.07
    N1: 9.00, N2: 10.00, N3: 8.20
@@ -51,6 +44,6 @@ Hartheobaudo Hidropolino
 2: Heleno Malino
    Media: 5.73
    N1: 4.70, N2: 4.30, N3: 8.20
-<<<<<<<<
+#END
 
 ```

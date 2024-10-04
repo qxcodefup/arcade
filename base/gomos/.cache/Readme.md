@@ -1,12 +1,5 @@
 # L2 - @gomos da cobrinha
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/gomos/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup gomos`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/gomos/cover.jpg)
 
 - Entrada:
@@ -17,58 +10,58 @@
 
 - Testes
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1 L
 5 5
-========
+#OUTPUT
 4 5
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 L
 5 5
 6 5
 6 6
-========
+#OUTPUT
 4 5
 5 5
 6 5
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4 U
 5 5
 6 5
 6 6
 6 7
-========
+#OUTPUT
 5 4
 5 5
 6 5
 6 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1 R
 5 5
-========
+#OUTPUT
 6 5
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1 D
 5 5
-========
+#OUTPUT
 5 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1 U
 5 5
-========
+#OUTPUT
 5 4
-<<<<<<<<
+#END
 ```
 
 Você deve implementar a função

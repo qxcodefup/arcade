@@ -15,37 +15,37 @@ Nos dias que ele vai para o Broiler, ele acaba comendo demais, pois um prato pra
 ## Testes
 
 ```txt
->>>>>>>>
+#INPUT
 1
 3000
-========
+#OUTPUT
 3000.0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 3000
 4000
-========
+#OUTPUT
 3500.0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 2000
 0
 1000
-========
+#OUTPUT
 1000.0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 5000
 2000
 0
 1000
-========
+#OUTPUT
 2000.0
-<<<<<<<<
+#END
 ```

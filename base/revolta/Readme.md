@@ -1,13 +1,6 @@
 # L2 - @revolta em Portugal
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/revolta/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup revolta`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/revolta/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -37,50 +30,50 @@ Verifique se o grupo de Manoel ou de Joaquim conseguirá vencer essa batalha. Da
 
 ### Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 2
 1
 2
-========
+#OUTPUT
 rebeldes
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 1
 2
 1
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 2
 3
-========
+#OUTPUT
 soldados
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 1
 2
 3
 1
-========
+#OUTPUT
 soldados
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 1
 2
 3
 1
 4
-========
+#OUTPUT
 rebeldes
-<<<<<<<<
+#END
 ```

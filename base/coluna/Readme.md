@@ -1,13 +1,6 @@
 # L2 - @coluna de Valor Maior
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/coluna/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup coluna`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/coluna/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -43,33 +36,33 @@ Se existirem duas ou mais colunas (j), que gera o valor maior igual, considere a
 
 ### Exemplos
 
-``` txt
->>>>>>>> Teste 0
+``` py
+#INPUT Teste 0
 3
 3 4 5
 6 8 9
 0 6 7
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>> Teste 1
+#INPUT Teste 1
 3
 -7 8 10
 9 2 5
 6 3 5
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>> Teste 2
+#INPUT Teste 2
 5
 3 3 3 3 4
 5 6 4 8 9
 2 2 1 3 7 
 -5 5 4 6 4
 2 3 1 0 8 10
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 ```

@@ -25,10 +25,10 @@ Existem muitas variações de jogos de atenção para jogar em grupo. Um famoso 
 ## Testes
 
 ```txt
->>>>>>>>
+#INPUT
 1
 16
-========
+#OUTPUT
 1
 2
 zig
@@ -45,12 +45,12 @@ zig
 14
 zigzag
 16
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 25
 35
-========
+#OUTPUT
 zag
 26
 zig
@@ -62,6 +62,6 @@ zigzag
 zig
 34
 zag
-<<<<<<<<
+#END
 
 ```

@@ -21,138 +21,138 @@ Faça um código que lê o dia da semana e a hora e informa ao chefe se ainda é
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 2
 12
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 7
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 13
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 14
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 18
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 17
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 17
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 9
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 14
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 19
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>> sexta 8
+#INPUT sexta 8
 6
 8
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>> sexta 11
+#INPUT sexta 11
 6
 11
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>> sexta 12
+#INPUT sexta 12
 6
 12
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>> sexta as 15
+#INPUT sexta as 15
 6
 15
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>> sab 7
+#INPUT sab 7
 7
 7
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>> sab 8
+#INPUT sab 8
 7
 8
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>> sab 11
+#INPUT sab 11
 7
 11
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>> sab 12
+#INPUT sab 12
 7
 12
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>> sab as 15
+#INPUT sab as 15
 7
 15
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
 ```

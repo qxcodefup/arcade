@@ -1,12 +1,5 @@
 # L2 - @quadrado Mágico
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/quadrado/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup quadrado`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/quadrado/cover.jpg)
 
 ## Motivação
@@ -27,28 +20,28 @@ Diga se a uma matriz de elementos inteiros 3x3 dada como entrada é quadrado má
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1 2 3
 4 5 6
 7 8 9
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2 7 6
 9 5 1
 4 3 8
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 8 1 6
 3 5 7
 4 9 2
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 ```

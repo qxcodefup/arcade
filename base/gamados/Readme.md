@@ -1,13 +1,6 @@
 # L3 - Gansos @gamados - Verificar ordenação da frase
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/gamados/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup gamados`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/gamados/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -43,28 +36,28 @@ Dada uma frase, imprima "sim" se as palavras estiverem ordenadas e "nao" caso co
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 a amora azul
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 o rato roeu a roupa
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a b c d e f
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a b c d a f
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 ```

@@ -1,13 +1,6 @@
 # L2 - Removendo @loops no ângulo Cartesiano
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/loops/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup loops`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/loops/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -21,7 +14,7 @@
 
 ## Ação
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/loops/angulos.png)
+![_](angulos.png)
 
 Nosso sistema de ângulos no plano cartesiano é definido em graus. O ângulo 0 aponta para esquerda, o 90 aponta para cima, o 180 para direita e por aí vai. O 360 graus equivale voltar ao 0.  
   
@@ -31,40 +24,40 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 0
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 360
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 361
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 722
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 -2
-========
+#OUTPUT
 358
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 -350
-========
+#OUTPUT
 10
-<<<<<<<<
+#END
 ```

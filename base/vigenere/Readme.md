@@ -1,13 +1,6 @@
 # L3 - Valdiskley e a @vigenere
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/vigenere/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup vigenere`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vigenere/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -51,28 +44,28 @@ A operação de descifrar é o contrário da cifragem.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 batata? sim! frita!!
 abac
 +
-========
+#OUTPUT
 bbtctb? skm! grktb!!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 quando vi voce eu buguei
 princesa
 +
-========
+#OUTPUT
 fliafs ni kfkr gy tuvlmv
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a data ua bbfrua
 ab
 -
-========
+#OUTPUT
 a casa ta aberta
-<<<<<<<<
+#END
 ```

@@ -1,12 +1,5 @@
 # L2 - @boletim - Soma de elementos de em uma matriz
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/boletim/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup boletim`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/boletim/cover.jpg)
 
 ## Motivação
@@ -30,25 +23,25 @@ Receba uma matriz 2x3 de notas inteiras e retorne a soma de todas as notas.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1 2 3
 4 5 6
-========
+#OUTPUT
 21
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1 1 1
 1 1 1
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5 2 1
 3 2 1
-========
+#OUTPUT
 14
-<<<<<<<<
+#END
 ```

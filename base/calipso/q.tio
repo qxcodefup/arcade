@@ -1,35 +1,35 @@
->>>>>>>>
+#INPUT
 1
 a batata
-========
+#OUTPUT
 a BaTaTa
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 AAAAAAAA
 bBbBbBbB
-========
+#OUTPUT
 AaAaAaAa
 bBbBbBbB
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 Morra Prea
 BigODE Aparado
-========
+#OUTPUT
 MoRrA pReA
 BiGoDe ApArAdO
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 3
 a Morra Prea
 g BigODE Aparado
 abcd ef
-========
+#OUTPUT
 a MoRrA pReA
 g BiGoDe ApArAdO
 aBcD eF
-<<<<<<<<
+#END

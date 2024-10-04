@@ -1,65 +1,65 @@
->>>>>>>> Test 1
+#INPUT Test 1
 2
 4
 2000
 1
 4
 2000
-========
+#OUTPUT
 Mais recente
-<<<<<<<<
+#END
 
->>>>>>>> Test 2
+#INPUT Test 2
 2
 3
 1999
 1
 4
 2000
-========
+#OUTPUT
 Mais antiga
-<<<<<<<<
+#END
 
->>>>>>>> Test 3
+#INPUT Test 3
 1
 4
 2000
 2
 4
 2000
-========
+#OUTPUT
 Mais antiga
-<<<<<<<<
+#END
 
->>>>>>>> Test 4
+#INPUT Test 4
 1
 4
 2000
 2
 4
 2001
-========
+#OUTPUT
 Mais antiga
-<<<<<<<<
+#END
 
->>>>>>>> Test 5
+#INPUT Test 5
 1
 5
 2000
 2
 4
 2000
-========
+#OUTPUT
 Mais recente
-<<<<<<<<
+#END
 
->>>>>>>> Test 6
+#INPUT Test 6
 1
 5
 2000
 1
 5
 2000
-========
+#OUTPUT
 Iguais
-<<<<<<<<
+#END

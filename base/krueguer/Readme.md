@@ -1,13 +1,6 @@
 # L3 - Jason e @krueguer - Busca de maior ocorrência
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/krueguer/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup krueguer`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/krueguer/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -40,38 +33,38 @@ Faça um programa que dada uma string retorne uma linha contendo o subtexto com 
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 aeb
-========
+#OUTPUT
 ae
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 aebeiocdu
-========
+#OUTPUT
 eio
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 abdeiuofaoi
 xaeioux
-========
+#OUTPUT
 eiuo
 aeiou
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 aebaibaobaub
 baeoxuoiazzz
 oxau
-========
+#OUTPUT
 ae
 uoia
 au
-<<<<<<<<
+#END
 ```

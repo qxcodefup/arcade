@@ -1,12 +1,5 @@
 # L3 - @meio - A raposa e os esquilos
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/meio/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup meio`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/meio/cover.jpg)
 
 ## Motivação
@@ -41,36 +34,36 @@ Receba três valores e imprima o valor do meio.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
 2
 4
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 5
 7
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 0
 6
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 6
 5
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
 ```

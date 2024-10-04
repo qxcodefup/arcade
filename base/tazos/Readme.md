@@ -1,13 +1,6 @@
 # L3 - @tazos - qual o mais repetido
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/tazos/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup tazos`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/tazos/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -26,62 +19,61 @@ Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos e
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
 1 1 2
-========
+#OUTPUT
 [ 1 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 1 2
-========
+#OUTPUT
 [ 1 2 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 2 2 5 5
-========
+#OUTPUT
 [ 2 5 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 1 1 3 3 3
-========
+#OUTPUT
 [ 3 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 9
 2 2 3 5 5 5 7 7 7
-========
+#OUTPUT
 [ 5 7 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 12
 2 2 3 5 5 5 7 7 7 9 9 9
-========
+#OUTPUT
 [ 5 7 9 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 13
 2 2 3 5 5 5 7 7 7 9 9 9 9
-========
+#OUTPUT
 [ 9 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 2 3 5 8 9
-========
+#OUTPUT
 [ 2 3 5 8 9 ]
-<<<<<<<<
+#END
 
 ```
-

@@ -1,13 +1,6 @@
 # L3 - @decompor um inteiro
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/decompor/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup decompor`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/decompor/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -31,34 +24,34 @@ OBS: Use os operadores de divisão e módulo para obter os números.
   
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 12345
-========
+#OUTPUT
 1 2 3 4 5
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2357
-========
+#OUTPUT
 2 3 5 7
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 567
-========
+#OUTPUT
 5 6 7
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4937
-========
+#OUTPUT
 4 9 3 7
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 953
-========
+#OUTPUT
 9 5 3
-<<<<<<<<
+#END
 ```

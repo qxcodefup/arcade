@@ -1,13 +1,6 @@
 # L3 - Abastecimento de @agua
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/agua/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup agua`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/agua/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -34,40 +27,40 @@ Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5 1
 0 2 1  
-========
+#OUTPUT
 1 1 1 0 0
-<<<<<<<<
+#END
   
->>>>>>>>
+#INPUT
 5 2
 0 2 1
 2 4 2
-========
+#OUTPUT
 1 1 3 2 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10 5
 1 4 5
 5 8 2
 0 9 1
 8 9 3
 4 8 2
-========
+#OUTPUT
 1 6 6 6 8 5 5 5 8 4
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4 4
 0 0 1
 1 1 2
 2 2 3
 3 3 4  
-========
+#OUTPUT
 1 2 3 4
-<<<<<<<<
+#END
 ```

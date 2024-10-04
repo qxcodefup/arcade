@@ -1,57 +1,52 @@
 # L0 - @ou - É 3 ou 5
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/ou/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup ou`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
+[Ação](#ação) | [Shell](#shell) 
+-- | -- 
 
 ![Imagem eh o número 3](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/ou/cover.jpg)
 
-## Ação
+### Ação
 
-Implemente um programa que recebe um número inteiro e imprima SIM caso ele seja o
-número 3 ou o número 5.
+Implemente um programa que recebe um número inteiro e imprime "SIM" caso ele seja o número 3 ou o número 5. Caso contrário, imprima "NAO". Isso ajuda a aprender a trabalhar com comparações e tomadas de decisão
 
 ### Entrada
 
-- Um inteiro
+- Um número inteiro.
 
 ### Saída
 
-- "SIM" se o número for igual a 3, ou 5, caso contrário, "NAO"
+- "SIM" se o número for igual a 3 ou 5, e "NAO" para qualquer outro valor.
 
-## Exemplos
+### Shell
 
 ```txt
->>>>>>>> 0
+#INPUT 0
 3
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>> 1
+#INPUT 1
 12
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>> 2
+#INPUT 2
 -3
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>> 3
+#INPUT 3
 -7
-========
+#OUTPUT
 NAO
-<<<<<<<<
+#END
 
->>>>>>>> 4
+#INPUT 4
 5
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 ```

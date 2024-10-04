@@ -1,13 +1,6 @@
 # L3 - Separe Pneumatócito - @silabas
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/silabas/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup silabas`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/silabas/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -37,22 +30,22 @@ Se após uma vogal existir uma consoante, deve-se separar a sílaba.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 Paralelepipedo
-========
+#OUTPUT
 Pa-ra-le-le-pi-pe-do
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Eu sou o rei de Fup
-========
+#OUTPUT
 Eu sou o rei de Fu-p
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Floresta Amazonica
-========
+#OUTPUT
 Flo-re-sta A-ma-zo-ni-ca
-<<<<<<<<
+#END
 ```

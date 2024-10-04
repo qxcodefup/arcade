@@ -1,13 +1,6 @@
 # L2 - @mediana
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/mediana/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup mediana`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/mediana/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -39,32 +32,32 @@ Assim, você deve ordenar o vetor antes de calcular a mediana.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 2
 2 4
-========
+#OUTPUT
 3.0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 0 1 2
-========
+#OUTPUT
 1.0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 0 9 3.2 1
-========
+#OUTPUT
 6.1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 0 2 9 8 5.1
-========
+#OUTPUT
 9.0
-<<<<<<<<
+#END
 ```

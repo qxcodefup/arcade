@@ -16,32 +16,32 @@ Depois, some os números que são divisíveis por 2 e divisíveis por 3 que est�
 
 ### Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 1
 20
-========
+#OUTPUT
 36
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 1
 10
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 10
 1
-========
+#OUTPUT
 invalido
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 6
 6
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 ```

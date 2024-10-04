@@ -18,18 +18,18 @@ Os soldados formaram uma fila no quartel. Essa fila está representada por um ve
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
 0 0 1
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 7
 1 0 0 0 1 0 1
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 ```

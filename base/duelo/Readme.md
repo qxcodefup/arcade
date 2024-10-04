@@ -1,13 +1,6 @@
 # L1 - @duelo
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/duelo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup duelo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/duelo/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -28,40 +21,40 @@ A função duelo recebe como entrada dois dicionários, onde cada um deles repre
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 100  
 20  
 100  
 1
-========
+#OUTPUT
 Personagem 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 20
 100
 1
-========
+#OUTPUT
 Personagem 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 20
 1000
 10
-========
+#OUTPUT
 Personagem 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 100
 1000
 10
-========
+#OUTPUT
 Empate
-<<<<<<<<
+#END
 ```

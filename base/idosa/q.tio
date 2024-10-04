@@ -1,47 +1,47 @@
->>>>>>>> 01
+#INPUT 01
 2
 ana 80 f
 joao 43 m
-========
+#OUTPUT
 ana
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 2
 jose 80 m
 joao 43 m
-========
+#OUTPUT
 nao tem mulher
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 3
 joao 43 m
 ana 80 f
 melissa 34 f
-========
+#OUTPUT
 ana
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 3
 joao 88 m
 ana 80 f
 melissa 84 f
-========
+#OUTPUT
 melissa
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 3
 joao 88 m
 ferrim 80 m
 melios 84 m
-========
+#OUTPUT
 nao tem mulher
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 7
 maria 11 f
 joao 43 m
@@ -50,11 +50,11 @@ meire 71 f
 sergio 14 m
 strange 81 m
 mogli 45 m
-========
+#OUTPUT
 meire
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 6
 maria 11 f
 joao 43 m
@@ -62,22 +62,22 @@ francisco 12 m
 meire 71 f
 strange 81 m
 sergio 101 m
-========
+#OUTPUT
 meire
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 5
 maria 99 f
 strange 81 m
 joao 43 m
 meire 71 f
 sergio 14 m
-========
+#OUTPUT
 maria
-<<<<<<<<
+#END
 
->>>>>>>> 09
+#INPUT 09
 7
 mario 80 m
 joao 43 m
@@ -86,6 +86,6 @@ meire 73 f
 sergio 72 f
 strange 81 m
 mogli 45 m
-========
+#OUTPUT
 meire
-<<<<<<<<
+#END

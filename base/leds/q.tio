@@ -1,39 +1,39 @@
->>>>>>>>
+#INPUT
 3
 1
 2
 3
-========
+#OUTPUT
 2 leds
 5 leds
 5 leds
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 11
 22
 33
-========
+#OUTPUT
 4 leds
 10 leds
 10 leds
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 115380
 2819311
 23456
-========
+#OUTPUT
 27 leds
 29 leds
 25 leds
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 1234567890
-========
+#OUTPUT
 49 leds
-<<<<<<<<
+#END

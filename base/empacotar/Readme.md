@@ -1,13 +1,6 @@
 # L1 - @empacotar
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/empacotar/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup empacotar`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/empacotar/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -21,18 +14,18 @@ Crie um programa que leia do usuário dois números inteiros e calcule o valor d
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5  
 2
-========
+#OUTPUT
 7 3 2.5 10
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5  
 5
-========
+#OUTPUT
 10 0 1.0 25
-<<<<<<<<
+#END
 ```

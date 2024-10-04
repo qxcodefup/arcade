@@ -1,12 +1,5 @@
 # L3 - @pedra na lua
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/pedra/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup pedra`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pedra/cover.jpg)
 
 ## Motivação
@@ -34,41 +27,41 @@ Vários competidores disputaram uma competição interessante.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 2
 8 11
 10 15
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 9 12
 11 13
 10 11
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 12 15
 16 14
 10 9
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 12 15
 20 23
 10 9
 35 35
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 
 ```

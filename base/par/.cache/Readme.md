@@ -1,12 +1,5 @@
 # L0 - @par ou impar
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/par/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup par`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![Imagem eh Positivo](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/par/cover.jpg)
 
 ## Ação
@@ -25,45 +18,45 @@ Implemente um programa que recebe um número inteiro e diga se ele é par ou imp
 ## Exemplos
 
 ```txt
->>>>>>>> 0
+#INPUT 0
 3
-========
+#OUTPUT
 IMPAR
-<<<<<<<<
+#END
 
->>>>>>>> 1
+#INPUT 1
 12
-========
+#OUTPUT
 PAR
-<<<<<<<<
+#END
 
->>>>>>>> 2
+#INPUT 2
 33
-========
+#OUTPUT
 IMPAR
-<<<<<<<<
+#END
 
->>>>>>>> 3
+#INPUT 3
 0
-========
+#OUTPUT
 PAR
-<<<<<<<<
+#END
 
->>>>>>>> 4
+#INPUT 4
 7
-========
+#OUTPUT
 IMPAR
-<<<<<<<<
+#END
 
->>>>>>>> 5
+#INPUT 5
 20
-========
+#OUTPUT
 PAR
-<<<<<<<<
+#END
 
->>>>>>>> 6
+#INPUT 6
 15
-========
+#OUTPUT
 IMPAR
-<<<<<<<<
+#END
 ```

@@ -1,35 +1,35 @@
->>>>>>>>
+#INPUT
 100  
 20  
 100  
 1
-========
+#OUTPUT
 Personagem 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 20
 100
 1
-========
+#OUTPUT
 Personagem 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 20
 1000
 10
-========
+#OUTPUT
 Personagem 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 100
 1000
 10
-========
+#OUTPUT
 Empate
-<<<<<<<<
+#END

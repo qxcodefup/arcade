@@ -1,55 +1,65 @@
-# L0 - @tres - soma de inteiros
+# L0 - Soma de @tres inteiros
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/tres/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup tres`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+[Ação](#ação) | [Shell](#shell) | [Dicas](#dicas)
+-- | -- | --
 
----
+![Imagem meteriologica](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/tres/cover.jpg)
 
-![Imagem Soma Simples](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/tres/cover.jpg)
+### Ação
 
-## Ação
-
-Escreva um programa que recebe três números inteiros e retorna a soma.
+Você deve escrever um programa que recebe três números inteiros e retorna a soma desses três números.
 
 ### Entrada
 
-- Três inteiros, um por linha.
-
+- A entrada consiste de três linhas. Cada linha contém um número inteiro, representando os valores a serem somados.
 ### Saída
 
-- Soma dos três inteiros
+- A saída deve conter um único valor: a soma dos três números inteiros, seguido por uma quebra de linha.
 
-### Observação
 
-- Pule uma linha com `'\n'` depois de mostrar a soma.
-- Exemplo: std::cout << soma << '\n';
-
-## Exemplos
+### Shell
 
 ```
->>>>>>>>
+#INPUT
 2
 3
 4
-========
+#OUTPUT
 9
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 12
 17
 24
-========
+#OUTPUT
 53
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 -10
 -4
 23
-========
+#OUTPUT
 9
-<<<<<<<<
+#END
+```
+
+### Dicas
+
+- C - Quebre uma linha usando `\n`:
+``` c
+int main() {
+    printf("%d\n", soma);
+}
+```
+
+- Python - Não há necessidade de quebrar a linha manualmente, pois ela é quebrada automaticamente:
+``` python
+print(soma)
+```
+
+- TypeScript - Não há necessidade de quebrar a linha manualmente, pois ela é quebrada automaticamente:
+``` ts
+console.log(soma); || write();
 ```

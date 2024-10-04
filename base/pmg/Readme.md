@@ -1,13 +1,6 @@
 # L2 - Soldados @pmg
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/pmg/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup pmg`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pmg/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -43,38 +36,38 @@ double media(int vet[], int qtd){
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 1.30
-========
+#OUTPUT
 1.30
 M
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 1.70 1.60
-========
+#OUTPUT
 1.65
 G P
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 1.70 1.60 1.8
-========
+#OUTPUT
 1.70
 M P G
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 1.00 1.70 1.60 1.80
-========
+#OUTPUT
 1.53
 P G G G
-<<<<<<<<
+#END
 ```
 
 ## Dicas

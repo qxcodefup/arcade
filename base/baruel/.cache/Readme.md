@@ -1,12 +1,5 @@
 # L3 - @baruel - figurinhas repetidas
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/baruel/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup baruel`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ## Motivação
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/baruel/cover.jpg)
@@ -32,40 +25,40 @@ Baruel Ruel tem muitas figurinhas do álbum de futebol. Ele estava indo para uma
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
 8
 1 1 1 1 2 2 3 5
-========
+#OUTPUT
 1 1 1 2
 4
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 4
 1 1 2 2
-========
+#OUTPUT
 1 2
 N
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 2
 4 5
-========
+#OUTPUT
 N
 1 2 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 5
 1 1 2 3 3
-========
+#OUTPUT
 1 3
 4 5
-<<<<<<<<
+#END
 ```

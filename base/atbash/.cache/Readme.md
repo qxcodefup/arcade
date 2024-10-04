@@ -1,12 +1,5 @@
 # L3 - Valdiskley e @atbash
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/atbash/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup atbash`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/atbash/cover.jpg)
 
 ## Motivação
@@ -39,20 +32,20 @@ Observe que em word1 podem aparecer pontuação, numeros, etc. Se word1 = "123!\
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 Opa amigo xarles 2o
 a
 x
-========
+#OUTPUT
 Opx xmigo axrles 2o
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 minha chinela
 abcdefghijlm
 nopqrtuvwxyz
-========
+#OUTPUT
 zwavn pvwaryn
-<<<<<<<<
+#END
 ```

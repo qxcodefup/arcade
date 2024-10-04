@@ -25,23 +25,23 @@ Leia um Inteiro e represente-o com sua forma fatorada.
 ## Exemplos
 
 ```txt
->>>>>>>>
+#INPUT
 8
-========
+#OUTPUT
 2 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 9
-========
+#OUTPUT
 3 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
-========
+#OUTPUT
 2 1
 5 1
-<<<<<<<<
+#END
 
 ```

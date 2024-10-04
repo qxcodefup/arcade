@@ -1,39 +1,39 @@
->>>>>>>>
+#INPUT
 batata? sim! frita!!
 abac
 +
-========
+#OUTPUT
 bbtctb? skm! grktb!!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 quando vi voce eu buguei
 princesa
 +
-========
+#OUTPUT
 fliafs ni kfkr gy tuvlmv
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a data ua bbfrua
 ab
 -
-========
+#OUTPUT
 a casa ta aberta
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 o bobe!
 ab
 +
-========
+#OUTPUT
 o coce!
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 o coce!
 ab
 -
-========
+#OUTPUT
 o bobe!
-<<<<<<<<
+#END

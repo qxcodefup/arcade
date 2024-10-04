@@ -1,12 +1,5 @@
 # L4 - Maior @palindromo
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/palindromo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup palindromo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/palindromo/cover.jpg)
 
 ## Motivação
@@ -35,43 +28,43 @@ Os M maiores palíndromos formados pelo produto de dois números cuja quantidade
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 2 3
-========
+#OUTPUT
 9009
 8448
 8118
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2 5
-========
+#OUTPUT
 9009
 8448
 8118
 8008
 7227
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 5
-========
+#OUTPUT
 906609
 888888
 886688
 861168
 855558
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4 5
-========
+#OUTPUT
 99000099
 98344389
 98100189
 97200279
 96300369
-<<<<<<<<
+#END
 
 ```

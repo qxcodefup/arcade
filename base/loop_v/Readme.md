@@ -14,23 +14,23 @@ Leia dois números inteiros A e B, na mesma linha, e faça um loop `incremental`
 ```txt
 
 
->>>>>>>>
+#INPUT
 0 10
-========
+#OUTPUT
 [ 1 3 5 7 9 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5 10
-========
+#OUTPUT
 [ 5 7 9 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 -5 10
-========
+#OUTPUT
 [ -5 -3 -1 1 3 5 7 9 ]
-<<<<<<<<
+#END
 
 
 

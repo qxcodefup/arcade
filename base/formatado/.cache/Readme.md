@@ -1,12 +1,5 @@
 # L2 - imprimir vetor @formatado
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/formatado/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup formatado`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/formatado/cover.jpg)
 
 Faça uma função `print_vet` que recebe um vetor e imprime formatado.
@@ -19,44 +12,44 @@ Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 
 ## Testes
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 0
-========
+#OUTPUT
 []
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 3 10 16 11
-========
+#OUTPUT
 [10, 16, 11]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 3 10 16 11
 1 88
 4 34 12 32 100
-========
+#OUTPUT
 [10, 16, 11]
 [88]
 [34, 12, 32, 100]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 3 10 16 11
 1 88
 4 34 12 32 100
 0
-========
+#OUTPUT
 [10, 16, 11]
 [88]
 [34, 12, 32, 100]
 []
-<<<<<<<<
+#END
 
 ```
 

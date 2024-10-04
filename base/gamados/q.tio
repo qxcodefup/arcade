@@ -1,41 +1,41 @@
->>>>>>>>
+#INPUT
 a amora azul
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 o rato roeu a roupa
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a b c d e f
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a b c d a f
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 ab a ba
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 a amiga da minha vizinha zooume
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 arrocha arregao
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END

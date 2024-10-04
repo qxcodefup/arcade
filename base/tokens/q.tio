@@ -1,24 +1,24 @@
->>>>>>>>
+#INPUT
 mamae me ama#15#1.76;
-========
+#OUTPUT
 mamae me ama
 15
 1.76
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 aa 4#1 -f; -2.0;
-========
+#OUTPUT
 aa 4
 1 -f
  -2.0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 coca zero;1.75#8;U;
-========
+#OUTPUT
 coca zero
 1.75
 8
 U
-<<<<<<<<
+#END

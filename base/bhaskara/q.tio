@@ -1,58 +1,58 @@
->>>>>>>> duas raízes
+#INPUT duas raízes
 5.4
 25.0
 -12.0
-========
+#OUTPUT
 0.44
 -5.07
-<<<<<<<<
+#END
 
->>>>>>>> duas raízes
+#INPUT duas raízes
 3.0
 -7.0
 4.0
-========
+#OUTPUT
 1.33
 1.00
-<<<<<<<<
+#END
 
->>>>>>>> uma raiz
+#INPUT uma raiz
 9.0
 -12.0
 4.0
-========
+#OUTPUT
 0.67
-<<<<<<<<
+#END
 
->>>>>>>> sem raízes
+#INPUT sem raízes
 5.0
 3.0
 5.0
-========
+#OUTPUT
 nao ha raiz real
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 1.0
 -1.0
 -20.0
-========
+#OUTPUT
 5.00
 -4.00
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 2.00
 0.00
 0.00
-========
+#OUTPUT
 0.00
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 5.3
 3.4
 19.2
-========
+#OUTPUT
 nao ha raiz real
-<<<<<<<<
+#END

@@ -1,23 +1,23 @@
->>>>>>>>
+#INPUT
 extraordinario
 aeioubcdfgh
 *
-========
+#OUTPUT
 e***ao*di*a*io
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Teco-Teco!
 tbxyan
 _
-========
+#OUTPUT
 T___-T___!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Seu Pilantra!
 yzxa
 *
-========
+#OUTPUT
 *** ***a***a!
-<<<<<<<<
+#END

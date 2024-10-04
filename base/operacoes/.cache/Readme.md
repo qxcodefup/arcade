@@ -1,12 +1,5 @@
 # L1 - @operacoes básicas
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/operacoes/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup operacoes`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/operacoes/cover.jpg)
 
 ## Ação
@@ -26,28 +19,28 @@ Leia dois números e imprima a soma, a subtração, a multiplicação, a divisã
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 4
-========
+#OUTPUT
 5
 -3
 4
 0.25
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 3
-========
+#OUTPUT
 6
 0
 9
 1.00
 0
-<<<<<<<<
+#END
 ```
 
 ## Resolução

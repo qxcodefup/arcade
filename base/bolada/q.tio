@@ -1,69 +1,69 @@
->>>>>>>>
+#INPUT
 c
 100
-========
+#OUTPUT
 Perfeito
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 b
 68
-========
+#OUTPUT
 Fraco, nem passou
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 c
 160
-========
+#OUTPUT
 Muito forte, bola fora
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 b
 99
-========
+#OUTPUT
 Satisfeito
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 c
 90
-========
+#OUTPUT
 Perfeito
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 c
 87
-========
+#OUTPUT
 Fraco, nem passou
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 b
 120
-========
+#OUTPUT
 Muito forte, bola fora
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 c
 127
-========
+#OUTPUT
 Muito forte, bola fora
-<<<<<<<<
+#END
 
->>>>>>>> 09
+#INPUT 09
 c
 115
-========
+#OUTPUT
 Satisfeito
-<<<<<<<<
+#END
 
->>>>>>>> 10
+#INPUT 10
 c
 50
-========
+#OUTPUT
 Fraco, nem passou
-<<<<<<<<
+#END

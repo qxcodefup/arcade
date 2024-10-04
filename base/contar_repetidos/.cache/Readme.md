@@ -1,12 +1,5 @@
 # L1 - @contar_repetidos
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/contar_repetidos/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup contar_repetidos`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/contar_repetidos/cover.jpg)
 
 ## Ação
@@ -25,27 +18,27 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 
 ### Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5 3
 2
 3
 6
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 0 4
 0
 0
 1
 0
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2 8
 2
 4
@@ -55,7 +48,7 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 0
 2
 2
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
 ```

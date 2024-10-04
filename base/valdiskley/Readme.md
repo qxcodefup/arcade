@@ -1,13 +1,6 @@
 # L1 - @valdiskley e a cifra V1
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/valdiskley/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup valdiskley`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/valdiskley/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -38,39 +31,39 @@ Dado uma letra e um valor de rotação retorne a letra resultante.
 
 ### Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 a
 0
-========
+#OUTPUT
 a
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 b
 3
-========
+#OUTPUT
 e
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 z
 2
-========
+#OUTPUT
 b
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 f
 -3
-========
+#OUTPUT
 c
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 b
 -2
-========
+#OUTPUT
 z
-<<<<<<<<
+#END
 ```

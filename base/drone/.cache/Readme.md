@@ -1,12 +1,5 @@
 # L2 - @drone de Entrega - OBI 2017 - Fase 1
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/drone/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup drone`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/drone/cover.jpg)
 
 ## Motivação
@@ -32,36 +25,36 @@ O aplicativo de controle do drone está quase pronto, mas falta um pequeno detal
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 30
 50
 80
 80
 60
-========
+#OUTPUT
 S
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 75
 100
 50
 100
 30
-========
+#OUTPUT
 N
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 20
 22
 5
 20
 10
-========
+#OUTPUT
 S
-<<<<<<<<
+#END
 
 ```
 

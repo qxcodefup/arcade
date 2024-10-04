@@ -1,23 +1,23 @@
->>>>>>>>
+#INPUT
 ola planeta terra
-========
+#OUTPUT
 ola ola planeta planeta terra terra
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 gosto de tomate
-========
+#OUTPUT
 gosto gosto de de tomate tomate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 minha ufc
-========
+#OUTPUT
 minha minha ufc ufc
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 sim eu vou
-========
+#OUTPUT
 sim sim eu eu vou vou
-<<<<<<<<
+#END

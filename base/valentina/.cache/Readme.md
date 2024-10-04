@@ -1,12 +1,5 @@
 # L2 - Valdiskley casando com @valentina
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/valentina/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup valentina`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/valentina/cover.jpg)
 
 ## Motivação
@@ -26,7 +19,7 @@ No capítulo 3 você vai usar um algoritmo de força bruta para "quebrar" a crip
 
 Na operação entre dois caracteres podemos imaginar uma lista circular onde o 'a' reinicia depois do 'z'. Você pode pensar que 'a' vale 0, 'b' vale 1 e assim por diante.
 
-``` txt
+``` py
 a + a = a 
 a + b = b   
 b + a = b 
@@ -42,7 +35,7 @@ z + b = a
 
 Na descriptografia utilizamos a operação inversa.
 
-``` txt
+``` py
 c - a = c
 c - b = b
 c - c = a
@@ -62,52 +55,52 @@ c - e = y
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 a
 +
 a
-========
+#OUTPUT
 a
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 b
 +
 d
-========
+#OUTPUT
 e
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 z
 +
 c
-========
+#OUTPUT
 b
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 f
 -
 d
-========
+#OUTPUT
 c
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 b
 -
 c
-========
+#OUTPUT
 z
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 b
 +
 b
-========
+#OUTPUT
 c
-<<<<<<<<
+#END
 ```

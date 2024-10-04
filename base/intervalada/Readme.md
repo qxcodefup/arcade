@@ -25,35 +25,35 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 
 ### Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 4 1 3
 1
 5
 3
 7
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5 3 5
 1
 2
 4
 6
 8
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4 3 5
 1
 2
 7
 8
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 ```

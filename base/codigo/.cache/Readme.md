@@ -1,12 +1,5 @@
 # L3 - @codigo - OBI 2015 - Fase 2 - Nível Júnior
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/codigo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup codigo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/codigo/cover.jpg)
 
 ## Motivação
@@ -27,32 +20,32 @@ Gabriel inventou um código para representar números naturais, usando uma sequ�
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 17
 1 1 1 0 1 0 0 1 0 1 0 0 1 1 1 1 0
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 8
 1 1 1 1 0 1 1 1
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 1 0 0
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 0 1 0
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 ```

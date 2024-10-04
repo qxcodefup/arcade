@@ -1,33 +1,33 @@
->>>>>>>>
+#INPUT
 1
 aeb
-========
+#OUTPUT
 ae
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 aebeiocdu
-========
+#OUTPUT
 eio
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 abdeiuofaoi
 xaeioux
-========
+#OUTPUT
 eiuo
 aeiou
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 aebaibaobaub
 baeoxuoiazzz
 oxau
-========
+#OUTPUT
 ae
 uoia
 au
-<<<<<<<<
+#END

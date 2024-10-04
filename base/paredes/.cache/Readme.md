@@ -1,12 +1,5 @@
 # L1 - @paredes
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/paredes/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup paredes`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/paredes/cover.jpg)
 
 by @wladmir
@@ -27,26 +20,26 @@ Imprima um único inteiro denotando o número total de paredes contadas por Bob
 
 ## Exemplo de Entrada
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
 1 3 3 5 4
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 1 2 3 5 
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 5 5 2 1
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
 ```

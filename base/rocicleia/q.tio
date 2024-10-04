@@ -1,41 +1,41 @@
->>>>>>>>
+#INPUT
 paralelepipedo
 pepidoelelapar
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 rocicleia
 licioreca
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 batata
 tabata
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 borboleta
 brobuleta
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 amor
 roam
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 pegasus
 susgae
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END

@@ -1,12 +1,5 @@
 # L2 - @jokenpo das tartarugas
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/jokenpo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup jokenpo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/jokenpo/cover.jpg)
 
 ## Motivação
@@ -31,25 +24,25 @@ Os jogadores podem escolher entre R(rock), P(paper) e S(scissor), que correspond
 
 ### Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 R
 P
-========
+#OUTPUT
 jog2
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 P
 P
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 S
 P
-========
+#OUTPUT
 jog1
-<<<<<<<<
+#END
 ```

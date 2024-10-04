@@ -1,12 +1,5 @@
 # L3 - @tetris (Fazendo a peça cair)
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/tetris/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup tetris`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/tetris/cover.jpg)
 
 ## Motivação
@@ -32,30 +25,30 @@ o display sem alteração.
 
 ## Exemplos
 
-``` txt
->>>>>>>> bastao parado
+``` py
+#INPUT bastao parado
 4 4
 .#.#
 .#o#
 ##o#
 ##o#
-========
+#OUTPUT
 .#.#
 .#o#
 ##o#
 ##o#
-<<<<<<<<
+#END
 
->>>>>>>> u movel
+#INPUT u movel
 4 4
 ooo#
 o.o#
 o#o#
 .#.#
-========
+#OUTPUT
 ...#
 ooo#
 o#o#
 o#o#
-<<<<<<<<
+#END
 ```

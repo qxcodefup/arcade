@@ -1,13 +1,6 @@
 # L3 - @mercantil V3 - Muitas rodadas
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/mercantil/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup mercantil`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/mercantil/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -35,58 +28,58 @@
 
 ## Exemplos  
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1  
 1.0  
 1.0  
 M  
-========
+#OUTPUT
 primeiro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2  
 1.0 2.0  
 1.0 2.1  
 m m  
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>>  
+#INPUT  
 2
 1.0 2.0
 1.0 2.1
 m M
-========
+#OUTPUT
 primeiro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 1.0 2.0
 1.1 2.1
 m M
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 1.0 2.0 4.0
 1.1 2.1 4.0
 m M m
-========
+#OUTPUT
 primeiro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 1.0 2.0 4.02
 1.1 2.1 4.1
 M m m
-========
+#OUTPUT
 segundo
-<<<<<<<<
+#END
 ```

@@ -41,7 +41,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 
 ### Base - Operações<!-- @main_op +basic:10 -->
 
-- [ ] [L0 - @tres - soma de inteiros](base/tres/Readme.md)
+- [ ] [L0 - Soma de @tres inteiros](base/tres/Readme.md)
 - [ ] [L0 - @resto - resultado e resto na divisão](base/resto/Readme.md)
 - [ ] [L0 - @media de dois inteiros](base/media/Readme.md)
 - [ ] [L0 - @sobrou - calculando quanto sobrou](base/sobrou/Readme.md)

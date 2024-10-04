@@ -1,13 +1,6 @@
 # L2 - @fatores de um número
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fatores/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup fatores`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fatores/cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
@@ -15,42 +8,42 @@ Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na
 
 ## Testes
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 8
-========
+#OUTPUT
 2 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 40
-========
+#OUTPUT
 2 3
 5 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 55
-========
+#OUTPUT
 5 1
 11 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 552
-========
+#OUTPUT
 2 3
 3 1
 23 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 169400
-========
+#OUTPUT
 2 3
 5 2
 7 1
 11 2
-<<<<<<<<
+#END
 
 ```

@@ -1,12 +1,5 @@
 # L1 - Ambos @divisiveis
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/divisiveis/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup divisiveis`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/divisiveis/cover.jpg)
 
 ## Motivação
@@ -28,27 +21,27 @@ Leia dois inteiros e diga se ambos são divisíveis por 3 ou se ambos são divis
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
 10
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 10
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 9
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
 ```
 

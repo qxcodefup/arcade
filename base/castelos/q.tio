@@ -1,59 +1,59 @@
->>>>>>>>
+#INPUT
 16
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 18
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 81
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 0
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 5
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 1
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 4
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 35
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>> 09
+#INPUT 09
 140
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>> 10
+#INPUT 10
 6084
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END

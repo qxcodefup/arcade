@@ -1,12 +1,5 @@
 # L2 - Removendo @loops no ângulo Cartesiano
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/loops/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup loops`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/loops/cover.jpg)
 
 ## Motivação
@@ -31,40 +24,40 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 0
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 360
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 361
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 722
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 -2
-========
+#OUTPUT
 358
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 -350
-========
+#OUTPUT
 10
-<<<<<<<<
+#END
 ```

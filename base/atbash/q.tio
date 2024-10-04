@@ -1,31 +1,31 @@
->>>>>>>>
+#INPUT
 Opa amigo xarles 2o
 a
 x
-========
+#OUTPUT
 Opx xmigo axrles 2o
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 minha chinela
 abcdefghijlm
 nopqrtuvwxyz
-========
+#OUTPUT
 zwavn pvwaryn
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 aquoso estrela
 aeios
 43102
-========
+#OUTPUT
 4qu020 32tr3l4
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 eu desejo eu quero eu vou
 eo
 ta
-========
+#OUTPUT
 tu dtstja tu qutra tu vau
-<<<<<<<<
+#END

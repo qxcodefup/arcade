@@ -1,47 +1,47 @@
->>>>>>>> Teste 0
+#INPUT Teste 0
 50
-========
+#OUTPUT
 44
-<<<<<<<<
+#END
 
->>>>>>>> Teste 1
+#INPUT Teste 1
 100
-========
+#OUTPUT
 44
-<<<<<<<<
+#END
 
->>>>>>>> Teste 2
+#INPUT Teste 2
 1000000
-========
+#OUTPUT
 1089154
-<<<<<<<<
+#END
 
->>>>>>>> Teste 3
+#INPUT Teste 3
 500000
-========
+#OUTPUT
 257114
-<<<<<<<<
+#END
 
->>>>>>>> Teste 4
+#INPUT Teste 4
 30000
-========
+#OUTPUT
 14328
-<<<<<<<<
+#END
 
->>>>>>>> Teste 5
+#INPUT Teste 5
 500
-========
+#OUTPUT
 188
-<<<<<<<<
+#END
 
->>>>>>>> Teste 6
+#INPUT Teste 6
 3000000
-========
+#OUTPUT
 1089154
-<<<<<<<<
+#END
 
->>>>>>>> Teste 7
+#INPUT Teste 7
 4000000
-========
+#OUTPUT
 4613732
-<<<<<<<<
+#END

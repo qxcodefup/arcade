@@ -1,12 +1,5 @@
 # L1 - @casamento
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/casamento/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup casamento`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/casamento/cover.jpg)
 
 ## Motivação
@@ -29,36 +22,36 @@ Escreva um programa onde receba um vetor de tamanho 5 e que dê como saída a so
 
 ## Exemplo
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1 2 3 4 5
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 3 1 4 6
-========
+#OUTPUT
 7
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 2 1 4 4
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 -3 -2 -1 -4 -4
-========
+#OUTPUT
 -5
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 -10000 -2 -1 -4 +10000
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 ```
 
 ## Resolução

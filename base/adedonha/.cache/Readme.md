@@ -1,12 +1,5 @@
 # L2 - @adedonha
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/adedonha/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup adedonha`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/adedonha/cover.jpg)
 
 ## Motivação
@@ -67,36 +60,36 @@ Leia a soma dos dedos dos três irmãos e diga qual a letra L que será utilizad
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+```py
+#INPUT
 0 
-========
+#OUTPUT
 joguem de novo
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
-========
+#OUTPUT
 a
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
-========
+#OUTPUT
 b
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 26
-========
+#OUTPUT
 z
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 27
-========
+#OUTPUT
 a
-<<<<<<<<
+#END
 ```
 
 [Explicação](https://youtu.be/qKkmrLZfYcA)

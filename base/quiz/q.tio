@@ -1,53 +1,53 @@
->>>>>>>>
+#INPUT
 a
 c
 d
 d
-========
+#OUTPUT
 Ja ouviu falar
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 d
 a
 c
 d
-========
+#OUTPUT
 Super Fa
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 b
 b
 b
 b
-========
+#OUTPUT
 Nunca assistiu
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 d
 b
 b
 b
-========
+#OUTPUT
 Ja ouviu falar
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 d
 b
 b
 d
-========
+#OUTPUT
 Interessado no assunto
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 d
 b
 c
 d
-========
+#OUTPUT
 Fa
-<<<<<<<<
+#END

@@ -1,19 +1,12 @@
 # L3 - @trilhas - OBI 2005
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/trilhas/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup trilhas`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ## Motivação
 
 Nos finais de semana Paulo faz longas caminhadas pelas bonitas trilhas que atravessam as matas vizinhas à sua cidade. Recentemente Paulo adquiriu um aparelho de GPS (siglas do inglês Sistema de Posicionamento Global) e com ele mapeou as mais belas trilhas da região. Paulo programou o GPS para armazenar, a intervalos regulares, a altitude do ponto corrente durante o trajeto. Assim, após percorrer as trilhas com o seu GPS, Paulo tem informações que permitem por exemplo produzir gráficos como os abaixo:  
   
 Paulo tem uma nova namorada, e quer convencê-la a passear junto com ele pelas trilhas. Para o primeiro passeio juntos, Paulo quer escolher uma trilha "fácil”. Segundo o seu critério, a trilha mais fácil é a que, em um dos sentidos do percurso, exige o menor esforço de subida. O esforço exigido em um trecho de subida é proporcional ao desnı́vel do trecho.
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/trilhas/figura.jpg)
+![_](figura.jpg)
 
 ## Ação
 
@@ -50,24 +43,24 @@ Dadas as informações colhidas por Paulo sobre distâncias e altitudes de um
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 5
 4 498 500 498 498
 10 60 60 70 70 70 70 80 90 90 100
 5 200 190 180 170 160
 2 1000 900
 4 20 20 20 20
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 5 600 601 600 601 600
 4 500 499 500 499
 4 300 300 302 300
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 ```

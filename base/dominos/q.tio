@@ -1,55 +1,55 @@
->>>>>>>>
+#INPUT
 5
 1 2 3 4 4
-========
+#OUTPUT
 ok
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 2 4 2 6 8 10
-========
+#OUTPUT
 precisa de ajuste
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 2
-========
+#OUTPUT
 ok
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 4
 1 1 2 3
-========
+#OUTPUT
 ok
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 5
 1 2 6 8 3
-========
+#OUTPUT
 precisa de ajuste
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 1
 500
-========
+#OUTPUT
 ok
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 8
 1 2 6 12 45 54 99 100
-========
+#OUTPUT
 ok
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 4
 2 3 4 1
-========
+#OUTPUT
 precisa de ajuste
-<<<<<<<<
+#END

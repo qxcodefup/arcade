@@ -1,63 +1,63 @@
->>>>>>>>
+#INPUT
 1
 1
 1
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 0
 0
 1
-========
+#OUTPUT
 jog3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 0
 0
-========
+#OUTPUT
 jog1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 0
 1
-========
+#OUTPUT
 jog2
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 1
 1
 0
-========
+#OUTPUT
 jog3
-<<<<<<<<
+#END
 
->>>>>>>> 09
+#INPUT 09
 0
 1
 0
-========
+#OUTPUT
 jog2
-<<<<<<<<
+#END
 
->>>>>>>> 10
+#INPUT 10
 0
 1
 1
-========
+#OUTPUT
 jog1
-<<<<<<<<
+#END
 
->>>>>>>> 12
+#INPUT 12
 0
 0
 0
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END

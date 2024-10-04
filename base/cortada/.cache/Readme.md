@@ -1,12 +1,5 @@
 # L2 - @cortada - essa nota presta? - OBI 2019 F1P1
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/cortada/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup cortada`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 [](solver.cpp)
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cortada/cover.jpg)
@@ -34,26 +27,26 @@ O corte reto vai começar na base a uma distância de B centímetros a partir do
 
 ## Testes
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 50
 86
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 70
 90
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 130
 138
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
 ```

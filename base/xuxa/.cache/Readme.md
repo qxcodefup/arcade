@@ -1,12 +1,5 @@
 # L1 - LP da @xuxa - Inverter String
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/xuxa/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup xuxa`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/xuxa/cover.jpg)
 
 ## Motivação
@@ -33,22 +26,22 @@ Dado uma string, imprima a mesma string ao contrário.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 ra on odnalor at acopip ed oriehc o
-========
+#OUTPUT
 o cheiro de pipoca ta rolando no ar
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 rahnos zaf em euq latsirc ed aul
-========
+#OUTPUT
 lua de cristal que me faz sonhar
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 oacaroc ues on x mu ieuqram
-========
+#OUTPUT
 marquei um x no seu coracao
-<<<<<<<<
+#END
 ```

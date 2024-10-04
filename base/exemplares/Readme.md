@@ -26,25 +26,25 @@ Não use uma função de ordenar pronta.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
 1 1 2
-========
+#OUTPUT
 1 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 1 3 2 2 3
-========
+#OUTPUT
 1 2 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 8
 1 9 3 3 3 2 1 4
-========
+#OUTPUT
 1 2 3 4 9
-<<<<<<<<
+#END
 ```

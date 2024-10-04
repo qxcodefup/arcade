@@ -1,70 +1,70 @@
->>>>>>>> bastao parado
+#INPUT bastao parado
 4 4
 .#.#
 .#o#
 ##o#
 ##o#
-========
+#OUTPUT
 .#.#
 .#o#
 ##o#
 ##o#
-<<<<<<<<
+#END
 
->>>>>>>> u movel
+#INPUT u movel
 4 4
 ooo#
 o.o#
 o#o#
 .#.#
-========
+#OUTPUT
 ...#
 ooo#
 o#o#
 o#o#
-<<<<<<<<
+#END
 
->>>>>>>> 03 L descendo
+#INPUT 03 L descendo
 5 5
 .....
 ..ooo
 .#..o
 ###..
 ##.##
-========
+#OUTPUT
 .....
 .....
 .#ooo
 ###.o
 ##.##
-<<<<<<<<
+#END
 
->>>>>>>> 04 barra parada
+#INPUT 04 barra parada
 5 6
 ......
 .ooooo
 .#....
 .##..#
 ##.##.
-========
+#OUTPUT
 ......
 .ooooo
 .#....
 .##..#
 ##.##.
-<<<<<<<<
+#END
 
->>>>>>>> 05 nave caindo
+#INPUT 05 nave caindo
 5 7
 .##o.o.
 .##ooo#
 .#..o.#
 .##..#.
 ##.##.#
-========
+#OUTPUT
 .##....
 .##o.o#
 .#.ooo#
 .##.o#.
 ##.##.#
-<<<<<<<<
+#END

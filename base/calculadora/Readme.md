@@ -1,74 +1,81 @@
 # L1 - @calculadora Numérica
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/calculadora/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup calculadora`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+<!-- toch -->
+[Shell](#shell)
+--
+<!-- toch -->
 
----
+![_](cover.jpg)
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/calculadora/cover.jpg)
+### Motivação
 
-## Motivação
+Quem nunca, durante uma prova de matemática ou física no ensino médio, escutou um coleguinha perguntar: "Professor, pode usar a calculadora?"? Essa atividade traz essa prática para o mundo da programação, onde você terá a chance de criar sua própria calculadora que realiza operações básicas entre dois números inteiros.
 
-Quem nunca numa prova de matemática ou física no ensino médio escutou um coleguinha dizer: "Professor, pode usar a calculadora?" que atire a primeira pedra.
 
-### Ação
+Leia dois números inteiros e um símbolo de operação, e imprima o resultado da operação correspondente.
 
-Leia dois números inteiros e um símbolo e imprima o resultado.
+### Entrada
 
-## Entrada
+A entrada consiste em três linhas:
 
-* Leia do usuário dois valores inteiros e um operador em caractere ('+', '-', '\*' ou '/')
+- O primeiro número inteiro.
+- O segundo número inteiro.
+- Um operador em caractere ('+', '-', '*' ou '/')
 
-## Saída
+### Saída
 
-* Imprima o resultado da operação em inteiro. Nunca haverá divisão por 0.
+* A saída deve conter um único valor: o resultado da operação entre os dois números inteiros, representado como um número inteiro.
 
-## Exemplos
+### Restrição
 
-``` txt
->>>>>>>>
+- Nunca haverá divisão por zero
+
+## Shell
+
+``` py
+#INPUT
 5
 2
 /
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 5
 +
-========
+#OUTPUT
 8
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 7
 9
 /
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 ```
 
-## Ajuda
+### Dicas
 
-Observação para quem está programando em **C** ou **C++**:
-
-* O `operador` deve ser recebido em uma variável do tipo `char`. Exemplo:
-  
+- **C** - O `operador` deve ser recebido em uma variável do tipo `char`:
 ```c
-    // código em c
+int main() {
     char operador = 0;
     scanf(" %c", &operador);
+}
 ```
 
-```cpp
-    // código em c++
-    char operador { };
-    cin >> operador;
+- **Python** - Não tem a necessidade de informar o tipo
+``` python
+operador = input()
+```
+
+- **TypeScript** - Não tem a necessidade de informar o tipo
+``` ts
+let operador = input();
 ```
 
 [Resolução](https://www.youtube.com/watch?v=W5JJ_NccMkM)

@@ -1,13 +1,6 @@
 # L3 - Campo @minado
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/minado/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup minado`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minado/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -26,9 +19,9 @@ O jogador deve usar essas informações para deduzir em que quadrados próximos 
 
 Dada uma matriz com a posição de cada mina, seu o programa deve preencher o resto do campo (matriz) com números ou com vazios, por exemplo:
 
-![1](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minado/q.jpg)
+![1](q.jpg)
 
-``` txt
+``` py
 *-*
 ---
 ---
@@ -36,9 +29,9 @@ Dada uma matriz com a posição de cada mina, seu o programa deve preencher o re
 
 Esse é um campo 3x3 que tem duas minas (simbolizadas por \*). Devemos preencher dessa forma:
 
-![todos](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minado/q2.png)  
+![todos](q2.png)  
 
-``` txt
+``` py
 *2*
 121
 ---
@@ -64,56 +57,56 @@ Considere ( 1 <=  **n, m**<= 50).
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3 3
 ***
 --*
 --*
-========
+#OUTPUT
 ***
 25*
 -2*
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 3
 ---
 -*-
 ---
-========
+#OUTPUT
 111
 1*1
 111
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 5
 *----
 ----*
 ---**
-========
+#OUTPUT
 *1-11
 1113*
 --1**
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1 1
 *
-========
+#OUTPUT
 *
-<<<<<<<<
+#END
 ```
 
 ## Mais exemplos
 
 O quadrado amarelo é quem é calculado no momento, e os vermelhos são as minas consideradas no cálculo.
 
-![ex1](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minado/q3.png)
+![ex1](q3.png)
 
-![ex2](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minado/q4.png)
+![ex2](q4.png)
 
-![ex3](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minado/q5.png)  
+![ex3](q5.png)  
 
 Se ainda tiver dúvidas de como funciona, tente jogar um pouco. [JOGO](https://minesweeper.online/pt/new-game)

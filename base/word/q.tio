@@ -1,27 +1,27 @@
->>>>>>>>
+#INPUT
 O Pato e o frango ja tao cozidos, comam!
 M
-========
+#OUTPUT
 O PATO E O FRANGO JA TAO COZIDOS, COMAM!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 O Pato e o frango ja tao cozidos, comam!
 m
-========
+#OUTPUT
 o pato e o frango ja tao cozidos, comam!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 O Pato e o frango ja tao cozidos, comam!
 p
-========
+#OUTPUT
 o Pato e o Frango Ja Tao Cozidos, Comam!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 O Pato e o frango ja tao cozidos, comam!
 i
-========
+#OUTPUT
 o pATO E O FRANGO JA TAO COZIDOS, COMAM!
-<<<<<<<<
+#END

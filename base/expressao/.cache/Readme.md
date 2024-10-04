@@ -1,12 +1,5 @@
 # L1 - @expressao
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/expressao/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup expressao`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/expressao/cover.jpg)
 
 ## Motivação
@@ -21,20 +14,20 @@ Crie um programa que leia do usuário dois números inteiros e um operador do ti
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
 5
 +
-========
+#OUTPUT
 10
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 5
 -
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 ```

@@ -39,34 +39,34 @@ Você pode assumir:
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
 0
 3
 2
 4
 1
-========
+#OUTPUT
 vazio
 ainda cabe
 lotado
 lotado
 hora de partir
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
 10
 -10
 30
-========
+#OUTPUT
 lotado
 vazio
 hora de partir
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 1
 1
@@ -74,12 +74,12 @@ hora de partir
 -3
 3
 3
-========
+#OUTPUT
 ainda cabe
 ainda cabe
 lotado
 vazio
 lotado
 hora de partir
-<<<<<<<<
+#END
 ```

@@ -1,13 +1,13 @@
->>>>>>>>
+#INPUT
 aeiou  
 arta euio auiaoauio riu pegasus
-========
+#OUTPUT
 pessoa chefe chefe ultron pessoa
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 aer
 arta euio auiaoauio riu pegasus rea
-========
+#OUTPUT
 ultron pessoa pessoa pessoa pessoa chefe
-<<<<<<<<
+#END

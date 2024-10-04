@@ -1,12 +1,5 @@
 # L3 - O segredo do @cofre - OBI 2017
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/cofre/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup cofre`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cofre/cover.jpg)
 
 ## Motivação
@@ -37,20 +30,20 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 14 5
 9 4 3 9 1 2 4 5 1 1 9 7 0 5
 1 9 4 11 13
-========
+#OUTPUT
 [ 1 6 3 1 4 3 0 1 0 4 ]
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 5 4
 5 8 0 5 1
 1 4 2 5
-========
+#OUTPUT
 [ 3 1 0 0 0 3 0 0 2 0 ]
-<<<<<<<<
+#END
 ```

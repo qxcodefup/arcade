@@ -1,13 +1,6 @@
 # L3 - @josephus  - Cabeças vão rolar
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/josephus/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup josephus`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/josephus/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -56,20 +49,20 @@ Sobra o cinco.
 
 ## Exemplos
 
-``` txt
+``` py
 
->>>>>>>>
+#INPUT
 5 
 3
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 6
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 
 ```

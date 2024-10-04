@@ -1,12 +1,5 @@
 # L3 - @sopa de coelho
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/sopa/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup sopa`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sopa/cover.jpg)
 
 ## Motivação
@@ -44,22 +37,22 @@ Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, 
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
-========
+#OUTPUT
 8
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 50
-========
+#OUTPUT
 12586269025
-<<<<<<<<
+#END
 ```

@@ -1,12 +1,5 @@
 # L2 - Formatando @data
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/data/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup data`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/data/cover.jpg)
 
 ## Motivação
@@ -23,46 +16,46 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 4
 12
 12
 3
 1988
-========
+#OUTPUT
 04:12 12/03/88
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 12
 30
 1
 3
 188
-========
+#OUTPUT
 12:30 01/03/88
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 14
 7
 7
 9
 2005
-========
+#OUTPUT
 14:07 07/09/05
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 23
 1
 1
 1
 2076
-========
+#OUTPUT
 23:01 01/01/76
-<<<<<<<<
+#END
 ```
 
 ## Ajuda

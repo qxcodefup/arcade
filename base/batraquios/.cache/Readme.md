@@ -1,12 +1,5 @@
 # L3 - @batraquios - está contido
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/batraquios/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup batraquios`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/batraquios/cover.jpg)
 
 ## Motivação
@@ -37,25 +30,25 @@ Dados dois vetores, verifique se o primeiro está contido no segundo.
   
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 2 1 3
 3 1 5 3
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2 1 3
 3 6 5 3
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 1 3 2
 6 1 5 3 6 8 2
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 ```

@@ -1,13 +1,6 @@
 # L2 - Contar @leds
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/leds/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup leds`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/leds/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -17,7 +10,7 @@ João quer montar um painel de leds contendo diversos números. Ele não possui 
 
 Considerando a configuração dos leds dos números abaixo, faça um algoritmo que ajude João a descobrir a quantidade de leds necessário para montar o valor.
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/leds/leds.png)
+![_](leds.png)
 
 ## Entrada
 
@@ -33,44 +26,44 @@ Agradecimentos a Cassio F.
   
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
 1
 2
 3
-========
+#OUTPUT
 2 leds
 5 leds
 5 leds
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 11
 22
 33
-========
+#OUTPUT
 4 leds
 10 leds
 10 leds
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 115380
 2819311
 23456
-========
+#OUTPUT
 27 leds
 29 leds
 25 leds
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 1234567890
-========
+#OUTPUT
 49 leds
-<<<<<<<<
+#END
 ```

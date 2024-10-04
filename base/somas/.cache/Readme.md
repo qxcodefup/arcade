@@ -1,12 +1,5 @@
 # L3 - @somas - Soma de vários números
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/somas/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup somas`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ## Ação
 
 Faça uma função que receba um vetor e retorne e mmc dos números.
@@ -21,22 +14,22 @@ Faça uma função que receba um vetor e retorne e mmc dos números.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 4 2 5 4 6
-========
+#OUTPUT
 30
-<<<<<<<<<
+#END<
 
->>>>>>>>
+#INPUT
 3 5 2 4
-========
+#OUTPUT
 20
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4 4 8 10 15
-========
+#OUTPUT
 120
-<<<<<<<<
+#END
 ```

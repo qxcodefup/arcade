@@ -15,34 +15,34 @@ Leia a idade do filho mais novo de seu David e a quantidade de filhos que ele te
 ## Testes
 
 ```txt
->>>>>>>>
+#INPUT
 2
 3
-========
+#OUTPUT
 2
 4
 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 6
-========
+#OUTPUT
 1
 3
 5
 7
 9
 11
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
 4
-========
+#OUTPUT
 10
 12
 14
 16
-<<<<<<<<
+#END
 ```

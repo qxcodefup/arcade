@@ -1,13 +1,6 @@
 # L1 - Divisão Inteira e @quebrada
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/quebrada/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup quebrada`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/quebrada/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -29,24 +22,24 @@ Aprenda a fazer divisão inteira e quebrada.
 
 ## Exemplo
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 6
 3
-========
+#OUTPUT
 2
 0
 2.00
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 7
 3
-========
+#OUTPUT
 2
 1
 2.33
-<<<<<<<<
+#END
 
 ```
 

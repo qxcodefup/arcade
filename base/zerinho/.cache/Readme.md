@@ -1,12 +1,5 @@
 # L2 - @zerinho ou Um
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/zerinho/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup zerinho`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/zerinho/cover.jpg)
 
 ## Motivação
@@ -29,36 +22,36 @@ Receba três valores correspondentes dos jogadores e em seguida imprima quem foi
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 1
 1
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 0
 0
 1
-========
+#OUTPUT
 jog3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 0
 0
-========
+#OUTPUT
 jog1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 0
 1
-========
+#OUTPUT
 jog2
-<<<<<<<<
+#END
 ```

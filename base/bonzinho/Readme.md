@@ -1,13 +1,6 @@
 # L3 - Professor @bonzinho
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/bonzinho/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup bonzinho`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/bonzinho/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -31,24 +24,24 @@ A ordem da entrada é importante nessa questão. As três primeira entradas são
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 10
 10
 5
 10
-========
+#OUTPUT
 Aprovado com 10.0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
 2
 2
 6
-========
+#OUTPUT
 Final com 6.0
-<<<<<<<<
+#END
 ```
 
 ## Dica

@@ -1,12 +1,5 @@
 # L1 - Plantação de @morangos
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/morangos/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup morangos`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ## OBI 2016 - Fase1 - Nível 1
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/morangos/cover.jpg)
@@ -30,24 +23,24 @@ Os administradores da Fazenda Fartura planejam criar uma nova plantação de mor
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 30
 8
 11
 56
-========
+#OUTPUT
 616
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 12
 38
 5
 20
-========
+#OUTPUT
 456
-<<<<<<<<
+#END
 ```
 
 [Resolução](https://youtu.be/TsFcz1GtMFE)

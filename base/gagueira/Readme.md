@@ -1,13 +1,6 @@
 # L2 - @gagueira V1 - Duplicar Palavras
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/gagueira/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup gagueira`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/gagueira/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -29,28 +22,28 @@ Faça um programa que receba uma frase(max 100 char) e imprima a mesma frase com
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 ola planeta terra
-========
+#OUTPUT
 ola ola planeta planeta terra terra
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 gosto de tomate
-========
+#OUTPUT
 gosto gosto de de tomate tomate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 minha ufc
-========
+#OUTPUT
 minha minha ufc ufc
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 sim eu vou
-========
+#OUTPUT
 sim sim eu eu vou vou
-<<<<<<<<
+#END
 ```

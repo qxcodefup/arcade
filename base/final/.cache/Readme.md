@@ -1,12 +1,5 @@
 # L2 - @final - será que eu passo?
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/final/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup final`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/final/cover.jpg)
 
 ## Descrição
@@ -42,36 +35,36 @@ Obs: descarte a nota da final se ela não for necessária.
 
 ## Exemplo
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 8
 8
 9
-========
+#OUTPUT
 aprovado
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 8
 2
 9
-========
+#OUTPUT
 aprovado na final
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 2
 9
-========
+#OUTPUT
 reprovado
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 8
 3
-========
+#OUTPUT
 reprovado na final
-<<<<<<<<
+#END
 ```

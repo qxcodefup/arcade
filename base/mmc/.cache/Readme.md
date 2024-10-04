@@ -1,12 +1,5 @@
 # L2 - @mmc
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/mmc/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup mmc`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/mmc/cover.jpg)
 
 ## Ação
@@ -23,22 +16,22 @@ Faça uma função que calcule e retorne o mmc de dois números.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 6 9
-========
+#OUTPUT
 18
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 4
-========
+#OUTPUT
 12
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 6
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 ```

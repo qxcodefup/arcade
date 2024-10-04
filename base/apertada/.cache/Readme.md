@@ -1,12 +1,5 @@
 # L1 - @apertada - Busca do menor valor
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/apertada/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup apertada`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/apertada/cover.jpg)
 
 ## Motivação
@@ -27,24 +20,24 @@ Faça um programa que receba cinco valores inteiros e encontre o menor deles.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 4
 2
 5
 2
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 7
 6
 4
 3
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 ```

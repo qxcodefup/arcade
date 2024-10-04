@@ -1,12 +1,5 @@
 # L2 - Contando @ocorrencias
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/ocorrencias/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup ocorrencias`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/ocorrencias/cover.jpg)
 
 ## Ação
@@ -43,11 +36,11 @@ int main(){
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 fundamentos de programacao
 a
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 ```

@@ -1,13 +1,6 @@
 # L3 - Conversa de @traficantes - Substituições de substrings
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/traficantes/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup traficantes`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/traficantes/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -38,28 +31,28 @@ NÃO use nenhuma função pronta para fazer isso.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 a aba absorveu
 ab
 c
-========
+#OUTPUT
 a ca csorveu
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a almofada esta mofada e molhada
 mo
 bigode
-========
+#OUTPUT
 a albigodefada esta bigodefada e bigodelhada
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a bd abda
 bd
 abc
-========
+#OUTPUT
 a abc aabca
-<<<<<<<<
+#END
 ```

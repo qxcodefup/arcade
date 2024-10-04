@@ -1,12 +1,5 @@
 # L2 - @omeletao
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/omeletao/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup omeletao`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/omeletao/cover.jpg)
 
 ## Motivação
@@ -39,22 +32,22 @@ Leia 4 números e imprima o maior valor.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
 3
 2
 2
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 1
 8
 3
-========
+#OUTPUT
 8
-<<<<<<<<
+#END
 ```

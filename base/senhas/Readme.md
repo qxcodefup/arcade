@@ -1,13 +1,6 @@
 # L3 - @senhas - algoritmo de força bruta
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/senhas/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup senhas`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/senhas/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -35,12 +28,12 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 
 ## Exemplos
 
-``` txt
->>>>>>>> numerico apenas
+``` py
+#INPUT numerico apenas
 4 10
 0179
 9997
-========
+#OUTPUT
 9999
 0000
 0001
@@ -51,13 +44,13 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 0017
 0019
 0070
-<<<<<<<<
+#END
 
->>>>>>>> misturado
+#INPUT misturado
 3 7
 #!1Ap
 !#A
-========
+#OUTPUT
 !#p
 !!#
 !!!
@@ -65,13 +58,13 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 !!A
 !!p
 !1#
-<<<<<<<<
+#END
 
->>>>>>>> numerico invertido
+#INPUT numerico invertido
 4 10
 0982
 2222
-========
+#OUTPUT
 0000
 0009
 0008
@@ -82,5 +75,5 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 0092
 0080
 0089
-<<<<<<<<
+#END
 ```

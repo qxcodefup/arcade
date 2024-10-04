@@ -1,23 +1,23 @@
->>>>>>>>
+#INPUT
 a porta amassou
-========
+#OUTPUT
 a portamassou
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 carla almeida alencar
-========
+#OUTPUT
 carlalmeidalencar
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a carla a ama
-========
+#OUTPUT
 a carlama
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 o orvalho ouviu uniformemente e eu uivei
-========
+#OUTPUT
 orvalhouviuniformementeuivei
-<<<<<<<<
+#END

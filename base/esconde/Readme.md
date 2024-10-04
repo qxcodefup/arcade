@@ -21,20 +21,20 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 
 ```txt
 
->>>>>>>>
+#INPUT
 5
-========
+#OUTPUT
 1
 3
 5
 4
 2
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 9
-========
+#OUTPUT
 1
 3
 5
@@ -45,11 +45,11 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 4
 2
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 13
-========
+#OUTPUT
 1
 3
 5
@@ -64,6 +64,6 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 4
 2
 0
-<<<<<<<<
+#END
 
 ```

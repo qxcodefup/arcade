@@ -1,27 +1,27 @@
->>>>>>>>
+#INPUT
 mel
 lema
-========
+#OUTPUT
 a
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 pegasus
 suspiro
-========
+#OUTPUT
 pegapiro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 olho
 ohio
-========
+#OUTPUT
 olio
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 minhoca
 arvore
-========
+#OUTPUT
 minhocrvore
-<<<<<<<<
+#END

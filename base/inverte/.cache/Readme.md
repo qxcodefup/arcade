@@ -1,12 +1,5 @@
 # L1 - @inverte case de char
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/inverte/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup inverte`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/inverte/cover.jpg)
 
 ## Ação
@@ -25,28 +18,28 @@ Dado a entrada de um caractere, retorne maiúsculo se ele for minúsculo e vice 
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 a
-========
+#OUTPUT
 A
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 B
-========
+#OUTPUT
 b
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 !
-========
+#OUTPUT
 !
-<<<<<<<<
+#END
 ```

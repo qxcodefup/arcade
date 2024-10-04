@@ -1,13 +1,6 @@
 # L2 - Matriz @simetrica
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/simetrica/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup simetrica`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/simetrica/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -27,28 +20,28 @@ Faça uma função onde verifique se uma matriz 3x3 é simétrica ou não. Tenha
 
 ### Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1 4 7
 4 1 8
 7 8 1
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 3 3
 3 3 3
 3 3 3
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1 2 3
 4 5 6
 7 8 9
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 ```

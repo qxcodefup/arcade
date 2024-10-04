@@ -1,13 +1,6 @@
 # L2 - @soldados em Posição
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/soldados/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup soldados`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/soldados/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -33,69 +26,69 @@ Saída
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 2 1
 2
 3
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2 1
 4
 3
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 3
 2 4 6
 3 8 9
 1 0 5
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 3
 5 1 9
 3 8 4
 7 3 2
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 3
 6 2 3
 5 4 9
 1 8 7
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4 4
 6 2 3 5
 5 4 9 4
 1 8 7 3
 1 8 9 2
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5 4
 6 2 3 5
 5 4 9 4
 1 8 7 3
 1 8 9 2
 0 7 9 1
-========
+#OUTPUT
 9
-<<<<<<<<
+#END
 
 ```

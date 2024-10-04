@@ -1,12 +1,5 @@
 # L3 - @botas Trocadas - OBI 2017
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/botas/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup botas`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/botas/cover.jpg)
 
 ## Motivação
@@ -32,18 +25,18 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 4
 40 D
 41 E
 41 D
 40 E
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 38 E
 39 E
@@ -51,7 +44,7 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 38 D
 40 D
 37 E
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 ```

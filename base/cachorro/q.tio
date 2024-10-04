@@ -1,41 +1,41 @@
->>>>>>>>
+#INPUT
 galinha          pintadinha
-========
+#OUTPUT
 galinha pintadinha
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a    almofada
-========
+#OUTPUT
 a almofada
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 comi    sorvete
-========
+#OUTPUT
 comi sorvete
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 meteoro        pegasus
-========
+#OUTPUT
 meteoro pegasus
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 a   almofada
-========
+#OUTPUT
 a almofada
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 meteoro          pegasus
-========
+#OUTPUT
 meteoro pegasus
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 galinha pintadinha
-========
+#OUTPUT
 galinha pintadinha
-<<<<<<<<
+#END

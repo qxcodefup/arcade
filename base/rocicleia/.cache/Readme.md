@@ -1,12 +1,5 @@
 # L3 - @rocicleia e o Locioreca - Anagramas
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/rocicleia/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup rocicleia`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/rocicleia/cover.jpg)
 
 ## Motivação
@@ -30,39 +23,39 @@ Dadas duas palavras, imprima sim se elas são anagramas e não se não são anag
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 paralelepipedo
 pepidoelelapar
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 rocicleia
 licioreca
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 batata
 tabata
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 borboleta
 brobuleta
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 amor
 roam
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 ```

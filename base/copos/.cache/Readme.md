@@ -1,12 +1,5 @@
 # L3 - Quebrador de @copos
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/copos/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup copos`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/copos/cover.jpg)
 
 ## Motivação
@@ -27,28 +20,28 @@ Faça um programa que dado um numero N inteiro (0<N<50) mostre na tela um triang
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
-========
+#OUTPUT
 ..3..
 .3.3.
 3.3.3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
-========
+#OUTPUT
 .2.
 2.2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
-========
+#OUTPUT
 ...4...
 ..4.4..
 .4.4.4.
 4.4.4.4
-<<<<<<<<
+#END
 ```

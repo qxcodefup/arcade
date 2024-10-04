@@ -1,12 +1,5 @@
 # L3 - @torre - OBI 2015 - Fase 2 - Nível 1
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/torre/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup torre`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/torre/cover.jpg)
 
 ## Motivação
@@ -42,8 +35,8 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o peso 
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 6
 4 1 3 8 4 5
 9 2 8 9 2 7
@@ -51,16 +44,16 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, o peso 
 8 2 9 1 9 8
 7 1 3 2 1 2
 5 1 2 9 3 8
-========
+#OUTPUT
 67
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 5 1 1
 5 2 1
 8 5 5
-========
+#OUTPUT
 20
-<<<<<<<<
+#END
 ```

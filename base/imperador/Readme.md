@@ -1,13 +1,6 @@
 # L2 - Deu a louca no @imperador
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/imperador/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup imperador`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/imperador/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -52,31 +45,31 @@ Some todos os G's e C's e determine quem é o vencedor.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
 G L G
 C C C
 C G G
-========
+#OUTPUT
 Condenados a morte
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 G G C
 C C C
 G C C
-========
+#OUTPUT
 Condenados a morte
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 C C G
 C G C
 G C C
-========
+#OUTPUT
 Ninguem
-<<<<<<<<
+#END
 ```

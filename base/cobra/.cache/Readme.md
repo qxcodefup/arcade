@@ -1,12 +1,5 @@
 # L2 - @cobra - jogo da cobrinha
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/cobra/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup cobra`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cobra/cover.jpg)
 
 ## Descrição
@@ -35,34 +28,34 @@ A cabeça da cobra pode estar apontada para 4 possíveis direções. \[U\] Up(Ci
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 10
 4
 3
 R
 1
-========
+#OUTPUT
 5 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
 4
 3
 R
 8
-========
+#OUTPUT
 2 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
 4
 5
 U
 1
-========
+#OUTPUT
 4 4
-<<<<<<<<
+#END
 ```

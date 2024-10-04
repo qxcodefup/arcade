@@ -1,12 +1,5 @@
 # L2 - @bingo
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/bingo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup bingo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/bingo/cover.jpg)
 
 ## Motivação
@@ -34,22 +27,22 @@ Dado um vetor de tamanho 6 de elementos inteiros, verifique quantos elementos de
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 55 30 2 974 79 23
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2 7 88 31 19 40
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 47 20 23 27 9 1
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 ```

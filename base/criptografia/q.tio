@@ -1,83 +1,83 @@
->>>>>>>> Teste 0
+#INPUT Teste 0
 nnb!ovofl
 123
-========
+#OUTPUT
 ola mundo
-<<<<<<<<
+#END
 
->>>>>>>> Teste 1
+#INPUT Teste 1
 Br'tbn+'qhdb'tfeb+'iht'tfebjht
 777
-========
+#OUTPUT
 Eu sei, voce sabe, nos sabemos
-<<<<<<<<
+#END
 
->>>>>>>> Teste 2
+#INPUT Teste 2
 jsmc*&cs&uis&ucs&vgo
 666
-========
+#OUTPUT
 luke, eu sou seu pai
-<<<<<<<<
+#END
 
->>>>>>>> Teste 3
+#INPUT Teste 3
 J%isjaj$hej%an$ph$kew%`c$wjwgw
 55464
-========
+#OUTPUT
 O mundo nao eh um mar de rosas
-<<<<<<<<
+#END
 
->>>>>>>> Teste 4
+#INPUT Teste 4
 dh#un%mudaq%ruio/%tm#lvb`r#cqpdl
 103035
-========
+#OUTPUT
 eh um lugar sujo, um lugar cruel
-<<<<<<<<
+#END
 
->>>>>>>> Teste 5
+#INPUT Teste 5
 swg"lcm"swgp"qc`gp"m"swclvm"tmag"gj"fwpcm,
 222
-========
+#OUTPUT
 que nao quer saber o quanto voce eh durao.
-<<<<<<<<
+#END
 
->>>>>>>> Teste 6
+#INPUT Teste 6
 Wcj!ajp`p#wlfa!ff!ijamjlr#`$wm`d#seh"eh`dv!ff!ijamjlr#uesc#rfhtsg#rf%rnaf!g`mycq
 1231354
-========
+#OUTPUT
 Vai botar voce de joelhos e voce vai ficar de joelhos para sempre se voce deixar
-<<<<<<<<
+#END
 
->>>>>>>> Teste 7
+#INPUT Teste 7
 Sjgc(%`q*$kljaq`h$pel%fgp`w$rej%bivq`$ekhj$g$sl`g
 55464
-========
+#OUTPUT
 Voce, eu, ninguem vai bater tao forte como a vida
-<<<<<<<<
+#END
 
->>>>>>>> Teste 8
+#INPUT Teste 8
 ndr#ocl%rf!vqdub!ff%cbugq%glsvf+
 351312
-========
+#OUTPUT
 mas nao se trata de bater forte.
-<<<<<<<<
+#END
 
->>>>>>>> Teste 9
+#INPUT Teste 9
 R`!qsdud!ad%pp`kuj!snfd%`bt`oq`%`u`kids%d%r`fphw!`l%gwdku`
 1515
-========
+#OUTPUT
 Se trata de quanto voce aguenta apanhar e seguir em frente
-<<<<<<<<
+#END
 
->>>>>>>> Teste 10
+#INPUT Teste 10
 h'vrfish'qhdb'bo'dfwf}'cb'f`rbisfu'b'dhisnirfu'sbisfich
 77
-========
+#OUTPUT
 o quanto voce eh capaz de aguentar e continuar tentando
-<<<<<<<<
+#END
 
->>>>>>>> Teste 11
+#INPUT Teste 11
 Aj#eqpmo#uwf$qf$aljqfcwf$tfjafv,
 423
-========
+#OUTPUT
 Eh assim que se consegue vencer.
-<<<<<<<<
+#END

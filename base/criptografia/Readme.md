@@ -1,13 +1,6 @@
 # L3 - @criptografia
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/criptografia/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup criptografia`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/criptografia/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -68,25 +61,25 @@ O enigma revelado.
 
 ## Exemplos
 
-``` txt
->>>>>>>> Teste 0
+``` py
+#INPUT Teste 0
 nnb!ovofl
 123
-========
+#OUTPUT
 ola mundo
-<<<<<<<<
+#END
 
->>>>>>>> Teste 1
+#INPUT Teste 1
 Br'tbn+'qhdb'tfeb+'iht'tfebjht
 777
-========
+#OUTPUT
 Eu sei, voce sabe, nos sabemos
-<<<<<<<<
+#END
 
->>>>>>>> Teste 2
+#INPUT Teste 2
 jsmc*&cs&uis&ucs&vgo
 666
-========
+#OUTPUT
 luke, eu sou seu pai
-<<<<<<<<
+#END
 ```

@@ -28,34 +28,34 @@ A cabeça da cobra pode estar apontada para 4 possíveis direções. \[U\] Up(Ci
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 10
 4
 3
 R
 1
-========
+#OUTPUT
 5 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
 4
 3
 R
 8
-========
+#OUTPUT
 2 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
 4
 5
 U
 1
-========
+#OUTPUT
 4 4
-<<<<<<<<
+#END
 ```

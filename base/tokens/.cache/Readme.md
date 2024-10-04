@@ -1,12 +1,5 @@
 # L3 - Separando a partir de @tokens
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/tokens/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup tokens`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/tokens/cover.jpg)
 
 ## Ação
@@ -23,29 +16,29 @@ Dada uma frase (max 100 char) com palavras (letras minusculas), números e espa�
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 mamae me ama#15#1.76;
-========
+#OUTPUT
 mamae me ama
 15
 1.76
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 aa 4#1 -f; -2.0;
-========
+#OUTPUT
 aa 4
 1 -f
  -2.0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 coca zero;1.75#8;U;
-========
+#OUTPUT
 coca zero
 1.75
 8
 U
-<<<<<<<<
+#END
 ```

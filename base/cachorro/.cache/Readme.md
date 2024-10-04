@@ -1,12 +1,5 @@
 # L2 - Meu @cachorro comeu minha tarefa - Retirar espaços
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/cachorro/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup cachorro`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cachorro/cover.jpg)
 
 ## Motivação
@@ -36,28 +29,28 @@ Faça um código que retire os espaços duplicados que existem entre duas palavr
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 galinha          pintadinha
-========
+#OUTPUT
 galinha pintadinha
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a    almofada
-========
+#OUTPUT
 a almofada
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 comi    sorvete
-========
+#OUTPUT
 comi sorvete
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 meteoro        pegasus
-========
+#OUTPUT
 meteoro pegasus
-<<<<<<<<
+#END
 ```

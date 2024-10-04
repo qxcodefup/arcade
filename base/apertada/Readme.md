@@ -20,24 +20,24 @@ Faça um programa que receba cinco valores inteiros e encontre o menor deles.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 4
 2
 5
 2
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 7
 6
 4
 3
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 ```

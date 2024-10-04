@@ -35,36 +35,36 @@ Obs: descarte a nota da final se ela não for necessária.
 
 ## Exemplo
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 8
 8
 9
-========
+#OUTPUT
 aprovado
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 8
 2
 9
-========
+#OUTPUT
 aprovado na final
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 2
 9
-========
+#OUTPUT
 reprovado
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 8
 3
-========
+#OUTPUT
 reprovado na final
-<<<<<<<<
+#END
 ```

@@ -1,12 +1,5 @@
 # L3 - @vivo ou Morto - OBI 2005
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/vivo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup vivo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vivo/cover.jpg)
 
 ## Motivação
@@ -51,8 +44,8 @@ Sua tarefa é escrever um programa que determine o vencedor de uma partida de "
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 5 4
 3 2 1 4 5
 5 1 1 1 1 1 1
@@ -70,12 +63,12 @@ Sua tarefa é escrever um programa que determine o vencedor de uma partida de "
 2 1 1 1
 2 1 1 0
 0 0
-========
+#OUTPUT
 Teste 1
 5
 Teste 2
 3
 Teste 3
 2
-<<<<<<<<
+#END
 ```

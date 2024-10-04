@@ -1,13 +1,6 @@
 # L3 - Horas de @sono
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/sono/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup sono`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sono/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -32,34 +25,34 @@ Se você dormir 23:00 e acorda às 6:00 então você tem 7:00 horas de sono.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 01 00 00
 03 00 00
-========
+#OUTPUT
 02 00 00
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 02 11 00
 03 10 10
-========
+#OUTPUT
 00 59 10
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 04 10 00
 03 10 10
-========
+#OUTPUT
 23 00 10
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 04 00 01
 03 00 00
-========
+#OUTPUT
 22 59 59
-<<<<<<<<
+#END
 ```
 
 ## Ajuda

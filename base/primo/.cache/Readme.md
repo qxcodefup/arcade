@@ -1,12 +1,5 @@
 # L2 - É @primo
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/primo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup primo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/primo/cover.jpg)
 
 ## Ação
@@ -23,24 +16,24 @@ Dado um número inteiro, faça uma função que verifique se ele é primo.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 21
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 ```
 
 [Resolução](https://youtu.be/FZVqoVx9KnM)

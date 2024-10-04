@@ -1,13 +1,6 @@
 # L2 - Próximo @segundo
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/segundo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup segundo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![ponteiros de um relógio](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/segundo/cover.jpg)
+![ponteiros de um relógio]( cover.jpg)
 
 ## Motivação
 
@@ -29,30 +22,30 @@ Supondo que João seja sobre humano, seu trabalho é fazer um programa para calc
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 12 10 11
-========
+#OUTPUT
 12 10 12
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 12 10 59
-========
+#OUTPUT
 12 11 00
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 12 59 59
-========
+#OUTPUT
 13 00 00
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 23 59 59
-========
+#OUTPUT
 00 00 00
-<<<<<<<<
+#END
 ```
 
 ## Dica

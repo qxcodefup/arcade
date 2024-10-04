@@ -1,12 +1,5 @@
 # L3 - Jogo da @vida
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/vida/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup vida`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vida/cover.jpg)
 
 ## Motivação
@@ -34,34 +27,34 @@ Mais informações: Procure sobre Jogo da vida na Wikipedia
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 4 8
 ........
 ........
 ..####..
 ........
-========
+#OUTPUT
 ........
 ...##...
 ...##...
 ...##...
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4 8
 ......#.
 .##...#.
 .#.#..#.
 ..#.....
-========
+#OUTPUT
 ........
 .##..###
 .#.#....
 ..#.....
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 7 18
 ..................
 .###..............
@@ -70,7 +63,7 @@ Mais informações: Procure sobre Jogo da vida na Wikipedia
 ..............#.#.
 .....##........##.
 .....##...........
-========
+#OUTPUT
 ..#...............
 .##...............
 .#.#..............
@@ -78,5 +71,5 @@ Mais informações: Procure sobre Jogo da vida na Wikipedia
 ................##
 .....##........##.
 .....##...........
-<<<<<<<<
+#END
 ```

@@ -1,12 +1,5 @@
 # L3 - Amo a @amora meu Amor - Contar Substrings
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/amora/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup amora`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/amora/cover.jpg)
 
 ## Motivação
@@ -32,18 +25,18 @@ Ajude Amora e faça um programa que recebe duas entradas, uma por linha, na prim
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 amo o amor que me amou, oh amora amortecida
 amo
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 o rato ratificou o carate que rateamos no cerato.
 rat
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
 ```

@@ -1,12 +1,5 @@
 # L2 - Achando @carteira - Retirando os loops
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/carteira/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup carteira`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/carteira/cover.jpg)
 
 ## Motivação
@@ -33,40 +26,40 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 0
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 360
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 361
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 722
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 -2
-========
+#OUTPUT
 358
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 -350
-========
+#OUTPUT
 10
-<<<<<<<<
+#END
 ```

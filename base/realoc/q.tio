@@ -1,4 +1,4 @@
->>>>>>>>
+#INPUT
 6
 12 Gilberto Gil
 14 Maria Betânia
@@ -6,11 +6,11 @@
 14 Caetano Veloso
 6 Djavan
 12 Marisa Monte
-========
+#OUTPUT
 Caetano Veloso
 Djavan
 Gilberto Gil
 Maria Betânia
 Marisa Monte
 Osvaldo Montenegro
-<<<<<<<<
+#END

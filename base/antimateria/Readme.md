@@ -1,13 +1,6 @@
 # L3 - Matéria e @antimateria
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/antimateria/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup antimateria`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/antimateria/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -43,32 +36,32 @@ Faça um programa que dado duas palavra, a matéria e a anti-matéria, imprima n
 
 ## Exemplos
 
-``` txt
->>>>>>>>  
+``` py
+#INPUT  
 mel
 lema
-========
+#OUTPUT
 a
-<<<<<<<<
+#END
 
->>>>>>>>  
+#INPUT  
 pegasus
 suspiro
-========
+#OUTPUT
 pegapiro
-<<<<<<<<
+#END
 
->>>>>>>>  
+#INPUT  
 olho
 ohio
-========  
+#OUTPUT  
 olio
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 minhoca
 arvore
-========
+#OUTPUT
 minhocrvore
-<<<<<<<<
+#END
 ```

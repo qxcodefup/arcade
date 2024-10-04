@@ -1,12 +1,5 @@
 # L2 - @vacina
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/vacina/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup vacina`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vacina/cover.jpg)
 
 by @wladmir

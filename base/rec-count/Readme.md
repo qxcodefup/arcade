@@ -1,13 +1,6 @@
 # L3 - @rec-count - Contando caracteres recursivamente
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/rec-count/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup rec-count`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/rec-count/cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
@@ -24,11 +17,11 @@ Forneça um algoritmo recursivo para contar quantas vezes um determinado caracte
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 fundamentos de programacao
 a
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 ```

@@ -1,47 +1,47 @@
->>>>>>>>
+#INPUT
 a
 +
 a
-========
+#OUTPUT
 a
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 b
 +
 d
-========
+#OUTPUT
 e
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 z
 +
 c
-========
+#OUTPUT
 b
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 f
 -
 d
-========
+#OUTPUT
 c
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 b
 -
 c
-========
+#OUTPUT
 z
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 b
 +
 b
-========
+#OUTPUT
 c
-<<<<<<<<
+#END

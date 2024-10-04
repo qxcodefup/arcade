@@ -1,12 +1,5 @@
 # L2 - @goiabas - pegar do pé do vizinho
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/goiabas/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup goiabas`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/goiabas/cover.jpg)
 
 ## Motivação
@@ -38,33 +31,33 @@ Você pode considerar que há pelo menos uma fruta a ser coletada.
 
 ## Exemplos
 
-``` txt
->>>>>>>> conta exata
+``` py
+#INPUT conta exata
 3
 1
 1
 1
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>> sobrando duas
+#INPUT sobrando duas
 10
 4
 4
 4
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>> sobrando uma
+#INPUT sobrando uma
 2
 4
 2
 3
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
 ```
 
 ## Aviso

@@ -1,13 +1,6 @@
 # L3 - Conta @digitos
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/digitos/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup digitos`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/digitos/cover.jpg)
+![_](cover.jpg)
 
 [Explicação](https://youtu.be/1zT-Y0Zb1K0)
 
@@ -34,48 +27,48 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 
 ```txt
 
->>>>>>>>
+#INPUT
 0
 0
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 10
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
 
->>>>>>>>
+#INPUT
 2
 99102030
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 9
 44902391
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 5939
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 0
 51007140
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 ```
 
 [Resolução](https://youtu.be/utRdA8SwBzA)

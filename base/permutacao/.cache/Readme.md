@@ -1,12 +1,5 @@
 # L4 - @permutacao de fichas
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/permutacao/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup permutacao`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/permutacao/cover.jpg)
 
 ## Motivação
@@ -59,25 +52,25 @@ Dada a ficha de Sara e o número de fichas seguintes que Sara comprou, determine
 
 ## Exemplos
 
-``` txt
->>>>>>>> Teste 0
+``` py
+#INPUT Teste 0
 123
 5
-========
+#OUTPUT
 321
-<<<<<<<<
+#END
 
->>>>>>>> Teste 1
+#INPUT Teste 1
 3215
 1
-========
+#OUTPUT
 3251
-<<<<<<<<
+#END
 
->>>>>>>> Teste 2
+#INPUT Teste 2
 4567
 6
-========
+#OUTPUT
 5467
-<<<<<<<<
+#END
 ```

@@ -1,12 +1,5 @@
 # L2 - @crushometro
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/crushometro/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup crushometro`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/crushometro/cover.jpg)
 
 ## Motivação
@@ -28,7 +21,7 @@ Para fazer o cálculo, some todos os pontos e imprima da seguinte forma:
 - "As chances do crush te dar bola sao: 100%!"
 - para imprimir o '%', basta coloca-lo duas vezes, assim:
 
-``` txt
+``` py
 printf("%%");
 ```
 
@@ -43,40 +36,39 @@ printf("%%");
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 Yudi
 Priscilla
-========
+#OUTPUT
 As chances do crush te dar bola sao: 20%!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Shun
 Hyoga
-========
+#OUTPUT
 As chances do crush te dar bola sao: 0%!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Kratos
 Athena
-========
+#OUTPUT
 As chances do crush te dar bola sao: 20%!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Paula
 Paulo
-========
+#OUTPUT
 As chances do crush te dar bola sao: 100%!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Shun
 Hyoga
-========
+#OUTPUT
 As chances do crush te dar bola sao: 0%!
-<<<<<<<<
+#END
 ```
-

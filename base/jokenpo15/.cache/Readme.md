@@ -1,12 +1,5 @@
 # L3 - @jokenpo15
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/jokenpo15/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup jokenpo15`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ## Motivação
 
 O jokenpo é emocionante. Normalmente, as crianças aprendem a jogar jokenpo antes de aprenderem par ou ímpar pois é mais fácil aprender que pedra quebra tesoura do que somar números e descobrir se par ou ímpar. Existem várias variações. Uma interessante com 15 níveis é a seguir. Cada elemento ganha de 7 elementos a sua frente e perder de 7 elementos que estão antes dele.
@@ -29,24 +22,24 @@ Vamos fazer do Human o número 0, Tree será 1 e assim sucessivamente. O número
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 0
-========
+#OUTPUT
 Jogador 2
-<<<<<<<<
->>>>>>>>
+#END
+#INPUT
 5
 9
-========
+#OUTPUT
 Jogador 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 0
 0
-========
+#OUTPUT
 Empate
-<<<<<<<<
+#END
 ```

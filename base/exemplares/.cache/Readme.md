@@ -1,12 +1,5 @@
 # L3 - @exemplares - Arca quantos exemplares
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/exemplares/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup exemplares`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/exemplares/cover.jpg)
 
 ## Motivação
@@ -33,25 +26,25 @@ Não use uma função de ordenar pronta.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
 1 1 2
-========
+#OUTPUT
 1 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 1 3 2 2 3
-========
+#OUTPUT
 1 2 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 8
 1 9 3 3 3 2 1 4
-========
+#OUTPUT
 1 2 3 4 9
-<<<<<<<<
+#END
 ```

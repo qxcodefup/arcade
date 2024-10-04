@@ -1,13 +1,6 @@
 # L2 - @bolada na fuça
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/bolada/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup bolada`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![Resultado de imagem para haikyuu](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/bolada/cover.jpg)
+![Resultado de imagem para haikyuu]( cover.jpg)
 
 ## Motivação
 
@@ -45,34 +38,34 @@ Desenvolva o programa que dados os valores de entrada, imprima o resultado de sa
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 c
 100
-========
+#OUTPUT
 Perfeito
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 b
 68
-========
+#OUTPUT
 Fraco, nem passou
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 c
 160
-========
+#OUTPUT
 Muito forte, bola fora
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 b
 99
-========
+#OUTPUT
 Satisfeito
-<<<<<<<<
+#END
 ```
 
 ## Dicas

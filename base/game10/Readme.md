@@ -1,19 +1,12 @@
 # L2 - @game10 - OBI 2017 - Fase 1 - Universitário
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/game10/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup game10`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/game10/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
 No princípio dos anos 1980 surgiram nos colégios os primeiros relógios de pulso digitais com joguinhos. Era uma febre entre os alunos e quem tinha um era muito popular na hora do recreio. Os joguinhos eram bem simples, mas muito legais. Um dos primeiros era o Game-10, no qual você controlava um avião que aparecia na parte direita do visor. Na parte esquerda aparecia um disco voador em qualquer uma de três posições, aleatoriamente, e lançava um míssil. O objetivo do jogador era movimentar o avião verticalmente para que ficasse na frente do disco voador (na mesma linha horizontal, do lado direito) e atirar para interceptar o míssil antes que esse atingisse o avião.
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/game10/figura.jpg)
+![_](figura.jpg)
 
 Como o movimento do avião era feito com apenas um botão, só dava para movimentar em um sentido: ao apertar o botão sucessivas vezes, o avião se movia na sequência de posições ... 1 → 2 → 3 → 1 → 2 → 3 → 1 ...
 
@@ -36,28 +29,28 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
 2
 1
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 20
 8
 13
-========
+#OUTPUT
 15
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 2
 2
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 ```

@@ -1,62 +1,62 @@
->>>>>>>>
+#INPUT
 mario
 4
-========
+#OUTPUT
 mario eh crianca
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 jose
 65
-========
+#OUTPUT
 jose eh idoso
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 mario
 1
-========
+#OUTPUT
 mario eh crianca
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 mariana
 12
-========
+#OUTPUT
 mariana eh jovem
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 maria
 17
-========
+#OUTPUT
 maria eh jovem
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 marina
 18
-========
+#OUTPUT
 marina eh adulto
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 marion
 64
-========
+#OUTPUT
 marion eh adulto
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 marilene
 65
-========
+#OUTPUT
 marilene eh idoso
-<<<<<<<<
+#END
 
->>>>>>>> 09
+#INPUT 09
 maridracula
 10000
-========
+#OUTPUT
 maridracula eh mumia
-<<<<<<<<
+#END

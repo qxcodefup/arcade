@@ -1,12 +1,5 @@
 # L3 - Máquina de @datilografar Quebrada
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/datilografar/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup datilografar`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/datilografar/cover.jpg)
 
 ## Motivação
@@ -37,39 +30,39 @@ Faça um programa que dado um numero representando a tecla quebrada e o numero n
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
 5000000
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 5004000
-========
+#OUTPUT
 4000
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 123456
-========
+#OUTPUT
 12456
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 9
 99999999991999999
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 7
 777
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 ```

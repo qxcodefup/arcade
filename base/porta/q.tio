@@ -1,97 +1,97 @@
->>>>>>>>
+#INPUT
 6
 1 2 4 7 8 5
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 49 81
-========
+#OUTPUT
 49
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 5 6
-========
+#OUTPUT
 a porta nao existe
-<<<<<<<<
+#END
 
->>>>>>>> Teste 0
+#INPUT Teste 0
 8
 52 34 50 60 89 49 4 2
-========
+#OUTPUT
 49
-<<<<<<<<
+#END
 
->>>>>>>> Teste 1
+#INPUT Teste 1
 2
 1 4
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 
->>>>>>>> Teste 2
+#INPUT Teste 2
 4
 5 4 10 20
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 
->>>>>>>> Teste 3
+#INPUT Teste 3
 7
 3 5 7 8 9 10 11
-========
+#OUTPUT
 9
-<<<<<<<<
+#END
 
->>>>>>>> Teste 4
+#INPUT Teste 4
 5
 30 49 50 20 10
-========
+#OUTPUT
 49
-<<<<<<<<
+#END
 
->>>>>>>> Teste 5
+#INPUT Teste 5
 3
 5007 49 72
-========
+#OUTPUT
 49
-<<<<<<<<
+#END
 
->>>>>>>> Teste 6
+#INPUT Teste 6
 10
 1 4 9 49 64 100 121 45 89 54038
-========
+#OUTPUT
 121
-<<<<<<<<
+#END
 
->>>>>>>> Teste 7
+#INPUT Teste 7
 2
 81 49
-========
+#OUTPUT
 49
-<<<<<<<<
+#END
 
->>>>>>>> Teste 8
+#INPUT Teste 8
 4
 100 10000 400016 54680
-========
+#OUTPUT
 10000
-<<<<<<<<
+#END
 
->>>>>>>> Teste 9
+#INPUT Teste 9
 2
 89 99
-========
+#OUTPUT
 a porta nao existe
-<<<<<<<<
+#END
 
->>>>>>>> Teste 10
+#INPUT Teste 10
 4
 1000 50 30 15
-========
+#OUTPUT
 a porta nao existe
-<<<<<<<<
+#END

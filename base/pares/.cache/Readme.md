@@ -1,12 +1,5 @@
 # L0 - @pares - Calculando soma
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/pares/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup pares`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pares/cover.jpg)
 
 ## Motivação
@@ -33,32 +26,32 @@ Descubra em [LINK](http://www.profcardy.com/cardicas/tirateima.php?id=1).
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 10
-========
+#OUTPUT
 30
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 5
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 1
-========
+#OUTPUT
 invalido
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 6
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 ```

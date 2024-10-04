@@ -1,12 +1,5 @@
 # L2 - busca @intervalada
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/intervalada/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup intervalada`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/intervalada/cover.jpg)
 
 ## Motivação
@@ -32,35 +25,35 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 
 ### Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 4 1 3
 1
 5
 3
 7
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5 3 5
 1
 2
 4
 6
 8
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4 3 5
 1
 2
 7
 8
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 ```

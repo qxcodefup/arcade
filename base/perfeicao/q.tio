@@ -1,41 +1,41 @@
->>>>>>>>
+#INPUT
 Dhaquison
-========
+#OUTPUT
 Dhaquisonn
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Alfredo
-========
+#OUTPUT
 Alfredoc
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Maikou
-========
+#OUTPUT
 sem sorte
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Davidp
-========
+#OUTPUT
 Davidpd
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 Ana
-========
+#OUTPUT
 sem sorte
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 David
-========
+#OUTPUT
 Davidp
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 Ticiany
-========
+#OUTPUT
 sem sorte
-<<<<<<<<
+#END

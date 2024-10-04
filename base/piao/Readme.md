@@ -1,17 +1,10 @@
 # L3 - @piao perto da linha
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/piao/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup piao`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/piao/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/piao/jogo.png)
+![_](jogo.png)
 
 No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
 
@@ -40,38 +33,38 @@ No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 30 3
 35 -15 22
-========
+#OUTPUT
 1
 0
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 30 3
 35 -32 -40
-========
+#OUTPUT
 nenhum
 2
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 30 3
 35 36 -36
-========
+#OUTPUT
 nenhum
 2
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 40 3
 -25 -26 24
-========
+#OUTPUT
 2
 1
-<<<<<<<<
+#END
 ```
 
 - baitinga: modo carinhoso que um cearense chama o outro quando está invocado!

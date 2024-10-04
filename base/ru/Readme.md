@@ -1,13 +1,6 @@
 # L2 - Organizando @ru - Separando vogais de consoantes
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/ru/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup ru`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/ru/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -31,32 +24,32 @@ Cada frase tem até 100 char.
 
 ## Exemplos  
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 um abraco amigo
-========
+#OUTPUT
 uaaoaio
 mbrcmg
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 meteoro de pegasus
-========
+#OUTPUT
 eeooeeau
 mtrdpgss
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 hora de morfar
-========
+#OUTPUT
 oaeoa
 hrdmrfr
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 thunder thunder thunder cats owwww
-========
+#OUTPUT
 ueueueao
 thndrthndrthndrctswwww
-<<<<<<<<
+#END
 ```

@@ -1,33 +1,32 @@
 # L2 - @arredondar número
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/arredondar/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup arredondar`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
+[Motiv](#motivação) | [Shell](#shell) | [Dicas](#dicas)
+-- | -- | --
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/arredondar/cover.jpg)
 
-## Motivação
+### Motivação
 
 Um aluno ficou implorando para o seu professor de FUP arredondar seu 6.9999999999 para 10 porque ele precisa de um 10 para passar de semestre. Seu trabalho é implementar as funções ceil, floor e round para ajudar o professor a calcular as notas dos alunos.
 
-## Ação
+implemente três funções:
 
-Faça as funções round, ceil e floor. Todas recebem um float e retornam um inteiro. `ceil` sempre arredonda pra cima, `floor` sempre arredonda pra baixo e `round` arredonda pra baixo se a parte fracionada for menor que 0.5 e arredonda para cima se a parte fracionaria for maior ou igual a 0.5.  
+- `ceil`: que sempre arredonda para cima
+- `floor` que sempre arredonda para baixo
+- `round`: que arredonda para baixo se a parte fracionária for menor que 0.5 e para cima se for maior ou igual a 0.5.
 
-Protótipos:
-
+Os protótipos das funções são em **C**:
 ```c
 int round(float num);
 int floor(float num);
 int ceil(float num);
 ```
+Na função principal (main), leia um caractere que representa a operação (r, f, c) e um número do tipo float. Depois, chame a função correspondente e imprima o resultado.
 
-## Entrada
+### Shell
 
-* Na main leia um char representando a operação (r, f, c) e um float.
+- Um caractere (r, f ou c) representando a operação.
+- Um número float
 
 ### Saida
 
@@ -35,39 +34,72 @@ int ceil(float num);
 
 ### Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 c
 5.5
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 f
 6.99
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 c
 6.99
-========
+#OUTPUT
 7
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 r
 5.5
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 r
 5.4
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
+```
+
+### Dicas
+
+- **C** - É dessa forma que é realizada a criação de uma função:
+``` c
+int round(float num){
+    return;
+}
+
+int main() {
+    float num = 1.1;
+    round(num);
+}
+```
+
+- **Python** - É dessa forma que é realizada a criação de uma função:
+``` c
+def round(float num):
+    return
+
+num = 1.1;
+round(num);
+```
+
+- **TypeScript** - É dessa forma que é realizada a criação de uma função:
+``` ts
+function round(num: number): number{
+    return;
+}
+
+let num = 1.1;
+round(num);
 ```

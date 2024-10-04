@@ -1,13 +1,6 @@
 # L2 - @opala bebedor
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/opala/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup opala`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/opala/cover.jpg)
+![_](cover.jpg)
 
 [Explicação](https://youtu.be/d0nlVzjtMBE)
 
@@ -33,22 +26,22 @@ Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em
 
 ## Exemplos
 
-``` txt
->>>>>>>> corsa
+``` py
+#INPUT corsa
 100
 60
 10
-========
+#OUTPUT
 10.00
-<<<<<<<<
+#END
 
->>>>>>>> fusca
+#INPUT fusca
 60
 40
 10
-========
+#OUTPUT
 4.00
-<<<<<<<<
+#END
 ```
 
 ## Dica
@@ -71,4 +64,3 @@ b = 3.4334344
 print("a={:.2f} e b={:.3f}".format(a, b)) //a=4.32 e b=3.433
 ```
 [Veja outras opções na documentação oficial](https://docs.python.org/pt-br/3/tutorial/inputoutput.html#fancier-output-formatting)
-

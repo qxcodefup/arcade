@@ -1,12 +1,5 @@
 # L0 - @esconde - Diana no esconde-esconde
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/esconde/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup esconde`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 Diana quando jogava esconde-esconde, achava terrível porque o Paulo Victor contava bem rápido até 10 e já saia correndo pra pegar o povo.
 
 Para tentar fazer a contagem demorar mais, ela inventou que ele deveria contar até o número combinado, dizendo só os ímpares, e depois devia contar voltando, dizendo só os pares.
@@ -28,20 +21,20 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 
 ```txt
 
->>>>>>>>
+#INPUT
 5
-========
+#OUTPUT
 1
 3
 5
 4
 2
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 9
-========
+#OUTPUT
 1
 3
 5
@@ -52,11 +45,11 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 4
 2
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 13
-========
+#OUTPUT
 1
 3
 5
@@ -71,6 +64,6 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 4
 2
 0
-<<<<<<<<
+#END
 
 ```

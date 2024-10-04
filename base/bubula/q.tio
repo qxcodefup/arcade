@@ -1,29 +1,29 @@
->>>>>>>>
+#INPUT
 Volte cá seu cabra safado
-========
+#OUTPUT
 VoVoVolte cá seu cacacabra sasasafado
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Morreu Maria Prea
-========
+#OUTPUT
 MoMoMorreu MaMaMaria Prea
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Solte essa faca ou eu arranco suas tripas no dente!
-========
+#OUTPUT
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 Solte essa faca ou eu arranco suas tripas no dente
-========
+#OUTPUT
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 Nao se bula ou eu te mato
-========
+#OUTPUT
 Nao se bububula ou eu te mamamato
-<<<<<<<<
+#END

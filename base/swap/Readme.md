@@ -25,24 +25,24 @@ Você deverá:
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1 2
-========
+#OUTPUT
 2 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 -1 3
-========
+#OUTPUT
 3 -1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 0 0
-========
+#OUTPUT
 0 0
-<<<<<<<<
+#END
 ```
 
 

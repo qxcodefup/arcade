@@ -1,12 +1,5 @@
 # L3 - Jogo do @avesso2
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/avesso2/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup avesso2`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/avesso2/cover.jpg)
 
 ## Motivação
@@ -43,28 +36,28 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3 1
 3 1 4
 1
-========
+#OUTPUT
 [-3 1 -4]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 3
 3 1 4
 1 1 4
-========
+#OUTPUT
 [3 -1 4]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 7 5
 3 4 8 9 1 5 6
 3 4 5 6 9
-========
+#OUTPUT
 [-3 -4 8 9 1 -5 -6]
-<<<<<<<<
+#END
 ```

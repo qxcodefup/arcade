@@ -1,71 +1,71 @@
->>>>>>>>
+#INPUT
 10
 10
 5
 10
-========
+#OUTPUT
 Aprovado com 10.0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
 2
 2
 6
-========
+#OUTPUT
 Final com 6.0
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 10
 10
 2
 10
-========
+#OUTPUT
 Aprovado com 10.0
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 10
 10
 10
 10
-========
+#OUTPUT
 Aprovado com 10.0
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 8
 8
 6.5
 8
-========
+#OUTPUT
 Aprovado com 8.0
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 6.5
 7.5
 5
 7.0
-========
+#OUTPUT
 Aprovado com 7.0
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 2
 10
 2
 6
-========
+#OUTPUT
 Final com 6.0
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 6.9
 6.9
 4
 6.9
-========
+#OUTPUT
 Final com 6.9
-<<<<<<<<
+#END

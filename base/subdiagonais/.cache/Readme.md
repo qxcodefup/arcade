@@ -1,12 +1,5 @@
 # L2 - @subdiagonais
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/subdiagonais/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup subdiagonais`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/subdiagonais/cover.jpg)
 
 ## Motivação
@@ -29,34 +22,34 @@ Em uma matriz de elementos inteiros 5x5, some todos os elementos da diagonal pri
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1 0 1 1 0
 0 1 1 1 1
 0 0 1 0 0
 1 1 1 0 0
 1 0 1 1 1
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1 1 0 0 1
 1 1 1 0 0
 1 0 0 1 1
 0 1 1 1 1
 0 0 0 1 1
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2 4 6 3 9
 8 7 5 4 1
 5 2 6 1 7
 8 4 3 2 5
 9 7 6 5 3
-========
+#OUTPUT
 -12
-<<<<<<<<
+#END
 ```

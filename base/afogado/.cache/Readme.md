@@ -1,12 +1,5 @@
 # L3 - Sapinho 3 matemático não quer morrer @afogado
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/afogado/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup afogado`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/afogado/cover.jpg)
 
 ## Motivação
@@ -29,32 +22,32 @@ Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcula
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 10
 1
-========
+#OUTPUT
 10
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 20
 1
-========
+#OUTPUT
 16
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 200
 10
-========
+#OUTPUT
 67
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 500
 30
-========
+#OUTPUT
 122
-<<<<<<<<
+#END
 ```

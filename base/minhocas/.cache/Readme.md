@@ -1,12 +1,5 @@
 # L3 - Campo de @minhocas - OBI 2005
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/minhocas/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup minhocas`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minhocas/cover.jpg)
 
 ## Motivação
@@ -48,17 +41,17 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 3 5
 81 28 240 10 1
 40 10 100 240 4
 20 180 111 35 2
-========
+#OUTPUT
 451
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 9 9
 2 1 1 1 1 1 1 1 2
 1 2 1 1 1 1 1 2 1
@@ -69,11 +62,11 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 1 1 2 1 1 1 2 1 1
 1 2 1 1 1 1 1 2 1
 2 1 1 1 1 1 1 1 2
-========
+#OUTPUT
 13
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 10 10
 3 5 5 5 5 5 5 5 5 5
 3 1 1 1 1 1 1 1 1 5
@@ -85,7 +78,7 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 3 1 1 1 1 1 1 1 1 5
 3 1 1 1 1 1 1 1 1 5
 3 5 5 5 5 5 5 5 5 5
-========
+#OUTPUT
 50
-<<<<<<<<
+#END
 ```

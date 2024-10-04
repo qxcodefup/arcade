@@ -1,12 +1,5 @@
 # L3 - MeU @word QuEbRoU - formatação de case
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/word/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup word`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/word/cover.jpg)
 
 ## Motivação
@@ -32,32 +25,32 @@ A entrada é composta de minusculas, maiúsculas, números, pontuações e espa�
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 O Pato e o frango ja tao cozidos, comam!
 M
-========
+#OUTPUT
 O PATO E O FRANGO JA TAO COZIDOS, COMAM!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 O Pato e o frango ja tao cozidos, comam!
 m
-========
+#OUTPUT
 o pato e o frango ja tao cozidos, comam!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 O Pato e o frango ja tao cozidos, comam!
 p
-========
+#OUTPUT
 o Pato e o Frango Ja Tao Cozidos, Comam!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 O Pato e o frango ja tao cozidos, comam!
 i
-========
+#OUTPUT
 o pATO E O FRANGO JA TAO COZIDOS, COMAM!
-<<<<<<<<
+#END
 ```

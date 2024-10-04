@@ -1,71 +1,71 @@
->>>>>>>>
+#INPUT
 1  
 1.0  
 1.0  
 M  
-========
+#OUTPUT
 primeiro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2  
 1.0 2.0  
 1.0 2.1  
 m m  
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 1.0 2.0
 1.0 2.1
 m M
-========
+#OUTPUT
 primeiro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 1.0 2.0
 1.1 2.1
 m M
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 1.0 2.0 4.0
 1.1 2.1 4.0
 m M m
-========
+#OUTPUT
 primeiro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 1.0 2.0 4.02
 1.1 2.1 4.1
 M m m
-========
+#OUTPUT
 segundo
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 1
 1.0
 1.0
 M
-========
+#OUTPUT
 primeiro
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 2
 1.0 2.0
 1.0 2.1
 m m
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END

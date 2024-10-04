@@ -1,13 +1,6 @@
 # L3 - Identificando Ultrons V2 - @disfarce
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/disfarce/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup disfarce`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/disfarce/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -43,8 +36,8 @@ Como são 3 ocorrências em 5 letras, isso dá mais de 50%, o que garante que o 
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 4
 aeiou
 axx
@@ -54,21 +47,21 @@ ultron
 ronluo
 ultron
 rrrrrrrrra
-========
+#OUTPUT
 pessoa
 pessoa
 chefe
 ultron
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 aeiou
 axo
 aeiou
 bba
-========
+#OUTPUT
 ultron
 pessoa
-<<<<<<<<
+#END
 ```

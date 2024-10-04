@@ -31,33 +31,33 @@ Você pode considerar que há pelo menos uma fruta a ser coletada.
 
 ## Exemplos
 
-``` txt
->>>>>>>> conta exata
+``` py
+#INPUT conta exata
 3
 1
 1
 1
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>> sobrando duas
+#INPUT sobrando duas
 10
 4
 4
 4
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>> sobrando uma
+#INPUT sobrando uma
 2
 4
 2
 3
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
 ```
 
 ## Aviso

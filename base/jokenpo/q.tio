@@ -1,55 +1,55 @@
->>>>>>>> 01
+#INPUT 01
 R
 P
-========
+#OUTPUT
 jog2
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 P
 P
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 S
 P
-========
+#OUTPUT
 jog1
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 S
 S
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 R
 S
-========
+#OUTPUT
 jog1
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 S
 R
-========
+#OUTPUT
 jog2
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 R
 R
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 P
 R
-========
+#OUTPUT
 jog1
-<<<<<<<<
+#END

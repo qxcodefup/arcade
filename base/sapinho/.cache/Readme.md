@@ -1,12 +1,5 @@
 # L2 - @sapinho 1 no Poço
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/sapinho/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup sapinho`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sapinho/cover.jpg)
 
 ## Motivação
@@ -38,30 +31,30 @@ Imprima todas as posições de aterrissagem dos saltos do sapinho.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 500
 100
 20
-========
+#OUTPUT
 0 100
 80 180
 160 260
 240 340
 320 420
 400 saiu
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 800
 300
 200
-========
+#OUTPUT
 0 300
 100 400
 200 500
 300 600
 400 700
 500 saiu
-<<<<<<<<
+#END
 ```

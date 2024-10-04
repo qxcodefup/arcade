@@ -1,12 +1,5 @@
 # L3 - @blackjack 21
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/blackjack/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup blackjack`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/blackjack/cover.jpg)
 
 ## Motivação
@@ -27,51 +20,51 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 2
 1
 13
-========
+#OUTPUT
 21
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 11
 13
-========
+#OUTPUT
 20
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 1
 1
 1
-========
+#OUTPUT
 13
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 1
 1
 2
 3
 12
-========
+#OUTPUT
 17
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 1
 1
 2
 10
 12
-========
+#OUTPUT
 24
-<<<<<<<<
+#END
 ```

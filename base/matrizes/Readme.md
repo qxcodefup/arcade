@@ -1,13 +1,6 @@
 # L2 - Soma de @matrizes
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/matrizes/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup matrizes`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/matrizes/cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
@@ -26,28 +19,28 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 
 ## Exemplos
 
-``` txt
->>>>>>>> 00
+``` py
+#INPUT 00
 2
 3
 1 2 3
 4 5 6
 1 1 1
 2 2 2
-========
+#OUTPUT
 [ 2 3 4 ]
 [ 6 7 8 ]
-<<<<<<<<
+#END
 
->>>>>>>> 01
+#INPUT 01
 2
 1
 1
 2
 3
 4
-========
+#OUTPUT
 [ 4 ]
 [ 6 ]
-<<<<<<<<
+#END
 ```

@@ -1,12 +1,5 @@
 # L3 - Roda Roda @jequiti
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/jequiti/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup jequiti`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/jequiti/cover.jpg)
 
 ## Motivação
@@ -51,28 +44,28 @@ Ex: "**Seu Pilantra!**" , "**yzxa**" , '**\***' -> "**\*\*\* \*\*\*a\*\*\*a!**"
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 extraordinario
 aeioubcdfgh
 *
-========
+#OUTPUT
 e***ao*di*a*io
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Teco-Teco!
 tbxyan
 _
-========
+#OUTPUT
 T___-T___!
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Seu Pilantra!
 yzxa
 *
-========
+#OUTPUT
 *** ***a***a!
-<<<<<<<<
+#END
 ```

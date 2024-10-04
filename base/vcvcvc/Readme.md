@@ -1,13 +1,6 @@
 # L2 - @vcvcvc - Vogais e Consoantes - Substituindo
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/vcvcvc/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup vcvcvc`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vcvcvc/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -35,22 +28,22 @@ Se você entendeu, faça o código que dada a frase de entrada(max 50 char), imp
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 Pedrinho Marcio
-========
+#OUTPUT
 cvccvccv cvccvv
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 Reumario Albrito
-========
+#OUTPUT
 cvvcvcvv vcccvcv
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 AaBbCcDdEe
-========
+#OUTPUT
 vvccccccvv
-<<<<<<<<
+#END
 ```

@@ -1,23 +1,23 @@
->>>>>>>>
+#INPUT
 a aba absorveu
 ab
 c
-========
+#OUTPUT
 a ca csorveu
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a almofada esta mofada e molhada
 mo
 bigode
-========
+#OUTPUT
 a albigodefada esta bigodefada e bigodelhada
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a bd abda
 bd
 abc
-========
+#OUTPUT
 a abc aabca
-<<<<<<<<
+#END

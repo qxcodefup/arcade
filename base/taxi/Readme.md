@@ -1,13 +1,6 @@
 # L1 - Frota de @taxi - OBI 2005
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/taxi/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup taxi`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/taxi/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -34,34 +27,34 @@ A saída deve ser composta por uma única linha contendo o caractere 'A' se é
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 1.00 1.00 8.00 8.01
-========
+#OUTPUT
 G
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 10.00 0.01 10.01 0.01
-========
+#OUTPUT
 A
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 2.15 3.17 19.34 18.22
-========
+#OUTPUT
 A
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 3.90 3.80 19.01 19.99
-========
+#OUTPUT
 G
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 4.15 3.17 16.64 19.22
-========
+#OUTPUT
 G
-<<<<<<<<
+#END
 ```

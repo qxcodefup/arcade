@@ -1,13 +1,6 @@
 # L2 - @numerao divisível por 11
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/numerao/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup numerao`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/numerao/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -32,22 +25,22 @@ Existem formas para se determinar essa divisibilidade. Pesquise um pouco.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 11
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 110
-========
+#OUTPUT
 sim
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 123
-========
+#OUTPUT
 nao
-<<<<<<<<
+#END
 ```

@@ -1,12 +1,5 @@
 # L3 - Formiga da @bundona
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/bundona/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup bundona`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ## Motivação
 
 Uma formiguinha está andando na borda de um relógio redondo analógico. Como sua dieta é muito baseada em açúcar, sua nutricionista recomendou que ela caminhasse todos os dias para emagrecer.
@@ -27,22 +20,22 @@ Dado a posição inicial da formiga no relógio, a direção que ela está camin
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 00
 00
 H
 8
-========
+#OUTPUT
 01 20
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 00
 10
 A
 74
-========
+#OUTPUT
 11 50
-<<<<<<<<
+#END
 ```

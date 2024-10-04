@@ -1,12 +1,5 @@
 # L2 - @monica - A idade do filho mais velho - OBI 2019 - F1PJ
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/monica/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup monica`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/monica/cover.jpg)
 
 Dona Mônica é mãe de três filhos que têm idades diferentes. Ela notou que, neste ano, a soma das idades dos seus três filhos é igual à idade dela. Neste problema, dada a idade de dona Mônica e as idades de dois dos filhos, seu programa deve computar e imprimir a idade do filho mais velho.
@@ -34,22 +27,22 @@ Restrições:
 
 ## Exemplo
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 52
 14
 18
-========
+#OUTPUT
 20
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 47
 21
 9
-========
+#OUTPUT
 21
-<<<<<<<<
+#END
 
 ```
 

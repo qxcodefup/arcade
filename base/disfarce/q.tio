@@ -1,4 +1,4 @@
->>>>>>>>
+#INPUT
 4
 aeiou
 axx
@@ -8,20 +8,20 @@ ultron
 ronluo
 ultron
 rrrrrrrrra
-========
+#OUTPUT
 pessoa
 pessoa
 chefe
 ultron
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 aeiou
 axo
 aeiou
 bba
-========
+#OUTPUT
 ultron
 pessoa
-<<<<<<<<
+#END

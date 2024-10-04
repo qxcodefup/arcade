@@ -1,12 +1,5 @@
 # L2 - @fatoracao - Fatoração
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fatoracao/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup fatoracao`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ## Fatore um numero
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fatoracao/cover.jpg)
@@ -32,23 +25,23 @@ Leia um Inteiro e represente-o com sua forma fatorada.
 ## Exemplos
 
 ```txt
->>>>>>>>
+#INPUT
 8
-========
+#OUTPUT
 2 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 9
-========
+#OUTPUT
 3 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
-========
+#OUTPUT
 2 1
 5 1
-<<<<<<<<
+#END
 
 ```

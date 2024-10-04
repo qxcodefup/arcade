@@ -1,12 +1,5 @@
 # L3 - Mini @poker - OBI2005
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/poker/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup poker`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/poker/cover.jpg)
 
 ## Motivação
@@ -57,15 +50,15 @@ A grafia mostrada no Exemplo de Saída, abaixo, deve ser seguida rigorosamente. 
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 5
 1 2 3 4 5
 10 2 10 2 3
 1 2 3 5 4
 10 10 3 2 3
 1 2 1 2 3
-========
+#OUTPUT
 Teste 1
 201
 
@@ -81,5 +74,5 @@ Teste 4
 Teste 5
 28
 
-<<<<<<<<
+#END
 ```

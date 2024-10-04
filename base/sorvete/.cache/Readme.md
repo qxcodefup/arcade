@@ -1,12 +1,5 @@
 # L3 - @sorvete suor casaca chicletes - Letras em Comum
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/sorvete/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup sorvete`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sorvete/cover.jpg)
 
 ## Motivação
@@ -39,28 +32,28 @@ Dada uma frase com até 100 caracteres, será que você consegue me dizer a quan
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 sorvete suor casaca chicletes pegasus
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 minhoca quixe tempero musica roubo
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 acaro cocegas cagado aquecido
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 aaabbcc bbac bbbaacc ccbddbabda basdbdc
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 ```

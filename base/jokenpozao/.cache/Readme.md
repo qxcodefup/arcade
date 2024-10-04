@@ -1,12 +1,5 @@
 # L2 - @jokenpozao de 9
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/jokenpozao/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup jokenpozao`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/jokenpozao/cover.jpg)
 
 ## Motivação
@@ -17,7 +10,7 @@ Em inglês:
 
 - \[paper, air, water, gun, rock, fire, scissors, human, sponge\], paper, air, water, gun, rock, ...
 
-``` txt
+``` py
 ROCK POUNDS OUT FIRE, CRUSHES SCISSORS, HUMAN & SPONGE.
 FIRE MELTS SCISSORS, BURNS PAPER, HUMAN & SPONGE.
 SCISSORS SWISH THROUGH AIR, CUT PAPER, HUMAN & SPONGE.
@@ -33,7 +26,7 @@ Em português:
 
 - \[papel, ar, água, arma, pedra, fogo, tesoura, humano, esponja\], papel, ar, água, arma, ...
 
-``` txt
+``` py
 ROCHA AMASSA FOGO, ESMAGA TESOURA, HUMANO E ESPONJA.
 FOGO DERRETE TESOURA, QUEIMA PAPEL, HUMANO E ESPONJA.
 TESOURA CORTA PELO AR, CORTA PAPEL, HUMANO E ESPONJA.
@@ -55,60 +48,60 @@ ARMA MIRA ROCHA, DISPARA, SUPERA TESOURA, ATIRA NO HUMANO.
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 sponge
 gun
-========
+#OUTPUT
 jog1
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 air
 scissors
-========
+#OUTPUT
 jog2
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 gun
 gun
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 air
 gun
-========
+#OUTPUT
 jog1
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 fire
 air
-========
+#OUTPUT
 jog2
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 water
 human
-========
+#OUTPUT
 jog2
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 scissors
 paper
-========
+#OUTPUT
 jog1
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 sponge
 human
-========
+#OUTPUT
 jog2
-<<<<<<<<
+#END
 ```

@@ -17,25 +17,25 @@ O Dono do zoológico que fazer uma grande arca e colocar os animais dentro. Acon
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
 1 -1 2
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 1 3 2 2 -3
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
 1 9 -3 3 3 2 -1 4 -1 1`
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 ```

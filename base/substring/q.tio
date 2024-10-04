@@ -1,55 +1,55 @@
->>>>>>>> 01
+#INPUT 01
 Coralina
 0
 4
-========
+#OUTPUT
 Cora
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 Power Ranger
 4
 20
-========
+#OUTPUT
 r Ranger
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 Coralina
 0
 1
-========
+#OUTPUT
 C
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 Coralina
 1
 1
-========
+#OUTPUT
 o
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 Coralina
 1
 4
-========
+#OUTPUT
 oral
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 Power Ranger
 4
 30
-========
+#OUTPUT
 r Ranger
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 Decoracao
 4
 5
-========
+#OUTPUT
 racao
-<<<<<<<<
+#END

@@ -1,79 +1,79 @@
->>>>>>>>
+#INPUT
 1
 2
 3
-========
+#OUTPUT
 primeiro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 5
 4
-========
+#OUTPUT
 segundo
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
 11
 9
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 20
 21
 22
-========
+#OUTPUT
 primeiro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 20
 21
 21
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 10
 11
 11
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 10
 12
 11
-========
+#OUTPUT
 segundo
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 10
 11
 7
-========
+#OUTPUT
 primeiro
-<<<<<<<<
+#END
 
->>>>>>>> 10
+#INPUT 10
 20
 22
 18
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END
 
->>>>>>>> 11
+#INPUT 11
 20
 21
 19
-========
+#OUTPUT
 empate
-<<<<<<<<
+#END

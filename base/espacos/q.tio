@@ -1,23 +1,23 @@
->>>>>>>>
+#INPUT
 a  almofada ta muito  fofa
-========
+#OUTPUT
 a almofada ta muito fofa
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 ai  bb cx
-========
+#OUTPUT
 ai bb cx
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 aiu  bbk cxmp
-========
+#OUTPUT
 aiu bbk cxmp
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a  bola  ta furada
-========
+#OUTPUT
 a bola ta furada
-<<<<<<<<
+#END

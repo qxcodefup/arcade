@@ -26,32 +26,32 @@ Descubra em [LINK](http://www.profcardy.com/cardicas/tirateima.php?id=1).
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 10
-========
+#OUTPUT
 30
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 5
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 1
-========
+#OUTPUT
 invalido
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 6
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 ```

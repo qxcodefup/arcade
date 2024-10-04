@@ -1,12 +1,5 @@
 # L2 - @guerra civil no Universo Marvel
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/guerra/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup guerra`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/guerra/cover.jpg)
 
 ## Motivação
@@ -36,8 +29,8 @@ Crie um programa que receba o número de integrantes, crie um vetor para cada ti
 
 ### Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 2
 Homem de Ferro
 500
@@ -48,12 +41,12 @@ Capitao America
 400
 Soldado Invernal
 450
-========
+#OUTPUT
 Team Captain Wins
 Homem de Ferro
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 Pantera Negra
 600
@@ -68,8 +61,8 @@ Wanda
 1200
 Homem Formiga
 300
-========
+#OUTPUT
 Team Iron Wins
 Wanda
-<<<<<<<<
+#END
 ```

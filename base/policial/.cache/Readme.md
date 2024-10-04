@@ -1,12 +1,5 @@
 # L2 - Batida @policial
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/policial/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup policial`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/policial/cover.jpg)
 
 ## Motivação
@@ -42,18 +35,18 @@ Também é muito importante que você aprenda como sua linguagem pode fazer a or
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 4
 8 3 7 4
-========
+#OUTPUT
 3 4 7 8
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5  
 1 8 3 7 4
-========
+#OUTPUT
 1 3 4 7 8
-<<<<<<<<
+#END
 ```

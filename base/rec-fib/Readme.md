@@ -1,13 +1,6 @@
 # L2 - @rec-fib - Números de Fibonacci
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/rec-fib/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup rec-fib`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/rec-fib/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -45,28 +38,28 @@ int main(){
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 1
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 2
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 3
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 4
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 ```

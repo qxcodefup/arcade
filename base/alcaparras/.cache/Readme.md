@@ -1,12 +1,5 @@
 # L1 - Marileuza e as @alcaparras - Contar Ocorrências
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/alcaparras/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup alcaparras`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/alcaparras/cover.jpg)
 
 ## Motivação
@@ -29,32 +22,32 @@ Faça o código que conta quantas vezes um caractere aparece numa frase. Faça d
 
 ## Exemplos
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 A Andreia alimentou a avestruz com alcaparras
 a
-========
+#OUTPUT
 8
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 A Andreia alimentou a avestruz com alcaparras
 A
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 A Andreia atirou alcachofras no leao
 e
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 A Andreia atirou alcachofras no leao
 x
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 ```

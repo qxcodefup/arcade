@@ -1,12 +1,5 @@
 # L2 - Cabo de Guerra @jedi
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/jedi/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup jedi`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/jedi/cover.jpg)
 
 ## Motivação
@@ -33,42 +26,42 @@ Você recebe uma entrada que é um vetor de tamanho T de numeros positivos entre
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 2
 1
 1
-========
+#OUTPUT
 Empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 2
 1
-========
+#OUTPUT
 Jedi
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 2
 4
-========
+#OUTPUT
 Sith
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 2
 4
 5
 3
-========
+#OUTPUT
 Sith
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 2
 4
@@ -76,11 +69,11 @@ Sith
 3
 3
 3
-========
+#OUTPUT
 Empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 8
 2
 4
@@ -90,7 +83,7 @@ Empate
 3
 3
 2
-========
+#OUTPUT
 Jedi
-<<<<<<<<
+#END
 ```

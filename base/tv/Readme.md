@@ -1,13 +1,6 @@
 # L2 - Comprando @tv parcelada
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/tv/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup tv`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/tv/cover.jpg)
+![_](cover.jpg)
 
 Aluízio quer comprar uma televisão parcelada. Ele tem X reais por mês disponíveis para pagar a televisão. No parcelamento, quanto mais parcelas, maior o juros que usa a seguinte regra.
 
@@ -24,54 +17,54 @@ Aluízio quer comprar uma televisão parcelada. Ele tem X reais por mês dispon�
 
 Dado o valor da televisão e a quantidade de parcelas, um por linha, calcule o valor da parcela e o valor total que Aluízio vai pagar. Imprima a saída conforme o exemplo a seguir.
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 100
 1
-========
+#OUTPUT
 100.00
 100.00
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 2
-========
+#OUTPUT
 52.50
 105.00
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 10
-========
+#OUTPUT
 14.50
 145.00
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 102
 3
-========
+#OUTPUT
 37.40
 112.20
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 52
 4
-========
+#OUTPUT
 14.95
 59.80
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 5
-========
+#OUTPUT
 24.00
 120.00
-<<<<<<<<
+#END
 
 ```
 

@@ -1,90 +1,90 @@
->>>>>>>>
+#INPUT
 8
-========
+#OUTPUT
 2 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 9
-========
+#OUTPUT
 3 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
-========
+#OUTPUT
 2 1
 5 1
-<<<<<<<<
+#END
 
->>>>>>>> Teste 0
+#INPUT Teste 0
 7
-========
+#OUTPUT
 7 1
-<<<<<<<<
+#END
 
->>>>>>>> Teste 1
+#INPUT Teste 1
 49
-========
+#OUTPUT
 7 2
-<<<<<<<<
+#END
 
->>>>>>>> Teste 2
+#INPUT Teste 2
 28
-========
+#OUTPUT
 2 2
 7 1
-<<<<<<<<
+#END
 
->>>>>>>> Teste 3
+#INPUT Teste 3
 16
-========
+#OUTPUT
 2 4
-<<<<<<<<
+#END
 
->>>>>>>> Teste 4
+#INPUT Teste 4
 40
-========
+#OUTPUT
 2 3
 5 1
-<<<<<<<<
+#END
 
->>>>>>>> Teste 5
+#INPUT Teste 5
 43
-========
+#OUTPUT
 43 1
-<<<<<<<<
+#END
 
->>>>>>>> Teste 6
+#INPUT Teste 6
 64
-========
+#OUTPUT
 2 6
-<<<<<<<<
+#END
 
->>>>>>>> Teste 7
+#INPUT Teste 7
 21
-========
+#OUTPUT
 3 1
 7 1
-<<<<<<<<
+#END
 
->>>>>>>> Teste 8
+#INPUT Teste 8
 20
-========
+#OUTPUT
 2 2
 5 1
-<<<<<<<<
+#END
 
->>>>>>>> Teste 9
+#INPUT Teste 9
 89
-========
+#OUTPUT
 89 1
-<<<<<<<<
+#END
 
->>>>>>>> Teste 10
+#INPUT Teste 10
 78
-========
+#OUTPUT
 2 1
 3 1
 13 1
-<<<<<<<<
+#END

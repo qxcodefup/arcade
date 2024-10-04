@@ -1,13 +1,6 @@
 # L3 - @identificando tipos
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/identificando/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup identificando`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/identificando/cover.jpg)
+![_](cover.jpg)
 
 ## Ação
 
@@ -32,42 +25,42 @@ Regras:
 
 ## Exemplos  
 
-``` txt
->>>>>>>> 01
+``` py
+#INPUT 01
 tenho 15 4nos 1.75 altur4 -15 conto p0rr4 -4.04
-========
+#OUTPUT
 str int str float str int str str float
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 a proxima eleição presidencial no Brasil ocorrerá em 2 de outubro de 2018
-========
+#OUTPUT
 str str str str str str str str int str str str int
-<<<<<<<<
+#END
 ```
 
 <!--
->>>>>>>> 03
+#INPUT 03
 aa 1 -2.0
-========
+#OUTPUT
 str int float
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 02a -x1 -4.b54 p0
-========
+#OUTPUT
 str str str str
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 -pato -40 -5.4
-========
+#OUTPUT
 str int float
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 02 -1 -4.54 p0
-========
+#OUTPUT
 int int float str
-<<<<<<<<
+#END
 -->

@@ -1,13 +1,6 @@
 # L3 - Prof @muquirana - Busca máximo por critério
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/muquirana/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup muquirana`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/muquirana/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -39,25 +32,25 @@ Faça um programa para imprimir o id do aluno com a maior nota.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 2
 034444 024444
-========
+#OUTPUT
 03
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 014444 024444
-========
+#OUTPUT
 02
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 028888 047989 059999 072213 199989 019999
-========
+#OUTPUT
 05
-<<<<<<<<
+#END
 ```

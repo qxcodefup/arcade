@@ -1,15 +1,8 @@
 # L3 - @eh-permutacao
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/eh-permutacao/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup eh-permutacao`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 Verifique se um número é permutacao de outro
 
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/eh-permutacao/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -39,24 +32,24 @@ Dados 2 Inteiros, retornar se ambos são permutação entre si.
 
 ## Testes
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 123 321
-========
+#OUTPUT
 True
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 544 45
-========
+#OUTPUT
 False
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 12354 45312
-========
+#OUTPUT
 True
-<<<<<<<<
+#END
 ```
 
 @spinosa

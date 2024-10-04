@@ -26,79 +26,79 @@ Pensando nisso, ela resolveu anotar qual dindin foi vindido e o turno da venda p
 
 ```txt
 
->>>>>>>>
+#INPUT
 1
 c m
-========
+#OUTPUT
 c
 t
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 c m
 l t
-========
+#OUTPUT
 empate
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 c m
 c t
-========
+#OUTPUT
 c
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 l m
 l t
-========
+#OUTPUT
 l
 empate
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 c t
 l t
-========
+#OUTPUT
 empate
 m
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 c m
 l m
-========
+#OUTPUT
 empate
 t
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 c m
 c t
 l m
-========
+#OUTPUT
 c
 t
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 c m
 c t
 l m
 l m
 l m
-========
+#OUTPUT
 l
 t
-<<<<<<<<
+#END
 
 ```

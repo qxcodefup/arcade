@@ -1,12 +1,5 @@
 # L2 - Lendo @linha de inteiros
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/linha/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup linha`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/linha/cover.jpg)
 
 [Explicação](https://youtu.be/r44oGh6gVU0)
@@ -35,30 +28,30 @@ Agora tente adaptar esse código para carregar vários inteiros em um vetor e de
 - Saída:
   - O vetor impresso ao contrário.
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 19 12 32 11 17 15
-========
+#OUTPUT
 [ 15 17 11 32 12 19 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 15
-========
+#OUTPUT
 [ 15 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 15 12
-========
+#OUTPUT
 [ 12 15 ]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 15 17 11
-========
+#OUTPUT
 [ 11 17 15 ]
-<<<<<<<<
+#END
 
 ```
 

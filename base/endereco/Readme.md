@@ -1,13 +1,6 @@
 # L2 - Função que retorna vários valores por @endereco
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/endereco/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup endereco`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/endereco/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -51,22 +44,22 @@ Você deverá:
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 7384
-========
+#OUTPUT
 2:3:4
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3601
-========
+#OUTPUT
 1:0:1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 60
-========
+#OUTPUT
 0:1:0
-<<<<<<<<
+#END
 ```

@@ -1,13 +1,6 @@
 # L2 - @spok palíndromo
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/spok/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup spok`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/spok/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -35,16 +28,16 @@ Por exemplo: 121 é palíndromo pois seu inverso é 121.
 
 ## Exemplo
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 121
-========  
+#OUTPUT  
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 123
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 ```

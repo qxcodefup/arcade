@@ -1,12 +1,5 @@
 # L1 - @zigzag - Viunei e a saúde mental
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/zigzag/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup zigzag`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 Viunei chegou num grupo de alunos que estavam rolando seus feeds do Insta e disse de forma muito polida.
 
 \- Vocês precisam cuidar da saúde mental de vocês pessoal, ficar só aí rolando o feed vai deixar todos vocês com cérebro de pipoca. Toda competência cognitiva que não é utilizada regride.
@@ -32,10 +25,10 @@ Existem muitas variações de jogos de atenção para jogar em grupo. Um famoso 
 ## Testes
 
 ```txt
->>>>>>>>
+#INPUT
 1
 16
-========
+#OUTPUT
 1
 2
 zig
@@ -52,12 +45,12 @@ zig
 14
 zigzag
 16
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 25
 35
-========
+#OUTPUT
 zag
 26
 zig
@@ -69,6 +62,6 @@ zigzag
 zig
 34
 zag
-<<<<<<<<
+#END
 
 ```

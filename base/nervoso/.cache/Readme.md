@@ -1,12 +1,5 @@
 # L3 - Chefe @nervoso - OBI 2021
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/nervoso/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup nervoso`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/nervoso/cover.jpg)
 
 [](solver.py)
@@ -39,18 +32,18 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 4
 3
 0
 4
 0
-========
+#OUTPUT
 0
-<<<<<<<<<
+#END<
 
->>>>>>>>
+#INPUT
 10
 1
 3
@@ -62,8 +55,8 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 0
 0
 6
-========
+#OUTPUT
 7
-<<<<<<<<
+#END
 
 ```

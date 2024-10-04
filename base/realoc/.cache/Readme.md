@@ -1,12 +1,5 @@
 # L2 - @realoc - Vetor de strings com variados tamanhos
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/realoc/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup realoc`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/realoc/cover.jpg)
 
 ## Ação
@@ -26,8 +19,8 @@ seguido de um espaço e a string.
   
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 6
 12 Gilberto Gil
 14 Maria Betânia
@@ -35,14 +28,14 @@ seguido de um espaço e a string.
 14 Caetano Veloso
 6 Djavan
 12 Marisa Monte
-========
+#OUTPUT
 Caetano Veloso
 Djavan
 Gilberto Gil
 Maria Betânia
 Marisa Monte
 Osvaldo Montenegro
-<<<<<<<<
+#END
 ```
 
 ## Dicas

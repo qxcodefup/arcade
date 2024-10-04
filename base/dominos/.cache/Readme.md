@@ -1,12 +1,5 @@
 # L2 - Queda de @dominos
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/dominos/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup dominos`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/dominos/cover.jpg)
 
 ## Motivação
@@ -31,25 +24,25 @@ Leia um vetor de tamanho n (quantidade de dominós) , e diga se ele está ordena
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
 1 2 3 4 4
-========
+#OUTPUT
 ok
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 2 4 2 6 8 10
-========
+#OUTPUT
 precisa de ajuste
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 2
-========
+#OUTPUT
 ok
-<<<<<<<<
+#END
 ```

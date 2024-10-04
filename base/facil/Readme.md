@@ -1,13 +1,6 @@
 # L2 - Trilhas @facil - OBI 2005
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/facil/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup facil`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/facil/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -49,8 +42,8 @@ Dado uma trilha, você deve calcular o menor esforço para percorrê-la.
 
 ## Exemplos
 
-``` txt
->>>>>>>> 00
+``` py
+#INPUT 00
 6
 300
 305
@@ -58,7 +51,7 @@ Dado uma trilha, você deve calcular o menor esforço para percorrê-la.
 299
 290
 295
-========
+#OUTPUT
 10
-<<<<<<<<
+#END
 ```

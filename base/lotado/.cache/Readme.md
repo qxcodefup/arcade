@@ -1,12 +1,5 @@
 # L2 - @lotado - Ônibus dos alunos
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/lotado/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup lotado`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/lotado/cover.jpg)
 
 ## Motivação
@@ -46,34 +39,34 @@ Você pode assumir:
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
 0
 3
 2
 4
 1
-========
+#OUTPUT
 vazio
 ainda cabe
 lotado
 lotado
 hora de partir
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 10
 10
 -10
 30
-========
+#OUTPUT
 lotado
 vazio
 hora de partir
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 1
 1
@@ -81,12 +74,12 @@ hora de partir
 -3
 3
 3
-========
+#OUTPUT
 ainda cabe
 ainda cabe
 lotado
 vazio
 lotado
 hora de partir
-<<<<<<<<
+#END
 ```

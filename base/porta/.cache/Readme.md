@@ -1,12 +1,5 @@
 # L4 - A @porta Matemática
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/porta/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup porta`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/porta/cover.jpg)
 
 ## Motivação
@@ -37,25 +30,25 @@ Faça um programa que dado um conjunto de portas retorne a porta matemática.
 
 ### Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 6
 1 2 4 7 8 5
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 49 81
-========
+#OUTPUT
 49
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 2
 5 6
-========
+#OUTPUT
 a porta nao existe
-<<<<<<<<
+#END
 ```

@@ -1,12 +1,5 @@
 # L1 - @swap - Troca de valores de variáveis
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/swap/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup swap`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/swap/cover.jpg)
 
 ## Ação
@@ -32,24 +25,24 @@ Você deverá:
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1 2
-========
+#OUTPUT
 2 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 -1 3
-========
+#OUTPUT
 3 -1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 0 0
-========
+#OUTPUT
 0 0
-<<<<<<<<
+#END
 ```
 
 

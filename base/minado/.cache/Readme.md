@@ -1,12 +1,5 @@
 # L3 - Campo @minado
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/minado/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup minado`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minado/cover.jpg)
 
 ## Motivação
@@ -28,7 +21,7 @@ Dada uma matriz com a posição de cada mina, seu o programa deve preencher o re
 
 ![1](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minado/q.jpg)
 
-``` txt
+``` py
 *-*
 ---
 ---
@@ -38,7 +31,7 @@ Esse é um campo 3x3 que tem duas minas (simbolizadas por \*). Devemos preencher
 
 ![todos](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minado/q2.png)  
 
-``` txt
+``` py
 *2*
 121
 ---
@@ -64,46 +57,46 @@ Considere ( 1 <=  **n, m**<= 50).
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3 3
 ***
 --*
 --*
-========
+#OUTPUT
 ***
 25*
 -2*
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 3
 ---
 -*-
 ---
-========
+#OUTPUT
 111
 1*1
 111
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3 5
 *----
 ----*
 ---**
-========
+#OUTPUT
 *1-11
 1113*
 --1**
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1 1
 *
-========
+#OUTPUT
 *
-<<<<<<<<
+#END
 ```
 
 ## Mais exemplos

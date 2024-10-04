@@ -1,13 +1,6 @@
 # L0 - @maximo entre dois números
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/maximo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup maximo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![Imagem eh Positivo](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/maximo/cover.jpg)
+![Imagem eh Positivo](cover.jpg)
 
 ## Ação
 
@@ -24,66 +17,66 @@ Implemente um programa que recebe dois números inteiros e imprime o maior.
 ## Exemplos
 
 ```txt
->>>>>>>> 0
+#INPUT 0
 4
 9
-========
+#OUTPUT
 9
-<<<<<<<<
+#END
 
->>>>>>>> 1
+#INPUT 1
 56
 7
-========
+#OUTPUT
 56
-<<<<<<<<
+#END
 
->>>>>>>> 2
+#INPUT 2
 46
 -789
-========
+#OUTPUT
 46
-<<<<<<<<
+#END
 
->>>>>>>> 3
+#INPUT 3
 -45
 -125
-========
+#OUTPUT
 -45
-<<<<<<<<
+#END
 
->>>>>>>> 4
+#INPUT 4
 -458
 -12
-========
+#OUTPUT
 -12
-<<<<<<<<
+#END
 
->>>>>>>> 5
+#INPUT 5
 458
 12
-========
+#OUTPUT
 458
-<<<<<<<<
+#END
 
->>>>>>>> 6
+#INPUT 6
 458
 458
-========
+#OUTPUT
 458
-<<<<<<<<
+#END
 
->>>>>>>> 7
+#INPUT 7
 0
 0
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>> 8
+#INPUT 8
 -458
 -458
-========
+#OUTPUT
 -458
-<<<<<<<<
+#END
 ```

@@ -1,29 +1,29 @@
->>>>>>>>
+#INPUT
 apesar de 2 jogadores serem expulsos, a seleção brasileira venceu a seleção italiana por 5 x 1
-========
+#OUTPUT
 8
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 meus 3 cachorros comeram 2 ratos em 11 horas
-========
+#OUTPUT
 16
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 os 2 irmãos de maria durmiram os ultimos 2 dias na casa de seus avós
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 02 x dhgh 111 b 2 c d xf 31
-========
+#OUTPUT
 146
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 1 a x dhgh 11 b 2 c d xf 3
-========
+#OUTPUT
 17
-<<<<<<<<
+#END

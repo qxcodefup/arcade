@@ -1,71 +1,71 @@
->>>>>>>> conta exata
+#INPUT conta exata
 3
 1
 1
 1
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>> sobrando duas
+#INPUT sobrando duas
 10
 4
 4
 4
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>> sobrando uma
+#INPUT sobrando uma
 2
 4
 2
 3
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 4
 1
 2
 0
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>> 05
+#INPUT 05
 20
 80
 20
 30
-========
+#OUTPUT
 7
-<<<<<<<<
+#END
 
->>>>>>>> 06
+#INPUT 06
 100
 5
 66
 27
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>> 07
+#INPUT 07
 7
 20
 13
 16
-========
+#OUTPUT
 7
-<<<<<<<<
+#END
 
->>>>>>>> 08
+#INPUT 08
 2
 15
 13
 19
-========
+#OUTPUT
 24
-<<<<<<<<
+#END

@@ -1,13 +1,6 @@
 # L2 - @teleferico - OBI 2017 - Fase 1
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/teleferico/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup teleferico`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/teleferico/cover.jpg)
+![_](cover.jpg)
 
 ## Motivação
 
@@ -33,47 +26,47 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
 4
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 8
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 9
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 
 
->>>>>>>> 01
+#INPUT 01
 10
 20
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 12
 55
-========
+#OUTPUT
 5
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 100
 87
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 ```

@@ -1,27 +1,27 @@
->>>>>>>>
+#INPUT
 fundamentos de programacao
 a
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 
->>>>>>>> 02
+#INPUT 02
 o rato roeu a roupa do rei de roma
 a
-========
+#OUTPUT
 4
-<<<<<<<<
+#END
 
->>>>>>>> 03
+#INPUT 03
 o rato roeu a roupa do rei de roma
 x
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>> 04
+#INPUT 04
 o rato roeu a roupa do rei de roma
 o
-========
+#OUTPUT
 6
-<<<<<<<<
+#END

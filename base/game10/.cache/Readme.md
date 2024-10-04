@@ -1,12 +1,5 @@
 # L2 - @game10 - OBI 2017 - Fase 1 - Universitário
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/game10/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup game10`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/game10/cover.jpg)
 
 ## Motivação
@@ -36,28 +29,28 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 3
 2
 1
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 20
 8
 13
-========
+#OUTPUT
 15
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 2
 2
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 ```

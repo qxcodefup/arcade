@@ -29,36 +29,36 @@ def imprime_vetor(vet: List[int]) -> None:
 ## Testes
 
 ```txt
->>>>>>>>
+#INPUT
 3
 1 2 3
-========
+#OUTPUT
 [1, 2, 3]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 0
-========
+#OUTPUT
 []
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 6
-========
+#OUTPUT
 [6]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 5
 1 2 3 4 5
-========
+#OUTPUT
 [1, 2, 3, 4, 5]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 4
 4 2 3 1
-========
+#OUTPUT
 [4, 2, 3, 1]
 ```

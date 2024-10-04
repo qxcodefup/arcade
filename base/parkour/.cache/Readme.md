@@ -1,12 +1,5 @@
 # L3 - @parkour
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/parkour/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup parkour`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/parkour/cover.jpg)
 
 ## Motivação
@@ -30,7 +23,7 @@ Um cenário é um vetor de números positivos onde o vetor representa a altura d
 
 O vetor 1, 1, 3, 3, 4, 6, 4, 2, 2, 1 seria como o seguinte cenário:
 
-``` txt
+``` py
 _____#____
 _____#____
 ____###___
@@ -57,32 +50,32 @@ Receba um vetor de inteiros e conte quantas vezes dois números consecutivos pos
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 5
 1 2 1 2 3
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 6
 4 2 5 4 5 3
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 8
 1 3 5 7 6 5 4 3
-========
+#OUTPUT
 3
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 14
 4 2 5 3 6 4 3 4 3 2 3 2 3 5
-========
+#OUTPUT
 6
-<<<<<<<<
+#END
 ```

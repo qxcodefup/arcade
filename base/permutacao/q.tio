@@ -1,76 +1,76 @@
->>>>>>>> Teste 0
+#INPUT Teste 0
 123
 5
-========
+#OUTPUT
 321
-<<<<<<<<
+#END
 
->>>>>>>> Teste 1
+#INPUT Teste 1
 3215
 1
-========
+#OUTPUT
 3251
-<<<<<<<<
+#END
 
->>>>>>>> Teste 2
+#INPUT Teste 2
 4567
 6
-========
+#OUTPUT
 5467
-<<<<<<<<
+#END
 
->>>>>>>> Teste 3
+#INPUT Teste 3
 123456
 8
-========
+#OUTPUT
 124536
-<<<<<<<<
+#END
 
->>>>>>>> Teste 4
+#INPUT Teste 4
 7651
 2
-========
+#OUTPUT
 7651
-<<<<<<<<
+#END
 
->>>>>>>> Teste 5
+#INPUT Teste 5
 15578
 3
-========
+#OUTPUT
 15785
-<<<<<<<<
+#END
 
->>>>>>>> Teste 6
+#INPUT Teste 6
 321
 8
-========
+#OUTPUT
 321
-<<<<<<<<
+#END
 
->>>>>>>> Teste 7
+#INPUT Teste 7
 12345678
 8
-========
+#OUTPUT
 12346758
-<<<<<<<<
+#END
 
->>>>>>>> Teste 8
+#INPUT Teste 8
 0123456789
 10
-========
+#OUTPUT
 0123457968
-<<<<<<<<
+#END
 
->>>>>>>> Teste 9
+#INPUT Teste 9
 9081726354
 5
-========
+#OUTPUT
 9081732456
-<<<<<<<<
+#END
 
->>>>>>>> Teste 10
+#INPUT Teste 10
 6677
 2
-========
+#OUTPUT
 6776
-<<<<<<<<
+#END

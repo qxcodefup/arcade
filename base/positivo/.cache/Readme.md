@@ -1,54 +1,54 @@
 # L0 - @positivo - sim ou não
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/positivo/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup positivo`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
+[Motiv](#motivação) | [Shell](#shell)
+-- | -- 
 
----
+![Maior que Zero](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/positivo/cover.jpg)
 
-## Ação
+### Ação
 
-Implemente um programa que recebe um número inteiro e imprima SIM se ele é maior ou igual a 0.
+Em muitas aplicações, precisamos verificar se um número é positivo ou não para tomar decisões. Por exemplo, ao validar se uma quantidade ou saldo está em condições aceitáveis.
+
+Implemente um programa que recebe um número inteiro e imprime "SIM" se o número for maior ou igual a zero. Caso contrário, o programa apenas imprimirá uma linha vazia.
 
 ### Entrada
 
-- Um inteiro
+- Um número inteiro.
 
 ### Saída
 
 - "SIM" se o número for maior ou igual a zero, caso contrário, apenas uma quebra de linha.
 
-## Exemplos
+### Shell
 
 ```txt
->>>>>>>> 0
+#INPUT 0
 3
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>> 1
+#INPUT 1
 -12
-========
+#OUTPUT
 
-<<<<<<<<
+#END
 
->>>>>>>> 2
+#INPUT 2
 -3
-========
+#OUTPUT
 
-<<<<<<<<
+#END
 
->>>>>>>> 3
+#INPUT 3
 1
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 
->>>>>>>> 4
+#INPUT 4
 0
-========
+#OUTPUT
 SIM
-<<<<<<<<
+#END
 ```

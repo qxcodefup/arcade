@@ -1,12 +1,5 @@
 # L3 - Francês é @fresco - Juntar palavras
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/fresco/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup fresco`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fresco/cover.jpg)
 
 ## Motivação
@@ -33,28 +26,28 @@ o gago disse e e e eu te amo -> o gago disseu te amo
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 a porta amassou
-========
+#OUTPUT
 a portamassou
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 carla almeida alencar
-========
+#OUTPUT
 carlalmeidalencar
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 a carla a ama
-========
+#OUTPUT
 a carlama
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 o orvalho ouviu uniformemente e eu uivei
-========
+#OUTPUT
 orvalhouviuniformementeuivei
-<<<<<<<<
+#END
 ```

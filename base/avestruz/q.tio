@@ -1,27 +1,27 @@
->>>>>>>>
+#INPUT
 A Andreia alimentou a avestruz com alcaparras
 a
-========
+#OUTPUT
 10
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 A Andreia atirou alcachofras no LEAO
 e
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 A Andreia atirou alcachofras no leao
 x
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>> 04 !%
+#INPUT 04 !%
 A Xuxa xogou xapatos no xacare Xato e xujo
 x
-========
+#OUTPUT
 7
-<<<<<<<<
+#END

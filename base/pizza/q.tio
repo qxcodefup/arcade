@@ -1,13 +1,13 @@
->>>>>>>>
+#INPUT
 3
 fornoalenha 108
 burguery 145
 qsabor 49
-========
+#OUTPUT
 burguery
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 soghqhpbezpqthabaday  39
 xbmcvrsidguczunngrw  80
@@ -109,11 +109,11 @@ epcnxlxikmcgesevrqk  41
 dkudbssgjtquykkjyslo  79
 wcppdyrxyavwybibyax  60
 tvrkdskzhpelyqyjqeg  69
-========
+#OUTPUT
 dtzfqzqorwrpfgguxdi
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 100
 guxmiqcaaxxuugssbrtt  80
 idcvqbhtypjpaqkhwvhm  70
@@ -215,15 +215,15 @@ rbaqfrbmbdgaoxcvmmdt  16
 lwoxlgsdktcswapyxmau  40
 awrygqfgnzpxttrbpelp  37
 rvgtwisjaxqxeucistkn  60
-========
+#OUTPUT
 lxkfypleytiristhylz
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 ac 100
 ab 100
 aa 100
-========
+#OUTPUT
 aa
-<<<<<<<<
+#END

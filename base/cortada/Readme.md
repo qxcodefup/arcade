@@ -27,26 +27,26 @@ O corte reto vai começar na base a uma distância de B centímetros a partir do
 
 ## Testes
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 50
 86
-========
+#OUTPUT
 2
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 70
 90
-========
+#OUTPUT
 0
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 130
 138
-========
+#OUTPUT
 1
-<<<<<<<<
+#END
 
 ```

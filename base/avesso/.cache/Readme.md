@@ -1,12 +1,5 @@
 # L2 - Jogo do @avesso
 
-- Veja a versão online: [aqui.](https://github.com/qxcodefup/arcade/blob/master/base/avesso/Readme.md)
-- Para programar na sua máquina (local/virtual) use:
-  - `tko down fup avesso`
-- Se não tem o `tko`, instale pelo [LINK](https://github.com/senapk/tko#tko).
-
----
-
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/avesso/cover.jpg)
 
 ## Motivação
@@ -56,32 +49,32 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 
 ## Exemplos
 
-``` txt
->>>>>>>>
+``` py
+#INPUT
 1
 2 3
 3 1
-========
+#OUTPUT
 [3 -1]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 2 3
 2 1
-========
+#OUTPUT
 [2 1]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 1
 2 1
 4 1
-========
+#OUTPUT
 [-4 1]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 3 1
 4 1 5
@@ -89,13 +82,13 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 4 1 5
 3 4
 4 1 5
-========
+#OUTPUT
 [-4 1 -5]
 [4 -1 5]
 [4 -1 5]
-<<<<<<<<
+#END
 
->>>>>>>>
+#INPUT
 3
 7 0
 3 4 8 9 1 5 6
@@ -103,9 +96,9 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 3 4 8 9 1 5 6
 7 9
 3 4 -8 9 1 5 6
-========
+#OUTPUT
 [3 4 8 9 1 5 6]
 [-3 4 -8 9 1 5 6]
 [3 4 8 9 -1 5 6]
-<<<<<<<<
+#END
 ```
