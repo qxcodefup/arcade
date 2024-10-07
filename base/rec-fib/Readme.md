@@ -1,4 +1,4 @@
-# L2 - @rec-fib - Números de Fibonacci
+# @rec-fib - Números de Fibonacci
 
 ![_](cover.jpg)
 
@@ -39,33 +39,33 @@ int main(){
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 1
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 2
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 3
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 4
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```

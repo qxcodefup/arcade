@@ -1,4 +1,4 @@
-# L2 - @cartas - Transformando números em letras
+# @cartas - Transformando números em letras
 
 ## Imprimir vetor formatado
 
@@ -22,45 +22,45 @@ As cartas estão codificadas da seguinte forma. O 1 vale A, os valores 11, 12 e 
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 0
-#OUTPUT
+======== EXPECT
 []
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 13
 1 2 3 4 5 6 7 8 9 10 11 12 13
-#OUTPUT
+======== EXPECT
 [A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 1 1 3 13
-#OUTPUT
+======== EXPECT
 [A, A, 3, K]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 1 12 13 1 1 10
-#OUTPUT
+======== EXPECT
 [A, Q, K, A, A, 10]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 10 10 2 2 11 1
-#OUTPUT
+======== EXPECT
 [10, 10, 2, 2, J, A]
-#END
+<<<<<<<< FINISH
 ```

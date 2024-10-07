@@ -1,4 +1,4 @@
-# L3 - Torres de @hanoi
+# @hanoi - Torres
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/hanoi/cover.jpg)
 
@@ -52,9 +52,9 @@ Este problema parece difÃ­cil de resolver para o caso geral com _n_ discos. PorÃ
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3
-#OUTPUT
+======== EXPECT
 A -> C
 A -> B
 C -> B
@@ -62,5 +62,5 @@ A -> C
 B -> A
 B -> C
 A -> C
-#END
+<<<<<<<< FINISH
 ```

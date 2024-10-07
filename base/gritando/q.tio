@@ -1,21 +1,21 @@
-#INPUT
+>>>>>>>> INSERT
 O ovomaltine e GOSTOSO
-#OUTPUT
+======== EXPECT
 o OVOMALTINE E gostoso
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Paralelepipedarte-ei se NAO me passar a CARTEIRA
-#OUTPUT
+======== EXPECT
 pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1, Dois, 3 Indiozinhos
-#OUTPUT
+======== EXPECT
 1, dOIS, 3 iNDIOZINHOS
-#END
+<<<<<<<< FINISH

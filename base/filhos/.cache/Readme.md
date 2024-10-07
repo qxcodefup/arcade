@@ -1,4 +1,4 @@
-# L0 - @filhos - Filhos de Seu David
+# @filhos - Filhos de Seu David
 
 Seu David, hoje com 79 anos, no interior dos cafundós de Quixadá, conta que teve muitos filhos. Para não ter dificuldade para decorar a idade das crianças, ele fazia os meninos de forma que de um pra outro sempre ficava dois anos de idade de diferença.
 
@@ -15,38 +15,38 @@ Leia a idade do filho mais novo de seu David e a quantidade de filhos que ele te
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 3
-#OUTPUT
+======== EXPECT
 2
 4
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 6
-#OUTPUT
+======== EXPECT
 1
 3
 5
 7
 9
 11
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 4
-#OUTPUT
+======== EXPECT
 10
 12
 14
 16
-#END
+<<<<<<<< FINISH
 ```

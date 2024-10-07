@@ -1,29 +1,29 @@
-#INPUT
+>>>>>>>> INSERT
 a  almofada ta muito  fofa
-#OUTPUT
+======== EXPECT
 a almofada ta muito fofa
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 ai  bb cx
-#OUTPUT
+======== EXPECT
 ai bb cx
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 aiu  bbk cxmp
-#OUTPUT
+======== EXPECT
 aiu bbk cxmp
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 a  bola  ta furada
-#OUTPUT
+======== EXPECT
 a bola ta furada
-#END
+<<<<<<<< FINISH

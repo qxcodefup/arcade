@@ -1,96 +1,96 @@
-#INPUT
+>>>>>>>> INSERT
 2
 4 2
-#OUTPUT
+======== EXPECT
 [ ]
 [ 4 2 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 2 6 4 1
-#OUTPUT
+======== EXPECT
 [ 1 ]
 [ 2 6 4 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 1 2 5 3 4 9
-#OUTPUT
+======== EXPECT
 [ 1 5 3 9 ]
 [ 2 4 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04 vazio 10%
+>>>>>>>> INSERT 04 vazio 10%
 0
-#OUTPUT
+======== EXPECT
 [ ]
 [ ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05 um_par 20%
+>>>>>>>> INSERT 05 um_par 20%
 1
 4
-#OUTPUT
+======== EXPECT
 [ ]
 [ 4 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06 um_impar
+>>>>>>>> INSERT 06 um_impar
 1
 5
-#OUTPUT
+======== EXPECT
 [ 5 ]
 [ ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07 50%
+>>>>>>>> INSERT 07 50%
 2
 5 2
-#OUTPUT
+======== EXPECT
 [ 5 ]
 [ 2 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 4
 1 5 4 3
-#OUTPUT
+======== EXPECT
 [ 1 5 3 ]
 [ 4 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 09
+>>>>>>>> INSERT 09
 6
 9 6 4 8 1 2
-#OUTPUT
+======== EXPECT
 [ 9 1 ]
 [ 6 4 8 2 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 10 !%
+>>>>>>>> INSERT 10 !%
 7
 9 6 4 8 1 2 1
-#OUTPUT
+======== EXPECT
 [ 9 1 1 ]
 [ 6 4 8 2 ]
-#END
+<<<<<<<< FINISH

@@ -1,4 +1,4 @@
-# L1 - @dindin - Clenda adora chocolate
+# @dindin - Clenda adora chocolate
 
 Clenda adora um dindin de chocolate, mas acha horrível ter que pegar fila pra matar seu desejo de doce depois do almoço.
 
@@ -26,93 +26,93 @@ Pensando nisso, ela resolveu anotar qual dindin foi vindido e o turno da venda p
 
 ```py
 
-#INPUT
+>>>>>>>> INSERT
 1
 c m
-#OUTPUT
+======== EXPECT
 c
 t
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 c m
 l t
-#OUTPUT
+======== EXPECT
 empate
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 c m
 c t
-#OUTPUT
+======== EXPECT
 c
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 l m
 l t
-#OUTPUT
+======== EXPECT
 l
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 c t
 l t
-#OUTPUT
+======== EXPECT
 empate
 m
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 c m
 l m
-#OUTPUT
+======== EXPECT
 empate
 t
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 c m
 c t
 l m
-#OUTPUT
+======== EXPECT
 c
 t
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 c m
 c t
 l m
 l m
 l m
-#OUTPUT
+======== EXPECT
 l
 t
-#END
+<<<<<<<< FINISH
 
 ```

@@ -1,4 +1,4 @@
-# L2 - @zerinho ou Um
+# @zerinho ou Um
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/zerinho/cover.jpg)
 
@@ -23,41 +23,41 @@ Receba três valores correspondentes dos jogadores e em seguida imprima quem foi
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1
 1
 1
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
 0
 1
-#OUTPUT
+======== EXPECT
 jog3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 0
 0
-#OUTPUT
+======== EXPECT
 jog1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 0
 1
-#OUTPUT
+======== EXPECT
 jog2
-#END
+<<<<<<<< FINISH
 ```

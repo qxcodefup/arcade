@@ -1,4 +1,4 @@
-# L2 - Matriz @simetrica
+# @simetrica - Matrizes
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/simetrica/cover.jpg)
 
@@ -21,31 +21,31 @@ Faça uma função onde verifique se uma matriz 3x3 é simétrica ou não. Tenha
 ### Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1 4 7
 4 1 8
 7 8 1
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 3 3
 3 3 3
 3 3 3
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1 2 3
 4 5 6
 7 8 9
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH
 ```

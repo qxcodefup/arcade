@@ -1,113 +1,113 @@
-#INPUT
+>>>>>>>> INSERT
 3
 G L G
 C C C
 C G G
-#OUTPUT
+======== EXPECT
 Condenados a morte
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 G G C
 C C C
 G C C
-#OUTPUT
+======== EXPECT
 Condenados a morte
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 C C G
 C G C
 G C C
-#OUTPUT
+======== EXPECT
 Ninguem
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 3
 C G G
 C G C
 G C C
-#OUTPUT
+======== EXPECT
 Gladiadores
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 3
 C C G
 C L C
 G C C
-#OUTPUT
+======== EXPECT
 Ninguem
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 3
 C G G
 C L C
 G C C
-#OUTPUT
+======== EXPECT
 Gladiadores
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 4
 G L G G
 C C C C
 G C G C
 C G C C
-#OUTPUT
+======== EXPECT
 Condenados a morte
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 4
 G G G L
 C C G C
 C G C C
 G C C G
-#OUTPUT
+======== EXPECT
 Ninguem
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 09
+>>>>>>>> INSERT 09
 5
 G G G G L
 C C G C C
 C C G C C
 C C G G C
 C C C C C
-#OUTPUT
+======== EXPECT
 Condenados a morte
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 10
+>>>>>>>> INSERT 10
 5
 C C C C C
 L G G C G
 G G G G G
 C G C G C
 C G C C C
-#OUTPUT
+======== EXPECT
 Gladiadores
-#END
+<<<<<<<< FINISH

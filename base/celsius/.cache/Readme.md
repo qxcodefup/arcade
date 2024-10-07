@@ -1,7 +1,4 @@
-# L0 - @celsius - conversor para Fahrenheit
-
-[Ação](#ação) | [Shell](#shell) | [Dicas](#dicas)
--- | -- | --
+# @celsius - conversor para Fahrenheit
 
 ![Imagem Conversor Celsius para Fahrenheit](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/celsius/cover.jpg)
 
@@ -33,135 +30,142 @@ Fahrenheit. O valor fornecido será fracionário (double).
 ```py
 #INPUT 0
 43.000000
-#OUTPUT
-109.400000
-#END
+======== EXPECT
+>>>>>>>> INSERT0000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 1
 55.000000
-#OUTPUT
-131.000000
-#END
+======== EXPECT
+>>>>>>>> INSERT0000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 2
 99.000000
-#OUTPUT
-210.200000
-#END
+======== EXPECT
+>>>>>>>> INSERT0000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 3
 69.000000
-#OUTPUT
-156.200000
-#END
+======== EXPECT
+>>>>>>>> INSERT0000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 4
 64.000000
-#OUTPUT
-147.200000
-#END
+======== EXPECT
+>>>>>>>> INSERT0000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 5
 84.000000
-#OUTPUT
-183.200000
-#END
+======== EXPECT
+>>>>>>>> INSERT0000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 6
 95.000000
-#OUTPUT
-203.000000
-#END
+======== EXPECT
+>>>>>>>> INSERT0000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 7
 56.000000
-#OUTPUT
-132.800000
-#END
+======== EXPECT
+>>>>>>>> INSERT0000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 8
 36.000000
-#OUTPUT
-96.800000
-#END
+======== EXPECT
+>>>>>>>> INSERT000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 9
 13.000000
-#OUTPUT
-55.400000
-#END
+======== EXPECT
+>>>>>>>> INSERT000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 11
 31.000000
-#OUTPUT
-87.800000
-#END
+======== EXPECT
+>>>>>>>> INSERT000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 12
 18.000000
-#OUTPUT
-64.400000
-#END
+======== EXPECT
+>>>>>>>> INSERT000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 13
 98.000000
-#OUTPUT
-208.400000
-#END
+======== EXPECT
+>>>>>>>> INSERT0000
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 14
 63.000000
-#OUTPUT
-145.400000
-#END
+======== EXPECT
+>>>>>>>> INSERT0000
+<<<<<<<< FINISH
 ```
 
-### Dicas
+## Dicas
 
-- **C** - Para exibir um número de ponto flutuante do tipo `double`, recomendado por sua maior precisão, com seis casas decimais em C, utilize o especificador de formato `%.6f` na função `printf`. O número **6** após o ponto indica a quantidade de casas decimais a serem exibidas:
-``` c
+**C** - Para exibir um número de ponto flutuante do tipo `double`, recomendado por sua maior precisão, com seis casas decimais em C, utilize o especificador de formato `%.6f` na função `printf`. O número **6** após o ponto indica a quantidade de casas decimais a serem exibidas:
+
+```c
 int main() {
     double resultado;
     printf("%.6f\n", resultado);
 }
 ```
 
-- **Python** - Para exibir um número de ponto flutuante com seis casas decimais em Python, utilize o formato `:.6f` dentro da função `print`. O número **6** após o ponto indica o número de casas decimais que serão exibidas:
+**Python** - Para exibir um número de ponto flutuante com seis casas decimais em Python, utilize o formato `:.6f` dentro da função `print`. O número **6** após o ponto indica o número de casas decimais que serão exibidas:
+
 ``` python
 print(f"{resultado:.6f}")
-- ou -
+```
+
+```py
 print("{:.6f}".format(resultado))
 ```
 
-- **TypeScript** - Para exibir um número com seis casas decimais em TypeScript, utilize o método `toFixed(6)` do objeto `Number`. O número **6** especifica a quantidade de casas decimais que serão exibidas após o ponto decimal:
-``` ts
+**TypeScript** - Para exibir um número com seis casas decimais em TypeScript, utilize o método `toFixed(6)` do objeto `Number`. O número **6** especifica a quantidade de casas decimais que serão exibidas após o ponto decimal:
+
+```ts
 console.log(resultado.toFixed(6)); 
-- ou -
+```
+
+```ts
 write(resultado.toFixed(6));
 ```

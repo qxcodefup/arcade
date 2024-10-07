@@ -1,52 +1,50 @@
-# L2 - @jokenpo das tartarugas
+# @jokenpo das tartarugas
 
 ![_](cover.jpg)
 
 ## Motivação
 
-Você está tentando ensinar sua tartaruga RUFUS a jogar jokenpo.
+Você está tentando ensinar sua tartaruga Rufus a jogar pedra, papel e tesoura. Quer proporcionar algo divertido para ela durante os longos banhos de sol no açude. Mas para isso, você precisará de um programa que retorne o resultado do jogo de "Jokenpô" para resolver as disputas de Rufus com seus amigos.
 
-Faça uma função que retorne o resultado do jogo pedra, papel e tesoura para que RUFUS tenha algo divertido para fazer durante os seus banhos de sol no açude do Cedro.
-
-## Ação
-
-Receba as duas opções do jogadores e informe quem ganhou a partida.
-Os jogadores podem escolher entre R(rock), P(paper) e S(scissor), que correspondem ao nosso pedra, papel e tesoura.
+Implemente um programa que receba as jogadas de dois jogadores e determine quem ganhou a partida de "pedra, papel e tesoura", ou se houve empate. As opções de jogada são: R (pedra), P (papel), e S (tesoura). Lembrado que pedra vence tesoura, tesoura vence papel, e papel vence pedra.
 
 ### Entrada
 
-* 1a linha: opção do jogador 1.
-* 2a linha: opção do jogador 2.
+- A entrada consiste em duas linhas, cada uma contendo um caractere representando a escolha de cada jogador:
+  - O primeiro caractere representa a escolha do Jogador 1.
+  - O segundo caractere representa a escolha do Jogador 2.
 
-## Saída
+### Saída
 
-* O jogador que ganhou ou empate (jog1, jog2, empate).
+- Imprima "jog1" se o primeiro jogador ganhar,
+- Imprima "jog2" se o segundo jogador ganhar,
+- Imprima "empate" se houver empate.
 
-### Exemplos
+## Testes
 
-``` py
+```py
 #INPUT 01
 R
-P
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 jog2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 02
 P
-P
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 03
 S
-P
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 jog1
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L2 - @revolta em Portugal
+# @revolta em Portugal
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/revolta/cover.jpg)
 
@@ -31,57 +31,57 @@ Verifique se o grupo de Manoel ou de Joaquim conseguirá vencer essa batalha. Da
 ### Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 2
 1
 2
-#OUTPUT
+======== EXPECT
 rebeldes
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 1
 2
 1
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 2
 3
-#OUTPUT
+======== EXPECT
 soldados
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 1
 2
 3
 1
-#OUTPUT
+======== EXPECT
 soldados
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 1
 2
 3
 1
 4
-#OUTPUT
+======== EXPECT
 rebeldes
-#END
+<<<<<<<< FINISH
 ```

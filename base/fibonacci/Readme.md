@@ -1,4 +1,4 @@
-# L3 - Somatório de @fibonacci
+# @fibonacci
 
 ![_](cover.jpg)
 
@@ -29,25 +29,25 @@ Pedrinho quer dado um limite predefinido, calcular a soma de todos os termos da 
 ## Exemplos
 
 ``` py
-#INPUT Teste 0
+>>>>>>>> INSERT Teste 0
 50
-#OUTPUT
+======== EXPECT
 44
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 1
+>>>>>>>> INSERT Teste 1
 100
-#OUTPUT
+======== EXPECT
 44
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 2
+>>>>>>>> INSERT Teste 2
 1000000
-#OUTPUT
+======== EXPECT
 1089154
-#END
+<<<<<<<< FINISH
 ```

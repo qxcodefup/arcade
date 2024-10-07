@@ -1,4 +1,4 @@
-# L2 - Batida @policial
+# @policial - Ordenação
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/policial/cover.jpg)
 
@@ -36,19 +36,19 @@ Também é muito importante que você aprenda como sua linguagem pode fazer a or
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 4
 8 3 7 4
-#OUTPUT
+======== EXPECT
 3 4 7 8
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5  
 1 8 3 7 4
-#OUTPUT
+======== EXPECT
 1 3 4 7 8
-#END
+<<<<<<<< FINISH
 ```

@@ -1,42 +1,42 @@
-#INPUT
+>>>>>>>> INSERT
 0 5 5 0
 2 2
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0 5 5 0
 2 7
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0 5 5 0
 -1 4
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0 5 5 0
 5 5
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0 5 5 0
 2 -1
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH

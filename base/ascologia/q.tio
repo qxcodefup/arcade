@@ -1,61 +1,61 @@
-#INPUT 01
+>>>>>>>> INSERT 01
 David
-#OUTPUT
+======== EXPECT
 38
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 Scya
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 Ana
-#OUTPUT
+======== EXPECT
 22
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 BruNa
-#OUTPUT
+======== EXPECT
 22
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 Marcos
-#OUTPUT
+======== EXPECT
 13
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 andre
-#OUTPUT
+======== EXPECT
 22
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 CumpadreWashington
-#OUTPUT
+======== EXPECT
 25
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Fernando
-#OUTPUT
+======== EXPECT
 13
-#END
+<<<<<<<< FINISH

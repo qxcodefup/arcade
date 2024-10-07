@@ -1,4 +1,4 @@
-# L2 - @mediana
+# @mediana
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/mediana/cover.jpg)
 
@@ -33,37 +33,37 @@ Assim, você deve ordenar o vetor antes de calcular a mediana.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 2
 2 4
-#OUTPUT
+======== EXPECT
 3.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 0 1 2
-#OUTPUT
+======== EXPECT
 1.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 0 9 3.2 1
-#OUTPUT
+======== EXPECT
 6.1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 0 2 9 8 5.1
-#OUTPUT
+======== EXPECT
 9.0
-#END
+<<<<<<<< FINISH
 ```

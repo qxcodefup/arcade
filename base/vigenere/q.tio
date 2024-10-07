@@ -1,47 +1,47 @@
-#INPUT
+>>>>>>>> INSERT
 batata? sim! frita!!
 abac
 +
-#OUTPUT
+======== EXPECT
 bbtctb? skm! grktb!!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 quando vi voce eu buguei
 princesa
 +
-#OUTPUT
+======== EXPECT
 fliafs ni kfkr gy tuvlmv
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 a data ua bbfrua
 ab
 -
-#OUTPUT
+======== EXPECT
 a casa ta aberta
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 o bobe!
 ab
 +
-#OUTPUT
+======== EXPECT
 o coce!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 o coce!
 ab
 -
-#OUTPUT
+======== EXPECT
 o bobe!
-#END
+<<<<<<<< FINISH

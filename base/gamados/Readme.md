@@ -1,4 +1,4 @@
-# L3 - Gansos @gamados - Verificar ordenação da frase
+# @gamados - Verificar ordenação da frase
 
 ![_](cover.jpg)
 
@@ -37,33 +37,33 @@ Dada uma frase, imprima "sim" se as palavras estiverem ordenadas e "nao" caso co
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 a amora azul
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 o rato roeu a roupa
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 a b c d e f
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 a b c d a f
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH
 ```

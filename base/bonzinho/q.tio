@@ -1,85 +1,85 @@
-#INPUT
+>>>>>>>> INSERT
 10
 10
 5
 10
-#OUTPUT
+======== EXPECT
 Aprovado com 10.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 2
 2
 6
-#OUTPUT
+======== EXPECT
 Final com 6.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 10
 10
 2
 10
-#OUTPUT
+======== EXPECT
 Aprovado com 10.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 10
 10
 10
 10
-#OUTPUT
+======== EXPECT
 Aprovado com 10.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 8
 8
 6.5
 8
-#OUTPUT
+======== EXPECT
 Aprovado com 8.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 6.5
 7.5
 5
 7.0
-#OUTPUT
+======== EXPECT
 Aprovado com 7.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 2
 10
 2
 6
-#OUTPUT
+======== EXPECT
 Final com 6.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 6.9
 6.9
 4
 6.9
-#OUTPUT
+======== EXPECT
 Final com 6.9
-#END
+<<<<<<<< FINISH

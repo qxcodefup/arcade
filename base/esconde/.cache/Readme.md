@@ -1,4 +1,4 @@
-# L0 - @esconde - Diana no esconde-esconde
+# @esconde - Diana no esconde-esconde
 
 Diana quando jogava esconde-esconde, achava terrível porque o Paulo Victor contava bem rápido até 10 e já saia correndo pra pegar o povo.
 
@@ -21,22 +21,22 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 
 ```py
 
-#INPUT
+>>>>>>>> INSERT
 5
-#OUTPUT
+======== EXPECT
 1
 3
 5
 4
 2
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 9
-#OUTPUT
+======== EXPECT
 1
 3
 5
@@ -47,13 +47,13 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 4
 2
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 13
-#OUTPUT
+======== EXPECT
 1
 3
 5
@@ -68,6 +68,6 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 4
 2
 0
-#END
+<<<<<<<< FINISH
 
 ```

@@ -1,4 +1,4 @@
-# L2 - @lotado - Ônibus dos alunos
+# @lotado - Ônibus dos alunos
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/lotado/cover.jpg)
 
@@ -40,37 +40,37 @@ Você pode assumir:
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5
 0
 3
 2
 4
 1
-#OUTPUT
+======== EXPECT
 vazio
 ainda cabe
 lotado
 lotado
 hora de partir
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 10
 -10
 30
-#OUTPUT
+======== EXPECT
 lotado
 vazio
 hora de partir
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 1
 1
@@ -78,12 +78,12 @@ hora de partir
 -3
 3
 3
-#OUTPUT
+======== EXPECT
 ainda cabe
 ainda cabe
 lotado
 vazio
 lotado
 hora de partir
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L3 - Jack Sparrow e @calipso - Alternar Case
+# @calipso e Jack Sparrow - Alternar Case
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/calipso/cover.jpg)
 
@@ -32,32 +32,32 @@ Dada uma frase, conforme o case da primeira letra, alterne o case de todas as le
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1
 a batata
-#OUTPUT
+======== EXPECT
 a BaTaTa
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 AAAAAAAA
 bBbBbBbB
-#OUTPUT
+======== EXPECT
 AaAaAaAa
 bBbBbBbB
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 Morra Prea
 BigODE Aparado
-#OUTPUT
+======== EXPECT
 MoRrA pReA
 BiGoDe ApArAdO
-#END
+<<<<<<<< FINISH
 ```

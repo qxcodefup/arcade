@@ -1,28 +1,28 @@
-#INPUT
+>>>>>>>> INSERT
 mamae me ama#15#1.76;
-#OUTPUT
+======== EXPECT
 mamae me ama
 15
 1.76
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 aa 4#1 -f; -2.0;
-#OUTPUT
+======== EXPECT
 aa 4
 1 -f
  -2.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 coca zero;1.75#8;U;
-#OUTPUT
+======== EXPECT
 coca zero
 1.75
 8
 U
-#END
+<<<<<<<< FINISH

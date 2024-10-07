@@ -1,4 +1,4 @@
-# L2 - Deu a louca no @imperador
+# @imperador - Deu a louca no imperador
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/imperador/cover.jpg)
 
@@ -46,34 +46,34 @@ Some todos os G's e C's e determine quem é o vencedor.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3
 G L G
 C C C
 C G G
-#OUTPUT
+======== EXPECT
 Condenados a morte
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 G G C
 C C C
 G C C
-#OUTPUT
+======== EXPECT
 Condenados a morte
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 C C G
 C G C
 G C C
-#OUTPUT
+======== EXPECT
 Ninguem
-#END
+<<<<<<<< FINISH
 ```

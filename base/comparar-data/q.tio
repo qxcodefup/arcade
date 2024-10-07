@@ -1,75 +1,75 @@
-#INPUT Test 1
+>>>>>>>> INSERT Test 1
 2
 4
 2000
 1
 4
 2000
-#OUTPUT
+======== EXPECT
 Mais recente
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Test 2
+>>>>>>>> INSERT Test 2
 2
 3
 1999
 1
 4
 2000
-#OUTPUT
+======== EXPECT
 Mais antiga
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Test 3
+>>>>>>>> INSERT Test 3
 1
 4
 2000
 2
 4
 2000
-#OUTPUT
+======== EXPECT
 Mais antiga
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Test 4
+>>>>>>>> INSERT Test 4
 1
 4
 2000
 2
 4
 2001
-#OUTPUT
+======== EXPECT
 Mais antiga
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Test 5
+>>>>>>>> INSERT Test 5
 1
 5
 2000
 2
 4
 2000
-#OUTPUT
+======== EXPECT
 Mais recente
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Test 6
+>>>>>>>> INSERT Test 6
 1
 5
 2000
 1
 5
 2000
-#OUTPUT
+======== EXPECT
 Iguais
-#END
+<<<<<<<< FINISH

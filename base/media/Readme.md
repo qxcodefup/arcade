@@ -1,7 +1,4 @@
-# L0 - @media de dois inteiros
-
-[Ação](#ação) | [Shell](#shell) | [Dicas](#dicas)
--- | -- | --
+# @media de dois inteiros
 
 ![Imagem Média de Dois Inteiros](cover.jpg)
 
@@ -21,72 +18,75 @@ deles.
 ## Testes
 
 ```py
-#INPUT t1
+>>>>>>>> INSERT t1
 2
 4
-#OUTPUT
+======== EXPECT
 3.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT t2
+>>>>>>>> INSERT t2
 34
 21
-#OUTPUT
+======== EXPECT
 27.5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT t3
+>>>>>>>> INSERT t3
 -15
 234
-#OUTPUT
+======== EXPECT
 109.5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT t4
+>>>>>>>> INSERT t4
 12
 4
-#OUTPUT
+======== EXPECT
 8.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT t5
+>>>>>>>> INSERT t5
 -13
 -14
-#OUTPUT
+======== EXPECT
 -13.5
-#END
+<<<<<<<< FINISH
 ```
 
-### Dicas
+## Dicas
 
-- **C** - Para exibir um número de ponto flutuante do tipo `float` com apenas uma casa decimal em C, use o especificador de formato `%.1f` na função `printf`. O número **1** após o ponto indica o número de casas decimais a serem exibidas.
+**C** - Para exibir um número de ponto flutuante do tipo `float` com apenas uma casa decimal em C, use o especificador de formato `%.1f` na função `printf`. O número **1** após o ponto indica o número de casas decimais a serem exibidas.
 
-``` c
+```c
 int main() {
     printf("%.1f\n", resultado);
 }
 ```
 
-- **Python** - Para exibir um número de ponto flutuante com apenas uma casa decimal em Python, use o formato `:.1f` na função `print`. O número **1** após o ponto indica o número de casas decimais que serão exibidas:
+**Python** - Para exibir um número de ponto flutuante com apenas uma casa decimal em Python, use o formato `:.1f` na função `print`. O número **1** após o ponto indica o número de casas decimais que serão exibidas:
 
-``` python
+```py
 print(f"{resultado:.1f}")
 - ou -
 print("{:.1f}".format(resultado))
 ```
 
-- **TypeScript** - Para exibir um número com apenas uma casa decimal em TypeScript, use o método `toFixed(1)`. O número **1** indica o número de casas decimais que serão exibidas.
+**TypeScript** - Para exibir um número com apenas uma casa decimal em TypeScript, use o método `toFixed(1)`. O número **1** indica o número de casas decimais que serão exibidas.
 
-``` ts
+```ts
 console.log(resultado.toFixed(1)); 
-- ou -
+```
+
+```ts
+console.log(resultado.toFixed(1)); 
 write(resultado.toFixed(1));
 ```

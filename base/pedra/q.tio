@@ -1,129 +1,129 @@
-#INPUT
+>>>>>>>> INSERT
 2
 8 11
 10 15
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 9 12
 11 13
 10 11
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 12 15
 16 14
 10 9
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 12 15
 20 23
 10 9
 35 35
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 2
 10 8
 9 13
-#OUTPUT
+======== EXPECT
 sem ganhador
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 2
 8 9
 12 7
-#OUTPUT
+======== EXPECT
 sem ganhador
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 2
 10 9
 15 19
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 3
 12 17
 14 11
 8 9
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 3
 9 12
 11 13
 12 13
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 09
+>>>>>>>> INSERT 09
 4
 9 8
 9 12
 12 9
 6 7
-#OUTPUT
+======== EXPECT
 sem ganhador
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 10
+>>>>>>>> INSERT 10
 4
 9 8
 9 12
 12 15
 6 7
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 11
+>>>>>>>> INSERT 11
 4
 9 8
 9 12
 12 15
 18 19
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH

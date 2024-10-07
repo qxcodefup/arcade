@@ -1,33 +1,33 @@
-#INPUT
+>>>>>>>> INSERT
 mel
 lema
-#OUTPUT
+======== EXPECT
 a
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 pegasus
 suspiro
-#OUTPUT
+======== EXPECT
 pegapiro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 olho
 ohio
-#OUTPUT
+======== EXPECT
 olio
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 minhoca
 arvore
-#OUTPUT
+======== EXPECT
 minhocrvore
-#END
+<<<<<<<< FINISH

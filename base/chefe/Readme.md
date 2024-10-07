@@ -1,4 +1,4 @@
-# L3 - Aniquilando Ultrons V3 - identificando @chefe
+# @chefe - Aniquilando Ultrons V3
 
 ![_](cover.jpg)
 
@@ -30,19 +30,19 @@ Saida: "pessoa ultron chefe pessoa ultron pessoa chefe"
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 aeiou  
 arta euio auiaoauio riu pegasus
-#OUTPUT  
+======== EXPECT  
 pessoa chefe chefe ultron pessoa
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 aer
 arta euio auiaoauio riu pegasus rea
-#OUTPUT
+======== EXPECT
 ultron pessoa pessoa pessoa pessoa chefe
-#END
+<<<<<<<< FINISH
 ```

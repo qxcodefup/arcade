@@ -1,4 +1,4 @@
-# L3 - @jokenpo15
+# @jokenpo15 - Quinze opções
 
 ## Motivação
 
@@ -23,25 +23,25 @@ Vamos fazer do Human o número 0, Tree será 1 e assim sucessivamente. O número
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1
 0
-#OUTPUT
+======== EXPECT
 Jogador 2
-#END
-#INPUT
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 5
 9
-#OUTPUT
+======== EXPECT
 Jogador 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
 0
-#OUTPUT
+======== EXPECT
 Empate
-#END
+<<<<<<<< FINISH
 ```

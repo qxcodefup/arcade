@@ -1,45 +1,45 @@
-#INPUT 01
+>>>>>>>> INSERT 01
 tenho 15 4nos 1.75 altur4 -15 conto p0rr4 -4.04
-#OUTPUT
+======== EXPECT
 str int str float str int str str float
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 a proxima eleição presidencial no Brasil ocorrerá em 2 de outubro de 2018
-#OUTPUT
+======== EXPECT
 str str str str str str str str int str str str int
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 aa 1 -2.0
-#OUTPUT
+======== EXPECT
 str int float
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 02a -x1 -4.b54 p0
-#OUTPUT
+======== EXPECT
 str str str str
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 -pato -40 -5.4
-#OUTPUT
+======== EXPECT
 str int float
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 02 -1 -4.54 p0
-#OUTPUT
+======== EXPECT
 int int float str
-#END
+<<<<<<<< FINISH

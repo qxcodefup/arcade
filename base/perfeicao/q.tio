@@ -1,53 +1,53 @@
-#INPUT
+>>>>>>>> INSERT
 Dhaquison
-#OUTPUT
+======== EXPECT
 Dhaquisonn
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Alfredo
-#OUTPUT
+======== EXPECT
 Alfredoc
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Maikou
-#OUTPUT
+======== EXPECT
 sem sorte
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Davidp
-#OUTPUT
+======== EXPECT
 Davidpd
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 Ana
-#OUTPUT
+======== EXPECT
 sem sorte
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 David
-#OUTPUT
+======== EXPECT
 Davidp
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 Ticiany
-#OUTPUT
+======== EXPECT
 sem sorte
-#END
+<<<<<<<< FINISH

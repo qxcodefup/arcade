@@ -1,4 +1,4 @@
-# L0 - @par ou impar
+# @par ou impar
 
 ![Imagem eh Positivo](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/par/cover.jpg)
 
@@ -18,57 +18,57 @@ Implemente um programa que recebe um número inteiro e diga se ele é par ou imp
 ## Exemplos
 
 ```py
-#INPUT 0
+>>>>>>>> INSERT 0
 3
-#OUTPUT
+======== EXPECT
 IMPAR
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 1
+>>>>>>>> INSERT 1
 12
-#OUTPUT
+======== EXPECT
 PAR
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 2
+>>>>>>>> INSERT 2
 33
-#OUTPUT
+======== EXPECT
 IMPAR
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 3
+>>>>>>>> INSERT 3
 0
-#OUTPUT
+======== EXPECT
 PAR
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 4
+>>>>>>>> INSERT 4
 7
-#OUTPUT
+======== EXPECT
 IMPAR
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 5
+>>>>>>>> INSERT 5
 20
-#OUTPUT
+======== EXPECT
 PAR
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 6
+>>>>>>>> INSERT 6
 15
-#OUTPUT
+======== EXPECT
 IMPAR
-#END
+<<<<<<<< FINISH
 ```

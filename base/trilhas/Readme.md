@@ -1,4 +1,4 @@
-# L3 - @trilhas - OBI 2005
+# @trilhas - OBI 2005
 
 ## Motivação
 
@@ -44,25 +44,25 @@ Dadas as informações colhidas por Paulo sobre distâncias e altitudes de um
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 5
 4 498 500 498 498
 10 60 60 70 70 70 70 80 90 90 100
 5 200 190 180 170 160
 2 1000 900
 4 20 20 20 20
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 5 600 601 600 601 600
 4 500 499 500 499
 4 300 300 302 300
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```

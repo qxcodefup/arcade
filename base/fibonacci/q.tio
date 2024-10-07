@@ -1,61 +1,61 @@
-#INPUT Teste 0
+>>>>>>>> INSERT Teste 0
 50
-#OUTPUT
+======== EXPECT
 44
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 1
+>>>>>>>> INSERT Teste 1
 100
-#OUTPUT
+======== EXPECT
 44
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 2
+>>>>>>>> INSERT Teste 2
 1000000
-#OUTPUT
+======== EXPECT
 1089154
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 3
+>>>>>>>> INSERT Teste 3
 500000
-#OUTPUT
+======== EXPECT
 257114
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 4
+>>>>>>>> INSERT Teste 4
 30000
-#OUTPUT
+======== EXPECT
 14328
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 5
+>>>>>>>> INSERT Teste 5
 500
-#OUTPUT
+======== EXPECT
 188
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 6
+>>>>>>>> INSERT Teste 6
 3000000
-#OUTPUT
+======== EXPECT
 1089154
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 7
+>>>>>>>> INSERT Teste 7
 4000000
-#OUTPUT
+======== EXPECT
 4613732
-#END
+<<<<<<<< FINISH

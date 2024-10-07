@@ -1,4 +1,4 @@
-# L3 - Jogo da @vida
+# @vida - Autômatos
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vida/cover.jpg)
 
@@ -28,37 +28,37 @@ Mais informações: Procure sobre Jogo da vida na Wikipedia
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 4 8
 ........
 ........
 ..####..
 ........
-#OUTPUT
+======== EXPECT
 ........
 ...##...
 ...##...
 ...##...
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4 8
 ......#.
 .##...#.
 .#.#..#.
 ..#.....
-#OUTPUT
+======== EXPECT
 ........
 .##..###
 .#.#....
 ..#.....
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 7 18
 ..................
 .###..............
@@ -67,7 +67,7 @@ Mais informações: Procure sobre Jogo da vida na Wikipedia
 ..............#.#.
 .....##........##.
 .....##...........
-#OUTPUT
+======== EXPECT
 ..#...............
 .##...............
 .#.#..............
@@ -75,5 +75,5 @@ Mais informações: Procure sobre Jogo da vida na Wikipedia
 ................##
 .....##........##.
 .....##...........
-#END
+<<<<<<<< FINISH
 ```

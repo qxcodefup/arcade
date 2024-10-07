@@ -1,4 +1,4 @@
-# L2 - @fatores de um número
+# @fatores de um número
 
 ![_](cover.jpg)
 
@@ -9,49 +9,49 @@ Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na
 ## Testes
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 8
-#OUTPUT
+======== EXPECT
 2 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 40
-#OUTPUT
+======== EXPECT
 2 3
 5 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 55
-#OUTPUT
+======== EXPECT
 5 1
 11 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 552
-#OUTPUT
+======== EXPECT
 2 3
 3 1
 23 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 169400
-#OUTPUT
+======== EXPECT
 2 3
 5 2
 7 1
 11 2
-#END
+<<<<<<<< FINISH
 
 ```

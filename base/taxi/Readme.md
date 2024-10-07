@@ -1,4 +1,4 @@
-# L1 - Frota de @taxi - OBI 2005
+# @taxi - Frota de taxi - OBI 2005
 
 ![_](cover.jpg)
 
@@ -28,41 +28,41 @@ A saída deve ser composta por uma única linha contendo o caractere 'A' se é
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 1.00 1.00 8.00 8.01
-#OUTPUT
+======== EXPECT
 G
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 10.00 0.01 10.01 0.01
-#OUTPUT
+======== EXPECT
 A
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 2.15 3.17 19.34 18.22
-#OUTPUT
+======== EXPECT
 A
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 3.90 3.80 19.01 19.99
-#OUTPUT
+======== EXPECT
 G
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 4.15 3.17 16.64 19.22
-#OUTPUT
+======== EXPECT
 G
-#END
+<<<<<<<< FINISH
 ```

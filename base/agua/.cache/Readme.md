@@ -1,4 +1,4 @@
-# L3 - Abastecimento de @agua
+# @agua - Abastecimento de agua
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/agua/cover.jpg)
 
@@ -28,43 +28,43 @@ Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5 1
 0 2 1  
-#OUTPUT
+======== EXPECT
 1 1 1 0 0
-#END
+<<<<<<<< FINISH
   
-#INPUT
+>>>>>>>> INSERT
 5 2
 0 2 1
 2 4 2
-#OUTPUT
+======== EXPECT
 1 1 3 2 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10 5
 1 4 5
 5 8 2
 0 9 1
 8 9 3
 4 8 2
-#OUTPUT
+======== EXPECT
 1 6 6 6 8 5 5 5 8 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4 4
 0 0 1
 1 1 2
 2 2 3
 3 3 4  
-#OUTPUT
+======== EXPECT
 1 2 3 4
-#END
+<<<<<<<< FINISH
 ```

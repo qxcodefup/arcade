@@ -1,4 +1,4 @@
-# L0 - @ceu - Ingrid quer chegar no céu
+# @ceu - Ingrid quer chegar no céu
 
 Professora Ingrid conta que nas suas brinceiras de criança sempre estavam presentes atividades físicas lúdicas. Uma das suas favoritas era pular amarelinha.
 
@@ -26,50 +26,50 @@ Se a criança jogar a pedra no 10, a contagem fica assim:
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 8
-#OUTPUT
+======== EXPECT
 [ 0 1 2 3 4 5 6 7 9 ceu ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
-#OUTPUT
+======== EXPECT
 [ 1 2 3 4 5 6 7 8 9 ceu ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
-#OUTPUT
+======== EXPECT
 [ 1 2 3 4 5 6 7 8 9 ceu ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
-#OUTPUT
+======== EXPECT
 [ 0 2 3 4 5 6 7 8 9 ceu ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
-#OUTPUT
+======== EXPECT
 [ 0 1 3 4 5 6 7 8 9 ceu ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
-#OUTPUT
+======== EXPECT
 [ 0 1 2 3 4 5 6 7 8 9 ]
-#END
+<<<<<<<< FINISH
 
 ```

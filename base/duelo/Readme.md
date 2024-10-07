@@ -1,4 +1,4 @@
-# L1 - @duelo
+# @duelo
 
 ![_](cover.jpg)
 
@@ -22,45 +22,45 @@ A função duelo recebe como entrada dois dicionários, onde cada um deles repre
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 100  
 20  
 100  
 1
-#OUTPUT
+======== EXPECT
 Personagem 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 20
 100
 1
-#OUTPUT
+======== EXPECT
 Personagem 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 20
 1000
 10
-#OUTPUT
+======== EXPECT
 Personagem 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 100
 1000
 10
-#OUTPUT
+======== EXPECT
 Empate
-#END
+<<<<<<<< FINISH
 ```

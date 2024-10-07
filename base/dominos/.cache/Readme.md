@@ -1,4 +1,4 @@
-# L2 - Queda de @dominos
+# @dominos - Caindo
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/dominos/cover.jpg)
 
@@ -25,28 +25,28 @@ Leia um vetor de tamanho n (quantidade de dominós) , e diga se ele está ordena
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5
 1 2 3 4 4
-#OUTPUT
+======== EXPECT
 ok
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 2 4 2 6 8 10
-#OUTPUT
+======== EXPECT
 precisa de ajuste
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 2
-#OUTPUT
+======== EXPECT
 ok
-#END
+<<<<<<<< FINISH
 ```

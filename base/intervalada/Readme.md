@@ -1,4 +1,4 @@
-# L2 - busca @intervalada
+# @intervalada - Busca
 
 ![_](cover.jpg)
 
@@ -26,38 +26,38 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 ### Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 4 1 3
 1
 5
 3
 7
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5 3 5
 1
 2
 4
 6
 8
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4 3 5
 1
 2
 7
 8
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L3 - @senhas - algoritmo de força bruta
+# @senhas - algoritmo de força bruta
 
 ![_](cover.jpg)
 
@@ -29,11 +29,11 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 ## Exemplos
 
 ``` py
-#INPUT numerico apenas
+>>>>>>>> INSERT numerico apenas
 4 10
 0179
 9997
-#OUTPUT
+======== EXPECT
 9999
 0000
 0001
@@ -44,15 +44,15 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 0017
 0019
 0070
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT misturado
+>>>>>>>> INSERT misturado
 3 7
 #!1Ap
 !#A
-#OUTPUT
+======== EXPECT
 !#p
 !!#
 !!!
@@ -60,15 +60,15 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 !!A
 !!p
 !1#
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT numerico invertido
+>>>>>>>> INSERT numerico invertido
 4 10
 0982
 2222
-#OUTPUT
+======== EXPECT
 0000
 0009
 0008
@@ -79,5 +79,5 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 0092
 0080
 0089
-#END
+<<<<<<<< FINISH
 ```

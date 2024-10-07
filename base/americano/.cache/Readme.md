@@ -1,4 +1,4 @@
-# L3 - Zerinho ou um @americano - Decifrando a fórmula
+# @americano - Zerim ou um
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/americano/cover.jpg)
 
@@ -27,34 +27,34 @@ Suponha que existem 4 jogadores. O contador, o jogador 1, aponta pra cima e diz 
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 0
 0
 0
 0
-#OUTPUT
+======== EXPECT
 nenhum
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
 0
 2
 0
-#OUTPUT
+======== EXPECT
 jog2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 2
 2
 2
-#OUTPUT
+======== EXPECT
 jog4
-#END
+<<<<<<<< FINISH
 ```

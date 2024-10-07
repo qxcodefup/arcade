@@ -1,4 +1,4 @@
-# L2 - @indices
+# @indices
 
 ![_](cover.jpg)
 

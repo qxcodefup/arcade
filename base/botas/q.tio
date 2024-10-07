@@ -1,16 +1,16 @@
-#INPUT
+>>>>>>>> INSERT
 4
 40 D
 41 E
 41 D
 40 E
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 38 E
 39 E
@@ -18,13 +18,13 @@
 38 D
 40 D
 37 E
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 10
 30 E
 31 E
@@ -36,13 +36,13 @@
 31 E
 30 D
 31 D
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 10
 44 D
 40 E
@@ -54,13 +54,13 @@
 42 D
 43 D
 43 E
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 10
 59 D
 59 E
@@ -72,13 +72,13 @@
 59 E
 59 D
 60 D
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 12
 56 D
 59 D
@@ -92,6 +92,6 @@
 56 D
 57 D
 60 E
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH

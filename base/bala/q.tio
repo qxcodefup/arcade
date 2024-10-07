@@ -1,63 +1,63 @@
-#INPUT 01
+>>>>>>>> INSERT 01
 3
 7
 1
 4
-#OUTPUT
+======== EXPECT
 3.61
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 1
 8.2
 -4
 12
-#OUTPUT
+======== EXPECT
 6.28
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 3
 1
 3
 5
-#OUTPUT
+======== EXPECT
 4.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 7
 3
 4
 -1
-#OUTPUT
+======== EXPECT
 5.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 0
 0
 0
 0
-#OUTPUT
+======== EXPECT
 0.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 47.88
 43.91
 34.8
 40.02
-#OUTPUT
+======== EXPECT
 13.65
-#END
+<<<<<<<< FINISH

@@ -1,4 +1,4 @@
-# L3 - O segredo do @cofre - OBI 2017
+# @cofre - O segredo do cofre - OBI 2017
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cofre/cover.jpg)
 
@@ -31,21 +31,21 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 14 5
 9 4 3 9 1 2 4 5 1 1 9 7 0 5
 1 9 4 11 13
-#OUTPUT
+======== EXPECT
 [ 1 6 3 1 4 3 0 1 0 4 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 5 4
 5 8 0 5 1
 1 4 2 5
-#OUTPUT
+======== EXPECT
 [ 3 1 0 0 0 3 0 0 2 0 ]
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L2 - @concentracao - Jogo de laço
+# @concentracao - Jogo de laço
 
 ![_](cover.jpg)
 
@@ -19,43 +19,43 @@ Dados dois número A e B, com A sempre menor que B, gere a sequencia que o jogad
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1 10
-#OUTPUT
+======== EXPECT
 [ 1 10 2 9 3 8 4 7 5 6 6 5 7 4 8 3 9 2 10 1 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1 5
-#OUTPUT
+======== EXPECT
 [ 1 5 2 4 3 3 4 2 5 1 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2 7
-#OUTPUT
+======== EXPECT
 [ 2 7 3 6 4 5 5 4 6 3 7 2 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0 8
-#OUTPUT
+======== EXPECT
 [ 0 8 1 7 2 6 3 5 4 4 5 3 6 2 7 1 8 0 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0 9
-#OUTPUT
+======== EXPECT
 [ 0 9 1 8 2 7 3 6 4 5 5 4 6 3 7 2 8 1 9 0 ]
-#END
+<<<<<<<< FINISH
 ```
 
 [Resolução](https://youtu.be/L9FmHLc87uw)

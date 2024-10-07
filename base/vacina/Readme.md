@@ -1,4 +1,4 @@
-# L2 - @vacina
+# @vacina
 
 ![_](cover.jpg)
 

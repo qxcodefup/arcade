@@ -1,4 +1,4 @@
-# L3 - Professor @bonzinho
+# @bonzinho - Professor
 
 ![_](cover.jpg)
 
@@ -25,25 +25,25 @@ A ordem da entrada é importante nessa questão. As três primeira entradas são
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 10
 10
 5
 10
-#OUTPUT
+======== EXPECT
 Aprovado com 10.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 2
 2
 6
-#OUTPUT
+======== EXPECT
 Final com 6.0
-#END
+<<<<<<<< FINISH
 ```
 
 ## Dica

@@ -1,105 +1,105 @@
-#INPUT
+>>>>>>>> INSERT
 c
 5.5
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 f
 6.99
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 c
 6.99
-#OUTPUT
+======== EXPECT
 7
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 r
 5.5
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 r
 5.4
-#OUTPUT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 c
 0.5
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 f
 6.7
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 f
 0.5
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 09
+>>>>>>>> INSERT 09
 r
 7.3
-#OUTPUT
+======== EXPECT
 7
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 10
+>>>>>>>> INSERT 10
 r
 7.5
-#OUTPUT
+======== EXPECT
 8
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 11
+>>>>>>>> INSERT 11
 f
 3.33
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 12
+>>>>>>>> INSERT 12
 r
 9.7
-#OUTPUT
+======== EXPECT
 10
-#END
+<<<<<<<< FINISH

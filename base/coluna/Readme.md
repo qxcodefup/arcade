@@ -1,4 +1,4 @@
-# L2 - @coluna de Valor Maior
+# @coluna de Valor Maior
 
 ![_](cover.jpg)
 
@@ -37,36 +37,36 @@ Se existirem duas ou mais colunas (j), que gera o valor maior igual, considere a
 ### Exemplos
 
 ``` py
-#INPUT Teste 0
+>>>>>>>> INSERT Teste 0
 3
 3 4 5
 6 8 9
 0 6 7
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 1
+>>>>>>>> INSERT Teste 1
 3
 -7 8 10
 9 2 5
 6 3 5
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 2
+>>>>>>>> INSERT Teste 2
 5
 3 3 3 3 4
 5 6 4 8 9
 2 2 1 3 7 
 -5 5 4 6 4
 2 3 1 0 8 10
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```

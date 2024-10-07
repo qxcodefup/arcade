@@ -1,4 +1,4 @@
-# L3 - @baruel - figurinhas repetidas
+# @baruel - figurinhas repetidas
 
 ## Motivação
 
@@ -26,45 +26,45 @@ Baruel Ruel tem muitas figurinhas do álbum de futebol. Ele estava indo para uma
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5
 8
 1 1 1 1 2 2 3 5
-#OUTPUT
+======== EXPECT
 1 1 1 2
 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 4
 1 1 2 2
-#OUTPUT
+======== EXPECT
 1 2
 N
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 2
 4 5
-#OUTPUT
+======== EXPECT
 N
 1 2 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 5
 1 1 2 3 3
-#OUTPUT
+======== EXPECT
 1 3
 4 5
-#END
+<<<<<<<< FINISH
 ```

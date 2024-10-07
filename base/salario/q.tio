@@ -1,61 +1,61 @@
-#INPUT
+>>>>>>>> INSERT
 900.00
-#OUTPUT
+======== EXPECT
 1080.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1500.00
-#OUTPUT
+======== EXPECT
 1725.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2005.20
-#OUTPUT
+======== EXPECT
 2105.46
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 500.00
-#OUTPUT
+======== EXPECT
 600.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 1000.00
-#OUTPUT
+======== EXPECT
 1200.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 1001.00
-#OUTPUT
+======== EXPECT
 1151.15
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 2000.00
-#OUTPUT
+======== EXPECT
 2200.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 09
+>>>>>>>> INSERT 09
 3007.21
-#OUTPUT
+======== EXPECT
 3157.57
-#END
+<<<<<<<< FINISH

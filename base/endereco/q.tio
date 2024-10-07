@@ -1,21 +1,21 @@
-#INPUT
+>>>>>>>> INSERT
 7384
-#OUTPUT
+======== EXPECT
 2:3:4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3601
-#OUTPUT
+======== EXPECT
 1:0:1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 60
-#OUTPUT
+======== EXPECT
 0:1:0
-#END
+<<<<<<<< FINISH

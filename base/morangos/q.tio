@@ -1,151 +1,151 @@
-#INPUT
+>>>>>>>> INSERT
 30
 8
 11
 56
-#OUTPUT
+======== EXPECT
 616
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 12
 38
 5
 20
-#OUTPUT
+======== EXPECT
 456
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 9
 4
 9
 4
-#OUTPUT
+======== EXPECT
 36
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 9
 3
 2
 1
-#OUTPUT
+======== EXPECT
 27
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 10
 8
 8
 4
-#OUTPUT
+======== EXPECT
 80
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 14
 19
 17
 14
-#OUTPUT
+======== EXPECT
 266
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 18
 14
 20
 20
-#OUTPUT
+======== EXPECT
 400
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 16
 14
 13
 15
-#OUTPUT
+======== EXPECT
 224
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 09
+>>>>>>>> INSERT 09
 71
 88
 60
 61
-#OUTPUT
+======== EXPECT
 6248
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 10
+>>>>>>>> INSERT 10
 72
 60
 51
 79
-#OUTPUT
+======== EXPECT
 4320
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 11
+>>>>>>>> INSERT 11
 66
 58
 95
 78
-#OUTPUT
+======== EXPECT
 7410
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 12
+>>>>>>>> INSERT 12
 65
 92
 84
 33
-#OUTPUT
+======== EXPECT
 5980
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 13
+>>>>>>>> INSERT 13
 91
 84
 76
 66
-#OUTPUT
+======== EXPECT
 7644
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 14
+>>>>>>>> INSERT 14
 31
 57
 18
 87
-#OUTPUT
+======== EXPECT
 1767
-#END
+<<<<<<<< FINISH

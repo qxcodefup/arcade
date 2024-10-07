@@ -1,4 +1,4 @@
-# L1 - @paredes
+# @paredes
 
 ![_](cover.jpg)
 
@@ -21,29 +21,29 @@ Imprima um único inteiro denotando o número total de paredes contadas por Bob
 ## Exemplo de Entrada
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5
 1 3 3 5 4
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 1 2 3 5 
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 5 5 2 1
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 
 ```

@@ -1,8 +1,4 @@
-# L0 - @sobrou - calculando quanto sobrou
-
-[Ação](#ação) | [Shell](#shell) 
--- | -- 
-
+# @sobrou - calculando quanto sobrou
 
 ![Imagem Quantos Sobrou](cover.jpg)
 
@@ -35,13 +31,13 @@ sobrou.
 2
 8
 5
-1555.00
+>>>>>>>> INSERT0
 4206.00
 761.00
 54771.87
-#OUTPUT
+======== EXPECT
 14208.87
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
@@ -49,13 +45,13 @@ sobrou.
 9
 3
 5
-724.00
+>>>>>>>> INSERT
 3200.00
 3327.00
 49569.79
-#OUTPUT
+======== EXPECT
 16818.79
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
@@ -63,13 +59,13 @@ sobrou.
 2
 2
 6
-1970.00
+>>>>>>>> INSERT0
 4837.00
 455.00
 32500.45
-#OUTPUT
+======== EXPECT
 16156.45
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
@@ -77,13 +73,13 @@ sobrou.
 5
 3
 4
-302.00
+>>>>>>>> INSERT
 2410.00
 2458.00
 29180
-#OUTPUT
+======== EXPECT
 10608.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
@@ -91,13 +87,13 @@ sobrou.
 9
 6
 8
-1772.00
+>>>>>>>> INSERT0
 4799.00
 1566.00
 60536.63
-#OUTPUT
+======== EXPECT
 3266.63
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
@@ -105,13 +101,13 @@ sobrou.
 3
 8
 10
-2072.00
+>>>>>>>> INSERT0
 4913.00
 3758.00
 143486.80
-#OUTPUT
+======== EXPECT
 60386.80
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
@@ -119,12 +115,11 @@ sobrou.
 3
 4
 4
-4674.00
+>>>>>>>> INSERT0
 178.00
 2730.00
 47773.89
-#OUTPUT
+======== EXPECT
 22119.89
-#END
-
+<<<<<<<< FINISH
 ```

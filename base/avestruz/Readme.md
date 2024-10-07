@@ -1,4 +1,4 @@
-# L2 - @avestruz com Alcaparras - ignorar case
+# @avestruz com Alcaparras - ignorar case
 
 ![_](cover.jpg)
 
@@ -19,28 +19,28 @@ OBS: Não use o método count do python.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 A Andreia alimentou a avestruz com alcaparras
 a
-#OUTPUT
+======== EXPECT
 10
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 A Andreia atirou alcachofras no LEAO
 e
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT  
+>>>>>>>> INSERT  
 A Andreia atirou alcachofras no leao
 x
-#OUTPUT  
+======== EXPECT  
 0
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L3 - Roda Roda @jequiti
+# @jequiti - Roda Roda Jequiti
 
 ![_](cover.jpg)
 
@@ -45,31 +45,31 @@ Ex: "**Seu Pilantra!**" , "**yzxa**" , '**\***' -> "**\*\*\* \*\*\*a\*\*\*a!**"
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 extraordinario
 aeioubcdfgh
 *
-#OUTPUT
+======== EXPECT
 e***ao*di*a*io
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Teco-Teco!
 tbxyan
 _
-#OUTPUT
+======== EXPECT
 T___-T___!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Seu Pilantra!
 yzxa
 *
-#OUTPUT
+======== EXPECT
 *** ***a***a!
-#END
+<<<<<<<< FINISH
 ```

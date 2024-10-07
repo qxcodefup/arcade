@@ -1,4 +1,4 @@
-# L2 - @realoc - Vetor de strings com variados tamanhos
+# @realoc - Vetor de strings com variados tamanhos
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/realoc/cover.jpg)
 
@@ -20,7 +20,7 @@ seguido de um espaço e a string.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 6
 12 Gilberto Gil
 14 Maria Betânia
@@ -28,14 +28,14 @@ seguido de um espaço e a string.
 14 Caetano Veloso
 6 Djavan
 12 Marisa Monte
-#OUTPUT
+======== EXPECT
 Caetano Veloso
 Djavan
 Gilberto Gil
 Maria Betânia
 Marisa Monte
 Osvaldo Montenegro
-#END
+<<<<<<<< FINISH
 ```
 
 ## Dicas

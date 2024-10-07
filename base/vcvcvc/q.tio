@@ -1,21 +1,21 @@
-#INPUT
+>>>>>>>> INSERT
 Pedrinho Marcio
-#OUTPUT
+======== EXPECT
 cvccvccv cvccvv
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Reumario Albrito
-#OUTPUT
+======== EXPECT
 cvvcvcvv vcccvcv
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 AaBbCcDdEe
-#OUTPUT
+======== EXPECT
 vvccccccvv
-#END
+<<<<<<<< FINISH

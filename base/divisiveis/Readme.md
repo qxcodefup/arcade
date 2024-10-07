@@ -1,4 +1,4 @@
-# L1 - Ambos @divisiveis
+# @divisiveis - Verificar ambos
 
 ![_](cover.jpg)
 
@@ -22,30 +22,30 @@ Leia dois inteiros e diga se ambos são divisíveis por 3 ou se ambos são divis
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5
 10
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 10
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 9
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 
 ```
 

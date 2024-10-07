@@ -1,4 +1,4 @@
-# L2 - @sapinho 1 no Poço
+# @sapinho 1 no Poço
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sapinho/cover.jpg)
 
@@ -32,31 +32,31 @@ Imprima todas as posições de aterrissagem dos saltos do sapinho.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 500
 100
 20
-#OUTPUT
+======== EXPECT
 0 100
 80 180
 160 260
 240 340
 320 420
 400 saiu
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 800
 300
 200
-#OUTPUT
+======== EXPECT
 0 300
 100 400
 200 500
 300 600
 400 700
 500 saiu
-#END
+<<<<<<<< FINISH
 ```

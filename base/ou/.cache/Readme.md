@@ -1,7 +1,4 @@
-# L0 - @ou - É 3 ou 5
-
-[Ação](#ação) | [Shell](#shell) 
--- | -- 
+# @ou - É 3 ou 5
 
 ![Imagem eh o número 3](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/ou/cover.jpg)
 
@@ -22,39 +19,39 @@ Implemente um programa que recebe um número inteiro e imprime "SIM" caso ele se
 ```py
 #INPUT 0
 3
-#OUTPUT
-SIM
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 1
 12
-#OUTPUT
-NAO
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 2
 -3
-#OUTPUT
-NAO
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 3
 -7
-#OUTPUT
-NAO
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 4
 5
-#OUTPUT
-SIM
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```

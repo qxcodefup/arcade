@@ -1,4 +1,4 @@
-# L2 - @crushometro
+# @crushometro
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/crushometro/cover.jpg)
 
@@ -37,46 +37,46 @@ printf("%%");
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 Yudi
 Priscilla
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 20%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Shun
 Hyoga
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 0%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Kratos
 Athena
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 20%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Paula
 Paulo
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 100%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Shun
 Hyoga
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 0%!
-#END
+<<<<<<<< FINISH
 ```

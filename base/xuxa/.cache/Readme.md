@@ -1,4 +1,4 @@
-# L1 - LP da @xuxa - Inverter String
+# @xuxa - Inverter String
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/xuxa/cover.jpg)
 
@@ -27,25 +27,25 @@ Dado uma string, imprima a mesma string ao contrário.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 ra on odnalor at acopip ed oriehc o
-#OUTPUT
+======== EXPECT
 o cheiro de pipoca ta rolando no ar
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 rahnos zaf em euq latsirc ed aul
-#OUTPUT
+======== EXPECT
 lua de cristal que me faz sonhar
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 oacaroc ues on x mu ieuqram
-#OUTPUT
+======== EXPECT
 marquei um x no seu coracao
-#END
+<<<<<<<< FINISH
 ```

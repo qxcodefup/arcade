@@ -1,4 +1,4 @@
-# L1 - Plantação de @morangos
+# @morangos - Plantação
 
 ## OBI 2016 - Fase1 - Nível 1
 
@@ -24,25 +24,25 @@ Os administradores da Fazenda Fartura planejam criar uma nova plantação de mor
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 30
 8
 11
 56
-#OUTPUT
+======== EXPECT
 616
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 12
 38
 5
 20
-#OUTPUT
+======== EXPECT
 456
-#END
+<<<<<<<< FINISH
 ```
 
 [Resolução](https://youtu.be/TsFcz1GtMFE)

@@ -1,4 +1,4 @@
-# L3 - @sopa de coelho
+# @sopa de coelho
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sopa/cover.jpg)
 
@@ -38,25 +38,25 @@ Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, 
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
-#OUTPUT
+======== EXPECT
 8
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 50
-#OUTPUT
+======== EXPECT
 12586269025
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L2 - Contando @ocorrencias
+# @ocorrencias - Contagem
 
 ![_](cover.jpg)
 
@@ -37,10 +37,10 @@ int main(){
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 fundamentos de programacao
 a
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```

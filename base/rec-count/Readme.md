@@ -1,4 +1,4 @@
-# L3 - @rec-count - Contando caracteres recursivamente
+# @rec-count - Contando caracteres recursivamente
 
 ![_](cover.jpg)
 
@@ -18,10 +18,10 @@ Forneça um algoritmo recursivo para contar quantas vezes um determinado caracte
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 fundamentos de programacao
 a
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L3 - @eribelton e a Ascologia V3 - Busca do mínimo
+# @eribelton e a Ascologia V3 - Busca do mínimo
 
 ![_](cover.jpg)
 
@@ -19,51 +19,51 @@ Diferente da versão 2 em que você ou encontrava um nome perfeito ou digitava e
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 e
-#OUTPUT
+======== EXPECT
 1
 ec
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 d
-#OUTPUT
+======== EXPECT
 0
 d
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Aga
-#OUTPUT
+======== EXPECT
 15
 Agaa
 12
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Rufus
-#OUTPUT
+======== EXPECT
 33
 Rufusu
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Ariates
-#OUTPUT
+======== EXPECT
 13
 Ariatesa
 10
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L3 - Matéria e @antimateria
+# @antimateria e Matéria
 
 ![_](cover.jpg)
 
@@ -37,37 +37,37 @@ Faça um programa que dado duas palavra, a matéria e a anti-matéria, imprima n
 ## Exemplos
 
 ``` py
-#INPUT  
+>>>>>>>> INSERT  
 mel
 lema
-#OUTPUT
+======== EXPECT
 a
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT  
+>>>>>>>> INSERT  
 pegasus
 suspiro
-#OUTPUT
+======== EXPECT
 pegapiro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT  
+>>>>>>>> INSERT  
 olho
 ohio
-#OUTPUT  
+======== EXPECT  
 olio
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 minhoca
 arvore
-#OUTPUT
+======== EXPECT
 minhocrvore
-#END
+<<<<<<<< FINISH
 ```

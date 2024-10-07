@@ -1,4 +1,4 @@
-# L3 - Identificando Ultrons V2 - @disfarce
+# @disfarce - Identificando Ultrons V2
 
 ![_](cover.jpg)
 
@@ -37,7 +37,7 @@ Como são 3 ocorrências em 5 letras, isso dá mais de 50%, o que garante que o 
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 4
 aeiou
 axx
@@ -47,23 +47,23 @@ ultron
 ronluo
 ultron
 rrrrrrrrra
-#OUTPUT
+======== EXPECT
 pessoa
 pessoa
 chefe
 ultron
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 aeiou
 axo
 aeiou
 bba
-#OUTPUT
+======== EXPECT
 ultron
 pessoa
-#END
+<<<<<<<< FINISH
 ```

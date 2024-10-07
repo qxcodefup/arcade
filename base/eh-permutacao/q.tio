@@ -1,85 +1,85 @@
-#INPUT
+>>>>>>>> INSERT
 123 321
-#OUTPUT
+======== EXPECT
 True
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 544 45
-#OUTPUT
+======== EXPECT
 False
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 12354 45312
-#OUTPUT
+======== EXPECT
 True
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 0
+>>>>>>>> INSERT Teste 0
 333 3333
-#OUTPUT
+======== EXPECT
 False
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 2
+>>>>>>>> INSERT Teste 2
 456 465
-#OUTPUT
+======== EXPECT
 True
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 3
+>>>>>>>> INSERT Teste 3
 44463 364445
-#OUTPUT
+======== EXPECT
 False
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 4
+>>>>>>>> INSERT Teste 4
 555222 252525
-#OUTPUT
+======== EXPECT
 True
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 5
+>>>>>>>> INSERT Teste 5
 4454654 456482
-#OUTPUT
+======== EXPECT
 False
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 6
+>>>>>>>> INSERT Teste 6
 223 23
-#OUTPUT
+======== EXPECT
 False
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 7
+>>>>>>>> INSERT Teste 7
 15454 45454
-#OUTPUT
+======== EXPECT
 False
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 8
+>>>>>>>> INSERT Teste 8
 121 112
-#OUTPUT
+======== EXPECT
 True
-#END
+<<<<<<<< FINISH

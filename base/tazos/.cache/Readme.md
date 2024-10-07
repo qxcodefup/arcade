@@ -1,4 +1,4 @@
-# L3 - @tazos - qual o mais repetido
+# @tazos - qual o mais repetido
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/tazos/cover.jpg)
 
@@ -20,74 +20,74 @@ Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos e
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3
 1 1 2
-#OUTPUT
+======== EXPECT
 [ 1 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 1 2
-#OUTPUT
+======== EXPECT
 [ 1 2 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 2 2 5 5
-#OUTPUT
+======== EXPECT
 [ 2 5 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 1 1 3 3 3
-#OUTPUT
+======== EXPECT
 [ 3 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 9
 2 2 3 5 5 5 7 7 7
-#OUTPUT
+======== EXPECT
 [ 5 7 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 12
 2 2 3 5 5 5 7 7 7 9 9 9
-#OUTPUT
+======== EXPECT
 [ 5 7 9 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 13
 2 2 3 5 5 5 7 7 7 9 9 9 9
-#OUTPUT
+======== EXPECT
 [ 9 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 2 3 5 8 9
-#OUTPUT
+======== EXPECT
 [ 2 3 5 8 9 ]
-#END
+<<<<<<<< FINISH
 
 ```

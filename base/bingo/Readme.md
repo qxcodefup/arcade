@@ -1,4 +1,4 @@
-# L2 - @bingo
+# @bingo
 
 ![_](cover.jpg)
 
@@ -28,25 +28,25 @@ Dado um vetor de tamanho 6 de elementos inteiros, verifique quantos elementos de
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 55 30 2 974 79 23
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2 7 88 31 19 40
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 47 20 23 27 9 1
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```

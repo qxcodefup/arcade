@@ -1,4 +1,4 @@
-# L3 - @eh-permutacao
+# @eh-permutacao
 
 Verifique se um número é permutacao de outro
 
@@ -33,27 +33,27 @@ Dados 2 Inteiros, retornar se ambos são permutação entre si.
 ## Testes
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 123 321
-#OUTPUT
+======== EXPECT
 True
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 544 45
-#OUTPUT
+======== EXPECT
 False
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 12354 45312
-#OUTPUT
+======== EXPECT
 True
-#END
+<<<<<<<< FINISH
 ```
 
 @spinosa

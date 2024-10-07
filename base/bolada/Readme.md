@@ -1,4 +1,4 @@
-# L2 - @bolada na fuça
+# @bolada na fuça
 
 ![Resultado de imagem para haikyuu]( cover.jpg)
 
@@ -39,39 +39,39 @@ Desenvolva o programa que dados os valores de entrada, imprima o resultado de sa
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 c
 100
-#OUTPUT
+======== EXPECT
 Perfeito
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 b
 68
-#OUTPUT
+======== EXPECT
 Fraco, nem passou
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 c
 160
-#OUTPUT
+======== EXPECT
 Muito forte, bola fora
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 b
 99
-#OUTPUT
+======== EXPECT
 Satisfeito
-#END
+<<<<<<<< FINISH
 ```
 
 ## Dicas

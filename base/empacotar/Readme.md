@@ -1,4 +1,4 @@
-# L1 - @empacotar
+# @empacotar
 
 ![_](cover.jpg)
 
@@ -15,19 +15,19 @@ Crie um programa que leia do usuário dois números inteiros e calcule o valor d
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5  
 2
-#OUTPUT
+======== EXPECT
 7 3 2.5 10
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5  
 5
-#OUTPUT
+======== EXPECT
 10 0 1.0 25
-#END
+<<<<<<<< FINISH
 ```

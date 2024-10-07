@@ -1,4 +1,4 @@
-# L3 - @botas Trocadas - OBI 2017
+# @botas Trocadas - OBI 2017
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/botas/cover.jpg)
 
@@ -26,19 +26,19 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 4
 40 D
 41 E
 41 D
 40 E
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 38 E
 39 E
@@ -46,7 +46,7 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 38 D
 40 D
 37 E
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L2 - @gritando em Caixa Alta -  Invertendo o Case da frase
+# @gritando -  Invertendo o Case da frase
 
 ![_](cover.jpg)
 
@@ -28,25 +28,25 @@ Dado um texto(max 100 char) mostre o texto invertido. O que for minúsculo impri
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 O ovomaltine e GOSTOSO
-#OUTPUT
+======== EXPECT
 o OVOMALTINE E gostoso
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Paralelepipedarte-ei se NAO me passar a CARTEIRA
-#OUTPUT
+======== EXPECT
 pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1, Dois, 3 Indiozinhos
-#OUTPUT
+======== EXPECT
 1, dOIS, 3 iNDIOZINHOS
-#END
+<<<<<<<< FINISH
 ```

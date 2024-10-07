@@ -1,4 +1,4 @@
-# L3 - @exemplares - Arca quantos exemplares
+# @exemplares - Arca quantos exemplares
 
 ![_](cover.jpg)
 
@@ -27,28 +27,28 @@ Não use uma função de ordenar pronta.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3
 1 1 2
-#OUTPUT
+======== EXPECT
 1 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 1 3 2 2 3
-#OUTPUT
+======== EXPECT
 1 2 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 8
 1 9 3 3 3 2 1 4
-#OUTPUT
+======== EXPECT
 1 2 3 4 9
-#END
+<<<<<<<< FINISH
 ```

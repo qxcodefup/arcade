@@ -1,4 +1,4 @@
-# L3 - Sapinho 2 morrendo no @poco
+# @poco - Sapinho 2 morrendo no poço
 
 ![sapinho]( cover.jpg)
 
@@ -32,24 +32,24 @@ para mostrar os saltos do sapo até a saída.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 800
 300
 100
-#OUTPUT
+======== EXPECT
 0 300
 200 490
 390 670
 570 saiu
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 800
 300
 200
-#OUTPUT
+======== EXPECT
 0 300
 100 390
 190 470
@@ -73,15 +73,15 @@ para mostrar os saltos do sapo até a saída.
 100 200
 0 90
 -110 morreu
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 50
 30
-#OUTPUT
+======== EXPECT
 0 50
 20 60
 30 60
@@ -89,15 +89,15 @@ para mostrar os saltos do sapo até a saída.
 20 30
 0 0
 -30 morreu
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 60
 30
-#OUTPUT
+======== EXPECT
 0 60
 30 80
 50 90
@@ -107,5 +107,5 @@ para mostrar os saltos do sapo até a saída.
 30 30
 0 0
 -30 morreu
-#END
+<<<<<<<< FINISH
 ```

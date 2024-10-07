@@ -1,37 +1,37 @@
-#INPUT corsa
+>>>>>>>> INSERT corsa
 100
 60
 10
-#OUTPUT
+======== EXPECT
 10.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT fusca
+>>>>>>>> INSERT fusca
 60
 40
 10
-#OUTPUT
+======== EXPECT
 4.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03 moto
+>>>>>>>> INSERT 03 moto
 65
 45
 2.5
-#OUTPUT
+======== EXPECT
 19.50
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04 opala
+>>>>>>>> INSERT 04 opala
 120
 50
 20.4
-#OUTPUT
+======== EXPECT
 4.90
-#END
+<<<<<<<< FINISH

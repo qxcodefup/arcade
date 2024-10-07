@@ -1,8 +1,8 @@
-#INPUT numerico apenas
+>>>>>>>> INSERT numerico apenas
 4 10
 0179
 9997
-#OUTPUT
+======== EXPECT
 9999
 0000
 0001
@@ -13,15 +13,15 @@
 0017
 0019
 0070
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT misturado
+>>>>>>>> INSERT misturado
 3 7
 #!1Ap
 !#A
-#OUTPUT
+======== EXPECT
 !#p
 !!#
 !!!
@@ -29,15 +29,15 @@
 !!A
 !!p
 !1#
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT numerico invertido
+>>>>>>>> INSERT numerico invertido
 4 10
 0982
 2222
-#OUTPUT
+======== EXPECT
 0000
 0009
 0008
@@ -48,15 +48,15 @@
 0092
 0080
 0089
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04 muitos
+>>>>>>>> INSERT 04 muitos
 6 50
 Zou29@#
 ####ou
-#OUTPUT
+======== EXPECT
 ####o2
 ####o9
 ####o@
@@ -107,4 +107,4 @@ ZZZZoZ
 ZZZZoo
 ZZZZou
 ZZZZo2
-#END
+<<<<<<<< FINISH

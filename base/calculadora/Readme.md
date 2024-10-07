@@ -1,16 +1,10 @@
-# L1 - @calculadora Numérica
-
-<!-- toch -->
-[Motivação](#motivação) | [Testes](#testes)
--- | --
-<!-- toch -->
+# @calculadora Numérica
 
 ![_](cover.jpg)
 
 ## Motivação
 
 Quem nunca, durante uma prova de matemática ou física no ensino médio, escutou um coleguinha perguntar: "Professor, pode usar a calculadora?"? Essa atividade traz essa prática para o mundo da programação, onde você terá a chance de criar sua própria calculadora que realiza operações básicas entre dois números inteiros.
-
 
 Leia dois números inteiros e um símbolo de operação, e imprima o resultado da operação correspondente.
 
@@ -24,7 +18,7 @@ A entrada consiste em três linhas:
 
 ### Saída
 
-* A saída deve conter um único valor: o resultado da operação entre os dois números inteiros, representado como um número inteiro.
+- A saída deve conter um único valor: o resultado da operação entre os dois números inteiros, representado como um número inteiro.
 
 ### Restrição
 
@@ -37,9 +31,9 @@ A entrada consiste em três linhas:
 5
 2
 /
-#OUTPUT
+======== EXPECT
 2
-#END
+>>>>>>>> INSERT
 ```
 
 ```py
@@ -47,9 +41,9 @@ A entrada consiste em três linhas:
 3
 5
 +
-#OUTPUT
+======== EXPECT
 8
-#END
+>>>>>>>> INSERT
 ```
 
 ```py
@@ -57,14 +51,15 @@ A entrada consiste em três linhas:
 7
 9
 /
-#OUTPUT
+======== EXPECT
 0
-#END
+>>>>>>>> INSERT
 ```
 
-### Dicas
+## Dicas
 
-- **C** - O `operador` deve ser recebido em uma variável do tipo `char`:
+**C** - O `operador` deve ser recebido em uma variável do tipo `char`:
+
 ```c
 int main() {
     char operador = 0;
@@ -72,14 +67,18 @@ int main() {
 }
 ```
 
-- **Python** - Não tem a necessidade de informar o tipo
-``` python
+**Python** - Não tem a necessidade de informar o tipo
+
+```py
 operador = input()
 ```
 
-- **TypeScript** - Não tem a necessidade de informar o tipo
-``` ts
+**TypeScript** - Não tem a necessidade de informar o tipo
+
+```ts
 let operador = input();
 ```
 
-[Resolução](https://www.youtube.com/watch?v=W5JJ_NccMkM)
+## Resolução
+
+- [C++](https://www.youtube.com/watch?v=W5JJ_NccMkM)

@@ -1,4 +1,4 @@
-# L2 - @fila do RU - Separar Pares e Ímpares
+# @fila do RU - Separar Pares e Ímpares
 
 ![_](cover.jpg)
 
@@ -28,31 +28,31 @@ Imprima todos os números ímpares na ordem em que foram inseridos na primeira l
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 2
 4 2
-#OUTPUT
+======== EXPECT
 [ ]
 [ 4 2 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 2 6 4 1
-#OUTPUT
+======== EXPECT
 [ 1 ]
 [ 2 6 4 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 1 2 5 3 4 9
-#OUTPUT
+======== EXPECT
 [ 1 5 3 9 ]
 [ 2 4 ]
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L2 - Cabo de Guerra @jedi
+# @jedi - Cabo de Guerra
 
 ![_](cover.jpg)
 
@@ -27,49 +27,49 @@ Você recebe uma entrada que é um vetor de tamanho T de numeros positivos entre
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 2
 1
 1
-#OUTPUT
+======== EXPECT
 Empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 2
 1
-#OUTPUT
+======== EXPECT
 Jedi
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 2
 4
-#OUTPUT
+======== EXPECT
 Sith
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 2
 4
 5
 3
-#OUTPUT
+======== EXPECT
 Sith
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 2
 4
@@ -77,13 +77,13 @@ Sith
 3
 3
 3
-#OUTPUT
+======== EXPECT
 Empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 8
 2
 4
@@ -93,7 +93,7 @@ Empate
 3
 3
 2
-#OUTPUT
+======== EXPECT
 Jedi
-#END
+<<<<<<<< FINISH
 ```

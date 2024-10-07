@@ -1,4 +1,4 @@
-# L2 - Ponto @perto
+# Ponto @perto
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/perto/cover.jpg)
 

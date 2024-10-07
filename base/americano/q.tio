@@ -1,85 +1,85 @@
-#INPUT
+>>>>>>>> INSERT
 0
 0
 0
 0
-#OUTPUT
+======== EXPECT
 nenhum
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
 0
 2
 0
-#OUTPUT
+======== EXPECT
 jog2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 2
 2
 2
-#OUTPUT
+======== EXPECT
 jog4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 1
 0
 0
 0
-#OUTPUT
+======== EXPECT
 jog1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 0
 3
 0
 0
-#OUTPUT
+======== EXPECT
 jog3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 1
 1
 1
 1
-#OUTPUT
+======== EXPECT
 jog4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 2
 1
 1
 1
-#OUTPUT
+======== EXPECT
 jog1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 2
 10
 1
 1
-#OUTPUT
+======== EXPECT
 jog2
-#END
+<<<<<<<< FINISH

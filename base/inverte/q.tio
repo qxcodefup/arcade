@@ -1,61 +1,61 @@
-#INPUT
+>>>>>>>> INSERT
 a
-#OUTPUT
+======== EXPECT
 A
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 B
-#OUTPUT
+======== EXPECT
 b
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
-#OUTPUT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 !
-#OUTPUT
+======== EXPECT
 !
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 X
-#OUTPUT
+======== EXPECT
 x
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 c
-#OUTPUT
+======== EXPECT
 C
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 -
-#OUTPUT
+======== EXPECT
 -
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 @
-#OUTPUT
+======== EXPECT
 @
-#END
+<<<<<<<< FINISH

@@ -1,4 +1,4 @@
-# L2 - @vacina
+# @vacina
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vacina/cover.jpg)
 

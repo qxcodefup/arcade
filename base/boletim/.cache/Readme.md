@@ -1,4 +1,4 @@
-# L2 - @boletim - Soma de elementos de em uma matriz
+# @boletim - Soma de elementos de em uma matriz
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/boletim/cover.jpg)
 
@@ -24,28 +24,28 @@ Receba uma matriz 2x3 de notas inteiras e retorne a soma de todas as notas.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1 2 3
 4 5 6
-#OUTPUT
+======== EXPECT
 21
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1 1 1
 1 1 1
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5 2 1
 3 2 1
-#OUTPUT
+======== EXPECT
 14
-#END
+<<<<<<<< FINISH
 ```

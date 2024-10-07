@@ -1,4 +1,4 @@
-# L3 - Amo a @amora meu Amor - Contar Substrings
+# @amora - Contar Substrings
 
 ![_](cover.jpg)
 
@@ -26,19 +26,19 @@ Ajude Amora e faça um programa que recebe duas entradas, uma por linha, na prim
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 amo o amor que me amou, oh amora amortecida
 amo
-#OUTPUT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 o rato ratificou o carate que rateamos no cerato.
 rat
-#OUTPUT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```

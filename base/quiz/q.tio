@@ -1,63 +1,63 @@
-#INPUT
+>>>>>>>> INSERT
 a
 c
 d
 d
-#OUTPUT
+======== EXPECT
 Ja ouviu falar
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 d
 a
 c
 d
-#OUTPUT
+======== EXPECT
 Super Fa
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 b
 b
 b
 b
-#OUTPUT
+======== EXPECT
 Nunca assistiu
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 d
 b
 b
 b
-#OUTPUT
+======== EXPECT
 Ja ouviu falar
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 d
 b
 b
 d
-#OUTPUT
+======== EXPECT
 Interessado no assunto
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 d
 b
 c
 d
-#OUTPUT
+======== EXPECT
 Fa
-#END
+<<<<<<<< FINISH

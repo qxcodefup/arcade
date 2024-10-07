@@ -1,4 +1,4 @@
-# L3 - Separando a partir de @tokens
+# @tokens - Separando a partir de tokens
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/tokens/cover.jpg)
 
@@ -17,32 +17,32 @@ Dada uma frase (max 100 char) com palavras (letras minusculas), nÃºmeros e espaÃ
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 mamae me ama#15#1.76;
-#OUTPUT
+======== EXPECT
 mamae me ama
 15
 1.76
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 aa 4#1 -f; -2.0;
-#OUTPUT
+======== EXPECT
 aa 4
 1 -f
  -2.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 coca zero;1.75#8;U;
-#OUTPUT
+======== EXPECT
 coca zero
 1.75
 8
 U
-#END
+<<<<<<<< FINISH
 ```

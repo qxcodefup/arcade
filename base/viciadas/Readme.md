@@ -1,4 +1,4 @@
-# L3 - Bolinhas @viciadas
+# @viciadas - Bolinhas da sorte
 
 ![_](cover.jpg)
 
@@ -34,31 +34,31 @@ crescente.
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 3 
 1 1 2
-#OUTPUT
+======== EXPECT
 2
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 5
 1 3 2 2 3
-#OUTPUT
+======== EXPECT
 3
 2 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 10
 2 9 3 3 3 2 1 4 1 1
-#OUTPUT
+======== EXPECT
 5
 1 3
-#END
+<<<<<<<< FINISH
 ```

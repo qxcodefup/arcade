@@ -1,4 +1,4 @@
-# L2 - Achando @carteira - Retirando os loops
+# @carteira - Retirando os loops
 
 ![_](cover.jpg)
 
@@ -27,49 +27,49 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 0
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 360
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 361
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 722
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 -2
-#OUTPUT
+======== EXPECT
 358
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 -350
-#OUTPUT
+======== EXPECT
 10
-#END
+<<<<<<<< FINISH
 ```

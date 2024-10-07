@@ -1,4 +1,4 @@
-# L2 - Soldados @pmg
+# @pmg - Soldados
 
 ![_](cover.jpg)
 
@@ -37,43 +37,43 @@ double media(int vet[], int qtd){
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1
 1.30
-#OUTPUT
+======== EXPECT
 1.30
 M
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 1.70 1.60
-#OUTPUT
+======== EXPECT
 1.65
 G P
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 1.70 1.60 1.8
-#OUTPUT
+======== EXPECT
 1.70
 M P G
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 1.00 1.70 1.60 1.80
-#OUTPUT
+======== EXPECT
 1.53
 P G G G
-#END
+<<<<<<<< FINISH
 ```
 
 ## Dicas

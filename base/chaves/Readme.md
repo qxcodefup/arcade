@@ -1,4 +1,4 @@
-# L1 - @chaves - Positivo, Nulo ou Negativo?
+# @chaves - Positivo, Nulo ou Negativo?
 
 ![_](cover.jpg)
 
@@ -28,25 +28,25 @@ Eu espero!
 ### Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5
-#OUTPUT
+======== EXPECT
 positivo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -1
-#OUTPUT
+======== EXPECT
 negativo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
-#OUTPUT
+======== EXPECT
 nulo
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L0 - @vet_i - carregando vetor em várias linhas
+# @vet_i - carregando vetor em várias linhas
 
 - Leia o número de elementos na primeira linha.
 - Leia depois um elemento por linha.
@@ -8,47 +8,47 @@
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 1
 2
 3
-#OUTPUT
+======== EXPECT
 1
 2
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
-#OUTPUT
-#END
+======== EXPECT
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 6
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 1
 2
 3
 4
 5
-#OUTPUT
+======== EXPECT
 1
 2
 3
 4
 5
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L3 - @mercantil V3 - Muitas rodadas
+# @mercantil V3 - Muitas rodadas
 
 ![_](cover.jpg)
 
@@ -29,67 +29,67 @@
 ## Exemplos  
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1  
 1.0  
 1.0  
 M  
-#OUTPUT
+======== EXPECT
 primeiro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2  
 1.0 2.0  
 1.0 2.1  
 m m  
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT  
+>>>>>>>> INSERT  
 2
 1.0 2.0
 1.0 2.1
 m M
-#OUTPUT
+======== EXPECT
 primeiro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 1.0 2.0
 1.1 2.1
 m M
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 1.0 2.0 4.0
 1.1 2.1 4.0
 m M m
-#OUTPUT
+======== EXPECT
 primeiro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 1.0 2.0 4.02
 1.1 2.1 4.1
 M m m
-#OUTPUT
+======== EXPECT
 segundo
-#END
+<<<<<<<< FINISH
 ```

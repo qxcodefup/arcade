@@ -1,4 +1,4 @@
-# L3 - Conta @digitos
+# @digitos - Fazendo contagem
 
 ![_](cover.jpg)
 
@@ -27,56 +27,56 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 
 ```py
 
-#INPUT
+>>>>>>>> INSERT
 0
 0
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 10
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 
 
-#INPUT
+>>>>>>>> INSERT
 2
 99102030
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 9
 44902391
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 5939
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
 51007140
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 [Resolução](https://youtu.be/utRdA8SwBzA)

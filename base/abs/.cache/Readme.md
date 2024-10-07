@@ -1,7 +1,4 @@
-# L0 - @abs - Valor absoluto
-
-[Ação](#ação) | [Shell](#shell) | [Dicas](#dicas)
--- | -- | --
+# @abs - Valor absoluto
 
 ![abs](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/abs/cover.jpg)
 
@@ -33,51 +30,54 @@ Crie sua própria função para calcular o valor absoluto de um número.
 
 #INPUT
 1 5
-#OUTPUT
-4
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
 5 1
-#OUTPUT
-4
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
 -5 1
-#OUTPUT
-6
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
 1 -5
-#OUTPUT
-6
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 
 ```
 
-### Dicas
+## Dicas
 
-- **C** - O método `abs()` o ajudará a encontrar o valor absoluto.
-``` c
+**C** - O método `abs()` o ajudará a encontrar o valor absoluto.
+
+```c
 int main() {
     int valorAbsoluto = abs(numero)
 }
 ```
 
-- **Python** - O método `abs()` o ajudará a encontrar o valor absoluto.
-``` python
+**Python** - O método `abs()` o ajudará a encontrar o valor absoluto.
+
+```py
 valorAbsoluto = abs(numero)
 ```
 
-- **TypeScript** -  O método `abs()` o ajudará a encontrar o valor absoluto.
-``` ts
+**TypeScript** -  O método `abs()` o ajudará a encontrar o valor absoluto.
+
+```ts
 let valorAbsoluto: number = Math.abs(numero);
 ```

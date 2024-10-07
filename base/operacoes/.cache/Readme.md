@@ -1,4 +1,4 @@
-# L1 - @operacoes básicas
+# @operacoes básicas
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/operacoes/cover.jpg)
 
@@ -20,29 +20,29 @@ Leia dois números e imprima a soma, a subtração, a multiplicação, a divisã
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1
 4
-#OUTPUT
+======== EXPECT
 5
 -3
 4
 0.25
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 3
-#OUTPUT
+======== EXPECT
 6
 0
 9
 1.00
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ## Resolução

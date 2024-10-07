@@ -1,4 +1,4 @@
-# L0 - @vet_ii - carregando vetor na mesma linha
+# @vet_ii - carregando vetor na mesma linha
 
 - Leia o número de elementos na primeira linha.
 - Leia todos os elementos do vetor na segunda linha.
@@ -8,44 +8,44 @@
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 1 2 3
-#OUTPUT
+======== EXPECT
 [ 1 2 3 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
-#OUTPUT
+======== EXPECT
 [ ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 6
-#OUTPUT
+======== EXPECT
 [ 6 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 1 2 3 4 5
-#OUTPUT
+======== EXPECT
 [ 1 2 3 4 5 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 4 2 3 1
-#OUTPUT
+======== EXPECT
 [ 4 2 3 1 ]
 ```

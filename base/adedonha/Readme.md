@@ -1,4 +1,4 @@
-# L2 - @adedonha
+# @adedonha
 
 ![_](cover.jpg)
 
@@ -61,43 +61,43 @@ Leia a soma dos dedos dos três irmãos e diga qual a letra L que será utilizad
 ## Exemplos
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0 
-#OUTPUT
+======== EXPECT
 joguem de novo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
-#OUTPUT
+======== EXPECT
 a
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
-#OUTPUT
+======== EXPECT
 b
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 26
-#OUTPUT
+======== EXPECT
 z
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 27
-#OUTPUT
+======== EXPECT
 a
-#END
+<<<<<<<< FINISH
 ```
 
 [Explicação](https://youtu.be/qKkmrLZfYcA)

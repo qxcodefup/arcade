@@ -1,29 +1,29 @@
-#INPUT
+>>>>>>>> INSERT
 sorvete suor casaca chicletes pegasus
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 minhoca quixe tempero musica roubo
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 acaro cocegas cagado aquecido
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 aaabbcc bbac bbbaacc ccbddbabda basdbdc
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH

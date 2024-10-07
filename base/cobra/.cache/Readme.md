@@ -1,8 +1,8 @@
-# L2 - @cobra - jogo da cobrinha
+# @cobra - jogo da cobrinha
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cobra/cover.jpg)
 
-## Descrição
+## Motivação
 
 Marivaldo, mais conhecido como Zé da Carroça, é um agricultor bem sucedido do sertão de Quixadá. Só quando chove é claro. Mas o problema de Marivaldo é outro. Seu filho mais novo, Mavarildo, mais conhecido como Zezim da Carroça, tem uma fixação assustadora em bichos do mato, em especial cobras. O menino ajudado pelo seu irmão Marivanio vara o cercado procurando uma cobra pra bater uma foto no celular do pai e postar nas redes sociais para seus seguidores. O menino entretanto combinou com o pai que se ele ganhasse um celular com joguinhos, ele pararia de tal estripulias. O pai, então, por fraqueza, cedendo à chantagem, comprou um nokia 3310 super conservado na feirinha do centro pela bagatela de uma raspa de rapadura com coco e mamão num prato de coalhada.
 
@@ -16,15 +16,24 @@ A cabeça da cobra pode estar apontada para 4 possíveis direções. \[U\] Up(Ci
 
 ### Entrada
 
-- N, X, Y, C, S, um por linha.
+- A entrada consiste de 5 linhas:
+  - 𝑁: Um número inteiro que indica a dimensão do tabuleiro.
+  - 𝑋: Um número inteiro representando a posição inicial horizontal da cabeça da cobra.
+  - 𝑌: Um número inteiro representando a posição inicial vertical da cabeça da cobra.
+  - 𝐶: Um caractere representando a direção da cobra ('U' para cima, 'D' para baixo, 'L' para esquerda, 'R' para direita).
+  - 𝑆: Um número inteiro representando o número de segundos de distração.
 
 ## Saída
 
-- X Y da posição final da cobra
+- O programa deve imprimir duas coordenadas inteiras 𝑋 e 𝑌, indicando a posição final da cabeça.
 
 ## Restrições
 
-- 0 ≤ N, X, Y, C, S ≤ 1000
+>>>>>>>> INSERTN ≤ 1000
+- 0 ≤ X ≤ 1000
+- 0 ≤ Y ≤ 1000
+- 0 ≤ C ≤ 1000
+- 0 ≤ S ≤ 1000
 
 ## Exemplos
 
@@ -32,24 +41,24 @@ A cabeça da cobra pode estar apontada para 4 possíveis direções. \[U\] Up(Ci
 #INPUT
 10
 4
-3
+>>>>>>>> INSERT
 R
 1
-#OUTPUT
+======== EXPECT
 5 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
 10
 4
-3
+>>>>>>>> INSERT
 R
 8
-#OUTPUT
+======== EXPECT
 2 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
@@ -59,7 +68,17 @@ R
 5
 U
 1
-#OUTPUT
+======== EXPECT
 4 4
-#END
+<<<<<<<< FINISH
 ```
+
+## Dicas
+
+Ajuda
+A cobra se move uma unidade por segundo na direção indicada. Quando ultrapassa o limite do tabuleiro, ela reaparece do outro lado. Você pode calcular a nova posição usando operações de módulo para garantir que a posição fique dentro dos limites do tabuleiro.
+
+Você pode resolver o problema utilizando as seguintes operações:
+
+- Para mover para a direita ou esquerda, modifique a coordenada 𝑋 e aplique o operador módulo 𝑁 para "dar a volta" quando necessário.
+- Para mover para cima ou para baixo, modifique a coordenada 𝑌 e aplique o mesmo princípio de módulo.

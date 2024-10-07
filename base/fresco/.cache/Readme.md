@@ -1,4 +1,4 @@
-# L3 - Francês é @fresco - Juntar palavras
+# @fresco - Juntar palavras
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fresco/cover.jpg)
 
@@ -27,33 +27,33 @@ o gago disse e e e eu te amo -> o gago disseu te amo
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 a porta amassou
-#OUTPUT
+======== EXPECT
 a portamassou
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 carla almeida alencar
-#OUTPUT
+======== EXPECT
 carlalmeidalencar
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 a carla a ama
-#OUTPUT
+======== EXPECT
 a carlama
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 o orvalho ouviu uniformemente e eu uivei
-#OUTPUT
+======== EXPECT
 orvalhouviuniformementeuivei
-#END
+<<<<<<<< FINISH
 ```

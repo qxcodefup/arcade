@@ -1,4 +1,4 @@
-# L2 - @quiz do Harry Potter
+# @quiz do Harry Potter
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/quiz/cover.jpg)
 
@@ -61,25 +61,25 @@ Número de acertos | Saída do programa
 ### Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 a
 c
 d
 d
-#OUTPUT
+======== EXPECT
 Ja ouviu falar
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 d
 a
 c
 d
-#OUTPUT
+======== EXPECT
 Super Fa
-#END
+<<<<<<<< FINISH
 ```
 
 Autor: Bruno Góes

@@ -1,4 +1,4 @@
-# L3 - Pintando @unhas Vetor para inteiro
+# @unhas - Vetor para inteiro
 
 ![_](cover.jpg)
 
@@ -24,47 +24,47 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3
 1
 2
 3
-#OUTPUT
+======== EXPECT
 123
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 3
 4
 5
 1
-#OUTPUT
+======== EXPECT
 3451
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 1
 2
-#OUTPUT
+======== EXPECT
 12
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 5
 4
 3
 2
 1
-#OUTPUT
+======== EXPECT
 54321
-#END
+<<<<<<<< FINISH
 ```

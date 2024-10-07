@@ -1,37 +1,37 @@
-#INPUT
+>>>>>>>> INSERT
 4
 3
 5
-#OUTPUT
+======== EXPECT
 6.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 12
 16
-#OUTPUT
+======== EXPECT
 59.92
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 12
 15
 13
-#OUTPUT
+======== EXPECT
 74.83
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 3.4
 4.5
 5.1
-#OUTPUT
+======== EXPECT
 7.51
-#END
+<<<<<<<< FINISH

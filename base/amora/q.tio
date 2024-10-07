@@ -1,42 +1,42 @@
-#INPUT
+>>>>>>>> INSERT
 amo o amor que me amou, oh amora amortecida
 amo
-#OUTPUT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 o rato ratificou o carate que rateamos no cerato.
 rat
-#OUTPUT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 lua de cristal que me faz sonhar menos
 me
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 marquei um x no seu umbigo de zumbak
 um
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 super golpe de kungfu
 kungfu
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH

@@ -1,4 +1,4 @@
-# L1 - @zigzag - Viunei e a saúde mental
+# @zigzag - Viunei e a saúde mental
 
 Viunei chegou num grupo de alunos que estavam rolando seus feeds do Insta e disse de forma muito polida.
 
@@ -25,10 +25,10 @@ Existem muitas variações de jogos de atenção para jogar em grupo. Um famoso 
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 16
-#OUTPUT
+======== EXPECT
 1
 2
 zig
@@ -45,14 +45,14 @@ zig
 14
 zigzag
 16
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 25
 35
-#OUTPUT
+======== EXPECT
 zag
 26
 zig
@@ -64,6 +64,6 @@ zigzag
 zig
 34
 zag
-#END
+<<<<<<<< FINISH
 
 ```

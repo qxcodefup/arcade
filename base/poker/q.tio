@@ -1,11 +1,11 @@
-#INPUT 01
+>>>>>>>> INSERT 01
 5
 1 2 3 4 5
 10 2 10 2 3
 1 2 3 5 4
 10 10 3 2 3
 1 2 1 2 3
-#OUTPUT
+======== EXPECT
 Teste 1
 201
 
@@ -21,11 +21,11 @@ Teste 4
 Teste 5
 28
 
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 100
 11 7 11 11 8
 3 9 3 9 3
@@ -127,7 +127,7 @@ Teste 5
 8 5 8 8 8
 3 7 7 4 3
 2 9 3 7 13
-#OUTPUT
+======== EXPECT
 Teste 1
 151
 
@@ -428,11 +428,11 @@ Teste 99
 Teste 100
 0
 
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 25
 1 2 3 4 5
 2 3 4 5 6
@@ -459,7 +459,7 @@ Teste 100
 2 4 6 8 10
 1 2 3 4 6
 2 4 5 6 7
-#OUTPUT
+======== EXPECT
 Teste 1
 201
 
@@ -535,11 +535,11 @@ Teste 24
 Teste 25
 0
 
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 20
 1 1 1 1 2
 2 1 2 2 2
@@ -561,7 +561,7 @@ Teste 25
 1 1 1 13 1
 1 1 1 1 13
 2 12 2 2 2
-#OUTPUT
+======== EXPECT
 Teste 1
 181
 
@@ -622,11 +622,11 @@ Teste 19
 Teste 20
 182
 
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 20
 1 1 1 2 2
 2 2 1 1 1
@@ -648,7 +648,7 @@ Teste 20
 12 12 13 13 13
 11 10 10 10 11
 1 9 9 1 9
-#OUTPUT
+======== EXPECT
 Teste 1
 161
 
@@ -709,11 +709,11 @@ Teste 19
 Teste 20
 169
 
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 20
 1 1 1 2 3
 2 3 4 2 2
@@ -735,7 +735,7 @@ Teste 20
 1 2 3 2 2
 2 3 2 1 2
 13 12 11 11 11
-#OUTPUT
+======== EXPECT
 Teste 1
 141
 
@@ -796,11 +796,11 @@ Teste 19
 Teste 20
 151
 
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 20
 1 2 1 2 3
 1 2 3 2 1
@@ -822,7 +822,7 @@ Teste 20
 12 9 12 1 9
 13 12 3 3 12
 7 7 6 6 11
-#OUTPUT
+======== EXPECT
 Teste 1
 28
 
@@ -883,11 +883,11 @@ Teste 19
 Teste 20
 53
 
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 20
 3 11 11 9 5
 10 6 6 5 7
@@ -909,7 +909,7 @@ Teste 20
 3 8 2 3 4
 10 4 8 3 3
 4 1 1 9 8
-#OUTPUT
+======== EXPECT
 Teste 1
 11
 
@@ -970,11 +970,11 @@ Teste 19
 Teste 20
 1
 
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 09
+>>>>>>>> INSERT 09
 100
 12 9 12 9 12
 4 8 8 8 4
@@ -1076,7 +1076,7 @@ Teste 20
 7 6 12 2 3
 12 12 8 8 4
 5 6 3 4 2
-#OUTPUT
+======== EXPECT
 Teste 1
 172
 
@@ -1377,11 +1377,11 @@ Teste 99
 Teste 100
 202
 
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 10
+>>>>>>>> INSERT 10
 100
 9 10 8 6 7
 5 5 5 10 5
@@ -1483,7 +1483,7 @@ Teste 100
 9 5 7 11 5
 6 7 5 4 3
 5 7 8 9 12
-#OUTPUT
+======== EXPECT
 Teste 1
 206
 
@@ -1784,4 +1784,4 @@ Teste 99
 Teste 100
 0
 
-#END
+<<<<<<<< FINISH

@@ -1,4 +1,4 @@
-# L2 - @castelos de Cubos
+# @castelos de Cubos
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/castelos/cover.jpg)
 
@@ -31,25 +31,25 @@ Dado um inteiro lido do usuário, determine, sem uso de operadores reais (como r
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 16
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 18
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 81
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```

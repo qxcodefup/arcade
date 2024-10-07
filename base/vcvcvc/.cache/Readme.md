@@ -1,4 +1,4 @@
-# L2 - @vcvcvc - Vogais e Consoantes - Substituindo
+# @vcvcvc - Vogais e Consoantes - Substituindo
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vcvcvc/cover.jpg)
 
@@ -29,25 +29,25 @@ Se você entendeu, faça o código que dada a frase de entrada(max 50 char), imp
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 Pedrinho Marcio
-#OUTPUT
+======== EXPECT
 cvccvccv cvccvv
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Reumario Albrito
-#OUTPUT
+======== EXPECT
 cvvcvcvv vcccvcv
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 AaBbCcDdEe
-#OUTPUT
+======== EXPECT
 vvccccccvv
-#END
+<<<<<<<< FINISH
 ```

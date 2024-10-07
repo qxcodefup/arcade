@@ -1,4 +1,4 @@
-# L3 - @meio - A raposa e os esquilos
+# @meio - A raposa e os esquilos
 
 ![_](cover.jpg)
 
@@ -20,56 +20,54 @@ Os esquilos ficaram juntinhos e bem esticadinhos. A raposa foi lá e numa bocada
 
 Moral da história: Não confie em pessoas que tem claramente interesses diferentes dos seus quando elas quiserem te ajudar.
 
-## Ação
-
-Receba três valores e imprima o valor do meio.
+Receba três números inteiros distintos e determine qual deles é o valor intermediário, ou seja, o número que não é nem o menor, nem o maior. O programa deve então imprimir esse valor do meio.
 
 ### Entrada
 
-* Os três valores, uma por linha, todos os valores serão diferentes.
+* Os três valores serão fornecidos em três linhas, e todos os valores serão diferentes.
 
-## Saída
+### Saída
 
-* O valor do meio.
+* Imprima o valor do meio.
 
-## Exemplos
+## Testes
 
-``` py
+```py
 #INPUT
 5
-2
+>>>>>>>> INSERT
 4
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
 6
-5
+>>>>>>>> INSERT
 7
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
 1
-0
+>>>>>>>> INSERT
 6
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
 4
-6
+>>>>>>>> INSERT
 5
-#OUTPUT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```

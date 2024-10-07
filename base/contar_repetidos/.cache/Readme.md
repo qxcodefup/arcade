@@ -1,4 +1,4 @@
-# L1 - @contar_repetidos
+# @contar_repetidos
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/contar_repetidos/cover.jpg)
 
@@ -19,30 +19,30 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 ### Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5 3
 2
 3
 6
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0 4
 0
 0
 1
 0
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2 8
 2
 4
@@ -52,7 +52,7 @@ Faça um programa que dado um vetor, retorne quantas vezes um determinado elemen
 0
 2
 2
-#OUTPUT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```

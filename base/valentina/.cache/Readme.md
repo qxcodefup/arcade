@@ -1,4 +1,4 @@
-# L2 - Valdiskley casando com @valentina
+# @valentina e Valdiskley
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/valentina/cover.jpg)
 
@@ -56,61 +56,61 @@ c - e = y
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 a
 +
 a
-#OUTPUT
+======== EXPECT
 a
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 b
 +
 d
-#OUTPUT
+======== EXPECT
 e
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 z
 +
 c
-#OUTPUT
+======== EXPECT
 b
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 f
 -
 d
-#OUTPUT
+======== EXPECT
 c
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 b
 -
 c
-#OUTPUT
+======== EXPECT
 z
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 b
 +
 b
-#OUTPUT
+======== EXPECT
 c
-#END
+<<<<<<<< FINISH
 ```

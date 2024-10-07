@@ -1,4 +1,4 @@
-# L3 - Valdiskley e @atbash
+# @atbash e Valdiskley
 
 ![_](cover.jpg)
 
@@ -33,21 +33,21 @@ Observe que em word1 podem aparecer pontuação, numeros, etc. Se word1 = "123!\
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 Opa amigo xarles 2o
 a
 x
-#OUTPUT
+======== EXPECT
 Opx xmigo axrles 2o
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 minha chinela
 abcdefghijlm
 nopqrtuvwxyz
-#OUTPUT
+======== EXPECT
 zwavn pvwaryn
-#END
+<<<<<<<< FINISH
 ```

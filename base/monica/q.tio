@@ -1,237 +1,237 @@
-#INPUT
+>>>>>>>> INSERT
 52
 14
 18
-#OUTPUT
+======== EXPECT
 20
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 47
 21
 9
-#OUTPUT
+======== EXPECT
 21
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 109
 20
 30
-#OUTPUT
+======== EXPECT
 59
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 69
 3
 18
-#OUTPUT
+======== EXPECT
 48
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 60
 16
 17
-#OUTPUT
+======== EXPECT
 27
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 84
 4
 30
-#OUTPUT
+======== EXPECT
 50
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 63
 2
 6
-#OUTPUT
+======== EXPECT
 55
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 87
 13
 14
-#OUTPUT
+======== EXPECT
 60
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 83
 30
 18
-#OUTPUT
+======== EXPECT
 35
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 73
 20
 40
-#OUTPUT
+======== EXPECT
 40
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 110
 31
 21
-#OUTPUT
+======== EXPECT
 58
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 85
 11
 10
-#OUTPUT
+======== EXPECT
 64
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 74
 4
 12
-#OUTPUT
+======== EXPECT
 58
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 42
 9
 21
-#OUTPUT
+======== EXPECT
 21
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 103
 50
 40
-#OUTPUT
+======== EXPECT
 50
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 89
 2
 75
-#OUTPUT
+======== EXPECT
 75
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 76
 15
 21
-#OUTPUT
+======== EXPECT
 40
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 14
 25
-#OUTPUT
+======== EXPECT
 61
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 87
 36
 28
-#OUTPUT
+======== EXPECT
 36
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 78
 10
 51
-#OUTPUT
+======== EXPECT
 51
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 96
 42
 25
-#OUTPUT
+======== EXPECT
 42
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 91
 27
 8
-#OUTPUT
+======== EXPECT
 56
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 41
 25
 6
-#OUTPUT
+======== EXPECT
 25
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 47
 19
 7
-#OUTPUT
+======== EXPECT
 21
-#END
+<<<<<<<< FINISH

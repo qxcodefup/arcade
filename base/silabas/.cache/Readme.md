@@ -1,4 +1,4 @@
-# L3 - Separe Pneumatócito - @silabas
+# @silabas - Separe Pneumatócito
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/silabas/cover.jpg)
 
@@ -31,25 +31,25 @@ Se após uma vogal existir uma consoante, deve-se separar a sílaba.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 Paralelepipedo
-#OUTPUT
+======== EXPECT
 Pa-ra-le-le-pi-pe-do
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Eu sou o rei de Fup
-#OUTPUT
+======== EXPECT
 Eu sou o rei de Fu-p
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Floresta Amazonica
-#OUTPUT
+======== EXPECT
 Flo-re-sta A-ma-zo-ni-ca
-#END
+<<<<<<<< FINISH
 ```

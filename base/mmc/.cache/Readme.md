@@ -1,4 +1,4 @@
-# L2 - @mmc
+# @mmc
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/mmc/cover.jpg)
 
@@ -17,25 +17,25 @@ Faça uma função que calcule e retorne o mmc de dois números.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 6 9
-#OUTPUT
+======== EXPECT
 18
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 4
-#OUTPUT
+======== EXPECT
 12
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 6
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L3 - Campo de @minhocas - OBI 2005
+# @minhocas - Campo de minhocas - OBI 2005
 
 ![_](cover.jpg)
 
@@ -42,18 +42,18 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 3 5
 81 28 240 10 1
 40 10 100 240 4
 20 180 111 35 2
-#OUTPUT
+======== EXPECT
 451
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 9 9
 2 1 1 1 1 1 1 1 2
 1 2 1 1 1 1 1 2 1
@@ -64,13 +64,13 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 1 1 2 1 1 1 2 1 1
 1 2 1 1 1 1 1 2 1
 2 1 1 1 1 1 1 1 2
-#OUTPUT
+======== EXPECT
 13
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 10 10
 3 5 5 5 5 5 5 5 5 5
 3 1 1 1 1 1 1 1 1 5
@@ -82,7 +82,7 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 3 1 1 1 1 1 1 1 1 5
 3 1 1 1 1 1 1 1 1 5
 3 5 5 5 5 5 5 5 5 5
-#OUTPUT
+======== EXPECT
 50
-#END
+<<<<<<<< FINISH
 ```

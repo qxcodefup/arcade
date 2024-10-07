@@ -1,97 +1,97 @@
-#INPUT
+>>>>>>>> INSERT
 1
 2
 3
-#OUTPUT
+======== EXPECT
 primeiro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 5
 4
-#OUTPUT
+======== EXPECT
 segundo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 11
 9
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 20
 21
 22
-#OUTPUT
+======== EXPECT
 primeiro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 20
 21
 21
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 10
 11
 11
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 10
 12
 11
-#OUTPUT
+======== EXPECT
 segundo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 10
 11
 7
-#OUTPUT
+======== EXPECT
 primeiro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 10
+>>>>>>>> INSERT 10
 20
 22
 18
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 11
+>>>>>>>> INSERT 11
 20
 21
 19
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH

@@ -1,37 +1,37 @@
-#INPUT
+>>>>>>>> INSERT
 apesar de 2 jogadores serem expulsos, a seleção brasileira venceu a seleção italiana por 5 x 1
-#OUTPUT
+======== EXPECT
 8
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 meus 3 cachorros comeram 2 ratos em 11 horas
-#OUTPUT
+======== EXPECT
 16
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 os 2 irmãos de maria durmiram os ultimos 2 dias na casa de seus avós
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 02 x dhgh 111 b 2 c d xf 31
-#OUTPUT
+======== EXPECT
 146
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 1 a x dhgh 11 b 2 c d xf 3
-#OUTPUT
+======== EXPECT
 17
-#END
+<<<<<<<< FINISH

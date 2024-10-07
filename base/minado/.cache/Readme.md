@@ -1,4 +1,4 @@
-# L3 - Campo @minado
+# @minado - Campo Minado
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/minado/cover.jpg)
 
@@ -58,51 +58,51 @@ Considere ( 1 <=  **n, m**<= 50).
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3 3
 ***
 --*
 --*
-#OUTPUT
+======== EXPECT
 ***
 25*
 -2*
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 3
 ---
 -*-
 ---
-#OUTPUT
+======== EXPECT
 111
 1*1
 111
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 5
 *----
 ----*
 ---**
-#OUTPUT
+======== EXPECT
 *1-11
 1113*
 --1**
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1 1
 *
-#OUTPUT
+======== EXPECT
 *
-#END
+<<<<<<<< FINISH
 ```
 
 ## Mais exemplos

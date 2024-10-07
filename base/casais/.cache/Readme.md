@@ -1,4 +1,4 @@
-# L3 - @casais - Quantos casais na arca
+# @casais - Quantos casais na arca
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/casais/cover.jpg)
 
@@ -18,28 +18,28 @@ O Dono do zoológico que fazer uma grande arca e colocar os animais dentro. Acon
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3
 1 -1 2
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 1 3 2 2 -3
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 1 9 -3 3 3 2 -1 4 -1 1`
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```

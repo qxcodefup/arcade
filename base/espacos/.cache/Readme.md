@@ -1,4 +1,4 @@
-# L3 - Meu cachorro comeu minha tarefa V2 - retirar @espacos duplicados
+# @espacos duplicados - Meu cachorro comeu minha tarefa V2
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/espacos/cover.jpg)
 
@@ -32,33 +32,33 @@ Faça um código que retire os espaços duplicados no meio da frase.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 a  almofada ta muito  fofa
-#OUTPUT
+======== EXPECT
 a almofada ta muito fofa
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 ai  bb cx
-#OUTPUT
+======== EXPECT
 ai bb cx
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 aiu  bbk cxmp
-#OUTPUT
+======== EXPECT
 aiu bbk cxmp
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 a  bola  ta furada
-#OUTPUT
+======== EXPECT
 a bola ta furada
-#END
+<<<<<<<< FINISH
 ```

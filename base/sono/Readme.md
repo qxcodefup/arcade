@@ -1,4 +1,4 @@
-# L3 - Horas de @sono
+# @sono - Quanto tempo ainda tenho
 
 ![_](cover.jpg)
 
@@ -26,39 +26,39 @@ Se você dormir 23:00 e acorda às 6:00 então você tem 7:00 horas de sono.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 01 00 00
 03 00 00
-#OUTPUT
+======== EXPECT
 02 00 00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 02 11 00
 03 10 10
-#OUTPUT
+======== EXPECT
 00 59 10
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 04 10 00
 03 10 10
-#OUTPUT
+======== EXPECT
 23 00 10
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 04 00 01
 03 00 00
-#OUTPUT
+======== EXPECT
 22 59 59
-#END
+<<<<<<<< FINISH
 ```
 
 ## Ajuda

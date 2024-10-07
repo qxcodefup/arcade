@@ -1,4 +1,4 @@
-# L0 - @loop_v - loop com continue e break
+# @loop_v - loop com continue e break
 
 Leia dois números inteiros A e B, na mesma linha, e faça um loop `incremental` indo de A até B,excluindo B da impressão.
 
@@ -14,27 +14,27 @@ Leia dois números inteiros A e B, na mesma linha, e faça um loop `incremental`
 ```py
 
 
-#INPUT
+>>>>>>>> INSERT
 0 10
-#OUTPUT
+======== EXPECT
 [ 1 3 5 7 9 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5 10
-#OUTPUT
+======== EXPECT
 [ 5 7 9 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -5 10
-#OUTPUT
+======== EXPECT
 [ -5 -3 -1 1 3 5 7 9 ]
-#END
+<<<<<<<< FINISH
 
 
 

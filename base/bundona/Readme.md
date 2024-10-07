@@ -1,4 +1,4 @@
-# L3 - Formiga da @bundona
+# @bundona - Formiga
 
 ## Motivação
 
@@ -21,23 +21,23 @@ Dado a posição inicial da formiga no relógio, a direção que ela está camin
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 00
 00
 H
 8
-#OUTPUT
+======== EXPECT
 01 20
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 00
 10
 A
 74
-#OUTPUT
+======== EXPECT
 11 50
-#END
+<<<<<<<< FINISH
 ```

@@ -1,69 +1,69 @@
-#INPUT
+>>>>>>>> INSERT
 4
 12
 12
 3
 1988
-#OUTPUT
+======== EXPECT
 04:12 12/03/88
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 12
 30
 1
 3
 188
-#OUTPUT
+======== EXPECT
 12:30 01/03/88
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 14
 7
 7
 9
 2005
-#OUTPUT
+======== EXPECT
 14:07 07/09/05
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 23
 1
 1
 1
 2076
-#OUTPUT
+======== EXPECT
 23:01 01/01/76
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 5
 1
 1
 1
 2076
-#OUTPUT
+======== EXPECT
 05:01 01/01/76
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 0
 1
 1
 10
 2000
-#OUTPUT
+======== EXPECT
 00:01 01/10/00
-#END
+<<<<<<<< FINISH

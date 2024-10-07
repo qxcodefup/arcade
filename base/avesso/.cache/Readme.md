@@ -1,4 +1,4 @@
-# L2 - Jogo do @avesso
+# @avesso - Vetores e proximidade
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/avesso/cover.jpg)
 
@@ -50,37 +50,37 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1
 2 3
 3 1
-#OUTPUT
+======== EXPECT
 [3 -1]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 2 3
 2 1
-#OUTPUT
+======== EXPECT
 [2 1]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 2 1
 4 1
-#OUTPUT
+======== EXPECT
 [-4 1]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 3 1
 4 1 5
@@ -88,15 +88,15 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 4 1 5
 3 4
 4 1 5
-#OUTPUT
+======== EXPECT
 [-4 1 -5]
 [4 -1 5]
 [4 -1 5]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 7 0
 3 4 8 9 1 5 6
@@ -104,9 +104,9 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 3 4 8 9 1 5 6
 7 9
 3 4 -8 9 1 5 6
-#OUTPUT
+======== EXPECT
 [3 4 8 9 1 5 6]
 [-3 4 -8 9 1 5 6]
 [3 4 8 9 -1 5 6]
-#END
+<<<<<<<< FINISH
 ```

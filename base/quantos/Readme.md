@@ -1,7 +1,4 @@
-# L1 - @quantos são iguais
-
-[Motiv](#motivação) | [Shell](#shell)
--- | -- 
+# @quantos são iguais
 
 ![_](cover.jpg)
 
@@ -25,28 +22,28 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 #INPUT 01
 1
 4
-4
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 02
 1
 5
-4
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 03
 1
 1
-1
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```

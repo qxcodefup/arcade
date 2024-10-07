@@ -1,4 +1,4 @@
-# L2 - Contar @leds
+# @leds - Contando luzes
 
 ![_](cover.jpg)
 
@@ -27,49 +27,49 @@ Agradecimentos a Cassio F.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3
 1
 2
 3
-#OUTPUT
+======== EXPECT
 2 leds
 5 leds
 5 leds
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 11
 22
 33
-#OUTPUT
+======== EXPECT
 4 leds
 10 leds
 10 leds
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 115380
 2819311
 23456
-#OUTPUT
+======== EXPECT
 27 leds
 29 leds
 25 leds
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 1234567890
-#OUTPUT
+======== EXPECT
 49 leds
-#END
+<<<<<<<< FINISH
 ```

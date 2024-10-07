@@ -1,7 +1,4 @@
-# L0 - @positivo - sim ou não
-
-[Motiv](#motivação) | [Shell](#shell)
--- | -- 
+# @positivo - sim ou não
 
 ![Maior que Zero](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/positivo/cover.jpg)
 
@@ -24,39 +21,39 @@ Implemente um programa que recebe um número inteiro e imprime "SIM" se o númer
 ```py
 #INPUT 0
 3
-#OUTPUT
-SIM
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 1
 -12
-#OUTPUT
-
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 2
 -3
-#OUTPUT
-
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 3
 1
-#OUTPUT
-SIM
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 4
 0
-#OUTPUT
-SIM
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L2 - Comprando @tv parcelada
+# @tv - Comprando parcelada
 
 ![_](cover.jpg)
 
@@ -18,63 +18,63 @@ Aluízio quer comprar uma televisão parcelada. Ele tem X reais por mês dispon�
 Dado o valor da televisão e a quantidade de parcelas, um por linha, calcule o valor da parcela e o valor total que Aluízio vai pagar. Imprima a saída conforme o exemplo a seguir.
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 100
 1
-#OUTPUT
+======== EXPECT
 100.00
 100.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 2
-#OUTPUT
+======== EXPECT
 52.50
 105.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 10
-#OUTPUT
+======== EXPECT
 14.50
 145.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 102
 3
-#OUTPUT
+======== EXPECT
 37.40
 112.20
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 52
 4
-#OUTPUT
+======== EXPECT
 14.95
 59.80
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 5
-#OUTPUT
+======== EXPECT
 24.00
 120.00
-#END
+<<<<<<<< FINISH
 
 ```
 

@@ -1,4 +1,4 @@
-# L3 - @parkour
+# @parkour
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/parkour/cover.jpg)
 
@@ -51,37 +51,37 @@ Receba um vetor de inteiros e conte quantas vezes dois números consecutivos pos
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5
 1 2 1 2 3
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 4 2 5 4 5 3
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 8
 1 3 5 7 6 5 4 3
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 14
 4 2 5 3 6 4 3 4 3 2 3 2 3 5
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```

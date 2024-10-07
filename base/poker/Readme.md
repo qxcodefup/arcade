@@ -1,4 +1,4 @@
-# L3 - Mini @poker - OBI2005
+# @poker mini - OBI2005
 
 ![_](cover.jpg)
 
@@ -51,14 +51,14 @@ A grafia mostrada no Exemplo de Saída, abaixo, deve ser seguida rigorosamente. 
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 5
 1 2 3 4 5
 10 2 10 2 3
 1 2 3 5 4
 10 10 3 2 3
 1 2 1 2 3
-#OUTPUT
+======== EXPECT
 Teste 1
 201
 
@@ -74,5 +74,5 @@ Teste 4
 Teste 5
 28
 
-#END
+<<<<<<<< FINISH
 ```

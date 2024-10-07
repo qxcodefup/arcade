@@ -1,4 +1,4 @@
-# L2 - Organizando @ru - Separando vogais de consoantes
+# @ru - Separando vogais de consoantes
 
 ![_](cover.jpg)
 
@@ -25,37 +25,37 @@ Cada frase tem até 100 char.
 ## Exemplos  
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 um abraco amigo
-#OUTPUT
+======== EXPECT
 uaaoaio
 mbrcmg
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 meteoro de pegasus
-#OUTPUT
+======== EXPECT
 eeooeeau
 mtrdpgss
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 hora de morfar
-#OUTPUT
+======== EXPECT
 oaeoa
 hrdmrfr
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 thunder thunder thunder cats owwww
-#OUTPUT
+======== EXPECT
 ueueueao
 thndrthndrthndrctswwww
-#END
+<<<<<<<< FINISH
 ```

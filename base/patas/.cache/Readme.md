@@ -1,4 +1,4 @@
-# L1 - @patas - Chico Bento e Cebolinha
+# @patas - Chico Bento e Cebolinha
 
 Chico Bento fez uma aposta com o Cebolinha para ver quem conseguia estimar melhor o total de patas que tinha na fazenda.
 
@@ -21,32 +21,32 @@ Leia os animais e some as patas de todos eles.
 ## Testes
 
 ```py
-#INPUT um animal
+>>>>>>>> INSERT um animal
 4
 4
 1
 c
-#OUTPUT
+======== EXPECT
 4
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 7
 8
 2
 g
 c
-#OUTPUT
+======== EXPECT
 6
 Chico Bento
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 15
 15
 5
@@ -55,14 +55,14 @@ c
 g
 v
 g
-#OUTPUT
+======== EXPECT
 16
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 15
 17
 5
@@ -71,14 +71,14 @@ c
 g
 v
 g
-#OUTPUT
+======== EXPECT
 16
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 17
 15
 5
@@ -87,14 +87,14 @@ c
 g
 v
 g
-#OUTPUT
+======== EXPECT
 16
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 18
 15
 5
@@ -103,14 +103,14 @@ c
 g
 v
 g
-#OUTPUT
+======== EXPECT
 16
 Cebolinha
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 15
 18
 5
@@ -119,8 +119,8 @@ c
 g
 v
 g
-#OUTPUT
+======== EXPECT
 16
 Chico Bento
-#END
+<<<<<<<< FINISH
 ```

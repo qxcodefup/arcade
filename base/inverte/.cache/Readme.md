@@ -1,4 +1,4 @@
-# L1 - @inverte case de char
+# @inverte case de char
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/inverte/cover.jpg)
 
@@ -19,33 +19,33 @@ Dado a entrada de um caractere, retorne maiúsculo se ele for minúsculo e vice 
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 a
-#OUTPUT
+======== EXPECT
 A
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 B
-#OUTPUT
+======== EXPECT
 b
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
-#OUTPUT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 !
-#OUTPUT
+======== EXPECT
 !
-#END
+<<<<<<<< FINISH
 ```

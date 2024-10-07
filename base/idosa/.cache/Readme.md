@@ -1,4 +1,4 @@
-# L3 - Mulher mais @idosa
+# @idosa - Mulher mais idosa
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/idosa/cover.jpg)
 
@@ -23,43 +23,43 @@ Antes e fazer a busca pela mulher mais idosa, vocÃª deve ler os dados e armazenÃ
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 2
 ana 80 f
 joao 43 m
-#OUTPUT
+======== EXPECT
 ana
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 2
 jose 80 m
 joao 43 m
-#OUTPUT
+======== EXPECT
 nao tem mulher
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 3
 joao 43 m
 ana 80 f
 melissa 34 f
-#OUTPUT
+======== EXPECT
 ana
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 3
 joao 88 m
 ana 80 f
 melissa 84 f
-#OUTPUT
+======== EXPECT
 melissa
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L2 - @subdiagonais
+# @subdiagonais
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/subdiagonais/cover.jpg)
 
@@ -23,37 +23,37 @@ Em uma matriz de elementos inteiros 5x5, some todos os elementos da diagonal pri
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1 0 1 1 0
 0 1 1 1 1
 0 0 1 0 0
 1 1 1 0 0
 1 0 1 1 1
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1 1 0 0 1
 1 1 1 0 0
 1 0 0 1 1
 0 1 1 1 1
 0 0 0 1 1
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2 4 6 3 9
 8 7 5 4 1
 5 2 6 1 7
 8 4 3 2 5
 9 7 6 5 3
-#OUTPUT
+======== EXPECT
 -12
-#END
+<<<<<<<< FINISH
 ```

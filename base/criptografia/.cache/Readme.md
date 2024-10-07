@@ -1,4 +1,4 @@
-# L3 - @criptografia
+# @criptografia
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/criptografia/cover.jpg)
 
@@ -62,28 +62,28 @@ O enigma revelado.
 ## Exemplos
 
 ``` py
-#INPUT Teste 0
+>>>>>>>> INSERT Teste 0
 nnb!ovofl
 123
-#OUTPUT
+======== EXPECT
 ola mundo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 1
+>>>>>>>> INSERT Teste 1
 Br'tbn+'qhdb'tfeb+'iht'tfebjht
 777
-#OUTPUT
+======== EXPECT
 Eu sei, voce sabe, nos sabemos
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 2
+>>>>>>>> INSERT Teste 2
 jsmc*&cs&uis&ucs&vgo
 666
-#OUTPUT
+======== EXPECT
 luke, eu sou seu pai
-#END
+<<<<<<<< FINISH
 ```

@@ -1,7 +1,4 @@
-# L2 - @arredondar número
-
-[Motiv](#motivação) | [Shell](#shell) | [Dicas](#dicas)
--- | -- | --
+# @arredondar número
 
 ![_](cover.jpg)
 
@@ -16,11 +13,13 @@ implemente três funções:
 - `round`: que arredonda para baixo se a parte fracionária for menor que 0.5 e para cima se for maior ou igual a 0.5.
 
 Os protótipos das funções são em **C**:
+
 ```c
 int round(float num);
 int floor(float num);
 int ceil(float num);
 ```
+
 Na função principal (main), leia um caractere que representa a operação (r, f, c) e um número do tipo float. Depois, chame a função correspondente e imprima o resultado.
 
 ## Testes
@@ -30,59 +29,60 @@ Na função principal (main), leia um caractere que representa a operação (r, 
 
 ### Saida
 
-* imprima um inteiro de acordo com a operação pedida.  
+- imprima um inteiro de acordo com a operação pedida.  
 
 ### Exemplos
 
 ``` py
 #INPUT
-c
+>>>>>>>> INSERT
 5.5
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
-f
+>>>>>>>> INSERT
 6.99
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
-c
+>>>>>>>> INSERT
 6.99
-#OUTPUT
+======== EXPECT
 7
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
-r
+>>>>>>>> INSERT
 5.5
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
-r
+>>>>>>>> INSERT
 5.4
-#OUTPUT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```
 
-### Dicas
+## Dicas
 
-- **C** - É dessa forma que é realizada a criação de uma função:
-``` c
+**C** - É dessa forma que é realizada a criação de uma função:
+
+```c
 int round(float num){
     return;
 }
@@ -93,8 +93,9 @@ int main() {
 }
 ```
 
-- **Python** - É dessa forma que é realizada a criação de uma função:
-``` c
+**Python** - É dessa forma que é realizada a criação de uma função:
+
+```py
 def round(float num):
     return
 
@@ -102,8 +103,9 @@ num = 1.1;
 round(num);
 ```
 
-- **TypeScript** - É dessa forma que é realizada a criação de uma função:
-``` ts
+**TypeScript** - É dessa forma que é realizada a criação de uma função:
+
+```ts
 function round(num: number): number{
     return;
 }

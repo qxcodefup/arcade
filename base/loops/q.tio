@@ -1,109 +1,109 @@
-#INPUT
+>>>>>>>> INSERT
 0
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 360
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 361
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 722
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -2
-#OUTPUT
+======== EXPECT
 358
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -350
-#OUTPUT
+======== EXPECT
 10
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 -1
-#OUTPUT
+======== EXPECT
 359
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 362
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 09
+>>>>>>>> INSERT 09
 -360
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 10
+>>>>>>>> INSERT 10
 -361
-#OUTPUT
+======== EXPECT
 359
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 11
+>>>>>>>> INSERT 11
 750
-#OUTPUT
+======== EXPECT
 30
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 12
+>>>>>>>> INSERT 12
 -730
-#OUTPUT
+======== EXPECT
 350
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 13
+>>>>>>>> INSERT 13
 1000
-#OUTPUT
+======== EXPECT
 280
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 14
+>>>>>>>> INSERT 14
 -1300
-#OUTPUT
+======== EXPECT
 140
-#END
+<<<<<<<< FINISH

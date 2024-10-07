@@ -1,4 +1,4 @@
-# L4 - Maior @palindromo
+# @palindromo - Qual o maior
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/palindromo/cover.jpg)
 
@@ -29,48 +29,48 @@ Os M maiores palíndromos formados pelo produto de dois números cuja quantidade
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 2 3
-#OUTPUT
+======== EXPECT
 9009
 8448
 8118
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2 5
-#OUTPUT
+======== EXPECT
 9009
 8448
 8118
 8008
 7227
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 5
-#OUTPUT
+======== EXPECT
 906609
 888888
 886688
 861168
 855558
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4 5
-#OUTPUT
+======== EXPECT
 99000099
 98344389
 98100189
 97200279
 96300369
-#END
+<<<<<<<< FINISH
 
 ```

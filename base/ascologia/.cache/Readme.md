@@ -1,4 +1,4 @@
-# L1 - Eribelton e a @ascologia V1 - Somar Asc
+# @ascologia -Eribelton e a ascologia V1 - Somar Asc
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/ascologia/cover.jpg)
 
@@ -25,63 +25,63 @@ Receba um nome como entrada e some todos os caracteres. Imprima o resto da soma 
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 David
-#OUTPUT
+======== EXPECT
 38
-#END  
+<<<<<<<< FINISH  
 
-#INPUT 02
+>>>>>>>> INSERT 02
 Scya
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 Ana
-#OUTPUT
+======== EXPECT
 22
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 BruNa
-#OUTPUT
+======== EXPECT
 22
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 Marcos
-#OUTPUT
+======== EXPECT
 13
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 andre
-#OUTPUT
+======== EXPECT
 22
-#END
+<<<<<<<< FINISH
 ```
 
 <!-- 
-#INPUT
+>>>>>>>> INSERT
 CumpadreWashington
-#OUTPUT
+======== EXPECT
 25
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Fernando
-#OUTPUT
+======== EXPECT
 13
-#END
+<<<<<<<< FINISH
 -->

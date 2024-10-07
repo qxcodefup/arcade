@@ -1,47 +1,47 @@
-#INPUT
+>>>>>>>> INSERT
 8
 8
 9
-#OUTPUT
+======== EXPECT
 aprovado
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 8
 2
 9
-#OUTPUT
+======== EXPECT
 aprovado na final
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 2
 9
-#OUTPUT
+======== EXPECT
 reprovado
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 8
 3
-#OUTPUT
+======== EXPECT
 reprovado na final
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 4
 8
 3.99
-#OUTPUT
+======== EXPECT
 reprovado na final
-#END
+<<<<<<<< FINISH

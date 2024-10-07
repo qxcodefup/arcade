@@ -1,4 +1,4 @@
-# L2 - @omeletao
+# @omeletao
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/omeletao/cover.jpg)
 
@@ -33,23 +33,23 @@ Leia 4 números e imprima o maior valor.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3
 3
 2
 2
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 1
 8
 3
-#OUTPUT
+======== EXPECT
 8
-#END
+<<<<<<<< FINISH
 ```

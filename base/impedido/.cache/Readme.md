@@ -1,4 +1,4 @@
-# L1 - @impedido
+# @impedido
 
 ## OBI 2015 - Fase 2 - Nível 1
 
@@ -27,31 +27,31 @@ A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógi
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 35
 60
 75
-#OUTPUT
+======== EXPECT
 N
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 55
 68
 67
-#OUTPUT
+======== EXPECT
 S
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 66
 80
 80
-#OUTPUT
+======== EXPECT
 N
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L3 - @decompor um inteiro
+# @decompor um inteiro
 
 ![_](cover.jpg)
 
@@ -25,41 +25,41 @@ OBS: Use os operadores de divisão e módulo para obter os números.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 12345
-#OUTPUT
+======== EXPECT
 1 2 3 4 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2357
-#OUTPUT
+======== EXPECT
 2 3 5 7
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 567
-#OUTPUT
+======== EXPECT
 5 6 7
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4937
-#OUTPUT
+======== EXPECT
 4 9 3 7
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 953
-#OUTPUT
+======== EXPECT
 9 5 3
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L1 - @colorido - Paulo Victor e seu sapato colorido
+# @colorido - Paulo Victor e seu sapato colorido
 
 Professora Ingrid conta que nas suas brinceiras de criança sempre estavam presentes atividades físicas lúdicas. Uma das suas favoritas era pular amarelinha.
 
@@ -31,57 +31,57 @@ Se a criança jogar a pedra no 0 e começa com o pé direito, a contagem fica as
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 8
 d
-#OUTPUT
+======== EXPECT
 [ 0d 1e 2d 3e 4d 5e 6d 7e 9d ceu ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
 e
-#OUTPUT
+======== EXPECT
 [ 1e 2d 3e 4d 5e 6d 7e 8d 9e ceu ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
 d
-#OUTPUT
+======== EXPECT
 [ 1d 2e 3d 4e 5d 6e 7d 8e 9d ceu ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 d
-#OUTPUT
+======== EXPECT
 [ 0d 2e 3d 4e 5d 6e 7d 8e 9d ceu ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 d
-#OUTPUT
+======== EXPECT
 [ 0d 1e 3d 4e 5d 6e 7d 8e 9d ceu ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 e
-#OUTPUT
+======== EXPECT
 [ 0e 1d 2e 3d 4e 5d 6e 7d 8e 9d ]
-#END
+<<<<<<<< FINISH
 
 ```
 

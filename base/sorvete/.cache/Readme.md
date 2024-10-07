@@ -1,4 +1,4 @@
-# L3 - @sorvete suor casaca chicletes - Letras em Comum
+# @sorvete suor casaca chicletes - Letras em Comum
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sorvete/cover.jpg)
 
@@ -33,33 +33,33 @@ Dada uma frase com até 100 caracteres, será que você consegue me dizer a quan
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 sorvete suor casaca chicletes pegasus
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 minhoca quixe tempero musica roubo
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 acaro cocegas cagado aquecido
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 aaabbcc bbac bbbaacc ccbddbabda basdbdc
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```

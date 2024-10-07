@@ -1,114 +1,114 @@
-#INPUT
+>>>>>>>> INSERT
 Yudi
 Priscilla
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 20%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Shun
 Hyoga
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 0%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Kratos
 Athena
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 20%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Paula
 Paulo
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 100%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 Sabrina
 Sheehan
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 70%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 Cosette
 Caboclos
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 40%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 Ermanoteu
 Helainete
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 80%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 Will
 Ana
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 0%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 09
+>>>>>>>> INSERT 09
 Emerson
 Tamires
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 80%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 10
+>>>>>>>> INSERT 10
 Eduardo
 Gabriel
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 20%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 11
+>>>>>>>> INSERT 11
 Zac
 Zyra
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 40%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 12
+>>>>>>>> INSERT 12
 Talyta
 Thanos
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 70%!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 13
+>>>>>>>> INSERT 13
 Sakura
 Sasuke
-#OUTPUT
+======== EXPECT
 As chances do crush te dar bola sao: 100%!
-#END
+<<<<<<<< FINISH

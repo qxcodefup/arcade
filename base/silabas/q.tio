@@ -1,21 +1,21 @@
-#INPUT
+>>>>>>>> INSERT
 Paralelepipedo
-#OUTPUT
+======== EXPECT
 Pa-ra-le-le-pi-pe-do
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Eu sou o rei de Fup
-#OUTPUT
+======== EXPECT
 Eu sou o rei de Fu-p
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Floresta Amazonica
-#OUTPUT
+======== EXPECT
 Flo-re-sta A-ma-zo-ni-ca
-#END
+<<<<<<<< FINISH

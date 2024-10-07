@@ -1,4 +1,4 @@
-# L3 - Nao se @bubula - Gagueira V2
+# @bubula - Nao se bula - Gagueira V2
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/bubula/cover.jpg)
 
@@ -32,23 +32,23 @@ Implemente o código de Arnoldo.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 Volte cá seu cabra safado
-#OUTPUT
+======== EXPECT
 VoVoVolte cá seu cacacabra sasasafado
-#END
+<<<<<<<< FINISH
   
-#INPUT
+>>>>>>>> INSERT
 Morreu Maria Prea
-#OUTPUT
+======== EXPECT
 MoMoMorreu MaMaMaria Prea
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Solte essa faca ou eu arranco suas tripas no dente!
-#OUTPUT
+======== EXPECT
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-#INPUT
+>>>>>>>> INSERT
 2
 Homem de Ferro
 500
@@ -9,14 +9,14 @@ Capitao America
 400
 Soldado Invernal
 450
-#OUTPUT
+======== EXPECT
 Team Captain Wins
 Homem de Ferro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 Pantera Negra
 600
@@ -31,14 +31,14 @@ Wanda
 1200
 Homem Formiga
 300
-#OUTPUT
+======== EXPECT
 Team Iron Wins
 Wanda
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 2
 Homem de Ferro
 500
@@ -49,14 +49,14 @@ Capitao America
 650
 Soldado Invernal
 350
-#OUTPUT
+======== EXPECT
 Draw
 Capitao America
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 5
 Homem de Ferro
 600
@@ -79,14 +79,14 @@ Gaviao Arqueiro
 400
 Falcao
 350
-#OUTPUT
+======== EXPECT
 Team Iron Wins
 Visao
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 1
 Homem de Ferro
 800
@@ -95,7 +95,7 @@ Capitao America
 500
 Soldado Invernal
 500
-#OUTPUT
+======== EXPECT
 Team Captain Wins
 Homem de Ferro
-#END
+<<<<<<<< FINISH

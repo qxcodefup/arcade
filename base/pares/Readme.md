@@ -1,4 +1,4 @@
-# L0 - @pares - Calculando soma
+# @pares - Calculando soma
 
 ![_](cover.jpg)
 
@@ -27,37 +27,37 @@ Descubra em [LINK](http://www.profcardy.com/cardicas/tirateima.php?id=1).
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1
 10
-#OUTPUT
+======== EXPECT
 30
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 5
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 1
-#OUTPUT
+======== EXPECT
 invalido
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 6
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```

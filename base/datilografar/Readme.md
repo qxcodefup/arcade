@@ -1,4 +1,4 @@
-# L3 - Máquina de @datilografar Quebrada
+# @datilografar - Máquina Quebrada
 
 ![_](cover.jpg)
 
@@ -31,46 +31,46 @@ Faça um programa que dado um numero representando a tecla quebrada e o numero n
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5
 5000000
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 5004000
-#OUTPUT
+======== EXPECT
 4000
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 123456
-#OUTPUT
+======== EXPECT
 12456
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 9
 99999999991999999
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 7
 777
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```

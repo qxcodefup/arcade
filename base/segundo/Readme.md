@@ -1,4 +1,4 @@
-# L2 - Próximo @segundo
+# @segundo - Calculando o próximo
 
 ![ponteiros de um relógio]( cover.jpg)
 
@@ -23,35 +23,35 @@ Supondo que João seja sobre humano, seu trabalho é fazer um programa para calc
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 12 10 11
-#OUTPUT
+======== EXPECT
 12 10 12
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 12 10 59
-#OUTPUT
+======== EXPECT
 12 11 00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 12 59 59
-#OUTPUT
+======== EXPECT
 13 00 00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 23 59 59
-#OUTPUT
+======== EXPECT
 00 00 00
-#END
+<<<<<<<< FINISH
 ```
 
 ## Dica

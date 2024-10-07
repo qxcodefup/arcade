@@ -1,75 +1,75 @@
-#INPUT
+>>>>>>>> INSERT
 3 3
 ***
 --*
 --*
-#OUTPUT
+======== EXPECT
 ***
 25*
 -2*
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 3
 ---
 -*-
 ---
-#OUTPUT
+======== EXPECT
 111
 1*1
 111
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 5
 *----
 ----*
 ---**
-#OUTPUT
+======== EXPECT
 *1-11
 1113*
 --1**
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1 1
 *
-#OUTPUT
+======== EXPECT
 *
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 4 5
 ---*-
 -****
 *---*
 -----
-#OUTPUT
+======== EXPECT
 124*3
 2****
 *334*
 11-11
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 4 10
 *-*----*-*
 --*-*--*--
 -----*----
 *--------*
-#OUTPUT
+======== EXPECT
 *3*3112*3*
 13*3*23*31
 12122*2121
 *1--111-1*
-#END
+<<<<<<<< FINISH

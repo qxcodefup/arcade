@@ -1,4 +1,4 @@
-# L3 - Jason e @krueguer - Busca de maior ocorrência
+# @krueguer e Jason - Busca de maior ocorrência
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/krueguer/cover.jpg)
 
@@ -34,43 +34,43 @@ Faça um programa que dada uma string retorne uma linha contendo o subtexto com 
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1
 aeb
-#OUTPUT
+======== EXPECT
 ae
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 aebeiocdu
-#OUTPUT
+======== EXPECT
 eio
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 abdeiuofaoi
 xaeioux
-#OUTPUT
+======== EXPECT
 eiuo
 aeiou
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 aebaibaobaub
 baeoxuoiazzz
 oxau
-#OUTPUT
+======== EXPECT
 ae
 uoia
 au
-#END
+<<<<<<<< FINISH
 ```

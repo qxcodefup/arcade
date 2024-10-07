@@ -1,4 +1,4 @@
-# L2 - Removendo @loops no ângulo Cartesiano
+# @loops - Módulo no ângulo Cartesiano
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/loops/cover.jpg)
 
@@ -25,49 +25,49 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 0
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 360
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 361
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 722
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -2
-#OUTPUT
+======== EXPECT
 358
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -350
-#OUTPUT
+======== EXPECT
 10
-#END
+<<<<<<<< FINISH
 ```

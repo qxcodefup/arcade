@@ -1,69 +1,69 @@
-#INPUT 01
+>>>>>>>> INSERT 01
 R
 P
-#OUTPUT
+======== EXPECT
 jog2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 P
 P
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 S
 P
-#OUTPUT
+======== EXPECT
 jog1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 S
 S
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 R
 S
-#OUTPUT
+======== EXPECT
 jog1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 S
 R
-#OUTPUT
+======== EXPECT
 jog2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 R
 R
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 P
 R
-#OUTPUT
+======== EXPECT
 jog1
-#END
+<<<<<<<< FINISH

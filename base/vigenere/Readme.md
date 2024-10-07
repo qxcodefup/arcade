@@ -1,4 +1,4 @@
-# L3 - Valdiskley e a @vigenere
+# @vigenere e Valdiskley
 
 ![_](cover.jpg)
 
@@ -45,31 +45,31 @@ A operação de descifrar é o contrário da cifragem.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 batata? sim! frita!!
 abac
 +
-#OUTPUT
+======== EXPECT
 bbtctb? skm! grktb!!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 quando vi voce eu buguei
 princesa
 +
-#OUTPUT
+======== EXPECT
 fliafs ni kfkr gy tuvlmv
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 a data ua bbfrua
 ab
 -
-#OUTPUT
+======== EXPECT
 a casa ta aberta
-#END
+<<<<<<<< FINISH
 ```

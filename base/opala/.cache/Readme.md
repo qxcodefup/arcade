@@ -1,4 +1,4 @@
-# L2 - @opala bebedor
+# @opala bebedor
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/opala/cover.jpg)
 
@@ -27,23 +27,23 @@ Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em
 ## Exemplos
 
 ``` py
-#INPUT corsa
+>>>>>>>> INSERT corsa
 100
 60
 10
-#OUTPUT
+======== EXPECT
 10.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT fusca
+>>>>>>>> INSERT fusca
 60
 40
 10
-#OUTPUT
+======== EXPECT
 4.00
-#END
+<<<<<<<< FINISH
 ```
 
 ## Dica

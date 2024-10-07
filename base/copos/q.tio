@@ -1,47 +1,47 @@
-#INPUT
+>>>>>>>> INSERT
 3
-#OUTPUT
+======== EXPECT
 ..3..
 .3.3.
 3.3.3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
-#OUTPUT
+======== EXPECT
 .2.
 2.2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
-#OUTPUT
+======== EXPECT
 ...4...
 ..4.4..
 .4.4.4.
 4.4.4.4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 1
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 5
-#OUTPUT
+======== EXPECT
 ....5....
 ...5.5...
 ..5.5.5..
 .5.5.5.5.
 5.5.5.5.5
-#END
+<<<<<<<< FINISH

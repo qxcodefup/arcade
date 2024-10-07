@@ -1,4 +1,4 @@
-# L3 - @rocicleia e o Locioreca - Anagramas
+# @rocicleia e o Locioreca - Anagramas
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/rocicleia/cover.jpg)
 
@@ -24,46 +24,46 @@ Dadas duas palavras, imprima sim se elas são anagramas e não se não são anag
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 paralelepipedo
 pepidoelelapar
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 rocicleia
 licioreca
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 batata
 tabata
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 borboleta
 brobuleta
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 amor
 roam
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```

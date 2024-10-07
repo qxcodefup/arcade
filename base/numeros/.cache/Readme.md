@@ -1,4 +1,4 @@
-# L2 - Encontrando e somando @numeros
+# @numeros - Encontrando e somando
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/numeros/cover.jpg)
 
@@ -17,25 +17,25 @@ Dada uma frase(max 100 char) com palavras(letras minusculas), números e espaço
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 apesar de 2 jogadores serem expulsos, a seleção brasileira venceu a seleção italiana por 5 x 1
-#OUTPUT
+======== EXPECT
 8
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 meus 3 cachorros comeram 2 ratos em 11 horas
-#OUTPUT
+======== EXPECT
 16
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 os 2 irmãos de maria dormiram os ultimos 2 dias na casa de seus avós
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```

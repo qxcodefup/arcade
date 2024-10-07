@@ -1,4 +1,4 @@
-# L2 - Trilhas @facil - OBI 2005
+# @facil - Modo fácil - OBI 2005
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/facil/cover.jpg)
 
@@ -43,7 +43,7 @@ Dado uma trilha, você deve calcular o menor esforço para percorrê-la.
 ## Exemplos
 
 ``` py
-#INPUT 00
+>>>>>>>> INSERT 00
 6
 300
 305
@@ -51,7 +51,7 @@ Dado uma trilha, você deve calcular o menor esforço para percorrê-la.
 299
 290
 295
-#OUTPUT
+======== EXPECT
 10
-#END
+<<<<<<<< FINISH
 ```

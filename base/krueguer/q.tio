@@ -1,39 +1,39 @@
-#INPUT
+>>>>>>>> INSERT
 1
 aeb
-#OUTPUT
+======== EXPECT
 ae
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 aebeiocdu
-#OUTPUT
+======== EXPECT
 eio
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 abdeiuofaoi
 xaeioux
-#OUTPUT
+======== EXPECT
 eiuo
 aeiou
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 aebaibaobaub
 baeoxuoiazzz
 oxau
-#OUTPUT
+======== EXPECT
 ae
 uoia
 au
-#END
+<<<<<<<< FINISH

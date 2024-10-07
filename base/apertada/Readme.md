@@ -1,4 +1,4 @@
-# L1 - @apertada - Busca do menor valor
+# @apertada - Busca do menor valor
 
 ![_](cover.jpg)
 
@@ -21,25 +21,25 @@ Faça um programa que receba cinco valores inteiros e encontre o menor deles.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1
 4
 2
 5
 2
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 7
 6
 4
 3
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```

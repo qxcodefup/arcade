@@ -1,15 +1,15 @@
-#INPUT
+>>>>>>>> INSERT
 3
 fornoalenha 108
 burguery 145
 qsabor 49
-#OUTPUT
+======== EXPECT
 burguery
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 soghqhpbezpqthabaday  39
 xbmcvrsidguczunngrw  80
@@ -111,13 +111,13 @@ epcnxlxikmcgesevrqk  41
 dkudbssgjtquykkjyslo  79
 wcppdyrxyavwybibyax  60
 tvrkdskzhpelyqyjqeg  69
-#OUTPUT
+======== EXPECT
 dtzfqzqorwrpfgguxdi
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 guxmiqcaaxxuugssbrtt  80
 idcvqbhtypjpaqkhwvhm  70
@@ -219,17 +219,17 @@ rbaqfrbmbdgaoxcvmmdt  16
 lwoxlgsdktcswapyxmau  40
 awrygqfgnzpxttrbpelp  37
 rvgtwisjaxqxeucistkn  60
-#OUTPUT
+======== EXPECT
 lxkfypleytiristhylz
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 ac 100
 ab 100
 aa 100
-#OUTPUT
+======== EXPECT
 aa
-#END
+<<<<<<<< FINISH

@@ -1,4 +1,4 @@
-# L2 - imprimir vetor @formatado
+# @formatado - Imprimir vetor formatado
 
 ![_](cover.jpg)
 
@@ -13,49 +13,49 @@ Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 ## Testes
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1
 0
-#OUTPUT
+======== EXPECT
 []
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 3 10 16 11
-#OUTPUT
+======== EXPECT
 [10, 16, 11]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 3 10 16 11
 1 88
 4 34 12 32 100
-#OUTPUT
+======== EXPECT
 [10, 16, 11]
 [88]
 [34, 12, 32, 100]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 3 10 16 11
 1 88
 4 34 12 32 100
 0
-#OUTPUT
+======== EXPECT
 [10, 16, 11]
 [88]
 [34, 12, 32, 100]
 []
-#END
+<<<<<<<< FINISH
 
 ```
 

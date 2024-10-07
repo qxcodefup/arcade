@@ -1,4 +1,4 @@
-# L2 - @fuga em helicóptero - OBI 2016
+# @fuga em helicóptero - OBI 2016
 
 <!-- toch -->
 [Saída](#saída) | [Restrições](#restrições) | [Exemplos](#exemplos)
@@ -28,33 +28,33 @@ Neste problema, dadas as posições do helicóptero, do policial e do fugitivo, 
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 4 14 7 -1
-#OUTPUT
+======== EXPECT
 S
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4 14 7 1
-#OUTPUT
+======== EXPECT
 N
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 15 9 8 -1
-#OUTPUT
+======== EXPECT
 S
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0 14 15 -1
-#OUTPUT
+======== EXPECT
 N
-#END
+<<<<<<<< FINISH
 ```

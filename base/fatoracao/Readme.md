@@ -1,4 +1,4 @@
-# L2 - @fatoracao - Fatoração
+# @fatoracao - Fatoração
 
 ## Fatore um numero
 
@@ -25,27 +25,27 @@ Leia um Inteiro e represente-o com sua forma fatorada.
 ## Exemplos
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 8
-#OUTPUT
+======== EXPECT
 2 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 9
-#OUTPUT
+======== EXPECT
 3 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
-#OUTPUT
+======== EXPECT
 2 1
 5 1
-#END
+<<<<<<<< FINISH
 
 ```

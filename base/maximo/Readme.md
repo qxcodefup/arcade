@@ -1,4 +1,4 @@
-# L0 - @maximo entre dois números
+# @maximo entre dois números
 
 ![Imagem eh Positivo](cover.jpg)
 
@@ -17,82 +17,82 @@ Implemente um programa que recebe dois números inteiros e imprime o maior.
 ## Exemplos
 
 ```py
-#INPUT 0
+>>>>>>>> INSERT 0
 4
 9
-#OUTPUT
+======== EXPECT
 9
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 1
+>>>>>>>> INSERT 1
 56
 7
-#OUTPUT
+======== EXPECT
 56
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 2
+>>>>>>>> INSERT 2
 46
 -789
-#OUTPUT
+======== EXPECT
 46
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 3
+>>>>>>>> INSERT 3
 -45
 -125
-#OUTPUT
+======== EXPECT
 -45
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 4
+>>>>>>>> INSERT 4
 -458
 -12
-#OUTPUT
+======== EXPECT
 -12
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 5
+>>>>>>>> INSERT 5
 458
 12
-#OUTPUT
+======== EXPECT
 458
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 6
+>>>>>>>> INSERT 6
 458
 458
-#OUTPUT
+======== EXPECT
 458
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 7
+>>>>>>>> INSERT 7
 0
 0
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 8
+>>>>>>>> INSERT 8
 -458
 -458
-#OUTPUT
+======== EXPECT
 -458
-#END
+<<<<<<<< FINISH
 ```

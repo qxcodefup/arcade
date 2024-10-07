@@ -1,4 +1,4 @@
-# L2 - @guerra civil no Universo Marvel
+# @guerra civil no Universo Marvel
 
 ![_](cover.jpg)
 
@@ -30,7 +30,7 @@ Crie um programa que receba o número de integrantes, crie um vetor para cada ti
 ### Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 2
 Homem de Ferro
 500
@@ -41,14 +41,14 @@ Capitao America
 400
 Soldado Invernal
 450
-#OUTPUT
+======== EXPECT
 Team Captain Wins
 Homem de Ferro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 Pantera Negra
 600
@@ -63,8 +63,8 @@ Wanda
 1200
 Homem Formiga
 300
-#OUTPUT
+======== EXPECT
 Team Iron Wins
 Wanda
-#END
+<<<<<<<< FINISH
 ```

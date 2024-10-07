@@ -1,4 +1,4 @@
-# L3 - Sapinho 3 matemático não quer morrer @afogado
+# @afogado - Sapinho 3 matemático não quer morrer afogado
 
 ![_](cover.jpg)
 
@@ -23,37 +23,37 @@ Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcula
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 10
 1
-#OUTPUT
+======== EXPECT
 10
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 20
 1
-#OUTPUT
+======== EXPECT
 16
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 200
 10
-#OUTPUT
+======== EXPECT
 67
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 500
 30
-#OUTPUT
+======== EXPECT
 122
-#END
+<<<<<<<< FINISH
 ```

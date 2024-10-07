@@ -1,4 +1,4 @@
-#INPUT 00
+>>>>>>>> INSERT 00
 6
 300
 305
@@ -6,83 +6,83 @@
 299
 290
 295
-#OUTPUT
+======== EXPECT
 10
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 00
+>>>>>>>> INSERT 00
 2
 236
 605
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 01
+>>>>>>>> INSERT 01
 3
 529
 697
 624
-#OUTPUT
+======== EXPECT
 73
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 3
 163
 428
 786
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 4
 854
 577
 447
 864
-#OUTPUT
+======== EXPECT
 407
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 5
 495
 899
 311
 985
 262
-#OUTPUT
+======== EXPECT
 1078
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 5
 108
 481
 695
 762
 300
-#OUTPUT
+======== EXPECT
 462
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 7
 196
 909
@@ -91,13 +91,13 @@
 632
 938
 228
-#OUTPUT
+======== EXPECT
 1299
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 8
 884
 132
@@ -107,13 +107,13 @@
 145
 452
 134
-#OUTPUT
+======== EXPECT
 1051
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 9
 303
 556
@@ -124,13 +124,13 @@
 431
 719
 559
-#OUTPUT
+======== EXPECT
 664
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 09
+>>>>>>>> INSERT 09
 10
 552
 755
@@ -142,6 +142,6 @@
 769
 225
 203
-#OUTPUT
+======== EXPECT
 859
-#END
+<<<<<<<< FINISH

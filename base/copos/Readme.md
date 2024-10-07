@@ -1,4 +1,4 @@
-# L3 - Quebrador de @copos
+# @copos - Quebrador de copos
 
 ![_](cover.jpg)
 
@@ -21,31 +21,31 @@ Faça um programa que dado um numero N inteiro (0<N<50) mostre na tela um triang
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3
-#OUTPUT
+======== EXPECT
 ..3..
 .3.3.
 3.3.3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
-#OUTPUT
+======== EXPECT
 .2.
 2.2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
-#OUTPUT
+======== EXPECT
 ...4...
 ..4.4..
 .4.4.4.
 4.4.4.4
-#END
+<<<<<<<< FINISH
 ```

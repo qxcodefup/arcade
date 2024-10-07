@@ -1,29 +1,29 @@
-#INPUT
+>>>>>>>> INSERT
 19 12 32 11 17 15
-#OUTPUT
+======== EXPECT
 [ 15 17 11 32 12 19 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 15
-#OUTPUT
+======== EXPECT
 [ 15 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 15 12
-#OUTPUT
+======== EXPECT
 [ 12 15 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 15 17 11
-#OUTPUT
+======== EXPECT
 [ 11 17 15 ]
-#END
+<<<<<<<< FINISH

@@ -1,4 +1,4 @@
-# L2 - @bhaskara - usando biblioteca matemática
+# @bhaskara - usando biblioteca matemática
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/bhaskara/cover.jpg)
 
@@ -6,7 +6,13 @@
 
 Não sei se você amava ou odiava o tal do Bhaskara por inventar aquela fórmula das raízes. Agora é hora de implementar aquela conta pra nunca ter mais que fazer na mão.
 
-## Ação
+Formula de bhaskara:
+
+$$x = \frac{-b \pm \sqrt{\Delta}}{2a}$$
+
+Cálculo do Delta:
+
+$$\Delta = b^2 - 4ac$$
 
 Dados os valores de A, B e C, calcule as raízes.
 
@@ -16,9 +22,9 @@ Dados os valores de A, B e C, calcule as raízes.
 
 ### Saída
 
-- Caso delta seja positivo, a saída deve ser a raiz positiva e raiz negativa, com duas casas decimais, uma raiz por linha.
-- Caso delta seja igual a zero, uma única raiz deve ser considerada, com duas casas decimais.
-- Caso delta sela negativo, a saída deve ser "nao ha raiz real"
+- Caso Δ seja positivo: exiba as duas raízes com duas casas decimais, uma em cada linha.
+>>>>>>>> INSERT Δ seja igual a zero: exiba a única raiz com duas casas decimais.
+- Caso Δ seja negativo: exiba a mensagem "nao ha raiz real".
 
 ## Exemplos
 
@@ -27,10 +33,10 @@ Dados os valores de A, B e C, calcule as raízes.
 5.4
 25.0
 -12.0
-#OUTPUT
-0.44
+======== EXPECT
+>>>>>>>> INSERT
 -5.07
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
@@ -38,10 +44,10 @@ Dados os valores de A, B e C, calcule as raízes.
 3.0
 -7.0
 4.0
-#OUTPUT
-1.33
+======== EXPECT
+>>>>>>>> INSERT
 1.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
@@ -49,9 +55,9 @@ Dados os valores de A, B e C, calcule as raízes.
 9.0
 -12.0
 4.0
-#OUTPUT
+>>>>>>>> INSERTT
 0.67
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
@@ -59,52 +65,90 @@ Dados os valores de A, B e C, calcule as raízes.
 5.0
 3.0
 5.0
-#OUTPUT
+======== EXPECT
 nao ha raiz real
-#END
+<<<<<<<< FINISH
 ```
 
-## Ajuda
+## Dicas
 
-- Para calcular a raiz quadrada você deverá utilizar a função `sqrt`. A função `sqrt` retorna a raiz quadrada do número que for passado por parâmetro. Exemplo:
-  
+**C** - Para exibir um número de ponto flutuante, do tipo `float` com uma casa decimal em C, utilize o especificador de formato `%.1f` na função `printf`. O número **1** após o ponto indica a quantidade de casas decimais a serem exibidas.
+
 ```c
-sqrt(4) retorna 2    
-sqrt(5) retorna 2.23607    
-sqrt(9.0) retorna 3    
+int main() {
+    float resultado;
+    printf("%.1f\n", resultado);
+}
 ```
 
-Observação
+-Para calcular a raiz quadrada em C, você deve incluir a biblioteca `math.h` em seu projeto e utilizar a função `sqrt()` passando como argumento o valor do qual deseja encontrar a raiz.
 
-- Para ser utilizada a função `sqrt`, ela deve ser importada. Segue as formas de importação em algumas linguagens e como utilizar:
-
-Em **C**:
-
-``` c
-    #include <math.h> //c
-
-    sqrt(4)  //retorna 2
+```c
+#include <math.h>
+int main() {
+    raiz = sqtr(numero);
+}
 ```
 
-Em **C++**:
+A função `pow()` da biblioteca `math.h` é a maneira mais direta de elevar um número a qualquer potência em C. Para elevar um número ao quadrado, basta passar o número como primeiro argumento e **2** como segundo argumento.
 
-``` c++
-    #include <cmath> //c++
-
-    sqrt(4) //retorna 2 
+```c
+#include <math.h>
+int main() {
+    quadrado = pow(numero, 2);
+}
 ```
 
-Em **Python**:
+**Python** - Para exibir um número de ponto flutuante com uma casa decimal em Python, utilize o formato `:.1f` dentro da função `print`. O número **1** após o ponto indica o número de casas decimais que serão exibidas:
 
-``` python
-    import math #python
-
-    math.sqrt(4) #retorna 2 
+```py
+print(f"{resultado:.1f}")
 ```
 
-Em **JavaScript**:
+```py
+print("{:.1f}".format(resultado))
+```
 
-``` javascript
-    //javascript
-    Math.sqrt(4) //retorna 2 
+Em Python, o cálculo da raiz quadrada é bastante simples e direto. Basta importar o módulo math e utilizar a função `sqrt()`
+
+```py
+import math
+raiz = math.sqtr(numero)
+```
+
+Em Python, temos duas formas principais de elevar um número ao quadrado:
+
+```py
+import math
+quadrado = math.pow(numero, 2)
+```
+
+```py
+quadrado =  numero ** 2
+```
+
+**TypeScript** - Para exibir um número com uma casa decimal em TypeScript, utilize o método `toFixed(1)` do objeto `Number`. O número **1** especifica a quantidade de casas decimais que serão exibidas após o ponto decimal:
+
+```ts
+console.log(resultado.toFixed(1)); 
+```
+
+```ts
+write(resultado.toFixed(1));
+```
+
+Em TypeScript, a abordagem é semelhante à do JavaScript. Não há uma biblioteca padrão para funções matemáticas, mas podemos utilizar a biblioteca Math global.
+
+```ts
+let raiz: number = Math.sqrt(numero);
+```
+
+Em TypeScript, temos duas formas principais de elevar um número ao quadrado:
+
+```ts
+let quadrado: number = numero ** 2;
+```
+
+```ts
+let quadrado: number = Math.pow(numero, 2);
 ```

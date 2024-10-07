@@ -1,87 +1,87 @@
-#INPUT
+>>>>>>>> INSERT
 c
 100
-#OUTPUT
+======== EXPECT
 Perfeito
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 b
 68
-#OUTPUT
+======== EXPECT
 Fraco, nem passou
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 c
 160
-#OUTPUT
+======== EXPECT
 Muito forte, bola fora
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 b
 99
-#OUTPUT
+======== EXPECT
 Satisfeito
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 c
 90
-#OUTPUT
+======== EXPECT
 Perfeito
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 c
 87
-#OUTPUT
+======== EXPECT
 Fraco, nem passou
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 b
 120
-#OUTPUT
+======== EXPECT
 Muito forte, bola fora
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 c
 127
-#OUTPUT
+======== EXPECT
 Muito forte, bola fora
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 09
+>>>>>>>> INSERT 09
 c
 115
-#OUTPUT
+======== EXPECT
 Satisfeito
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 10
+>>>>>>>> INSERT 10
 c
 50
-#OUTPUT
+======== EXPECT
 Fraco, nem passou
-#END
+<<<<<<<< FINISH

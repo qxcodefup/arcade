@@ -1,4 +1,4 @@
-# L3 - @mario e o Assassins Creed
+# @mario e o Assassins Creed
 
 ## Lendo cenário
 
@@ -48,39 +48,39 @@ __#######_
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 4
 1 3 1 2
-#OUTPUT
+======== EXPECT
 _#__
 _#_#
 ####
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 1 3 1 2 5
-#OUTPUT
+======== EXPECT
 ____#
 ____#
 _#__#
 _#_##
 #####
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 1 1 3 3 4 6 4 2 2 1
-#OUTPUT
+======== EXPECT
 _____#____
 _____#____
 ____###___
 __#####___
 __#######_
 ##########
-#END
+<<<<<<<< FINISH
 ```

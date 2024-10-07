@@ -1,4 +1,4 @@
-# L2 - @comparar-data
+# @comparar-data
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/comparar-data/cover.jpg)
 

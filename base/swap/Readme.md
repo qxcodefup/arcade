@@ -1,4 +1,4 @@
-# L1 - @swap - Troca de valores de variáveis
+# @swap - Troca de valores de variáveis
 
 ![_](cover.jpg)
 
@@ -26,27 +26,27 @@ Você deverá:
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1 2
-#OUTPUT
+======== EXPECT
 2 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -1 3
-#OUTPUT
+======== EXPECT
 3 -1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0 0
-#OUTPUT
+======== EXPECT
 0 0
-#END
+<<<<<<<< FINISH
 ```
 
 

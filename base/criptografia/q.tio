@@ -1,105 +1,105 @@
-#INPUT Teste 0
+>>>>>>>> INSERT Teste 0
 nnb!ovofl
 123
-#OUTPUT
+======== EXPECT
 ola mundo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 1
+>>>>>>>> INSERT Teste 1
 Br'tbn+'qhdb'tfeb+'iht'tfebjht
 777
-#OUTPUT
+======== EXPECT
 Eu sei, voce sabe, nos sabemos
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 2
+>>>>>>>> INSERT Teste 2
 jsmc*&cs&uis&ucs&vgo
 666
-#OUTPUT
+======== EXPECT
 luke, eu sou seu pai
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 3
+>>>>>>>> INSERT Teste 3
 J%isjaj$hej%an$ph$kew%`c$wjwgw
 55464
-#OUTPUT
+======== EXPECT
 O mundo nao eh um mar de rosas
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 4
+>>>>>>>> INSERT Teste 4
 dh#un%mudaq%ruio/%tm#lvb`r#cqpdl
 103035
-#OUTPUT
+======== EXPECT
 eh um lugar sujo, um lugar cruel
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 5
+>>>>>>>> INSERT Teste 5
 swg"lcm"swgp"qc`gp"m"swclvm"tmag"gj"fwpcm,
 222
-#OUTPUT
+======== EXPECT
 que nao quer saber o quanto voce eh durao.
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 6
+>>>>>>>> INSERT Teste 6
 Wcj!ajp`p#wlfa!ff!ijamjlr#`$wm`d#seh"eh`dv!ff!ijamjlr#uesc#rfhtsg#rf%rnaf!g`mycq
 1231354
-#OUTPUT
+======== EXPECT
 Vai botar voce de joelhos e voce vai ficar de joelhos para sempre se voce deixar
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 7
+>>>>>>>> INSERT Teste 7
 Sjgc(%`q*$kljaq`h$pel%fgp`w$rej%bivq`$ekhj$g$sl`g
 55464
-#OUTPUT
+======== EXPECT
 Voce, eu, ninguem vai bater tao forte como a vida
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 8
+>>>>>>>> INSERT Teste 8
 ndr#ocl%rf!vqdub!ff%cbugq%glsvf+
 351312
-#OUTPUT
+======== EXPECT
 mas nao se trata de bater forte.
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 9
+>>>>>>>> INSERT Teste 9
 R`!qsdud!ad%pp`kuj!snfd%`bt`oq`%`u`kids%d%r`fphw!`l%gwdku`
 1515
-#OUTPUT
+======== EXPECT
 Se trata de quanto voce aguenta apanhar e seguir em frente
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 10
+>>>>>>>> INSERT Teste 10
 h'vrfish'qhdb'bo'dfwf}'cb'f`rbisfu'b'dhisnirfu'sbisfich
 77
-#OUTPUT
+======== EXPECT
 o quanto voce eh capaz de aguentar e continuar tentando
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 11
+>>>>>>>> INSERT Teste 11
 Aj#eqpmo#uwf$qf$aljqfcwf$tfjafv,
 423
-#OUTPUT
+======== EXPECT
 Eh assim que se consegue vencer.
-#END
+<<<<<<<< FINISH

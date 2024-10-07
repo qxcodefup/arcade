@@ -1,4 +1,4 @@
-# L2 - @quadrado Mágico
+# @quadrado Mágico
 
 ![_](cover.jpg)
 
@@ -21,31 +21,31 @@ Diga se a uma matriz de elementos inteiros 3x3 dada como entrada é quadrado má
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1 2 3
 4 5 6
 7 8 9
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2 7 6
 9 5 1
 4 3 8
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 8 1 6
 3 5 7
 4 9 2
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```

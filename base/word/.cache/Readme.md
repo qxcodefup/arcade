@@ -1,4 +1,4 @@
-# L3 - MeU @word QuEbRoU - formatação de case
+# @word QuEbRoU - formatação de case
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/word/cover.jpg)
 
@@ -26,37 +26,37 @@ A entrada é composta de minusculas, maiúsculas, números, pontuações e espa�
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 O Pato e o frango ja tao cozidos, comam!
 M
-#OUTPUT
+======== EXPECT
 O PATO E O FRANGO JA TAO COZIDOS, COMAM!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 O Pato e o frango ja tao cozidos, comam!
 m
-#OUTPUT
+======== EXPECT
 o pato e o frango ja tao cozidos, comam!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 O Pato e o frango ja tao cozidos, comam!
 p
-#OUTPUT
+======== EXPECT
 o Pato e o Frango Ja Tao Cozidos, Comam!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 O Pato e o frango ja tao cozidos, comam!
 i
-#OUTPUT
+======== EXPECT
 o pATO E O FRANGO JA TAO COZIDOS, COMAM!
-#END
+<<<<<<<< FINISH
 ```

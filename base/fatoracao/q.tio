@@ -1,116 +1,116 @@
-#INPUT
+>>>>>>>> INSERT
 8
-#OUTPUT
+======== EXPECT
 2 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 9
-#OUTPUT
+======== EXPECT
 3 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
-#OUTPUT
+======== EXPECT
 2 1
 5 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 0
+>>>>>>>> INSERT Teste 0
 7
-#OUTPUT
+======== EXPECT
 7 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 1
+>>>>>>>> INSERT Teste 1
 49
-#OUTPUT
+======== EXPECT
 7 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 2
+>>>>>>>> INSERT Teste 2
 28
-#OUTPUT
+======== EXPECT
 2 2
 7 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 3
+>>>>>>>> INSERT Teste 3
 16
-#OUTPUT
+======== EXPECT
 2 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 4
+>>>>>>>> INSERT Teste 4
 40
-#OUTPUT
+======== EXPECT
 2 3
 5 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 5
+>>>>>>>> INSERT Teste 5
 43
-#OUTPUT
+======== EXPECT
 43 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 6
+>>>>>>>> INSERT Teste 6
 64
-#OUTPUT
+======== EXPECT
 2 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 7
+>>>>>>>> INSERT Teste 7
 21
-#OUTPUT
+======== EXPECT
 3 1
 7 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 8
+>>>>>>>> INSERT Teste 8
 20
-#OUTPUT
+======== EXPECT
 2 2
 5 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 9
+>>>>>>>> INSERT Teste 9
 89
-#OUTPUT
+======== EXPECT
 89 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 10
+>>>>>>>> INSERT Teste 10
 78
-#OUTPUT
+======== EXPECT
 2 1
 3 1
 13 1
-#END
+<<<<<<<< FINISH

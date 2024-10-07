@@ -1,4 +1,4 @@
-# L1 - @substring - Obter Substrings
+# @substring - Obter Substrings
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/substring/cover.jpg)
 
@@ -20,33 +20,33 @@ Faça uma função que retorna uma substring dada a String passada, o ÍNDICE da
 
 ```py
 
-#INPUT 01
+>>>>>>>> INSERT 01
 Coralina
 0
 4
-#OUTPUT
+======== EXPECT
 Cora
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 01
+>>>>>>>> INSERT 01
 Coralina
 1
 4
-#OUTPUT
+======== EXPECT
 oral
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 Power Ranger
 4
 20
-#OUTPUT
+======== EXPECT
 r Ranger
-#END
+<<<<<<<< FINISH
 
 ```
 

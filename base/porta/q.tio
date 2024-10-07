@@ -1,123 +1,123 @@
-#INPUT
+>>>>>>>> INSERT
 6
 1 2 4 7 8 5
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 49 81
-#OUTPUT
+======== EXPECT
 49
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 5 6
-#OUTPUT
+======== EXPECT
 a porta nao existe
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 0
+>>>>>>>> INSERT Teste 0
 8
 52 34 50 60 89 49 4 2
-#OUTPUT
+======== EXPECT
 49
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 1
+>>>>>>>> INSERT Teste 1
 2
 1 4
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 2
+>>>>>>>> INSERT Teste 2
 4
 5 4 10 20
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 3
+>>>>>>>> INSERT Teste 3
 7
 3 5 7 8 9 10 11
-#OUTPUT
+======== EXPECT
 9
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 4
+>>>>>>>> INSERT Teste 4
 5
 30 49 50 20 10
-#OUTPUT
+======== EXPECT
 49
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 5
+>>>>>>>> INSERT Teste 5
 3
 5007 49 72
-#OUTPUT
+======== EXPECT
 49
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 6
+>>>>>>>> INSERT Teste 6
 10
 1 4 9 49 64 100 121 45 89 54038
-#OUTPUT
+======== EXPECT
 121
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 7
+>>>>>>>> INSERT Teste 7
 2
 81 49
-#OUTPUT
+======== EXPECT
 49
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 8
+>>>>>>>> INSERT Teste 8
 4
 100 10000 400016 54680
-#OUTPUT
+======== EXPECT
 10000
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 9
+>>>>>>>> INSERT Teste 9
 2
 89 99
-#OUTPUT
+======== EXPECT
 a porta nao existe
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 10
+>>>>>>>> INSERT Teste 10
 4
 1000 50 30 15
-#OUTPUT
+======== EXPECT
 a porta nao existe
-#END
+<<<<<<<< FINISH

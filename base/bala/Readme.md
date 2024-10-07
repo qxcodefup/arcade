@@ -1,7 +1,4 @@
-# L3 - @bala - distância entre dois pontos
-
-[Motiv](#motivação) | [Shell](#shell) | [Dicas](#dicas)
--- | -- | --
+# @bala - distância entre dois pontos
 
 ![_](cover.jpg)
 
@@ -13,28 +10,26 @@ $$d_{AB} = \sqrt{(x₂ - x₁)^2 + (y₂ - y₁)^2}$$
 
 Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto, imprima a distância entre os pontos com duas casas decimais.
 
-
-
 ### Entrada
 
-* Coordenada ***X*** e coordenada ***Y*** do primeiro ponto.
-* Coordenada ***X*** e coordenada ***Y*** do segundo ponto.
+- Coordenada ***X*** e coordenada ***Y*** do primeiro ponto.
+- Coordenada ***X*** e coordenada ***Y*** do segundo ponto.
 
 #### Saída
 
-* A distância entre os pontos com duas casas decimais.
+- A distância entre os pontos com duas casas decimais.
 
 ## Testes
 
-``` py
+```py
 #INPUT 01
 3
 7
 1
 4
-#OUTPUT
+>>>>>>>> INSERTT
 3.61
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
@@ -43,9 +38,9 @@ Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto
 8.2
 -4
 12
-#OUTPUT
+>>>>>>>> INSERTT
 6.28
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
@@ -54,73 +49,91 @@ Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto
 1
 3
 5
-#OUTPUT
+>>>>>>>> INSERTT
 4.00
-#END
+<<<<<<<< FINISH
 
 ```
 
-### Dicas
+## Dicas
 
-- **C** - Para exibir um número de ponto flutuante do tipo `float`, recomendado por sua maior precisão, com daus casas decimais em C, utilize o especificador de formato `%.2f` na função `printf`. O número **2** após o ponto indica a quantidade de casas decimais a serem exibidas. 
- 
-``` c
+**C** - Para exibir um número de ponto flutuante, do tipo `float`, com duas casas decimais em C, utilize o especificador de formato `%.2f` na função `printf`. O número **2** após o ponto indica a quantidade de casas decimais a serem exibidas.
+
+```c
 int main() {
-    double resultado;
+    float resultado;
     printf("%.2f\n", resultado);
 }
 ```
-Para calcular a raiz quadrada em C, você deve incluir a biblioteca `math.h` em seu projeto e utilizar a função `sqrt()` passando como argumento o valor do qual deseja encontrar a raiz.
-``` c
+
+-Para calcular a raiz quadrada em C, você deve incluir a biblioteca `math.h` em seu projeto e utilizar a função `sqrt()` passando como argumento o valor do qual deseja encontrar a raiz.
+
+```c
 #include <math.h>
 int main() {
     raiz = sqtr(numero);
 }
 ```
+
 A função `pow()` da biblioteca `math.h` é a maneira mais direta de elevar um número a qualquer potência em C. Para elevar um número ao quadrado, basta passar o número como primeiro argumento e 2 como segundo argumento.
-``` c
+
+```c
 #include <math.h>
 int main() {
     quadrado = pow(numero, 2);
 }
 ```
-- **Python** - Para exibir um número de ponto flutuante com duas casas decimais em Python, utilize o formato `:.2f` dentro da função `print`. O número **2** após o ponto indica o número de casas decimais que serão exibidas:
-``` python
-print(f"{resultado:.6f}")
+
+**Python** - Para exibir um número de ponto flutuante com duas casas decimais em Python, utilize o formato `:.2f` dentro da função `print`. O número **2** após o ponto indica o número de casas decimais que serão exibidas:
+
+```py
+print(f"{resultado:.2f}")
 ```
-``` python
-print("{:.6f}".format(resultado))
+
+```py
+print("{:.2f}".format(resultado))
 ```
+
 Em Python, o cálculo da raiz quadrada é bastante simples e direto. Basta importar o módulo math e utilizar a função `sqrt()`
 
-``` python
+```py
 import math
 raiz = math.sqtr(numero)
 ```
+
 Em Python, temos duas formas principais de elevar um número ao quadrado:
-``` python 
+
+```py
 import math
 quadrado = math.pow(numero, 2)
 ```
-``` python 
+
+```py
 quadrado =  numero ** 2
 ```
 
-- **TypeScript** - Para exibir um número com duas casas decimais em TypeScript, utilize o método `toFixed(2)` do objeto `Number`. O número **2** especifica a quantidade de casas decimais que serão exibidas após o ponto decimal:
-``` ts
+**TypeScript** - Para exibir um número com duas casas decimais em TypeScript, utilize o método `toFixed(2)` do objeto `Number`. O número **2** especifica a quantidade de casas decimais que serão exibidas após o ponto decimal:
+
+```ts
 console.log(resultado.toFixed(2)); 
 ```
-``` ts
+
+```ts
 write(resultado.toFixed(2));
 ```
+
 Em TypeScript, a abordagem é semelhante à do JavaScript. Não há uma biblioteca padrão para funções matemáticas, mas podemos utilizar a biblioteca Math global.
-``` ts
+
+```ts
 let raiz: number = Math.sqrt(numero);
 ```
-Em Python, temos duas formas principais de elevar um número ao quadrado:
-``` ts
+
+Em TypeScript, temos duas formas principais de elevar um número ao quadrado:
+
+```ts
 let quadrado: number = numero ** 2;
 ```
-``` ts
+
+```ts
 let quadrado: number = Math.pow(numero, 2);
 ```

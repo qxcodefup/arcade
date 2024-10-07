@@ -1,45 +1,45 @@
-#INPUT
+>>>>>>>> INSERT
 5
-#OUTPUT
+======== EXPECT
 positivo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -1
-#OUTPUT
+======== EXPECT
 negativo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
-#OUTPUT
+======== EXPECT
 nulo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 4
-#OUTPUT
+======== EXPECT
 positivo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 -5
-#OUTPUT
+======== EXPECT
 negativo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 -11
-#OUTPUT
+======== EXPECT
 negativo
-#END
+<<<<<<<< FINISH

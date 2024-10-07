@@ -1,4 +1,4 @@
-# L2 - Hora do chute - @maior ou menor
+# @maior - Hora do chute 2
 
 ![Silvio Santos]( cover.jpg)
 
@@ -27,41 +27,41 @@ O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o 
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1.1
 m
 1.0
-#OUTPUT
+======== EXPECT
 segundo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1.1
 M
 1.0
-#OUTPUT
+======== EXPECT
 primeiro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0.9
 M
 1.0
-#OUTPUT
+======== EXPECT
 segundo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1.3
 m
 2.0
-#OUTPUT
+======== EXPECT
 primeiro
-#END
+<<<<<<<< FINISH
 ```

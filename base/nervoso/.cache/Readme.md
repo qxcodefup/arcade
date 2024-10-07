@@ -1,4 +1,4 @@
-# L3 - Chefe @nervoso - OBI 2021
+# @nervoso - Chefe nervoso - OBI 2021
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/nervoso/cover.jpg)
 
@@ -33,17 +33,17 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 4
 3
 0
 4
 0
-#OUTPUT
+======== EXPECT
 0
-#END<
+<<<<<<<< FINISH<
 
-#INPUT
+>>>>>>>> INSERT
 10
 1
 3
@@ -55,8 +55,8 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 0
 0
 6
-#OUTPUT
+======== EXPECT
 7
-#END
+<<<<<<<< FINISH
 
 ```

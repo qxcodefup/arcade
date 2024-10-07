@@ -1,7 +1,4 @@
-# L0 - Soma de @tres inteiros
-
-[Ação](#ação) | [Shell](#shell) | [Dicas](#dicas)
--- | -- | --
+# @tres - Soma de inteiros
 
 ![Imagem meteriologica](cover.jpg)
 
@@ -12,58 +9,65 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 ### Entrada
 
 - A entrada consiste de três linhas. Cada linha contém um número inteiro, representando os valores a serem somados.
+
 ### Saída
 
 - A saída deve conter um único valor: a soma dos três números inteiros, seguido por uma quebra de linha.
 
-
 ## Testes
 
-```
+```py
 #INPUT
 2
 3
-4
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 9
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
 12
 17
-24
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 53
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
 -10
 -4
-23
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 9
-#END
+<<<<<<<< FINISH
 ```
 
-### Dicas
+## Dicas
 
-- C - Quebre uma linha usando `\n`:
-``` c
+**C** - Quebre uma linha usando `\n`:
+
+```c
 int main() {
     printf("%d\n", soma);
 }
 ```
 
-- Python - Não há necessidade de quebrar a linha manualmente, pois ela é quebrada automaticamente:
-``` python
+**Python** - Não há necessidade de quebrar a linha manualmente, pois ela é quebrada automaticamente:
+
+```py
 print(soma)
 ```
 
-- TypeScript - Não há necessidade de quebrar a linha manualmente, pois ela é quebrada automaticamente:
-``` ts
+**TypeScript** - Não há necessidade de quebrar a linha manualmente, pois ela é quebrada automaticamente:
+
+```ts
 console.log(soma); || write();
+```
+
+```ts
+write(soma);
 ```

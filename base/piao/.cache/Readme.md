@@ -1,4 +1,4 @@
-# L3 - @piao perto da linha
+# @piao perto da linha
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/piao/cover.jpg)
 
@@ -34,43 +34,43 @@ No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 30 3
 35 -15 22
-#OUTPUT
+======== EXPECT
 1
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 30 3
 35 -32 -40
-#OUTPUT
+======== EXPECT
 nenhum
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 30 3
 35 36 -36
-#OUTPUT
+======== EXPECT
 nenhum
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 40 3
 -25 -26 24
-#OUTPUT
+======== EXPECT
 2
 1
-#END
+<<<<<<<< FINISH
 ```
 
 - baitinga: modo carinhoso que um cearense chama o outro quando está invocado!

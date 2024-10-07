@@ -1,15 +1,15 @@
-#INPUT
+>>>>>>>> INSERT
 aeiou  
 arta euio auiaoauio riu pegasus
-#OUTPUT
+======== EXPECT
 pessoa chefe chefe ultron pessoa
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 aer
 arta euio auiaoauio riu pegasus rea
-#OUTPUT
+======== EXPECT
 ultron pessoa pessoa pessoa pessoa chefe
-#END
+<<<<<<<< FINISH

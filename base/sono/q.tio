@@ -1,78 +1,78 @@
-#INPUT
+>>>>>>>> INSERT
 01 00 00
 03 00 00
-#OUTPUT
+======== EXPECT
 02 00 00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 02 11 00
 03 10 10
-#OUTPUT
+======== EXPECT
 00 59 10
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 04 10 00
 03 10 10
-#OUTPUT
+======== EXPECT
 23 00 10
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 04 00 01
 03 00 00
-#OUTPUT
+======== EXPECT
 22 59 59
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 0 0 0
 1 1 1
-#OUTPUT
+======== EXPECT
 01 01 01
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 10 0 0
 11 12 13
-#OUTPUT
+======== EXPECT
 01 12 13
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 04 05 00
 03 05 00
-#OUTPUT
+======== EXPECT
 23 00 00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 03 15 32
 21 34 07
-#OUTPUT
+======== EXPECT
 18 18 35
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 09
+>>>>>>>> INSERT 09
 21 15 32
 06 34 09
-#OUTPUT
+======== EXPECT
 09 18 37
-#END
+<<<<<<<< FINISH

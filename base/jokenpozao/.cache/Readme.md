@@ -1,4 +1,4 @@
-# L2 - @jokenpozao de 9
+# @jokenpozao de 9
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/jokenpozao/cover.jpg)
 
@@ -49,73 +49,73 @@ ARMA MIRA ROCHA, DISPARA, SUPERA TESOURA, ATIRA NO HUMANO.
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 sponge
 gun
-#OUTPUT
+======== EXPECT
 jog1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 air
 scissors
-#OUTPUT
+======== EXPECT
 jog2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 gun
 gun
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 air
 gun
-#OUTPUT
+======== EXPECT
 jog1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 fire
 air
-#OUTPUT
+======== EXPECT
 jog2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 water
 human
-#OUTPUT
+======== EXPECT
 jog2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 scissors
 paper
-#OUTPUT
+======== EXPECT
 jog1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 08
+>>>>>>>> INSERT 08
 sponge
 human
-#OUTPUT
+======== EXPECT
 jog2
-#END
+<<<<<<<< FINISH
 ```

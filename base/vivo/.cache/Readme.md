@@ -1,4 +1,4 @@
-# L3 - @vivo ou Morto - OBI 2005
+# @vivo ou Morto - OBI 2005
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vivo/cover.jpg)
 
@@ -45,7 +45,7 @@ Sua tarefa é escrever um programa que determine o vencedor de uma partida de "
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 5 4
 3 2 1 4 5
 5 1 1 1 1 1 1
@@ -63,12 +63,12 @@ Sua tarefa é escrever um programa que determine o vencedor de uma partida de "
 2 1 1 1
 2 1 1 0
 0 0
-#OUTPUT
+======== EXPECT
 Teste 1
 5
 Teste 2
 3
 Teste 3
 2
-#END
+<<<<<<<< FINISH
 ```

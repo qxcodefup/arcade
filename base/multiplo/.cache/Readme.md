@@ -1,7 +1,4 @@
-# L0 - @multiplo de sete
-
-[Ação](#ação) | [Shell](#shell) | [Dicas](#dicas)
--- | -- | --
+# @multiplo de sete
 
 ![Imagem eh Positivo](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/multiplo/cover.jpg)
 
@@ -25,86 +22,90 @@ Implemente um programa que recebe um número inteiro e imprime "SIM" caso ele se
 ```py
 #INPUT 0
 3
-#OUTPUT
-NAO
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 1
 14
-#OUTPUT
-SIM
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 2
 21
-#OUTPUT
-SIM
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 3
 0
-#OUTPUT
-SIM
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 4
 45
-#OUTPUT
-NAO
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 5
 -20
-#OUTPUT
-NAO
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 6
 -21
-#OUTPUT
-SIM
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ### Dicas
 
-- **C** - Use o operador de módulo `%` para verificar se um número é múltiplo de 7:
-``` c
+**C** - Use o operador de módulo `%` para verificar se um número é múltiplo de 7:
+
+```c
 int main() {
     if (numero % 7 == 0) printf("SIM\n");
     else printf("NAO\n");
 }
 ```
 
-- **Python** - Utilize o operador % para determinar se o número é divisível por 7:
-``` python
+**Python** - Utilize o operador % para determinar se o número é divisível por 7:
+
+```py
 if numero % 7 == 0:
     print("SIM")
 else:
     print("NAO")
 ```
 
-- **TypeScript** - Em TypeScript, o operador % funciona da mesma maneira:
-``` ts
+**TypeScript** - Em TypeScript, o operador % funciona da mesma maneira:
+
+```ts
 if (numero % 7 === 0) {
     console.log("SIM");
 } else {
     console.log("NAO");
 }
 ```
-``` ts
+
+```ts
 if (numero % 7 === 0) {
     write("SIM");
 } else {

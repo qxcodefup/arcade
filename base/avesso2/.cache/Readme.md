@@ -1,4 +1,4 @@
-# L3 - Jogo do @avesso2
+# @avesso2 - Jogo não acabou
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/avesso2/cover.jpg)
 
@@ -37,31 +37,31 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3 1
 3 1 4
 1
-#OUTPUT
+======== EXPECT
 [-3 1 -4]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 3
 3 1 4
 1 1 4
-#OUTPUT
+======== EXPECT
 [3 -1 4]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 7 5
 3 4 8 9 1 5 6
 3 4 5 6 9
-#OUTPUT
+======== EXPECT
 [-3 -4 8 9 1 -5 -6]
-#END
+<<<<<<<< FINISH
 ```

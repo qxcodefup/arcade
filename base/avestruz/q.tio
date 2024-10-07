@@ -1,33 +1,33 @@
-#INPUT
+>>>>>>>> INSERT
 A Andreia alimentou a avestruz com alcaparras
 a
-#OUTPUT
+======== EXPECT
 10
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 A Andreia atirou alcachofras no LEAO
 e
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 A Andreia atirou alcachofras no leao
 x
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04 !%
+>>>>>>>> INSERT 04 !%
 A Xuxa xogou xapatos no xacare Xato e xujo
 x
-#OUTPUT
+======== EXPECT
 7
-#END
+<<<<<<<< FINISH

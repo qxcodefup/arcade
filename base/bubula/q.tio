@@ -1,37 +1,37 @@
-#INPUT
+>>>>>>>> INSERT
 Volte cá seu cabra safado
-#OUTPUT
+======== EXPECT
 VoVoVolte cá seu cacacabra sasasafado
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Morreu Maria Prea
-#OUTPUT
+======== EXPECT
 MoMoMorreu MaMaMaria Prea
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Solte essa faca ou eu arranco suas tripas no dente!
-#OUTPUT
+======== EXPECT
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 Solte essa faca ou eu arranco suas tripas no dente
-#OUTPUT
+======== EXPECT
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 Nao se bula ou eu te mato
-#OUTPUT
+======== EXPECT
 Nao se bububula ou eu te mamamato
-#END
+<<<<<<<< FINISH

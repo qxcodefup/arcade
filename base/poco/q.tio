@@ -1,21 +1,21 @@
-#INPUT
+>>>>>>>> INSERT
 800
 300
 100
-#OUTPUT
+======== EXPECT
 0 300
 200 490
 390 670
 570 saiu
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 800
 300
 200
-#OUTPUT
+======== EXPECT
 0 300
 100 390
 190 470
@@ -39,15 +39,15 @@
 100 200
 0 90
 -110 morreu
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 50
 30
-#OUTPUT
+======== EXPECT
 0 50
 20 60
 30 60
@@ -55,15 +55,15 @@
 20 30
 0 0
 -30 morreu
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 100
 60
 30
-#OUTPUT
+======== EXPECT
 0 60
 30 80
 50 90
@@ -73,28 +73,28 @@
 30 30
 0 0
 -30 morreu
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 85
 40
 5
-#OUTPUT
+======== EXPECT
 0 40
 35 65
 60 80
 75 saiu
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 100 
 60 
 30
-#OUTPUT
+======== EXPECT
 0 60
 30 80
 50 90
@@ -104,4 +104,4 @@
 30 30
 0 0
 -30 morreu
-#END
+<<<<<<<< FINISH

@@ -1,4 +1,4 @@
-# L2 - @pizza
+# @pizza
 
 ![_](cover.jpg)
 
@@ -26,14 +26,14 @@ Imprima o nome do restaurante que Joey deve escolher.
 ## Exemplo de Entrada
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3
 fornoalenha 108
 burguery 145
 qsabor 49
-#OUTPUT
+======== EXPECT
 burguery
-#END
+<<<<<<<< FINISH
 ```
 
 ## Sugestão

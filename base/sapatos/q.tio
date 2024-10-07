@@ -1,60 +1,60 @@
-#INPUT 01
+>>>>>>>> INSERT 01
 1
 20
-#OUTPUT
+======== EXPECT
 36
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 1
 10
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 10
 1
-#OUTPUT
+======== EXPECT
 invalido
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 6
 6
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 1
 500
-#OUTPUT
+======== EXPECT
 20916
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 100
 90
-#OUTPUT
+======== EXPECT
 invalido
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 12
 12
-#OUTPUT
+======== EXPECT
 12
-#END
+<<<<<<<< FINISH

@@ -1,33 +1,33 @@
-#INPUT
+>>>>>>>> INSERT
 fundamentos de programacao
 a
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 o rato roeu a roupa do rei de roma
 a
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 o rato roeu a roupa do rei de roma
 x
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 o rato roeu a roupa do rei de roma
 o
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH

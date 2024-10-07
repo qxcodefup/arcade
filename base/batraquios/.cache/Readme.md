@@ -1,4 +1,4 @@
-# L3 - @batraquios - está contido
+# @batraquios - está contido
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/batraquios/cover.jpg)
 
@@ -31,28 +31,28 @@ Dados dois vetores, verifique se o primeiro está contido no segundo.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 2 1 3
 3 1 5 3
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2 1 3
 3 6 5 3
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 1 3 2
 6 1 5 3 6 8 2
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```

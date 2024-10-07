@@ -1,4 +1,4 @@
-# L2 - @numerao divisível por 11
+# @numerao divisível por 11
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/numerao/cover.jpg)
 
@@ -26,25 +26,25 @@ Existem formas para se determinar essa divisibilidade. Pesquise um pouco.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 11
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 110
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 123
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH
 ```

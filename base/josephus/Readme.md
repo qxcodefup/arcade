@@ -1,4 +1,4 @@
-# L3 - @josephus  - Cabeças vão rolar
+# @josephus  - Cabeças vão rolar
 
 ![_](cover.jpg)
 
@@ -51,20 +51,20 @@ Sobra o cinco.
 
 ``` py
 
-#INPUT
+>>>>>>>> INSERT
 5 
 3
-#OUTPUT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 6
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 
 ```

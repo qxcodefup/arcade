@@ -1,37 +1,37 @@
-#INPUT
+>>>>>>>> INSERT
 Opa amigo xarles 2o
 a
 x
-#OUTPUT
+======== EXPECT
 Opx xmigo axrles 2o
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 minha chinela
 abcdefghijlm
 nopqrtuvwxyz
-#OUTPUT
+======== EXPECT
 zwavn pvwaryn
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 aquoso estrela
 aeios
 43102
-#OUTPUT
+======== EXPECT
 4qu020 32tr3l4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 eu desejo eu quero eu vou
 eo
 ta
-#OUTPUT
+======== EXPECT
 tu dtstja tu qutra tu vau
-#END
+<<<<<<<< FINISH

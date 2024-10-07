@@ -1,4 +1,4 @@
-# L1 - @expressao
+# @expressao
 
 ![_](cover.jpg)
 
@@ -15,21 +15,21 @@ Crie um programa que leia do usuário dois números inteiros e um operador do ti
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5
 5
 +
-#OUTPUT
+======== EXPECT
 10
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 5
 -
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```

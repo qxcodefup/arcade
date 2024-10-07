@@ -1,4 +1,4 @@
-# L2 - @gagueira V1 - Duplicar Palavras
+# @gagueira V1 - Duplicar Palavras
 
 ![_](cover.jpg)
 
@@ -23,33 +23,33 @@ Faça um programa que receba uma frase(max 100 char) e imprima a mesma frase com
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 ola planeta terra
-#OUTPUT
+======== EXPECT
 ola ola planeta planeta terra terra
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 gosto de tomate
-#OUTPUT
+======== EXPECT
 gosto gosto de de tomate tomate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 minha ufc
-#OUTPUT
+======== EXPECT
 minha minha ufc ufc
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 sim eu vou
-#OUTPUT
+======== EXPECT
 sim sim eu eu vou vou
-#END
+<<<<<<<< FINISH
 ```

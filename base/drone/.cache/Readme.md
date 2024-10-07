@@ -1,4 +1,4 @@
-# L2 - @drone de Entrega - OBI 2017 - Fase 1
+# @drone de Entrega - OBI 2017 - Fase 1
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/drone/cover.jpg)
 
@@ -12,56 +12,66 @@ O aplicativo de controle do drone está quase pronto, mas falta um pequeno detal
 
 ### Entrada
 
-- A entrada é composta por cinco linhas, cada uma contendo um número inteiro. A três primeiras linhas contêm os valores A, B, C, indicando as três dimensões da caixa, em centímetros. As duas últimas linhas contêm os valores H e L, indicando a altura e a largura da janela, em centímetros.
+- As primeiras três linhas contêm os valores inteiros **A**, **B**, e **C**, que representam as dimensões da caixa, em centímetros.
+- As últimas duas linhas contêm os valores inteiros **H** e **L**, que representam a altura e largura da janela, em centímetros
 
-## Saída
+### Saída
 
-- Seu programa deve escrever uma única linha, contendo apenas a letra S se a caixa passa pela janela e apenas a letra N em caso contrário.
+- O programa deve imprimir "**S**" se a caixa passa pela janela, ou "**N**" se a caixa não passa.
 
-## Restrições
+### Restrições
 
 - 1 ≤ A, B, C ≤ 100
 - 1 ≤ H, L ≤ 100
 
-## Exemplos
+## Testes
 
-``` py
+>>>>>>>> INSERT
 #INPUT
 30
 50
 80
 80
 60
-#OUTPUT
+======== EXPECT
 S
-#END
+<<<<<<<< FINISH
 ```
 
-```py
+>>>>>>>> INSERT
 #INPUT
 75
 100
 50
 100
 30
-#OUTPUT
+======== EXPECT
 N
-#END
+<<<<<<<< FINISH
 ```
 
-```py
+>>>>>>>> INSERT
 #INPUT
 20
 22
 5
 20
 10
-#OUTPUT
+======== EXPECT
 S
-#END
+<<<<<<<< FINISH
 
 ```
 
-## Dica
+## Dicas
 
-Você pode testar as 6 possibilidades de combinação pra ver se em alguma delas o pacote passa pela janela.
+Teste todas as possíveis combinações das dimensões da caixa contra a janela. A caixa poderá passar se, ao girar suas faces, uma combinação de duas dimensões se encaixar dentro das dimensões da janela. Em outras palavras, tente encaixar cada uma das faces do paralelepípedo na janela e verifique se ela passa.
+
+Aqui estão as 6 combinações que você pode testar:
+
+- A e B passam pela janela.
+- A e C passam pela janela.
+- B e A passam pela janela.
+- B e C passam pela janela.
+- C e A passam pela janela.
+- C e B passam pela janela.

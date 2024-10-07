@@ -1,4 +1,4 @@
-# L2 - @retangulo
+# @retangulo
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/retangulo/cover.jpg)
 

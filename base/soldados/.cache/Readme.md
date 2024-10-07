@@ -1,4 +1,4 @@
-# L2 - @soldados em Posição
+# @soldados em Posição
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/soldados/cover.jpg)
 
@@ -27,80 +27,80 @@ Saída
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 2 1
 2
 3
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2 1
 4
 3
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 3
 2 4 6
 3 8 9
 1 0 5
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 3
 5 1 9
 3 8 4
 7 3 2
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 3
 6 2 3
 5 4 9
 1 8 7
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4 4
 6 2 3 5
 5 4 9 4
 1 8 7 3
 1 8 9 2
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5 4
 6 2 3 5
 5 4 9 4
 1 8 7 3
 1 8 9 2
 0 7 9 1
-#OUTPUT
+======== EXPECT
 9
-#END
+<<<<<<<< FINISH
 
 ```

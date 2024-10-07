@@ -1,4 +1,4 @@
-# L2 - Hora do @chute - Quem chega mais perto
+# @chute - Quem chega mais perto
 
 ![_](cover.jpg)
 
@@ -25,53 +25,53 @@ Se ambos ficarem à mesma distancia do valor real, então houve empate.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1
 2
 3
-#OUTPUT
+======== EXPECT
 primeiro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 5
 4
-#OUTPUT
+======== EXPECT
 segundo
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 11
 9
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 20
 21
 22
-#OUTPUT
+======== EXPECT
 primeiro
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 20
 21
 21
-#OUTPUT
+======== EXPECT
 empate
-#END
+<<<<<<<< FINISH
 ```
 
 ## Ajuda

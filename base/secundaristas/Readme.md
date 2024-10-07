@@ -1,4 +1,4 @@
-# L3 - @secundaristas
+# @secundaristas
 
 ![_](cover.jpg)
 
@@ -26,7 +26,7 @@ Dado o nome completo do aluno e 3 notas que ele tirou no curso, imprimir os alun
 ## Testes
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 3
 Alameda do Anjos
 4.5 4.1 8.9
@@ -34,7 +34,7 @@ Heleno Malino
 4.7 4.3 8.2
 Hartheobaudo Hidropolino
 9.0 10.0 8.2
-#OUTPUT
+======== EXPECT
 0: Hartheobaudo Hidropolino
    Media: 9.07
    N1: 9.00, N2: 10.00, N3: 8.20
@@ -44,6 +44,6 @@ Hartheobaudo Hidropolino
 2: Heleno Malino
    Media: 5.73
    N1: 4.70, N2: 4.30, N3: 8.20
-#END
+<<<<<<<< FINISH
 
 ```

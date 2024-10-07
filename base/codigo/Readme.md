@@ -1,4 +1,4 @@
-# L3 - @codigo - OBI 2015 - Fase 2 - Nível Júnior
+# @codigo - OBI 2015 - Fase 2 - Nível Júnior
 
 ![_](cover.jpg)
 
@@ -21,37 +21,37 @@ Gabriel inventou um código para representar números naturais, usando uma sequ�
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 17
 1 1 1 0 1 0 0 1 0 1 0 0 1 1 1 1 0
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 8
 1 1 1 1 0 1 1 1
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 1 0 0
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 0 1 0
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```

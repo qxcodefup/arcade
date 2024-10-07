@@ -1,4 +1,4 @@
-# L2 - Lendo @linha de inteiros
+# @linha - Leitura de inteiros
 
 ![_](cover.jpg)
 
@@ -29,35 +29,35 @@ Agora tente adaptar esse código para carregar vários inteiros em um vetor e de
   - O vetor impresso ao contrário.
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 19 12 32 11 17 15
-#OUTPUT
+======== EXPECT
 [ 15 17 11 32 12 19 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 15
-#OUTPUT
+======== EXPECT
 [ 15 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 15 12
-#OUTPUT
+======== EXPECT
 [ 12 15 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 15 17 11
-#OUTPUT
+======== EXPECT
 [ 11 17 15 ]
-#END
+<<<<<<<< FINISH
 
 ```
 

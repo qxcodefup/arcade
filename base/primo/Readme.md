@@ -1,4 +1,4 @@
-# L2 - É @primo
+# @primo - Calculando se é
 
 ![_](cover.jpg)
 
@@ -17,27 +17,27 @@ Dado um número inteiro, faça uma função que verifique se ele é primo.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 21
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 [Resolução](https://youtu.be/FZVqoVx9KnM)

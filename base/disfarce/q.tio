@@ -1,4 +1,4 @@
-#INPUT
+>>>>>>>> INSERT
 4
 aeiou
 axx
@@ -8,22 +8,22 @@ ultron
 ronluo
 ultron
 rrrrrrrrra
-#OUTPUT
+======== EXPECT
 pessoa
 pessoa
 chefe
 ultron
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 aeiou
 axo
 aeiou
 bba
-#OUTPUT
+======== EXPECT
 ultron
 pessoa
-#END
+<<<<<<<< FINISH

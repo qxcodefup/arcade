@@ -1,57 +1,57 @@
-#INPUT
+>>>>>>>> INSERT
 1 4 7
 4 1 8
 7 8 1
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 3 3
 3 3 3
 3 3 3
-#OUTPUT
+======== EXPECT
 sim
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1 2 3
 4 5 6
 7 8 9
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 2 7 6
 9 5 1
 4 3 8
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 8 1 6
 3 5 7
 4 9 2
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 1 4 7
 4 1 8
 7 9 1
-#OUTPUT
+======== EXPECT
 nao
-#END
+<<<<<<<< FINISH

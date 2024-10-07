@@ -1,6 +1,6 @@
-#INPUT
+>>>>>>>> INSERT
 fundamentos de programacao
 a
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH

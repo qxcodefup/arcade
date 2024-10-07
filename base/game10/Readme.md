@@ -1,4 +1,4 @@
-# L2 - @game10 - OBI 2017 - Fase 1 - Universitário
+# @game10 - OBI 2017 - Fase 1 - Universitário
 
 ![_](cover.jpg)
 
@@ -16,45 +16,63 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 
 ### Entrada
 
-- A primeira linha da entrada contém um inteiro N, o número de posições. A segunda linha contém um inteiro D, a posição do disco voador. A terceira linha contém um inteiro A, a posição do avião.
+- A entrada é composta por três linhas:
+  - Um número inteiro 𝑁 representando o número de posições no jogo.
+  - Um número inteiro 𝐷 representando a posição do disco voador.
+  - Um número inteiro 𝐴 representando a posição atual do avião.
 
-## Saída
+### Saída
 
 - Seu programa deve imprimir uma linha contendo um inteiro, o número mínimo de vezes que o jogador deve apertar o botão para poder atirar.
 
-## Restrições
+### Restrições
 
 - 3 ≤ N ≤ 100
 - 1 ≤ D,A ≤ N
 
-## Exemplos
+>>>>>>>> INSERTmplos
 
 ``` py
 #INPUT
 3
 2
 1
-#OUTPUT
+======== EXPECT
 1
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT
 20
 8
 13
-#OUTPUT
+======== EXPECT
 15
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT
 3
 2
 2
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
+
+## Dicas
+
+O problema pode ser resolvido calculando a diferença cíclica entre a posição do disco voador 𝐷 e a posição do avião 𝐴. A diferença pode ser obtida de duas maneiras:
+
+- Movendo o avião de 𝐴 até 𝐷 diretamente.
+- Dando uma volta completa no ciclo e contando quantos movimentos são necessários.
+
+O número de movimentos será o menor valor entre essas duas possibilidades.
+
+O número de movimentos necessários para mover o avião pode ser calculado com a fórmula:
+
+$$movimentos = (D - A + N) \mod N$$
+
+Isso garante que a contagem dos movimentos seja sempre positiva e dentro do intervalo das posições disponíveis.

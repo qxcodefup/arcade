@@ -1,4 +1,4 @@
-# L1 - @valdiskley e a cifra V1
+# @valdiskley e a cifra V1
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/valdiskley/cover.jpg)
 
@@ -32,46 +32,46 @@ Dado uma letra e um valor de rotação retorne a letra resultante.
 ### Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 a
 0
-#OUTPUT
+======== EXPECT
 a
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 b
 3
-#OUTPUT
+======== EXPECT
 e
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 z
 2
-#OUTPUT
+======== EXPECT
 b
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 f
 -3
-#OUTPUT
+======== EXPECT
 c
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 b
 -2
-#OUTPUT
+======== EXPECT
 z
-#END
+<<<<<<<< FINISH
 ```

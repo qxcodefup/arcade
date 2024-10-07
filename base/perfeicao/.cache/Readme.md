@@ -1,4 +1,4 @@
-# L2 - Eribelton e a Ascologia V2 - Buscando a @perfeicao
+# @perfeicao - Eribelton e a Ascologia V2
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/perfeicao/cover.jpg)
 
@@ -26,33 +26,33 @@ O novo nome ou "sem sorte"
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 Dhaquison
-#OUTPUT
+======== EXPECT
 Dhaquisonn
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Alfredo
-#OUTPUT
+======== EXPECT
 Alfredoc
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Maikou
-#OUTPUT
+======== EXPECT
 sem sorte
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 Davidp
-#OUTPUT
+======== EXPECT
 Davidpd
-#END
+<<<<<<<< FINISH
 ```

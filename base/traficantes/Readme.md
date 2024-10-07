@@ -1,4 +1,4 @@
-# L3 - Conversa de @traficantes - Substituições de substrings
+# @traficantes - Substituições de substrings
 
 ![_](cover.jpg)
 
@@ -32,31 +32,31 @@ NÃO use nenhuma função pronta para fazer isso.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 a aba absorveu
 ab
 c
-#OUTPUT
+======== EXPECT
 a ca csorveu
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 a almofada esta mofada e molhada
 mo
 bigode
-#OUTPUT
+======== EXPECT
 a albigodefada esta bigodefada e bigodelhada
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 a bd abda
 bd
 abc
-#OUTPUT
+======== EXPECT
 a abc aabca
-#END
+<<<<<<<< FINISH
 ```

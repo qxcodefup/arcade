@@ -1,4 +1,4 @@
-# L2 - @invertendo vetor
+# @invertendo vetor
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/invertendo/cover.jpg)
 
@@ -26,37 +26,37 @@ Faça uma função que ajude o capoeirista a inverter um vetor passado na entrad
 ### Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 4
 1 2 3 4
-#OUTPUT
+======== EXPECT
 [ 4 3 2 1 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 2
 1 2
-#OUTPUT
+======== EXPECT
 [ 2 1 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 6
 1 2 3 4 5 6
-#OUTPUT
+======== EXPECT
 [ 6 5 4 3 2 1 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 5
 1 2 3 4 5
-#OUTPUT
+======== EXPECT
 [ 5 4 3 2 1 ]
-#END
+<<<<<<<< FINISH
 ```

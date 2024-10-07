@@ -1,7 +1,4 @@
-# L0 - @resto - resultado e resto na divisão
-
-[Ação](#ação) | [Shell](#shell) | [Dicas](#dicas)
--- | -- | --
+# @resto - resultado e resto na divisão
 
 ![Imagem Teorema da Divisão](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/resto/cover.png)
 
@@ -22,7 +19,6 @@ divisão de 115 por 15.
 Implemente um programa que receba dois inteiros positivos e calcule o valor do
 quociente e resto da divisão do primeiro pelo segundo número.
 
-
 ### Entrada
 
 - Dois inteiros, um por linha
@@ -37,152 +33,155 @@ quociente e resto da divisão do primeiro pelo segundo número.
 #INPUT 0
 51
 31
-#OUTPUT
-1 20
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 1
 398
 50
-#OUTPUT
-7 48
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 2
 350
 40
-#OUTPUT
-8 30
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 3
 587
 460
-#OUTPUT
-1 127
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 4
 215
 158
-#OUTPUT
-1 57
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 5
 760
 360
-#OUTPUT
-2 40
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 6
 498
 203
-#OUTPUT
-2 92
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 7
 61
 25
-#OUTPUT
-2 11
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 8
 32
 7
-#OUTPUT
-4 4
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 9
 873
 254
-#OUTPUT
-3 111
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 10
 689
 326
-#OUTPUT
-2 37
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 11
 939
 155
-#OUTPUT
-6 9
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 12
 302
 78
-#OUTPUT
-3 68
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 13
 584
 318
-#OUTPUT
-1 266
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 14
 899
 317
-#OUTPUT
-2 265
-#END
+======== EXPECT
+>>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
-### Dicas
+## Dicas
 
-- **C** - Quando queremos saber o valor restante após uma divisão inteira, empregamos o operador módulo (`%`):
+**C** - Quando queremos saber o valor restante após uma divisão inteira, empregamos o operador módulo (`%`):
+
 ```c
 int main() {
     int resto = dividendo % divisor;
 }
 ```
 
-- **Python** - Quando queremos saber o valor restante após uma divisão inteira, empregamos o operador módulo (`%`):
-``` python
+**Python** - Quando queremos saber o valor restante após uma divisão inteira, empregamos o operador módulo (`%`):
+
+```py
 resto = dividendo % divisor
 ```
 
-- **TypeScript** - Quando queremos saber o valor restante após uma divisão inteira, empregamos o operador módulo (`%`).:
-``` ts
+**TypeScript** - Quando queremos saber o valor restante após uma divisão inteira, empregamos o operador módulo (`%`).:
+
+```ts
 let resto = dividendo % divisor;
 ```

@@ -1,4 +1,4 @@
-# L4 - @permutacao de fichas
+# @permutacao de fichas
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/permutacao/cover.jpg)
 
@@ -53,28 +53,28 @@ Dada a ficha de Sara e o número de fichas seguintes que Sara comprou, determine
 ## Exemplos
 
 ``` py
-#INPUT Teste 0
+>>>>>>>> INSERT Teste 0
 123
 5
-#OUTPUT
+======== EXPECT
 321
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 1
+>>>>>>>> INSERT Teste 1
 3215
 1
-#OUTPUT
+======== EXPECT
 3251
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Teste 2
+>>>>>>>> INSERT Teste 2
 4567
 6
-#OUTPUT
+======== EXPECT
 5467
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L2 - @gomos da cobrinha
+# @gomos da cobrinha
 
 ![_](cover.jpg)
 
@@ -11,67 +11,67 @@
 - Testes
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1 L
 5 5
-#OUTPUT
+======== EXPECT
 4 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 L
 5 5
 6 5
 6 6
-#OUTPUT
+======== EXPECT
 4 5
 5 5
 6 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4 U
 5 5
 6 5
 6 6
 6 7
-#OUTPUT
+======== EXPECT
 5 4
 5 5
 6 5
 6 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1 R
 5 5
-#OUTPUT
+======== EXPECT
 6 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1 D
 5 5
-#OUTPUT
+======== EXPECT
 5 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1 U
 5 5
-#OUTPUT
+======== EXPECT
 5 4
-#END
+<<<<<<<< FINISH
 ```
 
 Você deve implementar a função

@@ -1,4 +1,4 @@
-# L2 - @spok palíndromo
+# @spok palíndromo
 
 ![_](cover.jpg)
 
@@ -29,17 +29,17 @@ Por exemplo: 121 é palíndromo pois seu inverso é 121.
 ## Exemplo
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 121
-#OUTPUT  
+======== EXPECT  
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 123
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```

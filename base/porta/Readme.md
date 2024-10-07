@@ -1,4 +1,4 @@
-# L4 - A @porta Matemática
+# @porta Matemática
 
 ![_](cover.jpg)
 
@@ -31,28 +31,28 @@ Faça um programa que dado um conjunto de portas retorne a porta matemática.
 ### Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 6
 1 2 4 7 8 5
-#OUTPUT
+======== EXPECT
 4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 49 81
-#OUTPUT
+======== EXPECT
 49
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 5 6
-#OUTPUT
+======== EXPECT
 a porta nao existe
-#END
+<<<<<<<< FINISH
 ```

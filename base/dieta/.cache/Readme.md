@@ -1,4 +1,4 @@
-# L0 - @dieta - Rubens comendo no Brolio
+# @dieta - Rubens comendo no Brolio
 
 Professor Rubens percebeu que depois que passou a comer rotineiramente no Broiler, está ganhando peso rapidamente. Na consulta com a nutricionista, ela calculou que uma meta diária de 2200 calorias seria ideal para ele.
 
@@ -15,43 +15,43 @@ Nos dias que ele vai para o Broiler, ele acaba comendo demais, pois um prato pra
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 3000
-#OUTPUT
+======== EXPECT
 3000.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 3000
 4000
-#OUTPUT
+======== EXPECT
 3500.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 2000
 0
 1000
-#OUTPUT
+======== EXPECT
 1000.0
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 5000
 2000
 0
 1000
-#OUTPUT
+======== EXPECT
 2000.0
-#END
+<<<<<<<< FINISH
 ```

@@ -1,4 +1,4 @@
-# L0 - @sapatos para 2 e 3
+# @sapatos para 2 e 3
 
 ![_](cover.jpg)
 
@@ -17,37 +17,37 @@ Depois, some os números que são divisíveis por 2 e divisíveis por 3 que est�
 ### Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 1
 20
-#OUTPUT
+======== EXPECT
 36
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 1
 10
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 10
 1
-#OUTPUT
+======== EXPECT
 invalido
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 6
 6
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```

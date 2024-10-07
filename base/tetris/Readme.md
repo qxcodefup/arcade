@@ -1,4 +1,4 @@
-# L3 - @tetris (Fazendo a peça cair)
+# @tetris (Fazendo a peça cair)
 
 ![_](cover.jpg)
 
@@ -26,31 +26,31 @@ o display sem alteração.
 ## Exemplos
 
 ``` py
-#INPUT bastao parado
+>>>>>>>> INSERT bastao parado
 4 4
 .#.#
 .#o#
 ##o#
 ##o#
-#OUTPUT
+======== EXPECT
 .#.#
 .#o#
 ##o#
 ##o#
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT u movel
+>>>>>>>> INSERT u movel
 4 4
 ooo#
 o.o#
 o#o#
 .#.#
-#OUTPUT
+======== EXPECT
 ...#
 ooo#
 o#o#
 o#o#
-#END
+<<<<<<<< FINISH
 ```

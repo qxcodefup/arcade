@@ -1,4 +1,4 @@
-# L1 - Divisão Inteira e @quebrada
+# @quebrada - Tipos de divisão
 
 ![_](cover.jpg)
 
@@ -23,25 +23,25 @@ Aprenda a fazer divisão inteira e quebrada.
 ## Exemplo
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 6
 3
-#OUTPUT
+======== EXPECT
 2
 0
 2.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 7
 3
-#OUTPUT
+======== EXPECT
 2
 1
 2.33
-#END
+<<<<<<<< FINISH
 
 ```
 

@@ -1,6 +1,6 @@
-#INPUT
+>>>>>>>> INSERT
 3
-#OUTPUT
+======== EXPECT
 A -> C
 A -> B
 C -> B
@@ -8,13 +8,13 @@ A -> C
 B -> A
 B -> C
 A -> C
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 5
-#OUTPUT
+======== EXPECT
 A -> C
 A -> B
 C -> B
@@ -46,4 +46,4 @@ A -> C
 B -> A
 B -> C
 A -> C
-#END
+<<<<<<<< FINISH

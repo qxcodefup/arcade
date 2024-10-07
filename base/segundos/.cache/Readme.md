@@ -1,8 +1,4 @@
-# L0 - @segundos - converter segundos em h:m:s
-
-[Ação](#ação) | [Shell](#shell) | [Dicas](#dicas)
--- | -- | --
-
+# @segundos - converter segundos em h:m:s
 
 ![Imagem Tempo em Horas, Minutos e Segundos](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/segundos/cover.jpg)
 
@@ -28,154 +24,162 @@ Hora:Minuto:Segundo
 
 - Tempo formatado em Horas:Minutos:Segundos
 
-
 ## Testes
 
-```
+```py
 #INPUT 0
 3641
-#OUTPUT
+======== EXPECT
 1:0:41
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 1
 22067
-#OUTPUT
+======== EXPECT
 6:7:47
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 2
 9934
-#OUTPUT
+======== EXPECT
 2:45:34
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 3
 30100
-#OUTPUT
+======== EXPECT
 8:21:40
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 4
 22769
-#OUTPUT
+======== EXPECT
 6:19:29
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 5
 19324
-#OUTPUT
+======== EXPECT
 5:22:4
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 6
 15078
-#OUTPUT
+======== EXPECT
 4:11:18
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 7
 32958
-#OUTPUT
+======== EXPECT
 9:9:18
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 8
 30562
-#OUTPUT
+======== EXPECT
 8:29:22
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 9
 28064
-#OUTPUT
+======== EXPECT
 7:47:44
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 10
 9305
-#OUTPUT
+======== EXPECT
 2:35:5
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 11
 31745
-#OUTPUT
+======== EXPECT
 8:49:5
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 12
 26881
-#OUTPUT
+======== EXPECT
 7:28:1
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 13
 20427
-#OUTPUT
+======== EXPECT
 5:40:27
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
 ```py
 #INPUT 14
 13561
-#OUTPUT
+======== EXPECT
 3:46:1
-#END
-```
+<<<<<<<< FINISH
+>>>>>>>> INSERT
 
+## Dicas
 
-### Dicas
+**C** -  Aqui está uma menira de realizar impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
 
-- **C** -  Aqui está uma menira de realizar impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
 ```c
 int main() {
     printf("%d:%d:%d", hora, minuto, segundo)
 }
 ```
 
-- **Python** - Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
-``` python
-print(f"{hora}:{minuto}:{segundos}")
-- ou -
-print("{}:{}:{}".format(hora, minuto, segundos))
+**Python** - Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
 
+```py
+print(f"{hora}:{minuto}:{segundos}")
 ```
 
-- **TypeScript** - Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
-``` ts
+```py
+print("{}:{}:{}".format(hora, minuto, segundos))
+```
+
+**TypeScript** - Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
+
+```ts
 console.log(hora + ":" + minuto + ":" + segundo);
-- ou -
+```
+
+```ts
 write(hora + ":" + minuto + ":" + segundo);
-- ou -
+```
+
+```ts
 console.log(`${hora}:${minuto}:${segundo}`);
-- ou -
+```
+
+```ts
 write(`${hora}:${minuto}:${segundo}`);
 ```

@@ -1,4 +1,4 @@
-# L2 - Meu @cachorro comeu minha tarefa - Retirar espaços
+# @cachorro - Retirar espaços
 
 ![_](cover.jpg)
 
@@ -30,33 +30,33 @@ Faça um código que retire os espaços duplicados que existem entre duas palavr
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 galinha          pintadinha
-#OUTPUT
+======== EXPECT
 galinha pintadinha
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 a    almofada
-#OUTPUT
+======== EXPECT
 a almofada
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 comi    sorvete
-#OUTPUT
+======== EXPECT
 comi sorvete
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 meteoro        pegasus
-#OUTPUT
+======== EXPECT
 meteoro pegasus
-#END
+<<<<<<<< FINISH
 ```

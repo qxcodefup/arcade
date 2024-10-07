@@ -1,4 +1,4 @@
-# L2 - Soma de @matrizes
+# @matrizes - Soma
 
 ![_](cover.jpg)
 
@@ -20,29 +20,29 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 ## Exemplos
 
 ``` py
-#INPUT 00
+>>>>>>>> INSERT 00
 2
 3
 1 2 3
 4 5 6
 1 1 1
 2 2 2
-#OUTPUT
+======== EXPECT
 [ 2 3 4 ]
 [ 6 7 8 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 01
+>>>>>>>> INSERT 01
 2
 1
 1
 2
 3
 4
-#OUTPUT
+======== EXPECT
 [ 4 ]
 [ 6 ]
-#END
+<<<<<<<< FINISH
 ```

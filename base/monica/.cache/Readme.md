@@ -1,6 +1,8 @@
-# L2 - @monica - A idade do filho mais velho - OBI 2019 - F1PJ
+# @monica - A idade do filho mais velho - OBI 2019 - F1PJ
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/monica/cover.jpg)
+
+## Motivação
 
 Dona Mônica é mãe de três filhos que têm idades diferentes. Ela notou que, neste ano, a soma das idades dos seus três filhos é igual à idade dela. Neste problema, dada a idade de dona Mônica e as idades de dois dos filhos, seu programa deve computar e imprimir a idade do filho mais velho.
 
@@ -10,66 +12,85 @@ Em mais um exemplo, se dona Mônica tem 47 anos e as idades de dois dos filhos s
 
 ### Entrada
 
-- A primeira linha da entrada contém um inteiro M representando a idade de dona Mônica.  
-- A segunda linha da entrada contém um inteiro A representando a idade de um dos filhos.
-- A terceira linha da entrada contém um inteiro B representando a idade de outro filho.
+- A primeira linha da entrada contém um inteiro **M** representando a idade de dona Mônica.  
+- A segunda linha da entrada contém um inteiro **A** representando a idade de um dos filhos.
+- A terceira linha da entrada contém um inteiro **B** representando a idade de outro filho.
 
 ### Saída
 
 - Seu programa deve imprimir uma linha, contendo um número inteiro, representando a idade do filho mais velho de dona Mônica.
 
-Restrições:
+### Restrições
 
 - 40 ≤ M ≤ 110
 - 1 ≤ A < M
 - 1 ≤ B < M
 - A !=B
 
-## Exemplo
-
-``` py
+## Testes
+>>>>>>>> INSERT
+```py
 #INPUT
 52
 14
 18
-#OUTPUT
+======== EXPECT
 20
-#END
+<<<<<<<< FINISH
 ```
-
+>>>>>>>> INSERT
 ```py
 #INPUT
 47
 21
 9
-#OUTPUT
+======== EXPECT
 21
-#END
+<<<<<<<< FINISH
 
 ```
 
-## Dica
+## Dicas
 
-Após a descobrir qual a idade do filho que falta você precisará descobrir qual dos filhos é o mais velho. Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
+A idade do terceiro filho 𝐶 pode ser calculada pela fórmula:
+
+$$C = M - (A + B)$$
+
+Depois de calcular a idade do terceiro filho, compare as idades dos três filhos para determinar qual é o mais velho.
+
+**C** - Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
+`x = condicao ? valor_verdade : valor_falso`:
 
 ```c
-// x = condicao ? valor_verdade : valor_falso
-
-// leia assim: se 5 for maior que 4, então 5, senão 4.
-int maior = (5 > 4) ? 5 : 4; 
-
-// você pode utilizar isso pra pegar o maior valor de duas variáveis
-
-int maior = A > B ? A : B; //pega o maior de A e B
-maior = C > maior ? C : maior; //pega o maior de maior e C
+int main() {
+    int maior = 5 > 4 ? 5 : 4;    
+}  
 ```
 
-Em python teríamos assim:
+```c
+int main() {
+    int maior = C > maior ? C : maior;    
+}  
+```
+
+**Python** -  Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
+`x = valor_verdade if condicao else valor_falso`:
 
 ```py
-# deixe 5, se 5 for maior que 4, senão deixe 4
 int x = 5 if 5 > 4 else 4
+```
 
-# deixe A, se A for maior que B, senão deixe B
+```py
 int x = A if A > B else B
+```
+
+**TypeScript** - Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
+`x = condicao ? valor_verdade : valor_falso`:
+
+```ts
+let maior = 5 > 4 ? 5 : 4;
+```
+
+```ts
+let maior = C > maior ? C : maior;  
 ```

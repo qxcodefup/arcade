@@ -1,67 +1,67 @@
-#INPUT
+>>>>>>>> INSERT
 35
 60
 75
-#OUTPUT
+======== EXPECT
 N
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 55
 68
 67
-#OUTPUT
+======== EXPECT
 S
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 66
 80
 80
-#OUTPUT
+======== EXPECT
 N
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 33
 40
 20
-#OUTPUT
+======== EXPECT
 N
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 80
 80
 40
-#OUTPUT
+======== EXPECT
 N
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 40
 40
 30
-#OUTPUT
+======== EXPECT
 N
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 07
+>>>>>>>> INSERT 07
 71
 47
 15
-#OUTPUT
+======== EXPECT
 N
-#END
+<<<<<<<< FINISH

@@ -1,4 +1,4 @@
-# L1 - Marileuza e as @alcaparras - Contar Ocorrências
+# @alcaparras e Marileuza - Contar Ocorrências
 
 ![_](cover.jpg)
 
@@ -23,37 +23,37 @@ Faça o código que conta quantas vezes um caractere aparece numa frase. Faça d
 ## Exemplos
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 A Andreia alimentou a avestruz com alcaparras
 a
-#OUTPUT
+======== EXPECT
 8
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 A Andreia alimentou a avestruz com alcaparras
 A
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 A Andreia atirou alcachofras no leao
 e
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 A Andreia atirou alcachofras no leao
 x
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```

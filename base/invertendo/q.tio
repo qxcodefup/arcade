@@ -1,51 +1,51 @@
-#INPUT 01
+>>>>>>>> INSERT 01
 4
 1 2 3 4
-#OUTPUT
+======== EXPECT
 [ 4 3 2 1 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 2
 1 2
-#OUTPUT
+======== EXPECT
 [ 2 1 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 6
 1 2 3 4 5 6
-#OUTPUT
+======== EXPECT
 [ 6 5 4 3 2 1 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 04
+>>>>>>>> INSERT 04
 5
 1 2 3 4 5
-#OUTPUT
+======== EXPECT
 [ 5 4 3 2 1 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 05
+>>>>>>>> INSERT 05
 6
 1 2 3 4 5 0
-#OUTPUT
+======== EXPECT
 [ 0 5 4 3 2 1 ]
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 06
+>>>>>>>> INSERT 06
 5
 1 2 3 5 4
-#OUTPUT
+======== EXPECT
 [ 4 5 3 2 1 ]
-#END
+<<<<<<<< FINISH

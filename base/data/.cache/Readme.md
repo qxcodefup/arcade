@@ -1,4 +1,4 @@
-# L2 - Formatando @data
+# @data - Formatando
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/data/cover.jpg)
 
@@ -17,51 +17,51 @@ Os formatos de data e hora são diversos. Leia hora, minuto, dia, mês e ano e i
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 4
 12
 12
 3
 1988
-#OUTPUT
+======== EXPECT
 04:12 12/03/88
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 12
 30
 1
 3
 188
-#OUTPUT
+======== EXPECT
 12:30 01/03/88
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 14
 7
 7
 9
 2005
-#OUTPUT
+======== EXPECT
 14:07 07/09/05
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 23
 1
 1
 1
 2076
-#OUTPUT
+======== EXPECT
 23:01 01/01/76
-#END
+<<<<<<<< FINISH
 ```
 
 ## Ajuda

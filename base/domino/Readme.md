@@ -1,4 +1,4 @@
-# L2 - Jogo de @domino - OBI 2019 F1PJ
+# @domino - Jogo de dominó - OBI 2019 F1PJ
 
 ![_](cover.jpg)
 
@@ -16,18 +16,18 @@ Para a nossa sorte, existe uma fórmula com a qual podemos calcular facilmente o
 ## Exemplo
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 6
-#OUTPUT
+======== EXPECT
 28
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 12
-#OUTPUT
+======== EXPECT
 91
-#END
+<<<<<<<< FINISH
 
 ```

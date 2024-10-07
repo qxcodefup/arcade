@@ -1,8 +1,4 @@
-# L0 - @nulo - positivo ou negativo
-
-
-[Ação](#ação) | [Shell](#shell) 
--- | -- 
+# @nulo - positivo ou negativo
 
 ![Imagem eh Positivo](cover.jpg)
 
@@ -25,47 +21,47 @@ Distinguir se um número é positivo, negativo ou nulo é uma das verificações
 ```py
 #INPUT 0
 3
-#OUTPUT
+======== EXPECT
 +
-#END
+>>>>>>>> INSERT
 ```
 
 ```py
 #INPUT 1
 -12
-#OUTPUT
+======== EXPECT
 -
-#END
+>>>>>>>> INSERT
 ```
 
 ```py
 #INPUT 2
 0
-#OUTPUT
+======== EXPECT
 0
-#END
+>>>>>>>> INSERT
 ```
 
 ```py
 #INPUT 3
 18
-#OUTPUT
+======== EXPECT
 +
-#END
+>>>>>>>> INSERT
 ```
 
 ```py
 #INPUT 4
 -7
-#OUTPUT
+======== EXPECT
 -
-#END
+>>>>>>>> INSERT
 ```
 
 ```py
 #INPUT 6
 15
-#OUTPUT
+======== EXPECT
 +
-#END
+>>>>>>>> INSERT
 ```

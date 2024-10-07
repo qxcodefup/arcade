@@ -1,4 +1,4 @@
-# L3 - @medico - Busca por proximidade
+# @medico - Busca por proximidade
 
 ![_](cover.jpg)
 ![_](solver.cpp)
@@ -19,19 +19,19 @@ Os soldados formaram uma fila no quartel. Essa fila está representada por um ve
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3
 0 0 1
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 7
 1 0 0 0 1 0 1
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```

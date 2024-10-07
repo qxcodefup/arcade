@@ -1,4 +1,4 @@
-# L1 - @casamento
+# @casamento
 
 ![_](cover.jpg)
 
@@ -23,43 +23,43 @@ Escreva um programa onde receba um vetor de tamanho 5 e que dê como saída a so
 ## Exemplo
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 1 2 3 4 5
-#OUTPUT
+======== EXPECT
 6
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 3 1 4 6
-#OUTPUT
+======== EXPECT
 7
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 2 1 4 4
-#OUTPUT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -3 -2 -1 -4 -4
-#OUTPUT
+======== EXPECT
 -5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -10000 -2 -1 -4 +10000
-#OUTPUT
+======== EXPECT
 0
-#END
+<<<<<<<< FINISH
 ```
 
 ## Resolução

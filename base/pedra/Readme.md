@@ -1,4 +1,4 @@
-# L3 - @pedra na lua
+# @pedra na lua
 
 ![_](cover.jpg)
 
@@ -28,46 +28,46 @@ Vários competidores disputaram uma competição interessante.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 2
 8 11
 10 15
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 9 12
 11 13
 10 11
-#OUTPUT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 12 15
 16 14
 10 9
-#OUTPUT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 12 15
 20 23
 10 9
 35 35
-#OUTPUT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 
 ```

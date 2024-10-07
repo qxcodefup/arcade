@@ -1,4 +1,4 @@
-# L2 - @teleferico - OBI 2017 - Fase 1
+# @teleferico - OBI 2017 - Fase 1
 
 ![_](cover.jpg)
 
@@ -10,71 +10,83 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 
 ### Entrada
 
-- A primeira linha da entrada contém um inteiro C, representando a capacidade da cabine. A segunda linha da entrada contém um inteiro A, representando o número total de alunos na turma.
+- A primeira linha da entrada contém um inteiro C, representando a capacidade máxima da cabine.
+- A segunda linha da entrada contém um inteiro A, representando o número total de alunos na turma.
 
-## Saída
+### Saída
 
 - Seu programa deve imprimir uma linha contendo um número inteiro representando o número mínimo de viagens do teleférico para levar todos os alunos até o pico da montanha.
 
-## Restrições
+### Restrições
 
-- 2 ≤ C ≤ 100 e 1 ≤ A ≤ 1000
-
-## Solução
-
-[Vídeo](https://www.youtube.com/watch?v=w0oyrmeYHjY)
+- 2 ≤ C ≤ 100
+- 1 ≤ A ≤ 1000
 
 ## Exemplos
 
 ``` py
 #INPUT
 5
-4
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
 5
-8
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 2
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
 5
-9
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 
 
 #INPUT 01
 10
-20
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 3
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 02
 12
-55
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 5
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT 03
 100
-87
-#OUTPUT
+>>>>>>>> INSERT
+======== EXPECT
 1
-#END
+<<<<<<<< FINISH
 ```
+
+## Dicas
+
+Para resolver o problema, precisamos calcular a quantidade de alunos que cabem em cada viagem, já que cada cabine deve ter pelo menos um monitor, e a capacidade da cabine será C-1 para alunos, considerando que um monitor sempre estará na cabine.
+
+A fórmula para calcular o número de viagens é:
+
+$$viagens = \left[\frac{A}{C-1}\right]$$
+
+Assim, o número de viagens é o total de alunos dividido pela quantidade de espaço disponível para alunos em cada cabine.
+
+## Resolusão
+
+[Vídeo em C++](https://www.youtube.com/watch?v=w0oyrmeYHjY)

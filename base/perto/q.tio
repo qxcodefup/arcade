@@ -1,4 +1,4 @@
-#INPUT Test 1
+>>>>>>>> INSERT Test 1
 2 4
 5
 3 6
@@ -6,13 +6,13 @@
 5 7
 3 9
 4 9
-#OUTPUT
+======== EXPECT
 3.00 6.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT Test 2
+>>>>>>>> INSERT Test 2
 2.9 4.8
 5
 71.8 6.6
@@ -20,6 +20,6 @@
 9.6 7.6
 30.9 9.66
 4.6 9.7
-#OUTPUT
+======== EXPECT
 4.60 9.70
-#END
+<<<<<<<< FINISH

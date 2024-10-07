@@ -1,4 +1,4 @@
-# L2 - @indices
+# @indices
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/indices/cover.jpg)
 

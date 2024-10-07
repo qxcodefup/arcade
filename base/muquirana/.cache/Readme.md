@@ -1,4 +1,4 @@
-# L3 - Prof @muquirana - Busca máximo por critério
+# @muquirana - Busca máximo por critério
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/muquirana/cover.jpg)
 
@@ -33,28 +33,28 @@ Faça um programa para imprimir o id do aluno com a maior nota.
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 2
 034444 024444
-#OUTPUT
+======== EXPECT
 03
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 014444 024444
-#OUTPUT
+======== EXPECT
 02
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 028888 047989 059999 072213 199989 019999
-#OUTPUT
+======== EXPECT
 05
-#END
+<<<<<<<< FINISH
 ```

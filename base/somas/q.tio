@@ -1,21 +1,21 @@
-#INPUT
+>>>>>>>> INSERT
 4 2 5 4 6
-#OUTPUT
+======== EXPECT
 30
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3 5 2 4
-#OUTPUT
+======== EXPECT
 20
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4 4 8 10 15
-#OUTPUT
+======== EXPECT
 120
-#END
+<<<<<<<< FINISH

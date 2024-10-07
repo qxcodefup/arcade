@@ -1,4 +1,4 @@
-# L2 - Função que retorna vários valores por @endereco
+# @endereco - Função que retorna vários valores
 
 ![_](cover.jpg)
 
@@ -45,25 +45,25 @@ Você deverá:
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 7384
-#OUTPUT
+======== EXPECT
 2:3:4
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3601
-#OUTPUT
+======== EXPECT
 1:0:1
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 60
-#OUTPUT
+======== EXPECT
 0:1:0
-#END
+<<<<<<<< FINISH
 ```

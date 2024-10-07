@@ -1,4 +1,4 @@
-# L3 - @blackjack 21
+# @blackjack 21
 
 ![_](cover.jpg)
 
@@ -21,58 +21,58 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 2
 1
 13
-#OUTPUT
+======== EXPECT
 21
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 11
 13
-#OUTPUT
+======== EXPECT
 20
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 1
 1
 1
-#OUTPUT
+======== EXPECT
 13
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 1
 1
 2
 3
 12
-#OUTPUT
+======== EXPECT
 17
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 1
 1
 2
 10
 12
-#OUTPUT
+======== EXPECT
 24
-#END
+<<<<<<<< FINISH
 ```

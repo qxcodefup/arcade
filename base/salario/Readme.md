@@ -1,59 +1,81 @@
-# L2 - @salario - Calculando aumento
+# @salario - Calculando aumento
 
 ![_](cover.jpg)
 
 ## Motivação
 
-Mês de março, todos os funcionários da empresa vão receber aumento. Para promover os menos favorecidos foram dados aumentos maiores para os funcionários que recebem menos.
+No mês de março, todos os funcionários da empresa recebem um aumento salarial, com percentuais maiores para quem ganha menos, para promover a equidade. O percentual de aumento depende da faixa salarial do funcionário, conforme as regras abaixo:
 
-Os que recebem até 1000.00 reais, vão ganhar 20%. Quem recebe até 1500.00 vai ganhar 15%. Quem recebe até 2000.00 vai ganhar 10%. Quem recebe mais de 2000.00 só vai ganhar 5%.
+- Funcionários que ganham até **1000,00 reais** recebem **20%** de aumento.
+- Funcionários que ganham até **1500,00 reais** recebem **15%** de aumento.
+- Funcionários que ganham até **2000,00 reais** recebem **10%** de aumento.
+- Funcionários que ganham mais de **2000,00 reais** recebem **5%** de aumento.
 
-Os funcionários estão nervosos pra saber quanto vão ganhar no novo contracheque. Você que sabe programar resolveu fazer um programinha no qual o funcionário entra com seu salário e você informa o novo salário.
-
-## Ação
+Os funcionários estão ansiosos para saber quanto vão ganhar após o aumento. Como você sabe programar, decidiu criar um programa que recebe o salário atual e informa o novo salário.
 
 Receba o valor do salário atual do funcionário e imprima o novo salário de acordo com as regras informadas na descrição.
 
 ### Entrada
 
-* Salário atual do funcionário (float com até duas casas decimais).
+- O programa recebe um único valor **float**, representando o **salário atual** do funcionário, com até duas casas decimais.
 
-## Saída
+### Saída
 
-* Novo Salário (float com duas casas decimais).
+- O programa deve imprimir o **novo salário** do funcionário, também com duas casas decimais.
 
-``` python
-print("%.2f" % total)
-```
+## Testes
 
-e em C e C++ você faria:
-
-```C
-printf("%.2f", total);
-```
-
-## Exemplos
-
-``` py
+```py
 #INPUT
 900.00
-#OUTPUT
+======== EXPECT
 1080.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
-1500.00
-#OUTPUT
+>>>>>>>> INSERT0
+======== EXPECT
 1725.00
-#END
+<<<<<<<< FINISH
 ```
 
 ```py
 #INPUT
-2005.20
-#OUTPUT
+>>>>>>>> INSERT0
+======== EXPECT
 2105.46
-#END
+<<<<<<<< FINISH
+```
+
+## Dicas
+
+>>>>>>>> INSERT- Para exibir um número de ponto flutuante, do tipo `float`, com duas casas decimais em C, utilize o especificador de formato `%.2f` na função `printf`. O número **2** após o ponto indica a quantidade de casas decimais a serem exibidas.
+
+```c
+int main() {
+    float resultado;
+    printf("%.2f\n", resultado);
+}
+```
+
+**Python** - Para exibir um número de ponto flutuante com duas casas decimais em Python, utilize o formato `:.2f` dentro da função `print`. O número **2** após o ponto indica o número de casas decimais que serão exibidas:
+
+```py
+print(f"{resultado:.2f}")
+```
+
+```py
+print("{:.2f}".format(resultado))
+```
+
+**TypeScript** - Para exibir um número com duas casas decimais em TypeScript, utilize o método `toFixed(2)` do objeto `Number`. O número **2** especifica a quantidade de casas decimais que serão exibidas após o ponto decimal:
+
+```ts
+console.log(resultado.toFixed(2)); 
+```
+
+```ts
+write(resultado.toFixed(2));
 ```
