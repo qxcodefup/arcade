@@ -28,7 +28,7 @@ Em mais um exemplo, se dona Mônica tem 47 anos e as idades de dois dos filhos s
 - A !=B
 
 ## Testes
->>>>>>>> INSERT
+
 ```py
 >>>>>>>> INSERT
 52
@@ -38,7 +38,7 @@ Em mais um exemplo, se dona Mônica tem 47 anos e as idades de dois dos filhos s
 20
 <<<<<<<< FINISH
 ```
->>>>>>>> INSERT
+
 ```py
 >>>>>>>> INSERT
 47
