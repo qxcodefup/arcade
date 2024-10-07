@@ -30,7 +30,7 @@ Em mais um exemplo, se dona Mônica tem 47 anos e as idades de dois dos filhos s
 ## Testes
 >>>>>>>> INSERT
 ```py
-#INPUT
+>>>>>>>> INSERT
 52
 14
 18
@@ -40,7 +40,7 @@ Em mais um exemplo, se dona Mônica tem 47 anos e as idades de dois dos filhos s
 ```
 >>>>>>>> INSERT
 ```py
-#INPUT
+>>>>>>>> INSERT
 47
 21
 9

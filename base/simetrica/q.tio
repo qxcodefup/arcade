@@ -5,9 +5,8 @@
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 3 3 3
 3 3 3
@@ -15,9 +14,8 @@ sim
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 1 2 3
 4 5 6
@@ -25,9 +23,8 @@ sim
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 2 7 6
 9 5 1
@@ -35,9 +32,8 @@ nao
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 8 1 6
 3 5 7
@@ -45,9 +41,8 @@ nao
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 1 4 7
 4 1 8

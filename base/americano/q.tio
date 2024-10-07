@@ -6,9 +6,8 @@
 ======== EXPECT
 nenhum
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 0
 0
@@ -17,9 +16,8 @@ nenhum
 ======== EXPECT
 jog2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2
 2
@@ -28,9 +26,8 @@ jog2
 ======== EXPECT
 jog4
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 1
 0
@@ -39,9 +36,8 @@ jog4
 ======== EXPECT
 jog1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 0
 3
@@ -50,9 +46,8 @@ jog1
 ======== EXPECT
 jog3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 1
 1
@@ -61,9 +56,8 @@ jog3
 ======== EXPECT
 jog4
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 2
 1
@@ -72,9 +66,8 @@ jog4
 ======== EXPECT
 jog1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 2
 10

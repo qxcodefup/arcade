@@ -4,36 +4,32 @@
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 0 5 5 0
 2 7
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 0 5 5 0
 -1 4
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 0 5 5 0
 5 5
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 0 5 5 0
 2 -1

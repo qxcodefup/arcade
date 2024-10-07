@@ -3,49 +3,43 @@ a amora azul
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 o rato roeu a roupa
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 a b c d e f
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 a b c d a f
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 ab a ba
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 a amiga da minha vizinha zooume
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 arrocha arregao
 ======== EXPECT

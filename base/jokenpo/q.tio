@@ -4,63 +4,56 @@ P
 ======== EXPECT
 jog2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 02
 P
 P
 ======== EXPECT
 empate
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 S
 P
 ======== EXPECT
 jog1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 S
 S
 ======== EXPECT
 empate
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 R
 S
 ======== EXPECT
 jog1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 S
 R
 ======== EXPECT
 jog2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 R
 R
 ======== EXPECT
 empate
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 P
 R

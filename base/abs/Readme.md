@@ -14,7 +14,7 @@ Implemente um programa que leia dois números inteiros e imprima o valor absolut
 
 ### Entrada
 
-- Dois números inteiros, separados por espaço.
+- Dois números inteiros, um por linha.
 
 #### Saída
 
@@ -27,35 +27,38 @@ Crie sua própria função para calcular o valor absoluto de um número.
 ## Testes
 
 ```py
-
-#INPUT
-1 5
-======== EXPECT
 >>>>>>>> INSERT
+1
+5
+======== EXPECT
+4
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
-5 1
-======== EXPECT
 >>>>>>>> INSERT
+5
+1
+======== EXPECT
+4
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
--5 1
-======== EXPECT
 >>>>>>>> INSERT
+-5
+1
+======== EXPECT
+6
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
-1 -5
-======== EXPECT
 >>>>>>>> INSERT
+1
+-5
+======== EXPECT
+6
 <<<<<<<< FINISH
 
 ```
@@ -65,6 +68,8 @@ Crie sua própria função para calcular o valor absoluto de um número.
 **C** - O método `abs()` o ajudará a encontrar o valor absoluto.
 
 ```c
+#include <stdio.h>
+#include <stdlib.h> // abs
 int main() {
     int valorAbsoluto = abs(numero)
 }

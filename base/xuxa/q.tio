@@ -3,17 +3,15 @@ ra on odnalor at acopip ed oriehc o
 ======== EXPECT
 o cheiro de pipoca ta rolando no ar
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 rahnos zaf em euq latsirc ed aul
 ======== EXPECT
 lua de cristal que me faz sonhar
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 oacaroc ues on x mu ieuqram
 ======== EXPECT

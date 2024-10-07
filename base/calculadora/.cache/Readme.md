@@ -27,33 +27,33 @@ A entrada consiste em três linhas:
 ## Testes
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 5
 2
 /
 ======== EXPECT
 2
->>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 5
 +
 ======== EXPECT
 8
->>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 7
 9
 /
 ======== EXPECT
 0
->>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ## Dicas

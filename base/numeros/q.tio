@@ -3,33 +3,29 @@ apesar de 2 jogadores serem expulsos, a seleção brasileira venceu a seleção 
 ======== EXPECT
 8
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 meus 3 cachorros comeram 2 ratos em 11 horas
 ======== EXPECT
 16
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 os 2 irmãos de maria durmiram os ultimos 2 dias na casa de seus avós
 ======== EXPECT
 4
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 02 x dhgh 111 b 2 c d xf 31
 ======== EXPECT
 146
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 1 a x dhgh 11 b 2 c d xf 3
 ======== EXPECT

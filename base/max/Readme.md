@@ -23,38 +23,38 @@ Caso sua linguagem tenha uma função pronta para esse problema, como max(), uti
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 5
 ======== EXPECT
->>>>>>>> INSERT
+5
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 4
 ======== EXPECT
->>>>>>>> INSERT
+5
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 12
 12
 ======== EXPECT
->>>>>>>> INSERT
+12
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -5
 0
 ======== EXPECT
->>>>>>>> INSERT
+0
 <<<<<<<< FINISH
 
 ```

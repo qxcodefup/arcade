@@ -30,137 +30,137 @@ quociente e resto da divisão do primeiro pelo segundo número.
 ## Testes
 
 ```py
-#INPUT 0
+>>>>>>>> INSERT 0
 51
 31
 ======== EXPECT
->>>>>>>> INSERT
+1 20
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 1
+>>>>>>>> INSERT 1
 398
 50
 ======== EXPECT
->>>>>>>> INSERT
+7 48
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 2
+>>>>>>>> INSERT 2
 350
 40
 ======== EXPECT
->>>>>>>> INSERT
+8 30
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 3
+>>>>>>>> INSERT 3
 587
 460
 ======== EXPECT
->>>>>>>> INSERT
+1 127
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 4
+>>>>>>>> INSERT 4
 215
 158
 ======== EXPECT
->>>>>>>> INSERT
+1 57
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 5
+>>>>>>>> INSERT 5
 760
 360
 ======== EXPECT
->>>>>>>> INSERT
+2 40
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 6
+>>>>>>>> INSERT 6
 498
 203
 ======== EXPECT
->>>>>>>> INSERT
+2 92
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 7
+>>>>>>>> INSERT 7
 61
 25
 ======== EXPECT
->>>>>>>> INSERT
+2 11
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 8
+>>>>>>>> INSERT 8
 32
 7
 ======== EXPECT
->>>>>>>> INSERT
+4 4
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 9
+>>>>>>>> INSERT 9
 873
 254
 ======== EXPECT
->>>>>>>> INSERT
+3 111
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 10
+>>>>>>>> INSERT 10
 689
 326
 ======== EXPECT
->>>>>>>> INSERT
+2 37
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 11
+>>>>>>>> INSERT 11
 939
 155
 ======== EXPECT
->>>>>>>> INSERT
+6 9
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 12
+>>>>>>>> INSERT 12
 302
 78
 ======== EXPECT
->>>>>>>> INSERT
+3 68
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 13
+>>>>>>>> INSERT 13
 584
 318
 ======== EXPECT
->>>>>>>> INSERT
+1 266
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 14
+>>>>>>>> INSERT 14
 899
 317
 ======== EXPECT
->>>>>>>> INSERT
+2 265
 <<<<<<<< FINISH
 ```
 

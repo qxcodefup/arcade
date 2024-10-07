@@ -25,71 +25,71 @@ Implemente um programa que verifique três condições necessárias para acessar
 ## Testes
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 0
 0
 0
->>>>>>>> INSERTT
+======== EXPECT
 you must connect to wifi
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
 1
 1
->>>>>>>> INSERTT
+======== EXPECT
 you must connect to wifi
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
 0
 1
->>>>>>>> INSERTT
+======== EXPECT
 you must connect to wifi
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 0
 1
->>>>>>>> INSERTT
+======== EXPECT
 you need to login first
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 0
 0
->>>>>>>> INSERTT
+======== EXPECT
 you need to login first
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 1
 0
->>>>>>>> INSERTT
+======== EXPECT
 you must to login as admin
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 1
 1
->>>>>>>> INSERTT
+======== EXPECT
 done
 <<<<<<<< FINISH
 

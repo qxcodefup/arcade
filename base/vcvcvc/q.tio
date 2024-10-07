@@ -3,17 +3,15 @@ Pedrinho Marcio
 ======== EXPECT
 cvccvccv cvccvv
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Reumario Albrito
 ======== EXPECT
 cvvcvcvv vcccvcv
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 AaBbCcDdEe
 ======== EXPECT

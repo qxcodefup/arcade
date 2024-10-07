@@ -5,9 +5,8 @@ mamae me ama
 15
 1.76
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 aa 4#1 -f; -2.0;
 ======== EXPECT
@@ -15,9 +14,8 @@ aa 4
 1 -f
  -2.0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 coca zero;1.75#8;U;
 ======== EXPECT

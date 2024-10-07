@@ -19,7 +19,7 @@ Leia os comprimentos das três varetas e verifique se é possível formar um tri
 ## Testes
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 4
 >>>>>>>> INSERT
 18
@@ -29,7 +29,7 @@ False
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 16
 >>>>>>>> INSERT
 16
@@ -39,7 +39,7 @@ True
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 7
 >>>>>>>> INSERT
 10
@@ -49,7 +49,7 @@ True
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 >>>>>>>> INSERT
 8

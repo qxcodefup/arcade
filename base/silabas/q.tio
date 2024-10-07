@@ -3,17 +3,15 @@ Paralelepipedo
 ======== EXPECT
 Pa-ra-le-le-pi-pe-do
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Eu sou o rei de Fup
 ======== EXPECT
 Eu sou o rei de Fu-p
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Floresta Amazonica
 ======== EXPECT

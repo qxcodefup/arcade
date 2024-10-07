@@ -29,39 +29,41 @@ Dados os valores de A, B e C, calcule as raízes.
 ## Exemplos
 
 ``` py
-#INPUT duas raízes
+>>>>>>>> INSERT duas raízes
 5.4
 25.0
 -12.0
 ======== EXPECT
->>>>>>>> INSERT
+0.44
+>>>>>>> fix_model
 -5.07
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT duas raízes
+>>>>>>>> INSERT duas raízes
 3.0
 -7.0
 4.0
 ======== EXPECT
->>>>>>>> INSERT
+1.33
+>>>>>>> fix_model
 1.00
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT uma raiz
+>>>>>>>> INSERT uma raiz
 9.0
 -12.0
 4.0
->>>>>>>> INSERTT
+======== EXPECT
 0.67
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT sem raízes
+>>>>>>>> INSERT sem raízes
 5.0
 3.0
 5.0

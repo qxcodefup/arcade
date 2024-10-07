@@ -24,9 +24,8 @@ Teste 2
 Teste 3
 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 02
 10 7
 5 6 1 8 10 4 2 7 9 3
@@ -68,9 +67,8 @@ Teste 2
 Teste 3
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 3 6
 1 2 3

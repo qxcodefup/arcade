@@ -4,99 +4,88 @@ c
 ======== EXPECT
 6
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 f
 6.99
 ======== EXPECT
 6
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 c
 6.99
 ======== EXPECT
 7
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 r
 5.5
 ======== EXPECT
 6
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 r
 5.4
 ======== EXPECT
 5
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 c
 0.5
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 f
 6.7
 ======== EXPECT
 6
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 f
 0.5
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 09
 r
 7.3
 ======== EXPECT
 7
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 10
 r
 7.5
 ======== EXPECT
 8
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 11
 f
 3.33
 ======== EXPECT
 3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 12
 r
 9.7

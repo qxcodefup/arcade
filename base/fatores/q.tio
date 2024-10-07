@@ -3,27 +3,24 @@
 ======== EXPECT
 2 3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 40
 ======== EXPECT
 2 3
 5 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 55
 ======== EXPECT
 5 1
 11 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 552
 ======== EXPECT
@@ -31,9 +28,8 @@
 3 1
 23 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 169400
 ======== EXPECT

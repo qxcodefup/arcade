@@ -5,9 +5,8 @@ aeioubcdfgh
 ======== EXPECT
 e***ao*di*a*io
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Teco-Teco!
 tbxyan
@@ -15,9 +14,8 @@ _
 ======== EXPECT
 T___-T___!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Seu Pilantra!
 yzxa

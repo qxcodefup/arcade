@@ -34,8 +34,9 @@ Na função principal (main), leia um caractere que representa a operação (r, 
 ### Exemplos
 
 ``` py
-#INPUT
 >>>>>>>> INSERT
+c
+>>>>>>> fix_model
 5.5
 ======== EXPECT
 6
@@ -43,8 +44,9 @@ Na função principal (main), leia um caractere que representa a operação (r, 
 ```
 
 ```py
-#INPUT
 >>>>>>>> INSERT
+f
+>>>>>>> fix_model
 6.99
 ======== EXPECT
 6
@@ -52,8 +54,9 @@ Na função principal (main), leia um caractere que representa a operação (r, 
 ```
 
 ```py
-#INPUT
 >>>>>>>> INSERT
+c
+>>>>>>> fix_model
 6.99
 ======== EXPECT
 7
@@ -61,8 +64,9 @@ Na função principal (main), leia um caractere que representa a operação (r, 
 ```
 
 ```py
-#INPUT
 >>>>>>>> INSERT
+r
+>>>>>>> fix_model
 5.5
 ======== EXPECT
 6
@@ -70,8 +74,9 @@ Na função principal (main), leia um caractere que representa a operação (r, 
 ```
 
 ```py
-#INPUT
 >>>>>>>> INSERT
+r
+>>>>>>> fix_model
 5.4
 ======== EXPECT
 5

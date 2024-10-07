@@ -14,9 +14,8 @@
 0019
 0070
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT misturado
 3 7
 #!1Ap
@@ -30,9 +29,8 @@
 !!p
 !1#
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT numerico invertido
 4 10
 0982
@@ -49,9 +47,8 @@
 0080
 0089
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04 muitos
 6 50
 Zou29@#

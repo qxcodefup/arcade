@@ -3,73 +3,64 @@
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 18
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 81
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 0
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 5
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 1
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 4
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 35
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 09
 140
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 10
 6084
 ======== EXPECT

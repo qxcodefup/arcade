@@ -20,58 +20,58 @@ Implemente um programa que recebe um número inteiro e imprime "SIM" caso ele se
 ## Testes
 
 ```py
-#INPUT 0
+>>>>>>>> INSERT 0
 3
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 1
+>>>>>>>> INSERT 1
 14
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 2
+>>>>>>>> INSERT 2
 21
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 3
+>>>>>>>> INSERT 3
 0
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 4
+>>>>>>>> INSERT 4
 45
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 5
+>>>>>>>> INSERT 5
 -20
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 6
+>>>>>>>> INSERT 6
 -21
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 

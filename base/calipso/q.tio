@@ -4,9 +4,8 @@ a batata
 ======== EXPECT
 a BaTaTa
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2
 AAAAAAAA
@@ -15,9 +14,8 @@ bBbBbBbB
 AaAaAaAa
 bBbBbBbB
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2
 Morra Prea
@@ -26,9 +24,8 @@ BigODE Aparado
 MoRrA pReA
 BiGoDe ApArAdO
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 3
 a Morra Prea

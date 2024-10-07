@@ -17,30 +17,39 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 3
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+4
 ======== EXPECT
 9
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 12
 17
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+24
 ======== EXPECT
 53
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -10
 -4
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+23
 ======== EXPECT
 9
 <<<<<<<< FINISH

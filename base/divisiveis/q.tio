@@ -4,63 +4,56 @@
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 3
 10
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 6
 9
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 5
 0
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 0
 3
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 5
 9
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 10
 9
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 15
 45

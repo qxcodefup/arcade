@@ -19,7 +19,6 @@ Faça uma função que retorna uma substring dada a String passada, o ÍNDICE da
 ## Exemplos
 
 ```py
-
 >>>>>>>> INSERT 01
 Coralina
 0

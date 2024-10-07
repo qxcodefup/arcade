@@ -5,9 +5,8 @@ x
 ======== EXPECT
 Opx xmigo axrles 2o
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 minha chinela
 abcdefghijlm
@@ -15,9 +14,8 @@ nopqrtuvwxyz
 ======== EXPECT
 zwavn pvwaryn
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 aquoso estrela
 aeios
@@ -25,9 +23,8 @@ aeios
 ======== EXPECT
 4qu020 32tr3l4
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 eu desejo eu quero eu vou
 eo

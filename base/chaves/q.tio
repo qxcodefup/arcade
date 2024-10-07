@@ -3,41 +3,36 @@
 ======== EXPECT
 positivo
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 -1
 ======== EXPECT
 negativo
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 0
 ======== EXPECT
 nulo
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 4
 ======== EXPECT
 positivo
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 -5
 ======== EXPECT
 negativo
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 -11
 ======== EXPECT

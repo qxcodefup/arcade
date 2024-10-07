@@ -5,9 +5,8 @@
 ======== EXPECT
 aprovado
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 8
 2
@@ -15,9 +14,8 @@ aprovado
 ======== EXPECT
 aprovado na final
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 4
 2
@@ -25,9 +23,8 @@ aprovado na final
 ======== EXPECT
 reprovado
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 4
 8
@@ -35,9 +32,8 @@ reprovado
 ======== EXPECT
 reprovado na final
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 4
 8

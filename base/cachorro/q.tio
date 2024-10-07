@@ -3,49 +3,43 @@ galinha          pintadinha
 ======== EXPECT
 galinha pintadinha
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 a    almofada
 ======== EXPECT
 a almofada
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 comi    sorvete
 ======== EXPECT
 comi sorvete
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 meteoro        pegasus
 ======== EXPECT
 meteoro pegasus
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 a   almofada
 ======== EXPECT
 a almofada
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 meteoro          pegasus
 ======== EXPECT
 meteoro pegasus
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 galinha pintadinha
 ======== EXPECT

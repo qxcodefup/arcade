@@ -4,18 +4,16 @@ aeb
 ======== EXPECT
 ae
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 1
 aebeiocdu
 ======== EXPECT
 eio
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2
 abdeiuofaoi
@@ -24,9 +22,8 @@ xaeioux
 eiuo
 aeiou
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 3
 aebaibaobaub

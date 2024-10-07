@@ -5,9 +5,8 @@ abac
 ======== EXPECT
 bbtctb? skm! grktb!!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 quando vi voce eu buguei
 princesa
@@ -15,9 +14,8 @@ princesa
 ======== EXPECT
 fliafs ni kfkr gy tuvlmv
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 a data ua bbfrua
 ab
@@ -25,9 +23,8 @@ ab
 ======== EXPECT
 a casa ta aberta
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 o bobe!
 ab
@@ -35,9 +32,8 @@ ab
 ======== EXPECT
 o coce!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 o coce!
 ab

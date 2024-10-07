@@ -4,27 +4,24 @@ a
 ======== EXPECT
 4
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 02
 o rato roeu a roupa do rei de roma
 a
 ======== EXPECT
 4
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 o rato roeu a roupa do rei de roma
 x
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 o rato roeu a roupa do rei de roma
 o

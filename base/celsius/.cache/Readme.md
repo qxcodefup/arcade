@@ -28,114 +28,114 @@ Fahrenheit. O valor fornecido será fracionário (double).
 ## Testes
 
 ```py
-#INPUT 0
+>>>>>>>> INSERT 0
 43.000000
 ======== EXPECT
->>>>>>>> INSERT0000
+109.400000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 1
+>>>>>>>> INSERT 1
 55.000000
 ======== EXPECT
->>>>>>>> INSERT0000
+131.000000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 2
+>>>>>>>> INSERT 2
 99.000000
 ======== EXPECT
->>>>>>>> INSERT0000
+210.200000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 3
+>>>>>>>> INSERT 3
 69.000000
 ======== EXPECT
->>>>>>>> INSERT0000
+156.200000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 4
+>>>>>>>> INSERT 4
 64.000000
 ======== EXPECT
->>>>>>>> INSERT0000
+147.200000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 5
+>>>>>>>> INSERT 5
 84.000000
 ======== EXPECT
->>>>>>>> INSERT0000
+183.200000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 6
+>>>>>>>> INSERT 6
 95.000000
 ======== EXPECT
->>>>>>>> INSERT0000
+203.000000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 7
+>>>>>>>> INSERT 7
 56.000000
 ======== EXPECT
->>>>>>>> INSERT0000
+132.800000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 8
+>>>>>>>> INSERT 8
 36.000000
 ======== EXPECT
->>>>>>>> INSERT000
+96.800000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 9
+>>>>>>>> INSERT 9
 13.000000
 ======== EXPECT
->>>>>>>> INSERT000
+55.400000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 11
+>>>>>>>> INSERT 11
 31.000000
 ======== EXPECT
->>>>>>>> INSERT000
+87.800000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 12
+>>>>>>>> INSERT 12
 18.000000
 ======== EXPECT
->>>>>>>> INSERT000
+64.400000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 13
+>>>>>>>> INSERT 13
 98.000000
 ======== EXPECT
->>>>>>>> INSERT0000
+208.400000
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 14
+>>>>>>>> INSERT 14
 63.000000
 ======== EXPECT
->>>>>>>> INSERT0000
+145.400000
 <<<<<<<< FINISH
 ```
 

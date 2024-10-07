@@ -20,7 +20,6 @@ Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só 
 ## Testes
 
 ```py
-
 >>>>>>>> INSERT
 5
 ======== EXPECT

@@ -26,7 +26,7 @@ Receba o valor do salário atual do funcionário e imprima o novo salário de ac
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 900.00
 ======== EXPECT
 1080.00
@@ -34,16 +34,16 @@ Receba o valor do salário atual do funcionário e imprima o novo salário de ac
 ```
 
 ```py
-#INPUT
->>>>>>>> INSERT0
+>>>>>>>> INSERT
+1500.00
 ======== EXPECT
 1725.00
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
->>>>>>>> INSERT0
+>>>>>>>> INSERT
+2005.20
 ======== EXPECT
 2105.46
 <<<<<<<< FINISH

@@ -3,81 +3,71 @@
 ======== EXPECT
 True
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 544 45
 ======== EXPECT
 False
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 12354 45312
 ======== EXPECT
 True
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 0
 333 3333
 ======== EXPECT
 False
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 2
 456 465
 ======== EXPECT
 True
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 3
 44463 364445
 ======== EXPECT
 False
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 4
 555222 252525
 ======== EXPECT
 True
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 5
 4454654 456482
 ======== EXPECT
 False
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 6
 223 23
 ======== EXPECT
 False
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 7
 15454 45454
 ======== EXPECT
 False
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 8
 121 112
 ======== EXPECT

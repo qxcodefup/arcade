@@ -6,9 +6,8 @@ qsabor 49
 ======== EXPECT
 burguery
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 100
 soghqhpbezpqthabaday  39
@@ -114,9 +113,8 @@ tvrkdskzhpelyqyjqeg  69
 ======== EXPECT
 dtzfqzqorwrpfgguxdi
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 100
 guxmiqcaaxxuugssbrtt  80
@@ -222,9 +220,8 @@ rvgtwisjaxqxeucistkn  60
 ======== EXPECT
 lxkfypleytiristhylz
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 3
 ac 100

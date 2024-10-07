@@ -4,99 +4,88 @@
 ======== EXPECT
 Jogador 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 5
 9
 ======== EXPECT
 Jogador 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 0
 0
 ======== EXPECT
 Empate
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 13
 1
 ======== EXPECT
 Jogador 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 12
 10
 ======== EXPECT
 Jogador 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 8
 10
 ======== EXPECT
 Jogador 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 1
 12
 ======== EXPECT
 Jogador 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 9
 1
 ======== EXPECT
 Jogador 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 09
 2
 7
 ======== EXPECT
 Jogador 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 10
 5
 4
 ======== EXPECT
 Jogador 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 11
 8
 1
 ======== EXPECT
 Jogador 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 12
 0
 6

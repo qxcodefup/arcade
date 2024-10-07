@@ -6,9 +6,8 @@ d
 ======== EXPECT
 Ja ouviu falar
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 d
 a
@@ -17,9 +16,8 @@ d
 ======== EXPECT
 Super Fa
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 b
 b
@@ -28,9 +26,8 @@ b
 ======== EXPECT
 Nunca assistiu
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 d
 b
@@ -39,9 +36,8 @@ b
 ======== EXPECT
 Ja ouviu falar
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 d
 b
@@ -50,9 +46,8 @@ d
 ======== EXPECT
 Interessado no assunto
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 d
 b

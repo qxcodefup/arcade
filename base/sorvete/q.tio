@@ -3,25 +3,22 @@ sorvete suor casaca chicletes pegasus
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 minhoca quixe tempero musica roubo
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 acaro cocegas cagado aquecido
 ======== EXPECT
 3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 aaabbcc bbac bbbaacc ccbddbabda basdbdc
 ======== EXPECT

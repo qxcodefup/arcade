@@ -5,9 +5,8 @@
 ======== EXPECT
 empate
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 0
 0
@@ -15,9 +14,8 @@ empate
 ======== EXPECT
 jog3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 1
 0
@@ -25,9 +23,8 @@ jog3
 ======== EXPECT
 jog1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 1
 0
@@ -35,9 +32,8 @@ jog1
 ======== EXPECT
 jog2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 1
 1
@@ -45,9 +41,8 @@ jog2
 ======== EXPECT
 jog3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 09
 0
 1
@@ -55,9 +50,8 @@ jog3
 ======== EXPECT
 jog2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 10
 0
 1
@@ -65,9 +59,8 @@ jog2
 ======== EXPECT
 jog1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 12
 0
 0

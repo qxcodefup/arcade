@@ -31,25 +31,27 @@ O corte reto vai começar na base a uma distância de B centímetros a partir do
 >>>>>>>> INSERTtes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 50
 86
 ======== EXPECT
 2
 <<<<<<<< FINISH
->>>>>>>> INSERT
+```
+>>>>>>> fix_model
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 70
 90
 ======== EXPECT
 0
 <<<<<<<< FINISH
->>>>>>>> INSERT
+```
+>>>>>>> fix_model
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 130
 138
 ======== EXPECT

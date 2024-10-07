@@ -3,129 +3,113 @@
 ======== EXPECT
 28
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 12
 ======== EXPECT
 91
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 4
 ======== EXPECT
 15
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 3
 ======== EXPECT
 10
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 1
 ======== EXPECT
 3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2
 ======== EXPECT
 6
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 10
 ======== EXPECT
 66
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 9
 ======== EXPECT
 55
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 5
 ======== EXPECT
 21
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 7
 ======== EXPECT
 36
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 8
 ======== EXPECT
 45
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 531
 ======== EXPECT
 141778
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2791
 ======== EXPECT
 3899028
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 0
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 5139
 ======== EXPECT
 13212370
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 10000
 ======== EXPECT
 50015001
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 7408
 ======== EXPECT

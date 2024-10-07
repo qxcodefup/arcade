@@ -28,33 +28,41 @@ Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minuto
 ## Testes
 
 ```py
-#INPUT conta exata
+>>>>>>>> INSERT conta exata
 3
 1
 1
 >>>>>>>> INSERT
 ======== EXPECT
 1
+======== EXPECT
+1
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT sobrando duas
+>>>>>>>> INSERT sobrando duas
 10
 4
 4
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+4
 ======== EXPECT
 2
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT sobrando uma
+>>>>>>>> INSERT sobrando uma
 2
 4
 2
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+3
 ======== EXPECT
 5
 <<<<<<<< FINISH

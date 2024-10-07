@@ -38,7 +38,7 @@ A cabeça da cobra pode estar apontada para 4 possíveis direções. \[U\] Up(Ci
 ## Exemplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 10
 4
 >>>>>>>> INSERT
@@ -50,7 +50,7 @@ R
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 4
 >>>>>>>> INSERT
@@ -62,7 +62,7 @@ R
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 4
 5

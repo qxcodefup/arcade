@@ -4,72 +4,64 @@ mario
 ======== EXPECT
 mario eh crianca
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 jose
 65
 ======== EXPECT
 jose eh idoso
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 mario
 1
 ======== EXPECT
 mario eh crianca
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 mariana
 12
 ======== EXPECT
 mariana eh jovem
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 maria
 17
 ======== EXPECT
 maria eh jovem
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 marina
 18
 ======== EXPECT
 marina eh adulto
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 marion
 64
 ======== EXPECT
 marion eh adulto
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 marilene
 65
 ======== EXPECT
 marilene eh idoso
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 09
 maridracula
 10000

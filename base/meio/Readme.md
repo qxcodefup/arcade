@@ -33,7 +33,7 @@ Receba três números inteiros distintos e determine qual deles é o valor inter
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 5
 >>>>>>>> INSERT
 4
@@ -43,7 +43,7 @@ Receba três números inteiros distintos e determine qual deles é o valor inter
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 6
 >>>>>>>> INSERT
 7
@@ -53,7 +53,7 @@ Receba três números inteiros distintos e determine qual deles é o valor inter
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 >>>>>>>> INSERT
 6
@@ -63,7 +63,7 @@ Receba três números inteiros distintos e determine qual deles é o valor inter
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 >>>>>>>> INSERT
 5

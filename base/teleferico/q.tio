@@ -4,63 +4,56 @@
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 5
 8
 ======== EXPECT
 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 5
 9
 ======== EXPECT
 3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 01
 10
 20
 ======== EXPECT
 3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 02
 12
 55
 ======== EXPECT
 5
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 100
 87
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 40
 10
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 10
 5

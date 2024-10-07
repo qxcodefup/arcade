@@ -17,41 +17,41 @@ Implemente um programa que recebe um número inteiro e imprime "SIM" caso ele se
 ## Testes
 
 ```py
-#INPUT 0
+>>>>>>>> INSERT 0
 3
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 1
+>>>>>>>> INSERT 1
 12
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 2
+>>>>>>>> INSERT 2
 -3
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 3
+>>>>>>>> INSERT 3
 -7
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 4
+>>>>>>>> INSERT 4
 5
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```

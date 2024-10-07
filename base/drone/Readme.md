@@ -26,8 +26,8 @@ O aplicativo de controle do drone está quase pronto, mas falta um pequeno detal
 
 ## Testes
 
+```py
 >>>>>>>> INSERT
-#INPUT
 30
 50
 80
@@ -38,8 +38,8 @@ S
 <<<<<<<< FINISH
 ```
 
+```py
 >>>>>>>> INSERT
-#INPUT
 75
 100
 50
@@ -50,8 +50,8 @@ N
 <<<<<<<< FINISH
 ```
 
+```py
 >>>>>>>> INSERT
-#INPUT
 20
 22
 5

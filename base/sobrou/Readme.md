@@ -27,7 +27,7 @@ sobrou.
 ## Testes
 
 ```py
-#INPUT 0
+>>>>>>>> INSERT 0
 2
 8
 5
@@ -41,7 +41,7 @@ sobrou.
 ```
 
 ```py
-#INPUT 1
+>>>>>>>> INSERT 1
 9
 3
 5
@@ -55,7 +55,7 @@ sobrou.
 ```
 
 ```py
-#INPUT 2
+>>>>>>>> INSERT 2
 2
 2
 6
@@ -69,7 +69,7 @@ sobrou.
 ```
 
 ```py
-#INPUT 3
+>>>>>>>> INSERT 3
 5
 3
 4
@@ -83,7 +83,7 @@ sobrou.
 ```
 
 ```py
-#INPUT 4
+>>>>>>>> INSERT 4
 9
 6
 8
@@ -97,7 +97,7 @@ sobrou.
 ```
 
 ```py
-#INPUT 5
+>>>>>>>> INSERT 5
 3
 8
 10
@@ -111,7 +111,7 @@ sobrou.
 ```
 
 ```py
-#INPUT 6
+>>>>>>>> INSERT 6
 3
 4
 4

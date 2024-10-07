@@ -3,49 +3,43 @@ Dhaquison
 ======== EXPECT
 Dhaquisonn
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Alfredo
 ======== EXPECT
 Alfredoc
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Maikou
 ======== EXPECT
 sem sorte
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Davidp
 ======== EXPECT
 Davidpd
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 Ana
 ======== EXPECT
 sem sorte
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 David
 ======== EXPECT
 Davidp
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 Ticiany
 ======== EXPECT

@@ -4,27 +4,24 @@ M
 ======== EXPECT
 O PATO E O FRANGO JA TAO COZIDOS, COMAM!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 O Pato e o frango ja tao cozidos, comam!
 m
 ======== EXPECT
 o pato e o frango ja tao cozidos, comam!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 O Pato e o frango ja tao cozidos, comam!
 p
 ======== EXPECT
 o Pato e o Frango Ja Tao Cozidos, Comam!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 O Pato e o frango ja tao cozidos, comam!
 i

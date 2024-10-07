@@ -5,9 +5,8 @@ m
 ======== EXPECT
 segundo
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 1.1
 M
@@ -15,9 +14,8 @@ M
 ======== EXPECT
 primeiro
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 0.9
 M
@@ -25,9 +23,8 @@ M
 ======== EXPECT
 segundo
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 1.3
 m
@@ -35,9 +32,8 @@ m
 ======== EXPECT
 primeiro
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 0.9
 M

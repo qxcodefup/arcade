@@ -8,9 +8,8 @@
 ======== EXPECT
 Mais recente
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Test 2
 2
 3
@@ -21,9 +20,8 @@ Mais recente
 ======== EXPECT
 Mais antiga
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Test 3
 1
 4
@@ -34,9 +32,8 @@ Mais antiga
 ======== EXPECT
 Mais antiga
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Test 4
 1
 4
@@ -47,9 +44,8 @@ Mais antiga
 ======== EXPECT
 Mais antiga
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Test 5
 1
 5
@@ -60,9 +56,8 @@ Mais antiga
 ======== EXPECT
 Mais recente
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Test 6
 1
 5

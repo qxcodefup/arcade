@@ -25,7 +25,6 @@ Pensando nisso, ela resolveu anotar qual dindin foi vindido e o turno da venda p
   - `t` para o horário depois do almoço
 
 ```py
-
 >>>>>>>> INSERT
 1
 c m

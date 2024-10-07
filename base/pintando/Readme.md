@@ -21,22 +21,22 @@ Implemente um programa que, dado o tamanho dos três lados de um triângulo, cal
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 3
 5
 ======== EXPECT
->>>>>>>> INSERT
+6.00
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 12
 16
 ======== EXPECT
->>>>>>>> INSERT
+59.92
 <<<<<<<< FINISH
 ```
 

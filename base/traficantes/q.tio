@@ -5,9 +5,8 @@ c
 ======== EXPECT
 a ca csorveu
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 a almofada esta mofada e molhada
 mo
@@ -15,9 +14,8 @@ bigode
 ======== EXPECT
 a albigodefada esta bigodefada e bigodelhada
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 a bd abda
 bd

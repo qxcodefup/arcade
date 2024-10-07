@@ -33,27 +33,29 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 >>>>>>>> INSERTmplos
 
 ``` py
-#INPUT
+>>>>>>>> INSERT
 3
 2
 1
 ======== EXPECT
 1
 <<<<<<<< FINISH
->>>>>>>> INSERT
+```
+>>>>>>> fix_model
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 20
 8
 13
 ======== EXPECT
 15
 <<<<<<<< FINISH
->>>>>>>> INSERT
+```
+>>>>>>> fix_model
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 2
 2

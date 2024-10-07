@@ -5,9 +5,8 @@ Coralina
 ======== EXPECT
 Cora
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 02
 Power Ranger
 4
@@ -15,9 +14,8 @@ Power Ranger
 ======== EXPECT
 r Ranger
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 Coralina
 0
@@ -25,9 +23,8 @@ Coralina
 ======== EXPECT
 C
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 Coralina
 1
@@ -35,9 +32,8 @@ Coralina
 ======== EXPECT
 o
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 Coralina
 1
@@ -45,9 +41,8 @@ Coralina
 ======== EXPECT
 oral
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 Power Ranger
 4
@@ -55,9 +50,8 @@ Power Ranger
 ======== EXPECT
 r Ranger
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 Decoracao
 4

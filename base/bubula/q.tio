@@ -3,33 +3,29 @@ Volte cá seu cabra safado
 ======== EXPECT
 VoVoVolte cá seu cacacabra sasasafado
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Morreu Maria Prea
 ======== EXPECT
 MoMoMorreu MaMaMaria Prea
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Solte essa faca ou eu arranco suas tripas no dente!
 ======== EXPECT
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 Solte essa faca ou eu arranco suas tripas no dente
 ======== EXPECT
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 Nao se bula ou eu te mato
 ======== EXPECT

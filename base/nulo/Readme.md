@@ -19,49 +19,49 @@ Distinguir se um número é positivo, negativo ou nulo é uma das verificações
 ## Testes
 
 ```py
-#INPUT 0
+>>>>>>>> INSERT 0
 3
 ======== EXPECT
 +
->>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 1
+>>>>>>>> INSERT 1
 -12
 ======== EXPECT
 -
->>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 2
+>>>>>>>> INSERT 2
 0
 ======== EXPECT
 0
->>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 3
+>>>>>>>> INSERT 3
 18
 ======== EXPECT
 +
->>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 4
+>>>>>>>> INSERT 4
 -7
 ======== EXPECT
 -
->>>>>>>> INSERT
+<<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 6
+>>>>>>>> INSERT 6
 15
 ======== EXPECT
 +
->>>>>>>> INSERT
+<<<<<<<< FINISH
 ```

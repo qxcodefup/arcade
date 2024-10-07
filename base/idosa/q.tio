@@ -5,9 +5,8 @@ joao 43 m
 ======== EXPECT
 ana
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 02
 2
 jose 80 m
@@ -15,9 +14,8 @@ joao 43 m
 ======== EXPECT
 nao tem mulher
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 3
 joao 43 m
@@ -26,9 +24,8 @@ melissa 34 f
 ======== EXPECT
 ana
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 3
 joao 88 m
@@ -37,9 +34,8 @@ melissa 84 f
 ======== EXPECT
 melissa
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 3
 joao 88 m
@@ -48,9 +44,8 @@ melios 84 m
 ======== EXPECT
 nao tem mulher
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 7
 maria 11 f
@@ -63,9 +58,8 @@ mogli 45 m
 ======== EXPECT
 meire
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 6
 maria 11 f
@@ -77,9 +71,8 @@ sergio 101 m
 ======== EXPECT
 meire
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 5
 maria 99 f
@@ -90,9 +83,8 @@ sergio 14 m
 ======== EXPECT
 maria
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 09
 7
 mario 80 m

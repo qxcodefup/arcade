@@ -19,30 +19,39 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 ## Testes
 
 ``` py
-#INPUT 01
+>>>>>>>> INSERT 01
 1
 4
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+4
 ======== EXPECT
 2
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 1
 5
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+4
 ======== EXPECT
 0
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 1
 1
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+1
 ======== EXPECT
 3
 <<<<<<<< FINISH

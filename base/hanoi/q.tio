@@ -9,9 +9,8 @@ B -> A
 B -> C
 A -> C
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 02
 5
 ======== EXPECT

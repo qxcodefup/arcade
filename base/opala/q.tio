@@ -5,9 +5,8 @@
 ======== EXPECT
 10.00
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT fusca
 60
 40
@@ -15,9 +14,8 @@
 ======== EXPECT
 4.00
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03 moto
 65
 45
@@ -25,9 +23,8 @@
 ======== EXPECT
 19.50
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04 opala
 120
 50

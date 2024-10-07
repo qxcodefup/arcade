@@ -6,9 +6,8 @@ M
 ======== EXPECT
 primeiro
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2  
 1.0 2.0  
@@ -17,9 +16,8 @@ m m
 ======== EXPECT
 empate
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2
 1.0 2.0
@@ -28,9 +26,8 @@ m M
 ======== EXPECT
 primeiro
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2
 1.0 2.0
@@ -39,9 +36,8 @@ m M
 ======== EXPECT
 empate
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 3
 1.0 2.0 4.0
@@ -50,9 +46,8 @@ m M m
 ======== EXPECT
 primeiro
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 3
 1.0 2.0 4.02
@@ -61,9 +56,8 @@ M m m
 ======== EXPECT
 segundo
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 1
 1.0
@@ -72,9 +66,8 @@ M
 ======== EXPECT
 primeiro
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 2
 1.0 2.0

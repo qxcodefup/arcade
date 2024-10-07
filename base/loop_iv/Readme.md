@@ -11,7 +11,6 @@ Após resolver da forma como preferir, pense como seria possível resolver esse 
 ## Testes
 
 ```py
-
 >>>>>>>> INSERT
 10 0
 ======== EXPECT

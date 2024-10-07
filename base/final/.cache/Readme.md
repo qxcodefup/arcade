@@ -33,40 +33,52 @@ Agora, implemente um programa que siga essas regras e decida automaticamente seu
 ## Testes
 
 ``` py
-#INPUT
-8
-8
 >>>>>>>> INSERT
+8
+8
+<<<<<<< HEAD
+>>>>>>>> INSERT
+=======
+9
 ======== EXPECT
 aprovado
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 8
 2
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+9
 ======== EXPECT
 aprovado na final
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 2
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+9
 ======== EXPECT
 reprovado
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 4
 8
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+3
 ======== EXPECT
 reprovado na final
 <<<<<<<< FINISH

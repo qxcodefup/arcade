@@ -4,108 +4,96 @@ Priscilla
 ======== EXPECT
 As chances do crush te dar bola sao: 20%!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Shun
 Hyoga
 ======== EXPECT
 As chances do crush te dar bola sao: 0%!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Kratos
 Athena
 ======== EXPECT
 As chances do crush te dar bola sao: 20%!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Paula
 Paulo
 ======== EXPECT
 As chances do crush te dar bola sao: 100%!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 Sabrina
 Sheehan
 ======== EXPECT
 As chances do crush te dar bola sao: 70%!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 Cosette
 Caboclos
 ======== EXPECT
 As chances do crush te dar bola sao: 40%!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 Ermanoteu
 Helainete
 ======== EXPECT
 As chances do crush te dar bola sao: 80%!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 Will
 Ana
 ======== EXPECT
 As chances do crush te dar bola sao: 0%!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 09
 Emerson
 Tamires
 ======== EXPECT
 As chances do crush te dar bola sao: 80%!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 10
 Eduardo
 Gabriel
 ======== EXPECT
 As chances do crush te dar bola sao: 20%!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 11
 Zac
 Zyra
 ======== EXPECT
 As chances do crush te dar bola sao: 40%!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 12
 Talyta
 Thanos
 ======== EXPECT
 As chances do crush te dar bola sao: 70%!
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 13
 Sakura
 Sasuke

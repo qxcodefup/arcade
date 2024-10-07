@@ -10,7 +10,7 @@
 - A cada salto o sapinho fica mais cansado e o próximo salto será 10 cm menor.
 - Se ele ficar abaixo da agua ele morrerá afogado.
 
-Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcular a força mínima antes de começar  a pular.  
+Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcular a força mínima antes de começar a pular.
 
 ### Entrada
 
@@ -18,7 +18,7 @@ Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcula
 
 ### Saída
 
-- A menor força de salto que o sapinho deve ter para conseguir sair do poço  
+- A menor força de salto que o sapinho deve ter para conseguir sair do poço.
 
 ## Exemplos
 

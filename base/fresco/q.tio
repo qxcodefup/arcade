@@ -3,25 +3,22 @@ a porta amassou
 ======== EXPECT
 a portamassou
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 carla almeida alencar
 ======== EXPECT
 carlalmeidalencar
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 a carla a ama
 ======== EXPECT
 a carlama
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 o orvalho ouviu uniformemente e eu uivei
 ======== EXPECT

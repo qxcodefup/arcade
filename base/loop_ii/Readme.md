@@ -7,7 +7,6 @@ O número A sempre será menor ou igual ao número B.
 ## Testes
 
 ```py
-
 >>>>>>>> INSERT
 1 10
 ======== EXPECT

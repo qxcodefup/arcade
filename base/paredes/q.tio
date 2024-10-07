@@ -4,18 +4,16 @@
 ======== EXPECT
 3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 4
 1 2 3 5 
 ======== EXPECT
 4
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 4
 5 5 2 1

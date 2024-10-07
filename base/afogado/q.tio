@@ -4,45 +4,40 @@
 ======== EXPECT
 10
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 20
 1
 ======== EXPECT
 16
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 200
 10
 ======== EXPECT
 67
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 500
 30
 ======== EXPECT
 122
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 200
 1
 ======== EXPECT
 60
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 500
 100

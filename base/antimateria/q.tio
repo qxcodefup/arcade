@@ -4,27 +4,24 @@ lema
 ======== EXPECT
 a
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 pegasus
 suspiro
 ======== EXPECT
 pegapiro
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 olho
 ohio
 ======== EXPECT
 olio
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 minhoca
 arvore

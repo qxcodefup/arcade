@@ -5,9 +5,8 @@
 ======== EXPECT
 rebeldes
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 3
 1
@@ -16,9 +15,8 @@ rebeldes
 ======== EXPECT
 empate
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2
 2
@@ -26,9 +24,8 @@ empate
 ======== EXPECT
 soldados
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 4
 1
@@ -38,9 +35,8 @@ soldados
 ======== EXPECT
 soldados
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 5
 1

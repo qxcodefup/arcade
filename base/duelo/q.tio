@@ -6,9 +6,8 @@
 ======== EXPECT
 Personagem 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 100
 20
@@ -17,9 +16,8 @@ Personagem 1
 ======== EXPECT
 Personagem 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 100
 20
@@ -28,9 +26,8 @@ Personagem 1
 ======== EXPECT
 Personagem 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 100
 100

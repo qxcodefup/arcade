@@ -3,25 +3,22 @@ ola planeta terra
 ======== EXPECT
 ola ola planeta planeta terra terra
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 gosto de tomate
 ======== EXPECT
 gosto gosto de de tomate tomate
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 minha ufc
 ======== EXPECT
 minha minha ufc ufc
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 sim eu vou
 ======== EXPECT

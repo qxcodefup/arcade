@@ -4,45 +4,40 @@ pepidoelelapar
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 rocicleia
 licioreca
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 batata
 tabata
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 borboleta
 brobuleta
 ======== EXPECT
 nao
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 amor
 roam
 ======== EXPECT
 sim
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 pegasus
 susgae

@@ -5,9 +5,8 @@
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 3
 9 12
@@ -16,9 +15,8 @@
 ======== EXPECT
 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 3
 12 15
@@ -27,9 +25,8 @@
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 4
 12 15
@@ -39,9 +36,8 @@
 ======== EXPECT
 3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 2
 10 8
@@ -49,9 +45,8 @@
 ======== EXPECT
 sem ganhador
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 2
 8 9
@@ -59,9 +54,8 @@ sem ganhador
 ======== EXPECT
 sem ganhador
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 2
 10 9
@@ -69,9 +63,8 @@ sem ganhador
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 3
 12 17
@@ -80,9 +73,8 @@ sem ganhador
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 3
 9 12
@@ -91,9 +83,8 @@ sem ganhador
 ======== EXPECT
 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 09
 4
 9 8
@@ -103,9 +94,8 @@ sem ganhador
 ======== EXPECT
 sem ganhador
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 10
 4
 9 8
@@ -115,9 +105,8 @@ sem ganhador
 ======== EXPECT
 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 11
 4
 9 8

@@ -22,34 +22,34 @@ Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto
 ## Testes
 
 ```py
-#INPUT 01
+>>>>>>>> INSERT 01
 3
 7
 1
 4
->>>>>>>> INSERTT
+======== EXPECT
 3.61
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 1
 8.2
 -4
 12
->>>>>>>> INSERTT
+======== EXPECT
 6.28
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 3
 1
 3
 5
->>>>>>>> INSERTT
+======== EXPECT
 4.00
 <<<<<<<< FINISH
 

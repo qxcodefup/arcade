@@ -4,27 +4,24 @@ a
 ======== EXPECT
 8
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 02
 A Andreia alimentou a avestruz com alcaparras
 A
 ======== EXPECT
 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 A Andreia atirou alcachofras no leao
 e
 ======== EXPECT
 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 A Andreia atirou alcachofras no leao
 x

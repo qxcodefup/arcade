@@ -26,7 +26,6 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 ## Exemplos
 
 ```py
-
 >>>>>>>> INSERT
 0
 0

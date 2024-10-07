@@ -27,169 +27,169 @@ Para garantir que o funcionário está cumprindo sua carga horária, implemente 
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 12
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 7
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 13
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 14
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 18
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 2
 17
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 17
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 9
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 14
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 3
 19
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT sexta 8
+>>>>>>>> INSERT sexta 8
 6
 8
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT sexta 11
+>>>>>>>> INSERT sexta 11
 6
 11
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT sexta 12
+>>>>>>>> INSERT sexta 12
 6
 12
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT sexta as 15
+>>>>>>>> INSERT sexta as 15
 6
 15
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT sab 7
+>>>>>>>> INSERT sab 7
 7
 7
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT sab 8
+>>>>>>>> INSERT sab 8
 7
 8
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT sab 11
+>>>>>>>> INSERT sab 11
 7
 11
 ======== EXPECT
->>>>>>>> INSERT
+SIM
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT sab 12
+>>>>>>>> INSERT sab 12
 7
 12
 ======== EXPECT
->>>>>>>> INSERT
+NAO
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT sab as 15
+>>>>>>>> INSERT sab as 15
 7
 15
 ======== EXPECT

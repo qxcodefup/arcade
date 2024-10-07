@@ -5,9 +5,8 @@ e
 ec
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 d
 ======== EXPECT
@@ -15,9 +14,8 @@ d
 d
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Aga
 ======== EXPECT
@@ -25,9 +23,8 @@ Aga
 Agaa
 12
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Rufus
 ======== EXPECT
@@ -35,9 +32,8 @@ Rufus
 Rufusu
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Ariates
 ======== EXPECT

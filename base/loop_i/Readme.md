@@ -24,7 +24,6 @@ Dado dois números inteiros **A** e **B**, faça um loop para imprimir todos os 
 ## Testes
 
 ```py
-
 >>>>>>>> INSERT
 1
 10
@@ -37,12 +36,15 @@ Dado dois números inteiros **A** e **B**, faça um loop para imprimir todos os 
 6
 7
 8
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+9
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 10
 14
 ======== EXPECT
@@ -54,7 +56,7 @@ Dado dois números inteiros **A** e **B**, faça um loop para imprimir todos os 
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 -5
 0
 ======== EXPECT

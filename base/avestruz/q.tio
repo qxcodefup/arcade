@@ -4,27 +4,24 @@ a
 ======== EXPECT
 10
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 A Andreia atirou alcachofras no LEAO
 e
 ======== EXPECT
 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 A Andreia atirou alcachofras no leao
 x
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04 !%
 A Xuxa xogou xapatos no xacare Xato e xujo
 x

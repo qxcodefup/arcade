@@ -4,36 +4,32 @@ a
 ======== EXPECT
 a
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 02
 b
 3
 ======== EXPECT
 e
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 z
 2
 ======== EXPECT
 b
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 f
 -3
 ======== EXPECT
 c
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 b
 -2

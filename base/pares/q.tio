@@ -4,54 +4,48 @@
 ======== EXPECT
 30
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 1
 5
 ======== EXPECT
 6
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 5
 1
 ======== EXPECT
 invalido
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 6
 6
 ======== EXPECT
 6
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 10
 20
 ======== EXPECT
 90
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 1
 7
 ======== EXPECT
 12
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 8
 8

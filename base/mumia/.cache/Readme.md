@@ -30,20 +30,20 @@ Por simplificações, não faça flexão de gênero (idoso, idosa, adulto, adult
 ## Testes
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 mario
 4
 ======== EXPECT
->>>>>>>> INSERTeh crianca
+mario eh crianca
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 jose
 65
 ======== EXPECT
->>>>>>>> INSERTh idoso
+jose eh idoso
 <<<<<<<< FINISH
 ```
 

@@ -3,105 +3,92 @@
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 02
 360
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 361
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 722
 ======== EXPECT
 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 -2
 ======== EXPECT
 358
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 -350
 ======== EXPECT
 10
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 -1
 ======== EXPECT
 359
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 362
 ======== EXPECT
 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 09
 -360
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 10
 -361
 ======== EXPECT
 359
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 11
 750
 ======== EXPECT
 30
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 12
 -730
 ======== EXPECT
 350
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 13
 1000
 ======== EXPECT
 280
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 14
 -1300
 ======== EXPECT

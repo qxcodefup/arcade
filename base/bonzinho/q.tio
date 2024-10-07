@@ -6,9 +6,8 @@
 ======== EXPECT
 Aprovado com 10.0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 10
 2
@@ -17,9 +16,8 @@ Aprovado com 10.0
 ======== EXPECT
 Final com 6.0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 10
 10
@@ -28,9 +26,8 @@ Final com 6.0
 ======== EXPECT
 Aprovado com 10.0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 10
 10
@@ -39,9 +36,8 @@ Aprovado com 10.0
 ======== EXPECT
 Aprovado com 10.0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 8
 8
@@ -50,9 +46,8 @@ Aprovado com 10.0
 ======== EXPECT
 Aprovado com 8.0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 6.5
 7.5
@@ -61,9 +56,8 @@ Aprovado com 8.0
 ======== EXPECT
 Aprovado com 7.0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 07
 2
 10
@@ -72,9 +66,8 @@ Aprovado com 7.0
 ======== EXPECT
 Final com 6.0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 08
 6.9
 6.9

@@ -34,30 +34,39 @@ Seu programa deve determinar quem ganhou, tendo a informação de quem gritou pa
 ## Testes
 
 ``` py
-#INPUT
-0
-0
 >>>>>>>> INSERT
+0
+0
+<<<<<<< HEAD
+>>>>>>>> INSERT
+=======
+3
 ======== EXPECT
 1
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 1
 0
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+3
 ======== EXPECT
 0
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
+>>>>>>>> INSERT
 0
 1
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+5
 ======== EXPECT
 0
 <<<<<<<< FINISH

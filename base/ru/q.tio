@@ -4,27 +4,24 @@ um abraco amigo
 uaaoaio
 mbrcmg
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 meteoro de pegasus
 ======== EXPECT
 eeooeeau
 mtrdpgss
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 hora de morfar
 ======== EXPECT
 oaeoa
 hrdmrfr
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 thunder thunder thunder cats owwww
 ======== EXPECT

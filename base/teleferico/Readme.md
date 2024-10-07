@@ -25,53 +25,71 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 ## Exemplos
 
 ``` py
-#INPUT
-5
 >>>>>>>> INSERT
+5
+<<<<<<< HEAD
+>>>>>>>> INSERT
+=======
+4
 ======== EXPECT
 1
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
-5
 >>>>>>>> INSERT
+5
+<<<<<<< HEAD
+>>>>>>>> INSERT
+=======
+8
 ======== EXPECT
 2
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT
-5
 >>>>>>>> INSERT
+5
+<<<<<<< HEAD
+>>>>>>>> INSERT
+=======
+9
 ======== EXPECT
 3
 <<<<<<<< FINISH
 
 
-#INPUT 01
+>>>>>>>> INSERT 01
 10
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+20
 ======== EXPECT
 3
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 12
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+55
 ======== EXPECT
 5
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 100
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+87
 ======== EXPECT
 1
 <<<<<<<< FINISH

@@ -3,41 +3,36 @@
 ======== EXPECT
 3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2 7 88 31 19 40
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 47 20 23 27 9 1
 ======== EXPECT
 6
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 01
 55 30 2 74 79 23
 ======== EXPECT
 3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 1 7 5 3 4 8
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 21 48 9 12 7 1
 ======== EXPECT

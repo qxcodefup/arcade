@@ -6,9 +6,8 @@
 ======== EXPECT
 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 1
 3
 -7 8 10
@@ -17,9 +16,8 @@
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 2
 5
 3 3 3 3 4
@@ -30,9 +28,8 @@
 ======== EXPECT
 4
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 3
 6
 0 0 0 0 0 0
@@ -44,9 +41,8 @@
 ======== EXPECT
 2
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 4
 2
 1 2
@@ -54,9 +50,8 @@
 ======== EXPECT
 1
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 5
 7
 1 0 0 0 0 0 0
@@ -69,9 +64,8 @@
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 6
 4
 3 3 4 4
@@ -82,9 +76,8 @@
 ======== EXPECT
 3
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 7
 5
 0 0 0 0 0
@@ -95,18 +88,16 @@
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 8
 1
 2
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT Teste 9
 10
 1 2 3 4 5 6 7 8 9 0

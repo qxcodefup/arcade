@@ -3,17 +3,15 @@ O ovomaltine e GOSTOSO
 ======== EXPECT
 o OVOMALTINE E gostoso
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Paralelepipedarte-ei se NAO me passar a CARTEIRA
 ======== EXPECT
 pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 1, Dois, 3 Indiozinhos
 ======== EXPECT

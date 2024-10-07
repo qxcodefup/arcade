@@ -3,57 +3,50 @@ David
 ======== EXPECT
 38
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 02
 Scya
 ======== EXPECT
 0
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 03
 Ana
 ======== EXPECT
 22
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 04
 BruNa
 ======== EXPECT
 22
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 05
 Marcos
 ======== EXPECT
 13
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT 06
 andre
 ======== EXPECT
 22
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 CumpadreWashington
 ======== EXPECT
 25
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 Fernando
 ======== EXPECT

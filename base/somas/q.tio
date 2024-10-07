@@ -3,17 +3,15 @@
 ======== EXPECT
 30
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 3 5 2 4
 ======== EXPECT
 20
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 4 4 8 10 15
 ======== EXPECT

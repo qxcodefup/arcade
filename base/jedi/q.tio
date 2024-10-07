@@ -5,9 +5,8 @@
 ======== EXPECT
 Empate
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2
 2
@@ -15,9 +14,8 @@ Empate
 ======== EXPECT
 Jedi
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 2
 2
@@ -25,9 +23,8 @@ Jedi
 ======== EXPECT
 Sith
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 4
 2
@@ -37,9 +34,8 @@ Sith
 ======== EXPECT
 Sith
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 6
 2
@@ -51,9 +47,8 @@ Sith
 ======== EXPECT
 Empate
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 8
 2

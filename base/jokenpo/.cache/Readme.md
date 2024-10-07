@@ -23,27 +23,36 @@ Implemente um programa que receba as jogadas de dois jogadores e determine quem 
 ## Testes
 
 ```py
-#INPUT 01
+>>>>>>>> INSERT 01
 R
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+P
 ======== EXPECT
 jog2
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 02
+>>>>>>>> INSERT 02
 P
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+P
 ======== EXPECT
 empate
 <<<<<<<< FINISH
 ```
 
 ```py
-#INPUT 03
+>>>>>>>> INSERT 03
 S
+<<<<<<< HEAD
 >>>>>>>> INSERT
+=======
+P
 ======== EXPECT
 jog1
 <<<<<<<< FINISH

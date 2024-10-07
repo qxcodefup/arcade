@@ -5,9 +5,8 @@ a
 ======== EXPECT
 a
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 b
 +
@@ -15,9 +14,8 @@ d
 ======== EXPECT
 e
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 z
 +
@@ -25,9 +23,8 @@ c
 ======== EXPECT
 b
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 f
 -
@@ -35,9 +32,8 @@ d
 ======== EXPECT
 c
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 b
 -
@@ -45,9 +41,8 @@ c
 ======== EXPECT
 z
 <<<<<<<< FINISH
-```
 
-```py
+
 >>>>>>>> INSERT
 b
 +
