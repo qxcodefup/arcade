@@ -4,9 +4,13 @@
 
 ## Motivação
 
-Considere o seguinte formato de dicionário que deve ser usada em seu programa:  
-  
-expressao = {"Num1": \*\*\*, "Num2": \*\*\*, "Operador": \*\*\*}
+Considere o seguinte formato de dicionário ou struct que deve ser usada em seu programa:  
+
+```c
+
+
+
+```
   
 ## Ação
 

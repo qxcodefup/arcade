@@ -11,15 +11,15 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 
 <!-- toc -->
 - [Caminho Base](#caminho-base)
-  - [Base - Operações](#base---operações)
-  - [Base - Seleção I](#base---seleção-i)
-  - [Base - Seleção II](#base---seleção-ii)
-  - [Base - Repetição I](#base---repetição-i)
-  - [Base - Repetição II](#base---repetição-ii)
-  - [Base - Vetores I](#base---vetores-i)
-  - [Base - Vetores II](#base---vetores-ii)
-  - [Base - Vetores III](#base---vetores-iii)
-  - [Base - Strings](#base---strings)
+  - [Missão: Operações](#missão---operações)
+  - [Missão: Seleção I](#missão---seleção-i)
+  - [Missão: Seleção II](#missão---seleção-ii)
+  - [Missão: Repetição I](#missão---repetição-i)
+  - [Missão: Repetição II](#missão---repetição-ii)
+  - [Missão: Vetores I](#missão---vetores-i)
+  - [Missão: Vetores II](#missão---vetores-ii)
+  - [Missão: Vetores III](#missão---vetores-iii)
+  - [Missão: Strings](#missão---strings)
 - [Extra](#extra)
   - [Operações - extra](#operações---extra)
   - [Seleção - extra](#seleção---extra)
@@ -37,9 +37,9 @@ Também pode executá-las diretamente no seu computador ou no replit através do
   - [Em construção](#em-construção)
 <!-- toc -->
 
-## Caminho Base<!-- group -->
+## Campanha Principal<!-- group -->
 
-### Base - Operações<!-- @main_op +basic:10 -->
+### Missão: Operações<!-- +basic:10 -->
 
 - [ ] L0 [@tres - Soma de inteiros](base/tres/Readme.md)
 - [ ] L0 [@resto - resultado e resto na divisão](base/resto/Readme.md)
@@ -50,7 +50,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L2 [@pintando a casa](base/pintando/Readme.md)
 - [ ] L3 [@bala - distância entre dois pontos](base/bala/Readme.md)
 
-### Base - Seleção I<!-- @main_sel +sel:10 -->
+### Missão: Seleção I<!-- +sel:10 -->[](#missão-operações)
 
 - [ ] L0 [@abs - Valor absoluto](base/abs/Readme.md)
 - [ ] L0 [@max - Maior de dois números](base/max/Readme.md)
@@ -67,7 +67,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L3 [@meio - A raposa e os esquilos](base/meio/Readme.md)
 - [ ] L2 [@jokenpo das tartarugas](base/jokenpo/Readme.md)
 
-### Base - Seleção II<!-- @main_sel_ii +sel:15 -->
+### Missão: Seleção II<!-- +sel:15 -->[](#missão-seleção-i)
 
 - [ ] L2 [@final - será que eu passo?](base/final/Readme.md)
 - [ ] L2 [@trabalhando - semana e sábado](base/trabalhando/Readme.md)
@@ -82,7 +82,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L2 [@game10 - OBI 2017 - Fase 1 - Universitário](base/game10/Readme.md)
 - [ ] L2 [@salario - Calculando aumento](base/salario/Readme.md)
 
-### Base - Repetição I<!-- @main_rep +rep:10 -->
+### Missão: Repetição I<!-- +rep:10 -->[](#missão-seleção-i)
 
 - [ ] L0 [@loop_i treino de loop](base/loop_i/Readme.md)
 - [ ] L0 [@loop_ii - imprimindo em linha](base/loop_ii/Readme.md)
@@ -95,7 +95,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L0 [@ceu - Ingrid quer chegar no céu](base/ceu/Readme.md)
 - [ ] L0 [@esconde - Diana no esconde-esconde](base/esconde/Readme.md)
 
-### Base - Repetição II<!-- @main_rep_ii +rep:15 -->
+### Missão: Repetição II<!-- +rep:15 -->[](#missão-repetição-i)
 
 - [ ] L1 [@zigzag - Viunei e a saúde mental](base/zigzag/Readme.md)
 - [ ] L1 [@colorido - Paulo Victor e seu sapato colorido](base/colorido/Readme.md)
@@ -105,7 +105,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L2 [@sapinho 1 no Poço](base/sapinho/Readme.md)
 - [ ] L2 [@fatores de um número](base/fatores/Readme.md)
 
-### Base - Vetores I<!-- @main_vet +vet:20 -->
+### Missão: Vetores I<!-- +vet:20 -->[](#missão-repetição-i)
 
 - [ ] L0 [@vet_i - carregando vetor em várias linhas](base/vet_i/Readme.md)
 - [ ] L0 [@vet_ii - carregando vetor na mesma linha](base/vet_ii/Readme.md)
@@ -116,7 +116,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L1 [@dindin - Clenda adora chocolate](base/dindin/Readme.md)
 - [ ] L1 [@contar_repetidos](base/contar_repetidos/Readme.md)
 
-### Base - Vetores II<!-- @main_vet_ii +vet:20 -->
+### Missão: Vetores II<!-- +vet:20 -->[](#missão-vetores-i)
 
 - [ ] L2 [@revolta em Portugal](base/revolta/Readme.md)
 - [ ] L2 [@cartas - Transformando números em letras](base/cartas/Readme.md)
@@ -129,7 +129,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L3 [@parkour](base/parkour/Readme.md)
 - [ ] L3 [@medico - Busca por proximidade](base/medico/Readme.md)
 
-### Base - Vetores III<!-- @main_vet_iii +vet:20 -->
+### Missão: Vetores III<!-- +vet:20 -->[](#missão-vetores-iii)
 
 - [ ] L3 [@batraquios - está contido](base/batraquios/Readme.md)
 - [ ] L3 [@baruel - figurinhas repetidas](base/baruel/Readme.md)
@@ -140,7 +140,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L2 [@manipulacao - Estressados 3](https://github.com/qxcodepoo/arcade/blob/master/base/manipulacao/Readme.md)
 - [ ] L2 [@especiais - Estressados 4](https://github.com/qxcodepoo/arcade/blob/master/base/especiais/Readme.md)
 
-### Base - Strings<!-- @main_str +str:20 -->
+### Missão: Strings<!-- +str:20 -->[](#missão-vetores-i)
 
 - [ ] L1 [@xuxa - Inverter String](base/xuxa/Readme.md)
 - [ ] L1 [@inverte case de char](base/inverte/Readme.md)
@@ -155,9 +155,9 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L3 [@gamados - Verificar ordenação da frase](base/gamados/Readme.md)
 - [ ] L3 [@mario e o Assassins Creed](base/mario/Readme.md)
 
-## Extra<!-- group -->
+## Repositório de Problemas<!-- group -->
 
-### Operações - extra<!-- @op_form r:main_op +basic:10 -->
+### Problemas: Operações<!-- +basic:10 -->[](#missão-operações)
 
 - [ ] L1 [@quebrada - Tipos de divisão](base/quebrada/Readme.md)
 - [ ] L1 [@operacoes básicas](base/operacoes/Readme.md)
@@ -165,7 +165,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L2 [@opala bebedor](base/opala/Readme.md)
 - [ ] L2 [@tv - Comprando parcelada](base/tv/Readme.md)
 
-### Seleção - extra<!-- @selecao_logica r:main_sel +sel:10 -->
+### Problemas: Seleção<!-- +sel:10 -->[](#missão-seleção-ii)
 
 - [ ] L1 [@impedido](base/impedido/Readme.md)
 - [ ] L0 [@maximo entre dois números](base/maximo/Readme.md)
@@ -192,7 +192,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L2 [@adedonha](base/adedonha/Readme.md)
 - [ ] L3 [@sono - Quanto tempo ainda tenho](base/sono/Readme.md)
 
-### Repetição - extra<!-- @laco_controle r:main_rep +rep:15 -->
+### Problemas: Repetição<!-- +rep:15 -->[](#missão-repetição-ii)
 
 - [ ] L3 [@poco - Sapinho 2 morrendo no poço](base/poco/Readme.md)
 - [ ] L3 [@afogado - Sapinho 3 matemático não quer morrer afogado](base/afogado/Readme.md)
@@ -204,7 +204,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L2 [@spok palíndromo](base/spok/Readme.md)
 - [ ] L3 [@digitos - Fazendo contagem](base/digitos/Readme.md)
 
-### Vetores - extra<!-- @vetor_busca r:main_vet +vet:10 -->
+### Problemas: Vetores I<!-- +vet:10 -->[](#missão-vetores-ii)
 
 - [ ] L1 [@casamento](base/casamento/Readme.md)
 - [ ] L2 [@intervalada - Busca](base/intervalada/Readme.md)
@@ -227,7 +227,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L2 [@mediana](base/mediana/Readme.md)
 - [ ] L2 [@indices](base/indices/Readme.md)
 
-### Vetores: Lógica<!-- @vetor_logica r:vetor_busca +vet:20 -->
+### Problemas: Vetores II<!-- +vet:20 -->[](#missão-vetores-ii)
 
 - [ ] L3 [@trilhas - OBI 2005](base/trilhas/Readme.md)
 - [ ] L3 [@avesso2 - Jogo não acabou](base/avesso2/Readme.md)
@@ -240,7 +240,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L3 [@senhas - algoritmo de força bruta](base/senhas/Readme.md)
 - [ ] L4 [@palindromo - Qual o maior](base/palindromo/Readme.md)
 
-### Strings I<!-- @strings_i r:main_str +str:10 -->
+### Problemas: Strings I<!-- +str:10 -->[](#missão-strings)
 
 - [ ] L1 [@ascologia -Eribelton e a ascologia V1 - Somar Asc](base/ascologia/Readme.md)
 - [ ] L1 [@alcaparras e Marileuza - Contar Ocorrências](base/alcaparras/Readme.md)
@@ -254,7 +254,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L2 [@numerao divisível por 11](base/numerao/Readme.md)
 - [ ] L2 [@numeros - Encontrando e somando](base/numeros/Readme.md)
 
-### Strings II<!-- @strings_ii r:strings_i +str:10 -->
+### Problemas: Strings II<!-- +str:10 -->[](#missão-strings)
 
 - [ ] L2 [@valentina e Valdiskley](base/valentina/Readme.md)
 - [ ] L2 [@vcvcvc - Vogais e Consoantes - Substituindo](base/vcvcvc/Readme.md)
@@ -270,7 +270,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L3 [@datilografar - Máquina Quebrada](base/datilografar/Readme.md)
 - [ ] L3 [@bubula - Nao se bula - Gagueira V2](base/bubula/Readme.md)
 
-### Strings III<!-- @strings_iii r:strings_ii opt +str:10 -->
+### Problemas: Strings III<!-- +str:10 -->[](#missão-strings)
 
 - [ ] L3 [@muquirana - Busca máximo por critério](base/muquirana/Readme.md)
 - [ ] L3 [@rocicleia e o Locioreca - Anagramas](base/rocicleia/Readme.md)
@@ -284,7 +284,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L3 [@criptografia](base/criptografia/Readme.md)
 - [ ] L4 [@permutacao de fichas](base/permutacao/Readme.md)
 
-### Matrizes I<!-- @matrizes_i r:vetor_logica +mat:30 -->
+### Problemas: Matrizes I<!-- +mat:30 -->[](#missão-vetores-i)
 
 - [ ] L2 [@bingo](base/bingo/Readme.md)
 - [ ] L2 [@imperador - Deu a louca no imperador](base/imperador/Readme.md)
@@ -294,7 +294,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L3 [@torre - OBI 2015 - Fase 2 - Nível 1](base/torre/Readme.md)
 - [ ] L2 [@soldados em Posição](base/soldados/Readme.md)
 
-### Matrizes II<!-- @matrizes_ii r:matrizes_i opt +mat:40 -->
+### Problemas Matrizes II<!-- +mat:40 -->[](#problemas-matrizes-i)
 
 - [ ] L2 [@simetrica - Matrizes](base/simetrica/Readme.md)
 - [ ] L2 [@matrizes - Soma](base/matrizes/Readme.md)
@@ -305,7 +305,25 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L3 [@minhocas - Campo de minhocas - OBI 2005](base/minhocas/Readme.md)
 - [ ] L3 [@codigo - OBI 2015 - Fase 2 - Nível Júnior](base/codigo/Readme.md)
 
-### Ponteiros<!-- @ponteiros r:main_vet +extra:20 -->
+### Problemas: Structs<!-- +extra:30 -->[](#problemas-vetores-i)
+
+- [ ] L2 [@pizza](base/pizza/Readme.md)
+- [ ] L2 [@gomos da cobrinha](base/gomos/Readme.md)
+- [ ] L3 [@secundaristas](base/secundaristas/Readme.md)
+- [ ] L3 [@idosa - Mulher mais idosa](base/idosa/Readme.md)
+
+### Problemas: Recursão<!-- +extra:30 -->[](#problemas-vetores-i)
+
+- [ ] L3 [@hanoi - Torres](base/hanoi/Readme.md)
+
+### Em construção<!-- +extra:10 -->
+
+- [ ] L2 [@fatoracao - Fatoração](base/fatoracao/Readme.md)
+- [ ] L3 [@somas - Soma de vários números](base/somas/Readme.md)
+
+## Linguagem C <!-- group -->
+
+### C: Ponteiros<!-- -->
 
 - [ ] L2 [@formatado - Imprimir vetor formatado](base/formatado/Readme.md)
 - [ ] L4 [@porta Matemática](base/porta/Readme.md)
@@ -314,26 +332,29 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L2 [@endereco - Função que retorna vários valores](base/endereco/Readme.md)
 - [ ] L2 [@realoc - Vetor de strings com variados tamanhos](base/realoc/Readme.md)
 
-### Recursão<!-- @recursao r:main_vet +extra:30 -->
+### C: Structs<!-- -->
+
+- [ ] L1 [@empacotar](base/empacotar/Readme.md)
+- [ ] L2 [@comparar-data](base/comparar-data/Readme.md)
+- [ ] L2 [@retangulo](base/retangulo/Readme.md)
+- [ ] L2 [Ponto @perto](base/perto/Readme.md)
+
+### C: Recursão<!--  -->
 
 - [ ] L2 [@ocorrencias - Contagem](base/ocorrencias/Readme.md)
 - [ ] L2 [@rec-fib - Números de Fibonacci](base/rec-fib/Readme.md)
 - [ ] L3 [@rec-count - Contando caracteres recursivamente](base/rec-count/Readme.md)
-- [ ] L3 [@hanoi - Torres](base/hanoi/Readme.md)
 
-### Structs<!-- @structs r:ponteiros +extra:30 -->
+## Linguagem TS<!--group-->
 
-- [ ] L1 [@expressao](base/expressao/Readme.md)
-- [ ] L1 [@empacotar](base/empacotar/Readme.md)
-- [ ] L2 [@pizza](base/pizza/Readme.md)
-- [ ] L2 [@comparar-data](base/comparar-data/Readme.md)
-- [ ] L2 [@retangulo](base/retangulo/Readme.md)
-- [ ] L2 [Ponto @perto](base/perto/Readme.md)
-- [ ] L2 [@gomos da cobrinha](base/gomos/Readme.md)
-- [ ] L3 [@secundaristas](base/secundaristas/Readme.md)
-- [ ] L3 [@idosa - Mulher mais idosa](base/idosa/Readme.md)
+### TS: Intrudução<!---->
 
-### Em construção<!-- @em_construcao r:ponteiros +extra:10 -->
+- [ ] L0 [@ts_intro_leitura Tipos de dados e variáveis](wiki/ts_base/fup_leitura.md)
+- [ ] L0 [@ts_intro_pesquisa Teste de conceitos](wiki/ts_base/fup_revisao.md)
+- [ ] L0 [@ts_intro_pratica Escrevendo códigos](wiki/ts_base/fup_pratica.md)
 
-- [ ] L2 [@fatoracao - Fatoração](base/fatoracao/Readme.md)
-- [ ] L3 [@somas - Soma de vários números](base/somas/Readme.md)
+### TS: Arrays<!---->
+
+- [ ] L0 [@ts_array_leitura Manipulando listas](wiki/ts_base/arrays_leitura.md)
+- [ ] L0 [@ts_array_perguntas Teste de conceitos](wiki/ts_base/arrays_revisao.md)
+- [ ] L0 [@ts_array_pratica Escrevendo códigos](wiki/ts_base/arrays_pratica.md)
