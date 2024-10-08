@@ -23,25 +23,25 @@ A cabeça da cobra pode estar apontada para 4 possíveis direções. \[U\] Up(Ci
   - 𝐶: Um caractere representando a direção da cobra ('U' para cima, 'D' para baixo, 'L' para esquerda, 'R' para direita).
   - 𝑆: Um número inteiro representando o número de segundos de distração.
 
-## Saída
+### Saída
 
 - O programa deve imprimir duas coordenadas inteiras 𝑋 e 𝑌, indicando a posição final da cabeça.
 
-## Restrições
+### Restrições
 
->>>>>>>> INSERTN ≤ 1000
+- 0 ≤ N ≤ 1000
 - 0 ≤ X ≤ 1000
 - 0 ≤ Y ≤ 1000
 - 0 ≤ C ≤ 1000
 - 0 ≤ S ≤ 1000
 
-## Exemplos
+## Testes
 
-``` py
+```py
 >>>>>>>> INSERT
 10
 4
->>>>>>>> INSERT
+3
 R
 1
 ======== EXPECT
@@ -53,7 +53,7 @@ R
 >>>>>>>> INSERT
 10
 4
->>>>>>>> INSERT
+3
 R
 8
 ======== EXPECT

@@ -22,7 +22,7 @@ int ceil(float num);
 
 Na função principal (main), leia um caractere que representa a operação (r, f, c) e um número do tipo float. Depois, chame a função correspondente e imprima o resultado.
 
-## Testes
+### Entrada
 
 - Um caractere (r, f ou c) representando a operação.
 - Um número float
@@ -31,12 +31,11 @@ Na função principal (main), leia um caractere que representa a operação (r, 
 
 - imprima um inteiro de acordo com a operação pedida.  
 
-### Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT
 c
->>>>>>> fix_model
 5.5
 ======== EXPECT
 6
@@ -46,7 +45,6 @@ c
 ```py
 >>>>>>>> INSERT
 f
->>>>>>> fix_model
 6.99
 ======== EXPECT
 6
@@ -56,7 +54,6 @@ f
 ```py
 >>>>>>>> INSERT
 c
->>>>>>> fix_model
 6.99
 ======== EXPECT
 7
@@ -66,7 +63,6 @@ c
 ```py
 >>>>>>>> INSERT
 r
->>>>>>> fix_model
 5.5
 ======== EXPECT
 6
@@ -76,7 +72,6 @@ r
 ```py
 >>>>>>>> INSERT
 r
->>>>>>> fix_model
 5.4
 ======== EXPECT
 5
@@ -85,7 +80,9 @@ r
 
 ## Dicas
 
-**C** - É dessa forma que é realizada a criação de uma função:
+### Programando em: C
+
+- É dessa forma que é realizada a criação de uma função:
 
 ```c
 int round(float num){
@@ -98,7 +95,9 @@ int main() {
 }
 ```
 
-**Python** - É dessa forma que é realizada a criação de uma função:
+### Programando em: Python
+
+- É dessa forma que é realizada a criação de uma função:
 
 ```py
 def round(float num):
@@ -108,7 +107,9 @@ num = 1.1;
 round(num);
 ```
 
-**TypeScript** - É dessa forma que é realizada a criação de uma função:
+### Programando em: TypeScript
+
+- É dessa forma que é realizada a criação de uma função:
 
 ```ts
 function round(num: number): number{

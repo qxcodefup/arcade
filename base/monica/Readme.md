@@ -58,7 +58,9 @@ $$C = M - (A + B)$$
 
 Depois de calcular a idade do terceiro filho, compare as idades dos três filhos para determinar qual é o mais velho.
 
-**C** - Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
+### Programando em: C
+
+- Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
 `x = condicao ? valor_verdade : valor_falso`:
 
 ```c
@@ -73,7 +75,9 @@ int main() {
 }  
 ```
 
-**Python** -  Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
+### Programando em: Python
+
+- Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
 `x = valor_verdade if condicao else valor_falso`:
 
 ```py
@@ -84,7 +88,9 @@ int x = 5 if 5 > 4 else 4
 int x = A if A > B else B
 ```
 
-**TypeScript** - Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
+### Programando em: TypeScript
+
+- Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
 `x = condicao ? valor_verdade : valor_falso`:
 
 ```ts

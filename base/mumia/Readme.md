@@ -49,7 +49,9 @@ jose eh idoso
 
 ## Dicas
 
-**C** - Utilize a técnica do seleção intervalada e termine com um else sem condição:
+### Programando em: C
+
+- Utilize a técnica do seleção intervalada e termine com um else sem condição:
 
 ```c
 int main() {
@@ -68,7 +70,9 @@ int main() {
 }
 ```
 
-**Python** - Utilize a técnica do seleção intervalada e termine com um else sem condição:
+### Programando em: Python
+
+- Utilize a técnica do seleção intervalada e termine com um else sem condição:
 
 ```py
 if x < 12:
@@ -81,7 +85,9 @@ else:
     ...
 ```
 
-**TypeScript** - Utilize a técnica do seleção intervalada e termine com um else sem condição:
+### Programando em: TypeScript
+
+- Utilize a técnica do seleção intervalada e termine com um else sem condição:
 
 ```ts
 if(x < 12) {

@@ -22,12 +22,12 @@ Para garantir que o funcionário está cumprindo sua carga horária, implemente 
 
 ### Saída
 
->>>>>>>> INSERTograma deve imprimir "SIM" se o funcionário deve estar trabalhando ou "NAO" se ele não deve estar trabalhando.
+- O programa deve imprimir "SIM" se o funcionário deve estar trabalhando ou "NAO" se ele não deve estar trabalhando.
 
 ## Testes
 
 ```py
->>>>>>>> INSERT
+>>>>>>>> INSERT seg as 12
 2
 12
 ======== EXPECT
@@ -36,7 +36,7 @@ NAO
 ```
 
 ```py
->>>>>>>> INSERT
+>>>>>>>> INSERT seg as 7
 2
 7
 ======== EXPECT
@@ -45,7 +45,7 @@ NAO
 ```
 
 ```py
->>>>>>>> INSERT
+>>>>>>>> INSERT seg as 13
 2
 13
 ======== EXPECT
@@ -54,7 +54,7 @@ NAO
 ```
 
 ```py
->>>>>>>> INSERT
+>>>>>>>> INSERT seg as 14
 2
 14
 ======== EXPECT
@@ -63,7 +63,7 @@ SIM
 ```
 
 ```py
->>>>>>>> INSERT
+>>>>>>>> INSERT seg as 18
 2
 18
 ======== EXPECT
@@ -72,7 +72,7 @@ NAO
 ```
 
 ```py
->>>>>>>> INSERT
+>>>>>>>> INSERT seg as 17
 2
 17
 ======== EXPECT
@@ -81,7 +81,7 @@ SIM
 ```
 
 ```py
->>>>>>>> INSERT
+>>>>>>>> INSERT seg as 3
 3
 17
 ======== EXPECT
@@ -90,7 +90,7 @@ SIM
 ```
 
 ```py
->>>>>>>> INSERT
+>>>>>>>> INSERT dom as 9
 1
 9
 ======== EXPECT
@@ -99,7 +99,7 @@ NAO
 ```
 
 ```py
->>>>>>>> INSERT
+>>>>>>>> INSERT dom as 14
 1
 14
 ======== EXPECT
@@ -108,7 +108,7 @@ NAO
 ```
 
 ```py
->>>>>>>> INSERT
+>>>>>>>> INSERT ter as 19
 3
 19
 ======== EXPECT
@@ -126,7 +126,7 @@ SIM
 ```
 
 ```py
->>>>>>>> INSERT sexta 11
+>>>>>>>> INSERT sex as 11
 6
 11
 ======== EXPECT
@@ -135,7 +135,7 @@ SIM
 ```
 
 ```py
->>>>>>>> INSERT sexta 12
+>>>>>>>> INSERT sex as 12
 6
 12
 ======== EXPECT
@@ -144,7 +144,7 @@ NAO
 ```
 
 ```py
->>>>>>>> INSERT sexta as 15
+>>>>>>>> INSERT sex as 15
 6
 15
 ======== EXPECT
@@ -153,7 +153,7 @@ SIM
 ```
 
 ```py
->>>>>>>> INSERT sab 7
+>>>>>>>> INSERT sab as 7
 7
 7
 ======== EXPECT
@@ -162,7 +162,7 @@ NAO
 ```
 
 ```py
->>>>>>>> INSERT sab 8
+>>>>>>>> INSERT sab as 8
 7
 8
 ======== EXPECT
@@ -171,7 +171,7 @@ SIM
 ```
 
 ```py
->>>>>>>> INSERT sab 11
+>>>>>>>> INSERT sab as 11
 7
 11
 ======== EXPECT
@@ -180,7 +180,7 @@ SIM
 ```
 
 ```py
->>>>>>>> INSERT sab 12
+>>>>>>>> INSERT sab as 12
 7
 12
 ======== EXPECT

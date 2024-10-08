@@ -32,8 +32,6 @@ Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minuto
 3
 1
 1
->>>>>>>> INSERT
-======== EXPECT
 1
 ======== EXPECT
 1
@@ -45,9 +43,6 @@ Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minuto
 10
 4
 4
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 4
 ======== EXPECT
 2
@@ -59,9 +54,6 @@ Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minuto
 2
 4
 2
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 3
 ======== EXPECT
 5

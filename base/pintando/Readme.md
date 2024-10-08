@@ -42,7 +42,9 @@ Implemente um programa que, dado o tamanho dos três lados de um triângulo, cal
 
 ## Dicas
 
-**C** - Para exibir um número de ponto flutuante do tipo `double`, recomendado por sua maior precisão, com seis casas decimais em C, utilize o especificador de formato `%.6f` na função `printf`. O número **6** após o ponto indica a quantidade de casas decimais a serem exibidas:
+### Programando em: C
+
+- Para exibir um número de ponto flutuante do tipo `double`, recomendado por sua maior precisão, com seis casas decimais em C, utilize o especificador de formato `%.6f` na função `printf`. O número **6** após o ponto indica a quantidade de casas decimais a serem exibidas:
 
 ```c
 int main() {
@@ -51,7 +53,9 @@ int main() {
 }
 ```
 
-**Python** - Para exibir um número de ponto flutuante com seis casas decimais em Python, utilize o formato `:.6f` dentro da função `print`. O número **6** após o ponto indica o número de casas decimais que serão exibidas:
+### Programando em: Python
+
+- Para exibir um número de ponto flutuante com seis casas decimais em Python, utilize o formato `:.6f` dentro da função `print`. O número **6** após o ponto indica o número de casas decimais que serão exibidas:
 
 ```py
 print(f"{resultado:.6f}")
@@ -61,7 +65,9 @@ print(f"{resultado:.6f}")
 print("{:.6f}".format(resultado))
 ```
 
-**TypeScript** - Para exibir um número com seis casas decimais em TypeScript, utilize o método `toFixed(6)` do objeto `Number`. O número **6** especifica a quantidade de casas decimais que serão exibidas após o ponto decimal:
+### Programando em: TypeScript
+
+- Para exibir um número com seis casas decimais em TypeScript, utilize o método `toFixed(6)` do objeto `Number`. O número **6** especifica a quantidade de casas decimais que serão exibidas após o ponto decimal:
 
 ```ts
 console.log(resultado.toFixed(6)); 
@@ -73,6 +79,7 @@ write(resultado.toFixed(6));
 
 ## Resolução
 
-- [C++](https://youtu.be/nlgT_jAtmy4)
+### Em C++
 
-[Resolução](https://youtu.be/sWg893W5r_w)
+- [Parte 1](https://youtu.be/nlgT_jAtmy4)
+- [Parte 2](https://youtu.be/sWg893W5r_w)

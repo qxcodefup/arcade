@@ -65,7 +65,9 @@ Crie sua própria função para calcular o valor absoluto de um número.
 
 ## Dicas
 
-**C** - O método `abs()` o ajudará a encontrar o valor absoluto.
+### Programando em: C
+
+- O método `abs()` o ajudará a encontrar o valor absoluto.
 
 ```c
 #include <stdio.h>
@@ -75,13 +77,17 @@ int main() {
 }
 ```
 
-**Python** - O método `abs()` o ajudará a encontrar o valor absoluto.
+### Programando em: Python
+
+- O método `abs()` o ajudará a encontrar o valor absoluto.
 
 ```py
 valorAbsoluto = abs(numero)
 ```
 
-**TypeScript** -  O método `abs()` o ajudará a encontrar o valor absoluto.
+### Programando em: TypeScript
+
+- O método `abs()` o ajudará a encontrar o valor absoluto.
 
 ```ts
 let valorAbsoluto: number = Math.abs(numero);

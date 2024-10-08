@@ -33,7 +33,6 @@ Hora:Minuto:Segundo
 1:0:41
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 1
@@ -42,7 +41,6 @@ Hora:Minuto:Segundo
 6:7:47
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 2
@@ -51,7 +49,6 @@ Hora:Minuto:Segundo
 2:45:34
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 3
@@ -60,7 +57,6 @@ Hora:Minuto:Segundo
 8:21:40
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 4
@@ -69,7 +65,6 @@ Hora:Minuto:Segundo
 6:19:29
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 5
@@ -78,7 +73,6 @@ Hora:Minuto:Segundo
 5:22:4
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 6
@@ -87,7 +81,6 @@ Hora:Minuto:Segundo
 4:11:18
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 7
@@ -96,7 +89,6 @@ Hora:Minuto:Segundo
 9:9:18
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 8
@@ -105,7 +97,6 @@ Hora:Minuto:Segundo
 8:29:22
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 9
@@ -114,7 +105,6 @@ Hora:Minuto:Segundo
 7:47:44
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 10
@@ -123,7 +113,6 @@ Hora:Minuto:Segundo
 2:35:5
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 11
@@ -132,7 +121,6 @@ Hora:Minuto:Segundo
 8:49:5
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 12
@@ -141,7 +129,6 @@ Hora:Minuto:Segundo
 7:28:1
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 13
@@ -150,7 +137,6 @@ Hora:Minuto:Segundo
 5:40:27
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT 14
@@ -159,11 +145,12 @@ Hora:Minuto:Segundo
 3:46:1
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ## Dicas
 
-**C** -  Aqui está uma menira de realizar impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
+### Programando em: C
+
+- Aqui está uma menira de realizar impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
 
 ```c
 int main() {
@@ -171,7 +158,9 @@ int main() {
 }
 ```
 
-**Python** - Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
+### Programando em: Python
+
+- Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
 
 ```py
 print(f"{hora}:{minuto}:{segundos}")
@@ -181,7 +170,9 @@ print(f"{hora}:{minuto}:{segundos}")
 print("{}:{}:{}".format(hora, minuto, segundos))
 ```
 
-**TypeScript** - Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
+### Programando em: TypeScript
+
+- Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
 
 ```ts
 console.log(hora + ":" + minuto + ":" + segundo);

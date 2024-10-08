@@ -8,7 +8,7 @@ Muitas vezes precisamos imprimir uma sequência de números inteiros dentro de u
 
 Dado dois números inteiros **A** e **B**, faça um loop para imprimir todos os números inteiros entre **A** e **B**, excluindo **B**.
 
->>>>>>>> INSERTtrada
+### Entrada
 
 - A primeira linha contém o número inteiro **A**.
 - A segunda linha contém o número inteiro **B**.
@@ -71,7 +71,9 @@ Dado dois números inteiros **A** e **B**, faça um loop para imprimir todos os 
 
 ## Dicas
 
-**C** - Você pode utilizar métodos de interação, como o loop `for` inicia com `i` igual a **A** e continua até que `i` seja menor que **B**. A cada iteração, o valor de `i` é impresso usando `printf`, e `i` é incrementado em **1**.
+### Programando em: C
+
+- Você pode utilizar métodos de interação, como o loop `for` inicia com `i` igual a **A** e continua até que `i` seja menor que **B**. A cada iteração, o valor de `i` é impresso usando `printf`, e `i` é incrementado em **1**.
 
 ```c
 int main() {
@@ -81,7 +83,7 @@ int main() {
 }
 ```
 
-O loop `while` verifica se `i` é menor que *B* antes de executar. Inicialmente, `i` é igual a **A**. O valor de `i` é impresso, e `i` é incrementado em **1** até que `i` não seja mais menor que B.
+- O loop `while` verifica se `i` é menor que *B* antes de executar. Inicialmente, `i` é igual a **A**. O valor de `i` é impresso, e `i` é incrementado em **1** até que `i` não seja mais menor que B.
 
 ```C
 int main() {
@@ -93,14 +95,16 @@ int main() {
 }
 ```
 
-**Python** - Você pode utilizar métodos de interação, como o loop `for` itera sobre um intervalo de números de **A** até **B-1**. A função `range(A, B)` gera uma sequência de números começando em **A** e terminando em **B-1**. A cada iteração, o valor de `i` é impresso usando `print`.
+### Programando em: Python
+
+- Você pode utilizar métodos de interação, como o loop `for` itera sobre um intervalo de números de **A** até **B-1**. A função `range(A, B)` gera uma sequência de números começando em **A** e terminando em **B-1**. A cada iteração, o valor de `i` é impresso usando `print`.
 
 ```py
 for i in range(A, B):
     ...
 ```
 
- O loop `while` continua executando enquanto `i` for menor que **B**. Inicialmente, `i` é definido com o valor de  **A**. Dentro do loop, o valor de `i` é impresso e incrementado em **1** a cada iteração, até que `i` alcance o valor de **B** e a condição deixe de ser verdadeira.
+- O loop `while` continua executando enquanto `i` for menor que **B**. Inicialmente, `i` é definido com o valor de  **A**. Dentro do loop, o valor de `i` é impresso e incrementado em **1** a cada iteração, até que `i` alcance o valor de **B** e a condição deixe de ser verdadeira.
 
 ```py
 i = A
@@ -109,7 +113,9 @@ while i < B:
     i += 1
 ```
 
-**TypeScript** - Você pode utilizar métodos de interação como o loop `for` itera sobre um intervalo de números, começando em **A** e indo até **B-1**. A cada iteração, o valor de `i` é impresso no console usando `console.log()` ou `write()`.
+### Programando em: TypeScript
+
+- Você pode utilizar métodos de interação como o loop `for` itera sobre um intervalo de números, começando em **A** e indo até **B-1**. A cada iteração, o valor de `i` é impresso no console usando `console.log()` ou `write()`.
 
 ```ts
 for (let i = A; i < B; i++) {
@@ -117,7 +123,7 @@ for (let i = A; i < B; i++) {
 }
 ```
 
-O loop `while` continua executando enquanto `i` for menor que **B**. Inicialmente, `i` é definido com o valor de **A**. O valor de `i` é impresso a cada iteração e `i` é incrementado em **1** até que a condição do loop não seja mais verdadeira.
+- O loop `while` continua executando enquanto `i` for menor que **B**. Inicialmente, `i` é definido com o valor de **A**. O valor de `i` é impresso a cada iteração e `i` é incrementado em **1** até que a condição do loop não seja mais verdadeira.
 
 ```ts
 let i: number = A;

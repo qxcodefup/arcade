@@ -20,7 +20,7 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 >>>>>>>> INSERT
 2
 3
-<<<<<<< HEAD
+4
 >>>>>>>> INSERT
 =======
 4
@@ -33,7 +33,7 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 >>>>>>>> INSERT
 12
 17
-<<<<<<< HEAD
+24
 >>>>>>>> INSERT
 =======
 24
@@ -46,7 +46,7 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 >>>>>>>> INSERT
 -10
 -4
-<<<<<<< HEAD
+23
 >>>>>>>> INSERT
 =======
 23
@@ -57,7 +57,9 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 
 ## Dicas
 
-**C** - Quebre uma linha usando `\n`:
+### Programando em: C
+
+- Quebre uma linha usando `\n`:
 
 ```c
 int main() {
@@ -65,13 +67,17 @@ int main() {
 }
 ```
 
-**Python** - Não há necessidade de quebrar a linha manualmente, pois ela é quebrada automaticamente:
+### Programando em: Python
+
+- Não há necessidade de quebrar a linha manualmente, pois ela é quebrada automaticamente:
 
 ```py
 print(soma)
 ```
 
-**TypeScript** - Não há necessidade de quebrar a linha manualmente, pois ela é quebrada automaticamente:
+### Programando em: TypeScript
+
+Não há necessidade de quebrar a linha manualmente, pois ela é quebrada automaticamente:
 
 ```ts
 console.log(soma); || write();

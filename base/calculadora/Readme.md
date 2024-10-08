@@ -58,7 +58,9 @@ A entrada consiste em três linhas:
 
 ## Dicas
 
-**C** - O `operador` deve ser recebido em uma variável do tipo `char`:
+### Programando em: C
+
+- O `operador` deve ser recebido em uma variável do tipo `char`:
 
 ```c
 int main() {
@@ -67,13 +69,17 @@ int main() {
 }
 ```
 
-**Python** - Não tem a necessidade de informar o tipo
+### Programando em: Python
+
+- Não tem a necessidade de informar o tipo
 
 ```py
 operador = input()
 ```
 
-**TypeScript** - Não tem a necessidade de informar o tipo
+### Programando em: TypeScript
+
+- Não tem a necessidade de informar o tipo
 
 ```ts
 let operador = input();
@@ -81,4 +87,6 @@ let operador = input();
 
 ## Resolução
 
-- [C++](https://www.youtube.com/watch?v=W5JJ_NccMkM)
+### Em C++
+
+- [Vídeo](https://www.youtube.com/watch?v=W5JJ_NccMkM)

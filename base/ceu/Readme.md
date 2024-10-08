@@ -12,7 +12,7 @@ Se a criança jogar a pedra no 10, a contagem fica assim:
 
 0 1 2 3 4 5 6 7 8 9
 
-### Entrada e Saída
+### Entrada e Saída 
 
 - Entrada
   - 1a linha: número N que caiu a pedra

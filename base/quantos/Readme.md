@@ -22,7 +22,7 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 >>>>>>>> INSERT 01
 1
 4
-<<<<<<< HEAD
+4
 >>>>>>>> INSERT
 =======
 4
@@ -35,7 +35,7 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 >>>>>>>> INSERT 02
 1
 5
-<<<<<<< HEAD
+4
 >>>>>>>> INSERT
 =======
 4
@@ -48,7 +48,7 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 >>>>>>>> INSERT 03
 1
 1
-<<<<<<< HEAD
+1
 >>>>>>>> INSERT
 =======
 1

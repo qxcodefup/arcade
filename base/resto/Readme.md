@@ -166,7 +166,9 @@ quociente e resto da divisão do primeiro pelo segundo número.
 
 ## Dicas
 
-**C** - Quando queremos saber o valor restante após uma divisão inteira, empregamos o operador módulo (`%`):
+### Programando em: C
+
+- Quando queremos saber o valor restante após uma divisão inteira, empregamos o operador módulo (`%`):
 
 ```c
 int main() {
@@ -174,13 +176,17 @@ int main() {
 }
 ```
 
-**Python** - Quando queremos saber o valor restante após uma divisão inteira, empregamos o operador módulo (`%`):
+### Programando em: Python
+
+- Quando queremos saber o valor restante após uma divisão inteira, empregamos o operador módulo (`%`):
 
 ```py
 resto = dividendo % divisor
 ```
 
-**TypeScript** - Quando queremos saber o valor restante após uma divisão inteira, empregamos o operador módulo (`%`).:
+### Programando em: TypeScript
+
+- Quando queremos saber o valor restante após uma divisão inteira, empregamos o operador módulo (`%`).:
 
 ```ts
 let resto = dividendo % divisor;

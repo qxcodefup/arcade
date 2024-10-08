@@ -77,7 +77,9 @@ SIM
 
 ### Dicas
 
-**C** - Use o operador de módulo `%` para verificar se um número é múltiplo de 7:
+### Programando em: C
+
+- Use o operador de módulo `%` para verificar se um número é múltiplo de 7:
 
 ```c
 int main() {
@@ -86,7 +88,9 @@ int main() {
 }
 ```
 
-**Python** - Utilize o operador % para determinar se o número é divisível por 7:
+### Programando em: Python
+
+- Utilize o operador % para determinar se o número é divisível por 7:
 
 ```py
 if numero % 7 == 0:
@@ -95,7 +99,9 @@ else:
     print("NAO")
 ```
 
-**TypeScript** - Em TypeScript, o operador % funciona da mesma maneira:
+Programando em: TypeScript
+
+- Em TypeScript, o operador % funciona da mesma maneira:
 
 ```ts
 if (numero % 7 === 0) {

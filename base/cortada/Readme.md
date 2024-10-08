@@ -28,7 +28,7 @@ O corte reto vai começar na base a uma distância de B centímetros a partir do
   - 2, se Marzia ficou com o pedaço que vale 100 reais; ou
   - 0, se o valor da nota se perdeu.
 
->>>>>>>> INSERTtes
+## Testes
 
 ```py
 >>>>>>>> INSERT
@@ -38,7 +38,6 @@ O corte reto vai começar na base a uma distância de B centímetros a partir do
 2
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT
@@ -48,7 +47,6 @@ O corte reto vai começar na base a uma distância de B centímetros a partir do
 0
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT

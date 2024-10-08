@@ -61,7 +61,9 @@ Caso sua linguagem tenha uma função pronta para esse problema, como max(), uti
 
 ## Dicas
 
-**C** -  O método `fmax()` da biblioteca `math.h` pode ajudar a encontrar o maior número:
+### Programando em: C
+
+- O método `fmax()` da biblioteca `math.h` pode ajudar a encontrar o maior número:
 
 ```c
 #include <math.h>
@@ -70,13 +72,17 @@ int main() {
 }
 ```
 
-**Python** - Utilize a função `max()` para encontrar o maior número:
+### Programando em: Python
+
+- Utilize a função `max()` para encontrar o maior número:
 
 ```py
 maior = max(a, b)
 ```
 
-**TypeScript** - A função `Math.max()` retornará o maior valor entre os números:
+### Programando em: TypeScript
+
+- A função `Math.max()` retornará o maior valor entre os números:
 
 ```ts
 let maior: number = Math.max(a, b);

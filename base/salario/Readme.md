@@ -51,7 +51,9 @@ Receba o valor do salário atual do funcionário e imprima o novo salário de ac
 
 ## Dicas
 
->>>>>>>> INSERT- Para exibir um número de ponto flutuante, do tipo `float`, com duas casas decimais em C, utilize o especificador de formato `%.2f` na função `printf`. O número **2** após o ponto indica a quantidade de casas decimais a serem exibidas.
+### Programando em: C
+
+- Para exibir um número de ponto flutuante, do tipo `float`, com duas casas decimais em C, utilize o especificador de formato `%.2f` na função `printf`. O número **2** após o ponto indica a quantidade de casas decimais a serem exibidas.
 
 ```c
 int main() {
@@ -60,7 +62,9 @@ int main() {
 }
 ```
 
-**Python** - Para exibir um número de ponto flutuante com duas casas decimais em Python, utilize o formato `:.2f` dentro da função `print`. O número **2** após o ponto indica o número de casas decimais que serão exibidas:
+### Programando em: Python
+
+- Para exibir um número de ponto flutuante com duas casas decimais em Python, utilize o formato `:.2f` dentro da função `print`. O número **2** após o ponto indica o número de casas decimais que serão exibidas:
 
 ```py
 print(f"{resultado:.2f}")
@@ -70,7 +74,9 @@ print(f"{resultado:.2f}")
 print("{:.2f}".format(resultado))
 ```
 
-**TypeScript** - Para exibir um número com duas casas decimais em TypeScript, utilize o método `toFixed(2)` do objeto `Number`. O número **2** especifica a quantidade de casas decimais que serão exibidas após o ponto decimal:
+### Programando em: TypeScript
+
+- Para exibir um número com duas casas decimais em TypeScript, utilize o método `toFixed(2)` do objeto `Number`. O número **2** especifica a quantidade de casas decimais que serão exibidas após o ponto decimal:
 
 ```ts
 console.log(resultado.toFixed(2)); 

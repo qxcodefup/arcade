@@ -30,7 +30,7 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 - 3 ≤ N ≤ 100
 - 1 ≤ D,A ≤ N
 
->>>>>>>> INSERTmplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT
@@ -41,7 +41,6 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 1
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT
@@ -52,7 +51,6 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 15
 <<<<<<<< FINISH
 ```
->>>>>>> fix_model
 
 ```py
 >>>>>>>> INSERT

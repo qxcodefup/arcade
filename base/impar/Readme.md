@@ -37,9 +37,6 @@ Seu programa deve determinar quem ganhou, tendo a informação de quem gritou pa
 >>>>>>>> INSERT
 0
 0
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 3
 ======== EXPECT
 1
@@ -50,9 +47,6 @@ Seu programa deve determinar quem ganhou, tendo a informação de quem gritou pa
 >>>>>>>> INSERT
 1
 0
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 3
 ======== EXPECT
 0
@@ -63,9 +57,6 @@ Seu programa deve determinar quem ganhou, tendo a informação de quem gritou pa
 >>>>>>>> INSERT
 0
 1
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 5
 ======== EXPECT
 0

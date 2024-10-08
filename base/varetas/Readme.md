@@ -11,7 +11,7 @@ Leia os comprimentos das três varetas e verifique se é possível formar um tri
 ### Entradas
 
 - 3 valores inteiros, representando os tamanhos das varetas, cada um em uma linha.
->>>>>>>> INSERT
+
 ### Saída
 
 - Use "True" (verdadeiro) ou "False" (falso), indicando se é possível formar um triângulo com as varetas.
@@ -21,7 +21,7 @@ Leia os comprimentos das três varetas e verifique se é possível formar um tri
 ``` py
 >>>>>>>> INSERT
 4
->>>>>>>> INSERT
+7
 18
 ======== EXPECT
 False
@@ -31,7 +31,7 @@ False
 ```py
 >>>>>>>> INSERT
 16
->>>>>>>> INSERT
+14
 16
 ======== EXPECT
 True
@@ -41,7 +41,7 @@ True
 ```py
 >>>>>>>> INSERT
 7
->>>>>>>> INSERT
+13
 10
 ======== EXPECT
 True
@@ -51,10 +51,9 @@ True
 ```py
 >>>>>>>> INSERT
 2
->>>>>>>> INSERT
+3
 8
 ======== EXPECT
 False
 <<<<<<<< FINISH
 ```
->>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT>>>>>>>> INSERT

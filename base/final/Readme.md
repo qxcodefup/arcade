@@ -36,9 +36,6 @@ Agora, implemente um programa que siga essas regras e decida automaticamente seu
 >>>>>>>> INSERT
 8
 8
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 9
 ======== EXPECT
 aprovado
@@ -49,9 +46,6 @@ aprovado
 >>>>>>>> INSERT
 8
 2
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 9
 ======== EXPECT
 aprovado na final
@@ -62,9 +56,6 @@ aprovado na final
 >>>>>>>> INSERT
 4
 2
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 9
 ======== EXPECT
 reprovado
@@ -75,9 +66,6 @@ reprovado
 >>>>>>>> INSERT
 4
 8
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 3
 ======== EXPECT
 reprovado na final

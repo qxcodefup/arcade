@@ -10,31 +10,37 @@ As atividades normalmente são utilizadas dentro do Moodle utilizando o plugin d
 Também pode executá-las diretamente no seu computador ou no replit através do [TKO](https://github.com/senapk/tko).  
 
 <!-- toc -->
-- [Caminho Base](#caminho-base)
-  - [Missão: Operações](#missão---operações)
-  - [Missão: Seleção I](#missão---seleção-i)
-  - [Missão: Seleção II](#missão---seleção-ii)
-  - [Missão: Repetição I](#missão---repetição-i)
-  - [Missão: Repetição II](#missão---repetição-ii)
-  - [Missão: Vetores I](#missão---vetores-i)
-  - [Missão: Vetores II](#missão---vetores-ii)
-  - [Missão: Vetores III](#missão---vetores-iii)
-  - [Missão: Strings](#missão---strings)
-- [Extra](#extra)
-  - [Operações - extra](#operações---extra)
-  - [Seleção - extra](#seleção---extra)
-  - [Repetição - extra](#repetição---extra)
-  - [Vetores - extra](#vetores---extra)
-  - [Vetores: Lógica](#vetores-lógica)
-  - [Strings I](#strings-i)
-  - [Strings II](#strings-ii)
-  - [Strings III](#strings-iii)
-  - [Matrizes I](#matrizes-i)
-  - [Matrizes II](#matrizes-ii)
-  - [Ponteiros](#ponteiros)
-  - [Recursão](#recursão)
-  - [Structs](#structs)
+- [Campanha Principal](#campanha-principal)
+  - [Missão: Operações](#missão-operações)
+  - [Missão: Seleção I[](#missão-operações)](#missão-seleção-imissão-operações)
+  - [Missão: Seleção II[](#missão-seleção-i)](#missão-seleção-iimissão-seleção-i)
+  - [Missão: Repetição I[](#missão-seleção-i)](#missão-repetição-imissão-seleção-i)
+  - [Missão: Repetição II[](#missão-repetição-i)](#missão-repetição-iimissão-repetição-i)
+  - [Missão: Vetores I[](#missão-repetição-i)](#missão-vetores-imissão-repetição-i)
+  - [Missão: Vetores II[](#missão-vetores-i)](#missão-vetores-iimissão-vetores-i)
+  - [Missão: Vetores III[](#missão-vetores-iii)](#missão-vetores-iiimissão-vetores-iii)
+  - [Missão: Strings[](#missão-vetores-i)](#missão-stringsmissão-vetores-i)
+- [Repositório de Problemas](#repositório-de-problemas)
+  - [Problemas: Operações[](#missão-operações)](#problemas-operaçõesmissão-operações)
+  - [Problemas: Seleção[](#missão-seleção-ii)](#problemas-seleçãomissão-seleção-ii)
+  - [Problemas: Repetição[](#missão-repetição-ii)](#problemas-repetiçãomissão-repetição-ii)
+  - [Problemas: Vetores I[](#missão-vetores-ii)](#problemas-vetores-imissão-vetores-ii)
+  - [Problemas: Vetores II[](#missão-vetores-ii)](#problemas-vetores-iimissão-vetores-ii)
+  - [Problemas: Strings I[](#missão-strings)](#problemas-strings-imissão-strings)
+  - [Problemas: Strings II[](#missão-strings)](#problemas-strings-iimissão-strings)
+  - [Problemas: Strings III[](#missão-strings)](#problemas-strings-iiimissão-strings)
+  - [Problemas: Matrizes I[](#missão-vetores-i)](#problemas-matrizes-imissão-vetores-i)
+  - [Problemas Matrizes II[](#problemas-matrizes-i)](#problemas-matrizes-iiproblemas-matrizes-i)
+  - [Problemas: Structs[](#problemas-vetores-i)](#problemas-structsproblemas-vetores-i)
+  - [Problemas: Recursão[](#problemas-vetores-i)](#problemas-recursãoproblemas-vetores-i)
   - [Em construção](#em-construção)
+- [Linguagem C ](#linguagem-c-)
+  - [C: Ponteiros](#c-ponteiros)
+  - [C: Structs](#c-structs)
+  - [C: Recursão](#c-recursão)
+- [Linguagem TS](#linguagem-ts)
+  - [TS: Intrudução](#ts-intrudução)
+  - [TS: Arrays](#ts-arrays)
 <!-- toc -->
 
 ## Campanha Principal<!-- group -->
@@ -129,7 +135,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L3 [@parkour](base/parkour/Readme.md)
 - [ ] L3 [@medico - Busca por proximidade](base/medico/Readme.md)
 
-### Missão: Vetores III<!-- +vet:20 -->[](#missão-vetores-iii)
+### Missão: Vetores III<!-- +vet:20 -->[](#missão-vetores-ii)
 
 - [ ] L3 [@batraquios - está contido](base/batraquios/Readme.md)
 - [ ] L3 [@baruel - figurinhas repetidas](base/baruel/Readme.md)
@@ -321,7 +327,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] L2 [@fatoracao - Fatoração](base/fatoracao/Readme.md)
 - [ ] L3 [@somas - Soma de vários números](base/somas/Readme.md)
 
-## Linguagem C <!-- group -->
+## Linguagem C<!-- group -->
 
 ### C: Ponteiros<!-- -->
 
@@ -349,12 +355,12 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 
 ### TS: Intrudução<!---->
 
-- [ ] L0 [@ts_intro_leitura Tipos de dados e variáveis](wiki/ts_base/fup_leitura.md)
-- [ ] L0 [@ts_intro_pesquisa Teste de conceitos](wiki/ts_base/fup_revisao.md)
-- [ ] L0 [@ts_intro_pratica Escrevendo códigos](wiki/ts_base/fup_pratica.md)
+- [ ] L0 [Revisão de FUP](wiki/ts_base/fup_leitura.md)
+- [ ] L0 [Revisão](wiki/ts_base/fup_revisao.md)
+- [ ] L0 [Prática](wiki/ts_base/fup_pratica.md)
 
 ### TS: Arrays<!---->
 
-- [ ] L0 [@ts_array_leitura Manipulando listas](wiki/ts_base/arrays_leitura.md)
-- [ ] L0 [@ts_array_perguntas Teste de conceitos](wiki/ts_base/arrays_revisao.md)
-- [ ] L0 [@ts_array_pratica Escrevendo códigos](wiki/ts_base/arrays_pratica.md)
+- [ ] L0 [Leitura arrays](wiki/ts_base/arrays_leitura.md)
+- [ ] L0 [Revisão Arrays](wiki/ts_base/arrays_revisao.md)
+- [ ] L0 [Arrays - Prática](wiki/ts_base/arrays_pratica.md)

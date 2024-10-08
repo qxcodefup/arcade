@@ -35,7 +35,7 @@ Receba três números inteiros distintos e determine qual deles é o valor inter
 ```py
 >>>>>>>> INSERT
 5
->>>>>>>> INSERT
+2
 4
 ======== EXPECT
 4
@@ -45,7 +45,7 @@ Receba três números inteiros distintos e determine qual deles é o valor inter
 ```py
 >>>>>>>> INSERT
 6
->>>>>>>> INSERT
+5
 7
 ======== EXPECT
 6
@@ -55,7 +55,7 @@ Receba três números inteiros distintos e determine qual deles é o valor inter
 ```py
 >>>>>>>> INSERT
 1
->>>>>>>> INSERT
+0
 6
 ======== EXPECT
 1
@@ -65,7 +65,7 @@ Receba três números inteiros distintos e determine qual deles é o valor inter
 ```py
 >>>>>>>> INSERT
 4
->>>>>>>> INSERT
+6
 5
 ======== EXPECT
 5

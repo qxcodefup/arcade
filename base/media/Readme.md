@@ -64,7 +64,9 @@ deles.
 
 ## Dicas
 
-**C** - Para exibir um número de ponto flutuante do tipo `float` com apenas uma casa decimal em C, use o especificador de formato `%.1f` na função `printf`. O número **1** após o ponto indica o número de casas decimais a serem exibidas.
+### Programando em: C
+
+- Para exibir um número de ponto flutuante do tipo `float` com apenas uma casa decimal em C, use o especificador de formato `%.1f` na função `printf`. O número **1** após o ponto indica o número de casas decimais a serem exibidas.
 
 ```c
 int main() {
@@ -72,7 +74,9 @@ int main() {
 }
 ```
 
-**Python** - Para exibir um número de ponto flutuante com apenas uma casa decimal em Python, use o formato `:.1f` na função `print`. O número **1** após o ponto indica o número de casas decimais que serão exibidas:
+### Programando em: Python
+
+- Para exibir um número de ponto flutuante com apenas uma casa decimal em Python, use o formato `:.1f` na função `print`. O número **1** após o ponto indica o número de casas decimais que serão exibidas:
 
 ```py
 print(f"{resultado:.1f}")
@@ -80,7 +84,9 @@ print(f"{resultado:.1f}")
 print("{:.1f}".format(resultado))
 ```
 
-**TypeScript** - Para exibir um número com apenas uma casa decimal em TypeScript, use o método `toFixed(1)`. O número **1** indica o número de casas decimais que serão exibidas.
+### Programando em: TypeScript
+
+- Para exibir um número com apenas uma casa decimal em TypeScript, use o método `toFixed(1)`. O número **1** indica o número de casas decimais que serão exibidas.
 
 ```ts
 console.log(resultado.toFixed(1)); 

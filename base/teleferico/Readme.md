@@ -27,9 +27,6 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 ``` py
 >>>>>>>> INSERT
 5
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 4
 ======== EXPECT
 1
@@ -39,9 +36,6 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 ```py
 >>>>>>>> INSERT
 5
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 8
 ======== EXPECT
 2
@@ -51,20 +45,15 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 ```py
 >>>>>>>> INSERT
 5
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 9
 ======== EXPECT
 3
 <<<<<<<< FINISH
+```
 
-
+```py
 >>>>>>>> INSERT 01
 10
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 20
 ======== EXPECT
 3
@@ -74,9 +63,6 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 ```py
 >>>>>>>> INSERT 02
 12
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 55
 ======== EXPECT
 5
@@ -86,9 +72,6 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 ```py
 >>>>>>>> INSERT 03
 100
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 87
 ======== EXPECT
 1
@@ -107,4 +90,6 @@ Assim, o número de viagens é o total de alunos dividido pela quantidade de esp
 
 ## Resolusão
 
-[Vídeo em C++](https://www.youtube.com/watch?v=w0oyrmeYHjY)
+### Em C++
+
+- [Vídeo](https://www.youtube.com/watch?v=w0oyrmeYHjY)

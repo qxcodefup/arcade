@@ -95,9 +95,11 @@ done
 
 ```
 
-### Dicas
+## Dicas
 
-**C** - É possível utilizar verificações simples para verificar cada condição individualmente. Em valores booleanos, 0 é considerado falso (`false`) e qualquer valor diferente de 0 é verdadeiro (`true`). O símbolo `!` indica a negação de uma condição, ou seja, espera-se que a condição seja falsa:
+### Programando em: C
+
+- É possível utilizar verificações simples para verificar cada condição individualmente. Em valores booleanos, 0 é considerado falso (`false`) e qualquer valor diferente de 0 é verdadeiro (`true`). O símbolo `!` indica a negação de uma condição, ou seja, espera-se que a condição seja falsa:
 
 ```c
 int main() {
@@ -107,14 +109,18 @@ int main() {
 }
 ```
 
-**Python** - Podemos utilizar verificações simples para avaliar cada condição individualmente. Valores numéricos diferentes de zero são interpretados como True, enquanto zero é considerado False. O operador not é utilizado para negar uma condição
+### Programando em: Python
+
+- Podemos utilizar verificações simples para avaliar cada condição individualmente. Valores numéricos diferentes de zero são interpretados como True, enquanto zero é considerado False. O operador not é utilizado para negar uma condição
 
 ```py
 if not wifi:
     print("you must connect to wifi")
 ```
 
-**TypeScript** - podemos utilizar verificações simples para avaliar cada condição individualmente. Valores numéricos diferentes de zero são interpretados como `true` em contextos booleanos, enquanto zero é considerado `false`. O operador `!` (exclamação) inverte o valor booleano de uma expressão.
+### Programando em: TypeScript
+
+- podemos utilizar verificações simples para avaliar cada condição individualmente. Valores numéricos diferentes de zero são interpretados como `true` em contextos booleanos, enquanto zero é considerado `false`. O operador `!` (exclamação) inverte o valor booleano de uma expressão.
 
 ```ts
 if (!wifi) {
