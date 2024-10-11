@@ -330,12 +330,12 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 
 ## Linguagem C<!-- group -->
 
-### CLings - Conserte e Aprenda<!-- -->
+### CLings: Conserte e Aprenda<!-- -->
 
-- [] [@c001hello](clings/c001hello/Readme.md)
-- [] [@c002comentarios](clings/c002comentarios/Readme.md)
-- [] [@c003pontuacao](clings/c003pontuacao/Readme.md)
-- [] [@c003pontuacao](clings/c004especiais/Readme.md)
+- [ ] [@c001hello](clings/c001hello/Readme.md)
+- [ ] [@c002comentarios](clings/c002comentarios/Readme.md)
+- [ ] [@c003pontuacao](clings/c003pontuacao/Readme.md)
+- [ ] [@c004especiais](clings/c004especiais/Readme.md)
 
 ### C: Ponteiros<!-- -->
 
