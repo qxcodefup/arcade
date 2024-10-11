@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-## Ação
+## Contexto
 
 Muitas vezes precisamos imprimir uma sequência de números inteiros dentro de um intervalo, excluindo o valor de limite superior. Esse exercício vai te ajudar a praticar o uso de loops para imprimir valores entre dois números.
 

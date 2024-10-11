@@ -2,7 +2,7 @@
 
 ![Imagem Quantos Sobrou](cover.jpg)
 
-## Ação
+## Contexto
 
 Suponha a situação que uma pessoa recebe uma lista com o preço e a
 quantidade de três produtos que ela deve comprar. Ela recebe uma certa quantia

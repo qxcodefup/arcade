@@ -1,27 +1,30 @@
 # @ceu - Ingrid quer chegar no céu
 
-Professora Ingrid conta que nas suas brinceiras de criança sempre estavam presentes atividades físicas lúdicas. Uma das suas favoritas era pular amarelinha.
+![_](cover.jpg)
 
-Na versão simplificada, a criança joga a pedra em um número e depois tem que ir pulando um número por vez, sem pisar no número que caiu a pedra até chegar no fim da trilha. O primeiro número é o zero, o último número é o 10. Mas ao invés de dizer 10, as crianças dizem céu.
+## Contexto
 
-Vamos supor que a criança jogou a pedra no 8. A contagem fica assim:
+A professora Ingrid conta que, em suas brincadeiras de criança, uma das suas atividades favoritas era pular amarelinha. Na versão simplificada, a criança joga a pedra em um número e depois tem que ir pulando um número por vez, sem pisar no número onde a pedra caiu, até chegar ao fim da trilha.
 
-0 1 2 3 4 5 6 7 9 ceu
+Na brincadeira, o primeiro número é o 0 e o último número é o 10, que as crianças chamam de "céu".
 
-Se a criança jogar a pedra no 10, a contagem fica assim:
+Vamos ajudá-la a simular essa brincadeira, listando os números que ela deve dizer, excluindo o número onde a pedra caiu.
 
-0 1 2 3 4 5 6 7 8 9
+Dado um número N onde a pedra caiu, você deve imprimir os números que a criança deve dizer, do 0 até o "céu" (representado pelo número 10), excluindo o número onde a pedra caiu.
 
-### Entrada e Saída 
+Se a pedra cair no número 10, não há necessidade de imprimir "céu", pois o número 10 é o último da sequência.
 
-- Entrada
-  - 1a linha: número N que caiu a pedra
-- Saída
-  - lista dos números que a criança deve dizer, iniciando com \[ e terminando com \]
+### Entrada
 
-## Restrições
+- Um número inteiro N representando onde a pedra caiu.
 
-- Valor de N é um número inteiro de \[0, 10\].
+### Saída
+
+- Uma lista de números inteiros entre **0** e **9**, substituindo o número **10** por **"céu"**, excluindo o número **N**.
+
+### Restrições
+
+- O número **N** será um número inteiro no intervalo **[0, 10]**.
 
 ## Testes
 

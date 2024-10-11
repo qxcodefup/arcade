@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
 Três esquilos gêmeos brincavam num toquinho de árvore quando de repente aparece uma raposa faminta. A raposa pula de um sopapo, encara e encurrala os três e eles percebem que não haverá fuga para todos. Alguém vai acabar morrendo naquele encontro.
 

@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
 Não sei se você amava ou odiava o tal do Bhaskara por inventar aquela fórmula das raízes. Agora é hora de implementar aquela conta pra nunca ter mais que fazer na mão.
 

@@ -1,8 +1,8 @@
 # @nulo - positivo ou negativo
 
-![Imagem eh Positivo](cover.jpg)
+![_](cover.jpg)
 
-## Ação
+## Contexto
 
 Distinguir se um número é positivo, negativo ou nulo é uma das verificações mais básicas em problemas de programação. Isso pode ser útil para determinar ações em diferentes condições. Implemente um programa que recebe um número inteiro e determine se ele é positivo, negativo ou nulo, imprimindo um símbolo apropriado.
 

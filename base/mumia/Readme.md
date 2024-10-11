@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
 Em um projeto escolar, um professor precisa classificar os alunos de acordo com suas idades. A tarefa é determinar se um aluno é uma criança, jovem, adulto, idoso ou uma múmia, com base em regras específicas. O professor gostaria que a implementação fosse feita de forma clara e eficiente.
 

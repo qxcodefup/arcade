@@ -1,26 +1,31 @@
 # @zigzag - Viunei e a saúde mental
 
-Viunei chegou num grupo de alunos que estavam rolando seus feeds do Insta e disse de forma muito polida.
+![_](cover.jpg)
 
-\- Vocês precisam cuidar da saúde mental de vocês pessoal, ficar só aí rolando o feed vai deixar todos vocês com cérebro de pipoca. Toda competência cognitiva que não é utilizada regride.
-\- Mas não tem o que fazer profs, a gente tá esperando o ônibus.
-\- Olhe, quando eu era garoto e não tinha o que fazer, eu jogova zigzag com o pessoal. Pode parecer bobo, mas é ótimo pra superar a fricção límbica associada à atividades em grupo.
+## Contexto
 
----
+Viunei, ao ver seus alunos rolando feeds sem parar enquanto esperavam o ônibus, sugeriu uma solução para melhorar a saúde mental deles. Ele contou que, quando era jovem, jogava um jogo de atenção chamado "zigzag" com seus amigos. Esse jogo estimulava as habilidades cognitivas e ajudava a superar a inatividade.
 
-Existem muitas variações de jogos de atenção para jogar em grupo. Um famoso é o zigzag. Nesse jogo, as pessoas formam um grupo circular e começam a dizer número em sequência com algumas regras.
+O jogo funciona de forma simples: em um grupo, os participantes contam números em sequência, mas com algumas regras divertidas para aumentar o desafio.
 
-- Se o número for dívisível por 3, deve-se dizer zig ao invés do número.
-- Se o número for divisível por 5, deve-se dizer zag ao invés do número.
-- Se for divisível por 3 e por 5, deve-se dizer zigzag ao invés do número.
+Dado um intervalo de números, aplique as seguintes regras de substituição:
 
-### Entrada e saída
+- Se o número for divisível por 3, deve-se dizer **zig** em vez do número.
+- Se o número for divisível por 5, deve-se dizer **zag** em vez do número.
+- Se o número for divisível por 3 e por 5, deve-se dizer **zigzag** em vez do número.
 
-- Entrada
-  - 1a linha: início da sequência
-  - 2a linha: fim da sequência
-- Saída
-  - Sequencia, um número por linha, mas fazendo as substituições
+### Entrada
+
+- A primeira linha contém o número de início da sequência.
+- A segunda linha contém o número de fim da sequência.
+
+### Saída
+
+- Para cada número no intervalo, imprimir:
+  - O número original, se não for divisível por 3 ou 5.
+  - A palavra **"zig"** se o número for divisível por 3.
+  - A palavra **"zag"** se o número for divisível por 5.
+  - A palavra **"zigzag"** se o número for divisível por 3 e 5.
 
 ## Testes
 

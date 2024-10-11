@@ -2,7 +2,7 @@
 
 ![Imagem eh o número 3](cover.jpg)
 
-## Ação
+## Contexto
 
 Implemente um programa que recebe um número inteiro e imprime "SIM" caso ele seja o número 3 ou o número 5. Caso contrário, imprima "NAO". Isso ajuda a aprender a trabalhar com comparações e tomadas de decisão
 

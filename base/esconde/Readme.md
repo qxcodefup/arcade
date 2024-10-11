@@ -1,21 +1,26 @@
 # @esconde - Diana no esconde-esconde
 
-Diana quando jogava esconde-esconde, achava terrível porque o Paulo Victor contava bem rápido até 10 e já saia correndo pra pegar o povo.
+![_](cover.jpg)
 
-Para tentar fazer a contagem demorar mais, ela inventou que ele deveria contar até o número combinado, dizendo só os ímpares, e depois devia contar voltando, dizendo só os pares.
+## Contexto
 
-Pra garantir que ele contasse direito, ele deixou a Ingrid de vigia e Paulo só poderia sair depois que terminasse a contagem.
+Quando Diana jogava esconde-esconde, ela achava que o Paulo Victor contava rápido demais. Para resolver o problema, Diana inventou uma regra: Paulo deveria contar até o número combinado dizendo apenas os números ímpares na ida, e depois contar de volta dizendo apenas os números pares.
 
-### Entrada e Saída
+Para garantir que a contagem fosse feita corretamente, Ingrid ficava de vigia, e Paulo só poderia sair após terminar a contagem.
 
-- Entrada
-  - 1a linha: número alvo N
-- Saída
-  - Impares de 0 até N, depois pares de N até 0, um por linha
+Dado um número N ímpar, a tarefa é imprimir a sequência de números ímpares de 1 até N na ida, seguida pelos números pares de N até 0 na volta.
 
-## Restrição
+### Entrada
 
-- O número N sempre será ímpar.
+- Um número inteiro **N**.
+
+### Saída
+
+- A sequência dos números ímpares de 1 até **N**, seguidos pelos números pares de **N** até 0, cada número em uma nova linha.
+
+### Restrição
+
+- O número **N** será sempre um número ímpar.
 
 ## Testes
 

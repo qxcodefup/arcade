@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
 Chico deseja coletar todas as frutas do quintal vizinho. Porém, sem que seu vizinho o veja.
 Para isso, Chico precisa saber exatamente quanto tempo ele irá gastar na coleta.

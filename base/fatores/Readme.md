@@ -2,9 +2,17 @@
 
 ![_](cover.jpg)
 
-## Ação
+## Contexto
 
-Leia um inteiro e mostre os fatores e a quantidade de vezes que eles aparecem na fatoração.
+Dado um número inteiro, o objetivo é encontrar seus fatores primos e a quantidade de vezes que cada fator aparece na sua fatoração.
+
+### Entrada
+
+- Um número inteiro **N**.
+
+### Saída
+
+- Os fatores primos de **N** e a quantidade de vezes que eles aparecem na fatoração. Cada fator e sua quantidade devem ser impressos em uma linha, com o fator seguido pelo número de vezes que aparece.
 
 ## Testes
 

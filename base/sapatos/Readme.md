@@ -2,21 +2,24 @@
 
 ![_](cover.jpg)
 
-Leia dois números A e B.
+## Contexto
 
-Depois, some os números que são divisíveis por 2 e divisíveis por 3 que estão entre A e B, inclusive A e B.
+Imagine que você tem uma pilha de sapatos e deseja separá-los em pares, mas também quer garantir que esses pares sejam especiais: só aqueles divisíveis por 2 e por 3. Vamos resolver isso somando todos os números que atendem a esses critérios entre dois valores dados.
+
+Dado dois números inteiros **A** e **B**, some todos os números que são divisíveis por **2** e por **3** entre **A** e **B**, inclusive **A** e **B**.
 
 ### Entrada
 
-- Dois números inteiros A e B, sendo B maior que A.
+- Dois números inteiros **A** e **B**, sendo **B** maior que **A**.
 
-## Saída
+### Saída
 
-- A soma de todos os números pares divisíveis por 3 ou "invalido" caso A seja maior que B.
+- A soma de todos os números divisíveis por **2** e por **3** que estão entre **A** e **B**, inclusive **A** e **B**.
+- Se **A** for maior que **B**, imprima **"invalido"**.
 
-### Exemplos
+## Testes
 
-``` py
+```py
 >>>>>>>> INSERT 01
 1
 20
@@ -51,3 +54,7 @@ invalido
 6
 <<<<<<<< FINISH
 ```
+
+## Dicas
+
+Para verificar se um número é divisível tanto por 2 quanto por 3, utilize o operador de módulo `%` em suas condições de checagem.

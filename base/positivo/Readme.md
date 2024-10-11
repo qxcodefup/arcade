@@ -1,8 +1,8 @@
 # @positivo - sim ou não
 
-![Maior que Zero](cover.jpg)
+![_](cover.jpg)
 
-## Ação
+## Contexto
 
 Em muitas aplicações, precisamos verificar se um número é positivo ou não para tomar decisões. Por exemplo, ao validar se uma quantidade ou saldo está em condições aceitáveis.
 

@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
 Três competidores olímpicos de arremesso de disco tinham desempenhos muito parecidos. Constantemente eles jogavam os discos à mesma distância. Decidiram então criar um algoritmo que informava quantos deles tinham conseguido o mesmo resultado.
 

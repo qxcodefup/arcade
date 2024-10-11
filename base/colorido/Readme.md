@@ -1,32 +1,33 @@
 # @colorido - Paulo Victor e seu sapato colorido
 
-Professora Ingrid conta que nas suas brinceiras de criança sempre estavam presentes atividades físicas lúdicas. Uma das suas favoritas era pular amarelinha.
+![_](cover.jpg)
 
-Na versão simplificada, a criança joga a pedra em um número e depois tem que ir pulando um número por vez, sem pisar no número que caiu a pedra até chegar no fim da trilha. O primeiro número é o zero, o último número é o 10. Mas ao invés de dizer 10, as crianças dizem céu.
+## Contexto
 
-Um dia, ela estava brincando, quando Paulo Victor chegou com seu sapato colorido querendo fazer inveja. Depois de mostrar a roupinha nova que ele ganhou toda combinando, ele ainda quiz arengar dizendo que eles eram um bando de abestados que nem sabiam jogar direito.  E foi ensinar o jeito "certo dele" de jogar.
+Nas brincadeiras de infância, a professora Ingrid adorava pular amarelinha. Um dia, Paulo Victor apareceu com seu sapato colorido e inventou uma nova regra para a brincadeira: alternar os pés a cada pulo até chegar ao "céu". As crianças seguiram sua regra, onde o desafio não era apenas pular, mas também lembrar qual pé usar.
 
-Se você começar com o pé direito, tem que ir alternando direito e esquerdo até chegar no céu.
+O jogo consiste em alternar os pés (direito ou esquerdo) a cada número, excluindo o número em que caiu a pedra e indo até o número 10, que é chamado de "céu". O jogador começa com um pé definido (direito ou esquerdo) e alterna até o fim.
 
-Vamos supor que a criança jogou a pedra no 8 e começou com o pé esquerdo. A sequência fica assim:
+Se a pedra cair no 8 e o jogador começar com o pé esquerdo, a sequência será:
 
+```py
 0e 1d 2e 3d 4e 5d 6e 7d 9e ceu
+```
 
-Se a criança jogar a pedra no 0 e começa com o pé direito, a contagem fica assim:
+Agora, você deve programar esse jogo de acordo com as regras de Paulo Victor.
 
-1d 2e 3d 4e 5d 6e 7d 8e 9d ceu
+### Entrada
 
-### Entrada e Saída
+- **Primeira linha:** número **N** que caiu a pedra.
+- **Segunda linha:** letra **"d"** ou **"e"**, indicando com qual pé o jogador começa (direito ou esquerdo).
 
-- Entrada
-  - 1a linha: número N que caiu a pedra
-  - 2a linha: qual pé a criança começa
-- Saída
-  - lista dos números que a criança deve percorrer e qual pé ele deve pisar, iniciando com \[ e terminando com \]
+### Saída
 
-## Restrições
+- Uma lista dos números e o pé correspondente que a criança deve pisar, entre colchetes, até o "céu". Se a pedra caiu no número 10, imprime os números até o 9 sem incluir "céu".
 
-- Valor de N é um número inteiro de \[0, 10\].
+### Restrições
+
+- O valor de **N** é um número inteiro entre **0** e **10**, inclusive.
 
 ## Testes
 
@@ -82,9 +83,4 @@ e
 ======== EXPECT
 [ 0e 1d 2e 3d 4e 5d 6e 7d 8e 9d ]
 <<<<<<<< FINISH
-
 ```
-
-## Extra
-
-Depois que cresceu, Paulo deixou de arengar e virou mó gente boa, mas nunca perdeu o estilo.

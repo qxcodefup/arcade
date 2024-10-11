@@ -2,7 +2,7 @@
 
 ![Imagem Conversor Celsius para Fahrenheit](cover.jpg)
 
-## Ação
+## Contexto
 
 No Brasil, a unidade de temperatura que utilizamos é o grau Celsius (ºC),
 diferente dos países de origem inglesa. Nesses países, a unidade usual é o

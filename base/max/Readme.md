@@ -2,7 +2,7 @@
 
 ![abs](cover.jpg)
 
-## Acão
+## Contexto
 
 Frequentemente, precisamos comparar valores numéricos para determinar o maior entre eles. Isso é útil em diversas aplicações, desde cálculos financeiros até decisões de lógica em sistemas.
 

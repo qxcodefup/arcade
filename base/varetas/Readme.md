@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
 Você encontrou três varetas de tamanhos distintos no chão de casa e decidiu tentar formar um triângulo com elas. Para que isso seja possível, é necessário que nenhuma das varetas seja maior que a soma das outras duas. Então, você precisa determinar se as varetas podem formar um triângulo.
 

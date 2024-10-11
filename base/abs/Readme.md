@@ -1,8 +1,8 @@
 # @abs - Valor absoluto
 
-![abs](cover.jpg)
+![_](cover.jpg)
 
-## Ação
+## Contexto
 
 O valor absoluto de um número é o número sem o sinal de negativo. Por exemplo, o valor absoluto de -5 é 5 e o valor absoluto de 5 é 5.
 

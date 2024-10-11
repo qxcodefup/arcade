@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
 Você está tentando ensinar sua tartaruga Rufus a jogar pedra, papel e tesoura. Quer proporcionar algo divertido para ela durante os longos banhos de sol no açude. Mas para isso, você precisará de um programa que retorne o resultado do jogo de "Jokenpô" para resolver as disputas de Rufus com seus amigos.
 

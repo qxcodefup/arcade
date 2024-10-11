@@ -2,7 +2,7 @@
 
 ![Imagem Média de Dois Inteiros](cover.jpg)
 
-## Ação
+## Contexto
 
 Escreva um programa que recebe dois números inteiros e retorna a média aritmética
 deles.

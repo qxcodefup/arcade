@@ -2,7 +2,7 @@
 
 ![Imagem Teorema da Divisão](cover.png)
 
-## Ação
+## Contexto
 
 Na cadeira de Matemática Díscreta, o professor irá apresentar o teorema da
 divisão. Ele diz o seguinte:

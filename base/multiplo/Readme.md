@@ -1,8 +1,8 @@
 # @multiplo de sete
 
-![Imagem eh Positivo](cover.jpg)
+![_](cover.jpg)
 
-## Ação
+## Contexto
 
 Muitas vezes, em problemas matemáticos ou de programação, precisamos determinar se um número é múltiplo de outro para simplificar cálculos ou tomar decisões. Um exemplo clássico é verificar se um número é múltiplo de 7, o que pode ser útil em situações como regras de divisibilidade.
 

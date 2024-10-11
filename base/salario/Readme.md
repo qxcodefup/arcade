@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
 No mês de março, todos os funcionários da empresa recebem um aumento salarial, com percentuais maiores para quem ganha menos, para promover a equidade. O percentual de aumento depende da faixa salarial do funcionário, conforme as regras abaixo:
 

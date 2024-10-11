@@ -2,7 +2,7 @@
 
 ![Imagem Tempo em Horas, Minutos e Segundos](cover.jpg)
 
-## Ação
+## Contexto
 
 Em muitas situações do dia a dia, é necessário converter um tempo em segundos
 para horas e minutos.

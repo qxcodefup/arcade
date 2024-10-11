@@ -2,31 +2,28 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
-* Pai, a tia falou que na arca de noé os animais entravam aos pares. O que é pares papai?
-* Pares são números que formam um casalzinho. Tipo 2 passarinhos. Mas também vale pra vários pares tipo 4, 6, 8, 10, etc.
-* Papai, e se não tiver nenhum passarinho pra botar na arca, 0 é par?
+- Criança: Pai, a tia falou que na arca de Noé os animais entravam aos pares. O que é pares, papai?
+- Pai: Pares são números que formam um casalzinho. Tipo 2 passarinhos. Mas também vale para vários pares, como 4, 6, 8, 10, etc.
+- Criança: Papai, e se não tiver nenhum passarinho pra botar na arca, 0 é par?
 
-## Ação
+Essa pergunta nos leva a pensar nos números pares e como eles se comportam em diferentes intervalos de valores. Vamos explorar isso somando todos os números pares entre dois números inteiros.
 
-Some todos os números inteiros pares que estão entre A e B, inclusive A e B.
-
-## Zero é par?
-
-Descubra em [LINK](http://www.profcardy.com/cardicas/tirateima.php?id=1).
+Dado dois números inteiros **A** e **B**, some todos os números inteiros pares que estão entre **A** e **B**, inclusive **A** e **B**.
 
 ### Entrada
 
-* Dois números inteiros A e B, sendo B maior ou igual à A.
+- Dois números inteiros **A** e **B**, sendo **B** maior ou igual a **A**.
 
-## Saída
+### Saída
 
-* A soma de todos os números pares ou invalido caso A seja maior que B.
+- A soma de todos os números pares entre **A** e **B**, inclusive **A** e **B**.
+- Se **A** for maior que **B**, imprima **"invalido"**.
 
-## Exemplos
+## Testes
 
-``` py
+```py
 >>>>>>>> INSERT
 1
 10
@@ -61,3 +58,9 @@ invalido
 6
 <<<<<<<< FINISH
 ```
+
+## Dicas
+
+- Zero é par?
+
+Descubra mais em [LINK](http://www.profcardy.com/cardicas/tirateima.php?id=1).

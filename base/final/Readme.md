@@ -2,7 +2,7 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
 Imagine-se no fim do semestre, ansioso para saber se suas notas foram suficientes para passar direto ou se precisará fazer a temida prova final. Além disso, alguns colegas estão se perguntando se ainda têm chance de salvar o semestre com a nota da final, ou se já estão reprovados. Para evitar todo esse suspense, você decide criar um programa que, a partir das suas notas e da prova final (se for o caso), calcula se você está aprovado, reprovado ou se precisará da nota final para decidir seu destino.
 

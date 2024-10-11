@@ -2,7 +2,7 @@
 
 ![Imagem meteriologica](cover.jpg)
 
-## Ação
+## Contexto
 
 Você deve escrever um programa que recebe três números inteiros e retorna a soma desses três números.
 
