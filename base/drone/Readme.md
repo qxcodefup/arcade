@@ -1,4 +1,4 @@
-# @drone de Entrega - OBI 2017 - Fase 1
+# Dronede Entrega - OBI 2017 - Fase 1
 
 ![_](cover.jpg)
 

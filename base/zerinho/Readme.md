@@ -1,4 +1,4 @@
-# @zerinho ou Um
+# Zerinho ou Um
 
 ![_](cover.jpg)
 

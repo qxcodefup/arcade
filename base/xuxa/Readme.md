@@ -1,4 +1,4 @@
-# @xuxa - Inverter String
+# Inverter String
 
 ![_](cover.jpg)
 

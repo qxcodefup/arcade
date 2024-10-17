@@ -1,4 +1,4 @@
-# @colorido - Paulo Victor e seu sapato colorido
+# Paulo Victor e seu sapato colorido
 
 ![_](cover.jpg)
 

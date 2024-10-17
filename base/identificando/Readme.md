@@ -1,4 +1,4 @@
-# @identificando tipos
+# - Identificando tipos
 
 ![_](cover.jpg)
 

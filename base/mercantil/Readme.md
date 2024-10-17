@@ -1,4 +1,4 @@
-# @mercantil V3 - Muitas rodadas
+# Mercantil com muitas rodadas
 
 ![_](cover.jpg)
 

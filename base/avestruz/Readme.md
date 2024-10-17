@@ -1,4 +1,4 @@
-# @avestruz com Alcaparras - ignorar case
+# Avestruz com Alcaparras - ignorar case
 
 ![_](cover.jpg)
 

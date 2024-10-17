@@ -1,4 +1,4 @@
-# @maior - Hora do chute 2
+# Hora do chute 2
 
 ![Silvio Santos]( cover.jpg)
 

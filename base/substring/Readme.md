@@ -1,4 +1,4 @@
-# @substring - Obter Substrings
+# Obter Substrings
 
 ![_](cover.jpg)
 

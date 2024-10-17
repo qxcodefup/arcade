@@ -1,4 +1,4 @@
-# @batraquios - está contido
+# Está contido
 
 ![_](cover.jpg)
 

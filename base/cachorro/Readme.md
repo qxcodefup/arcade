@@ -1,4 +1,4 @@
-# @cachorro - Retirar espaços
+# Retirar espaços
 
 ![_](cover.jpg)
 

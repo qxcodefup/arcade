@@ -1,4 +1,4 @@
-# @baruel - figurinhas repetidas
+# Figurinhas repetidas
 
 ## Motivação
 

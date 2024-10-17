@@ -1,4 +1,4 @@
-# @resto - resultado e resto na divisão
+# Resultado e resto na divisão
 
 ![Imagem Teorema da Divisão](cover.png)
 

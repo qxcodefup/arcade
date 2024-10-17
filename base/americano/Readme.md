@@ -1,4 +1,4 @@
-# @americano - Zerim ou um
+# Zerim ou um americano
 
 ![_](cover.jpg)
 

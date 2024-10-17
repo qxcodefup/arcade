@@ -1,4 +1,4 @@
-# @ceu - Ingrid quer chegar no céu
+# Ingrid quer chegar no céu
 
 ![_](cover.jpg)
 

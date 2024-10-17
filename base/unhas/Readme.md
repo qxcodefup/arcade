@@ -1,4 +1,4 @@
-# @unhas - Vetor para inteiro
+# Vetor para inteiro
 
 ![_](cover.jpg)
 

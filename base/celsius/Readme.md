@@ -1,4 +1,4 @@
-# @celsius - conversor para Fahrenheit
+# Conversor para Fahrenheit
 
 ![Imagem Conversor Celsius para Fahrenheit](cover.jpg)
 

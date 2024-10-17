@@ -1,4 +1,4 @@
-# @disfarce - Identificando Ultrons V2
+# - Identificando Ultrons V2
 
 ![_](cover.jpg)
 

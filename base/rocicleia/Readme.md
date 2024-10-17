@@ -1,4 +1,4 @@
-# @rocicleia e o Locioreca - Anagramas
+# Rocicleia o Locioreca - Anagramas
 
 ![_](cover.jpg)
 

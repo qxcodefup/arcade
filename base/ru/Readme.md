@@ -1,4 +1,4 @@
-# @ru - Separando vogais de consoantes
+# Separando vogais de consoantes
 
 ![_](cover.jpg)
 

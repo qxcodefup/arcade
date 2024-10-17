@@ -1,4 +1,4 @@
-# @bolada na fuça
+# Bolada na fuça
 
 ![Resultado de imagem para haikyuu]( cover.jpg)
 

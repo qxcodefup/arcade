@@ -1,4 +1,4 @@
-# @taxi - Frota de taxi - OBI 2005
+# Frota de taxi - OBI 2005
 
 ![_](cover.jpg)
 

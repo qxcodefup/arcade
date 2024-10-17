@@ -1,4 +1,4 @@
-# @tokens - Separando a partir de tokens
+# Separando a partir de tokens
 
 ![_](cover.jpg)
 

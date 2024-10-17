@@ -1,4 +1,4 @@
-# @jokenpozao de 9
+# Jokenpo de 9
 
 ![_](cover.jpg)
 

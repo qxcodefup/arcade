@@ -1,4 +1,4 @@
-# @josephus  - Cabeças vão rolar
+# Cabeças vão rolar
 
 ![_](cover.jpg)
 

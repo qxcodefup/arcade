@@ -1,4 +1,4 @@
-# @loops - Módulo no ângulo Cartesiano
+# Módulo no ângulo Cartesiano
 
 ![_](cover.jpg)
 

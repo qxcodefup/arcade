@@ -1,4 +1,4 @@
-# @imperador - Deu a louca no imperador
+# Deu a louca no imperador
 
 ![_](cover.jpg)
 

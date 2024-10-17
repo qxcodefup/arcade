@@ -1,4 +1,4 @@
-# @multiplo de sete
+# Múltiplo de sete
 
 ![_](cover.jpg)
 

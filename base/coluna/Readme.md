@@ -1,4 +1,4 @@
-# @coluna de Valor Maior
+# Qual a coluna de maior valor
 
 ![_](cover.jpg)
 

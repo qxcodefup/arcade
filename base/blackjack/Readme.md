@@ -1,4 +1,4 @@
-# @blackjack 21
+# Conte as cartas no 21
 
 ![_](cover.jpg)
 

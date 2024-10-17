@@ -1,4 +1,4 @@
-# @sorvete suor casaca chicletes - Letras em Comum
+# Sorvete suor casaca chicletes - Letras em Comum
 
 ![_](cover.jpg)
 

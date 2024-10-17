@@ -1,4 +1,4 @@
-# @divisiveis - Verificar ambos
+# Verificar ambos
 
 ![_](cover.jpg)
 

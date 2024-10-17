@@ -1,4 +1,4 @@
-# @realoc - Vetor de strings com variados tamanhos
+# Vetor de strings com variados tamanhos
 
 ![_](cover.jpg)
 

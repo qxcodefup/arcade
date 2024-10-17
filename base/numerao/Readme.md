@@ -1,4 +1,4 @@
-# @numerao divisível por 11
+# Número divisível por 11
 
 ![_](cover.jpg)
 

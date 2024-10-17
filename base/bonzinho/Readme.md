@@ -1,4 +1,4 @@
-# @bonzinho - Professor
+# Professor
 
 ![_](cover.jpg)
 

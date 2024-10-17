@@ -1,4 +1,4 @@
-# @loop_i treino de loop
+# Treino de loop
 
 ![_](cover.jpg)
 
@@ -36,9 +36,6 @@ Dado dois números inteiros **A** e **B**, faça um loop para imprimir todos os 
 6
 7
 8
-<<<<<<< HEAD
->>>>>>>> INSERT
-=======
 9
 <<<<<<<< FINISH
 ```

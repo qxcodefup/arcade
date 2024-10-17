@@ -1,4 +1,4 @@
-# @tetris (Fazendo a peça cair)
+# Fazendo a peça do tetris cair
 
 ![_](cover.jpg)
 

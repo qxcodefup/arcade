@@ -1,4 +1,4 @@
-# @hanoi - Torres
+# Torres de Hanoi
 
 ![_](cover.jpg)
 

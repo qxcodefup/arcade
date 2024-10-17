@@ -1,4 +1,4 @@
-# @vida - Autômatos
+# Jogo da vida - Autômatos
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @guarda - retornando problemas primeiro
+# Retornando problemas primeiro
 
 ![_](cover.jpg)
 

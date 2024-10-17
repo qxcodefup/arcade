@@ -1,33 +1,29 @@
-# @fila do RU - Separar Pares e Ímpares
+# - Separar Pares e Ímpares
 
 ![_](cover.jpg)
 
-[](solver.cpp)
+## Contexto
 
-## Motivação
+Você foi encarregado de organizar a fila do Restaurante Universitário (RU). Para agilizar o processo, você teve a brilhante ideia de dividir a fila em dois grupos: uma fila para professores e STAs, e outra para alunos.
 
-Você ganhou uma bolsa de auxílio pra organizar a fila do RU.  
-Então teve uma brilhante ideia para organizar as filas.  
-Ao invés de uma única fila você vai fazer uma para os professores  
-e STAs (seu professor agradece) e uma para alunos.
+- Professores e STAs (servidores) serão representados pelos números pares.
+- Alunos serão representados pelos números ímpares.
 
-## Ação
-
-Imprima todos os números ímpares na ordem em que foram inseridos na primeira linha, e imprima todos os pares na segunda linha de forma análoga.
+Dado um conjunto de números, divida-os em duas listas: uma contendo os números ímpares (alunos) e outra contendo os números pares (servidores). Imprima as listas na ordem em que os números foram inseridos.
 
 ### Entrada
 
-* Quantidade N de pessoas na fila.
-* N valores inteiros onde um número ímpar representa um aluno e um par representa um servidor.  
+- Um número inteiro **N** (1 ≤ N ≤ 50), representando a quantidade de pessoas na fila.
+- **N** números inteiros, onde números ímpares representam alunos e números pares representam servidores.
 
-## Saída
+### Saída
 
-* Os números ímpares na ordem que aparecem na entrada.
-* Os números pares na ordem que aparecem na entrada.
+- Na primeira linha, imprima os números ímpares (alunos) na ordem em que foram inseridos, entre colchetes e separados por espaços.
+- Na segunda linha, imprima os números pares (servidores) na ordem em que foram inseridos, entre colchetes e separados por espaços.
 
-## Exemplos
+## Testes
 
-``` py
+```py
 >>>>>>>> INSERT
 2
 4 2

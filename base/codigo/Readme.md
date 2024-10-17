@@ -1,4 +1,4 @@
-# @codigo - OBI 2015 - Fase 2 - Nível Júnior
+# Código - OBI 2015 - Fase 2 - Nível Júnior
 
 ![_](cover.jpg)
 

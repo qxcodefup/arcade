@@ -1,4 +1,4 @@
-# @maximo entre dois números
+# Valor máximo entre dois números
 
 ![Imagem eh Positivo](cover.jpg)
 

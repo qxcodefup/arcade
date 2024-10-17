@@ -1,4 +1,4 @@
-# @poker mini - OBI2005
+# Mini poker - OBI2005
 
 ![_](cover.jpg)
 

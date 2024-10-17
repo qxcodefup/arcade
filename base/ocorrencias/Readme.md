@@ -1,4 +1,4 @@
-# @ocorrencias - Contagem
+# Contagem de ocorrências
 
 ![_](cover.jpg)
 

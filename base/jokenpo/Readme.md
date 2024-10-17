@@ -1,4 +1,4 @@
-# @jokenpo das tartarugas
+# Jokenpo das tartarugas
 
 ![_](cover.jpg)
 

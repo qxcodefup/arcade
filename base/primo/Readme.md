@@ -1,4 +1,4 @@
-# @primo - Calculando se é
+# Calculando se é
 
 ![_](cover.jpg)
 

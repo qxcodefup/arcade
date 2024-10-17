@@ -1,4 +1,4 @@
-# @viciadas - Bolinhas da sorte
+# Bolinhas da sorte
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @fresco - Juntar palavras
+# Juntar palavras
 
 ![_](cover.jpg)
 

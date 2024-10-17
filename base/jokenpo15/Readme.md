@@ -1,4 +1,4 @@
-# @jokenpo15 - Quinze opções
+# Jokenpo com quinze opções
 
 ## Motivação
 

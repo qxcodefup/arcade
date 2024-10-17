@@ -1,4 +1,4 @@
-# @facil - Modo fácil - OBI 2005
+# Trila Modo fácil - OBI 2005
 
 ![_](cover.jpg)
 

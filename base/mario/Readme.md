@@ -1,4 +1,4 @@
-# @mario e o Assassins Creed
+# Mário e o Assassins Creed
 
 ## Lendo cenário
 

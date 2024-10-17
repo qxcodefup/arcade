@@ -1,4 +1,4 @@
-# @torre - OBI 2015 - Fase 2 - Nível 1
+# Torre - OBI 2015 - Fase 2 - Nível 1
 
 ![_](cover.jpg)
 

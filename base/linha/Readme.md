@@ -1,4 +1,4 @@
-# @linha - Leitura de inteiros
+# Leitura de inteiros
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @vivo ou Morto - OBI 2005
+# Vivo ou Morto - OBI 2005
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @pintando a casa
+# Pintando a casa
 
 ![_](cover.jpg)
 

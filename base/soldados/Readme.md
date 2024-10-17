@@ -1,4 +1,4 @@
-# @soldados em Posição
+# Soldados em Posição
 
 ![_](cover.jpg)
 

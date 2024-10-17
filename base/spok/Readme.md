@@ -1,4 +1,4 @@
-# @spok palíndromo
+# Número palíndromo
 
 ![_](cover.jpg)
 

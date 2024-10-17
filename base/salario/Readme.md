@@ -1,4 +1,4 @@
-# @salario - Calculando aumento
+# Calculando aumento
 
 ![_](cover.jpg)
 

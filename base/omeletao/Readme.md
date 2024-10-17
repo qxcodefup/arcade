@@ -1,4 +1,4 @@
-# @omeletao
+# Escolhendo o maior
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @muquirana - Busca máximo por critério
+# Busca máximo por critério
 
 ![_](cover.jpg)
 

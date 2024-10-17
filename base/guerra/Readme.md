@@ -1,4 +1,4 @@
-# @guerra civil no Universo Marvel
+# Guerra civil no Universo Marvel
 
 ![_](cover.jpg)
 

@@ -1,34 +1,39 @@
-# @revolta em Portugal
+# - Revolta em Portugal
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
-Um grupo de portugueses planejava fazer uma revolução armada.
+Um grupo de portugueses planeja fazer uma revolução armada:
 
-* Pois, pois Manoel, como pretendes tomar de assalto a praça?
-* Ora, bolas Joaquim, estamos nós a chegar por lá. Vamos estar a retirar nossas espadas de nossas bainhas e espada-lo-emos todos!
-* Ótima ideia. Vamos pois, ora bolas!
+- *"Pois, pois, Manoel, como pretendes tomar de assalto a praça?"*
+- *"Ora, bolas Joaquim, estamos nós a chegar por lá. Vamos estar a retirar nossas espadas de nossas bainhas e espada-lo-emos todos!"*
+- *"Ótima ideia. Vamos pois, ora bolas!"*
 
-## Ação
+Manoel e Joaquim, liderando seus exércitos, enfrentam a difícil tarefa de determinar quem possui mais forças para conquistar a praça. Manoel reúne seus soldados, enquanto Joaquim acredita que entre eles há espiões rebeldes infiltrados.
 
-Verifique se o grupo de Manoel ou de Joaquim conseguirá vencer essa batalha. Dado um vetor de números, os números ímpares representam os soldados e os números pares representam os rebeldes infiltrados. Some as forças e descubra qual dos dois grupos é mais forte.
+Cada número ímpar representa um soldado de Manoel, e cada número par representa um rebelde infiltrado de Joaquim.
+
+Dado um vetor de números inteiros, some as forças dos soldados (números ímpares) e dos rebeldes (números pares). Determine quem possui a força maior para vencer a batalha, ou se ocorrerá um empate.
 
 ### Entrada
 
-* 1ª linha: tamanho do vetor (1 a 50)
+- A primeira linha contém um número inteiro **N** representando o tamanho do vetor (1 ≤ n ≤ 50).
 
-* Próximas linhas: valor dos números, cada número entre 1 e 50.
+- As próximas **N** linhas contêm números inteiros **X** (1 ≤ x ≤ 50).
 
-## Saída
+### Saída
 
-* "soldados" se os soldados(impares) somados são mais fortes.
+- **"soldados"** se a soma dos números ímpares for maior que a soma dos números pares.
+- **"rebeldes"** se a soma dos números pares for maior que a soma dos números ímpares.
+- **"empate"** se ambas as somas forem iguais.
 
-* "rebeldes" se os rebeldes(pares) somados são mais fortes.
+### Restrições
 
-* "empate" se ambas forças são iguais e todos morrerão.
+- O vetor conterá entre 1 e 50 elementos.
+- Os valores dos elementos do vetor estão entre 1 e 50.
 
-### Exemplos
+### Testes
 
 ``` py
 >>>>>>>> INSERT

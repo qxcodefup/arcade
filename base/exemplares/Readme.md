@@ -1,4 +1,4 @@
-# @exemplares - Arca quantos exemplares
+# - Arca quantos exemplares
 
 ![_](cover.jpg)
 

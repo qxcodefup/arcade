@@ -1,4 +1,4 @@
-# @goiabas - pegar do pé do vizinho
+# Pegar do pé do vizinho
 
 ![_](cover.jpg)
 

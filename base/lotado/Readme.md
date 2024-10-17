@@ -1,4 +1,4 @@
-# @lotado - Ônibus dos alunos
+# Ônibus dos alunos
 
 ![_](cover.jpg)
 

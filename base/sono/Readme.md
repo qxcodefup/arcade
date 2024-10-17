@@ -1,4 +1,4 @@
-# @sono - Quanto tempo ainda tenho
+# Quanto tempo ainda tenho
 
 ![_](cover.jpg)
 

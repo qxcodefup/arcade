@@ -1,4 +1,4 @@
-# @tazos - qual o mais repetido
+# Qual o mais repetido
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @gritando -  Invertendo o Case da frase
+# Invertendo o Case da frase
 
 ![_](cover.jpg)
 

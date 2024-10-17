@@ -1,4 +1,4 @@
-# @segundos - converter segundos em h:m:s
+# Converter segundos em h:m:s
 
 ![Imagem Tempo em Horas, Minutos e Segundos](cover.jpg)
 

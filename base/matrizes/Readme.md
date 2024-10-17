@@ -1,4 +1,4 @@
-# @matrizes - Soma
+# Soma de matrizes
 
 ![_](cover.jpg)
 

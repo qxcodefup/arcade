@@ -1,4 +1,4 @@
-# @digitos - Fazendo contagem
+# Fazendo contagem
 
 ![_](cover.jpg)
 

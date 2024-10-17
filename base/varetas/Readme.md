@@ -1,4 +1,4 @@
-# @varetas - critério para triângulos
+# Critério para triângulos
 
 ![_](cover.jpg)
 

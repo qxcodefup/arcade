@@ -1,4 +1,4 @@
-# @retangulo
+# Pontos do retângulo
 
 ![_](cover.jpg)
 

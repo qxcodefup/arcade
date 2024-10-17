@@ -1,4 +1,4 @@
-# @poco - Sapinho 2 morrendo no poço
+# Sapinho 2 morrendo no poço
 
 ![sapinho]( cover.jpg)
 

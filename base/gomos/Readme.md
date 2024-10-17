@@ -1,4 +1,4 @@
-# @gomos da cobrinha
+# Gomos da cobrinha
 
 ![_](cover.jpg)
 

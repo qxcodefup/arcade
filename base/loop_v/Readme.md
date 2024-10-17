@@ -1,4 +1,4 @@
-# @loop_v - loop com continue e break
+# Loop com continue e break
 
 ![_](cover.jpg)
 

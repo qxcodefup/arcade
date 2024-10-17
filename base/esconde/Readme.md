@@ -1,4 +1,4 @@
-# @esconde - Diana no esconde-esconde
+# Diana no esconde-esconde
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @meio - A raposa e os esquilos
+# A raposa e os esquilos
 
 ![_](cover.jpg)
 

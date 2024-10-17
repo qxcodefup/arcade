@@ -1,4 +1,4 @@
-# @quantos são iguais
+# Quantos são iguais
 
 ![_](cover.jpg)
 
@@ -24,7 +24,6 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 4
 4
 >>>>>>>> INSERT
-=======
 4
 ======== EXPECT
 2
@@ -37,7 +36,6 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 5
 4
 >>>>>>>> INSERT
-=======
 4
 ======== EXPECT
 0
@@ -48,9 +46,6 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 >>>>>>>> INSERT 03
 1
 1
-1
->>>>>>>> INSERT
-=======
 1
 ======== EXPECT
 3

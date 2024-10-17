@@ -1,4 +1,4 @@
-# @avesso2 - Jogo não acabou
+# Jogo do avesso 2
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @amora - Contar Substrings
+# Contar Substrings
 
 ![_](cover.jpg)
 

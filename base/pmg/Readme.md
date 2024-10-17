@@ -1,4 +1,4 @@
-# @pmg - Soldados
+# Soldados e tamanhos
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @gamados - Verificar ordenação da frase
+# Verificar ordenação da frase
 
 ![_](cover.jpg)
 

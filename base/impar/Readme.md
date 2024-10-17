@@ -1,4 +1,4 @@
-# @impar ou par - OBI 2016 - F1P1
+# Ímpar ou par - OBI 2016 - F1P1
 
 ![_](cover.jpg)
 

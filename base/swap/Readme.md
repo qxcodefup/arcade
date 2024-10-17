@@ -1,4 +1,4 @@
-# @swap - Troca de valores de variáveis
+# Troca de valores de variáveis
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @impedido
+# Calculando impedimento
 
 ## OBI 2015 - Fase 2 - Nível 1
 

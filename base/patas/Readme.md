@@ -1,97 +1,34 @@
-# @patas - Chico Bento e Cebolinha
+# Chico Bento e Cebolinha
 
-Chico Bento fez uma aposta com o Cebolinha para ver quem conseguia estimar melhor o total de patas que tinha na fazenda.
+![_](cover.jpg)
 
-Leia os animais e some as patas de todos eles.
+## Contexto
 
-### Entrada e Saída
+Chico Bento fez uma aposta com o Cebolinha para ver quem conseguia estimar melhor o número total de patas dos animais na fazenda. Eles listaram vários animais, e o objetivo é calcular quantas patas existem ao todo e descobrir quem fez a estimativa mais precisa.
 
-- Entrada
-  - 1a linha: chute do Chico Bento
-  - 2a linha: chute do Cebolinha
-  - 3a linha: quantidade de animais
-  - Linhas seguintes: letra de cada animal, sendo:
-    - v: vaca com quatro patas
-    - g: galinha com duas patas
-    - c: cavalo com quatro patas
-- Saída
-  - 1a linha: Somatório das patas dos animais.
-  - 2a linha: O nome de quem chegou mais perto ou empate.
+Dado o chute de Chico Bento e Cebolinha, e a lista de animais com suas respectivas patas, escreva um programa que calcule o somatório das patas e determine quem chegou mais perto do valor correto.
+
+### Entrada
+
+- A primeira linha contém um inteiro representando o **chute do Chico Bento**.
+- A segunda linha contém um inteiro representando o **chute do Cebolinha**.
+- A terceira linha contém um inteiro representando a **quantidade de animais**.
+- As próximas linhas contêm uma letra por linha, representando o tipo de animal:
+  - **v:** vaca com 4 patas.
+  - **g:** galinha com 2 patas.
+  - **c:** cavalo com 4 patas.
+
+### Saída
+
+- A primeira linha deve conter o **somatório total das patas dos animais**.
+- A segunda linha deve conter o nome de quem chegou mais perto, ou **"empate"**.
+
+### Restrições
+
+- O número de animais será um inteiro positivo.
+- Os chutes de Chico Bento e Cebolinha são inteiros positivos.
 
 ## Testes
-
-```py
->>>>>>>> INSERT um animal
-4
-4
-1
-c
-======== EXPECT
-4
-empate
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-7
-8
-2
-g
-c
-======== EXPECT
-6
-Chico Bento
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-15
-15
-5
-c
-c
-g
-v
-g
-======== EXPECT
-16
-empate
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-15
-17
-5
-c
-c
-g
-v
-g
-======== EXPECT
-16
-empate
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-17
-15
-5
-c
-c
-g
-v
-g
-======== EXPECT
-16
-empate
-<<<<<<<< FINISH
-```
 
 ```py
 >>>>>>>> INSERT
@@ -124,3 +61,26 @@ g
 Chico Bento
 <<<<<<<< FINISH
 ```
+
+```py
+>>>>>>>> INSERT
+17
+15
+5
+c
+c
+g
+v
+g
+======== EXPECT
+16
+empate
+<<<<<<<< FINISH
+```
+
+## Dicas
+
+- **Somatório de patas:** Lembre-se de que vacas e cavalos têm 4 patas, enquanto galinhas têm 2. Crie um somatório iterando pela lista de animais.
+
+- **Diferença absoluta:** Para saber quem está mais próximo, calcule a diferença absoluta entre o chute de cada um e o número real de patas.
+

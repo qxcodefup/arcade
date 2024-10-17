@@ -1,4 +1,4 @@
-# @chute - Quem chega mais perto
+# Quem chega mais perto
 
 ![_](cover.jpg)
 

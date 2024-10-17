@@ -1,4 +1,4 @@
-# @alcaparras e Marileuza - Contar Ocorrências
+# Contar Ocorrências
 
 ![_](cover.jpg)
 

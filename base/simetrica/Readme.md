@@ -1,4 +1,4 @@
-# @simetrica - Matrizes
+# Matrizes simétricas
 
 ![_](cover.jpg)
 

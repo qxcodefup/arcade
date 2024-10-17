@@ -1,4 +1,4 @@
-# @traficantes - Substituições de substrings
+# Substituições de substrings
 
 ![_](cover.jpg)
 

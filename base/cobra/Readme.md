@@ -1,4 +1,4 @@
-# @cobra - jogo da cobrinha
+# Jogo da cobrinha
 
 ![_](cover.jpg)
 

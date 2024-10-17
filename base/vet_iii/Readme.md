@@ -1,29 +1,49 @@
-# @vet_iii - impressão formatada
+# impressão formatada
 
-- Leia o número de elementos na primeira linha.
-- Leia todos os elementos do vetor na segunda linha.
-- Carregue um vetor com os elementos lidos.
-- Imprima o vetor carregado na mesma linha entre colchetes, separando os elementos com ", ".
-- Utilize um laço para imprimir os elementos do vetor com a seguinte técnica:
-  - Se o índice for diferente de zero, imprima ", " antes do elemento.
-  - Imprima o elemento.
+![_](cover.jpg)
+
+## Contexto
+
+Ao trabalhar com vetores, muitas vezes é necessário formatar a saída de forma mais legível. Neste exercício, o objetivo é imprimir um vetor em um formato específico, utilizando uma função que realiza a formatação correta, separando os elementos por vírgulas e espaços.
+
+Você deve implementar um programa que leia um vetor, armazene os valores e depois os exiba com uma formatação específica. O vetor deve ser impresso entre colchetes e os elementos separados por **"`,` "**. Se o vetor estiver vazio, deve ser exibido como `[]`.
+
+### Entrada
+
+- A primeira linha contém um número inteiro **N** representando a quantidade de elementos do vetor.
+- A segunda linha contém **N** inteiros, separados por espaços, que devem ser inseridos no vetor.
+
+### Saída
+
+- Imprima o vetor carregado entre colchetes, com os elementos separados por espaços.
+
+### Restrições
+
+- **0 ≤ N ≤ 1000** (O vetor pode ter de 0 a 1000 elementos)
+- Cada elemento será um número inteiro.
 
 ## Desafio
 
-- Crie uma função que recebe o vetor e o imprime formatado.
+Implemente uma função que receba o vetor e o imprima formatado conforme as especificações:
+
+### Programando em C
 
 ```c
-//c
 void imprime_vetor(int vet[], int n) {
 }
+```
 
-//js ou ts
+### Programando em Python
+
+```py
+def imprime_vetor(vet: List[int]) -> None:
+```
+
+### Programando em TS
+
+```ts
 function imprimeVetor(vet: number[]): void {
 }
-
-//py
-def imprime_vetor(vet: List[int]) -> None:
-
 ```
 
 ## Testes

@@ -1,4 +1,4 @@
-# @pizza
+# Procurando melhor pizzaria
 
 ![_](cover.jpg)
 

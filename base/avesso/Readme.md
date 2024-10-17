@@ -1,4 +1,4 @@
-# @avesso - Vetores e proximidade
+# Vetores e proximidade
 
 ![_](cover.jpg)
 

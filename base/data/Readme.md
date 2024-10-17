@@ -1,4 +1,4 @@
-# @data - Formatando
+# Formatando data
 
 ![_](cover.jpg)
 

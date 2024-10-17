@@ -1,4 +1,4 @@
-# @quebrada - Tipos de divisão
+# Tipos de divisão
 
 ![_](cover.jpg)
 

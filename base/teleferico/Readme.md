@@ -1,4 +1,4 @@
-# @teleferico - OBI 2017 - Fase 1
+# Teleférico OBI 2017 - Fase 1
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @trilhas - OBI 2005
+# Trilhas OBI 2005
 
 ## Motivação
 

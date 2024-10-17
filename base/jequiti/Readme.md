@@ -1,4 +1,4 @@
-# @jequiti - Roda Roda Jequiti
+# Roda Roda Jequiti
 
 ![_](cover.jpg)
 

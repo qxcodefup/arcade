@@ -1,4 +1,4 @@
-# @copos - Quebrador de copos
+# Quebrador de copos
 
 ![_](cover.jpg)
 

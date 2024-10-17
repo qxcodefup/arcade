@@ -1,28 +1,36 @@
-# @dindin - Clenda adora chocolate
+# Clenda adora chocolate
 
-Clenda adora um dindin de chocolate, mas acha horrível ter que pegar fila pra matar seu desejo de doce depois do almoço.
+![_](cover.jpg)
 
-Ela sempre fica triste quando chega lá e não tem mais chocolate. A intuição dela diz que chocolate é o melhor sabor do mundo, mas pra ter certeza, ela decidiu contar se ele é realmente o sabor mais vendido.
+## Contexto
 
-Pensando nisso, ela resolveu anotar qual dindin foi vindido e o turno da venda para calcular qual o dindin mais vendido e o horário mais vago pra comprar.
+Clenda adora um dindin de chocolate, mas odeia ter que pegar fila para comprar um após o almoço. Ela sempre fica decepcionada quando chega e não encontra mais o sabor de chocolate disponível. Para comprovar que chocolate é realmente o sabor mais vendido e descobrir o horário mais vago para comprar, Clenda começou a anotar as vendas dos dindins, registrando o sabor e o turno em que foram vendidos.
 
-### Entrada e Saída
+Dado o número de dindins vendidos, o sabor e o turno de cada venda, seu programa deve calcular qual sabor foi o mais vendido e qual turno foi o mais vago.
 
-- Entrada
-  - 1a linha: qtd de dindins vendidos
-  - Linha subsequentes: sabor do dindin e o turno.
-- Saída
-  - 1a linha: Sabor mais vendido ou empate
-  - 2a linha: Turno mais vago ou empate
+### Entrada
 
-## Restrições
+- A primeira linha contém um inteiro representando a quantidade de dindins vendidos.
+- As próximas linhas contêm dois valores:
+  - O sabor do dindin (c para chocolate e l para limão).
+  - O turno da venda (m para manhã e t para tarde).
 
-- Sabores de dindin
-  - `c` para chocolate
-  - `l` para limão
-- Turnos
-  - `m` para o horário da manhã
-  - `t` para o horário depois do almoço
+### Saída
+
+- A primeira linha deve conter o sabor mais vendido ou "empate" se houver igualdade.
+- A segunda linha deve conter o turno mais vago ou "empate" se houver igualdade.
+
+### Restrições
+
+- O número de dindins vendidos é um inteiro positivo.
+- Os sabores de dindin são:
+  - **c:** chocolate.
+  - **l:** limão.
+- Os turnos são:
+  - **m:** manhã.
+  - **t:** tarde.
+
+## Testes
 
 ```py
 >>>>>>>> INSERT

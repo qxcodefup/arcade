@@ -1,4 +1,4 @@
-# @espacos duplicados - Meu cachorro comeu minha tarefa V2
+# - Espaços duplicados
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @castelos de Cubos
+# Castelo de Cubos
 
 ![_](cover.jpg)
 

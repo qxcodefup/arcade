@@ -1,4 +1,4 @@
-# @monica - A idade do filho mais velho - OBI 2019 - F1PJ
+# A idade do filho mais velho - OBI 2019 - F1PJ
 
 ![_](cover.jpg)
 

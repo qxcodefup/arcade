@@ -1,4 +1,4 @@
-# @krueguer e Jason - Busca de maior ocorrência
+# - Krueguer e Jason - Busca de maior ocorrência
 
 ![_](cover.jpg)
 

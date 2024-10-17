@@ -1,4 +1,4 @@
-# @minado - Campo Minado
+# Campo Minado
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @opala bebedor
+# Opala bebedor
 
 ![_](cover.jpg)
 

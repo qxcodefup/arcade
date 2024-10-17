@@ -1,4 +1,4 @@
-# @bhaskara - usando biblioteca matemática
+# Usando biblioteca matemática
 
 ![_](cover.jpg)
 

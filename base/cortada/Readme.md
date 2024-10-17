@@ -1,4 +1,4 @@
-# @cortada - essa nota presta? - OBI 2019 F1P1
+# Essa nota presta? - OBI 2019 F1P1
 
 ![_](cover.jpg)
 

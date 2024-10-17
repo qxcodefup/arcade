@@ -1,4 +1,4 @@
-# @par ou impar
+# Par ou impar
 
 ![Imagem eh Positivo](cover.jpg)
 

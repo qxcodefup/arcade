@@ -1,4 +1,4 @@
-# @minhocas - Campo de minhocas - OBI 2005
+# Campo de minhocas - OBI 2005
 
 ![_](cover.jpg)
 

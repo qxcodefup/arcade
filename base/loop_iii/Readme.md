@@ -1,4 +1,4 @@
-# @loop_iii - loop decrescente
+# Loop decrescente
 
 ![_](cover.jpg)
 

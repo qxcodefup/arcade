@@ -1,4 +1,4 @@
-# @nervoso - Chefe nervoso - OBI 2021
+# Chefe nervoso - OBI 2021
 
 ![_](cover.jpg)
 

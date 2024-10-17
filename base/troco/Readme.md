@@ -1,12 +1,17 @@
-# @troco - Calculando troco
+# - Calculando troco
 
 ![_](cover.jpg)
 
-Você precisa fazer um programa que calcule como dar o troco em dinheiro.
+## Contexto
 
-Utilize todas as opções de pagamento disponíveis no Brasil, entre cédulas e moedas.
+VImagine que você trabalha em uma loja e precisa calcular o troco para os clientes. Seu objetivo é sempre entregar o menor número possível de cédulas e moedas. Isso pode parecer simples, mas quando o valor envolve centavos, pode ser um pouco mais complicado. Além disso, se o valor do troco não puder ser dividido exato com as cédulas e moedas disponíveis, você deve informar quanto falta.
 
-Gere a opção com a menor quantidade de ítens possível.
+Desenvolva um programa que calcula o troco em reais e centavos utilizando as cédulas e moedas do Brasil. O programa deve mostrar a combinação de cédulas e moedas que resulta na menor quantidade de itens. Se houver uma pequena quantia que não pode ser paga, informe o valor restante.
+
+### Cédulas e moedas disponíveis
+
+- Cédulas: R$ 100, R$ 50, R$ 20, R$ 10, R$ 5, R$ 2
+- Moedas: R$ 1, R$ 0,50, R$ 0,25, R$ 0,10, R$ 0,05
 
 Por exemplo: 453 reais e 83 centavos.
 
@@ -21,12 +26,18 @@ Por exemplo: 453 reais e 83 centavos.
 Falta 0.03
 ```
 
-Observação: Não use ifs e elses, faça um vetor de opções de troco.
+Não use `ifs` e `elses`, faça um `vetor` de opções de troco.
 
-- Entrada
-  - Um número float indicando o valor do troco.
-- Saída
-  - As notas e moedas que devem ser dadas e se houver valor quebrado inferior a 0.05, informe ao final.
+### Entrada
+
+- Um valor `float` representando o valor total do troco.
+
+### Saída
+
+- A combinação de cédulas e moedas que totaliza o valor do troco, com a menor quantidade de itens.
+- Se houver valor residual inferior a **R$ 0,05**, imprima quanto faltou.
+
+## Testes
 
 ``` py
 >>>>>>>> INSERT
@@ -86,5 +97,11 @@ Falta 0.01
 1 de 0.25
 Falta 0.01
 <<<<<<<< FINISH
-
 ```
+
+## Dicas
+
+- Utilize um vetor para representar as cédulas e moedas disponíveis em ordem decrescente de valor.
+- Para cada valor do vetor, divida o troco atual e registre quantas cédulas ou moedas daquele valor podem ser usadas.
+- Calcule o restante e continue o processo até o final.
+- Para lidar com o valor residual (inferior a R$ 0,05), utilize uma comparação final para verificar se ainda resta algo a ser pago.

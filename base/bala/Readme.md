@@ -1,4 +1,4 @@
-# @bala - distância entre dois pontos
+# Distância entre dois pontos
 
 ![_](cover.jpg)
 

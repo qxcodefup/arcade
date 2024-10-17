@@ -1,4 +1,4 @@
-# @subdiagonais
+# Subdiagonais de uma matriz
 
 ![_](cover.jpg)
 

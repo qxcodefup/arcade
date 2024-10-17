@@ -1,4 +1,4 @@
-# @final - será que eu passo?
+# Será que eu passo?
 
 ![_](cover.jpg)
 

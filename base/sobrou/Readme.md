@@ -1,4 +1,4 @@
-# @sobrou - calculando quanto sobrou
+# Calculando quanto sobrou
 
 ![Imagem Quantos Sobrou](cover.jpg)
 

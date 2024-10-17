@@ -1,4 +1,4 @@
-# @max - Maior de dois números
+# Maior de dois números
 
 ![abs](cover.jpg)
 

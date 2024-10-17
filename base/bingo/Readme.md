@@ -1,4 +1,4 @@
-# @bingo
+# Contando ocorrência na cartela
 
 ![_](cover.jpg)
 
@@ -12,10 +12,12 @@ Sendo um bom netinho que você é, você desistiu criar um programa que ajudasse
 
 Dado um vetor de tamanho 6 de elementos inteiros, verifique quantos elementos deste vetor estão nesta matriz de elementos inteiros 4x4.
 
-1 9 27 23  
+```txt
+ 1  9 27 23  
 34 20 37 47  
 30 87 55 69  
 13 60 99 66
+```
 
 ### Entrada
 

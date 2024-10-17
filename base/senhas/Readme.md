@@ -1,4 +1,4 @@
-# @senhas - algoritmo de força bruta
+# Algoritmo de força bruta
 
 ![_](cover.jpg)
 

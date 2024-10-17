@@ -1,4 +1,4 @@
-# @agua - Abastecimento de agua
+# Abastecimento de agua
 
 ![_](cover.jpg)
 

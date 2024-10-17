@@ -1,4 +1,4 @@
-# @tres - Soma de inteiros
+# Soma de três inteiros
 
 ![Imagem meteriologica](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @mmc
+# Calcule o mmc
 
 ![_](cover.jpg)
 

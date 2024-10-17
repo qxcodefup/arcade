@@ -1,4 +1,4 @@
-# @mumia - criança, jovem, adulto
+# Criança, jovem, adulto
 
 ![_](cover.jpg)
 

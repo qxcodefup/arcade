@@ -1,4 +1,4 @@
-# @inverte case de char
+# Inverter Case de char
 
 ![_](cover.jpg)
 

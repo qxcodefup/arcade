@@ -1,4 +1,4 @@
-# @gagueira V1 - Duplicar Palavras
+# Duplicar Palavras
 
 ![_](cover.jpg)
 

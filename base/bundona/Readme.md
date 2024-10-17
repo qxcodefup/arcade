@@ -1,4 +1,4 @@
-# @bundona - Formiga
+# Formiga da bundona
 
 ## Motivação
 

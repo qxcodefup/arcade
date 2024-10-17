@@ -1,4 +1,4 @@
-# @eribelton e a Ascologia V3 - Busca do mínimo
+# - Eribelton e a Ascologia V3 - Busca do mínimo
 
 ![_](cover.jpg)
 

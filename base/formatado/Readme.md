@@ -1,4 +1,4 @@
-# @formatado - Imprimir vetor formatado
+# Imprimir vetor formatado
 
 ![_](cover.jpg)
 

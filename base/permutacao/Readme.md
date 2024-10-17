@@ -1,4 +1,4 @@
-# @permutacao de fichas
+# Permutação de fichas
 
 ![_](cover.jpg)
 

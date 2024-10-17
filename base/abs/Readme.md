@@ -1,4 +1,4 @@
-# @abs - Valor absoluto
+# Valor absoluto
 
 ![_](cover.jpg)
 

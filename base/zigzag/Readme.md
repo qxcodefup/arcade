@@ -1,4 +1,4 @@
-# @zigzag - Viunei e a saúde mental
+# Viunei e a saúde mental
 
 ![_](cover.jpg)
 

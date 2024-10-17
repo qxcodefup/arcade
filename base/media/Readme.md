@@ -1,4 +1,4 @@
-# @media de dois inteiros
+# Média de dois inteiros
 
 ![Imagem Média de Dois Inteiros](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @numeros - Encontrando e somando
+# Encontrando e somando
 
 ![_](cover.jpg)
 

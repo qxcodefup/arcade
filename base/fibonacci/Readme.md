@@ -1,4 +1,4 @@
-# @fibonacci
+# Calculando fibonatti
 
 ![_](cover.jpg)
 

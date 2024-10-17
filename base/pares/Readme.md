@@ -1,4 +1,4 @@
-# @pares - Calculando soma
+# Calculando soma
 
 ![_](cover.jpg)
 

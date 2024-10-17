@@ -1,4 +1,4 @@
-# @mediana
+# Calculando a mediana
 
 ![_](cover.jpg)
 

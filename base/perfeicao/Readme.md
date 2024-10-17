@@ -1,4 +1,4 @@
-# @perfeicao - Eribelton e a Ascologia V2
+# Eribelton e a Ascologia V2
 
 ![_](cover.jpg)
 

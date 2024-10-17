@@ -1,4 +1,4 @@
-# @afogado - Sapinho 3 matemático não quer morrer afogado
+# Sapinho 3 matemático não quer morrer afogado
 
 ![_](cover.jpg)
 

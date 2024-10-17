@@ -1,4 +1,4 @@
-# @jedi - Cabo de Guerra
+# Cabo de Guerra
 
 ![_](cover.jpg)
 

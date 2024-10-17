@@ -1,4 +1,4 @@
-# @boletim - Soma de elementos de em uma matriz
+# Soma de elementos de em uma matriz
 
 ![_](cover.jpg)
 

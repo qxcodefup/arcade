@@ -1,4 +1,4 @@
-# @morangos - Plantação
+# Plantação
 
 ## OBI 2016 - Fase1 - Nível 1
 

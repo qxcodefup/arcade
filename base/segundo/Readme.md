@@ -1,4 +1,4 @@
-# @segundo - Calculando o próximo
+# Calculando o próximo segundo
 
 ![ponteiros de um relógio]( cover.jpg)
 

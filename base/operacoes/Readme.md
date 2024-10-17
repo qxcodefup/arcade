@@ -1,4 +1,4 @@
-# @operacoes básicas
+# Operações básicas
 
 ![_](cover.jpg)
 

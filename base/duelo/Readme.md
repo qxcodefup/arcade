@@ -1,4 +1,4 @@
-# @duelo
+# Luta até a morte
 
 ![_](cover.jpg)
 

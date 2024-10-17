@@ -1,29 +1,27 @@
-# @invertendo vetor
+# - Invertendo vetor
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
-Um aluno capoeirista estava sentado quietinho no cantinho da UFC quando um amigo perguntou pra ele:
+Alfredo, um capoeirista dedicado, estava sentado no cantinho da UFC quando um amigo se aproximou e perguntou:
 
-* Que foi Alfredo. Que cara de sofrimento é essa?
-* Tô pensando nas ironias da vida. Consigo passar 5 minutos de ponta cabeça, mas não consigo inverter esse vetor.
+- *Que foi Alfredo. Que cara de sofrimento é essa?*
+- *Tô pensando nas ironias da vida. Consigo passar 5 minutos de ponta cabeça, mas não consigo inverter esse vetor.*
 
-## Ação
-
-Faça uma função que ajude o capoeirista a inverter um vetor passado na entrada.
+Ajude Alfredo a inverter um vetor que será dado como entrada.
 
 ### Entrada
 
-* 1ª linha: número de elementos
+- Um número inteiro **N** (1 ≤ N ≤ 50), representando a quantidade de elementos no vetor.
 
-* 2ª linha: vetor de elementos.
+- **N** números inteiros, separados por espaços, representando os elementos do vetor.
 
 ### Saida
 
-* Imprima o vetor invertido.
+- Imprima o vetor invertido, entre colchetes, com os elementos separados por espaços.
 
-### Exemplos
+### Testes
 
 ``` py
 >>>>>>>> INSERT 01

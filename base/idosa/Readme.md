@@ -1,4 +1,4 @@
-# @idosa - Mulher mais idosa
+# Mulher mais idosa
 
 ![_](cover.jpg)
 

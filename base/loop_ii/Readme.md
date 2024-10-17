@@ -1,4 +1,4 @@
-# @loop_ii - imprimindo em linha
+# Imprimindo em linha
 
 ![_](cover.jpg)
 

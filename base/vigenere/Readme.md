@@ -1,4 +1,4 @@
-# @vigenere e Valdiskley
+# Vigenere e Valdiskley
 
 ![_](cover.jpg)
 

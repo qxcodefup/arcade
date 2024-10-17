@@ -1,4 +1,4 @@
-# @quadrado Mágico
+# Identificando um quadrado mágico
 
 ![_](cover.jpg)
 

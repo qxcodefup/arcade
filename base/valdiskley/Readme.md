@@ -1,4 +1,4 @@
-# @valdiskley e a cifra V1
+# Valdiskley e a cifra V1
 
 ![_](cover.jpg)
 

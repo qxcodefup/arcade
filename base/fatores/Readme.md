@@ -1,4 +1,4 @@
-# @fatores de um número
+# Fatoração de um número
 
 ![_](cover.jpg)
 

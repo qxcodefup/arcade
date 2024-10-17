@@ -1,4 +1,4 @@
-# @quiz do Harry Potter
+# Quiz do Harry Potter
 
 ![_](cover.jpg)
 

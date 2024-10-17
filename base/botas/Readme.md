@@ -1,4 +1,4 @@
-# @botas Trocadas - OBI 2017
+# Botas trocadas - OBI 2017
 
 ![_](cover.jpg)
 

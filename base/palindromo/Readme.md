@@ -1,4 +1,4 @@
-# @palindromo - Qual o maior
+# Qual o maior
 
 ![_](cover.jpg)
 

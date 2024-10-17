@@ -1,4 +1,4 @@
-# @fuga em helicóptero - OBI 2016
+# Fuga em helicóptero - OBI 2016
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @domino - Jogo de dominó - OBI 2019 F1PJ
+# Jogo de dominó - OBI 2019 F1PJ
 
 ![_](cover.jpg)
 

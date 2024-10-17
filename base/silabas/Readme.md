@@ -1,4 +1,4 @@
-# @silabas - Separe Pneumatócito
+# Separe Pneumatócito
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @chefe - Aniquilando Ultrons V3
+# - Aniquilando Ultrons V3
 
 ![_](cover.jpg)
 

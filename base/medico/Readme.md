@@ -1,4 +1,4 @@
-# @medico - Busca por proximidade
+# - Busca por proximidade
 
 ![_](cover.jpg)
 ![_](solver.cpp)

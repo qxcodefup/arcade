@@ -1,4 +1,4 @@
-# @loop_iv - loop em ambas as direções
+# Loop em ambas as direções
 
 ![_](cover.jpg)
 

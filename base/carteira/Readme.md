@@ -1,4 +1,4 @@
-# @carteira - Retirando os loops
+# Retirando os loops
 
 ![_](cover.jpg)
 

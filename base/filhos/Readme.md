@@ -1,4 +1,4 @@
-# @filhos - Filhos de Seu David
+# Filhos de Seu David
 
 ![_](cover.jpg)
 

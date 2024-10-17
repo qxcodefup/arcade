@@ -1,16 +1,26 @@
-# @dieta - Rubens comendo no Brolio
+# Rubens comendo no Brolio
 
-Professor Rubens percebeu que depois que passou a comer rotineiramente no Broiler, está ganhando peso rapidamente. Na consulta com a nutricionista, ela calculou que uma meta diária de 2200 calorias seria ideal para ele.
+![_](cover.jpg)
 
-Nos dias que ele vai para o Broiler, ele acaba comendo demais, pois um prato pra duas pessoas alimenta quatro pessoas. Então ele decidiu tentar comer menos nos outros dias para tentar manter a média de calorias da semana abaixo de 2200.
+## Contexto
 
-### Entrada e Saída
+Professor Rubens, ao notar que sua rotina alimentar no Broiler estava fazendo com que ele ganhasse peso rapidamente, consultou sua nutricionista, que recomendou uma meta diária de 2200 calorias. Rubens agora deseja monitorar seu consumo calórico nos dias da semana e calcular a média de calorias para verificar se está mantendo o controle adequado de sua dieta.
 
-- Entrada
-  - linha 1: quantidade de dias que ele registrou as calorias
-  - Demais linhas: valor consumido em cada dia
-- Saída
-  - Qual a média de calorias consumida nos dias aferidos com uma casa decimal
+Dado o número de dias que Rubens registrou seu consumo calórico e as calorias consumidas em cada dia, escreva um programa que calcule a média de calorias consumidas ao longo desses dias.
+
+### Entrada
+
+- A primeira linha contém um inteiro **N** representando o número de dias que ele registrou as calorias.
+- Nas próximas **N** linhas, cada linha contém um inteiro **X**, representando o consumo de calórico no dia.
+
+### Saída
+
+- A saída deve ser a média das calorias consumidas ao longo dos dias aferidos, com uma casa decimal.
+
+### Restrições
+
+- O valor de **N** (dias registrados) é um número inteiro positivo.
+- Cada valor de calorias consumidas em um dia é um número inteiro não negativo.
 
 ## Testes
 

@@ -1,4 +1,4 @@
-# @casais - Quantos casais na arca
+# - Quantos casais na arca
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @intervalada - Busca
+# Busca intervalada
 
 ![_](cover.jpg)
 

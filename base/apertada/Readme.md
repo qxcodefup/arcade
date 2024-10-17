@@ -1,24 +1,27 @@
-# @apertada - Busca do menor valor
+# Busca do menor valor
 
 ![_](cover.jpg)
 
 ## Motivação
 
-Tem mulheres que gostam de roupa apertada. E homens sertanejos também. Mariana olhou em seu armário e se vestiu para abafar na festa do Luan Santana. Então pegou 5 de suas melhores calças jeans e decidiu escolher a mais justa.  
+Tem mulheres que gostam de roupa apertada. E homens sertanejos também. Mariana olhou em seu armário e se vestiu para abafar na festa do Luan Santana. Então pegou 5 de suas melhores calças jeans e decidiu escolher a mais justa.
 
-## Ação
-
-Faça um programa que receba cinco valores inteiros e encontre o menor deles.  
+Faça um programa que receba cinco valores inteiros, representando as medidas de cinco calças diferentes, e retorne o menor valor, ou seja, a calça mais justa..  
 
 ### Entrada
 
-* 5 valores inteiros (entre 1 e 30), um por linha.
+- A entrada consiste de cinco valores inteiros (entre 1 e 30), um por linha..
 
-## Saída
+### Saída
 
-* O menor valor inteiro.  
+- O menor valor inteiro dentre os cinco recebidos.
 
-## Exemplos
+## Restrições
+
+- Os cinco valores inteiros estarão no intervalo **[1, 30]**.
+- Sempre haverá exatamente cinco valores inteiros na entrada.
+
+## Testes
 
 ``` py
 >>>>>>>> INSERT

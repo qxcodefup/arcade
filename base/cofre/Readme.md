@@ -1,4 +1,4 @@
-# @cofre - O segredo do cofre - OBI 2017
+# O segredo do cofre - OBI 2017
 
 ![_](cover.jpg)
 

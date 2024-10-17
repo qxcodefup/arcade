@@ -1,4 +1,4 @@
-# @tv - Comprando parcelada
+# Comprando tv parcelada
 
 ![_](cover.jpg)
 

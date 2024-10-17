@@ -1,4 +1,4 @@
-# @endereco - Função que retorna vários valores
+# Função que retorna vários valores
 
 ![_](cover.jpg)
 

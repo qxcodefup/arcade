@@ -1,4 +1,4 @@
-# @positivo - sim ou não
+# É positivo
 
 ![_](cover.jpg)
 

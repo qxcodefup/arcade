@@ -1,4 +1,4 @@
-# @chaves - Positivo, Nulo ou Negativo?
+# Positivo, Nulo ou Negativo?
 
 ![_](cover.jpg)
 

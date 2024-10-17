@@ -1,4 +1,4 @@
-# @sapatos para 2 e 3
+# Sapatos para 2 e 3
 
 ![_](cover.jpg)
 

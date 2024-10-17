@@ -1,4 +1,4 @@
-# Ponto @perto
+# Pontos como structs
 
 ![_](cover.jpg)
 

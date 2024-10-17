@@ -1,4 +1,4 @@
-# @ascologia -Eribelton e a ascologia V1 - Somar Asc
+# Eribelton e a ascologia V1 - Somar Asc
 
 ![_](cover.jpg)
 

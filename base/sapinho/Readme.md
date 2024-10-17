@@ -1,4 +1,4 @@
-# @sapinho 1 no Poço
+# Sapinho no Poço
 
 ![_](cover.jpg)
 

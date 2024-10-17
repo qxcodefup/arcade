@@ -1,4 +1,4 @@
-# @leds - Contando luzes
+# Contando luzes
 
 ![_](cover.jpg)
 

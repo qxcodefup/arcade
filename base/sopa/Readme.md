@@ -1,4 +1,4 @@
-# @sopa de coelho
+# Sopa de coelho
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @nulo - positivo ou negativo
+# Positivo, nulo ou negativo
 
 ![_](cover.jpg)
 

@@ -1,4 +1,4 @@
-# @game10 - OBI 2017 - Fase 1 - Universitário
+# Game10 - OBI 2017 - Fase 1 - Universitário
 
 ![_](cover.jpg)
 
