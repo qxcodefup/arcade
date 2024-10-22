@@ -9,6 +9,12 @@
         }
     ],
     "keep": [],
-    "required": [],
+    "required": [
+        {
+            "name": "draft.c",
+            "contents": "#include <stdio.h>\n\nint main() {\n    // Estruturas de repeti\u00e7\u00e3o (loops) s\u00e3o usadas para repetir um bloco de c\u00f3digo enquanto uma condi\u00e7\u00e3o for verdadeira.\n\n    // Existem tr\u00eas tipos principais de loops em C:\n    // 1. For loop\n    // 2. While loop\n    // 3. Do-while loop\n\n    // Vamos ver cada um deles:\n\n    // Exemplo 1: For loop\n    // O for loop \u00e9 usado quando sabemos o n\u00famero exato de repeti\u00e7\u00f5es.\n    // Ele tem a seguinte sintaxe:\n    // for (inicializa\u00e7\u00e3o; condi\u00e7\u00e3o; incremento) {\n    //     // c\u00f3digo a ser repetido\n    // }\n    printf(\"For loop: \");\n    for (int i = 0; i < 5 i++) {  // erro: falta ponto e v\u00edrgula\n        printf(\"%d \", i);\n    }\n    printf(\"\\n\");\n\n    // Exemplo 2: While loop\n    // O while loop continua a repetir enquanto a condi\u00e7\u00e3o for verdadeira.\n    // A sintaxe \u00e9:\n    // while (condi\u00e7\u00e3o) {\n    //     // c\u00f3digo a ser repetido\n    // }\n    printf(\"While loop: \");\n    int j = 0;\n    while j < 5 {  // erro: falta par\u00eanteses\n        printf(\"%d \", j);\n        j++;\n    }\n    printf(\"\\n\");\n\n    // Exemplo 3: Do-While loop\n    // O do-while loop garante que o bloco de c\u00f3digo seja executado pelo menos uma vez,\n    // mesmo que a condi\u00e7\u00e3o seja falsa, pois a verifica\u00e7\u00e3o ocorre no final.\n    // A sintaxe \u00e9:\n    // do {\n    //     // c\u00f3digo a ser repetido\n    // } while (condi\u00e7\u00e3o);\n    printf(\"Do-While loop: \");\n    int k = 0;\n    do {\n        printf(\"%d \", k);\n        k++;\n    } while k < 5; // erro: falta par\u00eanteses\n    printf(\"\\n\");\n\n    return 0;\n}",
+            "encoding": 0
+        }
+    ],
     "draft": {}
 }

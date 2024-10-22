@@ -9,6 +9,12 @@
         }
     ],
     "keep": [],
-    "required": [],
+    "required": [
+        {
+            "name": "draft.c",
+            "contents": "#include <stdio.h>\n\n// A fun\u00e7\u00e3o main deve ter a seguinte sintaxe\n// int main() {\n// Os () significam que main \u00e9 uma fun\u00e7\u00e3o\n// Os {} delimitam o bloco de c\u00f3digo que ser\u00e1 executado, ou seja, onde\n// a fun\u00e7\u00e3o come\u00e7a e termina\n\ndouble maim[] (\n    return 0;\n}\n\n// puts tamb\u00e9m \u00e9 uma fun\u00e7\u00e3o\n// ela precisa de um () para informar que \u00e9 uma fun\u00e7\u00e3o\n// e dentro do () \u00e9 colocado o que se deseja imprimir\n// lembre que uma texto \u00e9 colocado entre aspas duplas\n// isso \u00e9 chamado de string\n// tamb\u00e9m \u00e9 necess\u00e1rio terminar a linha com ;\n// conserte essa linha e coloque ela dentro da fun\u00e7\u00e3o main\nputs\"Rapadura \u00e9 doce, mas num \u00e9 mole n\u00e3o!')",
+            "encoding": 0
+        }
+    ],
     "draft": {}
 }

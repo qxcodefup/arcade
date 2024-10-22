@@ -9,6 +9,12 @@
         }
     ],
     "keep": [],
-    "required": [],
+    "required": [
+        {
+            "name": "draft.c",
+            "contents": "#include <stdio.h>\n\nint main() {\n    // O que s\u00e3o modificadores de tipos?\n    // Os modificadores alteram o comportamento do tipo b\u00e1sico, podendo aumentar o tamanho\n    // ou restringir os valores poss\u00edveis.\n    // Alguns modificadores comuns s\u00e3o:\n    // - unsigned: usado para vari\u00e1veis que armazenam apenas valores n\u00e3o negativos.\n    // - long: permite armazenar n\u00fameros maiores do que o padr\u00e3o de um int ou float.\n\n    // Exemplo pr\u00e1tico:\n\n    // TODO: Declare uma vari\u00e1vel \"idade\" do tipo \"unsigned int\" para armazenar um valor inteiro positivo\n    // A vari\u00e1vel idade s\u00f3 armazenar\u00e1 valores n\u00e3o negativos (sem sinal).\n\n    // TODO: Declare uma vari\u00e1vel \"distancia\" do tipo \"long int\"\n    // Aqui usamos long para lidar com n\u00fameros maiores do que o int padr\u00e3o pode armazenar.\n\n    // TODO: Declare uma vari\u00e1vel \"precisao\" do tipo \"double\"\n    // Usamos double para maior precis\u00e3o em valores decimais.\n\n    // Como imprimir esses valores?\n    // Para vari\u00e1veis do tipo unsigned int, usamos o especificador de formato %u.\n    // Para vari\u00e1veis do tipo long int, usamos %ld.\n    // Para double, usamos %f, e podemos configurar o n\u00famero de casas decimais usando, por exemplo, %.7f.\n    \n    printf(\"Idade: %u\\n\", ???);       // unsigned int usa %u\n    printf(\"Dist\u00e2ncia: %ld\\n\", ???);  // long int usa %ld\n    printf(\"Precis\u00e3o: %.7f\\n\", ???);  // double usa %f com casas decimais configur\u00e1veis\n\n    return 0;\n}\n",
+            "encoding": 0
+        }
+    ],
     "draft": {}
 }

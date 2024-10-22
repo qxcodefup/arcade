@@ -9,6 +9,12 @@
         }
     ],
     "keep": [],
-    "required": [],
+    "required": [
+        {
+            "name": "draft.c",
+            "contents": "#include <stdio.h>\n\nint main() {\n    // Estruturas condicionais s\u00e3o usadas para tomar decis\u00f5es com base em condi\u00e7\u00f5es.\n    // Se a condi\u00e7\u00e3o dentro do if for verdadeira, o c\u00f3digo no bloco ser\u00e1 executado.\n\n    // Exemplo 1: Avaliando se um n\u00famero \u00e9 positivo, negativo ou zero.\n\n    // TODO: Corrija a sintaxe abaixo\n    int x == 10;  // erro: o operador de atribui\u00e7\u00e3o deve ser usado\n\n    if (x > 0) {\n        printf(\"A vari\u00e1vel x \u00e9 positiva.\\n\");\n    } else if x < 0)  // erro: faltam par\u00eanteses e chaves na condi\u00e7\u00e3o \n        printf(\"A vari\u00e1vel x \u00e9 negativa.\\n\");\n    } else {  // erro: fechamento incorreto da estrutura else if\n        printf(\"A vari\u00e1vel x \u00e9 zero.\\n\");\n\n    // Exemplo 2: Comparando dois n\u00fameros\n\n    // TODO: Corrija a sintaxe abaixo\n    int a = 10;\n    int b = 5;\n\n    if (a > b) {\n        printf(\"O n\u00famero %d \u00e9 maior que %d.\\n\", a, b);\n    else  // erro: falta o fechamento correto do if anterior \n        printf(\"O n\u00famero %d \u00e9 maior que %d.\\n\", b, a);\n\n    return 0;\n}\n",
+            "encoding": 0
+        }
+    ],
     "draft": {}
 }

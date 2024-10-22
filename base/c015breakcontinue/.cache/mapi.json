@@ -9,6 +9,12 @@
         }
     ],
     "keep": [],
-    "required": [],
+    "required": [
+        {
+            "name": "draft.c",
+            "contents": "#include <stdio.h>\n\nint main() {\n    // As palavras-chave break e continue s\u00e3o usadas para controlar o fluxo dos loops em C.\n    \n    // O que \u00e9 break?\n    // A palavra-chave break \u00e9 usada para interromper completamente a execu\u00e7\u00e3o de um loop.\n    // Quando o break \u00e9 encontrado, o loop para imediatamente e o c\u00f3digo fora do loop \u00e9 executado.\n    \n    // O que \u00e9 continue?\n    // A palavra-chave continue faz com que o loop pule a itera\u00e7\u00e3o atual e continue com a pr\u00f3xima.\n    // Ao encontrar um continue, o loop ignora o c\u00f3digo restante na itera\u00e7\u00e3o atual e volta para a condi\u00e7\u00e3o.\n\n    // Exemplo: Uso de break e continue em um loop for.\n\n    // Vamos percorrer os n\u00fameros de 1 a 10, mas:\n    // - Usaremos continue para pular o n\u00famero 3.\n    // - Usaremos break para interromper o loop ao atingir o n\u00famero 6.\n\n    for (int i = 1; i <= 10; i++) {\n        if (i == ???) { // erro: conserte a condi\u00e7\u00e3o\n            // TODO: adicione o continue para pular a itera\u00e7\u00e3o quando i for 3\n        }\n        printf(\"N\u00famero %d\\n\", i); \n        if (i == ???) {  // erro: conserte a condi\u00e7\u00e3o\n            printf(\"Loop interrompido no n\u00famero %d\\n\", i);\n            // TODO: adicione o break para interromper o loop quando i for 6.\n        }\n    }\n\n    return 0;\n}\n",
+            "encoding": 0
+        }
+    ],
     "draft": {}
 }

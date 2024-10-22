@@ -9,6 +9,12 @@
         }
     ],
     "keep": [],
-    "required": [],
+    "required": [
+        {
+            "name": "draft.c",
+            "contents": "#include <stdio.h>\n\nint main() {\n    // O que \u00e9 a estrutura switch-case?\n    // A estrutura switch-case \u00e9 uma alternativa ao if-else quando\n    // queremos comparar o valor de uma vari\u00e1vel com v\u00e1rias possibilidades.\n    // Em vez de utilizar v\u00e1rios if-else seguidos, podemos usar o switch\n    // para tornar o c\u00f3digo mais leg\u00edvel.\n\n    // Como funciona?\n    // O switch avalia o valor de uma vari\u00e1vel e executa o c\u00f3digo correspondente\n    // ao \"case\" correspondente. Se nenhum case for satisfeito, o bloco \"default\" ser\u00e1 executado.\n\n    // Exemplo: Avaliar o dia da semana com base em um n\u00famero.\n    int dia = 2;\n\n    switch (dia) {\n        // Cada \"case\" representa uma condi\u00e7\u00e3o para ser verificada.\n        // O \"break\" \u00e9 necess\u00e1rio para encerrar o bloco de cada case.\n        \n        // TODO: Adicione break's \u00e0 estrutura do switch-case e corrija a sintaxe.\n        case 1:\n            printf(\"Hoje \u00e9 segunda-feira.\\n\");\n            break;\n        case 6:\n            printf(\"Hoje \u00e9 s\u00e1bado.\\n\");\n        case 7\n            printf(\"Hoje \u00e9 domingo.\\n\");\n        ???:\n            printf(\"Dia inv\u00e1lido.\\n\");\n\n    // Faltando o fechamento do switch\n\n    return 0;\n}",
+            "encoding": 0
+        }
+    ],
     "draft": {}
 }
