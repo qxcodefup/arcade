@@ -333,26 +333,26 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 
 #### Introdução ao C
 
-- [ ] [@c001hello](clings/c001hello/Readme.md)
-- [ ] [@c002comentarios](clings/c002comentarios/Readme.md)
+- [ ] [@c001hello](base/c001hello/Readme.md)
+- [ ] [@c002comentarios](base/c002comentarios/Readme.md)
 
 #### Sintaxe Básica
 
-- [ ] [@c003pontuacao](clings/c003pontuacao/Readme.md)
-- [ ] [@c004especiais](clings/c004especiais/Readme.md)
+- [ ] [@c003pontuacao](base/c003pontuacao/Readme.md)
+- [ ] [@c004especiais](base/c004especiais/Readme.md)
 
 #### Variáveis e Tipos de Dados
 
-- [ ] [@c005variaveis](clings/c005variaveis/Readme.md)
-- [ ] [@c006constantes](clings/c006constantes/Readme.md)
-- [ ] [@c007tiposdedados](clings/c007tiposdedados/Readme.md)
+- [ ] [@c005variaveis](base/c005variaveis/Readme.md)
+- [ ] [@c006constantes](base/c006constantes/Readme.md)
+- [ ] [@c007tiposdedados](base/c007tiposdedados/Readme.md)
 
 #### Controle de Fluxo
 
-- [ ] [@c012ifelse](clings/c012ifelse/Readme.md)
-- [ ] [@c013switch](clings/c013switch/Readme.md)
-- [ ] [@c014loops](clings/c014loops/Readme.md)
-- [ ] [@c015breakcontinue](clings/c015breakcontinue/Readme.md)
+- [ ] [@c012ifelse](base/c012ifelse/Readme.md)
+- [ ] [@c013switch](base/c013switch/Readme.md)
+- [ ] [@c014loops](base/c014loops/Readme.md)
+- [ ] [@c015breakcontinue](base/c015breakcontinue/Readme.md)
 
 ### C: Ponteiros<!-- -->
 
