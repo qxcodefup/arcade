@@ -21,9 +21,6 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 2
 3
 4
->>>>>>>> INSERT
-=======
-4
 ======== EXPECT
 9
 <<<<<<<< FINISH
@@ -34,9 +31,6 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 12
 17
 24
->>>>>>>> INSERT
-=======
-24
 ======== EXPECT
 53
 <<<<<<<< FINISH
@@ -46,9 +40,6 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 >>>>>>>> INSERT
 -10
 -4
-23
->>>>>>>> INSERT
-=======
 23
 ======== EXPECT
 9
