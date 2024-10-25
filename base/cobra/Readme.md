@@ -12,7 +12,16 @@ No jogo da cobrinha, quando a cabeça passa do limite direito, ela reaparece do 
 
 ![_](pontos.jpg)
 
-A cabeça da cobra pode estar apontada para 4 possíveis direções. \[U\] Up(Cima), \[D\] Down (Baixo), \[L\] Left (Esquerda), \[R\] Right (Direita). Mavarildo se distrai por S segundos. Imagine que cada segundo, a cabeça da cobra se move 1 posição. Você deve fazer um código que calcule a posição da cabeça da cobra dada a dimensão do tabuleiro N, a posição inicial X, Y, a direção da cabeça C e a quantidade de segundos S que Mavarildo passa distraído.
+A cabeça da cobra pode estar apontada para 4 possíveis direções.
+
+```txt
+U Up   (Cima)
+D Down (Baixo)
+L Left (Esquerda)
+R Right (Direita)
+```
+
+Mavarildo se distrai por S segundos. Imagine que cada segundo, a cabeça da cobra se move 1 posição. Você deve fazer um código que calcule a posição da cabeça da cobra dada a dimensão do tabuleiro N, a posição inicial X, Y, a direção da cabeça C e a quantidade de segundos S que Mavarildo passa distraído.
 
 ### Entrada
 

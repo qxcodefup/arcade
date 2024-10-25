@@ -38,6 +38,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
     - [Introdução ao C](#introdução-ao-c)
     - [Sintaxe Básica](#sintaxe-básica)
     - [Variáveis e Tipos de Dados](#variáveis-e-tipos-de-dados)
+  - [Lógica](#lógica)
     - [Controle de Fluxo](#controle-de-fluxo)
   - [C: Ponteiros](#c-ponteiros)
   - [C: Structs](#c-structs)
@@ -346,6 +347,13 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [@c005variaveis](base/c005variaveis/Readme.md)
 - [ ] [@c006constantes](base/c006constantes/Readme.md)
 - [ ] [@c007tiposdedados](base/c007tiposdedados/Readme.md)
+
+### Lógica
+
+- [ ] [@c008aritmeticos](base/c008aritmeticos/Readme.md)
+- [ ] [@c009relacionais](base/c009relacionais/Readme.md)
+- [ ] [@c010logicos](base/c010logicos/Readme.md)
+- [ ] [@c011bitwise](base/c011bitwise/Readme.md)
 
 #### Controle de Fluxo
 
