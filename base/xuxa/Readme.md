@@ -2,31 +2,33 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
-"ra on odnalor at acopip ed oriehc a acopip"
-
-Tá ficando doido menino? Perguntou a mãe. Que marmota é essa que você tá fazendo com meu LP da Xuxa?
-
-Mamãe, é que eu ví na internet que se tocarmos as músicas da Xuxa ao contrário saem umas mensagens sinistras!
-
-## Ação
+- *"ra on odnalor at acopip ed oriehc a acopip"*
+- *"Tá ficando doido menino?" Perguntou a mãe.*
+- *"Que marmota é essa que você tá fazendo com meu LP da Xuxa?"*
+- *"Mamãe, é que eu vi na internet que se tocarmos as músicas da Xuxa ao contrário saem umas mensagens sinistras!"*
 
 Ajude Carlinhos a testar essa teoria.
 
-Dado uma string, imprima a mesma string ao contrário.
+Implemente um programa que, dada uma string, imprima a mesma string ao contrário.
 
 ### Entrada
 
-* Uma frase de até 100 caracteres.
+- Uma frase de até **100** caracteres.
 
-## Saída
+### Saída
 
-* Imprima a frase ao contrario.
+- A frase invertida.
 
-## Exemplos
+### Restrições
 
-``` py
+- A frase terá entre **1** e **100** caracteres.
+- Apenas letras e espaços estarão na frase.
+
+## Testes
+
+```py
 >>>>>>>> INSERT
 ra on odnalor at acopip ed oriehc o
 ======== EXPECT

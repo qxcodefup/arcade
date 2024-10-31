@@ -2,31 +2,26 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
-João quer montar um painel de leds contendo diversos números. Ele não possui muitos leds, e não tem certeza se conseguirá montar o número desejado.
-  
-## Ação
-
-Considerando a configuração dos leds dos números abaixo, faça um algoritmo que ajude João a descobrir a quantidade de leds necessário para montar o valor.
+João quer montar um painel de LEDs com diversos números, mas ele não sabe quantos LEDs serão necessários para formar um número específico. Para ajudá-lo, vamos criar um programa que calcule a quantidade de LEDs necessária para exibir um número com base em uma configuração padrão de segmentos de LED.
 
 ![_](leds.png)
 
+Dado o número de casos de teste e uma sequência de números inteiros, para cada número, calcule a quantidade de LEDs necessária para montá-lo com o padrão ilustrado na imagem.
+
 ### Entrada
 
-* A entrada contém um inteiro **N**, (1 ≤ N ≤ 1000), correspondente ao número de casos de teste, seguido de **N** linhas, cada linha contendo um número (1 ≤ V ≤ 10100) correspondente ao valor que João quer montar com os leds.
+- Um número inteiro **N** (1 ≤ N ≤ 1000), representando o número de casos de teste.
+- **N** linhas, onde cada linha contém um número inteiro **V** (1 ≤ V ≤ 10¹⁰⁰), representando o valor que João deseja montar com LEDs.
 
 ## Saída
 
-* Para cada caso de teste, imprima uma linha contendo o número de leds que João precisa para montar o valor desejado, seguido da palavra "leds".  
+Para cada número **V** na entrada, exiba uma linha com a quantidade de LEDs necessária para montá-lo, seguido da palavra **"leds"**.
 
-Agradecimentos a Cassio F.
+## Testes
 
-[https://www.urionlinejudge.com.br/judge/pt/problems/view/1168](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168)
-  
-## Exemplos
-
-``` py
+```py
 >>>>>>>> INSERT
 3
 1

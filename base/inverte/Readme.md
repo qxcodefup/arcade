@@ -2,23 +2,29 @@
 
 ![_](cover.jpg)
 
-## Ação
+## Contexto
 
-Dado a entrada de um caractere, retorne maiúsculo se ele for minúsculo e vice versa.
+Implemente um programa que, dado um único caractere, retorne a sua versão com o "case" invertido:
+
+- Se o caractere for minúsculo, retorne-o em maiúsculo.
+- Se o caractere for maiúsculo, retorne-o em minúsculo.
+- Se o caractere não for uma letra, retorne-o inalterado.
 
 ### Entrada
 
-* Um caractere.
+- Um único caractere (letra, número ou símbolo).
 
-## Saída
+### Saída
 
-* Se ele for maiúsculo, retorne o minúsculo.
-* Se ele for minusculo, retorne o maiúsculo.
-* Se ele for qualquer outra coisa retorne ele mesmo.  
+- A versão invertida do caractere se for letra, ou o próprio caractere caso contrário.
 
-## Exemplos
+### Restrições
 
-``` py
+- O caractere será qualquer um representável em **ASCII**.
+
+## Testes
+
+```py
 >>>>>>>> INSERT
 a
 ======== EXPECT

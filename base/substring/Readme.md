@@ -2,21 +2,26 @@
 
 ![_](cover.jpg)
 
-## Ação
+## Contexto
 
-Faça uma função que retorna uma substring dada a String passada, o ÍNDICE da posição inicial e o número de caracteres a serem obtidos. Se os valores de inicio forem inválidos, retorne uma String vazia. Retorne a quantidade de caracteres pedidos ou até terminar a palavra.
+Implemente uma função que, dada uma string, um índice de início e uma quantidade de caracteres, retorne a substring correspondente. Se o índice ou a quantidade de caracteres forem inválidos, retorne uma string vazia. A função deve retornar exatamente a quantidade de caracteres solicitada ou até o fim da string, o que ocorrer primeiro.
 
 ### Entrada
 
-* Um texto, no máximo 100 chars.
-* O índice do primeiro caractere.
-* Quantidade de caracteres.
+- Uma String com até 100 caracteres.
+- Um número inteiro representando o índice de início.
+- Um número inteiro representando a quantidade de caracteres desejada.
 
-## Saída
+### Saída
 
-* A substring.
+- A substring resultante com o número de caracteres pedidos ou uma string vazia caso o índice inicial ou a quantidade de caracteres seja inválida.
 
-## Exemplos
+### Restrições
+
+- O índice de início e a quantidade de caracteres são sempre inteiros.
+- A string contém apenas caracteres alfanuméricos e espaços.
+
+## Testes
 
 ```py
 >>>>>>>> INSERT 01
@@ -51,8 +56,9 @@ r Ranger
 
 ## Dicas
 
-* Se estiver em Python, faça usando um laço para montar a substring.
 
-* Crie uma variável resposta como String vazia.
+### Programando em Python
 
-* Faca um laço que percorra os caracteres que você precisa da palavra e adicione na String resposta.
+- Em Python, você pode usar fatiamento para obter uma substring diretamente, por exemplo, `texto[inicio:inicio + quantidade]`.
+- Verifique se o índice inicial é válido para evitar erros de índice fora do intervalo.
+- Caso o índice inicial seja maior que o comprimento da string, ou a quantidade de caracteres solicitada seja negativa, retorne uma string vazia imediatamente.

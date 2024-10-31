@@ -1,31 +1,30 @@
 # Figurinhas repetidas
 
-## Motivação
-
 ![_](cover.jpg)
+
+## Contexto
 
 Baruel Ruel tem muitas figurinhas do álbum de futebol. Ele estava indo para uma feira de troca de figurinhas quando tropeçou e misturou as figurinhas todas. Ele não sabe mais quais figurinhas estão repetidas e tem pra trocar, nem quais estão faltando pra completar a coleção. Ajude Baruel Ruel com essa tarefa.
 
-\[DS\]
-
 ### Entrada
 
-- É composta da quantidade de figurinhas no álbum e da lista de figurinhas de Baruel de forma ORDENADA. A saída deve ser uma linha contendo as figurinhas repetidas e os números da figurinhas que faltam. Se não houver figurinhas repetidas ou não faltar nenhuma escreva 'N'.  
+- linha 1: Quantidade de figurinhas **'N'** totais do album(1 a 50)  
+- linha 2: Quantidade de figurinhas **'N'** que Baruel possui (1 a 100)  
+- linha 3: Números das figurinhas **'N'**  de forma **ORDENADA**.
 
-**Ex:**  
+### Saída
 
-- linha 1: quantidade de figurinha total do album(1 a 50)  
-- linha 2: quantidade de figurinhas que Baruel possui (1 a 100)  
-- linha 3: números das figurinhas de forma ORDENADA.
+- A saída deve ser uma linha contendo as figurinhas repetidas e os números da figurinhas que faltam.
+- Se não houver figurinhas repetidas ou não faltar nenhuma escreva **'N'**.
 
-## Saída
+**Ex:**
 
-- linha 1: as figuras que ele tem pra trocar ou 'N' se nenhuma  
-- linha 2: os números das figuras que faltam ou 'N' se nenhuma
+- linha 1: As figurinhas que baruel tem repetidas ou **'N'** se nenhuma.
+- linha 2: Os números das figuras que faltam ou **'N'** se nenhuma.
 
-## Exemplos
+## Testes
 
-``` py
+```py
 >>>>>>>> INSERT
 5
 8

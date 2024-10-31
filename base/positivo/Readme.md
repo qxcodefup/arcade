@@ -14,7 +14,7 @@ Implemente um programa que recebe um número inteiro e imprime "SIM" se o númer
 
 ### Saída
 
-- "SIM" se o número for maior ou igual a zero, caso contrário, apenas uma quebra de linha.
+- "SIM" se o número for maior ou igual a zero, caso contrário, NAO.
 
 ## Testes
 
@@ -30,7 +30,7 @@ SIM
 >>>>>>>> INSERT 1
 -12
 ======== EXPECT
-
+NAO
 <<<<<<<< FINISH
 ```
 
@@ -38,7 +38,7 @@ SIM
 >>>>>>>> INSERT 2
 -3
 ======== EXPECT
-
+NAO
 <<<<<<<< FINISH
 ```
 

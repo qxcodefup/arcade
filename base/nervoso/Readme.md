@@ -41,7 +41,7 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 0
 ======== EXPECT
 0
-<<<<<<<< FINISH<
+<<<<<<<< FINISH
 
 >>>>>>>> INSERT
 10

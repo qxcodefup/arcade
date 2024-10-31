@@ -23,8 +23,6 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 1
 4
 4
->>>>>>>> INSERT
-4
 ======== EXPECT
 2
 <<<<<<<< FINISH
@@ -34,8 +32,6 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 >>>>>>>> INSERT 02
 1
 5
-4
->>>>>>>> INSERT
 4
 ======== EXPECT
 0

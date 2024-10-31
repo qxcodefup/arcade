@@ -2,35 +2,30 @@
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
-Todo batráquio é anfíbio, mas nem todo anfíbio é batráquio. Todo sapo, rã e perereca são tanto anfíbios
-como batráquios.
+Todo batráquio é um anfíbio, mas nem todo anfíbio é um batráquio. Os sapos, as rãs e as pererecas são exemplos de animais que são ao mesmo tempo anfíbios e batráquios.
 
-Assim, o conjunto dos sapos está contido no de batráquios que está contido no de anfíbio.
+Portanto, o conjunto dos sapos está contido no conjunto dos batráquios, que, por sua vez, está contido no conjunto dos anfíbios.
 
-Não entendeu? Quem mandou gazear a aula de biologia. -_-
+Ficou confuso? Quem mandou faltar à aula de biologia!
 
-\[DS\]
-
-## Ação
-
-Dados dois vetores, verifique se o primeiro está contido no segundo.
+Agora, aplicando isso a vetores: dados dois vetores, verifique se o primeiro está contido no segundo.
 
 ### Entrada
 
-- 1a linha: Número de elementos do primeiro vetor(1 a 50) seguido dos elementos.  
-- 2a linha: Número de elementos do segundo vetor(1 a 50) seguido dos elementos.
+- linha 1: Número de elementos **N** do primeiro vetor (1 a 50) seguido dos elementos.  
+- linha 2: Número de elementos **N** do segundo vetor(1 a 50) seguido dos elementos.
 
-## Saída
+### Saída
 
-- "sim" se o primeiro está condido no segundo e não caso contrário.
+- **"sim"** se o primeiro está condido no segundo e **"não"** caso contrário.
 
-- Descubra se o vetor v1 está contido em v2 e retorne true se isso ocorrer.
+- Descubra se o vetor v1 está contido em v2 e retorne **"true"** se isso ocorrer.
   
-## Exemplos
+## Testes
 
-``` py
+```py
 >>>>>>>> INSERT
 2 1 3
 3 1 5 3
