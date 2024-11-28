@@ -1,27 +1,24 @@
-# - Analisando vetores
+# Analisando vetores
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
-Super Mário e Assassins Creed.
+Thaiquovisqui da Silva está desenvolvendo um jogo inspirado em Super Mario e Assassin's Creed.
 
-Thaiquovisqui da Silva está fazendo um joguinho com uma mistura de Super Mário e Assassins Creed.
+No jogo, Mario se move em um cenário 2D. No entanto, ao invés de pular na cabeça dos inimigos, ele os elimina com uma chave de fenda ou uma chave inglesa, lembrando que ele é um encanador. O problema é que o cenário contém algumas áreas difíceis para Mario se deslocar: blocos altos demais, nos quais ele não consegue subir, e blocos baixos demais, que podem ser perigosos.
 
-Nele, o Mário anda em um cenário 2D, mas ao invés de pular na cabeça dos inimigos ele mata com uma chave de fenda no coração ou esmigalhando o crânio com uma chave inglesa.
+Mario consegue subir apenas um bloco acima do nível atual ou descer um bloco. Se a diferença entre os níveis for maior que um bloco, ele precisará realizar um movimento de parkour.
 
-Lembre-se que o Mário é encanador! Então isso faz todo sentido jogabilístico.
+Um movimento de parkour ocorre sempre que Mario precisa subir ou descer mais de um bloco para continuar avançando.
 
-O problema é que o cenário não ficou legal e tem alguns locais ruins. Seja lugares altos demais que onde o Mário tem dificuldade de subir ou baixos demais que ele morre ao cair.
+O objetivo do programa é calcular quantos movimentos de parkour Mario precisa fazer para atravessar todo o cenário.
 
-Mário só consegue pular até um bloco acima do nível atual, ou descer um bloco. Se a diferença entre os
-níveis for maior que um bloco ele precisará fazer um movimento de parkour.
+Um cenário é representado por um vetor de números positivos, onde cada valor indica a altura de um bloco.
 
-Dado um cenário, calcule quantos movimentos de parkour o Mário vai precisar para percorrer o cenário.
+**Ex:**
 
-Um cenário é um vetor de números positivos onde o vetor representa a altura dos blocos.
-
-O vetor 1, 1, 3, 3, 4, 6, 4, 2, 2, 1 seria como o seguinte cenário:
+- O vetor `[1, 1, 3, 3, 4, 6, 4, 2, 2, 1]` seria como o seguinte cenário:
 
 ``` py
 _____#____
@@ -33,24 +30,20 @@ __#######_
 1133464221
 ```
 
-Nele, o Mário precisa de 4 movimentos de parkour. Do 1 para o 3, do 4 para o 6, do 6 para o 4, e do 4 para o 2.
-
-## Ação
-
-Receba um vetor de inteiros e conte quantas vezes dois números consecutivos possuem diferença absoluta maior que 1.
+Neste exemplo, Mario precisa realizar 4 movimentos de parkour: do bloco `1` para o bloco `3`, do bloco `4` para o bloco `6`, do bloco `6` para o bloco `4`, e do bloco `4` para o bloco `2`.
 
 ### Entrada
 
-* Quantidade de elementos do vetor (1 a 50).
-* Elementos do vetor.  
+- linha 1: A Quantidade de elementos **'N'** do vetor (1 a 50).
+- linha 2: Um vetor de N inteiros positivos representando as alturas dos blocos.  
 
-## Saída
+### Saída
 
-* Quantidade de movimentos de parkour.  
+- Um número inteiro representando a quantidade de movimentos de parkour necessários.
 
-## Exemplos
+## Testes
 
-``` py
+```py
 >>>>>>>> INSERT
 5
 1 2 1 2 3

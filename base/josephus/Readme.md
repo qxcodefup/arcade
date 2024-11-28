@@ -1,8 +1,9 @@
 # Cabeças vão rolar
-
 ![_](cover.jpg)
 
-## Motivação
+
+
+## Contexto
 
 Um problema clássico da matemática e da história é o problema de Josephus. Nele, várias pessoas estão disputando e apenas uma será a vencedora.
 
@@ -12,21 +13,19 @@ Imagine N pessoas em círculo, sendo que o primeiro tem o número 1 na camisa e 
 
 Em seguida, um número X é sorteado.
 
-A pessoa X sorteada pega a espada e decapita o companheiro da sua frente. Depois passa a espada para o próximo vivo que decapita o colega da frente.  
+A pessoa X sorteada pega a espada e decapita o companheiro da sua frente. Depois passa a espada para o próximo vivo que decapita o colega da frente.
+
+Como se fosse removendo elementos intercaladamente em uma lista circular.
   
 Assim continue até que só sobre um.
 
 Highlander Mode On!  
   
-Atenção: Não faça isso em casa.  
+**Atenção:** Não faça isso em casa.  
   
-## Ação
-
-Remova elementos intercaladamente em uma lista circular.  
-
-### Simulação
+**Ex:**
   
-Cinco pessoas e é sorteado o 3.  
+- Cinco pessoas e é sorteado o 3.  
 
 ```py
 1 2 3 4 5  : O 3 mata o 4 e a espada vai pro 5.  
@@ -36,18 +35,18 @@ Cinco pessoas e é sorteado o 3.
 5  
 ```
 
-Sobra o cinco.  
+- Sobra o cinco.  
 
 ### Entrada
 
-* O número N de participantes.  
-* O número X do participante que inicia o jogo.  
+- O número **N** de participantes.  
+- O número **X** do participante que inicia o jogo.  
 
-## Saída
+### Saída
 
-* O número do jogador vencedor.
+-  O número do jogador vencedor.
 
-## Exemplos
+## Testes
 
 ``` py
 

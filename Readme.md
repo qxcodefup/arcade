@@ -40,6 +40,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
     - [Variáveis e Tipos de Dados](#variáveis-e-tipos-de-dados)
   - [Lógica](#lógica)
     - [Controle de Fluxo](#controle-de-fluxo)
+    - [Avançado](#avançado)
   - [C: Ponteiros](#c-ponteiros)
   - [C: Structs](#c-structs)
   - [C: Recursão](#c-recursão)
@@ -133,12 +134,12 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] `L2 @cartas     :`[- Transformando números em letras](base/cartas/Readme.md)
 - [ ] `L2 @invertendo :`[- Invertendo vetor](base/invertendo/Readme.md)
 - [ ] `L2 @fila       :`[- Separar Pares e Ímpares](base/fila/Readme.md)
-- [ ] `L3 @pedra      :`[- Pedra na lua](base/pedra/Readme.md)
-- [ ] `L3 @troco      :`[- Calculando troco](base/troco/Readme.md)
-- [ ] `L3 @casais     :`[- Quantos casais na arca](base/casais/Readme.md)
-- [ ] `L3 @exemplares :`[- Arca quantos exemplares](base/exemplares/Readme.md)
-- [ ] `L3 @parkour    :`[- Analisando vetores](base/parkour/Readme.md)
-- [ ] `L3 @medico     :`[- Busca por proximidade](base/medico/Readme.md)
+- [ ] `L3 @pedra      :`[Pedra na lua](base/pedra/Readme.md)
+- [ ] `L3 @troco      :`[Calculando troco](base/troco/Readme.md)
+- [ ] `L3 @casais     :`[Quantos casais na arca](base/casais/Readme.md)
+- [ ] `L3 @exemplares :`[Arca quantos exemplares](base/exemplares/Readme.md)
+- [ ] `L3 @parkour    :`[Analisando vetores](base/parkour/Readme.md)
+- [ ] `L3 @medico     :`[Busca por proximidade](base/medico/Readme.md)
 
 ### Missão: Vetores III<!-- +vet:20 -->[](#missão-vetores-ii)
 
@@ -361,6 +362,19 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [@c013switch](base/c013switch/Readme.md)
 - [ ] [@c014loops](base/c014loops/Readme.md)
 - [ ] [@c015breakcontinue](base/c015breakcontinue/Readme.md)
+
+#### Avançado
+
+- [ ] [@c016funcoes](base/c016funcoes/Readme.md)
+- [ ] [@c017retornovalores](base/c017retornovalores/Readme.md)
+- [ ] [@c018parametros](base/c018parametros/Readme.md)
+- [ ] [@c019recursividade](base/c019recursividade/Readme.md)
+- [ ] [@c020arrays](base/c020arrays/Readme.md)
+- [ ] [@c021arraysmultidimensionais](base/c021arraysmultidimensionais/Readme.md)
+- [ ] [@c022strings](base/c022strings/Readme.md)
+- [ ] [@c023structs](base/c023structs/Readme.md)
+- [ ] [@c024unions](base/c024unions/Readme.md)
+- [ ] [@c025enums](base/c025enums/Readme.md)
 
 ### C: Ponteiros<!-- -->
 

@@ -1,32 +1,27 @@
-# - Arca quantos exemplares
+# Arca quantos exemplares
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
-O dono do zoologico quer a lista de todas as especies de animais  
-que existem no zoologico. Para isso ele te deu uma lista de todos  
-os animais. Ele quer que você faça um programa que retorne uma  
-nova lista contendo apenas um animal de cada especie.  
-Considere que um número representa uma especie.  
-Devolva um novo vetor, sem números repetidos e ordenado.
-
-Não use uma função de ordenar pronta.
-
-\[DS\]
+O dono do zoologico quer a lista de todas as especies de animais  que existem no zoologico. Para isso ele te deu uma lista de todos  os animais. Ele quer que você faça um programa que retorne uma  nova lista contendo apenas um animal de cada especie. Considere que um número representa uma especie. Devolva um novo vetor, sem números repetidos e ordenado.
 
 ### Entrada
 
-- linha 1: um número com a quantidade de elementos do vetor
-- linha 2: o vetor de inteiros  
+- linha 1: Um número inteiro **'N"** com a quantidade de elementos do vetor.
+- linha 2: O vetor de N inteiros representando as espécies dos animais.
 
-## Saída
+### Saída
 
 - O novo vetor ordenado contendo um exemplar de cada elemento.
 
-## Exemplos
+### Restrições
 
-``` py
+- Não utilize funções de ordenação prontas.
+
+## Testes
+
+```py
 >>>>>>>> INSERT
 3
 1 1 2

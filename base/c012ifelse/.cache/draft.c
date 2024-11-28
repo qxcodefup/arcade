@@ -11,10 +11,12 @@ int main() {
 
     if (x > 0) {
         printf("A variável x é positiva.\n");
-    } else if x < 0)  // erro: faltam parênteses e chaves na condição 
+    // } else if x < 0)  // erro: faltam parênteses e chaves na condição //ACT!
+    } else if (x < 0) { //DEL!
         printf("A variável x é negativa.\n");
     } else {  // erro: fechamento incorreto da estrutura else if
         printf("A variável x é zero.\n");
+    } //DEL!
 
     // Exemplo 2: Comparando dois números
 
@@ -24,8 +26,10 @@ int main() {
 
     if (a > b) {
         printf("O número %d é maior que %d.\n", a, b);
-    else  // erro: falta o fechamento correto do if anterior 
+    // else  // erro: falta o fechamento correto do if anterior //ACT!
+    } else { //DEL!
         printf("O número %d é maior que %d.\n", b, a);
+    } //DEL!
 
     return 0;
 }

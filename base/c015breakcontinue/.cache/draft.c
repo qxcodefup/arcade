@@ -21,7 +21,6 @@ int main() {
         if (i == ???) { // erro: conserte a condição
             // TODO: adicione o continue para pular a iteração quando i for 3
         }
-        printf("Número %d\n", i); 
         if (i == ???) {  // erro: conserte a condição
             printf("Loop interrompido no número %d\n", i);
             // TODO: adicione o break para interromper o loop quando i for 6.

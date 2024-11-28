@@ -29,6 +29,7 @@ int main() {
         ???:
             printf("Dia inválido.\n");
 
+    } //DEL!
     // Faltando o fechamento do switch
 
     return 0;

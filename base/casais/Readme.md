@@ -1,23 +1,23 @@
-# - Quantos casais na arca
+# Quantos casais na arca
 
 ![_](cover.jpg)
 
-## Motivação
+## Contexto
 
-O Dono do zoológico que fazer uma grande arca e colocar os animais dentro. Acontece que os animais só podem entrar na arca aos pares. Um número representa uma espécie. Se esse número for positivo, é um animal macho e se for um número negativo, é um animal fêmea. Um casal precisa ter um macho e uma fêmea da mesma espécie.
+O dono do zoológico quer construir uma grande arca e colocar os animais dentro dela. Os animais só podem embarcar aos **pares**. Um número inteiro representa uma espécie de animal. Se esse número for **positivo**, representa um animal **macho**; se for **negativo**, representa uma **fêmea**. Um casal válido consiste em um macho e uma fêmea da mesma espécie.
 
 ### Entrada
 
-* linha 1: um número com a quantidade de elementos do vetor (até 50)
-* linha 2: o vetor de inteiros
+- linha 1: Um número com a quantidade **'N'** de elementos do vetor (até 50).
+- linha 2: O vetor **'N'** de inteiros representando as espécies dos animais.
 
-## Saída
+### Saída
 
-* A quantidade de casais formados.
+- A quantidade de casais formados.
 
-## Exemplos
+## Testes
 
-``` py
+```py
 >>>>>>>> INSERT
 3
 1 -1 2

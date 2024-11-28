@@ -1,24 +1,28 @@
-# - Busca por proximidade
+# Busca por proximidade
 
 ![_](cover.jpg)
-![_](solver.cpp)
 
-## Motivação
+## Contexto
 
-Os soldados formaram uma fila no quartel. Essa fila está representada por um vetor de inteiros. O 1 representa um médico e o 0 soldado de combate. Todo soldado de combate perto de um médico tem mais chances de sobreviver. A pergunta é quantos soldados NÃO estão adjacentes a um médico.  
+No quartel, os soldados formaram uma fila representada por um vetor de inteiros. Nesta fila:
+
+- `1` representa um médico.
+- `0` representa um soldado de combate.
+
+Todo soldado de combate que está adjacente a um médico (à esquerda ou à direita) tem mais chances de sobreviver. O objetivo é calcular quantos soldados **não estão adjacentes** a um médico e, portanto, não têm proteção.
 
 ### Entrada
 
-* 1ª linha:  quantidade de elementos do vetor.
-* 2ª linha:  elementos do vetor.
+- linha 1:  Um número inteiro **'N'** representando a quantidade de elementos do vetor.
+ - linha 2: Uma sequência de **N** inteiros, onde cada elemento é **0** (soldado) ou **1** (médico).
 
-## Saída
+### Saída
 
 * A quantidade de soldados que não tem médico à sua direita ou à sua esquerda.
 
 ## Exemplos
 
-``` py
+```py
 >>>>>>>> INSERT
 3
 0 0 1
