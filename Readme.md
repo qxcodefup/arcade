@@ -34,13 +34,10 @@ Também pode executá-las diretamente no seu computador ou no replit através do
   - [Problemas: Structs](#problemas-structs)
   - [Problemas: Recursão](#problemas-recursão)
 - [Linguagem C](#linguagem-c)
-  - [CLings: Conserte e Aprenda](#clings-conserte-e-aprenda)
-    - [Introdução ao C](#introdução-ao-c)
-    - [Sintaxe Básica](#sintaxe-básica)
-    - [Variáveis e Tipos de Dados](#variáveis-e-tipos-de-dados)
-  - [Lógica](#lógica)
-    - [Controle de Fluxo](#controle-de-fluxo)
-    - [Avançado](#avançado)
+  - [CLings: Introdução](#clings-introdução)
+  - [CLings: Lógica](#clings-lógica)
+  - [CLings: Controle de Fluxo](#clings-controle-de-fluxo)
+    - [CLings: Dados](#clings-dados)
   - [C: Ponteiros](#c-ponteiros)
   - [C: Structs](#c-structs)
   - [C: Recursão](#c-recursão)
@@ -49,7 +46,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
   - [TS: Arrays](#ts-arrays)
 <!-- toc -->
 
-## Campanha Principal<!-- group -->
+## Campanha Principal
 
 ### Missão: Operações<!-- +basic:10 -->
 
@@ -167,7 +164,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] `L3 @gamados     :`[Verificar ordenação da frase](base/gamados/Readme.md)
 - [ ] `L3 @mario       :`[Mário e o Assassins Creed](base/mario/Readme.md)
 
-## Repositório de Problemas<!-- group -->
+## Repositório de Problemas
 
 ### Problemas: Operações<!-- +basic:10 -->[](#missão-operações)
 
@@ -329,45 +326,37 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 
 - [ ] `L3 @hanoi     :` [Torres de Hanoi](base/hanoi/Readme.md)
 
-## Linguagem C<!-- group -->
+## Linguagem C
 
-### CLings: Conserte e Aprenda<!-- -->
-
-#### Introdução ao C
+### CLings: Introdução
 
 - [ ] [@c001hello](base/c001hello/Readme.md)
 - [ ] [@c002comentarios](base/c002comentarios/Readme.md)
-
-#### Sintaxe Básica
-
 - [ ] [@c003pontuacao](base/c003pontuacao/Readme.md)
 - [ ] [@c004especiais](base/c004especiais/Readme.md)
-
-#### Variáveis e Tipos de Dados
-
 - [ ] [@c005variaveis](base/c005variaveis/Readme.md)
 - [ ] [@c006constantes](base/c006constantes/Readme.md)
 - [ ] [@c007tiposdedados](base/c007tiposdedados/Readme.md)
 
-### Lógica
+### CLings: Lógica
 
 - [ ] [@c008aritmeticos](base/c008aritmeticos/Readme.md)
 - [ ] [@c009relacionais](base/c009relacionais/Readme.md)
 - [ ] [@c010logicos](base/c010logicos/Readme.md)
 - [ ] [@c011bitwise](base/c011bitwise/Readme.md)
 
-#### Controle de Fluxo
+### CLings: Controle de Fluxo
 
 - [ ] [@c012ifelse](base/c012ifelse/Readme.md)
 - [ ] [@c013switch](base/c013switch/Readme.md)
 - [ ] [@c014loops](base/c014loops/Readme.md)
 - [ ] [@c015breakcontinue](base/c015breakcontinue/Readme.md)
-
-#### Avançado
-
 - [ ] [@c016funcoes](base/c016funcoes/Readme.md)
 - [ ] [@c017retornovalores](base/c017retornovalores/Readme.md)
 - [ ] [@c018parametros](base/c018parametros/Readme.md)
+
+#### CLings: Dados
+
 - [ ] [@c019recursividade](base/c019recursividade/Readme.md)
 - [ ] [@c020arrays](base/c020arrays/Readme.md)
 - [ ] [@c021arraysmultidimensionais](base/c021arraysmultidimensionais/Readme.md)
@@ -376,7 +365,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [@c024unions](base/c024unions/Readme.md)
 - [ ] [@c025enums](base/c025enums/Readme.md)
 
-### C: Ponteiros<!-- -->
+### C: Ponteiros
 
 - [ ] `L2 @formatado :`[Imprimir vetor formatado](base/formatado/Readme.md)
 - [ ] `L1 @duelo     :`[Luta até a morte](base/duelo/Readme.md)
@@ -384,28 +373,28 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] `L2 @endereco  :`[Função que retorna vários valores](base/endereco/Readme.md)
 - [ ] `L2 @realoc    :`[Vetor de strings com variados tamanhos](base/realoc/Readme.md)
 
-### C: Structs<!-- -->
+### C: Structs
 
 - [ ] `L1 @empacotar     :`[Empacotar operações](base/empacotar/Readme.md)
 - [ ] `L2 @comparar_data :`[Comparar data](base/comparar_data/Readme.md)
 - [ ] `L2 @retangulo     :`[Pontos do retângulo](base/retangulo/Readme.md)
 - [ ] `L2 @perto         :`[Pontos como structs](base/perto/Readme.md)
 
-### C: Recursão<!--  -->
+### C: Recursão
 
 - [ ] `L2 @ocorrencias  :`[Contagem de ocorrências](base/ocorrencias/Readme.md)
 - [ ] `L2 @rec_fib      :`[Números de Fibonacci](base/rec_fib/Readme.md)
 - [ ] `L3 @rec_count    :`[Contando caracteres recursivamente](base/rec_count/Readme.md)
 
-## Linguagem TS<!--group-->
+## Linguagem TS
 
-### TS: Intrudução<!---->
+### TS: Intrudução
 
 - [ ] L0 [Revisão de FUP](wiki/ts_base/fup_leitura.md)
 - [ ] L0 [Revisão](wiki/ts_base/fup_revisao.md)
 - [ ] L0 [Prática](wiki/ts_base/fup_pratica.md)
 
-### TS: Arrays<!---->
+### TS: Arrays
 
 - [ ] L0 [Leitura arrays](wiki/ts_base/arrays_leitura.md)
 - [ ] L0 [Revisão Arrays](wiki/ts_base/arrays_revisao.md)
