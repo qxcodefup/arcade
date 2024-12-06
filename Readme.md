@@ -328,7 +328,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 
 ## Linguagem C
 
-### CLings: Introdução
+### CLings: Introdução<!-- prog -->
 
 - [ ] [@c001hello](base/c001hello/Readme.md)
 - [ ] [@c002comentarios](base/c002comentarios/Readme.md)
