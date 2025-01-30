@@ -1,4 +1,8 @@
-<!-- level_one:50 level_mult:1.2 -->
+---
+level_one: 50
+level_mult: 1.2
+---
+
 # QxcodeFup
 
 Esse repositório foi criado e é mantido por mim, David Sena `sena@ufc.br`, professor da UFC de Quixadá.
@@ -38,6 +42,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
   - [CLings: Lógica](#clings-lógica)
   - [CLings: Controle de Fluxo](#clings-controle-de-fluxo)
     - [CLings: Dados](#clings-dados)
+    - [CLings: Avançado](#clings-avançado)
   - [C: Ponteiros](#c-ponteiros)
   - [C: Structs](#c-structs)
   - [C: Recursão](#c-recursão)
@@ -328,7 +333,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 
 ## Linguagem C
 
-### CLings: Introdução<!-- prog -->
+### CLings: Introdução
 
 - [ ] [@c001hello](base/c001hello/Readme.md)
 - [ ] [@c002comentarios](base/c002comentarios/Readme.md)
@@ -365,6 +370,14 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [@c024unions](base/c024unions/Readme.md)
 - [ ] [@c025enums](base/c025enums/Readme.md)
 
+#### CLings: Avançado
+
+- [ ] [@c030malloccallocfree](base/c030malloccallocfree/Readme.md)
+- [ ] [@c031realloc](base/c031realloc/Readme.md)
+- [ ] [@c032leituraescrita](base/c032leituraescrita/Readme.md)
+- [ ] [@c033modosarquivos](base/c033modosarquivos/Readme.md)
+- [ ] [@c034leituracaracteres](base/c034leituracaracteres/Readme.md)
+
 ### C: Ponteiros
 
 - [ ] `L2 @formatado :`[Imprimir vetor formatado](base/formatado/Readme.md)
@@ -390,12 +403,12 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 
 ### TS: Intrudução
 
-- [ ] L0 [Revisão de FUP](wiki/ts_base/fup_leitura.md)
-- [ ] L0 [Revisão](wiki/ts_base/fup_revisao.md)
-- [ ] L0 [Prática](wiki/ts_base/fup_pratica.md)
+- [ ] `@ts_leitura  :`[Revisão de FUP](wiki/ts_base/fup_leitura.md)
+- [ ] `@ts_revisao  :`[Revisão](wiki/ts_base/fup_revisao.md)
+- [ ] `@ts_pratica  :`[Prática](wiki/ts_base/fup_pratica.md)
 
 ### TS: Arrays
 
-- [ ] L0 [Leitura arrays](wiki/ts_base/arrays_leitura.md)
-- [ ] L0 [Revisão Arrays](wiki/ts_base/arrays_revisao.md)
-- [ ] L0 [Arrays - Prática](wiki/ts_base/arrays_pratica.md)
+- [ ] `L2 @ts_array_leitura  :` [Leitura arrays](wiki/ts_base/arrays_leitura.md)
+- [ ] `L2 @ts_array_revisao  :` [Revisão Arrays](wiki/ts_base/arrays_revisao.md)
+- [ ] `L2 @ts_array_pratica  :` [Arrays - Prática](wiki/ts_base/arrays_pratica.md)
