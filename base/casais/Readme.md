@@ -38,8 +38,17 @@ O dono do zoológico quer construir uma grande arca e colocar os animais dentro 
 ```py
 >>>>>>>> INSERT
 10
-1 9 -3 3 3 2 -1 4 -1 1`
+1 9 -3 3 3 2 -1 4 -1 1
 ======== EXPECT
 3
+<<<<<<<< FINISH
+```
+
+```py
+>>>>>>>> INSERT
+11
+1 9 -3 3 3 2 -1 4 -3 1 -1
+======== EXPECT
+4
 <<<<<<<< FINISH
 ```
