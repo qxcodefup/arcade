@@ -14,14 +14,22 @@
 //TODO: Corrija esta função para exibir a mensagem corretamente.
 
 void exibirMensagem() {
-    printf("");
+    //DEL!
+    printf("Olá, esta é uma função!");
+    //ACT!
+    // printf("");
+    //ADD!
 }
 
 int main() {
     // Agora vamos chamar a função `exibirMensagem` no `main`.
     // Para chamar funções, basta repetir o nome dela + abre e fecha parenteses (dentro podem haver valores ou não, veremos isso mais a frente)
     // TODO: Chame a função `exibirMensagem` abaixo:
-    exibirMensagem
+    //DEL!
+    exibirMensagem();
+    //ACT!
+    // exibirMensagem
+    //ADD!
     
 
     return 0;

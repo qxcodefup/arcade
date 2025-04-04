@@ -4,11 +4,19 @@
 
 //TODO: corrija a função abaixo para ela retornar para a função principal o dobro da variável (int) 'numero'
 
-??? dobro(??? numero) {
-    //Declaramos uma variável para armazenar o resultado e calculamos o dobro do número
+//DEL!
+int dobro(int numero) {
+    // Declaramos uma variável para armazenar o resultado e calculamos o dobro do número
     int resultado = numero * 2;
-    return ???; // Retorna o valor calculado
+    return resultado; // Retorna o valor calculado
 }
+//ACT!
+// ??? dobro(??? numero) {
+//     //Declaramos uma variável para armazenar o resultado e calculamos o dobro do número
+//     int resultado = numero * 2;
+//     return ???; // Retorna o valor calculado
+// }
+//ADD!
 
 
 int main() {
@@ -18,7 +26,11 @@ int main() {
     int resultado = dobro(numero);
     //TODO: Corrija o printf para ele printar o número passado para a função e o que essa 
 
-    printf("O dobro de %d é %d.\n", ???, ???);
+    //DEL!
+    printf("O dobro de %d é %d.\n", numero, resultado);
+    //ACT!
+    //printf("O dobro de %d é %d.\n", ???, ???);
+    //ADD!
 
     return 0;
 }

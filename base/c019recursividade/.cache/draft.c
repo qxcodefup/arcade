@@ -7,17 +7,30 @@
 // Caso contrário, a função multiplica `n` pelo resultado de `fatorial(n-1)`,
 // chamando a si mesma até que `n` chegue a 0 e comece a voltar com os resultados das multiplicações.
 
-//TODO: corrija a função recursiva fatorial abaixo:
+//DEL!
 int fatorial(int n) {
     // Condição de parada: quando `n` chega a 0, retornamos 1
-    if (n == ???) {
+    if (n == 0) {
         //Lembre que se cair nesse retorno, a função acaba aqui e o compilador não lê o que tem abaixo.
-        return ???;
+        return 1;
     }
-    // Caso contrário, multiplicamos `n` pelo resultado de `fatorial(n - 1)', chamando a função novamente, dentro dela
-    return n * ???(n - 1); // Empilha a chamada de `fatorial(n - 1)` e multiplica o valor de `n` por essa chamada ao desempilhar
+    // Caso contrário, multiplicamos `n` pelo resultado de `fatorial(n - 1)'
+    return n * fatorial(n - 1); // Empilha a chamada de `fatorial(n - 1)` e multiplica o valor de `n` por essa chamada ao desempilhar
 }
 // A função vai se chamando, empilhando chamadas dela mesmo e incrementando valor na variavel, mas quando o n chegar em 0, ela cai no primeiro caso e retorna 1.
+//ACT!
+// //TODO: corrija a função recursiva fatorial abaixo:
+// int fatorial(int n) {
+//     // Condição de parada: quando `n` chega a 0, retornamos 1
+//     if (n == ???) {
+//         //Lembre que se cair nesse retorno, a função acaba aqui e o compilador não lê o que tem abaixo.
+//         return ???;
+//     }
+//     // Caso contrário, multiplicamos `n` pelo resultado de `fatorial(n - 1)', chamando a função novamente, dentro dela
+//     return n * ???(n - 1); // Empilha a chamada de `fatorial(n - 1)` e multiplica o valor de `n` por essa chamada ao desempilhar
+// }
+// // A função vai se chamando, empilhando chamadas dela mesmo e incrementando valor na variavel, mas quando o n chegar em 0, ela cai no primeiro caso e retorna 1.
+//ADD!
 
 int main() {
     int numero = 5;

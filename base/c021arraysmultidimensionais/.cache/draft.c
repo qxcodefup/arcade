@@ -35,25 +35,46 @@
 // TODO: No `main`, chame a função `imprimirMatriz` para exibir os valores da matriz `matriz`.
 
 void imprimirMatriz(int m[3][3]) {
+    //DEL!
     for (int i = 0; i < 3; i++) {
         for (int j = 0; j < 3; j++) {
-            printf("%d ", m[???][???]);
+            printf("%d ", m[i][j]);
         }
         printf("\n");
     }
+    //ACT!
+    // for (int i = 0; i < 3; i++) {
+    //     for (int j = 0; j < 3; j++) {
+    //         printf("%d ", m[???][???]);
+    //     }
+    //     printf("\n");
+    // }
+    //ADD!
 }
 
 int main() {
     //Também podemos inicializar a matriz com valores pré-definidos, basta atribuirmos os valores entre chaves "{}" para cada linha da matriz.
     // Inicialize a matriz `matriz` com os valores fornecidos.
-    int matriz[???][???] = {
-        {???, ???, ???},
-        {???, ???, ???},
-        {???, ???, ???}
+    //DEL!
+    int matriz[3][3] = {
+        {1, 2, 3},
+        {4, 5, 6},
+        {7, 8, 9}
     };
+    //ACT!
+    // int matriz[???][???] = {
+    //     {???, ???, ???},
+    //     {???, ???, ???},
+    //     {???, ???, ???}
+    // };
+    //ADD!
     
     // Chame a função `imprimirMatriz` para exibir os valores da matriz.
-    imprimirMatriz();
+    //DEL!
+    imprimirMatriz(matriz);
+    //ACT!
+    // imprimirMatriz();
+    //ADD!
     
     return 0;
 }

@@ -12,8 +12,13 @@ int main() {
     // TODO: Copie a string de `origem` para `destino` e exiba o resultado.
     char origem[] = "Clings é Tech";
     char destino[20];
-    strcpy(???, ???); // As duas strings serão iguais, essa função existe pois não podemos fazer a atribuição "direta = origem"; 
-    printf("Destino após strcpy: %s\n", ????);
+    //DEL!
+    strcpy(destino, origem); // As duas strings serão iguais, essa função existe pois não podemos fazer a atribuição "direta = origem"; 
+    printf("Destino após strcpy: %s\n", destino);
+    //ACT!
+    // strcpy(???, ???); // As duas strings serão iguais, essa função existe pois não podemos fazer a atribuição "direta = origem"; 
+    // printf("Destino após strcpy: %s\n", ????);
+    //ADD!
 
 
 
@@ -26,14 +31,25 @@ int main() {
     // TODO: Compare `str1` e `str2` e exiba o resultado.
     char str1[] = "Clings é Pop";
     char str2[] = "Clings é Tudo";
-    int resultado = strcmp(???, ???);
-    if (??? == ???) {
+    //DEL!
+    int resultado = strcmp(str1, str2);
+    if (resultado == 0) {
         printf("As strings são iguais.\n");
-    } else if (??? < ???) {
+    } else if (resultado < 0) {
         printf("str1 é menor que str2. e str1 é diferente str2.\n");
     } else {
         printf("str1 é maior que str2 e str1 é diferente str2.\n");
     }
+    //ACT!
+    // int resultado = strcmp(???, ???);
+    // if (??? == ???) {
+    //     printf("As strings são iguais.\n");
+    // } else if (??? < ???) {
+    //     printf("str1 é menor que str2. e str1 é diferente str2.\n");
+    // } else {
+    //     printf("str1 é maior que str2 e str1 é diferente str2.\n");
+    // }
+    //ADD!
     
 
 
@@ -42,8 +58,13 @@ int main() {
     // OBS: Só funciona com vetores de char!
     // TODO: Conte e exiba o número de caracteres em `texto`.
     char texto[] = "Clings é meu melhor amigo de estudo";
-    int comprimento = strlen(???);
-    printf("O tamanho da string é: %d\n", ???);
+    //DEL!
+    int comprimento = strlen(texto);
+    printf("O tamanho da string é: %d\n", comprimento);
+    //ACT!
+    // int comprimento = strlen(???);
+    // printf("O tamanho da string é: %d\n", ???);
+    //ADD!
 
 
 
@@ -52,12 +73,21 @@ int main() {
     // Cada chamada a `strtok` retorna o próximo token.
     // TODO: Divida a string `texto` em palavras, usando espaço (" ") como delimitador, e exiba cada palavra separadamente.
     char txt[] = "C é uma linguagem poderosa para manipulação de strings";
-    char *token = strtok(???, ???);
+    //DEL!
+    char *token = strtok(texto, " ");
     printf("Palavras na string:\n");
-    while (??? != NULL) {
+    while (token != NULL) {
         printf("%s\n", token);
-        token = strtok(???, ???);
+        token = strtok(NULL, " ");
     }
+    //ACT!
+    // char *token = strtok(???, ???);
+    // printf("Palavras na string:\n");
+    // while (??? != NULL) {
+    //     printf("%s\n", token);
+    //     token = strtok(???, ???);
+    // }
+    //ADD!
 
     return 0;
 }

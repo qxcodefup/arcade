@@ -1,3 +1,4 @@
+//ADD!
 #include <stdio.h>
 
 int main() {
@@ -17,9 +18,15 @@ int main() {
     //     // código a ser repetido
     // }
     printf("For loop: ");
-    for (int i = 0; i < 5 i++) {  // erro: falta ponto e vírgula
+    //ACT!
+    // for (int i = 0; i < 5 i++) {  // erro: falta ponto e vírgula
+    //     printf("%d ", i);
+    // }
+    //DEL!
+    for (int i = 0; i < 5; i++) {
         printf("%d ", i);
     }
+    //ADD!
     printf("\n");
 
     // Exemplo 2: While loop
@@ -30,10 +37,17 @@ int main() {
     // }
     printf("While loop: ");
     int j = 0;
-    while j < 5 {  // erro: falta parênteses
+    //ACT!
+    // while j < 5 {  // erro: falta parênteses
+    //     printf("%d ", j);
+    //     j++;
+    // }
+    //DEL!
+    while (j < 5) {
         printf("%d ", j);
         j++;
     }
+    //ADD!
     printf("\n");
 
     // Exemplo 3: Do-While loop
@@ -45,10 +59,17 @@ int main() {
     // } while (condição);
     printf("Do-While loop: ");
     int k = 0;
+    //ACT!
+    // do {
+    //     printf("%d ", k);
+    //     k++;
+    // } while k < 5; // erro: falta parênteses
+    //DEL!
     do {
         printf("%d ", k);
         k++;
-    } while k < 5; // erro: falta parênteses
+    } while (k < 5);
+    //ADD!
     printf("\n");
 
     return 0;

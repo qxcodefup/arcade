@@ -1,3 +1,4 @@
+//ADD!
 #include <stdio.h>
 
 int main() {
@@ -19,16 +20,29 @@ int main() {
         // O "break" é necessário para encerrar o bloco de cada case.
         
         // TODO: Adicione break's à estrutura do switch-case e corrija a sintaxe.
+        //ACT!
+        //case 1:
+        //     printf("Hoje é segunda-feira.\n");
+        //     break;
+        //case 6:
+        //     printf("Hoje é sábado.\n");
+        //case 7
+        //     printf("Hoje é domingo.\n");
+        //???:
+        //     printf("Dia inválido.\n");
+
+        //DEL!
         case 1:
             printf("Hoje é segunda-feira.\n");
             break;
         case 6:
             printf("Hoje é sábado.\n");
-        case 7
+            break;
+        case 7:
             printf("Hoje é domingo.\n");
-        ???:
+            break;
+        default:
             printf("Dia inválido.\n");
-
     } //DEL!
     // Faltando o fechamento do switch
 

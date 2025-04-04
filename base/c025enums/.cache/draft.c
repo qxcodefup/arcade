@@ -18,15 +18,37 @@
 //   - "Siga!" para `VERDE`
 
 typedef enum {
-    ???,
+    //DEL!
+    VERMELHO,
+    AMARELO,
+    VERDE
+    //ACT!
+    // ???,
+    //ADD!
 } Semaforo;
 
 int main() {
-    Semaforo estado = ???;
+    //DEL!
+    Semaforo estado = VERMELHO;
+
     switch (estado) {
-       case ???:
-           printf("???\n");
-           break;
+        case VERMELHO:
+            printf("Pare!\n");
+            break;
+        case AMARELO:
+            printf("Atenção!\n");
+            break;
+        case VERDE:
+            printf("Siga!\n");
+            break;
     }
+    //ACT!
+    // Semaforo estado = ???;
+    // switch (estado) {
+    //    case ???:
+    //        printf("???\n");
+    //        break;
+    // }
+    //ADD!
     return 0;
 }

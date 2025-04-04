@@ -18,19 +18,35 @@ int main() {
     
     // MAIOR QUE:
     // TODO: Verifique se 15 é maior que 7 e printe o resultado (1 para verdadeiro, 0 para falso)
-    printf("%d\n", 15 ??? 7); 
+    //DEL!
+    printf("%d\n", 15 > 7);
+    //ACT!
+    // printf("%d\n", 15 ??? 7); 
+    //ADD!
 
     // MENOR/MAIOR OU IGUAL QUE:
     // TODO: Verifique se 10 é menor ou igual a 20 e printe o resultado
-    printf("%d\n", 10 ??? 20); 
+    //DEL!
+    printf("%d\n", 10 <= 20);
+    //ACT!
+    // printf("%d\n", 10 ??? 20); 
+    //ADD!
 
     // IGUALDADE:
     // TODO: Verifique se 8 é igual a 10 e printe o resultado
-    printf("%d\n", 8 ??? 10); 
+    //DEL!
+    printf("%d\n", 8 == 10);
+    //ACT!
+    // printf("%d\n", 8 ??? 10); 
+    //ADD!
 
     // DIFERENÇA:
     // TODO: Verifique se 12 é diferente de 12 e printe o resultado
-    printf("%d\n", 12 ??? 12); 
+    //DEL!
+    printf("%d\n", 12 != 12);
+    //ACT!
+    // printf("%d\n", 12 ??? 12); 
+    //ADD!
 
     return 0;
 }

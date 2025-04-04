@@ -1,3 +1,4 @@
+//ADD!
 #include <stdio.h>
 
 int main() {
@@ -25,8 +26,14 @@ int main() {
     // Agora é sua vez!
 
     // TODO: Defina uma constante chamada GRAVIDADE usando #define e atribua o valor 9.8.
+    //DEL!
+    #define GRAVIDADE 9.8
+    //ADD!
     
     // TODO: Defina uma constante chamada PI usando const e atribua o valor 3.14159.
+    //DEL!
+    const float PI = 3.14159;
+    //ADD!
 
     // Como imprimir constantes?
     // Assim como variáveis, você pode imprimir o valor de constantes usando printf.
@@ -36,10 +43,18 @@ int main() {
     // printf("Valor: %f\n", NOME_CONSTANTE);
 
     // TODO: Imprima o valor da constante GRAVIDADE.
-    printf("Gravidade: ???\n", ???);  // Substitua ??? pelo nome da constante correta.
+    //ACT!
+    // printf("Gravidade: ???\n", ???);  // Substitua ??? pelo nome da constante correta.
+    //DEL!
+    printf("Gravidade: %f\n", GRAVIDADE);
+    //ADD!
 
     // TODO: Imprima o valor da constante PI.
-    printf("Valor de PI: ???\n", ???);  // Substitua ??? pelo nome da constante correta.
+    //ACT!
+    // printf("Valor de PI: ???\n", ???);  // Substitua ??? pelo nome da constante correta.
+    //DEL!
+    printf("Valor de PI: %f\n", PI);
+    //ADD!
 
     return 0;
 }

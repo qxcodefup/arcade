@@ -21,9 +21,15 @@
 // Dica: ao passar um array para uma função, você também deve passar o tamanho do array, pois o array em C não guarda essa informação.
 
 void imprimirArray(int arr[], int tamanho) {
+    //DEL!
     for (int i = 0; i < tamanho; i++) {
-        printf("%d ", ???);
+        printf("%d ", arr[i]);
     }
+    //ACT!
+    // for (int i = 0; i < tamanho; i++) {
+        //printf("%d ", ???);
+    //}
+    //ADD!
     
 }
 
@@ -31,10 +37,18 @@ int main() {
     // Também podemos incializar o array com valores pré definidos, bastar atribuirmos ele os valores entre chaves "{}" 
     // Inicialize o array `numeros` com os valores: 1, 2, 3, 4, 5.
 
-    int numeros[] = {???};
+    //DEL!
+    int numeros[] = {1, 2, 3, 4, 5};
+    //ACT!
+    // int numeros[] = {???};
+    //ADD!
     
     // Chame a função `imprimirArray` para exibir os valores do array.
-    imprimirArray(???, ???);
+    //DEL!
+    imprimirArray(numeros, 5);
+    //ACT!
+    // imprimirArray(???, ???);
+    //ADD!
     
     return 0;
 }

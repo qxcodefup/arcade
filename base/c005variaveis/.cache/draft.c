@@ -1,3 +1,4 @@
+//ADD!
 #include <stdio.h>
 
 int main() {
@@ -38,11 +39,22 @@ int main() {
     // TODO: Declare uma variável int chamada "idade" e atribua a ela o valor 20.
     // TODO: Declare uma variável float chamada "altura" e atribua a ela o valor 1.75.
     // TODO: Declare uma variável char chamada "letra" e atribua a ela o caractere 'A'.
+    //DEL!
+    int idade = 20;
+    float altura = 1.75;
+    char letra = 'A';
+    //ADD!
 
     // Imprima as variáveis na tela utilizando printf e os especificadores corretos.
-    printf("Idade  : ???\n", ???);  // TODO: Substitua ??? pelo especificador e variável correta
-    printf("Altura : ???\n", ???);  // TODO: Substitua ??? pelo especificador e variável correta
-    printf("Letra  : ???\n", ???);  // TODO: Substitua ??? pelo especificador e variável correta
+    //ACT!
+    // printf("Idade  : ???\n", ???);  // TODO: Substitua ??? pelo especificador e variável correta
+    // printf("Altura : ???\n", ???);  // TODO: Substitua ??? pelo especificador e variável correta
+    // printf("Letra  : ???\n", ???);  // TODO: Substitua ??? pelo especificador e variável correta
+    //DEL!
+    printf("Idade  : %d\n", idade);
+    printf("Altura : %f\n", altura);
+    printf("Letra  : %c\n", letra);
+    //ADD!
 
     return 0;
 }

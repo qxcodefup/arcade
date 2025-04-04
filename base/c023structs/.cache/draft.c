@@ -25,17 +25,32 @@
 // TODO: Chame a função `imprimirEstudante` no `main` para exibir as informações do estudante.
 
 typedef struct {
-    ??? ???;
+    //DEL!
+    char nome[50];
+    int idade;
+    float nota;
+    //ACT!
+    // ??? ???;
+    //ADD!
 } Estudante;
 
 void imprimirEstudante(Estudante aluno) {
 
-    // Para acessar diferentes campos, temos que especificar, dizendo para qual estrutura estamos apontando e qual o campo da estrutura, se eu quero a nota, eu acesso aluno.nota
-    printf("Nome: %s, Idade: %d, Nota: %.1f\n", ???);
+    //DEL!
+    printf("Nome: %s, Idade: %d, Nota: %.1f\n", aluno.nome, aluno.idade, aluno.nota);
+    //ACT!
+    //// Para acessar diferentes campos, temos que especificar, dizendo para qual estrutura estamos apontando e qual o campo da estrutura, se eu quero a nota, eu acesso aluno.nota
+    // printf("Nome: %s, Idade: %d, Nota: %.1f\n", ???);
+    //ADD!
 }
 
 int main() {
-    Estudante aluno = {???};
-    imprimirEstudante(???);
+    //DEL!
+    Estudante aluno = {"Cléber", 20, 8.5};
+    imprimirEstudante(aluno);
+    //ACT!
+    // Estudante aluno = {???};
+    // imprimirEstudante(???);
+    //ADD!
     return 0;
 }

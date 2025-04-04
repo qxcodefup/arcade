@@ -1,3 +1,4 @@
+//ADD!
 #include <stdio.h>
 
 int main() {
@@ -18,12 +19,25 @@ int main() {
     // - Usaremos break para interromper o loop ao atingir o número 6.
 
     for (int i = 1; i <= 10; i++) {
-        if (i == ???) { // erro: conserte a condição
-            // TODO: adicione o continue para pular a iteração quando i for 3
+        //ACT!
+        // if (i == ???) { // erro: conserte a condição
+        //     // TODO: adicione o continue para pular a iteração quando i for 3
+        // }
+        //DEL!
+        if (i == 3) {
+            continue;
         }
-        if (i == ???) {  // erro: conserte a condição
+        printf("Número %d\n", i); //ADD!
+
+        //ACT!
+        // if (i == ???) {  // erro: conserte a condição
+        //     printf("Loop interrompido no número %d\n", i);
+        //     // TODO: adicione o break para interromper o loop quando i for 6.
+        // }
+        //DEL!
+        if (i == 6) {
             printf("Loop interrompido no número %d\n", i);
-            // TODO: adicione o break para interromper o loop quando i for 6.
+            break;
         }
     }
 

@@ -20,27 +20,47 @@ int main() {
     // SHIFT RIGHT (Deslocamento à direita):
     // TODO: Printe o resultado do deslocamento à direita de 16 por 2 posições
     // Dica: 16 em binário é 10000, e deslocar à direita divide o número por 2^n.
-    printf("%d\n", 16 ??? 2);
+    //DEL!
+    printf("%d\n", 16 >> 2);
+    //ACT!
+    // printf("%d\n", 16 ??? 2);
+    //ADD!
 
     // SHIFT LEFT (Deslocamento à esquerda):
     // TODO: Printe o resultado do deslocamento à esquerda de 5 por 3 posições
     // Dica: Deslocar à esquerda multiplica o número por 2^n.
-    printf("%d\n", 5 ??? 3);
+    //DEL!
+    printf("%d\n", 5 << 3);
+    //ACT!
+    // printf("%d\n", 5 ??? 3);
+    //ADD!
 
     // AND BITWISE:
     // TODO: Printe o resultado de 12 AND 5 
     // Dica: 12 = 1100, 5 = 0101, e o AND retorna 1 se ambos os bits forem 1.
-    printf("%d\n", 12 ??? 5);
+    //DEL!
+    printf("%d\n", 12 & 5);
+    //ACT!
+    // printf("%d\n", 12 ??? 5);
+    //ADD!
 
     // OR BITWISE:
     // TODO: Printe o resultado de 8 OR 3 
     // Dica: 8 = 1000, 3 = 0011, e o OR retorna 1 se qualquer um dos bits for 1.
-    printf("%d\n", 8 ??? 3);
+    //DEL!
+    printf("%d\n", 8 | 3);
+    //ACT!
+    // printf("%d\n", 8 ??? 3);
+    //ADD!
 
     // XOR BITWISE:
     // TODO: Printe o resultado de 7 XOR 2 
     // Dica: XOR retorna 1 se os bits forem diferentes.
-    printf("%d\n", 7 ??? 2);
+    //DEL!
+    printf("%d\n", 7 ^ 2);
+    //ACT!
+    // printf("%d\n", 7 ??? 2);
+    //ADD!
 
     return 0;
 }

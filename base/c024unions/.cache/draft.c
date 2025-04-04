@@ -20,12 +20,28 @@
 // - Imprima o valor do campo `caractere`.
 
 typedef union {
-    ??? ???;
+    //DEL!
+    int inteiro;
+    float decimal;
+    char caractere;
+    //ACT!
+    // ??? ???;
+    //ADD!
 } Dado;
 
 int main() {
+    //DEL!
     Dado valor;
-    valor.??? = ???;
-    printf("Inteiro: ???\n", ???);
+    valor.inteiro = 10;
+    printf("Inteiro: %d\n", valor.inteiro);
+    valor.decimal = 3.14;
+    printf("Decimal: %.2f\n", valor.decimal);
+    valor.caractere = 'A';
+    printf("Caractere: %c\n", valor.caractere);
+    //ACT!
+    // Dado valor;
+    // valor.??? = ???;
+    // printf("Inteiro: ???\n", ???);
+    //ADD!
     return 0;
 }

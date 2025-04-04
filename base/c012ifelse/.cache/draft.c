@@ -1,3 +1,4 @@
+//ADD!
 #include <stdio.h>
 
 int main() {
@@ -7,7 +8,11 @@ int main() {
     // Exemplo 1: Avaliando se um número é positivo, negativo ou zero.
 
     // TODO: Corrija a sintaxe abaixo
-    int x == 10;  // erro: o operador de atribuição deve ser usado
+    //ACT!
+    // int x == 10;  // erro: o operador de atribuição deve ser usado
+    //DEL!
+    int x = 10;
+    //ADD!
 
     if (x > 0) {
         printf("A variável x é positiva.\n");
@@ -33,3 +38,4 @@ int main() {
 
     return 0;
 }
+//ADD!

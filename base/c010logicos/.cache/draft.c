@@ -12,15 +12,27 @@ int main() {
 
     // "E" LÓGICO:
     // TODO: Verifique se 5 é maior que 3 E 9 é menor que 12 e printe o resultado
-    printf("%d\n", (5 ??? 3) && (9 ??? 12)); 
+    //DEL!
+    printf("%d\n", (5 > 3) && (9 < 12));
+    //ACT!
+    // printf("%d\n", (5 ??? 3) && (9 ??? 12)); 
+    //ADD!
 
     // "OU" LÓGICO:
     // TODO: Verifique se 4 é menor que 2 OU 7 é maior que 5 e printe o resultado
-    printf("%d\n", (4 ??? 2) || (7 ??? 5)); 
+    //DEL!
+    printf("%d\n", (4 < 2) || (7 > 5));
+    //ACT!
+    // printf("%d\n", (4 ??? 2) || (7 ??? 5)); 
+    //ADD!
 
     // "NÃO" LÓGICO:
     // TODO: Verifique o inverso da condição 5 maior que 3 e printe o resultado
-    printf("%d\n", ??? (5 ??? 3)); 
+    //DEL!
+    printf("%d\n", !(5 > 3));
+    //ACT!
+    // printf("%d\n", ??? (5 ??? 3)); 
+    //ADD!
 
 
     //EXTRA (ORDEM DE IMPORTÂNCIA DOS OPERADORES): 
@@ -31,15 +43,27 @@ int main() {
 
     // "E" LÓGICO COM PARENTESES:
     // TODO: Verifique se 8 é menor que 10 E 6 é maior que 4, e printe o resultado
-    printf("%d\n", (8 ??? 10) && (6 ??? 4)); 
+    //DEL!
+    printf("%d\n", (8 < 10) && (6 > 4));
+    //ACT!
+    // printf("%d\n", (8 ??? 10) && (6 ??? 4)); 
+    //ADD!
 
     // "OU" LÓGICO COM PARENTESES:
     // TODO: Verifique se 3 é maior que 5 OU 12 é menor que 15, e printe o resultado
-    printf("%d\n", (3 ??? 5) || (12 ??? 15)); 
+    //DEL!
+    printf("%d\n", (3 > 5) || (12 < 15));
+    //ACT!
+    // printf("%d\n", (3 ??? 5) || (12 ??? 15)); 
+    //ADD!
 
     // "NÃO" LÓGICO COM PARENTESES:
     // TODO: Verifique o inverso da condição 7 menor que 10 e printe o resultado
-    printf("%d\n", ??? (7 ??? 10)); 
+    //DEL!
+    printf("%d\n", !(7 < 10));
+    //ACT!
+    // printf("%d\n", ??? (7 ??? 10)); 
+    //ADD!
 
     return 0;
 }
