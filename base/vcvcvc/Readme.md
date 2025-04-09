@@ -1,4 +1,4 @@
-# - Vogais e Consoantes - Substituindo
+# Vogais e Consoantes - Substituindo
 
 ![_](cover.jpg)
 

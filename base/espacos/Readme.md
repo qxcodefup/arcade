@@ -1,4 +1,4 @@
-# - Espaços duplicados
+# Espaços duplicados
 
 ![_](cover.jpg)
 

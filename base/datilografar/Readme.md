@@ -1,4 +1,4 @@
-# - Máquina Quebrada
+# Máquina Quebrada
 
 ![_](cover.jpg)
 

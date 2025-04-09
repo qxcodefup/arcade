@@ -1,4 +1,4 @@
-# - Nao se bula - Gagueira V2
+# Nao se bula - Gagueira V2
 
 ![_](cover.jpg)
 

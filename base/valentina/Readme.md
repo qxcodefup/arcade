@@ -1,4 +1,4 @@
-# - Valentina e Valdiskley
+# Valentina e Valdiskley
 
 ![_](cover.jpg)
 

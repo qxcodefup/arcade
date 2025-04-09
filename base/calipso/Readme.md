@@ -1,4 +1,4 @@
-# - Calipso e Jack Sparrow - Alternar Case
+# Calipso e Jack Sparrow - Alternar Case
 
 ![_](cover.jpg)
 

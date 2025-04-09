@@ -1,4 +1,4 @@
-# - Meu word QuEbRoU - formatação de case
+# Meu word QuEbRoU - formatação de case
 
 ![_](cover.jpg)
 
