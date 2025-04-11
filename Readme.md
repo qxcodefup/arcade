@@ -196,7 +196,6 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] `L3 @jokenpo15  :`[Jokenpo com quinze opções](base/jokenpo15/Readme.md)
 - [ ] `L2 @loops      :`[Módulo no ângulo Cartesiano](base/loops/Readme.md)
 - [ ] `L2 @domino     :`[Jogo de dominó - OBI 2019 F1PJ](base/domino/Readme.md)
-- [ ] `L2 @carteira   :`[Retirando os loops](base/carteira/Readme.md)
 - [ ] `L3 @bundona    :`[Formiga da bundona](base/bundona/Readme.md)
 - [ ] `L2 @omeletao   :`[Escolhendo o maior](base/omeletao/Readme.md)
 - [ ] `L2 @quiz       :`[Quiz do Harry Potter](base/quiz/Readme.md)
