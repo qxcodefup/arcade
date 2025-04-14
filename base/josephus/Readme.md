@@ -1,7 +1,6 @@
 # Cabeças vão rolar
+
 ![_](cover.jpg)
-
-
 
 ## Contexto
 
