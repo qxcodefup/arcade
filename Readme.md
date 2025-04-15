@@ -41,8 +41,8 @@ Também pode executá-las diretamente no seu computador ou no replit através do
   - [CLings: Introdução](#clings-introdução)
   - [CLings: Lógica](#clings-lógica)
   - [CLings: Controle de Fluxo](#clings-controle-de-fluxo)
-    - [CLings: Dados](#clings-dados)
-    - [CLings: Avançado](#clings-avançado)
+  - [CLings: Dados](#clings-dados)
+  - [CLings: Avançado](#clings-avançado)
   - [C: Ponteiros](#c-ponteiros)
   - [C: Structs](#c-structs)
   - [C: Recursão](#c-recursão)
@@ -332,7 +332,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 
 ## Linguagem C
 
-### CLings: Introdução
+### CLings: Introdução<!-- l:c l:cpp -->
 
 - [ ] [@c001hello](base/c001hello/Readme.md)
 - [ ] [@c002comentarios](base/c002comentarios/Readme.md)
@@ -342,14 +342,14 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [@c006constantes](base/c006constantes/Readme.md)
 - [ ] [@c007tiposdedados](base/c007tiposdedados/Readme.md)
 
-### CLings: Lógica
+### CLings: Lógica<!-- l:c l:cpp -->
 
 - [ ] [@c008aritmeticos](base/c008aritmeticos/Readme.md)
 - [ ] [@c009relacionais](base/c009relacionais/Readme.md)
 - [ ] [@c010logicos](base/c010logicos/Readme.md)
 - [ ] [@c011bitwise](base/c011bitwise/Readme.md)
 
-### CLings: Controle de Fluxo
+### CLings: Controle de Fluxo<!-- l:c l:cpp -->
 
 - [ ] [@c012ifelse](base/c012ifelse/Readme.md)
 - [ ] [@c013switch](base/c013switch/Readme.md)
@@ -359,7 +359,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [@c017retornovalores](base/c017retornovalores/Readme.md)
 - [ ] [@c018parametros](base/c018parametros/Readme.md)
 
-#### CLings: Dados
+### CLings: Dados<!-- l:c l:cpp -->
 
 - [ ] [@c019recursividade](base/c019recursividade/Readme.md)
 - [ ] [@c020arrays](base/c020arrays/Readme.md)
@@ -369,7 +369,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [@c024unions](base/c024unions/Readme.md)
 - [ ] [@c025enums](base/c025enums/Readme.md)
 
-#### CLings: Avançado
+### CLings: Avançado<!-- l:c l:cpp -->
 
 - [ ] [@c030malloccallocfree](base/c030malloccallocfree/Readme.md)
 - [ ] [@c031realloc](base/c031realloc/Readme.md)
@@ -377,7 +377,7 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] [@c033modosarquivos](base/c033modosarquivos/Readme.md)
 - [ ] [@c034leituracaracteres](base/c034leituracaracteres/Readme.md)
 
-### C: Ponteiros
+### C: Ponteiros<!-- l:c l:cpp -->
 
 - [ ] `L2 @formatado :`[Imprimir vetor formatado](base/formatado/Readme.md)
 - [ ] `L1 @duelo     :`[Luta até a morte](base/duelo/Readme.md)
@@ -385,14 +385,14 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 - [ ] `L2 @endereco  :`[Função que retorna vários valores](base/endereco/Readme.md)
 - [ ] `L2 @realoc    :`[Vetor de strings com variados tamanhos](base/realoc/Readme.md)
 
-### C: Structs
+### C: Structs<!-- l:c l:cpp -->
 
 - [ ] `L1 @empacotar     :`[Empacotar operações](base/empacotar/Readme.md)
 - [ ] `L2 @comparar_data :`[Comparar data](base/comparar_data/Readme.md)
 - [ ] `L2 @retangulo     :`[Pontos do retângulo](base/retangulo/Readme.md)
 - [ ] `L2 @perto         :`[Pontos como structs](base/perto/Readme.md)
 
-### C: Recursão
+### C: Recursão<!-- l:c l:cpp -->
 
 - [ ] `L2 @ocorrencias  :`[Contagem de ocorrências](base/ocorrencias/Readme.md)
 - [ ] `L2 @rec_fib      :`[Números de Fibonacci](base/rec_fib/Readme.md)
@@ -400,13 +400,13 @@ Também pode executá-las diretamente no seu computador ou no replit através do
 
 ## Linguagem TS
 
-### TS: Intrudução
+### TS: Intrudução<!-- l:ts -->
 
 - [ ] `@ts_leitura  :`[Revisão de FUP](wiki/ts_base/fup_leitura.md)
 - [ ] `@ts_revisao  :`[Revisão](wiki/ts_base/fup_revisao.md)
 - [ ] `@ts_pratica  :`[Prática](wiki/ts_base/fup_pratica.md)
 
-### TS: Arrays
+### TS: Arrays<!-- l:ts -->
 
 - [ ] `L2 @ts_array_leitura  :` [Leitura arrays](wiki/ts_base/arrays_leitura.md)
 - [ ] `L2 @ts_array_revisao  :` [Revisão Arrays](wiki/ts_base/arrays_revisao.md)
