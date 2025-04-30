@@ -1,4 +1,4 @@
-# 🎯 Atividade: Adivinhe o número entre dois limites!
+# Projeto: Adivinhe o número entre dois limites
 
 ## Objetivo
 
