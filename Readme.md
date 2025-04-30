@@ -301,6 +301,12 @@ Significado das tags nas questões:
 
 - [ ] `@hanoi   *4 :leet` [Torres de Hanoi](base/hanoi/Readme.md)
 
+## Projetos
+
+### Jogos em modo texto
+
+- [ ] `@chute0a100 *3 :open` [🎯 Atividade: Adivinhe o número entre dois limites!](base/chute0a100/Readme.md)
+
 ## Linguagem C
 
 ### CLings: Introdução<!-- l:c l:cpp -->
