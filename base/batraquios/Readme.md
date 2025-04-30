@@ -12,16 +12,18 @@ Ficou confuso? Quem mandou faltar à aula de biologia!
 
 Agora, aplicando isso a vetores: dados dois vetores, verifique se o primeiro está contido no segundo.
 
+Descubra se o vetor `vetor1` está contido em `vetor2` e retorne **"sim"** se isso ocorrer.
+
 ### Entrada
 
-- linha 1: Número de elementos **N** do primeiro vetor (1 a 50) seguido dos elementos.  
-- linha 2: Número de elementos **N** do segundo vetor(1 a 50) seguido dos elementos.
+- linha 1: Número de elementos **N** do primeiro vetor (1 a 50) seguido dos **N** elementos.  
+- linha 2: Número de elementos **M** do segundo vetor(1 a 50) seguido dos **M** elementos.
 
 ### Saída
 
-- **"sim"** se o primeiro está condido no segundo e **"não"** caso contrário.
+- **"sim"** se o primeiro está condido no segundo.
+- **"não"** caso contrário.
 
-- Descubra se o vetor v1 está contido em v2 e retorne **"true"** se isso ocorrer.
   
 ## Testes
 

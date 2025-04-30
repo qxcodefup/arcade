@@ -4,17 +4,17 @@
 
 ## Contexto
 
-Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos em ordem numérica, mas está na dúvida de qual tazo elem tem mais vezes repetido. Faça um código que ajude Elvis a saber o número do tazo que se repete mais. Se mais de um tazo tiver no topo da quantidade, imprima todos eles.
+Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos em ordem numérica, mas está na dúvida de qual tazo ele tem mais vezes repetido. Faça um código que ajude Elvis a saber o número do tazo que se repete mais. Se mais de um tazo tiver no topo da quantidade, imprima todos eles.
 
 ### Entrada
 
-- Linha 1: Um número positivo com a quantidade **'N'** de elementos do vetor (1 a 50), **ordenado**.
+- **Linha 1:** Um número inteiro positivo representando a quantidade de elementos no vetor (1 a 50).
 
-- Linha 2: O vetor de inteiros.
+- **Linha 2:** O vetor de inteiros em **ORDEM CRESCENTE**.
 
 ### Saída
 
-- Os elementos que se repetem mais.
+- Os elementos que se repetem mais vezes no vetor, dentro de colchetes `[]` e separados por espaço.
 
 ## Testes
 

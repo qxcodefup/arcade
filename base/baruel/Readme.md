@@ -8,19 +8,14 @@ Baruel Ruel tem muitas figurinhas do álbum de futebol. Ele estava indo para uma
 
 ### Entrada
 
-- linha 1: Quantidade de figurinhas **'N'** totais do album(1 a 50)  
-- linha 2: Quantidade de figurinhas **'N'** que Baruel possui (1 a 100)  
-- linha 3: Números das figurinhas **'N'**  de forma **ORDENADA**.
+- **linha 1:** Um inteiro representando a quantidade total de figurinhas do álbum (1 a 50). 
+- **linha 2:** Um inteiro representando a quantidade de figurinhas que Baruel possui (1 a 100).
+- **linha 3:** Uma sequência de inteiros representando os números das figurinhas que Baruel possui, em **ORDEM CRESCENTE**.
 
 ### Saída
 
-- A saída deve ser uma linha contendo as figurinhas repetidas e os números da figurinhas que faltam.
-- Se não houver figurinhas repetidas ou não faltar nenhuma escreva **'N'**.
-
-**Ex:**
-
-- linha 1: As figurinhas que baruel tem repetidas ou **'N'** se nenhuma.
-- linha 2: Os números das figuras que faltam ou **'N'** se nenhuma.
+- **Linha 1:** Os números das figurinhas que estão repetidas ou **"N"** se não houver nenhuma.
+- **Linha 2:** Os números das figurinhas que estão faltando no álbum ou **"N"** se nenhuma estiver faltando.
 
 ## Testes
 
