@@ -305,7 +305,7 @@ Significado das tags nas questões:
 
 ### Jogos em modo texto
 
-- [ ] `@pr_jokenpo     *3 :open` [Projeto: Jokenpô - Melhor de 5](base/pr_jokenpo/Readme.md)
+- [ ] `@pr_jokenpo *3 :open` [Projeto: Jokenpô - Melhor de 5](base/pr_jokenpo/Readme.md)
 - [ ] `@pr_chute_a *4 :open` [Projeto: Adivinhe o número entre dois limites](base/pr_chute_a/Readme.md)
 - [ ] `@pr_chute_b *4 :open` [Projeto: O computador tenta adivinhar seu número](base/pr_chute_b/Readme.md)
 - [ ] `@pr_game21  *6 :open` [Projeto: Blackjack 21](base/pr_game21/Readme.md)
