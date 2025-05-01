@@ -1,4 +1,4 @@
-# Projeto: Jokenpô - Melhor de 5
+# Jokenpô - Melhor de 5
 
 ![cover](cover.jpg)
 

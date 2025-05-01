@@ -1,4 +1,4 @@
-# Projeto: O computador tenta adivinhar seu número
+# O computador tenta adivinhar seu número
 
 ## Objetivo
 

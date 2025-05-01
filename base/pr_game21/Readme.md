@@ -1,4 +1,4 @@
-# Projeto: Blackjack 21
+# Blackjack 21
 
 Você irá implementar uma versão simplificada do jogo **Blackjack 21**, também conhecido como “vinte e um”, onde um jogador humano enfrenta a mesa (computador). A atividade pode feita em três etapas, com aumento progressivo na complexidade.
 

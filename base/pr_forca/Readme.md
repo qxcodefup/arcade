@@ -1,4 +1,4 @@
-# Projeto: Jogo da Palavra Oculta
+# Jogo da Palavra Oculta
 
 ## Objetivo
 
@@ -22,6 +22,8 @@ Implementar um jogo semelhante à **Forca**, em que o jogador tenta descobrir um
 ---
 
 ## Exemplo de execução
+
+![gif](demo.gif)
 
 A entrada do usuário acontece apenas na linha que começa com >>
 

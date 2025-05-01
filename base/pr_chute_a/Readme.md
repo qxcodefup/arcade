@@ -1,4 +1,4 @@
-# Projeto: Adivinhe o número entre dois limites
+# Adivinhe o número entre dois limites
 
 ## Objetivo
 

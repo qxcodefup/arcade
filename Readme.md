@@ -305,12 +305,14 @@ Significado das tags nas questões:
 
 ### Jogos em modo texto
 
-- [ ] `@pr_jokenpo *3 :open` [Projeto: Jokenpô - Melhor de 5](base/pr_jokenpo/Readme.md)
-- [ ] `@pr_chute_a *4 :open` [Projeto: Adivinhe o número entre dois limites](base/pr_chute_a/Readme.md)
-- [ ] `@pr_chute_b *4 :open` [Projeto: O computador tenta adivinhar seu número](base/pr_chute_b/Readme.md)
-- [ ] `@pr_game21  *6 :open` [Projeto: Blackjack 21](base/pr_game21/Readme.md)
-- [ ] `@pr_forca   *8 :open` [Projeto: Jogo da Palavra Oculta](base/pr_forca/Readme.md)
-- [ ] `@pr_bingo   *8 :open` [Simulador de Bingo e Gerador de Cartelas](base/pr_bingo/Readme.md)
+- [ ] `@pr_jokenpo  *3  :open` [Jokenpô - Melhor de 5](base/pr_jokenpo/Readme.md)
+- [ ] `@pr_chute_a  *4  :open` [Adivinhe o número entre dois limites](base/pr_chute_a/Readme.md)
+- [ ] `@pr_chute_b  *4  :open` [O computador tenta adivinhar seu número](base/pr_chute_b/Readme.md)
+- [ ] `@pr_game21   *6  :open` [Blackjack 21](base/pr_game21/Readme.md)
+- [ ] `@pr_forca    *8  :open` [Jogo da Palavra Oculta](base/pr_forca/Readme.md)
+- [ ] `@pr_bingo    *8  :open` [Simulador de Bingo e Gerador de Cartelas](base/pr_bingo/Readme.md)
+- [ ] `@pr_orc      *8  :open` [Batalha Orc](base/pr_orc/Readme.md)
+- [ ] `@pr_playfair *15 :open` [A cifra de Playfair](base/pr_playfair/Readme.md)
 
 ## Linguagem C
 
