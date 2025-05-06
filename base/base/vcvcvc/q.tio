@@ -1,0 +1,19 @@
+>>>>>>>> INSERT
+Pedrinho Marcio
+======== EXPECT
+cvccvccv cvccvv
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+Reumario Albrito
+======== EXPECT
+cvvcvcvv vcccvcv
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+AaBbCcDdEe
+======== EXPECT
+vvccccccvv
+<<<<<<<< FINISH

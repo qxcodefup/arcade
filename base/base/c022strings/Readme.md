@@ -1,0 +1,25 @@
+# @c022strings
+
+Descrição no código.
+
+[Código](.cache/draft.c)
+
+## Testes
+
+```py
+>>>>>>>> INSERT
+======== EXPECT
+Destino após strcpy: Clings é Tech
+str1 é menor que str2. e str1 é diferente str2.
+O tamanho da string é: 36
+Palavras na string:
+Clings
+é
+meu
+melhor
+amigo
+de
+estudo
+
+<<<<<<<< FINISH
+```

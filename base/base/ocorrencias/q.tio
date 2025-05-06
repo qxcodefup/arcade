@@ -1,0 +1,30 @@
+>>>>>>>> INSERT
+fundamentos de programacao
+a
+======== EXPECT
+4
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 02
+o rato roeu a roupa do rei de roma
+a
+======== EXPECT
+4
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 03
+o rato roeu a roupa do rei de roma
+x
+======== EXPECT
+0
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+o rato roeu a roupa do rei de roma
+o
+======== EXPECT
+6
+<<<<<<<< FINISH
