@@ -1,0 +1,34 @@
+>>>>>>>> INSERT
+8
+======== EXPECT
+[ 0 1 2 3 4 5 6 7 9 ceu ]
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+0
+======== EXPECT
+[ 1 2 3 4 5 6 7 8 9 ceu ]
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+1
+======== EXPECT
+[ 0 2 3 4 5 6 7 8 9 ceu ]
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+======== EXPECT
+[ 0 1 3 4 5 6 7 8 9 ceu ]
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+10
+======== EXPECT
+[ 0 1 2 3 4 5 6 7 8 9 ]
+<<<<<<<< FINISH
+

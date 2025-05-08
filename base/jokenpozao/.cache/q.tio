@@ -1,0 +1,111 @@
+>>>>>>>> INSERT 01
+sponge
+gun
+======== EXPECT
+jog1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 02
+air
+scissors
+======== EXPECT
+jog2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 03
+gun
+gun
+======== EXPECT
+empate
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+air
+gun
+======== EXPECT
+jog1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+fire
+air
+======== EXPECT
+jog2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06
+water
+human
+======== EXPECT
+jog2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 07
+scissors
+paper
+======== EXPECT
+jog1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 08
+sponge
+human
+======== EXPECT
+jog2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 09
+human
+fire
+======== EXPECT
+jog2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 10
+air
+water
+======== EXPECT
+jog1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 11
+water
+paper
+======== EXPECT
+jog2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 12
+human
+scissors
+======== EXPECT
+jog2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 13
+paper
+sponge
+======== EXPECT
+jog2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 14
+water
+gun
+======== EXPECT
+jog1
+<<<<<<<< FINISH
+

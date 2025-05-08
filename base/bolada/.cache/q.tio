@@ -1,0 +1,79 @@
+>>>>>>>> INSERT
+c
+100
+======== EXPECT
+Perfeito
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+b
+68
+======== EXPECT
+Fraco, nem passou
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+c
+160
+======== EXPECT
+Muito forte, bola fora
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+b
+99
+======== EXPECT
+Satisfeito
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+c
+90
+======== EXPECT
+Perfeito
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06
+c
+87
+======== EXPECT
+Fraco, nem passou
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 07
+b
+120
+======== EXPECT
+Muito forte, bola fora
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 08
+c
+127
+======== EXPECT
+Muito forte, bola fora
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 09
+c
+115
+======== EXPECT
+Satisfeito
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 10
+c
+50
+======== EXPECT
+Fraco, nem passou
+<<<<<<<< FINISH
+

@@ -1,0 +1,34 @@
+>>>>>>>> INSERT
+Volte cá seu cabra safado
+======== EXPECT
+VoVoVolte cá seu cacacabra sasasafado
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+Morreu Maria Prea
+======== EXPECT
+MoMoMorreu MaMaMaria Prea
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+Solte essa faca ou eu arranco suas tripas no dente!
+======== EXPECT
+SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+Solte essa faca ou eu arranco suas tripas no dente
+======== EXPECT
+SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+Nao se bula ou eu te mato
+======== EXPECT
+Nao se bububula ou eu te mamamato
+<<<<<<<< FINISH
+

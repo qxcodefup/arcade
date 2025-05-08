@@ -1,0 +1,39 @@
+>>>>>>>> INSERT
+1
+a batata
+======== EXPECT
+a BaTaTa
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+AAAAAAAA
+bBbBbBbB
+======== EXPECT
+AaAaAaAa
+bBbBbBbB
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+Morra Prea
+BigODE Aparado
+======== EXPECT
+MoRrA pReA
+BiGoDe ApArAdO
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+3
+a Morra Prea
+g BigODE Aparado
+abcd ef
+======== EXPECT
+a MoRrA pReA
+g BiGoDe ApArAdO
+aBcD eF
+<<<<<<<< FINISH
+

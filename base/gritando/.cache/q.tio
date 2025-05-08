@@ -1,0 +1,20 @@
+>>>>>>>> INSERT
+O ovomaltine e GOSTOSO
+======== EXPECT
+o OVOMALTINE E gostoso
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+Paralelepipedarte-ei se NAO me passar a CARTEIRA
+======== EXPECT
+pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+1, Dois, 3 Indiozinhos
+======== EXPECT
+1, dOIS, 3 iNDIOZINHOS
+<<<<<<<< FINISH
+

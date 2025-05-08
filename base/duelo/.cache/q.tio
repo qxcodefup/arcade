@@ -1,0 +1,39 @@
+>>>>>>>> INSERT
+100  
+20  
+100  
+1
+======== EXPECT
+Personagem 1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+100
+20
+100
+1
+======== EXPECT
+Personagem 1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+100
+20
+1000
+10
+======== EXPECT
+Personagem 2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+100
+100
+1000
+10
+======== EXPECT
+Empate
+<<<<<<<< FINISH
+

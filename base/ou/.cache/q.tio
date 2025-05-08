@@ -1,0 +1,34 @@
+>>>>>>>> INSERT 0
+3
+======== EXPECT
+SIM
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 1
+12
+======== EXPECT
+NAO
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 2
+-3
+======== EXPECT
+NAO
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 3
+-7
+======== EXPECT
+NAO
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 4
+5
+======== EXPECT
+SIM
+<<<<<<<< FINISH
+

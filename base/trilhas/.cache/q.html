@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@trilhas: Trilhas OBI 2005</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    /* CSS for syntax highlighting */
+    html { -webkit-text-size-adjust: 100%; }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      {   }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+    code span.at { color: #7d9029; } /* Attribute */
+    code span.bn { color: #40a070; } /* BaseN */
+    code span.bu { color: #008000; } /* BuiltIn */
+    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #4070a0; } /* Char */
+    code span.cn { color: #880000; } /* Constant */
+    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+    code span.dt { color: #902000; } /* DataType */
+    code span.dv { color: #40a070; } /* DecVal */
+    code span.er { color: #ff0000; font-weight: bold; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #40a070; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { color: #008000; font-weight: bold; } /* Import */
+    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+    code span.op { color: #666666; } /* Operator */
+    code span.ot { color: #007020; } /* Other */
+    code span.pp { color: #bc7a00; } /* Preprocessor */
+    code span.sc { color: #4070a0; } /* SpecialChar */
+    code span.ss { color: #bb6688; } /* SpecialString */
+    code span.st { color: #4070a0; } /* String */
+    code span.va { color: #19177c; } /* Variable */
+    code span.vs { color: #4070a0; } /* VerbatimString */
+    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+  </style>
+</head>
+<body>
+<h1 id="trilhas-obi-2005">Trilhas OBI 2005</h1>
+<h2 id="motivação">Motivação</h2>
+<p>Nos finais de semana Paulo faz longas caminhadas pelas bonitas
+trilhas que atravessam as matas vizinhas à sua cidade. Recentemente
+Paulo adquiriu um aparelho de GPS (siglas do inglês Sistema de
+Posicionamento Global) e com ele mapeou as mais belas trilhas da região.
+Paulo programou o GPS para armazenar, a intervalos regulares, a altitude
+do ponto corrente durante o trajeto. Assim, após percorrer as trilhas
+com o seu GPS, Paulo tem informações que permitem por exemplo produzir
+gráficos como os abaixo:</p>
+<p>Paulo tem uma nova namorada, e quer convencê-la a passear junto com
+ele pelas trilhas. Para o primeiro passeio juntos, Paulo quer escolher
+uma trilha “fácil”. Segundo o seu critério, a trilha mais fácil é a que,
+em um dos sentidos do percurso, exige o menor esforço de subida. O
+esforço exigido em um trecho de subida é proporcional ao desnı́vel do
+trecho.</p>
+<figure>
+<img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/trilhas/figura.jpg"
+alt="_" />
+<figcaption aria-hidden="true">_</figcaption>
+</figure>
+<h2 id="ação">Ação</h2>
+<p>Dadas as informações colhidas por Paulo sobre distâncias e altitudes
+de um conjunto de trilhas, você deve escrever um programa que determine
+qual é a trilha que exige o menor esforço de subida.</p>
+<h3 id="entrada">Entrada</h3>
+<ul>
+<li>A primeira linha da entrada contém um número inteiro N que indica o
+número de trilhas.</li>
+<li>Cada uma das N linhas seguintes contém a descrição de uma trilha (1
+≤ N ≤ 100).</li>
+<li>As trilhas são identificadas por números de 1 a N .</li>
+<li>A ordem em que as trilhas aparecem na entrada determina os seus
+identificadores (a primeira trilha é a de número 1, a segunda a de
+número 2, a última a de número N ).</li>
+<li>A descrição de uma trilha inicia com um número inteiro M que indica
+a quantidade de pontos de medição da trilha (2 ≤ M ≤ 1000), seguido de M
+números inteiros Hi representando a altura dos pontos da trilha (medidos
+a intervalos regulares e iguais para todas as linhas).</li>
+<li>Paulo pode percorrer a trilha em qualquer sentido (ou seja, partindo
+do ponto de altitude H1 em direção ao ponto de altitude HM , ou partindo
+do ponto de altitude HM em direção ao ponto de altitude H1 ).</li>
+<li>A entrada deve ser lida do dispositivo de entrada padrão
+(normalmente o teclado).</li>
+</ul>
+<h2 id="saída">Saída</h2>
+<ul>
+<li>Seu programa deve produzir uma única linha na saı́da, contendo um
+número inteiro representando o identificador da melhor trilha, conforme
+determinado pelo seu programa. Em caso de empate entre duas ou mais
+trilhas, imprima a de menor identificador.</li>
+<li>A saı́da deve ser escrita no dispositivo de saı́da padrão (normalmente
+a tela).</li>
+</ul>
+<p>
+Olimpı́ada Brasileira de Informática - OBI2005 - Modalidade
+Programação Nı́vel 1</p>
+<h2 id="dica">Dica</h2>
+<ul>
+<li>Analise as trilhas em ambas as direções.</li>
+<li>Considere que descer não oferece esforço. Sempre que subir,
+incremente o tanto que subiu como esforço gasto.</li>
+<li>Ao final, informe a trilha que houve menor gasto de esforço
+subindo.</li>
+</ul>
+<h2 id="restrições">Restrições</h2>
+<ul>
+<li>1 ≤ N ≤ 100<br />
+</li>
+<li>2 ≤ M ≤ 1000<br />
+</li>
+<li>0 ≤ Hi ≤ 1000</li>
+</ul>
+<h2 id="exemplos">Exemplos</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode py"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="op">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> INSERT <span class="dv">0</span><span class="er">1</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="dv">5</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="dv">4</span> <span class="dv">498</span> <span class="dv">500</span> <span class="dv">498</span> <span class="dv">498</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="dv">10</span> <span class="dv">60</span> <span class="dv">60</span> <span class="dv">70</span> <span class="dv">70</span> <span class="dv">70</span> <span class="dv">70</span> <span class="dv">80</span> <span class="dv">90</span> <span class="dv">90</span> <span class="dv">100</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="dv">5</span> <span class="dv">200</span> <span class="dv">190</span> <span class="dv">180</span> <span class="dv">170</span> <span class="dv">160</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="dv">2</span> <span class="dv">1000</span> <span class="dv">900</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="dv">4</span> <span class="dv">20</span> <span class="dv">20</span> <span class="dv">20</span> <span class="dv">20</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="op">========</span> EXPECT</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="dv">2</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="op">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> FINISH</span></code></pre></div>
+<div class="sourceCode" id="cb2"><pre class="sourceCode py"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="op">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> INSERT</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="dv">3</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="dv">5</span> <span class="dv">600</span> <span class="dv">601</span> <span class="dv">600</span> <span class="dv">601</span> <span class="dv">600</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="dv">4</span> <span class="dv">500</span> <span class="dv">499</span> <span class="dv">500</span> <span class="dv">499</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="dv">4</span> <span class="dv">300</span> <span class="dv">300</span> <span class="dv">302</span> <span class="dv">300</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="op">========</span> EXPECT</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="dv">2</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="op">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> FINISH</span></code></pre></div>
+</body>
+</html>

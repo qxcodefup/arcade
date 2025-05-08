@@ -1,0 +1,35 @@
+>>>>>>>> INSERT
+Opa amigo xarles 2o
+a
+x
+======== EXPECT
+Opx xmigo axrles 2o
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+minha chinela
+abcdefghijlm
+nopqrtuvwxyz
+======== EXPECT
+zwavn pvwaryn
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 03
+aquoso estrela
+aeios
+43102
+======== EXPECT
+4qu020 32tr3l4
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+eu desejo eu quero eu vou
+eo
+ta
+======== EXPECT
+tu dtstja tu qutra tu vau
+<<<<<<<< FINISH
+

@@ -1,0 +1,31 @@
+>>>>>>>> INSERT
+A Andreia alimentou a avestruz com alcaparras
+a
+======== EXPECT
+10
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+A Andreia atirou alcachofras no LEAO
+e
+======== EXPECT
+2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+A Andreia atirou alcachofras no leao
+x
+======== EXPECT
+0
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04 !%
+A Xuxa xogou xapatos no xacare Xato e xujo
+x
+======== EXPECT
+7
+<<<<<<<< FINISH
+

@@ -1,0 +1,50 @@
+>>>>>>>> INSERT
+2
+1
+2
+======== EXPECT
+rebeldes
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+3
+1
+2
+1
+======== EXPECT
+empate
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+2
+3
+======== EXPECT
+soldados
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+4
+1
+2
+3
+1
+======== EXPECT
+soldados
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+5
+1
+2
+3
+1
+4
+======== EXPECT
+rebeldes
+<<<<<<<< FINISH
+

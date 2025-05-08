@@ -1,0 +1,79 @@
+>>>>>>>> INSERT conta exata
+3
+1
+1
+1
+======== EXPECT
+1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT sobrando duas
+10
+4
+4
+4
+======== EXPECT
+2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT sobrando uma
+2
+4
+2
+3
+======== EXPECT
+5
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+4
+1
+2
+0
+======== EXPECT
+1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+20
+80
+20
+30
+======== EXPECT
+7
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06
+100
+5
+66
+27
+======== EXPECT
+1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 07
+7
+20
+13
+16
+======== EXPECT
+7
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 08
+2
+15
+13
+19
+======== EXPECT
+24
+<<<<<<<< FINISH
+

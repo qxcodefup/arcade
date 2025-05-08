@@ -1,0 +1,62 @@
+>>>>>>>> INSERT
+35
+60
+75
+======== EXPECT
+N
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+55
+68
+67
+======== EXPECT
+S
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+66
+80
+80
+======== EXPECT
+N
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+33
+40
+20
+======== EXPECT
+N
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+80
+80
+40
+======== EXPECT
+N
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06
+40
+40
+30
+======== EXPECT
+N
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 07
+71
+47
+15
+======== EXPECT
+N
+<<<<<<<< FINISH
+

@@ -1,0 +1,59 @@
+>>>>>>>> INSERT
+a
+c
+d
+d
+======== EXPECT
+Ja ouviu falar
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+d
+a
+c
+d
+======== EXPECT
+Super Fa
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 03
+b
+b
+b
+b
+======== EXPECT
+Nunca assistiu
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+d
+b
+b
+b
+======== EXPECT
+Ja ouviu falar
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+d
+b
+b
+d
+======== EXPECT
+Interessado no assunto
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06
+d
+b
+c
+d
+======== EXPECT
+Fa
+<<<<<<<< FINISH
+

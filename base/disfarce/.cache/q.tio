@@ -1,0 +1,29 @@
+>>>>>>>> INSERT
+4
+aeiou
+axx
+aeiou
+bbaa
+ultron
+ronluo
+ultron
+rrrrrrrrra
+======== EXPECT
+pessoa
+pessoa
+chefe
+ultron
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+aeiou
+axo
+aeiou
+bba
+======== EXPECT
+ultron
+pessoa
+<<<<<<<< FINISH
+

@@ -1,0 +1,20 @@
+>>>>>>>> INSERT
+Paralelepipedo
+======== EXPECT
+Pa-ra-le-le-pi-pe-do
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+Eu sou o rei de Fup
+======== EXPECT
+Eu sou o rei de Fu-p
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+Floresta Amazonica
+======== EXPECT
+Flo-re-sta A-ma-zo-ni-ca
+<<<<<<<< FINISH
+

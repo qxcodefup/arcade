@@ -1,0 +1,79 @@
+>>>>>>>> INSERT
+0
+0
+0
+0
+======== EXPECT
+nenhum
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+0
+0
+2
+0
+======== EXPECT
+jog2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+2
+2
+2
+======== EXPECT
+jog4
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+1
+0
+0
+0
+======== EXPECT
+jog1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+0
+3
+0
+0
+======== EXPECT
+jog3
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06
+1
+1
+1
+1
+======== EXPECT
+jog4
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 07
+2
+1
+1
+1
+======== EXPECT
+jog1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 08
+2
+10
+1
+1
+======== EXPECT
+jog2
+<<<<<<<< FINISH
+

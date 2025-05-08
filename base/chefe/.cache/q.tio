@@ -1,0 +1,15 @@
+>>>>>>>> INSERT
+aeiou  
+arta euio auiaoauio riu pegasus
+======== EXPECT
+pessoa chefe chefe ultron pessoa
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+aer
+arta euio auiaoauio riu pegasus rea
+======== EXPECT
+ultron pessoa pessoa pessoa pessoa chefe
+<<<<<<<< FINISH
+

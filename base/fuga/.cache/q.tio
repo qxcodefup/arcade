@@ -1,0 +1,69 @@
+>>>>>>>> INSERT
+4 14 7 -1
+======== EXPECT
+S
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+4 14 7 1
+======== EXPECT
+N
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+15 9 8 -1
+======== EXPECT
+S
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+0 14 15 -1
+======== EXPECT
+N
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+8 12 11 -1
+======== EXPECT
+S
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06
+12 6 13 -1
+======== EXPECT
+S
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 07
+10 6 13 -1
+======== EXPECT
+S
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 08
+15 3 13 1
+======== EXPECT
+S
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 09
+0 11 14 1
+======== EXPECT
+S
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 10
+2 4 13 1
+======== EXPECT
+S
+<<<<<<<< FINISH
+

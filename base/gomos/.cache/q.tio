@@ -1,0 +1,57 @@
+>>>>>>>> INSERT
+1 L
+5 5
+======== EXPECT
+4 5
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+3 L
+5 5
+6 5
+6 6
+======== EXPECT
+4 5
+5 5
+6 5
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+4 U
+5 5
+6 5
+6 6
+6 7
+======== EXPECT
+5 4
+5 5
+6 5
+6 6
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+1 R
+5 5
+======== EXPECT
+6 5
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+1 D
+5 5
+======== EXPECT
+5 6
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+1 U
+5 5
+======== EXPECT
+5 4
+<<<<<<<< FINISH
+

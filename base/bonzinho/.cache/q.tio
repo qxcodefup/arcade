@@ -1,0 +1,79 @@
+>>>>>>>> INSERT
+10
+10
+5
+10
+======== EXPECT
+Aprovado com 10.0
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+10
+2
+2
+6
+======== EXPECT
+Final com 6.0
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 03
+10
+10
+2
+10
+======== EXPECT
+Aprovado com 10.0
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+10
+10
+10
+10
+======== EXPECT
+Aprovado com 10.0
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+8
+8
+6.5
+8
+======== EXPECT
+Aprovado com 8.0
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06
+6.5
+7.5
+5
+7.0
+======== EXPECT
+Aprovado com 7.0
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 07
+2
+10
+2
+6
+======== EXPECT
+Final com 6.0
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 08
+6.9
+6.9
+4
+6.9
+======== EXPECT
+Final com 6.9
+<<<<<<<< FINISH
+

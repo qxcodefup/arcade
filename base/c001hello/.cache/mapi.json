@@ -9,12 +9,14 @@
         }
     ],
     "keep": [],
-    "required": [
-        {
-            "name": "draft.c",
-            "contents": "#include <stdio.h> // Essa biblioteca \u00e9 necess\u00e1ria para usar a fun\u00e7\u00e3o printf\n\n\n// O c\u00f3digo em C come\u00e7a a ser executado a partir da fun\u00e7\u00e3o main\nint main() {\n\n    // Quando voc\u00ea quiser dizer que a informa\u00e7\u00e3o \u00e9 um texto, voc\u00ea deve colocar entre aspas duplas\n    // Por exemplo: \"Siriguela\"\n\n    // Uma fun\u00e7\u00e3o para imprimir mensagens na tela \u00e9 a puts, ela pula linha automaticamente\n    //DEL!\n    puts(\"Seja Bem vindo\");\n    //ACT!\n    // puts(???); //TODO: Coloque para imprimir \"Seja Bem vindo\" na tela usando o puts\n    //ADD!\n\n    // A fun\u00e7\u00e3o printf imprime uma mensagem na tela, mas ela n\u00e3o pula linha automaticamente\n    // Para pular linha, \u00e9 necess\u00e1rio usar o caractere especial \\n\n    // Por exemplo: printf(\"Oi mundo!\\n\");\n    //DEL!\n    printf(\"Oi mundo!\\n\");\n    //ACT!\n    //printf(???); //TODO: Imprima \"Oi mundo!\" na tela quebrando a linha\n    //ADD!\n\n    return 0; // O return 0 informa que o c\u00f3digo foi executado com sucesso.\n}\n",
-            "encoding": 0
-        }
-    ],
-    "draft": {}
+    "required": [],
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h> // Essa biblioteca \u00e9 necess\u00e1ria para usar a fun\u00e7\u00e3o printf\n\n\n// O c\u00f3digo em C come\u00e7a a ser executado a partir da fun\u00e7\u00e3o main\nint main() {\n\n    // Quando voc\u00ea quiser dizer que a informa\u00e7\u00e3o \u00e9 um texto, voc\u00ea deve colocar entre aspas duplas\n    // Por exemplo: \"Siriguela\"\n\n    // Uma fun\u00e7\u00e3o para imprimir mensagens na tela \u00e9 a puts, ela pula linha automaticamente\n    //DEL!\n    puts(\"Seja Bem vindo\");\n    //ACT!\n    // puts(???); //TODO: Coloque para imprimir \"Seja Bem vindo\" na tela usando o puts\n    //ADD!\n\n    // A fun\u00e7\u00e3o printf imprime uma mensagem na tela, mas ela n\u00e3o pula linha automaticamente\n    // Para pular linha, \u00e9 necess\u00e1rio usar o caractere especial \\n\n    // Por exemplo: printf(\"Oi mundo!\\n\");\n    //DEL!\n    printf(\"Oi mundo!\\n\");\n    //ACT!\n    //printf(???); //TODO: Imprima \"Oi mundo!\" na tela quebrando a linha\n    //ADD!\n\n    return 0; // O return 0 informa que o c\u00f3digo foi executado com sucesso.\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }

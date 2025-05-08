@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@pr_playfair: A cifra de Playfair</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+<h1 id="a-cifra-de-playfair">A cifra de Playfair</h1>
+<p>O objetivo desse trabalho é a construção de um programa que realize a
+cifragem e a decifragem de um texto utilizando a criptografia de
+Playfair. Ele demandará de conhecimento dos assuntos de strings,
+matrizes e um pouco de arquivos.</p>
+<figure>
+<img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pr_playfair/author.jpg"
+alt="Autoria de Charles Wheatstone" />
+<figcaption aria-hidden="true">Autoria de Charles
+Wheatstone</figcaption>
+</figure>
+<p>O conteúdo dessa seção é retirada do site abaixo. Apenas os conteúdos
+mais importantes foram copiados pra cá. Sugiro que você leia na íntegra
+no seguinte <a
+href="http://www.numaboa.com.br/criptografia/substituicoes/poligramicas/1041-playfair">site</a>.</p>
+<h2 id="história">História</h2>
+<p>Apesar do nome do Barão de Playfair estar associado a uma das cifra
+clássicas mais conhecidas, foi seu amigo, o cientista Charles
+Wheatstone, quem a concebeu. Após sua criação em 1854, o barão conseguiu
+que o governo britânico adotasse oficialmente o uso da cifra - daí o
+nome Cifra de Playfair.</p>
+<p>A Playfair é uma cifra de bloco primitiva, usando alguns princípios
+comuns às cifras de bloco atuais. O melhor meio de se aproximar da
+criptologia moderna, sem ter que enfrentar a teoria dos números e a
+matemática, é entendendo a Playfair.</p>
+<p>As letras são tomadas duas a duas, e aplicadas a uma grade de 5 por 5
+que contém o alfabeto cifrante.</p>
+<p>A Playfair possui outras vantagens: não precisa de tabelas ou
+dispositivos complicados, possui uma palavra-chave que pode ser
+memorizada ou trocada com facilidade, é muito fácil de ser implementada
+e pouco sujeita a erros. Devido a estas características o sistema é
+perfeito para ser usado como uma "cifra de campo".</p>
+<h2 id="preparando-o-texto">Preparando o texto</h2>
+<p>A preparação do texto claro é extremamente fácil: basta formar grupos
+de 2 letras, os blocos digrâmicos. Cada bloco receberá um tratamento de
+acordo com as regras cifrantes (veja abaixo). O texto claro que será
+cifrado com a Playfair é:</p>
+<p>MORRO MAS SAPRENDO C</p>
+<p>Preparamos o texto para ser cifrado: MO RR OM AS SA PR EN DO OC</p>
+<p>De imediato notamos que o último bloco ficou com apenas uma letra e
+que existe um bloco com letra dupla (RR). Letras repetidas impedem que a
+cifra possa ser aplicada corretamente. Nestes casos, convenciona-se uma
+letra de separação. Geralmente são usados preferencialmente o X e o Z,
+caso sejam dois XX. Caso falte uma letra no final, adiciona-se X ou Z.
+Corrigindo os blocos obtemos:</p>
+<pre><code>MO RX RO MA SX SA PR EN DO CX</code></pre>
+<h2 id="a-matriz-de-cifragem">A matriz de cifragem</h2>
+<p>O alfabeto cifrante proposto por Wheatstone fica disposto numa grade
+de 5 por 5. Como o alfabeto latino possui 26 letras, é preciso eliminar
+uma das letras. Eliminaremos o W.</p>
+<p>Além disto, para facilitar a memorização do cifrante, Wheatstone
+sugeriu começar o preenchimento da grade com uma palavra-chave. O
+restante das células é preenchido com as letras faltantes em ordem
+alfabética.</p>
+<p>No nosso exemplo usaremos a palavra-chave "POWER RANGER". Ignoraremos
+o W e retiraremos os duplicados. Ficamos com "POERANG". Preenchemos a
+grade começando de cima pela esquerda. Depois colocamos o resto do
+alfabeto em ordem alfabetica.</p>
+<p>Resultado:</p>
+<pre><code>P O E R A
+N G B C D
+F H I J K
+L M Q S T 
+U V X Y Z</code></pre>
+<h2 id="cifragem">Cifragem</h2>
+<p>As letras de um bloco podem ter apenas 3 localizações na grade: estão
+na mesma linha, estão na mesma coluna ou estão em linhas e colunas
+diferentes. Portanto, existem apenas 3 regras que devem ser aplicadas
+aos blocos digrâmicos:</p>
+<p>1. Letras na mesma linha são substituídas pelas letras à sua direita.
+Caso uma das letras do bigrama esteja na última coluna da grade,
+"roda-se a linha" e utiliza-se a letra da primeira coluna.</p>
+<pre><code>    Ex: PR &gt; OA, CG &gt; DB, ZV &gt; UX, ZY &gt; UZ</code></pre>
+<p>2. Letras na mesma coluna são substituídas pelas letras abaixo delas.
+Caso a letra esteja na última linha, "roda-se a coluna" e utiliza-se a
+letra da primeira linha.</p>
+<pre><code>    Ex: PF &gt; NL, PU &gt; NP, VM &gt; OV, FN &gt; LF</code></pre>
+<p>3. Letras em linhas e colunas diferentes: as letras do bigrama formam
+um "quadrilátero" e são substituídas pelas letras posicionadas nos
+cantos contrários do quadrilátero.</p>
+<pre><code>    Ex: PG &gt; ON, GP &gt; NO, PB &gt; EN, ZP &gt; UA</code></pre>
+<h2 id="aplicando-a-grade">Aplicando a grade</h2>
+<p>Nosso texto e nossa grade ficarm assim.</p>
+<pre><code>Texto claro:
+MO RX RO MA SX SA PR EN DO CX
+
+Grade:
+
+P O E R A
+N G B C D
+F H I J K
+L M Q S T 
+U V X Y Z</code></pre>
+<p>Cifrando usando as regras temos:</p>
+<pre><code>Texto claro:
+MO RX RO MA SX SA PR EN DO CX
+Texto cifrado:
+VG EY AE TO QY TR OA PB GA BY</code></pre>
+<p>Para descriptografar é só fazer as operações contrárias.</p>
+<h2 id="o-programa">O programa</h2>
+<p>Você deve fazer criptografar e descriptografar. Ao ser executado ele
+receberá o nome do arquivo que contém o texto por parametro e perguntará
+a senha ao usuário. Ele mostrará o texto processado na tela.</p>
+<pre><code>--Conteúdo de texto.txt
+MORRO MAS SAPRENDO C 
+
+--Rodando o programa:
+# ./cifrar texto.txt
+&gt;&gt; Digite a chave:
+&lt;&lt; POWERRANGER
+&gt;&gt; O texto cifrado eh:
+VG EY AE TO QY TR OA PB GA BY
+
+
+
+--Conteudo do arquivo cifra.txt
+VG EY AE TO QY TR OA PB GA BY
+
+--Rodando o programa de decifrar
+# ./decifrar cifra.txt
+&gt;&gt; Digite a chave:
+&lt;&lt; POWERRANGER
+&gt;&gt; O texto decifrado eh:
+MO RX RO MA SX SA PR EN DO C</code></pre>
+</body>
+</html>

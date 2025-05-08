@@ -1,0 +1,76 @@
+>>>>>>>> INSERT
+123 321
+======== EXPECT
+True
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+544 45
+======== EXPECT
+False
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+12354 45312
+======== EXPECT
+True
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 0
+333 3333
+======== EXPECT
+False
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 2
+456 465
+======== EXPECT
+True
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 3
+44463 364445
+======== EXPECT
+False
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 4
+555222 252525
+======== EXPECT
+True
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 5
+4454654 456482
+======== EXPECT
+False
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 6
+223 23
+======== EXPECT
+False
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 7
+15454 45454
+======== EXPECT
+False
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 8
+121 112
+======== EXPECT
+True
+<<<<<<<< FINISH
+

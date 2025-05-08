@@ -1,0 +1,27 @@
+>>>>>>>> INSERT
+a  almofada ta muito  fofa
+======== EXPECT
+a almofada ta muito fofa
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+ai  bb cx
+======== EXPECT
+ai bb cx
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+aiu  bbk cxmp
+======== EXPECT
+aiu bbk cxmp
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+a  bola  ta furada
+======== EXPECT
+a bola ta furada
+<<<<<<<< FINISH
+

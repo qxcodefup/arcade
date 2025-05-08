@@ -1,0 +1,75 @@
+>>>>>>>> INSERT bastao parado
+4 4
+.#.#
+.#o#
+##o#
+##o#
+======== EXPECT
+.#.#
+.#o#
+##o#
+##o#
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT u movel
+4 4
+ooo#
+o.o#
+o#o#
+.#.#
+======== EXPECT
+...#
+ooo#
+o#o#
+o#o#
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 03 L descendo
+5 5
+.....
+..ooo
+.#..o
+###..
+##.##
+======== EXPECT
+.....
+.....
+.#ooo
+###.o
+##.##
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04 barra parada
+5 6
+......
+.ooooo
+.#....
+.##..#
+##.##.
+======== EXPECT
+......
+.ooooo
+.#....
+.##..#
+##.##.
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05 nave caindo
+5 7
+.##o.o.
+.##ooo#
+.#..o.#
+.##..#.
+##.##.#
+======== EXPECT
+.##....
+.##o.o#
+.#.ooo#
+.##.o#.
+##.##.#
+<<<<<<<< FINISH
+

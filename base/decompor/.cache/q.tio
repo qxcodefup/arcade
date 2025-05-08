@@ -1,0 +1,34 @@
+>>>>>>>> INSERT
+12345
+======== EXPECT
+1 2 3 4 5
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2357
+======== EXPECT
+2 3 5 7
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+567
+======== EXPECT
+5 6 7
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+4937
+======== EXPECT
+4 9 3 7
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+953
+======== EXPECT
+9 5 3
+<<<<<<<< FINISH
+

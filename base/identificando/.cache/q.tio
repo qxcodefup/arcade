@@ -1,0 +1,41 @@
+>>>>>>>> INSERT 01
+tenho 15 4nos 1.75 altur4 -15 conto p0rr4 -4.04
+======== EXPECT
+str int str float str int str str float
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 02
+a proxima eleição presidencial no Brasil ocorrerá em 2 de outubro de 2018
+======== EXPECT
+str str str str str str str str int str str str int
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 03
+aa 1 -2.0
+======== EXPECT
+str int float
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+02a -x1 -4.b54 p0
+======== EXPECT
+str str str str
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+-pato -40 -5.4
+======== EXPECT
+str int float
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06
+02 -1 -4.54 p0
+======== EXPECT
+int int float str
+<<<<<<<< FINISH
+

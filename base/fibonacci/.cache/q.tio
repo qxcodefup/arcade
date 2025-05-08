@@ -1,0 +1,55 @@
+>>>>>>>> INSERT Teste 0
+50
+======== EXPECT
+44
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 1
+100
+======== EXPECT
+44
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 2
+1000000
+======== EXPECT
+1089154
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 3
+500000
+======== EXPECT
+257114
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 4
+30000
+======== EXPECT
+14328
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 5
+500
+======== EXPECT
+188
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 6
+3000000
+======== EXPECT
+1089154
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT Teste 7
+4000000
+======== EXPECT
+4613732
+<<<<<<<< FINISH
+

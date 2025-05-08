@@ -1,0 +1,53 @@
+>>>>>>>> INSERT
+a
++
+a
+======== EXPECT
+a
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+b
++
+d
+======== EXPECT
+e
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+z
++
+c
+======== EXPECT
+b
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+f
+-
+d
+======== EXPECT
+c
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+b
+-
+c
+======== EXPECT
+z
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+b
++
+b
+======== EXPECT
+c
+<<<<<<<< FINISH
+

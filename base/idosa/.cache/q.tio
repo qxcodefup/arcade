@@ -1,0 +1,100 @@
+>>>>>>>> INSERT 01
+2
+ana 80 f
+joao 43 m
+======== EXPECT
+ana
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 02
+2
+jose 80 m
+joao 43 m
+======== EXPECT
+nao tem mulher
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 03
+3
+joao 43 m
+ana 80 f
+melissa 34 f
+======== EXPECT
+ana
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+3
+joao 88 m
+ana 80 f
+melissa 84 f
+======== EXPECT
+melissa
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+3
+joao 88 m
+ferrim 80 m
+melios 84 m
+======== EXPECT
+nao tem mulher
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06
+7
+maria 11 f
+joao 43 m
+francisco 12 m
+meire 71 f
+sergio 14 m
+strange 81 m
+mogli 45 m
+======== EXPECT
+meire
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 07
+6
+maria 11 f
+joao 43 m
+francisco 12 m
+meire 71 f
+strange 81 m
+sergio 101 m
+======== EXPECT
+meire
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 08
+5
+maria 99 f
+strange 81 m
+joao 43 m
+meire 71 f
+sergio 14 m
+======== EXPECT
+maria
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 09
+7
+mario 80 m
+joao 43 m
+francisco 12 m
+meire 73 f
+sergio 72 f
+strange 81 m
+mogli 45 m
+======== EXPECT
+meire
+<<<<<<<< FINISH
+

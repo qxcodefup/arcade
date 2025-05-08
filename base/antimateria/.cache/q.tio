@@ -1,0 +1,31 @@
+>>>>>>>> INSERT
+mel
+lema
+======== EXPECT
+a
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+pegasus
+suspiro
+======== EXPECT
+pegapiro
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+olho
+ohio
+======== EXPECT
+olio
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+minhoca
+arvore
+======== EXPECT
+minhocrvore
+<<<<<<<< FINISH
+

@@ -1,0 +1,39 @@
+>>>>>>>> INSERT
+amo o amor que me amou, oh amora amortecida
+amo
+======== EXPECT
+5
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+o rato ratificou o carate que rateamos no cerato.
+rat
+======== EXPECT
+5
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 03
+lua de cristal que me faz sonhar menos
+me
+======== EXPECT
+2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+marquei um x no seu umbigo de zumbak
+um
+======== EXPECT
+3
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+super golpe de kungfu
+kungfu
+======== EXPECT
+1
+<<<<<<<< FINISH
+

@@ -1,0 +1,80 @@
+>>>>>>>> INSERT
+5
+2
+/
+======== EXPECT
+2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+3
+5
++
+======== EXPECT
+8
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+7
+9
+/
+======== EXPECT
+0
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+5
+2
+*
+======== EXPECT
+10
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+-10
+2
+-
+======== EXPECT
+-12
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06
+-10
+4
++
+======== EXPECT
+-6
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 07
+8
+3
+/
+======== EXPECT
+2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 08
+8
+2
+*
+======== EXPECT
+16
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 09
+8
+0
++
+======== EXPECT
+8
+<<<<<<<< FINISH
+

@@ -1,0 +1,37 @@
+>>>>>>>> INSERT
+1
+aeb
+======== EXPECT
+ae
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+1
+aebeiocdu
+======== EXPECT
+eio
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+abdeiuofaoi
+xaeioux
+======== EXPECT
+eiuo
+aeiou
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+3
+aebaibaobaub
+baeoxuoiazzz
+oxau
+======== EXPECT
+ae
+uoia
+au
+<<<<<<<< FINISH
+

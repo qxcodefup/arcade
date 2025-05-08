@@ -1,0 +1,82 @@
+>>>>>>>> INSERT
+1
+c m
+======== EXPECT
+c
+t
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+c m
+l t
+======== EXPECT
+empate
+empate
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+c m
+c t
+======== EXPECT
+c
+empate
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+l m
+l t
+======== EXPECT
+l
+empate
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+c t
+l t
+======== EXPECT
+empate
+m
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+c m
+l m
+======== EXPECT
+empate
+t
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+3
+c m
+c t
+l m
+======== EXPECT
+c
+t
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+5
+c m
+c t
+l m
+l m
+l m
+======== EXPECT
+l
+t
+<<<<<<<< FINISH
+

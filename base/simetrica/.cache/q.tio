@@ -1,0 +1,53 @@
+>>>>>>>> INSERT
+1 4 7
+4 1 8
+7 8 1
+======== EXPECT
+sim
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+3 3 3
+3 3 3
+3 3 3
+======== EXPECT
+sim
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+1 2 3
+4 5 6
+7 8 9
+======== EXPECT
+nao
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+2 7 6
+9 5 1
+4 3 8
+======== EXPECT
+nao
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+8 1 6
+3 5 7
+4 9 2
+======== EXPECT
+nao
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06
+1 4 7
+4 1 8
+7 9 1
+======== EXPECT
+nao
+<<<<<<<< FINISH
+

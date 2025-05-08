@@ -9,12 +9,14 @@
         }
     ],
     "keep": [],
-    "required": [
-        {
-            "name": "draft.c",
-            "contents": "#include <stdio.h>\n\nint main() {\n    // Existem v\u00e1rias formas de fazer coment\u00e1rios em C\n    // Coment\u00e1rios s\u00e3o trechos de c\u00f3digo que s\u00e3o ignorados pelo compilador\n    // E servem para explicar o que o c\u00f3digo faz\n    // Voc\u00ea est\u00e1 lendo um coment\u00e1rio agora\n\n    // Coment\u00e1rios de uma linha s\u00e3o feitos com duas barras\n    // Eles desabilitam o c\u00f3digo at\u00e9 o final da linha\n\n    puts(\"Eu acho que vi um gatinho\"); // Essa \u00e9 uma frase famosa de desenho animado\n\n    // Coment\u00e1rios de v\u00e1rias linhas s\u00e3o feitos com /* e */\n    /* Eles desabilitam \n    o c\u00f3digo \n\n    at\u00e9 encontrar o\n    fechamento e podem se expandir por m\u00faltiplas linhas */\n\n    // Coment\u00e1rios de uma linha s\u00e3o mais comuns\n    // Sua IDE provavelmente tem um atalho para fazer coment\u00e1rios de uma linha\n    // No vscode, replit, codespace, nomrally \u00e9 CTRL + / ou CTRL + ;\n\n    // Comente o c\u00f3digo abaixo usando coment\u00e1rios de uma linha\n\n    puts(\"Luke, eu sou seu pai\");\n    puts(\"Eu vejo gente morta\");\n\n    // Comente o c\u00f3digo abaixo usando coment\u00e1rios de v\u00e1rias linhas /* */\n\n    puts(\"Hasta la vista, baby\");\n    puts(\"Por que t\u00e3o s\u00e9rio?\");\n\n    //Comente o c\u00f3digo abaixo utilizando o atalho da sua IDE\n\n    puts(\"Grandes poderes trazem grandes responsabilidades\");\n    puts(\"Que a for\u00e7a esteja com voc\u00ea\");\n\n    // Mantenha o c\u00f3digo, mas comente o final da linha\n    puts(\"Wilsoooooon\"); Disse Tom Hanks em N\u00e1ufrago\n\n    return 0;\n}\n",
-            "encoding": 0
-        }
-    ],
-    "draft": {}
+    "required": [],
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h>\n\nint main() {\n    // Existem v\u00e1rias formas de fazer coment\u00e1rios em C\n    // Coment\u00e1rios s\u00e3o trechos de c\u00f3digo que s\u00e3o ignorados pelo compilador\n    // E servem para explicar o que o c\u00f3digo faz\n    // Voc\u00ea est\u00e1 lendo um coment\u00e1rio agora\n\n    // Coment\u00e1rios de uma linha s\u00e3o feitos com duas barras\n    // Eles desabilitam o c\u00f3digo at\u00e9 o final da linha\n\n    puts(\"Eu acho que vi um gatinho\"); // Essa \u00e9 uma frase famosa de desenho animado\n\n    // Coment\u00e1rios de v\u00e1rias linhas s\u00e3o feitos com /* e */\n    /* Eles desabilitam \n    o c\u00f3digo \n\n    at\u00e9 encontrar o\n    fechamento e podem se expandir por m\u00faltiplas linhas */\n\n    // Coment\u00e1rios de uma linha s\u00e3o mais comuns\n    // Sua IDE provavelmente tem um atalho para fazer coment\u00e1rios de uma linha\n    // No vscode, replit, codespace, nomrally \u00e9 CTRL + / ou CTRL + ;\n\n    // Comente o c\u00f3digo abaixo usando coment\u00e1rios de uma linha\n\n    puts(\"Luke, eu sou seu pai\");\n    puts(\"Eu vejo gente morta\");\n\n    // Comente o c\u00f3digo abaixo usando coment\u00e1rios de v\u00e1rias linhas /* */\n\n    puts(\"Hasta la vista, baby\");\n    puts(\"Por que t\u00e3o s\u00e9rio?\");\n\n    //Comente o c\u00f3digo abaixo utilizando o atalho da sua IDE\n\n    puts(\"Grandes poderes trazem grandes responsabilidades\");\n    puts(\"Que a for\u00e7a esteja com voc\u00ea\");\n\n    // Mantenha o c\u00f3digo, mas comente o final da linha\n    puts(\"Wilsoooooon\"); Disse Tom Hanks em N\u00e1ufrago\n\n    return 0;\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }

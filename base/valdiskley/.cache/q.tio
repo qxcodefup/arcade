@@ -1,0 +1,39 @@
+>>>>>>>> INSERT 01
+a
+0
+======== EXPECT
+a
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 02
+b
+3
+======== EXPECT
+e
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 03
+z
+2
+======== EXPECT
+b
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+f
+-3
+======== EXPECT
+c
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+b
+-2
+======== EXPECT
+z
+<<<<<<<< FINISH
+

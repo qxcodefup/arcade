@@ -1,0 +1,95 @@
+>>>>>>>> INSERT
+0
+0
+======== EXPECT
+1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+1
+10
+======== EXPECT
+1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+99102030
+======== EXPECT
+1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+9
+44902391
+======== EXPECT
+2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+4
+5939
+======== EXPECT
+0
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+0
+51007140
+======== EXPECT
+3
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05 t2
+1
+99123321
+======== EXPECT
+2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 06 t3
+9
+95398900
+======== EXPECT
+3
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 07 t4
+1
+99176810
+======== EXPECT
+2
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 08 t5
+3
+432
+======== EXPECT
+1
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 09 t6
+4
+44449999
+======== EXPECT
+4
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 10 t7
+0
+100101010
+======== EXPECT
+5
+<<<<<<<< FINISH
+

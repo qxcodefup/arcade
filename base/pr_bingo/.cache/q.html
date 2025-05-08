@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>@pr_bingo: Simulador de Bingo e Gerador de Cartelas</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+<h1 id="simulador-de-bingo-e-gerador-de-cartelas">Simulador de Bingo e
+Gerador de Cartelas</h1>
+<p>O objetivo desse trabalho é fazer um código que simule um bingo e um
+gerador de cartelas.</p>
+<figure>
+<img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pr_bingo/roleta.jpg"
+alt="Roleta e Mesa" />
+<figcaption aria-hidden="true">Roleta e Mesa</figcaption>
+</figure>
+<p><a href="http://www.bingosonline.com/regras-bingo/75-bolas"
+class="uri">http://www.bingosonline.com/regras-bingo/75-bolas</a></p>
+<h2 id="regras-básicas">Regras Básicas</h2>
+<p>O bingo de 75 bolas é a modalidade de bingo mais popular nos Estados
+Unidos. Esta tradicional variante do bingo utiliza 75 números, com
+grupos de 15. Cada letra da palavra <em>Bingo</em> é utilizada para
+agrupar 15 números, de 01 a 75. As cartelas do bingo de 75 bolas são
+quadaradas, com 25 espaços - 5 colunas e 5 linhas. O espaço que fica bem
+no centro da cartela é marcado com a palavra <em>Free</em>
+(<em>Livre</em>), ou seja, não será utilizado por nenhum jogador. Todos
+os demais espaços contem números aleatórios, dispostos conforme o layout
+<em>Bingo</em> anteriormente explicado, e devem ser preenchidos conforme
+são cantados.</p>
+<p>Nesta modalidade de bingo, todos os jogadores devem preencher os
+espaços até completarem um padrão de preenchimento preestabelecido no
+início do jogo. Um padrão de linha requer que o jogador complete uma das
+linhas de sua cartela, o padrão X requer o preenchimento de duas linhas
+na diagonal, entre outros. O padrão <em>bingo</em> (todos os espaços
+completos) é conhecido nesta modalidade como <em>Full House</em>,
+<em>Blackout</em>, ou ainda <em>Coverall</em>.</p>
+<h2 id="implementação-parte-1">Implementação Parte 1</h2>
+<p>Seu objetivo é implementar a roleta e o rack de guardar as bolas. A
+cada rodada, o programa pergunta pro usuário se quer pedir outra bola ou
+parar. A cada bola sorteada, esta deve sair da roleta e ir para o
+rack.</p>
+<p>O programa deve continuamente mostrar quais as bolas que estão na
+roleta e quais as bolas que já foram sorteadas e estão no rack.</p>
+<p>Como sugestão ordene esses valores para facilitar a visualização. Se
+desejar, implemente como no exemplo abaixo, no qual as bolas que faltam
+são mostradas com um marcador.</p>
+<h2 id="exemplo">Exemplo</h2>
+<p>1a Versão. Uma única rodada, um jogador e a mesa. A cada rodada o
+programa pergunta se o jogador quer parar ou continuar. Se quiser
+continuar, ele recebe uma bola aleatória. Abaixo, um exemplo de
+saída.</p>
+<pre><code>Iniciando Bingo:
+
+Roleta:
+ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 
+16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 
+46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 
+61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 
+Escolha 1 para pedir bola e 0 para sair
+&gt;&gt; 1
+
+Numero sorteado 57
+
+Roleta:
+ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 
+16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 
+46 47 48 49 50 51 52 53 54 55 56 __ 58 59 60 
+61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 
+
+Rack:
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
+__ __ __ __ __ __ __ __ __ __ __ 57 __ __ __ 
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
+
+Escolha 1 para pedir bola e 0 para sair
+&gt;&gt; 1
+
+Numero sorteado 58
+
+Roleta:
+ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 
+16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 
+46 47 48 49 50 51 52 53 54 55 56 __ __ 59 60 
+61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 
+
+Rack:
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
+__ __ __ __ __ __ __ __ __ __ __ 57 58 __ __ 
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
+Escolha 1 para pedir bola e 0 para sair
+&gt;&gt; 0
+
+Obrigado e volte sempre.</code></pre>
+<h2 id="implementação-parte-2">Implementação Parte 2</h2>
+<p>A segunda parte da implementação é a criação de um gerador de
+cartelas. Aqui cada letra contem bolas dentro de uma faixa.</p>
+<ul>
+<li>B - 5 bolas entre 1 e 15</li>
+<li>I - 5 bolas entre 16 e 30</li>
+<li>N - 4 bolas entre 31 e 45</li>
+<li>G - 5 bolas entre 46 e 60</li>
+<li>O - 5 bolas entre 61 e 75</li>
+</ul>
+<p>Os números normalmente não são ordenados dentro da letra. A seguir o
+exemplo de uma cartela.</p>
+<figure>
+<img
+src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pr_bingo/cartela.jpg"
+alt="Cartela" />
+<figcaption aria-hidden="true">Cartela</figcaption>
+</figure>
+<h2 id="exemplo-parte-2">Exemplo Parte 2</h2>
+<pre><code>Cartela 1
+B  I  N  G  O
+12 18 31 58 63 
+ 3 19 43 54 67 
+ 1 26 ## 59 71 
+10 23 45 50 68 
+14 21 38 60 65 
+
+Cartela 2
+B  I  N  G  O
+ 4 17 43 50 67 
+12 28 41 53 68 
+ 9 20 ## 59 72 
+11 19 39 60 70 
+13 16 37 48 62</code></pre>
+</body>
+</html>

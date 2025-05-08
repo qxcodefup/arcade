@@ -1,0 +1,27 @@
+>>>>>>>> INSERT
+a porta amassou
+======== EXPECT
+a portamassou
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+carla almeida alencar
+======== EXPECT
+carlalmeidalencar
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+a carla a ama
+======== EXPECT
+a carlama
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+o orvalho ouviu uniformemente e eu uivei
+======== EXPECT
+orvalhouviuniformementeuivei
+<<<<<<<< FINISH
+

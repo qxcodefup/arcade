@@ -1,0 +1,79 @@
+>>>>>>>> INSERT
+1  
+1.0  
+1.0  
+M  
+======== EXPECT
+primeiro
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2  
+1.0 2.0  
+1.0 2.1  
+m m  
+======== EXPECT
+empate
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+1.0 2.0
+1.0 2.1
+m M
+======== EXPECT
+primeiro
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+2
+1.0 2.0
+1.1 2.1
+m M
+======== EXPECT
+empate
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+3
+1.0 2.0 4.0
+1.1 2.1 4.0
+m M m
+======== EXPECT
+primeiro
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+3
+1.0 2.0 4.02
+1.1 2.1 4.1
+M m m
+======== EXPECT
+segundo
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 07
+1
+1.0
+1.0
+M
+======== EXPECT
+primeiro
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 08
+2
+1.0 2.0
+1.0 2.1
+m m
+======== EXPECT
+empate
+<<<<<<<< FINISH
+

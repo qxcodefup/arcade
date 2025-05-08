@@ -1,0 +1,98 @@
+>>>>>>>> INSERT
+2
+Homem de Ferro
+500
+Viuva Negra
+340
+2
+Capitao America
+400
+Soldado Invernal
+450
+======== EXPECT
+Team Captain Wins
+Homem de Ferro
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+3
+Pantera Negra
+600
+Visao
+1000
+Maquina de Combate
+500
+3
+Soldado Invernal
+550
+Wanda
+1200
+Homem Formiga
+300
+======== EXPECT
+Team Iron Wins
+Wanda
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 03
+2
+Homem de Ferro
+500
+Visao
+500
+2
+Capitao America
+650
+Soldado Invernal
+350
+======== EXPECT
+Draw
+Capitao America
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 04
+5
+Homem de Ferro
+600
+Visao
+1350
+Maquina de Combate
+400
+Pantera Negra
+700
+Homem Aranha
+300
+5
+Capitao America
+650
+Soldado Invernal
+800
+Homem Formiga
+500
+Gaviao Arqueiro
+400
+Falcao
+350
+======== EXPECT
+Team Iron Wins
+Visao
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT 05
+1
+Homem de Ferro
+800
+2
+Capitao America
+500
+Soldado Invernal
+500
+======== EXPECT
+Team Captain Wins
+Homem de Ferro
+<<<<<<<< FINISH
+

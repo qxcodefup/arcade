@@ -1,0 +1,26 @@
+>>>>>>>> INSERT
+extraordinario
+aeioubcdfgh
+*
+======== EXPECT
+e***ao*di*a*io
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+Teco-Teco!
+tbxyan
+_
+======== EXPECT
+T___-T___!
+<<<<<<<< FINISH
+
+
+>>>>>>>> INSERT
+Seu Pilantra!
+yzxa
+*
+======== EXPECT
+*** ***a***a!
+<<<<<<<< FINISH
+
