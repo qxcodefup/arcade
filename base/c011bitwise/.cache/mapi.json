@@ -10,5 +10,13 @@
     ],
     "keep": [],
     "required": [],
-    "draft": {}
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h>\n\nint main() {\n    // O que \u00e9 manipula\u00e7\u00e3o de bits (bitwise)?\n    // Manipula\u00e7\u00e3o de bits envolve alterar diretamente os bits individuais que comp\u00f5em um n\u00famero. (lembre-se que, por uma quest\u00e3o de efici\u00eancia, computadores processam TUDO em bin\u00e1rio (0 e 1))\n    // Ent\u00e3o, \u00e9 como se manipul\u00e1ssemos a raiz do que o computador ir\u00e1 compreender do c\u00f3digo.\n    // Em C, tamb\u00e9m podemos usar opera\u00e7\u00f5es bitwise para realizar tarefas como troca de valores e otimiza\u00e7\u00e3o de c\u00e1lculos.\n    \n    // Lembre-se: 1 byte = 8 bits.\n    \n    // Principais operadores bitwise:\n    // << : Desloca os bits \u00e0 esquerda (multiplica por pot\u00eancias de 2)\n    // >> : Desloca os bits \u00e0 direita (divide por pot\u00eancias de 2)\n    // &  : AND bit a bit (compara dois bits e retorna 1 se ambos forem 1)\n    // |  : OR bit a bit (compara dois bits e retorna 1 se qualquer um dos dois for 1)\n    // ^  : XOR bit a bit (compara dois bits e retorna 1 se forem diferentes)\n    \n    // Vamos praticar alguns exemplos de manipula\u00e7\u00e3o de bits:\n\n    // SHIFT RIGHT (Deslocamento \u00e0 direita):\n    // TODO: Printe o resultado do deslocamento \u00e0 direita de 16 por 2 posi\u00e7\u00f5es\n    // Dica: 16 em bin\u00e1rio \u00e9 10000, e deslocar \u00e0 direita divide o n\u00famero por 2^n.\n    //DEL!\n    printf(\"%d\\n\", 16 >> 2);\n    //ACT!\n    // printf(\"%d\\n\", 16 ??? 2);\n    //ADD!\n\n    // SHIFT LEFT (Deslocamento \u00e0 esquerda):\n    // TODO: Printe o resultado do deslocamento \u00e0 esquerda de 5 por 3 posi\u00e7\u00f5es\n    // Dica: Deslocar \u00e0 esquerda multiplica o n\u00famero por 2^n.\n    //DEL!\n    printf(\"%d\\n\", 5 << 3);\n    //ACT!\n    // printf(\"%d\\n\", 5 ??? 3);\n    //ADD!\n\n    // AND BITWISE:\n    // TODO: Printe o resultado de 12 AND 5 \n    // Dica: 12 = 1100, 5 = 0101, e o AND retorna 1 se ambos os bits forem 1.\n    //DEL!\n    printf(\"%d\\n\", 12 & 5);\n    //ACT!\n    // printf(\"%d\\n\", 12 ??? 5);\n    //ADD!\n\n    // OR BITWISE:\n    // TODO: Printe o resultado de 8 OR 3 \n    // Dica: 8 = 1000, 3 = 0011, e o OR retorna 1 se qualquer um dos bits for 1.\n    //DEL!\n    printf(\"%d\\n\", 8 | 3);\n    //ACT!\n    // printf(\"%d\\n\", 8 ??? 3);\n    //ADD!\n\n    // XOR BITWISE:\n    // TODO: Printe o resultado de 7 XOR 2 \n    // Dica: XOR retorna 1 se os bits forem diferentes.\n    //DEL!\n    printf(\"%d\\n\", 7 ^ 2);\n    //ACT!\n    // printf(\"%d\\n\", 7 ??? 2);\n    //ADD!\n\n    return 0;\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }

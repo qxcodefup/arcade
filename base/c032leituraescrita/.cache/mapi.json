@@ -9,12 +9,14 @@
         }
     ],
     "keep": [],
-    "required": [
-        {
-            "name": "draft.c",
-            "contents": "#include <stdio.h>\n#include <stdlib.h>\n\n// A leitura e escrita de arquivos bin\u00e1rios em C \u00e9 feita usando:\n// - `fopen` para abrir o arquivo (modo \"wb\" para escrita bin\u00e1ria e \"rb\" para leitura bin\u00e1ria).\n// - `fwrite` para escrever dados bin\u00e1rios no arquivo.\n// - `fread` para ler dados bin\u00e1rios do arquivo.\n// - `fclose` para fechar o arquivo ao final.\n\n// TODO: Abra um arquivo chamado \"dados.bin\" no modo de escrita bin\u00e1ria.\n// - Escreva os inteiros 10, 20, 30 no arquivo usando `fwrite`.\n\n// TODO: Reabra o arquivo no modo de leitura bin\u00e1ria.\n// - Leia os n\u00fameros e os imprima na tela.\n\nint main() {\n    FILE* arquivo;\n    // Passo 1: Abrir arquivo para escrita bin\u00e1ria\n    //DEL!\n    arquivo = fopen(\"dados.bin\", \"wb\");\n    if (arquivo == NULL) {\n        printf(\"Erro ao abrir o arquivo.\\n\");\n        return 1;\n    }\n    int numeros[3] = {10, 20, 30};\n    fwrite(numeros, sizeof(int), 3, arquivo);\n    fclose(arquivo);\n\n    // Passo 2: Reabrir arquivo para leitura bin\u00e1ria\n    arquivo = fopen(\"dados.bin\", \"rb\");\n    if (arquivo == NULL) {\n        printf(\"Erro ao abrir o arquivo.\\n\");\n        return 1;\n    }\n    int leitura[3];\n    fread(leitura, sizeof(int), 3, arquivo);\n    fclose(arquivo);\n\n    // Passo 3: Imprimir os valores lidos\n    printf(\"Valores lidos: \");\n    for (int i = 0; i < 3; i++) {\n        printf(\"%d \", leitura[i]);\n    }\n    printf(\"\\n\");\n    //ACT!\n    // FILE* arquivo = fopen(\"dados.bin\", ???);\n    // ???; // Escrever dados\n    // fclose(???);\n    //ADD!\n    return 0;\n}\n",
-            "encoding": 0
-        }
-    ],
-    "draft": {}
+    "required": [],
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h>\n#include <stdlib.h>\n\n// A leitura e escrita de arquivos bin\u00e1rios em C \u00e9 feita usando:\n// - `fopen` para abrir o arquivo (modo \"wb\" para escrita bin\u00e1ria e \"rb\" para leitura bin\u00e1ria).\n// - `fwrite` para escrever dados bin\u00e1rios no arquivo.\n// - `fread` para ler dados bin\u00e1rios do arquivo.\n// - `fclose` para fechar o arquivo ao final.\n\n// TODO: Abra um arquivo chamado \"dados.bin\" no modo de escrita bin\u00e1ria.\n// - Escreva os inteiros 10, 20, 30 no arquivo usando `fwrite`.\n\n// TODO: Reabra o arquivo no modo de leitura bin\u00e1ria.\n// - Leia os n\u00fameros e os imprima na tela.\n\nint main() {\n    FILE* arquivo;\n    // Passo 1: Abrir arquivo para escrita bin\u00e1ria\n    //DEL!\n    arquivo = fopen(\"dados.bin\", \"wb\");\n    if (arquivo == NULL) {\n        printf(\"Erro ao abrir o arquivo.\\n\");\n        return 1;\n    }\n    int numeros[3] = {10, 20, 30};\n    fwrite(numeros, sizeof(int), 3, arquivo);\n    fclose(arquivo);\n\n    // Passo 2: Reabrir arquivo para leitura bin\u00e1ria\n    arquivo = fopen(\"dados.bin\", \"rb\");\n    if (arquivo == NULL) {\n        printf(\"Erro ao abrir o arquivo.\\n\");\n        return 1;\n    }\n    int leitura[3];\n    fread(leitura, sizeof(int), 3, arquivo);\n    fclose(arquivo);\n\n    // Passo 3: Imprimir os valores lidos\n    printf(\"Valores lidos: \");\n    for (int i = 0; i < 3; i++) {\n        printf(\"%d \", leitura[i]);\n    }\n    printf(\"\\n\");\n    //ACT!\n    // FILE* arquivo = fopen(\"dados.bin\", ???);\n    // ???; // Escrever dados\n    // fclose(???);\n    //ADD!\n    return 0;\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }

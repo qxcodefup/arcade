@@ -9,12 +9,14 @@
         }
     ],
     "keep": [],
-    "required": [
-        {
-            "name": "draft.c",
-            "contents": "#include <stdio.h>\n\nint main() {\n\n    // caracteres especiais s\u00e3o usados para representar coisas que n\u00e3o s\u00e3o vis\u00edveis\n    // por exemplo, \\n \u00e9 um caractere especial que representa uma quebra de linha\n    // \\t \u00e9 um caractere especial que representa um tab\n    // \\\\ \u00e9 um caractere especial que representa uma barra invertida\n    // \\\" \u00e9 um caractere especial que representa uma aspas dupla\n    //Imprima o seguinte texto na tela usando um \u00fanico printf\n    /*\nUma aspa dupla: \"\nUma barra invertida: \\\nUma quebra de linha: \\n\n    */\n    printf(\"Uma aspa dupla: \\\"\\nUma barra invertida: \\\\\\nUma quebra de linha: \\\\n\\n\");\n}\n",
-            "encoding": 0
-        }
-    ],
-    "draft": {}
+    "required": [],
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h>\n\nint main() {\n\n    // caracteres especiais s\u00e3o usados para representar coisas que n\u00e3o s\u00e3o vis\u00edveis\n    // por exemplo, \\n \u00e9 um caractere especial que representa uma quebra de linha\n    // \\t \u00e9 um caractere especial que representa um tab\n    // \\\\ \u00e9 um caractere especial que representa uma barra invertida\n    // \\\" \u00e9 um caractere especial que representa uma aspas dupla\n    //Imprima o seguinte texto na tela usando um \u00fanico printf\n    /*\nUma aspa dupla: \"\nUma barra invertida: \\\nUma quebra de linha: \\n\n    */\n    printf(\"Uma aspa dupla: \\\"\\nUma barra invertida: \\\\\\nUma quebra de linha: \\\\n\\n\");\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }

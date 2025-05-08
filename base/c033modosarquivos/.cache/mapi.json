@@ -9,12 +9,14 @@
         }
     ],
     "keep": [],
-    "required": [
-        {
-            "name": "draft.c",
-            "contents": "#include <stdio.h>\n\n// Em C, os arquivos podem ser abertos em diferentes modos:\n// - \"r\": leitura (arquivo deve existir).\n// - \"w\": escrita (cria um novo arquivo ou sobrescreve se j\u00e1 existir).\n// - \"a\": escrita no final do arquivo (n\u00e3o sobrescreve o conte\u00fado existente).\n// - \"rb\", \"wb\", \"ab\": mesmos modos, mas para arquivos bin\u00e1rios.\n\n// Para abrir um arquivo, usamos a fun\u00e7\u00e3o `fopen`:\n// - Retorna um ponteiro do tipo `FILE*` se for bem-sucedido ou NULL em caso de erro.\n\n// IMPORTANTE:\n// Sempre use `fclose` para liberar os recursos associados ao arquivo.\n\n// TODO: Abra um arquivo chamado \"texto.txt\" no modo de escrita (\"w\").\n// - Escreva a frase: \"Este \u00e9 um teste de escrita.\" no arquivo.\n// - Feche o arquivo.\n\n// TODO: Reabra o arquivo no modo de leitura (\"r\").\n// - Leia o conte\u00fado do arquivo e imprima na tela.\n\nint main() {\n    FILE* arquivo;\n\n    // Passo 1: Abrir o arquivo no modo de escrita e escrever no arquivo\n    //DEL!\n    arquivo = fopen(\"texto.txt\", \"w\");\n    if (arquivo == NULL) {\n        printf(\"Erro ao abrir o arquivo.\\n\");\n        return 1;\n    }\n    fprintf(arquivo, \"Este \u00e9 um teste de escrita.\\n\");\n    fclose(arquivo);\n\n    // Passo 2: Reabrir o arquivo no modo de leitura e imprimir o conte\u00fado\n    arquivo = fopen(\"texto.txt\", \"r\");\n    if (arquivo == NULL) {\n        printf(\"Erro ao abrir o arquivo.\\n\");\n        return 1;\n    }\n    char linha[100];\n    while (fgets(linha, sizeof(linha), arquivo) != NULL) {\n        printf(\"%s\", linha);\n    }\n    fclose(arquivo);\n    //ACT!\n    // FILE* arquivo = fopen(\"texto.txt\", ???);\n    // ???; // Escrever no arquivo\n    // fclose(???);\n    // ???; // Abrir para leitura\n    // ???; // Ler e imprimir conte\u00fado\n    // fclose(???);\n    //ADD!\n    return 0;\n}\n",
-            "encoding": 0
-        }
-    ],
-    "draft": {}
+    "required": [],
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h>\n\n// Em C, os arquivos podem ser abertos em diferentes modos:\n// - \"r\": leitura (arquivo deve existir).\n// - \"w\": escrita (cria um novo arquivo ou sobrescreve se j\u00e1 existir).\n// - \"a\": escrita no final do arquivo (n\u00e3o sobrescreve o conte\u00fado existente).\n// - \"rb\", \"wb\", \"ab\": mesmos modos, mas para arquivos bin\u00e1rios.\n\n// Para abrir um arquivo, usamos a fun\u00e7\u00e3o `fopen`:\n// - Retorna um ponteiro do tipo `FILE*` se for bem-sucedido ou NULL em caso de erro.\n\n// IMPORTANTE:\n// Sempre use `fclose` para liberar os recursos associados ao arquivo.\n\n// TODO: Abra um arquivo chamado \"texto.txt\" no modo de escrita (\"w\").\n// - Escreva a frase: \"Este \u00e9 um teste de escrita.\" no arquivo.\n// - Feche o arquivo.\n\n// TODO: Reabra o arquivo no modo de leitura (\"r\").\n// - Leia o conte\u00fado do arquivo e imprima na tela.\n\nint main() {\n    FILE* arquivo;\n\n    // Passo 1: Abrir o arquivo no modo de escrita e escrever no arquivo\n    //DEL!\n    arquivo = fopen(\"texto.txt\", \"w\");\n    if (arquivo == NULL) {\n        printf(\"Erro ao abrir o arquivo.\\n\");\n        return 1;\n    }\n    fprintf(arquivo, \"Este \u00e9 um teste de escrita.\\n\");\n    fclose(arquivo);\n\n    // Passo 2: Reabrir o arquivo no modo de leitura e imprimir o conte\u00fado\n    arquivo = fopen(\"texto.txt\", \"r\");\n    if (arquivo == NULL) {\n        printf(\"Erro ao abrir o arquivo.\\n\");\n        return 1;\n    }\n    char linha[100];\n    while (fgets(linha, sizeof(linha), arquivo) != NULL) {\n        printf(\"%s\", linha);\n    }\n    fclose(arquivo);\n    //ACT!\n    // FILE* arquivo = fopen(\"texto.txt\", ???);\n    // ???; // Escrever no arquivo\n    // fclose(???);\n    // ???; // Abrir para leitura\n    // ???; // Ler e imprimir conte\u00fado\n    // fclose(???);\n    //ADD!\n    return 0;\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }

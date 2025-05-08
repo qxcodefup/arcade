@@ -9,12 +9,14 @@
         }
     ],
     "keep": [],
-    "required": [
-        {
-            "name": "draft.c",
-            "contents": "#include <stdio.h>\n\n// Em C, `enum` \u00e9 usado para criar constantes nomeadas, que s\u00e3o inteiros sequenciais a partir de 0.\n\n// Imagine que voc\u00ea est\u00e1 implementando um sistema de controle de sem\u00e1foro com os seguintes estados:\n// - VERMELHO (0)\n// - AMARELO (1)\n// - VERDE (2)\n\n// TODO: Defina um `enum` chamado `Semaforo` que:\n// - Tenha os estados: `VERMELHO`, `AMARELO` e `VERDE`.\n\n// TODO: No `main`, declare uma vari\u00e1vel do tipo `Semaforo` chamada `estado` e:\n// - Inicialize com o valor `VERMELHO`.\n// - Use um `switch` para imprimir a mensagem correspondente:\n//   - \"Pare!\" para `VERMELHO`\n//   - \"Aten\u00e7\u00e3o!\" para `AMARELO`\n//   - \"Siga!\" para `VERDE`\n\ntypedef enum {\n    //DEL!\n    VERMELHO,\n    AMARELO,\n    VERDE\n    //ACT!\n    // ???,\n    //ADD!\n} Semaforo;\n\nint main() {\n    //DEL!\n    Semaforo estado = VERMELHO;\n\n    switch (estado) {\n        case VERMELHO:\n            printf(\"Pare!\\n\");\n            break;\n        case AMARELO:\n            printf(\"Aten\u00e7\u00e3o!\\n\");\n            break;\n        case VERDE:\n            printf(\"Siga!\\n\");\n            break;\n    }\n    //ACT!\n    // Semaforo estado = ???;\n    // switch (estado) {\n    //    case ???:\n    //        printf(\"???\\n\");\n    //        break;\n    // }\n    //ADD!\n    return 0;\n}\n",
-            "encoding": 0
-        }
-    ],
-    "draft": {}
+    "required": [],
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h>\n\n// Em C, `enum` \u00e9 usado para criar constantes nomeadas, que s\u00e3o inteiros sequenciais a partir de 0.\n\n// Imagine que voc\u00ea est\u00e1 implementando um sistema de controle de sem\u00e1foro com os seguintes estados:\n// - VERMELHO (0)\n// - AMARELO (1)\n// - VERDE (2)\n\n// TODO: Defina um `enum` chamado `Semaforo` que:\n// - Tenha os estados: `VERMELHO`, `AMARELO` e `VERDE`.\n\n// TODO: No `main`, declare uma vari\u00e1vel do tipo `Semaforo` chamada `estado` e:\n// - Inicialize com o valor `VERMELHO`.\n// - Use um `switch` para imprimir a mensagem correspondente:\n//   - \"Pare!\" para `VERMELHO`\n//   - \"Aten\u00e7\u00e3o!\" para `AMARELO`\n//   - \"Siga!\" para `VERDE`\n\ntypedef enum {\n    //DEL!\n    VERMELHO,\n    AMARELO,\n    VERDE\n    //ACT!\n    // ???,\n    //ADD!\n} Semaforo;\n\nint main() {\n    //DEL!\n    Semaforo estado = VERMELHO;\n\n    switch (estado) {\n        case VERMELHO:\n            printf(\"Pare!\\n\");\n            break;\n        case AMARELO:\n            printf(\"Aten\u00e7\u00e3o!\\n\");\n            break;\n        case VERDE:\n            printf(\"Siga!\\n\");\n            break;\n    }\n    //ACT!\n    // Semaforo estado = ???;\n    // switch (estado) {\n    //    case ???:\n    //        printf(\"???\\n\");\n    //        break;\n    // }\n    //ADD!\n    return 0;\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }

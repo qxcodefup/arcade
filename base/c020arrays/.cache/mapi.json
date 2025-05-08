@@ -9,12 +9,14 @@
         }
     ],
     "keep": [],
-    "required": [
-        {
-            "name": "draft.c",
-            "contents": "#include <stdio.h>\n\n//Em C, um array \u00e9 uma sequ\u00eancia de elementos do mesmo tipo, que podem ser acessados por \u00edndices. Os \u00edndices come\u00e7am em 0 e v\u00e3o at\u00e9 o tamanho do array menos 1.\n\n//Imagine um array de inteiros com 5 posi\u00e7\u00f5es, como no exemplo abaixo:\n\n// Imagine um array com 5 inteiros: [1, 2, 3, 4, 5]\n// Em rela\u00e7\u00e3o aos \u00edndices (posi\u00e7\u00f5es): [arr[0], arr[1], arr[2], arr[3], arr[4]]\n// se l\u00ea arr posi\u00e7\u00e3o 4, que no caso \u00e9 igual a 5\n\n// TODO: Declare um array chamado `numeros` que:\n// - Tenha capacidade para armazenar 5 inteiros.\n// - Inicialize o array com os valores: 1, 2, 3, 4, 5.\n\n// TODO: Crie uma fun\u00e7\u00e3o `imprimirArray` que:\n// - Receba como par\u00e2metro um array de inteiros e o tamanho do array.\n// - N\u00e3o retorne nada (`void`).\n// - Dentro da fun\u00e7\u00e3o, use um loop `for` para imprimir cada elemento do array, separado por espa\u00e7os.\n\n// TODO: Chame a fun\u00e7\u00e3o `imprimirArray` no `main` para exibir os elementos do array `numeros`.\n// Dica: ao passar um array para uma fun\u00e7\u00e3o, voc\u00ea tamb\u00e9m deve passar o tamanho do array, pois o array em C n\u00e3o guarda essa informa\u00e7\u00e3o.\n\nvoid imprimirArray(int arr[], int tamanho) {\n    //DEL!\n    for (int i = 0; i < tamanho; i++) {\n        printf(\"%d \", arr[i]);\n    }\n    //ACT!\n    // for (int i = 0; i < tamanho; i++) {\n        //printf(\"%d \", ???);\n    //}\n    //ADD!\n    \n}\n\nint main() {\n    // Tamb\u00e9m podemos incializar o array com valores pr\u00e9 definidos, bastar atribuirmos ele os valores entre chaves \"{}\" \n    // Inicialize o array `numeros` com os valores: 1, 2, 3, 4, 5.\n\n    //DEL!\n    int numeros[] = {1, 2, 3, 4, 5};\n    //ACT!\n    // int numeros[] = {???};\n    //ADD!\n    \n    // Chame a fun\u00e7\u00e3o `imprimirArray` para exibir os valores do array.\n    //DEL!\n    imprimirArray(numeros, 5);\n    //ACT!\n    // imprimirArray(???, ???);\n    //ADD!\n    \n    return 0;\n}\n",
-            "encoding": 0
-        }
-    ],
-    "draft": {}
+    "required": [],
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h>\n\n//Em C, um array \u00e9 uma sequ\u00eancia de elementos do mesmo tipo, que podem ser acessados por \u00edndices. Os \u00edndices come\u00e7am em 0 e v\u00e3o at\u00e9 o tamanho do array menos 1.\n\n//Imagine um array de inteiros com 5 posi\u00e7\u00f5es, como no exemplo abaixo:\n\n// Imagine um array com 5 inteiros: [1, 2, 3, 4, 5]\n// Em rela\u00e7\u00e3o aos \u00edndices (posi\u00e7\u00f5es): [arr[0], arr[1], arr[2], arr[3], arr[4]]\n// se l\u00ea arr posi\u00e7\u00e3o 4, que no caso \u00e9 igual a 5\n\n// TODO: Declare um array chamado `numeros` que:\n// - Tenha capacidade para armazenar 5 inteiros.\n// - Inicialize o array com os valores: 1, 2, 3, 4, 5.\n\n// TODO: Crie uma fun\u00e7\u00e3o `imprimirArray` que:\n// - Receba como par\u00e2metro um array de inteiros e o tamanho do array.\n// - N\u00e3o retorne nada (`void`).\n// - Dentro da fun\u00e7\u00e3o, use um loop `for` para imprimir cada elemento do array, separado por espa\u00e7os.\n\n// TODO: Chame a fun\u00e7\u00e3o `imprimirArray` no `main` para exibir os elementos do array `numeros`.\n// Dica: ao passar um array para uma fun\u00e7\u00e3o, voc\u00ea tamb\u00e9m deve passar o tamanho do array, pois o array em C n\u00e3o guarda essa informa\u00e7\u00e3o.\n\nvoid imprimirArray(int arr[], int tamanho) {\n    //DEL!\n    for (int i = 0; i < tamanho; i++) {\n        printf(\"%d \", arr[i]);\n    }\n    //ACT!\n    // for (int i = 0; i < tamanho; i++) {\n        //printf(\"%d \", ???);\n    //}\n    //ADD!\n    \n}\n\nint main() {\n    // Tamb\u00e9m podemos incializar o array com valores pr\u00e9 definidos, bastar atribuirmos ele os valores entre chaves \"{}\" \n    // Inicialize o array `numeros` com os valores: 1, 2, 3, 4, 5.\n\n    //DEL!\n    int numeros[] = {1, 2, 3, 4, 5};\n    //ACT!\n    // int numeros[] = {???};\n    //ADD!\n    \n    // Chame a fun\u00e7\u00e3o `imprimirArray` para exibir os valores do array.\n    //DEL!\n    imprimirArray(numeros, 5);\n    //ACT!\n    // imprimirArray(???, ???);\n    //ADD!\n    \n    return 0;\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }

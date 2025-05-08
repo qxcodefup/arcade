@@ -9,12 +9,14 @@
         }
     ],
     "keep": [],
-    "required": [
-        {
-            "name": "draft.c",
-            "contents": "#include <stdio.h>\n\n// Em C, `struct` \u00e9 uma estrutura de dados composta, que permite agrupar vari\u00e1veis de diferentes tipos sob um \u00fanico nome.\n// BAsicamente, podemos chamar isso de uma \"Supervari\u00e1vel\"\n\n// Imagine que voc\u00ea est\u00e1 criando um sistema para gerenciar informa\u00e7\u00f5es de estudantes, onde cada estudante tem:\n// - Nome (uma string de at\u00e9 50 caracteres)\n// - Idade (um inteiro)\n// - Nota (um n\u00famero decimal, float)\n\n// TODO: Defina uma struct chamada `Estudante` que:\n// - Tenha os campos: `nome` (string de at\u00e9 50 caracteres), `idade` (int) e `nota` (float).\n\n// TODO: No `main`, declare uma vari\u00e1vel chamada `aluno` do tipo `Estudante` e inicialize os campos:\n// - Nome: \"Cl\u00e9ber\"\n// - Idade: 20\n// - Nota: 8.5\n\n// TODO: Crie uma fun\u00e7\u00e3o `imprimirEstudante` que:\n// - Receba como par\u00e2metro uma vari\u00e1vel do tipo `Estudante`.\n// - N\u00e3o retorne nada (`void`).\n// - Imprima os valores dos campos no seguinte formato:\n//   Nome: Cl\u00e9ber, Idade: 20, Nota: 8.5\n\n// TODO: Chame a fun\u00e7\u00e3o `imprimirEstudante` no `main` para exibir as informa\u00e7\u00f5es do estudante.\n\ntypedef struct {\n    //DEL!\n    char nome[50];\n    int idade;\n    float nota;\n    //ACT!\n    // ??? ???;\n    //ADD!\n} Estudante;\n\nvoid imprimirEstudante(Estudante aluno) {\n\n    //DEL!\n    printf(\"Nome: %s, Idade: %d, Nota: %.1f\\n\", aluno.nome, aluno.idade, aluno.nota);\n    //ACT!\n    //// Para acessar diferentes campos, temos que especificar, dizendo para qual estrutura estamos apontando e qual o campo da estrutura, se eu quero a nota, eu acesso aluno.nota\n    // printf(\"Nome: %s, Idade: %d, Nota: %.1f\\n\", ???);\n    //ADD!\n}\n\nint main() {\n    //DEL!\n    Estudante aluno = {\"Cl\u00e9ber\", 20, 8.5};\n    imprimirEstudante(aluno);\n    //ACT!\n    // Estudante aluno = {???};\n    // imprimirEstudante(???);\n    //ADD!\n    return 0;\n}\n",
-            "encoding": 0
-        }
-    ],
-    "draft": {}
+    "required": [],
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h>\n\n// Em C, `struct` \u00e9 uma estrutura de dados composta, que permite agrupar vari\u00e1veis de diferentes tipos sob um \u00fanico nome.\n// BAsicamente, podemos chamar isso de uma \"Supervari\u00e1vel\"\n\n// Imagine que voc\u00ea est\u00e1 criando um sistema para gerenciar informa\u00e7\u00f5es de estudantes, onde cada estudante tem:\n// - Nome (uma string de at\u00e9 50 caracteres)\n// - Idade (um inteiro)\n// - Nota (um n\u00famero decimal, float)\n\n// TODO: Defina uma struct chamada `Estudante` que:\n// - Tenha os campos: `nome` (string de at\u00e9 50 caracteres), `idade` (int) e `nota` (float).\n\n// TODO: No `main`, declare uma vari\u00e1vel chamada `aluno` do tipo `Estudante` e inicialize os campos:\n// - Nome: \"Cl\u00e9ber\"\n// - Idade: 20\n// - Nota: 8.5\n\n// TODO: Crie uma fun\u00e7\u00e3o `imprimirEstudante` que:\n// - Receba como par\u00e2metro uma vari\u00e1vel do tipo `Estudante`.\n// - N\u00e3o retorne nada (`void`).\n// - Imprima os valores dos campos no seguinte formato:\n//   Nome: Cl\u00e9ber, Idade: 20, Nota: 8.5\n\n// TODO: Chame a fun\u00e7\u00e3o `imprimirEstudante` no `main` para exibir as informa\u00e7\u00f5es do estudante.\n\ntypedef struct {\n    //DEL!\n    char nome[50];\n    int idade;\n    float nota;\n    //ACT!\n    // ??? ???;\n    //ADD!\n} Estudante;\n\nvoid imprimirEstudante(Estudante aluno) {\n\n    //DEL!\n    printf(\"Nome: %s, Idade: %d, Nota: %.1f\\n\", aluno.nome, aluno.idade, aluno.nota);\n    //ACT!\n    //// Para acessar diferentes campos, temos que especificar, dizendo para qual estrutura estamos apontando e qual o campo da estrutura, se eu quero a nota, eu acesso aluno.nota\n    // printf(\"Nome: %s, Idade: %d, Nota: %.1f\\n\", ???);\n    //ADD!\n}\n\nint main() {\n    //DEL!\n    Estudante aluno = {\"Cl\u00e9ber\", 20, 8.5};\n    imprimirEstudante(aluno);\n    //ACT!\n    // Estudante aluno = {???};\n    // imprimirEstudante(???);\n    //ADD!\n    return 0;\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }

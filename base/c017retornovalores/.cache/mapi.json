@@ -9,12 +9,14 @@
         }
     ],
     "keep": [],
-    "required": [
-        {
-            "name": "draft.c",
-            "contents": "#include <stdio.h>\n\n// Em C, podemos declarar fun\u00e7\u00f5es que retornam valores com a mesma estrutura que vimos anteriormente, mas definimos o tipo do valor de retorno (por isso que fun\u00e7oes void n\u00e3o retornavam nada) antes do nome da fun\u00e7\u00e3o.\n\n//TODO: corrija a fun\u00e7\u00e3o abaixo para ela retornar para a fun\u00e7\u00e3o principal o dobro da vari\u00e1vel (int) 'numero'\n\n//DEL!\nint dobro(int numero) {\n    // Declaramos uma vari\u00e1vel para armazenar o resultado e calculamos o dobro do n\u00famero\n    int resultado = numero * 2;\n    return resultado; // Retorna o valor calculado\n}\n//ACT!\n// ??? dobro(??? numero) {\n//     //Declaramos uma vari\u00e1vel para armazenar o resultado e calculamos o dobro do n\u00famero\n//     int resultado = numero * 2;\n//     return ???; // Retorna o valor calculado\n// }\n//ADD!\n\n\nint main() {\n    int numero = 76;\n    \n    // Chamamos a fun\u00e7\u00e3o `dobro` e usamos o valor retornado para mostrar o resultado na tela\n    int resultado = dobro(numero);\n    //TODO: Corrija o printf para ele printar o n\u00famero passado para a fun\u00e7\u00e3o e o que essa \n\n    //DEL!\n    printf(\"O dobro de %d \u00e9 %d.\\n\", numero, resultado);\n    //ACT!\n    //printf(\"O dobro de %d \u00e9 %d.\\n\", ???, ???);\n    //ADD!\n\n    return 0;\n}\n",
-            "encoding": 0
-        }
-    ],
-    "draft": {}
+    "required": [],
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h>\n\n// Em C, podemos declarar fun\u00e7\u00f5es que retornam valores com a mesma estrutura que vimos anteriormente, mas definimos o tipo do valor de retorno (por isso que fun\u00e7oes void n\u00e3o retornavam nada) antes do nome da fun\u00e7\u00e3o.\n\n//TODO: corrija a fun\u00e7\u00e3o abaixo para ela retornar para a fun\u00e7\u00e3o principal o dobro da vari\u00e1vel (int) 'numero'\n\n//DEL!\nint dobro(int numero) {\n    // Declaramos uma vari\u00e1vel para armazenar o resultado e calculamos o dobro do n\u00famero\n    int resultado = numero * 2;\n    return resultado; // Retorna o valor calculado\n}\n//ACT!\n// ??? dobro(??? numero) {\n//     //Declaramos uma vari\u00e1vel para armazenar o resultado e calculamos o dobro do n\u00famero\n//     int resultado = numero * 2;\n//     return ???; // Retorna o valor calculado\n// }\n//ADD!\n\n\nint main() {\n    int numero = 76;\n    \n    // Chamamos a fun\u00e7\u00e3o `dobro` e usamos o valor retornado para mostrar o resultado na tela\n    int resultado = dobro(numero);\n    //TODO: Corrija o printf para ele printar o n\u00famero passado para a fun\u00e7\u00e3o e o que essa \n\n    //DEL!\n    printf(\"O dobro de %d \u00e9 %d.\\n\", numero, resultado);\n    //ACT!\n    //printf(\"O dobro de %d \u00e9 %d.\\n\", ???, ???);\n    //ADD!\n\n    return 0;\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }

@@ -9,12 +9,14 @@
         }
     ],
     "keep": [],
-    "required": [
-        {
-            "name": "draft.c",
-            "contents": "#include <stdio.h>\n\n// Para manipular arquivos caracter a caracter, usamos:\n// - `fgetc`: l\u00ea um \u00fanico caractere do arquivo e o retorna como inteiro.\n// - `fputc`: escreve um \u00fanico caractere no arquivo.\n\n// Estes m\u00e9todos s\u00e3o \u00fateis para processar arquivos de texto em n\u00edvel mais granular.\n\n// TODO: Abra um arquivo chamado \"caracteres.txt\" no modo de escrita (\"w\").\n// - Escreva os caracteres: 'A', 'B', 'C', 'D', 'E' usando `fputc`.\n// - Feche o arquivo.\n\n// TODO: Reabra o arquivo no modo de leitura (\"r\").\n// - Leia cada caractere usando `fgetc` at\u00e9 o final do arquivo.\n// - Imprima os caracteres na tela.\n\nint main() {\n    FILE* arquivo;\n\n    // Passo 1: Abrir o arquivo no modo de escrita e escrever caracteres\n    //DEL!\n    arquivo = fopen(\"caracteres.txt\", \"w\");\n    if (arquivo == NULL) {\n        printf(\"Erro ao abrir o arquivo.\\n\");\n        return 1;\n    }\n    for (char c = 'A'; c <= 'E'; c++) {\n        fputc(c, arquivo);\n    }\n    fclose(arquivo);\n\n    // Passo 2: Reabrir o arquivo no modo de leitura e ler caracteres\n    arquivo = fopen(\"caracteres.txt\", \"r\");\n    if (arquivo == NULL) {\n        printf(\"Erro ao abrir o arquivo.\\n\");\n        return 1;\n    }\n    printf(\"Conte\u00fado do arquivo: \");\n    char ch;\n    while ((ch = fgetc(arquivo)) != EOF) {\n        putchar(ch);\n    }\n    fclose(arquivo);\n    //ACT!\n    // FILE* arquivo = fopen(\"caracteres.txt\", ???);\n    // ???; // Escrever caracteres\n    // fclose(???);\n    // ???; // Ler caracteres\n    // fclose(???);\n    //ADD!\n    return 0;\n}\n",
-            "encoding": 0
-        }
-    ],
-    "draft": {}
+    "required": [],
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h>\n\n// Para manipular arquivos caracter a caracter, usamos:\n// - `fgetc`: l\u00ea um \u00fanico caractere do arquivo e o retorna como inteiro.\n// - `fputc`: escreve um \u00fanico caractere no arquivo.\n\n// Estes m\u00e9todos s\u00e3o \u00fateis para processar arquivos de texto em n\u00edvel mais granular.\n\n// TODO: Abra um arquivo chamado \"caracteres.txt\" no modo de escrita (\"w\").\n// - Escreva os caracteres: 'A', 'B', 'C', 'D', 'E' usando `fputc`.\n// - Feche o arquivo.\n\n// TODO: Reabra o arquivo no modo de leitura (\"r\").\n// - Leia cada caractere usando `fgetc` at\u00e9 o final do arquivo.\n// - Imprima os caracteres na tela.\n\nint main() {\n    FILE* arquivo;\n\n    // Passo 1: Abrir o arquivo no modo de escrita e escrever caracteres\n    //DEL!\n    arquivo = fopen(\"caracteres.txt\", \"w\");\n    if (arquivo == NULL) {\n        printf(\"Erro ao abrir o arquivo.\\n\");\n        return 1;\n    }\n    for (char c = 'A'; c <= 'E'; c++) {\n        fputc(c, arquivo);\n    }\n    fclose(arquivo);\n\n    // Passo 2: Reabrir o arquivo no modo de leitura e ler caracteres\n    arquivo = fopen(\"caracteres.txt\", \"r\");\n    if (arquivo == NULL) {\n        printf(\"Erro ao abrir o arquivo.\\n\");\n        return 1;\n    }\n    printf(\"Conte\u00fado do arquivo: \");\n    char ch;\n    while ((ch = fgetc(arquivo)) != EOF) {\n        putchar(ch);\n    }\n    fclose(arquivo);\n    //ACT!\n    // FILE* arquivo = fopen(\"caracteres.txt\", ???);\n    // ???; // Escrever caracteres\n    // fclose(???);\n    // ???; // Ler caracteres\n    // fclose(???);\n    //ADD!\n    return 0;\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }

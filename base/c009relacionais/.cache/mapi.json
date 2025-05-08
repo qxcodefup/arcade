@@ -10,5 +10,13 @@
     ],
     "keep": [],
     "required": [],
-    "draft": {}
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h>\n\nint main() {\n    // O que s\u00e3o operadores relacionais no C?\n    // Operadores relacionais s\u00e3o utilizados para fazer compara\u00e7\u00f5es e tomar decis\u00f5es dentro de programas.\n\n    // Operadores relacionais comparam dois valores e retornam verdadeiro (1) ou falso (0):\n    // >  : Maior que (verifica se o valor \u00e0 esquerda \u00e9 maior que o \u00e0 direita)\n    // <  : Menor que (verifica se o valor \u00e0 esquerda \u00e9 menor que o \u00e0 direita)\n    // >= : Maior ou igual (verifica se o valor \u00e0 esquerda \u00e9 maior ou igual ao da direita)\n    // <= : Menor ou igual (verifica se o valor \u00e0 esquerda \u00e9 menor ou igual ao da direita)\n    // == : Igualdade (verifica se dois valores s\u00e3o iguais)\n    // != : Diferen\u00e7a (verifica se dois valores s\u00e3o diferentes)\n\n    // Como eles utilizam da rela\u00e7\u00e3o entre vari\u00e1veis, vamos ver que eles ser\u00e3o muito importantes em muitas estruturas que a linguagem C oferece. Vamos praticar!\n\n    // WARNING: as sa\u00eddas ser\u00e3o verdadeiro (1) ou falso (0), pois estamos checando a veracidade da opera\u00e7\u00e3o feita no printf:\n    \n    // MAIOR QUE:\n    // TODO: Verifique se 15 \u00e9 maior que 7 e printe o resultado (1 para verdadeiro, 0 para falso)\n    //DEL!\n    printf(\"%d\\n\", 15 > 7);\n    //ACT!\n    // printf(\"%d\\n\", 15 ??? 7); \n    //ADD!\n\n    // MENOR/MAIOR OU IGUAL QUE:\n    // TODO: Verifique se 10 \u00e9 menor ou igual a 20 e printe o resultado\n    //DEL!\n    printf(\"%d\\n\", 10 <= 20);\n    //ACT!\n    // printf(\"%d\\n\", 10 ??? 20); \n    //ADD!\n\n    // IGUALDADE:\n    // TODO: Verifique se 8 \u00e9 igual a 10 e printe o resultado\n    //DEL!\n    printf(\"%d\\n\", 8 == 10);\n    //ACT!\n    // printf(\"%d\\n\", 8 ??? 10); \n    //ADD!\n\n    // DIFEREN\u00c7A:\n    // TODO: Verifique se 12 \u00e9 diferente de 12 e printe o resultado\n    //DEL!\n    printf(\"%d\\n\", 12 != 12);\n    //ACT!\n    // printf(\"%d\\n\", 12 ??? 12); \n    //ADD!\n\n    return 0;\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }

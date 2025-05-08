@@ -9,12 +9,14 @@
         }
     ],
     "keep": [],
-    "required": [
-        {
-            "name": "draft.c",
-            "contents": "#include <stdio.h>\n\n// Em C, `union` \u00e9 semelhante a `struct`, mas ocupa o mesmo espa\u00e7o na mem\u00f3ria para todos os seus campos. \n// Isso significa que apenas um campo pode ser usado por vez.\n\n// Imagine que voc\u00ea est\u00e1 representando um dado gen\u00e9rico, que pode ser:\n// - Um n\u00famero inteiro (`int`)\n// - Um n\u00famero decimal (`float`)\n// - Uma \u00fanica letra (`char`)\n\n// TODO: Defina uma `union` chamada `Dado` que:\n// - Tenha os campos: `inteiro` (int), `decimal` (float) e `caractere` (char).\n\n// TODO: No `main`, declare uma vari\u00e1vel do tipo `Dado` chamada `valor` e:\n// - Atribua 10 ao campo `inteiro`.\n// - Imprima o valor do campo `inteiro`.\n// - Depois, atribua 3.14 ao campo `decimal`.\n// - Imprima o valor do campo `decimal`.\n// - Finalmente, atribua 'A' ao campo `caractere`.\n// - Imprima o valor do campo `caractere`.\n\ntypedef union {\n    //DEL!\n    int inteiro;\n    float decimal;\n    char caractere;\n    //ACT!\n    // ??? ???;\n    //ADD!\n} Dado;\n\nint main() {\n    //DEL!\n    Dado valor;\n    valor.inteiro = 10;\n    printf(\"Inteiro: %d\\n\", valor.inteiro);\n    valor.decimal = 3.14;\n    printf(\"Decimal: %.2f\\n\", valor.decimal);\n    valor.caractere = 'A';\n    printf(\"Caractere: %c\\n\", valor.caractere);\n    //ACT!\n    // Dado valor;\n    // valor.??? = ???;\n    // printf(\"Inteiro: ???\\n\", ???);\n    //ADD!\n    return 0;\n}\n",
-            "encoding": 0
-        }
-    ],
-    "draft": {}
+    "required": [],
+    "draft": {
+        "c": [
+            {
+                "name": "main.c",
+                "contents": "#include <stdio.h>\n\n// Em C, `union` \u00e9 semelhante a `struct`, mas ocupa o mesmo espa\u00e7o na mem\u00f3ria para todos os seus campos. \n// Isso significa que apenas um campo pode ser usado por vez.\n\n// Imagine que voc\u00ea est\u00e1 representando um dado gen\u00e9rico, que pode ser:\n// - Um n\u00famero inteiro (`int`)\n// - Um n\u00famero decimal (`float`)\n// - Uma \u00fanica letra (`char`)\n\n// TODO: Defina uma `union` chamada `Dado` que:\n// - Tenha os campos: `inteiro` (int), `decimal` (float) e `caractere` (char).\n\n// TODO: No `main`, declare uma vari\u00e1vel do tipo `Dado` chamada `valor` e:\n// - Atribua 10 ao campo `inteiro`.\n// - Imprima o valor do campo `inteiro`.\n// - Depois, atribua 3.14 ao campo `decimal`.\n// - Imprima o valor do campo `decimal`.\n// - Finalmente, atribua 'A' ao campo `caractere`.\n// - Imprima o valor do campo `caractere`.\n\ntypedef union {\n    //DEL!\n    int inteiro;\n    float decimal;\n    char caractere;\n    //ACT!\n    // ??? ???;\n    //ADD!\n} Dado;\n\nint main() {\n    //DEL!\n    Dado valor;\n    valor.inteiro = 10;\n    printf(\"Inteiro: %d\\n\", valor.inteiro);\n    valor.decimal = 3.14;\n    printf(\"Decimal: %.2f\\n\", valor.decimal);\n    valor.caractere = 'A';\n    printf(\"Caractere: %c\\n\", valor.caractere);\n    //ACT!\n    // Dado valor;\n    // valor.??? = ???;\n    // printf(\"Inteiro: ???\\n\", ???);\n    //ADD!\n    return 0;\n}\n",
+                "encoding": 0
+            }
+        ]
+    }
 }
