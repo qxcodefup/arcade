@@ -1,24 +1,27 @@
+# common files for languages
 package.json
 package-lock.json
 node_modules
-checklist.md
-.vscode
+# java
 *.class
+# python
+.mypy_cache
+__pycache__
+# c e c++
 *.out
-.html
-.vpl
-build*
+*.exe
+*.o
+# haskell
+*.hi
+# project files
+.vscode
 *.pro
 *.pro.user
-.links
-crude
-drafts
-scripts
-trash
 .config.ini
-Solver*
-solver*
-__*
+# public filters
 local.sh
 config.json
-
+src
+solver*
+Solver*
+__*
