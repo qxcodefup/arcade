@@ -14,11 +14,14 @@ __pycache__
 # haskell
 *.hi
 # project files
+.idea
 .vscode
 *.pro
 *.pro.user
 .config.ini
-# public filters
+# tko local
+.tko
+.build
 local.sh
 config.json
 src
