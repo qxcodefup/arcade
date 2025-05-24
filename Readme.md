@@ -42,7 +42,6 @@ Significado das tags nas questões:
 - [ ] `@ou         *1 :leet`[É 3 ou 5](base/ou/Readme.md)
 - [ ] `@positivo   *1 :leet`[É positivo](base/positivo/Readme.md)
 - [ ] `@multiplo   *1 :leet`[Múltiplo de sete](base/multiplo/Readme.md)
-- [ ] `@nulo       *1 :leet`[Positivo, nulo ou negativo](base/nulo/Readme.md)
 - [ ] `@calc       *2 :leet`[Calculadora numérica](base/calc/Readme.md)
 - [ ] `@guarda     *2 :leet`[Retornando problemas primeiro](base/guarda/Readme.md)
 - [ ] `@quantos    *2 :leet`[Quantos são iguais](base/quantos/Readme.md)
