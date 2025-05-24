@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@pedra: Pedra na lua</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Pedra na lua</h1>
+<p><img alt="_" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pedra/cover.jpg" /></p>
+<h2>Contexto</h2>
+<p>Em uma competição interplanetária de arremesso de pedras na lua, os competidores devem demonstrar precisão e força. Cada participante possui duas pedras:</p>
+<ul>
+<li>A <strong>pedra A</strong> e a <strong>pedra B</strong>.</li>
+<li>Para ser considerado um lançamento válido, ambas as pedras devem alcançar pelo menos 10 metros.</li>
+<li>Se alguma das pedras ficar abaixo dessa marca, o competidor será desclassificado.</li>
+<li>A pontuação de cada competidor é a diferença absoluta entre as distâncias das duas pedras. <strong>Quanto menor a diferença, melhor a pontuação</strong>.</li>
+<li>O competidor com a menor pontuação vence.</li>
+<li>Em caso de empate na pontuação, vence o competidor com o menor índice (ordem de entrada).</li>
+<li>Se todos os competidores forem desclassificados, <strong>não haverá ganhador</strong>.</li>
+</ul>
+<p>Você deve escrever um programa que identifique o competidor vencedor.</p>
+<h3>Entrada</h3>
+<ul>
+<li><strong>1ª linha:</strong> Um número inteiro <strong>'N'</strong> (1 ≤ N ≤ 100), representando o número de competidores.</li>
+<li><strong>Próximas 'N' linhas:</strong> Cada linha contém dois números inteiros <strong>A</strong> e <strong>B</strong> (1 ≤ A, B ≤ 100), que indicam a distância das pedras <strong>A</strong> e <strong>B</strong> lançadas por cada competidor.</li>
+</ul>
+<h3>Saida</h3>
+<ul>
+<li>Imprima o índice <strong>(começando em 0)</strong> do competidor vencedor.</li>
+<li>Caso todos os competidores sejam desclassificados, imprima <strong>"sem ganhador"</strong>.</li>
+</ul>
+<h3>Restrições</h3>
+<ul>
+<li>Cada competidor arremessa duas pedras, cujas distâncias estão entre <strong>1</strong> e <strong>100 metros</strong>.</li>
+<li>Todos os competidores que lançarem <strong>qualquer</strong> pedra a <strong>menos de 10 metros</strong> são automaticamente <strong>desclassificados</strong>.</li>
+</ul>
+<h2>Testes</h2>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span>
+<span class="mi">2</span>
+<span class="mi">8</span> <span class="mi">11</span>
+<span class="mi">10</span> <span class="mi">15</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mi">1</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span>
+<span class="mi">3</span>
+<span class="mi">9</span> <span class="mi">12</span>
+<span class="mi">11</span> <span class="mi">13</span>
+<span class="mi">10</span> <span class="mi">11</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mi">2</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span>
+<span class="mi">3</span>
+<span class="mi">12</span> <span class="mi">15</span>
+<span class="mi">16</span> <span class="mi">14</span>
+<span class="mi">10</span> <span class="mi">9</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mi">1</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span>
+<span class="mi">4</span>
+<span class="mi">12</span> <span class="mi">15</span>
+<span class="mi">20</span> <span class="mi">23</span>
+<span class="mi">10</span> <span class="mi">9</span>
+<span class="mi">35</span> <span class="mi">35</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mi">3</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<h3>Dicas</h3>
+<ul>
+<li>Utilize a função <code>abs()</code> para calcular a diferença absoluta entre as distâncias das pedras A e B.</li>
+<li>Para resolver o problema de desclassificação, verifique se ambos os arremessos são <strong>maiores ou iguais a 10 metros</strong>.</li>
+<li>Caso múltiplos competidores tenham a mesma pontuação, escolha aquele que tiver o <strong>menor índice</strong>.</li>
+</ul>
+</body>
+</html>

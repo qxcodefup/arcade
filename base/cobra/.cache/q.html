@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@cobra: Jogo da cobrinha</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Jogo da cobrinha</h1>
+<p><img alt="_" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cobra/cover.jpg" /></p>
+<h2>Contexto</h2>
+<p>Marivaldo, mais conhecido como Zé da Carroça, é um agricultor bem sucedido do sertão de Quixadá. Só quando chove é claro. Mas o problema de Marivaldo é outro. Seu filho mais novo, Mavarildo, mais conhecido como Zezim da Carroça, tem uma fixação assustadora em bichos do mato, em especial cobras. O menino ajudado pelo seu irmão Marivanio vara o cercado procurando uma cobra pra bater uma foto no celular do pai e postar nas redes sociais para seus seguidores. O menino entretanto combinou com o pai que se ele ganhasse um celular com joguinhos, ele pararia de tal estripulias. O pai, então, por fraqueza, cedendo à chantagem, comprou um nokia 3310 super conservado na feirinha do centro pela bagatela de uma raspa de rapadura com coco e mamão num prato de coalhada.</p>
+<p>O primeiro jogo que Mavarildo instalou foi o jogo da cobrinha. Mas ele é distraído. No meio do jogo, olha pro horizonte e passa vários segundo pensando em cascavéis, pítons e outros bichos. Enquanto, isso, a cobrinha no seu celular vai andando, andando, andando, fazendo loops na tela.</p>
+<p>No jogo da cobrinha, quando a cabeça passa do limite direito, ela reaparece do lado esquerdo. Quando passa do limite inferior, reaparece na parte de cima. Imagine o jogo apenas com a cabeça da cobra. A tela é quadrada, formada por N quadrados de largura e N quadrados de altura. O quadrado de posição 0, 0 é o mais em cima na esquerda. O X cresce para direita e o Y para baixo de acordo com a seguinte figura.</p>
+<p><img alt="_" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cobra/pontos.jpg" /></p>
+<p>A cabeça da cobra pode estar apontada para 4 possíveis direções.</p>
+<div class="language-text highlight"><pre><span></span><code>U Up   (Cima)
+D Down (Baixo)
+L Left (Esquerda)
+R Right (Direita)
+</code></pre></div>
+<p>Mavarildo se distrai por S segundos. Imagine que cada segundo, a cabeça da cobra se move 1 posição. Você deve fazer um código que calcule a posição da cabeça da cobra dada a dimensão do tabuleiro N, a posição inicial X, Y, a direção da cabeça C e a quantidade de segundos S que Mavarildo passa distraído.</p>
+<h3>Entrada</h3>
+<ul>
+<li>A entrada consiste de 5 linhas:<ul>
+<li>𝑁: Um número inteiro que indica a dimensão do tabuleiro.</li>
+<li>𝑋: Um número inteiro representando a posição inicial horizontal da cabeça da cobra.</li>
+<li>𝑌: Um número inteiro representando a posição inicial vertical da cabeça da cobra.</li>
+<li>𝐶: Um caractere representando a direção da cobra ('U' para cima, 'D' para baixo, 'L' para esquerda, 'R' para direita).</li>
+<li>𝑆: Um número inteiro representando o número de segundos de distração.</li>
+</ul>
+</li>
+</ul>
+<h3>Saída</h3>
+<ul>
+<li>O programa deve imprimir duas coordenadas inteiras 𝑋 e 𝑌, indicando a posição final da cabeça.</li>
+</ul>
+<h3>Restrições</h3>
+<ul>
+<li>0 ≤ N ≤ 1000</li>
+<li>0 ≤ X ≤ 1000</li>
+<li>0 ≤ Y ≤ 1000</li>
+<li>0 ≤ C ≤ 1000</li>
+<li>0 ≤ S ≤ 1000</li>
+</ul>
+<h2>Testes</h2>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span>
+<span class="mi">10</span>
+<span class="mi">4</span>
+<span class="mi">3</span>
+<span class="n">R</span>
+<span class="mi">1</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mi">5</span> <span class="mi">3</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span>
+<span class="mi">10</span>
+<span class="mi">4</span>
+<span class="mi">3</span>
+<span class="n">R</span>
+<span class="mi">8</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mi">2</span> <span class="mi">3</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span>
+<span class="mi">10</span>
+<span class="mi">4</span>
+<span class="mi">5</span>
+<span class="n">U</span>
+<span class="mi">1</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mi">4</span> <span class="mi">4</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<h2>Dicas</h2>
+<p>Ajuda
+A cobra se move uma unidade por segundo na direção indicada. Quando ultrapassa o limite do tabuleiro, ela reaparece do outro lado. Você pode calcular a nova posição usando operações de módulo para garantir que a posição fique dentro dos limites do tabuleiro.</p>
+<p>Você pode resolver o problema utilizando as seguintes operações:</p>
+<ul>
+<li>Para mover para a direita ou esquerda, modifique a coordenada 𝑋 e aplique o operador módulo 𝑁 para "dar a volta" quando necessário.</li>
+<li>Para mover para cima ou para baixo, modifique a coordenada 𝑌 e aplique o mesmo princípio de módulo.</li>
+</ul>
+</body>
+</html>

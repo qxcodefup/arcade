@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@game10: Game10 - OBI 2017 - Fase 1 - Universitário</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Game10 - OBI 2017 - Fase 1 - Universitário</h1>
+<p><img alt="_" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/game10/cover.jpg" /></p>
+<h2>Contexto</h2>
+<p>No princípio dos anos 1980 surgiram nos colégios os primeiros relógios de pulso digitais com joguinhos. Era uma febre entre os alunos e quem tinha um era muito popular na hora do recreio. Os joguinhos eram bem simples, mas muito legais. Um dos primeiros era o Game-10, no qual você controlava um avião que aparecia na parte direita do visor. Na parte esquerda aparecia um disco voador em qualquer uma de três posições, aleatoriamente, e lançava um míssil. O objetivo do jogador era movimentar o avião verticalmente para que ficasse na frente do disco voador (na mesma linha horizontal, do lado direito) e atirar para interceptar o míssil antes que esse atingisse o avião.</p>
+<p><img alt="_" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/game10/figura.jpg" /></p>
+<p>Como o movimento do avião era feito com apenas um botão, só dava para movimentar em um sentido: ao apertar o botão sucessivas vezes, o avião se movia na sequência de posições ... 1 → 2 → 3 → 1 → 2 → 3 → 1 ...</p>
+<p>Veja que, na situação da figura, o jogador deveria apertar o botão apenas uma vez, para ir da posição 1 para a posição 2, e conseguir atirar e interceptar o míssil.</p>
+<p>Neste problema vamos considerar que existem N posições e não apenas três. Dado o número de posições N, a posição D na qual o disco voador aparece, e a posição A onde está o avião, seu programa deve computar o número mínimo de vezes que o jogador precisa apertar o botão para movimentar o avião até a mesma posição do disco voador e poder atirar!</p>
+<h3>Entrada</h3>
+<ul>
+<li>A entrada é composta por três linhas:<ul>
+<li>Um número inteiro 𝑁 representando o número de posições no jogo.</li>
+<li>Um número inteiro 𝐷 representando a posição do disco voador.</li>
+<li>Um número inteiro 𝐴 representando a posição atual do avião.</li>
+</ul>
+</li>
+</ul>
+<h3>Saída</h3>
+<ul>
+<li>Seu programa deve imprimir uma linha contendo um inteiro, o número mínimo de vezes que o jogador deve apertar o botão para poder atirar.</li>
+</ul>
+<h3>Restrições</h3>
+<ul>
+<li>3 ≤ N ≤ 100</li>
+<li>1 ≤ D,A ≤ N</li>
+</ul>
+<h2>Testes</h2>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span>
+<span class="mi">3</span>
+<span class="mi">2</span>
+<span class="mi">1</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mi">1</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span>
+<span class="mi">20</span>
+<span class="mi">8</span>
+<span class="mi">13</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mi">15</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span>
+<span class="mi">3</span>
+<span class="mi">2</span>
+<span class="mi">2</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mi">0</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<h2>Dicas</h2>
+<p>O problema pode ser resolvido calculando a diferença cíclica entre a posição do disco voador 𝐷 e a posição do avião 𝐴. A diferença pode ser obtida de duas maneiras:</p>
+<ul>
+<li>Movendo o avião de 𝐴 até 𝐷 diretamente.</li>
+<li>Dando uma volta completa no ciclo e contando quantos movimentos são necessários.</li>
+</ul>
+<p>O número de movimentos será o menor valor entre essas duas possibilidades.</p>
+<p>O número de movimentos necessários para mover o avião pode ser calculado com a fórmula:</p>
+<div class="arithmatex">\[movimentos = (D - A + N) \mod N\]</div>
+<p>Isso garante que a contagem dos movimentos seja sempre positiva e dentro do intervalo das posições disponíveis.</p>
+</body>
+</html>

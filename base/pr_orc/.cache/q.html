@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@pr_orc: Batalha Orc</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Batalha Orc</h1>
+<p>Esse arquivo define as regras da arena Orc. A arena Orc é uma simulação de um combate entre Orcs. Pode ser implementado em vários níveis.</p>
+<h2>Fase 1: Nível Aprendiz.</h2>
+<p>Início do jogo:</p>
+<ul>
+<li>O jogo começa com 10 Orcs.</li>
+<li>Todos devem ser aleatoriamente iniciados com atributos variados. </li>
+<li>Cada Orc só tem os atributos char id, int forca e int vida.</li>
+<li>Em uma rodada todos os Orcs atacam um por vez sequencialemente.</li>
+<li>Em seu turno, um Orc ataca aleatoriamente outro Orc do jogo que não ele mesmo. O atacado sempre revida atacando o agressor com METADE da sua força.</li>
+</ul>
+<p>Quando o round termina:</p>
+<ul>
+<li>Se um Orc ficar com vida negativa ou zero, ele é removido da
+      batalha.</li>
+<li>Outro round reinicia até que só sobre um vencedor.</li>
+<li>Se no último round os dois Orcs morrerem, então não houve vencedor.</li>
+<li>Você deve mostrar o Orc vencedor se houver algum.</li>
+</ul>
+<h2>Fase 2: Nível Experiente.</h2>
+<p>Vamos criar algumas reviravoltas no nosso jogo.</p>
+<ul>
+<li>Os nomes dos Orcs devem aleatórios e conter 4 letras. Deve iniciar com maiúsculo e as posições pares devem ser vogais. Ex: Cona, Bifu, Gori, Hijo.</li>
+<li>Um Orc tem dois novos atributos: revidar e raiva. </li>
+<li>Revidar define quantas vezes ele pode revidar em um round. </li>
+<li>Se um Orc é atacado e não puder revidar, ele aumenta sua força permanentemente. </li>
+<li>O aumento da força é dado pelo seu atributo raiva. </li>
+<li>Se o Orc atacado tiver ao menos 1 revidar, ele obrigatoriamente revida gastando 1 revidar. </li>
+<li>A cada rodada revidar é reiniciado para o valor máximo.</li>
+<li>Execute a luta todos contra todos e mostre o vencedor se houver algum.</li>
+</ul>
+<h2>Fase 3: Nível Avançado.</h2>
+<p>Vamos criar dois times:</p>
+<ul>
+<li>Orcs não lutam agora todos contra todos. Eles formam dois times de 4 Orcs. Chamemos de times A e B. </li>
+<li>Os Orcs de um time atacam os Orcs de outro time. O lado A começa atacando. </li>
+<li>Alterne os Orcs entre os lados A e B até que todos ataquem.</li>
+<li>As regras de revidar e raiva ainda são válidas. Porém agora, assim que a vida de um Orc fica negativa ele morre e sai do jogo, não apenas no fim do turno.</li>
+</ul>
+</body>
+</html>

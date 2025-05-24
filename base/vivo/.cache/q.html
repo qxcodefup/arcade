@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@vivo: Vivo ou Morto - OBI 2005</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Vivo ou Morto - OBI 2005</h1>
+<p><img alt="_" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/vivo/cover.jpg" /></p>
+<h2>Motivação</h2>
+<p>Toda criança certamente já brincou de "vivo ou morto”. A brincadeira é dirigida por um "chefe” (um adulto), que comanda dois ou mais participantes (crianças). A brincadeira é composta de rodadas.</p>
+<p>No inı́cio, os participantes são organizados pelo chefe em fila única. A cada rodada o chefe grita "vivo” ou "morto” e todos os participantes tentam seguir sua ordem, levantando-se ao ouvir a palavra "vivo” ou abaixando-se ao ouvir a palavra "morto”. Um participante que não segue a ordem do chefe é eliminado, deixando o seu lugar na fila.</p>
+<p>Os participantes remanescentes agrupam-se novamente em fila única, preenchendo as posições dos participantes eliminados, mas mantendo suas posições relativas. O jogo continua até que uma rodada seja composta por exatamente um participante. Tal participante é dito o vencedor do jogo.</p>
+<p>Por exemplo, considere que a brincadeira inicie com cinco participantes, identificados por números inteiros de 1 a 5, e que o chefe organize a fila na ordem 3 → 2 → 1 → 4 → 5. Se na primeira rodada forem eliminados os participantes 2 e 4, a fila da segunda rodada será formada por 3 → 1 → 5; se na segunda rodada for eliminado o participante 1, a fila da terceira rodada será formada por 3 → 5. Se na terceira rodada o participante 3 for eliminado, o vencedor da brincadeira será o participante 5.  </p>
+<h2>Ação</h2>
+<p>Sua tarefa é escrever um programa que determine o vencedor de uma partida de "vivo ou morto”, a partir da informação das ordens dadas pelo chefe e das ações executadas pelos participantes em cada rodada.  </p>
+<h3>Entrada</h3>
+<ul>
+<li>A entrada é constituı́da de vários casos de teste, cada um representando uma partida. A primeira linha de um caso de teste contém dois números inteiros P e R indicando respectivamente a quantidade inicial de participantes (2 ≤ P ≤ 100) e quantidade de rodadas da partida (1 ≤ R ≤ 100).</li>
+<li>Os participantes são identificados por números de 1 a P . A segunda linha de um caso de teste descreve a fila organizada pelo chefe, contendo P números inteiros distintos x1 , x2 , . . . xP , onde x1 representa o identificador do participante no primeiro lugar na fila, x2 representa o identificador do participante no segundo lugar na fila, e assim por diante (1 ≤ xi ≤ P ).</li>
+<li>Cada uma das R linhas seguintes representa uma rodada, contendo um número inteiro inteiro N indicando o número de participantes da rodada (2 ≤ N ≤ P ), um número inteiro inteiro J representando a ordem dada pelo chefe (0 ≤ J ≤ 1) e N números inteiros Ai representando a ação do participante colocado na i-ésima posição na fila (0 ≤ Ai ≤ 1).</li>
+<li>Ordens e ações "vivo” são representadas pelo valor 1, ordens e ações "morto” pelo valor zero. Cada partida tem exatamente um vencedor, determinado somente na última rodada fornecida no caso de teste correspondente. O final da entrada é indicado por P = R = 0.</li>
+<li>A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado).  </li>
+</ul>
+<h2>Saída</h2>
+<ul>
+<li>Para cada caso de teste seu programa deve produzir três linhas. A primeira identifica o conjunto de teste no formato "Teste n”, onde n é numerado a partir de 1. A segunda linha deve conter o identificador do vencedor. A terceira linha deve ser deixada em branco. A grafia mostrada no Exemplo de Saı́da, abaixo, deve ser seguida rigorosamente.  </li>
+<li>A saı́da deve ser escrita no dispositivo de saı́da padrão (normalmente a tela).  </li>
+</ul>
+<p>Olimpı́ada Brasileira de Informática - OBI2005 - Modalidade Programação Nı́vel 2  </p>
+<h2>Restrições</h2>
+<div class="language-py highlight"><pre><span></span><code><span class="mi">2</span> <span class="err">≤</span> <span class="n">P</span> <span class="err">≤</span> <span class="mi">100</span> <span class="p">(</span><span class="n">P</span> <span class="o">=</span> <span class="mi">0</span> <span class="n">apenas</span> <span class="n">para</span> <span class="n">indicar</span> <span class="n">o</span> <span class="n">fim</span> <span class="n">da</span> <span class="n">entrada</span><span class="p">)</span>  
+<span class="mi">1</span> <span class="err">≤</span> <span class="n">R</span> <span class="err">≤</span> <span class="mi">100</span> <span class="p">(</span><span class="n">R</span> <span class="o">=</span> <span class="mi">0</span> <span class="n">apenas</span> <span class="n">para</span> <span class="n">indicar</span> <span class="n">o</span> <span class="n">fim</span> <span class="n">da</span> <span class="n">entrada</span><span class="p">)</span>  
+<span class="mi">1</span> <span class="err">≤</span> <span class="n">xi</span> <span class="err">≤</span> <span class="n">P</span> <span class="p">,</span> <span class="n">para</span> <span class="mi">1</span> <span class="err">≤</span> <span class="n">i</span> <span class="err">≤</span> <span class="n">P</span>  
+<span class="mi">2</span><span class="err">≤</span><span class="n">N</span> <span class="err">≤</span><span class="n">P</span>  
+<span class="mi">0</span><span class="err">≤</span><span class="n">J</span> <span class="err">≤</span><span class="mi">1</span>  
+<span class="mi">0</span> <span class="err">≤</span> <span class="n">Ai</span> <span class="err">≤</span> <span class="mi">1</span><span class="p">,</span> <span class="n">para</span> <span class="mi">1</span> <span class="err">≤</span> <span class="n">i</span> <span class="err">≤</span> <span class="n">N</span>
+</code></pre></div>
+<h2>Exemplos</h2>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">01</span>
+<span class="mi">5</span> <span class="mi">4</span>
+<span class="mi">3</span> <span class="mi">2</span> <span class="mi">1</span> <span class="mi">4</span> <span class="mi">5</span>
+<span class="mi">5</span> <span class="mi">1</span> <span class="mi">1</span> <span class="mi">1</span> <span class="mi">1</span> <span class="mi">1</span> <span class="mi">1</span>
+<span class="mi">5</span> <span class="mi">0</span> <span class="mi">0</span> <span class="mi">1</span> <span class="mi">0</span> <span class="mi">1</span> <span class="mi">0</span>
+<span class="mi">3</span> <span class="mi">0</span> <span class="mi">0</span> <span class="mi">1</span> <span class="mi">0</span>
+<span class="mi">2</span> <span class="mi">1</span> <span class="mi">0</span> <span class="mi">1</span>
+<span class="mi">5</span> <span class="mi">4</span>
+<span class="mi">3</span> <span class="mi">2</span> <span class="mi">1</span> <span class="mi">4</span> <span class="mi">5</span>
+<span class="mi">5</span> <span class="mi">1</span> <span class="mi">1</span> <span class="mi">1</span> <span class="mi">1</span> <span class="mi">1</span> <span class="mi">1</span>
+<span class="mi">5</span> <span class="mi">0</span> <span class="mi">0</span> <span class="mi">1</span> <span class="mi">0</span> <span class="mi">1</span> <span class="mi">0</span>
+<span class="mi">3</span> <span class="mi">0</span> <span class="mi">0</span> <span class="mi">1</span> <span class="mi">0</span>
+<span class="mi">2</span> <span class="mi">1</span> <span class="mi">1</span> <span class="mi">0</span>
+<span class="mi">2</span> <span class="mi">2</span>
+<span class="mi">2</span> <span class="mi">1</span>
+<span class="mi">2</span> <span class="mi">1</span> <span class="mi">1</span> <span class="mi">1</span>
+<span class="mi">2</span> <span class="mi">1</span> <span class="mi">1</span> <span class="mi">0</span>
+<span class="mi">0</span> <span class="mi">0</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="n">Teste</span> <span class="mi">1</span>
+<span class="mi">5</span>
+<span class="n">Teste</span> <span class="mi">2</span>
+<span class="mi">3</span>
+<span class="n">Teste</span> <span class="mi">3</span>
+<span class="mi">2</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+</body>
+</html>

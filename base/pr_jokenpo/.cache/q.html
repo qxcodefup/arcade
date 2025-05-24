@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@pr_jokenpo: Jokenpô - Melhor de 5</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Jokenpô - Melhor de 5</h1>
+<p><img alt="cover" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pr_jokenpo/cover.jpg" /></p>
+<p>Este trabalho tem como objetivo que você desenvolva habilidades de
+desenvolvimento de jogos, como contagem de pontos, jogadas aleatórias,
+rounds e início e fim do game.</p>
+<p>Para realizar este trabalho você precisará lidar com entrada e saída de
+informações e com geração de dados aleatórios.</p>
+<p>O jogo Jokenpô - ou Pedra, Papel e Tesoura - é jogado por dois jogadores
+em que ambos escolhem, aleatoriamente dentre as três opções, a sua
+jogada e as exibem ao mesmo tempo vencendo aquele que a opção escolhida
+ganha a do adversário, ou empatando quando ambos escolhem a mesma opção.
+As regras definem as vitórias do seguinte modo:</p>
+<ol>
+<li>
+<p><strong>Pedra</strong> ganha da <strong>tesoura</strong></p>
+</li>
+<li>
+<p><strong>Tesoura</strong> ganha do <strong>papel</strong></p>
+</li>
+<li>
+<p><strong>Papel</strong> ganha da <strong>pedra</strong></p>
+</li>
+</ol>
+<p>O jogo deverá ser entre um jogador e o computador, em que este deverá
+fazer suas jogadas aleatoriamente após as do jogador, que então serão
+comparadas, informado quem venceu e incrementado o número de vitórias do
+atual vitorioso. Cada jogo será dividido em 5 rounds, que deverá ser
+exibido em qual estará no momento e ao fim o jogo deverá perguntar se o
+jogador deseja jogar novamente ou sair, sempre exibindo o número de
+vitórias de cada participante - jogador e computador.</p>
+<h2>Exemplo</h2>
+<p>Exemplo em execução. Os símbolos <code>&gt;&gt;</code> significam a entrada de dados do
+usuário.</p>
+<div class="language-text highlight"><pre><span></span><code># JOKENPÔ #
+Você: 0 | PC: 0
+Round: 1 / 5
+
+1 - Pedra
+2 - Papel
+3 - Tesoura
+&gt;&gt; 1
+Você jogou PEDRA e o PC PAPEL.
+O PC ganhou!
+
+# JOKENPÔ #
+Você: 0 | PC: 1
+Round: 2 / 5
+
+1 - Pedra
+2 - Papel
+3 - Tesoura
+&gt;&gt; 3
+Você jogou TESOURA e o PC PAPEL.
+Você ganhou!
+
+# JOKENPÔ #
+Você: 1 | PC: 1
+Round: 3 / 5
+
+1 - Pedra
+2 - Papel
+3 - Tesoura
+&gt;&gt; 2
+Você jogou PAPEL e o PC PAPEL.
+Ninguém ganhou!
+
+# JOKENPÔ #
+Você 1 | PC: 1
+Round: 4 / 5
+
+1 - Pedra
+2 - Papel
+3 - Tesoura
+&gt;&gt;
+
+.
+.
+.
+
+# JOKENPÔ #
+Você: 2 | PC: 1
+Round: 5 / 5
+
+1 - Pedra
+2 - Papel
+3 - Tesoura
+&gt;&gt; 3
+Você jogou TESOURA e o PC PAPEL.
+Você ganhou!
+
+PLACAR FINAL:
+Você: 3 | PC: 1
+
+JOGAR NOVAMENTE?
+1 - Sim
+0 - Sair
+</code></pre></div>
+<h2>Dicas</h2>
+<p>Você pode fazer o computador gerar números entre 0 e 2 e utilizar esses números como as jogadas.</p>
+<ul>
+<li>0: pedra</li>
+<li>1: papel</li>
+<li>2: tesoura</li>
+</ul>
+<h2>Jokenpô V2</h2>
+<h3>Pedra, Papel, Tesoura, Lagarto e Spock</h3>
+<p><img alt="spock" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pr_jokenpo/spock.jpg" /></p>
+<p>Nesta segunda versão você deverá implementar o modo do jogo mais recente
+em que duas novas opções foram adicionadas, <strong>Lagarto e Spock</strong>,
+conforme as regras clássicas e as adicionais:</p>
+<ol>
+<li><strong>Tesoura</strong> ganha do <strong>papel</strong></li>
+<li><strong>Papel</strong> ganha da <strong>pedra</strong></li>
+<li><strong>Pedra</strong> ganha do <strong>lagarto</strong></li>
+<li><strong>Lagarto</strong> ganha do <strong>Spock</strong></li>
+<li><strong>Spock</strong> ganha da <strong>tesoura</strong></li>
+<li><strong>Tesoura</strong> ganha do <strong>lagarto</strong></li>
+<li><strong>Lagarto</strong> ganha do <strong>papel</strong></li>
+<li><strong>Papel</strong> ganha do <strong>Spock</strong></li>
+<li><strong>Spock</strong> ganha da <strong>pedra</strong></li>
+<li><strong>Pedra</strong> ganha da <strong>tesoura</strong></li>
+</ol>
+</body>
+</html>

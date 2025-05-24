@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@sobrou: Calculando quanto sobrou</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Calculando quanto sobrou</h1>
+<p><img alt="Imagem Quantos Sobrou" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/sobrou/cover.jpg" /></p>
+<h2>Contexto</h2>
+<p>Suponha a situação que uma pessoa recebe uma lista com o preço e a
+quantidade de três produtos que ela deve comprar. Ela recebe uma certa quantia
+em dinheiro que dar para comprar todos os produtos. Ela quer saber o quanto
+vai sobrar, pois o troco é dela. :)</p>
+<p>Implemente um programa que receba primeiramente a quantidade que precisa ser
+compradas dos produtos e depois os preços dos três produtos, e por fim a
+quantia em dinheiro que a pessoa tem para comprar. Você deve imprimir quanto
+sobrou.</p>
+<h3>Entrada</h3>
+<ul>
+<li>Linhas 1, 2, 3: Quantidade dos 3 produtos</li>
+<li>Linhas 4, 5, 6: Valor dos 3 produtos</li>
+<li>Linha 7: Quantidade de dinheiro</li>
+</ul>
+<h3>Saída</h3>
+<ul>
+<li>O valor do troco que a pessoa deve receber, com duas casas decimais.</li>
+</ul>
+<h2>Testes</h2>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">0</span>
+<span class="mi">2</span>
+<span class="mi">8</span>
+<span class="mi">5</span>
+<span class="mf">1555.00</span>
+<span class="mf">4206.00</span>
+<span class="mf">761.00</span>
+<span class="mf">54771.87</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mf">14208.87</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">1</span>
+<span class="mi">9</span>
+<span class="mi">3</span>
+<span class="mi">5</span>
+<span class="mf">724.00</span>
+<span class="mf">3200.00</span>
+<span class="mf">3327.00</span>
+<span class="mf">49569.79</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mf">16818.79</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">2</span>
+<span class="mi">2</span>
+<span class="mi">2</span>
+<span class="mi">6</span>
+<span class="mf">1970.00</span>
+<span class="mf">4837.00</span>
+<span class="mf">455.00</span>
+<span class="mf">32500.45</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mf">16156.45</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">3</span>
+<span class="mi">5</span>
+<span class="mi">3</span>
+<span class="mi">4</span>
+<span class="mf">302.00</span>
+<span class="mf">2410.00</span>
+<span class="mf">2458.00</span>
+<span class="mi">29180</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mf">10608.00</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">4</span>
+<span class="mi">9</span>
+<span class="mi">6</span>
+<span class="mi">8</span>
+<span class="mf">1772.00</span>
+<span class="mf">4799.00</span>
+<span class="mf">1566.00</span>
+<span class="mf">60536.63</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mf">3266.63</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">5</span>
+<span class="mi">3</span>
+<span class="mi">8</span>
+<span class="mi">10</span>
+<span class="mf">2072.00</span>
+<span class="mf">4913.00</span>
+<span class="mf">3758.00</span>
+<span class="mf">143486.80</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mf">60386.80</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">6</span>
+<span class="mi">3</span>
+<span class="mi">4</span>
+<span class="mi">4</span>
+<span class="mf">4674.00</span>
+<span class="mf">178.00</span>
+<span class="mf">2730.00</span>
+<span class="mf">47773.89</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="mf">22119.89</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+</body>
+</html>

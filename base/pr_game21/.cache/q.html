@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@pr_game21: Blackjack 21</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Blackjack 21</h1>
+<p>Você irá implementar uma versão simplificada do jogo <strong>Blackjack 21</strong>, também conhecido como “vinte e um”, onde um jogador humano enfrenta a mesa (computador). A atividade pode feita em três etapas, com aumento progressivo na complexidade.</p>
+<p>Para conhecer melhor o jogo original, consulte:  </p>
+<ul>
+<li><a href="http://pt.wikipedia.org/wiki/Blackjack">http://pt.wikipedia.org/wiki/Blackjack</a>  </li>
+</ul>
+<p><img alt="Blackjack" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/pr_game21/blackjack.jpg" /></p>
+<hr />
+<h2>Regras Simplificadas</h2>
+<ul>
+<li>Cartas de 2 a 10 valem seus próprios valores.</li>
+<li>Valete (J), Dama (Q) e Rei (K) valem 10 pontos.</li>
+<li>Ás (A) pode valer 1 ou 11, o que for mais vantajoso. Se a soma estourar 21, transforme o(s) Ás em 1 até que a soma fique válida ou estoure de vez.</li>
+</ul>
+<hr />
+<h2>Funcionamento do Jogo</h2>
+<ul>
+<li>O jogador começa com <strong>2 cartas</strong>. A mesa começa com <strong>1 carta visível</strong>.</li>
+<li>O jogador pode <strong>pedir carta (1)</strong> ou <strong>parar (2)</strong>. Se estourar 21, perde.</li>
+<li>Quando o jogador para, a mesa joga até vencer ou estourar.</li>
+<li>Em caso de empate de pontos, <strong>a mesa vence</strong>.</li>
+</ul>
+<p>Linhas com <code>&gt;&gt;</code> indicam que o programa está esperando uma entrada do jogador.</p>
+<hr />
+<h2>Etapa 1 – Primeira Versão</h2>
+<p>Implemente uma única rodada entre jogador e mesa, com as seguintes interações:</p>
+<div class="language-text highlight"><pre><span></span><code>Iniciando Rodada:
+# Mesa recebe  7 - Total  7 [ 7 ]
+# Voce recebe  A - Total 11 [ A ]
+# Voce recebe  2 - Total 13 [ A 2 ]
+Pedir = 1, Parar = 2 
+&gt;&gt; 1
+# Voce recebe  3 - Total 16 [ A 2 3 ]
+Pedir = 1, Parar = 2 
+&gt;&gt; 2
+# Mesa joga, calcula e exibe o resultado final
+</code></pre></div>
+<hr />
+<h2>Etapa 2 – Apostas e Múltiplas Rodadas</h2>
+<p>Adicione:</p>
+<ul>
+<li>Sistema de apostas com <strong>mínimo de 5 e máximo de 100</strong>.</li>
+<li>Saldo inicial: <strong>100</strong> unidades de dinheiro.</li>
+<li>Se ganhar, recebe <strong>o dobro da aposta</strong>.</li>
+<li>O jogador pode sair a qualquer momento digitando <strong>-1</strong> como valor da aposta.</li>
+</ul>
+<div class="language-text highlight"><pre><span></span><code>Rodada 1:
+Dinheiro: 100
+Digite valor da aposta ou -1 para sair: 25
+...
+Rodada 2:
+Dinheiro: 75
+Digite valor da aposta ou -1 para sair: 50
+...
+</code></pre></div>
+<hr />
+<h2>Etapa 3 – Validação de Entradas</h2>
+<p>Adicione verificação de entradas em todos os momentos:</p>
+<ul>
+<li>Apostas devem ser numéricas e dentro dos limites.</li>
+<li>Opções de ação devem ser válidas (1 ou 2).</li>
+<li>Tratamento de erros como textos, valores fora do intervalo, negativos etc.</li>
+</ul>
+<div class="language-text highlight"><pre><span></span><code>Digite valor da aposta ou -1 para sair: vinte
+Valor inválido.
+Digite valor da aposta ou -1 para sair: 300
+Valor inválido.
+...
+Pedir = 1, Parar = 2
+&gt;&gt; batatas
+Valor inválido.
+</code></pre></div>
+<hr />
+<h2>Desafio Opcional</h2>
+<p>Se quiser ir além:</p>
+<ul>
+<li>Adicione <strong>múltiplos jogadores</strong>, com turnos alternados.</li>
+<li>Implemente regras extras como <strong>dobrar aposta</strong> ou <strong>dividir cartas</strong> (“split”).</li>
+</ul>
+<hr />
+<p>Bom trabalho e divirta-se programando!</p>
+</body>
+</html>

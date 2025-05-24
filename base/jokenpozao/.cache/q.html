@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@jokenpozao: Jokenpo de 9</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Jokenpo de 9</h1>
+<p><img alt="_" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/jokenpozao/cover.jpg" /></p>
+<h2>Motivação</h2>
+<p>No jokenpo de nove elementos temos uma lista circular onde cada um vence os quatro elementos a sua frente e perde para quatro elementos atrás dele. A sequência é a seguinte:</p>
+<p>Em inglês:</p>
+<ul>
+<li>[paper, air, water, gun, rock, fire, scissors, human, sponge], paper, air, water, gun, rock, ...</li>
+</ul>
+<div class="language-py highlight"><pre><span></span><code><span class="n">ROCK</span> <span class="n">POUNDS</span> <span class="n">OUT</span> <span class="n">FIRE</span><span class="p">,</span> <span class="n">CRUSHES</span> <span class="n">SCISSORS</span><span class="p">,</span> <span class="n">HUMAN</span> <span class="o">&amp;</span> <span class="n">SPONGE</span><span class="o">.</span>
+<span class="n">FIRE</span> <span class="n">MELTS</span> <span class="n">SCISSORS</span><span class="p">,</span> <span class="n">BURNS</span> <span class="n">PAPER</span><span class="p">,</span> <span class="n">HUMAN</span> <span class="o">&amp;</span> <span class="n">SPONGE</span><span class="o">.</span>
+<span class="n">SCISSORS</span> <span class="n">SWISH</span> <span class="n">THROUGH</span> <span class="n">AIR</span><span class="p">,</span> <span class="n">CUT</span> <span class="n">PAPER</span><span class="p">,</span> <span class="n">HUMAN</span> <span class="o">&amp;</span> <span class="n">SPONGE</span><span class="o">.</span>
+<span class="n">HUMAN</span> <span class="n">CLEANS</span> <span class="n">WITH</span> <span class="n">SPONGE</span><span class="p">,</span> <span class="n">WRITES</span> <span class="n">PAPER</span><span class="p">,</span> <span class="n">BREATHES</span> <span class="n">AIR</span><span class="p">,</span> <span class="n">DRINKS</span> <span class="n">WATER</span><span class="o">.</span>
+<span class="n">SPONGE</span> <span class="n">SOAKS</span> <span class="n">PAPER</span><span class="p">,</span> <span class="n">USES</span> <span class="n">AIR</span> <span class="n">POCKETS</span><span class="p">,</span> <span class="n">ABSORBS</span> <span class="n">WATER</span><span class="p">,</span> <span class="n">CLEANS</span> <span class="n">GUN</span><span class="o">.</span>
+<span class="n">PAPER</span> <span class="n">FANS</span> <span class="n">AIR</span><span class="p">,</span> <span class="n">COVERS</span> <span class="n">ROCK</span><span class="p">,</span> <span class="n">FLOATS</span> <span class="n">ON</span> <span class="n">WATER</span><span class="p">,</span> <span class="n">OUTLAWS</span> <span class="n">GUN</span><span class="o">.</span>
+<span class="n">AIR</span> <span class="n">BLOWS</span> <span class="n">OUT</span> <span class="n">FIRE</span><span class="p">,</span> <span class="n">ERODES</span> <span class="n">ROCK</span><span class="p">,</span> <span class="n">EVAPORATES</span> <span class="n">WATER</span><span class="p">,</span> <span class="n">TARNISHES</span> <span class="n">GUN</span><span class="o">.</span>
+<span class="n">WATER</span> <span class="n">ERODES</span> <span class="n">ROCK</span><span class="p">,</span> <span class="n">PUTS</span> <span class="n">OUT</span> <span class="n">FIRE</span><span class="p">,</span> <span class="n">RUSTS</span> <span class="n">SCISSORS</span> <span class="o">&amp;</span> <span class="n">GUN</span><span class="o">.</span>
+<span class="n">GUN</span> <span class="n">TARGETS</span> <span class="n">ROCK</span><span class="p">,</span> <span class="n">FIRES</span><span class="p">,</span> <span class="n">OUTCLASSES</span> <span class="n">SCISSORS</span><span class="p">,</span> <span class="n">SHOOTS</span> <span class="n">HUMAN</span><span class="o">.</span>
+</code></pre></div>
+<p>Em português:</p>
+<ul>
+<li>[papel, ar, água, arma, pedra, fogo, tesoura, humano, esponja], papel, ar, água, arma, ...</li>
+</ul>
+<div class="language-py highlight"><pre><span></span><code><span class="n">ROCHA</span> <span class="n">AMASSA</span> <span class="n">FOGO</span><span class="p">,</span> <span class="n">ESMAGA</span> <span class="n">TESOURA</span><span class="p">,</span> <span class="n">HUMANO</span> <span class="n">E</span> <span class="n">ESPONJA</span><span class="o">.</span>
+<span class="n">FOGO</span> <span class="n">DERRETE</span> <span class="n">TESOURA</span><span class="p">,</span> <span class="n">QUEIMA</span> <span class="n">PAPEL</span><span class="p">,</span> <span class="n">HUMANO</span> <span class="n">E</span> <span class="n">ESPONJA</span><span class="o">.</span>
+<span class="n">TESOURA</span> <span class="n">CORTA</span> <span class="n">PELO</span> <span class="n">AR</span><span class="p">,</span> <span class="n">CORTA</span> <span class="n">PAPEL</span><span class="p">,</span> <span class="n">HUMANO</span> <span class="n">E</span> <span class="n">ESPONJA</span><span class="o">.</span>
+<span class="n">HUMANO</span> <span class="n">LIMPA</span> <span class="n">COM</span> <span class="n">ESPONJA</span><span class="p">,</span> <span class="n">ESCREVE</span> <span class="n">EM</span> <span class="n">PAPEL</span><span class="p">,</span> <span class="n">RESPIRA</span> <span class="n">AR</span><span class="p">,</span> <span class="n">BEBE</span> <span class="n">ÁGUA</span><span class="o">.</span>
+<span class="n">ESPONJA</span> <span class="n">ABSORVE</span> <span class="n">PAPEL</span><span class="p">,</span> <span class="n">USA</span> <span class="n">BOLSAS</span> <span class="n">DE</span> <span class="n">AR</span><span class="p">,</span> <span class="n">ABSORVE</span> <span class="n">ÁGUA</span><span class="p">,</span> <span class="n">LIMPA</span> <span class="n">ARMA</span><span class="o">.</span>
+<span class="n">PAPEL</span> <span class="n">VENTILA</span> <span class="n">AR</span><span class="p">,</span> <span class="n">COBRE</span> <span class="n">ROCHA</span><span class="p">,</span> <span class="n">FLOTA</span> <span class="n">NA</span> <span class="n">ÁGUA</span><span class="p">,</span> <span class="n">PROÍBE</span> <span class="n">ARMA</span><span class="o">.</span>
+<span class="n">AR</span> <span class="n">APAGA</span> <span class="n">FOGO</span><span class="p">,</span> <span class="n">ERODE</span> <span class="n">ROCHA</span><span class="p">,</span> <span class="n">EVAPORA</span> <span class="n">ÁGUA</span><span class="p">,</span> <span class="n">ENFERRUJA</span> <span class="n">ARMA</span><span class="o">.</span>
+<span class="n">ÁGUA</span> <span class="n">ERODE</span> <span class="n">ROCHA</span><span class="p">,</span> <span class="n">APAGA</span> <span class="n">FOGO</span><span class="p">,</span> <span class="n">ENFERRUJA</span> <span class="n">TESOURA</span> <span class="n">E</span> <span class="n">ARMA</span><span class="o">.</span>
+<span class="n">ARMA</span> <span class="n">MIRA</span> <span class="n">ROCHA</span><span class="p">,</span> <span class="n">DISPARA</span><span class="p">,</span> <span class="n">SUPERA</span> <span class="n">TESOURA</span><span class="p">,</span> <span class="n">ATIRA</span> <span class="n">NO</span> <span class="n">HUMANO</span><span class="o">.</span>
+</code></pre></div>
+<h3>Entrada</h3>
+<ul>
+<li>Texto em inglês em minúsculo e sem acentos contendo as opções dos dois jogadores.  </li>
+</ul>
+<h2>Saída</h2>
+<ul>
+<li>empate, jog1 ou jog2.</li>
+</ul>
+<h2>Exemplos</h2>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">01</span>
+<span class="n">sponge</span>
+<span class="n">gun</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="n">jog1</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">02</span>
+<span class="n">air</span>
+<span class="n">scissors</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="n">jog2</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">03</span>
+<span class="n">gun</span>
+<span class="n">gun</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="n">empate</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">04</span>
+<span class="n">air</span>
+<span class="n">gun</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="n">jog1</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">05</span>
+<span class="n">fire</span>
+<span class="n">air</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="n">jog2</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">06</span>
+<span class="n">water</span>
+<span class="n">human</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="n">jog2</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">07</span>
+<span class="n">scissors</span>
+<span class="n">paper</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="n">jog1</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+<div class="language-py highlight"><pre><span></span><code><span class="o">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</span> <span class="n">INSERT</span> <span class="mi">08</span>
+<span class="n">sponge</span>
+<span class="n">human</span>
+<span class="o">========</span> <span class="n">EXPECT</span>
+<span class="n">jog2</span>
+<span class="o">&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</span> <span class="n">FINISH</span>
+</code></pre></div>
+</body>
+</html>

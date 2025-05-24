@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@pr_chute_a: Adivinhe o número entre dois limites</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Adivinhe o número entre dois limites</h1>
+<h2>Objetivo</h2>
+<p>Criar um jogo onde o computador sorteia um número secreto, e o jogador deve adivinhar esse número através de tentativas sucessivas. A cada tentativa, o programa ajusta os limites possíveis, ajudando o jogador a encontrar a resposta — <strong>mas se o intervalo ficar pequeno demais, o jogador perde</strong>!</p>
+<hr />
+<h2>Regras do jogo</h2>
+<ol>
+<li><strong>O computador sorteia um número</strong> entre dois valores (por exemplo, entre 1 e 99).</li>
+<li>O jogador deve chutar um número <strong>dentro de um intervalo aberto</strong>, ou seja, <strong>maior que o limite inferior e menor que o limite superior</strong>.</li>
+<li>A cada tentativa:<ul>
+<li>Se o jogador acertar o número, vence o jogo.</li>
+<li>Se errar:<ul>
+<li>Se o chute for <strong>maior</strong> que o número sorteado, o limite superior será atualizado para o valor do chute.</li>
+<li>Se o chute for <strong>menor</strong>, o limite inferior será atualizado para o valor do chute.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Se o intervalo entre os limites ficar tão pequeno que <strong>só resta um número possível para tentar</strong>, o jogador perde.</li>
+</ol>
+<hr />
+<h2>Habilidades que você vai praticar</h2>
+<ul>
+<li>✅ Uso de <strong>variáveis</strong></li>
+<li>✅ <strong>Laços de repetição</strong> (<code>while</code>, <code>for</code>, etc.)</li>
+<li>✅ <strong>Condicionais</strong> (<code>if</code>, <code>else</code>)</li>
+<li>✅ <strong>Entrada e saída de dados</strong></li>
+<li>✅ <strong>Geração de números aleatórios</strong></li>
+</ul>
+<hr />
+<h2>Passo a passo sugerido</h2>
+<ol>
+<li><strong>Escolha os limites iniciais do intervalo</strong>, por exemplo, <code>inferior = 0</code> e <code>superior = 100</code>.</li>
+<li><strong>Sorteie um número secreto</strong> entre os valores internos do intervalo (ex: de 1 a 99).</li>
+<li>Inicie um <strong>laço de repetição</strong> que vai continuar até o jogador ganhar ou perder.</li>
+<li>A cada repetição:<ul>
+<li>Mostre o intervalo atual (sem incluir os limites extremos).</li>
+<li>Peça ao jogador para digitar um número dentro do intervalo.</li>
+<li>Verifique se o número é igual ao número secreto:<ul>
+<li>Se for, mostre uma mensagem de vitória e pare o jogo.</li>
+</ul>
+</li>
+<li>Caso contrário, ajuste o limite inferior ou superior dependendo se o chute foi menor ou maior que o número sorteado.</li>
+<li>Se só restar um número possível dentro do intervalo, mostre uma mensagem de derrota e encerre o jogo.</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h2>Dicas</h2>
+<ul>
+<li>Garanta que o jogador <strong>só possa digitar números dentro do intervalo</strong> aberto.</li>
+<li>Você pode usar uma <strong>função de aleatoriedade</strong> da sua linguagem para sortear o número.</li>
+<li>Use <code>break</code> (ou equivalente) para encerrar o laço quando o jogo terminar.</li>
+</ul>
+<hr />
+<h2>Extensões (para quem quiser ir além)</h2>
+<ul>
+<li>Conte o número de tentativas que o jogador usou.</li>
+<li>Permita que o jogador jogue novamente ao fim de cada partida.</li>
+<li>Adicione mensagens personalizadas com dicas ou provocações.</li>
+</ul>
+<h2>Gerando números aleatórios</h2>
+<h3>Python</h3>
+<div class="language-python highlight"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="nn">random</span>
+<span class="n">numero_secreto</span> <span class="o">=</span> <span class="n">random</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">99</span><span class="p">)</span>  <span class="c1"># Gera um número entre 1 e 99</span>
+</code></pre></div>
+<h3>JavaScript</h3>
+<div class="language-javascript highlight"><pre><span></span><code><span class="kd">let</span><span class="w"> </span><span class="nx">numero_secreto</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="mf">99</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mf">1</span><span class="p">;</span><span class="w"> </span><span class="c1">// Gera um número entre 1 e 99</span>
+</code></pre></div>
+<h3>Go</h3>
+<div class="language-go highlight"><pre><span></span><code><span class="kn">import</span><span class="w"> </span><span class="p">(</span>
+<span class="w">    </span><span class="s">&quot;fmt&quot;</span>
+<span class="w">    </span><span class="s">&quot;math/rand&quot;</span>
+<span class="w">    </span><span class="s">&quot;time&quot;</span>
+<span class="p">)</span>
+<span class="kd">func</span><span class="w"> </span><span class="nx">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="nx">rand</span><span class="p">.</span><span class="nx">Seed</span><span class="p">(</span><span class="nx">time</span><span class="p">.</span><span class="nx">Now</span><span class="p">().</span><span class="nx">UnixNano</span><span class="p">())</span>
+<span class="w">    </span><span class="nx">numero_secreto</span><span class="w"> </span><span class="o">:=</span><span class="w"> </span><span class="nx">rand</span><span class="p">.</span><span class="nx">Intn</span><span class="p">(</span><span class="mi">99</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mi">1</span><span class="w"> </span><span class="c1">// Gera um número entre 1 e 99</span>
+<span class="w">    </span><span class="nx">fmt</span><span class="p">.</span><span class="nx">Println</span><span class="p">(</span><span class="nx">numero_secreto</span><span class="p">)</span>
+<span class="p">}</span>
+</code></pre></div>
+<h3>C</h3>
+<div class="language-c highlight"><pre><span></span><code><span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;stdio.h&gt;</span>
+<span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;stdlib.h&gt;</span>
+<span class="cp">#include</span><span class="w"> </span><span class="cpf">&lt;time.h&gt;</span>
+<span class="kt">int</span><span class="w"> </span><span class="nf">main</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="n">srand</span><span class="p">(</span><span class="n">time</span><span class="p">(</span><span class="mi">0</span><span class="p">));</span>
+<span class="w">    </span><span class="kt">int</span><span class="w"> </span><span class="n">numero_secreto</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">rand</span><span class="p">()</span><span class="w"> </span><span class="o">%</span><span class="w"> </span><span class="mi">99</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mi">1</span><span class="p">;</span><span class="w"> </span><span class="c1">// Gera um número entre 1 e 99</span>
+<span class="w">    </span><span class="n">printf</span><span class="p">(</span><span class="s">&quot;%d</span><span class="se">\n</span><span class="s">&quot;</span><span class="p">,</span><span class="w"> </span><span class="n">numero_secreto</span><span class="p">);</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+<h2>Exemplos de interação</h2>
+<div class="language-text highlight"><pre><span></span><code>Diga um numero entre ]0, 100[: 50
+Diga um numero entre ]0, 50[: 23
+Diga um numero entre ]23, 50[: 40
+Diga um numero entre ]23, 40[: 28
+Diga um numero entre ]28, 40[: 35
+Diga um numero entre ]28, 35[: 30
+Diga um numero entre ]30, 35[: 33
+Diga um numero entre ]30, 33[: 31
+Era 31, você ganhou!
+</code></pre></div>
+<div class="language-text highlight"><pre><span></span><code>Diga um numero entre ]0, 100[: 50
+Diga um numero entre ]0, 50[: 23
+Diga um numero entre ]23, 50[: 40
+Diga um numero entre ]23, 40[: 28
+Diga um numero entre ]28, 40[: 35
+Diga um numero entre ]28, 35[: 30
+Diga um numero entre ]30, 35[: 33
+Diga um numero entre ]30, 33[: 31
+Era 32, você perdeu!
+</code></pre></div>
+</body>
+</html>
