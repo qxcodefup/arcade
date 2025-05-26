@@ -313,6 +313,10 @@ Significado das tags nas questões:
 - [ ] `@pr_orc      *8  :open` [Batalha Orc](base/pr_orc/Readme.md)
 - [ ] `@pr_playfair *15 :open` [A cifra de Playfair](base/pr_playfair/Readme.md)
 
+### Aplicativos interativos no terminal
+
+- [ ] `@termgame_1  *8  :open` [Modelo de jogo interativo no terminal](base/termgame_1/Readme.md)
+
 ## Linguagem C
 
 ### CLings: Introdução<!-- l:c l:cpp -->
