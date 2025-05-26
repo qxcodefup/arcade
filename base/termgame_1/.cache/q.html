@@ -91,6 +91,38 @@
 <ul>
 <li>Leia no arquivo <code>extra.md</code> de cada linguagem como executar a instalação e executar o projeto.</li>
 </ul>
-<h2>Passos</h2>
+<h2>Sugestão de exercícios</h2>
+<ul>
+<li>Rode o projeto e veja o personagem se movimentando.</li>
+<li>Tente fazer o loop da tela, ou seja, se o personagem sair da tela pela direita, ele deve aparecer na esquerda e vice-versa. Caso saia pela parte de cima, ele deve aparecer na parte de baixo e vice-versa.</li>
+<li>Tente desenhar as bordas da tela.</li>
+<li>Tente fazer com que o personagem não possa sair da tela, ou seja, se ele tentar sair pela direita, ele deve ficar parado na borda direita e vice-versa.</li>
+<li>Tente fazer ele também se mover utilizando as teclas <code>W</code>, <code>A</code>, <code>S</code> e <code>D</code>.</li>
+<li>Tente criar um vetor de comidas, se a tecla <code>c</code> for pressionada, na posição do personagem, deve ser criada uma comida.<ul>
+<li>Atualize estrutura do game para guardar um vetor de comidas.</li>
+<li>Atualize a função de inicialização do jogo para criar um vetor de comidas vazio.</li>
+<li>Atualize a função draw para desenhar as comidas.</li>
+<li>Atualize a função de update para verificar se a tecla <code>c</code> foi pressionada e adicionar uma comida na posição do personagem.</li>
+</ul>
+</li>
+<li>Ao ínves de comidas, você pode criar um vetor de paredes.<ul>
+<li>Atualize estrutura do game para guardar um vetor de paredes.</li>
+<li>Atualize a função de inicialização do jogo para criar um vetor de paredes em posições aleatórias.</li>
+<li>Atualize a função draw para desenhar as paredes.</li>
+<li>Na função de update, antes de andar, salve a posição do personagem em uma variável temporária.</li>
+<li>Faça o personagem andar normalmente.</li>
+<li>Verifique se a nova posição do personagem colide com alguma parede, se sim, volte para a posição anterior.</li>
+</ul>
+</li>
+<li>Tente criar um vetor de armadilhas.<ul>
+<li>Atualize estrutura do game para guardar um vetor de armadilhas.</li>
+<li>Atualize a função de inicialização do jogo para criar um vetor de armadilhas em posições aleatórias.</li>
+<li>Atualize a função draw para desenhar as armadilhas.</li>
+<li>Na função de update, verifique se o personagem colidiu com alguma armadilha e, se sim, finalize o jogo.</li>
+<li>Para finalizar o jogo, você pode adicionar uma variável <code>gameOver</code> na estrutura do jogo e, se ela for verdadeira, não desenhar mais nada e finalizar o jogo.</li>
+<li>Vá no loop principal do jogo e verifique se o jogo acabou, se sim, quebre o loop para finalizar o jogo.</li>
+</ul>
+</li>
+</ul>
 </body>
 </html>

@@ -1,6 +1,12 @@
 # Go
 
-- Navegue pelo terminal até a pasta do projeto.
+- Vídeo do youtube com as orientações
+
+[![caolho](../../caolho.png)](https://youtu.be/2IlDR6D6VVQ)
+
+## Instalação
+
+-Navegue pelo terminal até a pasta do projeto.
 
 ```bash
 # você pode usar os comandos cd(mudar de pasta) e ls(para lista o conteúdo).
