@@ -2,6 +2,10 @@
 
 - Vamos criar um jogo interativo no terminal e utilizar as teclas para movimentar o personagem.
 
+Vídeo de apresentação do projeto
+
+[![caolho](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/termgame_1/caolho.png)](https://youtu.be/2IlDR6D6VVQ)
+
 ## Instalação
 
 - Leia no arquivo `extra.md` de cada linguagem como executar a instalação e executar o projeto.

@@ -1,9 +1,5 @@
 # Go
 
-- Vídeo do youtube com as orientações
-
-[![caolho](../../caolho.png)](https://youtu.be/2IlDR6D6VVQ)
-
 ## Instalação
 
 -Navegue pelo terminal até a pasta do projeto.
