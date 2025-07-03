@@ -23,6 +23,27 @@ Dado o número N, imprima o enésimo termo da série.
 
 Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, se estiver programando em c, use um long int.
 
+### Etapas
+
+- Com vetores:
+  - Crie um vetor com dois elementos {1, 1}
+  - Faça um laço preenchendo o vetor somando sempre a soma dos dois últimos até chegar no termo desejado.
+- Com recursão:
+  - Implemente recursivo fazendo que o elemento fib(n) seja a soma de fib(n-1) + fib(n-2)
+- Com recursão e dicionários:
+  - Crie um dicionário para guardar os valores já calculados e evitar recalcular.
+
+```go
+func fib(n value, cache dict[int]int) {
+    se valor ja estiver no cache, pegue-o e retorne
+    se for n == 0 ou n == 1, retorne o valor padrão
+    calcule o valor usando recursao
+    guarde o valor no cache
+    retorne o valor
+}
+
+``
+
 ### Entrada
 
 - N, um por linha.

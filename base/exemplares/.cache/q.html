@@ -86,7 +86,29 @@
 <h1>Arca quantos exemplares</h1>
 <p><img alt="_" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/exemplares/cover.jpg" /></p>
 <h2>Contexto</h2>
-<p>O dono do zoologico quer a lista de todas as especies de animais  que existem no zoologico. Para isso ele te deu uma lista de todos  os animais. Ele quer que você faça um programa que retorne uma  nova lista contendo apenas um animal de cada especie. Considere que um número representa uma especie. Devolva um novo vetor, sem números repetidos e ordenado.</p>
+<p>O dono do zoologico quer a lista de todas as espécies de animais  que existem no zoologico. Para isso ele te deu uma lista de todos os animais. Ele quer que você faça um programa que retorne uma nova lista contendo apenas um animal de cada especie. Considere que um número representa uma especie. Devolva um novo vetor, sem números repetidos e ordenado.</p>
+<h2>Estratégia</h2>
+<ul>
+<li>Usando vetores</li>
+</ul>
+<div class="language-text highlight"><pre><span></span><code>vetor = crie um vetor para representar os animais únicos
+para cada animal lido:
+    se o animal não estiver no vetor
+        adicione o animal no vetor
+ordene o vetor
+imprima o resultado
+</code></pre></div>
+<ul>
+<li>Usando Conjuntos ou Dicionários</li>
+</ul>
+<div class="language-text highlight"><pre><span></span><code>unicos = crie um dict ou set para representar os animais únicos
+para cada animal lido:
+    se o animal não estiver em unicos
+        adicione o animal em unicos
+gere um vetor de unicos
+ordene o vetor
+imprima o resultado
+</code></pre></div>
 <h3>Entrada</h3>
 <ul>
 <li>linha 1: Um número inteiro <strong>'N"</strong> com a quantidade de elementos do vetor.</li>

@@ -6,6 +6,13 @@
 
 Dado um número inteiro, faça uma função que verifique se ele é primo.  
 
+## Estratégias
+
+- Com laço
+  - Faça um laço de i = 2 até sqrt(n) para ver se o valor é divisível por i.
+- Com recursão
+  - Substitua o laço por um algoritmo recursivo.
+
 ### Entrada
 
 * Um numero inteiro N.

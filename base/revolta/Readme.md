@@ -1,4 +1,4 @@
-# - Revolta em Portugal
+# Revolta em Portugal
 
 ![_](cover.jpg)
 

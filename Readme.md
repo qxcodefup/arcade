@@ -86,6 +86,7 @@ Significado das tags nas questões:
 - [ ] `@concentra  *3 :leet`[Jogo de laço](base/concentra/Readme.md)
 - [ ] `@fuga       *3 :leet`[Fuga em helicóptero - OBI 2016](base/fuga/Readme.md)
 - [ ] `@lotado     *3 :leet`[Ônibus dos alunos](base/lotado/Readme.md)
+- [ ] `@spok       *3 :leet`[Número palíndromo](base/spok/Readme.md)
 - [ ] `@sapinho    +3 :leet`[Sapinho no Poço](base/sapinho/Readme.md)
 - [ ] `@fatores    +3 :leet`[Fatoração de um número](base/fatores/Readme.md)
 
@@ -102,10 +103,10 @@ Significado das tags nas questões:
 
 ### Missão: Vetores II<!-- +list:1 -->[](#missão-vetores-i)
 
-- [ ] `@revolta    *3 :leet`[- Revolta em Portugal](base/revolta/Readme.md)
-- [ ] `@cartas     *3 :leet`[- Transformando números em letras](base/cartas/Readme.md)
-- [ ] `@invertendo *3 :leet`[- Invertendo vetor](base/invertendo/Readme.md)
-- [ ] `@fila       *3 :leet`[- Separar Pares e Ímpares](base/fila/Readme.md)
+- [ ] `@revolta    *3 :leet`[Revolta em Portugal](base/revolta/Readme.md)
+- [ ] `@cartas     *3 :leet`[Transformando números em letras](base/cartas/Readme.md)
+- [ ] `@invertendo *3 :leet`[Invertendo vetor](base/invertendo/Readme.md)
+- [ ] `@fila       *3 :leet`[Separar Pares e Ímpares](base/fila/Readme.md)
 - [ ] `@pedra      *4 :leet`[Pedra na lua](base/pedra/Readme.md)
 - [ ] `@troco      *4 :leet`[Calculando troco](base/troco/Readme.md)
 - [ ] `@casais     *4 :leet`[Quantos casais na arca](base/casais/Readme.md)
@@ -155,12 +156,30 @@ Significado das tags nas questões:
 - [ ] `@datilografar  +4 :leet`[Máquina Quebrada](base/datilografar/Readme.md)
 - [ ] `@bubula        +4 :leet`[Nao se bula - Gagueira V2](base/bubula/Readme.md)
 
-### Problemas: Structs<!-- +struct:1 -->[](#problemas-vetores-i)
+### Missão: Structs<!-- +struct:1 -->[](#missão-vetores-i)
 
-- [ ] `@pizza     *3 :leet`[Procurando melhor pizzaria](base/pizza/Readme.md)
-- [ ] `@gomos     *3 :leet`[Gomos da cobrinha](base/gomos/Readme.md)
-- [ ] `@estudante *4 :leet`[Melhor estudante](base/estudante/Readme.md)
-- [ ] `@idosa     +4 :leet`[Mulher mais idosa](base/idosa/Readme.md)
+- [ ] `@fatores_type  +3 :leet`[Fatoração de um número](base/fatores/Readme.md)
+- [ ] `@pedra_type    *4 :leet`[Pedra na lua](base/pedra/Readme.md)
+- [ ] `@pizza         *3 :leet`[Procurando melhor pizzaria](base/pizza/Readme.md)
+- [ ] `@gomos         *3 :leet`[Gomos da cobrinha](base/gomos/Readme.md)
+- [ ] `@estudante     *4 :leet`[Melhor estudante](base/estudante/Readme.md)
+- [ ] `@idosa         +4 :leet`[Mulher mais idosa](base/idosa/Readme.md)
+- [ ] `@fatores_type  +4 :open`[Fatoração de um número](base/fatores/Readme.md)
+
+### Missão: Dicionários <!-- +dict:1 -->[](#missão-vetores-i)
+
+- [ ] `@tazos_dict      *6 :leet`[Qual o mais repetido](base/tazos/Readme.md)
+- [ ] `@casais_dict     *4 :leet`[Quantos casais na arca](base/casais/Readme.md)
+- [ ] `@exemplares_dict *4 :leet`[Arca quantos exemplares](base/exemplares/Readme.md)
+- [ ] `@sopa_dict       *4 :open`[Sopa de coelho](base/sopa/Readme.md)
+- [ ] `@fatores_dict    +3 :leet`[Fatoração de um número](base/fatores/Readme.md)
+
+### Missão: Recursão <!-- +rec:1 -->[](#missão-vetores-i)
+
+- [ ] `@primo_rec   *3 :leet`[Calculando se é](base/primo/Readme.md)
+- [ ] `@sopa_rec    *4 :open`[Sopa de coelho](base/sopa/Readme.md)
+- [ ] `@spok_rec    *3 :leet`[Número palíndromo](base/spok/Readme.md)
+- [ ] `@fatores_rec +1 :leet`[Fatoração de um número](base/fatores/Readme.md)
 
 ## Repositório de Problemas
 
@@ -206,7 +225,6 @@ Significado das tags nas questões:
 - [ ] `@copos       *4 :leet`[Quebrador de copos](base/copos/Readme.md)
 - [ ] `@primo       *3 :leet`[Calculando se é](base/primo/Readme.md)
 - [ ] `@sopa        *4 :leet`[Sopa de coelho](base/sopa/Readme.md)
-- [ ] `@fibonacci   *4 :leet`[Calculando fibonatti](base/fibonacci/Readme.md)
 - [ ] `@spok        *3 :leet`[Número palíndromo](base/spok/Readme.md)
 - [ ] `@digitos     +4 :leet`[Fazendo contagem](base/digitos/Readme.md)
 

@@ -1,4 +1,4 @@
-# - Transformando números em letras
+# Transformando números em letras
 
 ## Imprimir vetor formatado
 

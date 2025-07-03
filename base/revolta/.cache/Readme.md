@@ -1,4 +1,4 @@
-# - Revolta em Portugal
+# Revolta em Portugal
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/revolta/cover.jpg)
 

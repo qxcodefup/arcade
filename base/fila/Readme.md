@@ -1,4 +1,4 @@
-# - Separar Pares e Ímpares
+# Separar Pares e Ímpares
 
 ![_](cover.jpg)
 

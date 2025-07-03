@@ -1,4 +1,4 @@
-# - Invertendo vetor
+# Invertendo vetor
 
 ![_](cover.jpg)
 

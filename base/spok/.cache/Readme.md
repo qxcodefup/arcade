@@ -8,14 +8,20 @@ A bordo da Enterprise, Spok recebeu a missão de explorar novos planetas.
 Cada planeta tem um identificador(ID) único.  
 Como o combustível da nave está pouco, Spok decidiu explorar apenas planetas que possuem ID palíndromo.  
 
-## Ação
+## Estratágias
 
 Fazer uma função que recebe um inteiro referente ao ID de um planeta e retorne 1 (true)  se o ID é palíndromo e 0 (false) caso contrário.
 
-1ª Obs: Faça essa questão sem usar vetores ou strings.  
+- Apenas repetição
+  - 1ª Obs: Faça essa questão sem usar vetores ou strings.  
+  - 2ª Obs: Um número é `palíndromo` quando o seu inverso é igual a ele.
+  - Por exemplo: 121 é palíndromo pois seu inverso é 121.
+- Recursão
+  - Crie uma função recursiva que recebe o número e retorna ele invertido
 
-2ª Obs: Um número é `palíndromo` quando o seu inverso é igual a ele.
-Por exemplo: 121 é palíndromo pois seu inverso é 121.
+## Dica
+
+Vá consumindo o número utilizando operadores de módulo e divisão por 10 enquando monta o número invertido.
 
 ### Entrada
 

@@ -1,4 +1,4 @@
-# - Separar Pares e Ímpares
+# Separar Pares e Ímpares
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fila/cover.jpg)
 

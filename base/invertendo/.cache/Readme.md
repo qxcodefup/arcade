@@ -1,4 +1,4 @@
-# - Invertendo vetor
+# Invertendo vetor
 
 ![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/invertendo/cover.jpg)
 

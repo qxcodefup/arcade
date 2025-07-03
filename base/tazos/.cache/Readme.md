@@ -6,6 +6,27 @@
 
 Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos em ordem numérica, mas está na dúvida de qual tazo ele tem mais vezes repetido. Faça um código que ajude Elvis a saber o número do tazo que se repete mais. Se mais de um tazo tiver no topo da quantidade, imprima todos eles.
 
+## Estratégias
+
+- Seu código deve ter um único for e se utilizar do fato de os elementos estarem ordenados para fazer a contagem apenas na troca de valores.
+
+### Apenas vetores
+
+```go
+- calcule uma lista com os únivos
+- crie uma lista para armazenar quantas vezes cada unico aparece
+- veja o maior valor dessa lista
+- pegue os unicos que tem esse maior valor
+```
+
+### Com dicionários
+
+```go
+- calcule um dicionário com os únivos e a quantidade de vezes que eles aparecem
+- percorra para saber o maior valor
+- percorra para pegar as chaves que contem esse valor
+```
+
 ### Entrada
 
 - **Linha 1:** Um número inteiro positivo representando a quantidade de elementos no vetor (1 a 50).
