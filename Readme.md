@@ -131,7 +131,6 @@ Significado das tags nas questões:
 - [ ] `@inverte     *2 :leet`[Inverter Case de char](base/inverte/Readme.md)
 - [ ] `@substring   *2 :leet`[Obter Substrings](base/substring/Readme.md)
 - [ ] `@leds        *3 :leet`[Contando luzes](base/leds/Readme.md)
-- [ ] `@cachorro    *3 :leet`[Retirar espaços](base/cachorro/Readme.md)
 - [ ] `@ru          *3 :leet`[Separando vogais de consoantes](base/ru/Readme.md)
 - [ ] `@gritando    *3 :leet`[Invertendo o Case da frase](base/gritando/Readme.md)
 - [ ] `@amora       *4 :leet`[Contar Substrings](base/amora/Readme.md)

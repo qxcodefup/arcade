@@ -10,8 +10,7 @@ pergunta:
 \- Porque esse trabalho com esses espaços desse jeito?  
 "briofitas sao plantas e pteridofilas  sao dinossauros que voam"
 
-\- É que meu poodle bateu no espaço do meu notebook e agora ele tá  
-doido fessora.  
+\- É que meu poodle quebrou a tecla espaço do meu notebook.
 
 \- Mas, número 1, pteridófilas são plantas, pterodáctilos que são  
 dinossauros. E número 2, eu não aceito mais desculpas de cachorros  
