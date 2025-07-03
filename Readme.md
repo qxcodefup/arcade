@@ -164,7 +164,6 @@ Significado das tags nas questões:
 - [ ] `@gomos         *3 :leet`[Gomos da cobrinha](base/gomos/Readme.md)
 - [ ] `@estudante     *4 :leet`[Melhor estudante](base/estudante/Readme.md)
 - [ ] `@idosa         +4 :leet`[Mulher mais idosa](base/idosa/Readme.md)
-- [ ] `@fatores_type  +4 :open`[Fatoração de um número](base/fatores/Readme.md)
 
 ### Missão: Dicionários <!-- +dict:1 -->[](#missão-vetores-i)
 
