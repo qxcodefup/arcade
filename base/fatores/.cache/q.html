@@ -87,10 +87,11 @@
 <p><img alt="_" src="https://raw.githubusercontent.com/qxcodefup/arcade/master/base/fatores/cover.jpg" /></p>
 <h2>Contexto</h2>
 <p>Dado um número inteiro, o objetivo é encontrar seus fatores primos e a quantidade de vezes que cada fator aparece na sua fatoração e montar um vetor com os fatores.</p>
-<h3>Pontuação</h3>
-<ul>
-<li>Com repetição</li>
-</ul>
+<h3>Guia</h3>
+<details> <summary>Apenas com repetição</summary>
+
+Você pode seguir o seguinte algoritmo:
+
 <div class="language-go highlight"><pre><span></span><code><span class="nx">fator</span><span class="w"> </span><span class="p">=</span><span class="w"> </span><span class="mi">2</span>
 <span class="nx">contagem</span><span class="w"> </span><span class="p">=</span><span class="w"> </span><span class="mi">0</span>
 <span class="nx">enquanto</span><span class="w"> </span><span class="nx">valor</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="mi">1</span>
@@ -101,9 +102,12 @@
 <span class="w">        </span><span class="nx">zere</span><span class="w"> </span><span class="nx">a</span><span class="w"> </span><span class="nx">contagem</span>
 <span class="w">        </span><span class="nx">imprima</span><span class="w"> </span><span class="nx">se</span><span class="w"> </span><span class="nx">tiver</span><span class="w"> </span><span class="nx">contado</span><span class="w"> </span><span class="nx">algo</span>
 </code></pre></div>
-<ul>
-<li>Com structs</li>
-</ul>
+
+</details>
+<details> <summary>Usando structs</summary>
+
+Crie uma struct para armazenar o fator e a quantidade de vezes que ele aparece e uma função para retornar a lista de fatores.
+
 <div class="language-go highlight"><pre><span></span><code><span class="kd">type</span><span class="w"> </span><span class="nx">Fator</span><span class="w"> </span><span class="kd">struct</span><span class="w"> </span><span class="p">{</span>
 <span class="w">    </span><span class="nx">num</span><span class="w"> </span><span class="kt">int</span>
 <span class="w">    </span><span class="nx">qtd</span><span class="w"> </span><span class="kt">int</span>
@@ -113,20 +117,30 @@
 <span class="w">    </span><span class="o">...</span>
 <span class="p">}</span>
 </code></pre></div>
-<ul>
-<li>Com dicionários</li>
-</ul>
+
+</details>
+
+<details> <summary>Com dicionários</summary>
+
+Crie uma função que retorna um mapa onde a chave é o fator primo e o valor é a quantidade de vezes que ele aparece.
+
 <div class="language-go highlight"><pre><span></span><code><span class="nx">def</span><span class="w"> </span><span class="nx">calc_fatores</span><span class="p">(</span><span class="nx">num</span><span class="w"> </span><span class="kt">int</span><span class="p">)</span><span class="w"> </span><span class="kd">map</span><span class="p">[</span><span class="kt">int</span><span class="p">]</span><span class="kt">int</span><span class="w"> </span><span class="p">{</span>
 <span class="w">    </span><span class="o">...</span>
 <span class="p">}</span>
 </code></pre></div>
-<ul>
-<li>Com recursão</li>
-</ul>
+
+</details>
+<details> <summary>Com recursão</summary>
+
+Crie uma função recursiva que recebe o número e use recursão para ir decompondo esse número e alimentando um mapa para armazenar os fatores e suas quantidades.
+
 <div class="language-go highlight"><pre><span></span><code><span class="nx">def</span><span class="w"> </span><span class="nx">calc_fatores</span><span class="p">(</span><span class="nx">num</span><span class="w"> </span><span class="kt">int</span><span class="p">,</span><span class="w"> </span><span class="nx">resp</span><span class="w"> </span><span class="kd">map</span><span class="p">[</span><span class="kt">int</span><span class="p">]</span><span class="kt">int</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
 <span class="w">    </span><span class="o">...</span>
 <span class="p">}</span>
 </code></pre></div>
+
+</details>
+
 <h3>Entrada</h3>
 <ul>
 <li>Um número inteiro <strong>N</strong>.</li>

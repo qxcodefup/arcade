@@ -6,9 +6,11 @@
 
 Dado um número inteiro, o objetivo é encontrar seus fatores primos e a quantidade de vezes que cada fator aparece na sua fatoração e montar um vetor com os fatores.
 
-### Pontuação
+### Guia
 
-- Com repetição
+<details> <summary>Apenas com repetição</summary>
+
+Você pode seguir o seguinte algoritmo:
 
 ```go
 fator = 2
@@ -22,7 +24,10 @@ enquanto valor != 1
         imprima se tiver contado algo
 ```
 
-- Com structs
+</details>
+<details> <summary>Usando structs</summary>
+
+Crie uma struct para armazenar o fator e a quantidade de vezes que ele aparece e uma função para retornar a lista de fatores.
 
 ```go
 type Fator struct {
@@ -35,7 +40,11 @@ def calc_fatores(num int) []Fator {
 }
 ```
 
-- Com dicionários
+</details>
+
+<details> <summary>Com dicionários</summary>
+
+Crie uma função que retorna um mapa onde a chave é o fator primo e o valor é a quantidade de vezes que ele aparece.
 
 ```go
 def calc_fatores(num int) map[int]int {
@@ -43,13 +52,18 @@ def calc_fatores(num int) map[int]int {
 }
 ```
 
-- Com recursão
+</details>
+<details> <summary>Com recursão</summary>
+
+Crie uma função recursiva que recebe o número e use recursão para ir decompondo esse número e alimentando um mapa para armazenar os fatores e suas quantidades.
 
 ```go
 def calc_fatores(num int, resp map[int]int) {
     ...
 }
 ```
+
+</details>
 
 ### Entrada
 
