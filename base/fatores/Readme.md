@@ -22,6 +22,8 @@ enquanto valor != 1
         incremente o fator
         zere a contagem
         imprima se tiver contado algo
+        
+imprima se ainda houver contagem
 ```
 
 </details>
