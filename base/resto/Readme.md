@@ -4,7 +4,7 @@
 
 ## Contexto
 
-Na cadeira de Matemática Díscreta, o professor irá apresentar o teorema da
+Na cadeira de Matemática Discreta, o professor irá apresentar o teorema da
 divisão. Ele diz o seguinte:
 
 **Teorema (Algoritmo da Divisão):** Seja ***n*** um inteiro qualquer e ***d*** um inteiro
