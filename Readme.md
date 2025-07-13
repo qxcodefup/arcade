@@ -35,7 +35,7 @@ Significado das tags nas questões:
 - [ ] `@pintando *2 :leet`[Pintando a casa](base/pintando/Readme.md)
 - [ ] `@bala     +3 :leet`[Distância entre dois pontos](base/bala/Readme.md)
 
-### Missão: Seleção I<!-- +if_else:1 -->[](#missão-operações)
+### Missão: Seleção 1<!-- +if_else:1 -->[](#missão-operações)
 
 - [ ] `@abs        *1 :leet`[Valor absoluto](base/abs/Readme.md)
 - [ ] `@max        *1 :leet`[Maior de dois números](base/max/Readme.md)
@@ -51,7 +51,7 @@ Significado das tags nas questões:
 - [ ] `@meio       *3 :leet`[A raposa e os esquilos](base/meio/Readme.md)
 - [ ] `@jokenpo    *3 :leet`[Jokenpo das tartarugas](base/jokenpo/Readme.md)
 
-### Missão: Seleção II<!-- +if_else:1 -->[](#missão-seleção-i)
+### Missão: Seleção 2<!-- +if_else:1 -->[](#missão-seleção-1)
 
 - [ ] `@final      *3 :leet`[Será que eu passo?](base/final/Readme.md)
 - [ ] `@semana     *3 :leet`[Semana e sábado](base/semana/Readme.md)
@@ -66,7 +66,7 @@ Significado das tags nas questões:
 - [ ] `@game10     *3 :leet`[Game10 - OBI 2017 - Fase 1 - Universitário](base/game10/Readme.md)
 - [ ] `@salario    *3 :leet`[Calculando aumento](base/salario/Readme.md)
 
-### Missão: Repetição I<!-- +for:1 -->[](#missão-seleção-i)
+### Missão: Repetição 1<!-- +for:1 -->[](#missão-seleção-1)
 
 - [ ] `@loop_i     *1 :leet`[Treino de loop](base/loop_i/Readme.md)
 - [ ] `@loop_ii    *1 :leet`[Imprimindo em linha](base/loop_ii/Readme.md)
@@ -79,7 +79,7 @@ Significado das tags nas questões:
 - [ ] `@ceu        *2 :leet`[Ingrid quer chegar no céu](base/ceu/Readme.md)  
 - [ ] `@esconde    *2 :leet`[Diana no esconde-esconde](base/esconde/Readme.md)
 
-### Missão: Repetição II<!-- +for:1 -->[](#missão-repetição-i)
+### Missão: Repetição 2<!-- +for:1 -->[](#missão-repetição-1)
 
 - [ ] `@zigzag     *2 :leet`[Viunei e a saúde mental](base/zigzag/Readme.md)
 - [ ] `@colorido   *2 :leet`[Paulo Victor e seu sapato colorido](base/colorido/Readme.md)
@@ -90,7 +90,7 @@ Significado das tags nas questões:
 - [ ] `@sapinho    *3 :leet`[Sapinho no Poço](base/sapinho/Readme.md)
 - [ ] `@fatores    *3 :leet`[Fatoração de um número](base/fatores/Readme.md)
 
-### Missão: Vetores I<!-- +list:1 -->[](#missão-repetição-i)
+### Missão: Vetores 1<!-- +list:1 -->[](#missão-repetição-1)
 
 - [ ] `@vet_i      *1 :leet`[Carregando vetor em várias linhas](base/vet_i/Readme.md)
 - [ ] `@vet_ii     *1 :leet`[Carregando vetor na mesma linha](base/vet_ii/Readme.md)
@@ -101,7 +101,7 @@ Significado das tags nas questões:
 - [ ] `@dindin     *2 :leet`[Clenda adora chocolate](base/dindin/Readme.md)
 - [ ] `@repetidos  *2 :leet`[Contar repetidos](base/repetidos/Readme.md)
 
-### Missão: Vetores II<!-- +list:1 -->[](#missão-vetores-i)
+### Missão: Vetores 2<!-- +list:1 -->[](#missão-vetores-1)
 
 - [ ] `@revolta    *3 :leet`[Revolta em Portugal](base/revolta/Readme.md)
 - [ ] `@cartas     *3 :leet`[Transformando números em letras](base/cartas/Readme.md)
@@ -114,7 +114,7 @@ Significado das tags nas questões:
 - [ ] `@parkour    *4 :leet`[Analisando vetores](base/parkour/Readme.md)
 - [ ] `@medico     *4 :leet`[Busca por proximidade](base/medico/Readme.md)
 
-### Missão: Vetores III<!-- +list:1 -->[](#missão-vetores-ii)
+### Missão: Vetores 3<!-- +list:1 -->[](#missão-vetores-2)
 
 - [ ] `@batraquios  *04 :leet`[Está contido](base/batraquios/Readme.md)
 - [ ] `@baruel      *06 :leet`[Figurinhas repetidas](base/baruel/Readme.md)
@@ -125,7 +125,7 @@ Significado das tags nas questões:
 - [ ] `@manipulacao *12 :leet`[Estressados 3](https://github.com/qxcodepoo/arcade/blob/master/base/manipulacao/Readme.md)
 - [ ] `@especiais   +15 :leet`[Estressados 4](https://github.com/qxcodepoo/arcade/blob/master/base/especiais/Readme.md)
 
-### Missão: Strings<!-- +string:1 -->[](#missão-vetores-i)
+### Missão: Strings 1<!-- +string:1 -->[](#missão-vetores-1)
 
 - [ ] `@xuxa        *2 :leet`[Inverter String](base/xuxa/Readme.md)
 - [ ] `@inverte     *2 :leet`[Inverter Case de char](base/inverte/Readme.md)
@@ -139,7 +139,7 @@ Significado das tags nas questões:
 - [ ] `@gamados     *4 :leet`[Verificar ordenação da frase](base/gamados/Readme.md)
 - [ ] `@mario       *4 :leet`[Mário e o Assassins Creed](base/mario/Readme.md)
 
-### Missão: Strings II<!-- +string:1 -->[](#missão-strings)
+### Missão: Strings 2<!-- +string:1 -->[](#missão-strings-1)
 
 - [ ] `@valentina     *3 :leet`[Valentina e Valdiskley](base/valentina/Readme.md)
 - [ ] `@vcvcvc        *3 :leet`[Vogais e Consoantes - Substituindo](base/vcvcvc/Readme.md)
@@ -155,7 +155,7 @@ Significado das tags nas questões:
 - [ ] `@datilografar  *4 :leet`[Máquina Quebrada](base/datilografar/Readme.md)
 - [ ] `@bubula        *4 :leet`[Nao se bula - Gagueira V2](base/bubula/Readme.md)
 
-### Missão: Matrizes<!-- +mat:2 -->[](#missão-vetores-i)
+### Missão: Matrizes<!-- +mat:2 -->[](#missão-vetores-1)
 
 - [ ] `@bingo         *3 :leet`[Contando ocorrência na cartela](base/bingo/Readme.md)
 - [ ] `@imperador     *3 :leet`[Deu a louca no imperador](base/imperador/Readme.md)
@@ -165,7 +165,7 @@ Significado das tags nas questões:
 - [ ] `@soldados      *3 :leet`[Soldados em Posição](base/soldados/Readme.md)
 - [ ] `@torre         *4 :leet`[Torre - OBI 2015 - Fase 2 - Nível 1](base/torre/Readme.md)
 
-### Missão: Structs<!-- +struct:4 -->[](#missão-vetores-i)
+### Missão: Structs<!-- +struct:4 -->[](#missão-vetores-1)
 
 - [ ] `@fatores_type  +3 :leet`[Fatoração de um número](base/fatores/Readme.md)
 - [ ] `@pedra_type    *4 :leet`[Pedra na lua](base/pedra/Readme.md)
@@ -174,7 +174,7 @@ Significado das tags nas questões:
 - [ ] `@estudante     *4 :leet`[Melhor estudante](base/estudante/Readme.md)
 - [ ] `@idosa         +4 :leet`[Mulher mais idosa](base/idosa/Readme.md)
 
-### Missão: Dicionários <!-- +dict:3 -->[](#missão-vetores-i)
+### Missão: Dicionários<!-- +dict:3 -->[](#missão-vetores-1)
 
 - [ ] `@tazos_dict      *6 :leet`[Qual o mais repetido](base/tazos/Readme.md)
 - [ ] `@casais_dict     *4 :leet`[Quantos casais na arca](base/casais/Readme.md)
@@ -182,12 +182,11 @@ Significado das tags nas questões:
 - [ ] `@sopa_dict       *4 :open`[Sopa de coelho](base/sopa/Readme.md)
 - [ ] `@fatores_dict    +3 :leet`[Fatoração de um número](base/fatores/Readme.md)
 
-### Missão: Recursão <!-- +rec:3 -->[](#missão-vetores-i)
+### Missão: Recursão<!-- +rec:2 -->[](#missão-vetores-1)
 
 - [ ] `@primo_rec   *3 :leet`[Calculando se é](base/primo/Readme.md)
 - [ ] `@sopa_rec    *4 :open`[Sopa de coelho](base/sopa/Readme.md)
 - [ ] `@spok_rec    *3 :leet`[Número palíndromo](base/spok/Readme.md)
-- [ ] `@fatores_rec +1 :leet`[Fatoração de um número](base/fatores/Readme.md)
 
 ## Repositório de Problemas
 
@@ -199,7 +198,7 @@ Significado das tags nas questões:
 - [ ] `@opala       +3 :leet`[Opala bebedor](base/opala/Readme.md)
 - [ ] `@tv          +3 :leet`[Comprando tv parcelada](base/tv/Readme.md)
 
-### Problemas: Seleção<!-- +if_else:1 -->[](#missão-seleção-ii)
+### Problemas: Seleção<!-- +if_else:1 -->[](#missão-seleção-2)
 
 - [ ] `@impedido    +2 :leet`[Calculando impedimento](base/impedido/Readme.md)
 - [ ] `@maximo      +1 :leet`[Valor máximo entre dois números](base/maximo/Readme.md)
@@ -225,7 +224,7 @@ Significado das tags nas questões:
 - [ ] `@adedonha    +3 :leet`[Pensando letras como números](base/adedonha/Readme.md)
 - [ ] `@sono        +4 :leet`[Quanto tempo ainda tenho](base/sono/Readme.md)
 
-### Problemas: Repetição<!-- +for:1 -->[](#missão-repetição-ii)
+### Problemas: Repetição<!-- +for:1 -->[](#missão-repetição-2)
 
 - [ ] `@poco        +4 :leet`[Sapinho 2 morrendo no poço](base/poco/Readme.md)
 - [ ] `@afogado     +4 :leet`[Sapinho 3 matemático não quer morrer afogado](base/afogado/Readme.md)
@@ -236,7 +235,7 @@ Significado das tags nas questões:
 - [ ] `@spok        +3 :leet`[Número palíndromo](base/spok/Readme.md)
 - [ ] `@digitos     +4 :leet`[Fazendo contagem](base/digitos/Readme.md)
 
-### Problemas: Vetores I<!-- +list:1 -->[](#missão-vetores-ii)
+### Problemas: Vetores 1<!-- +list:1 -->[](#missão-vetores-1)
 
 - [ ] `@casamento   +2 :leet`[Maior e menor](base/casamento/Readme.md)
 - [ ] `@intervalada +3 :leet`[Busca intervalada](base/intervalada/Readme.md)
@@ -259,7 +258,7 @@ Significado das tags nas questões:
 - [ ] `@mediana     +3 :leet`[Calculando a mediana](base/mediana/Readme.md)
 - [ ] `@indices     +3 :leet`[Para onde foi cada valor](base/indices/Readme.md)
 
-### Problemas: Vetores II<!-- +list:1 -->[](#missão-vetores-ii)
+### Problemas: Vetores 2<!-- +list:1 -->[](#missão-vetores-2)
 
 - [ ] `@trilhas     +4 :leet`[Trilhas OBI 2005](base/trilhas/Readme.md)
 - [ ] `@avesso2     +4 :leet`[Jogo do avesso 2](base/avesso2/Readme.md)
@@ -273,7 +272,7 @@ Significado das tags nas questões:
 - [ ] `@senhas      +4 :leet`[Algoritmo de força bruta](base/senhas/Readme.md)
 - [ ] `@palindromo  +6 :leet`[Qual o maior](base/palindromo/Readme.md)
 
-### Problemas: Strings I<!-- +string:1 -->[](#missão-strings)
+### Problemas: Strings 1<!-- +string:1 -->[](#missão-strings-1)
 
 - [ ] `@ascologia   +2 :leet`[Eribelton e a ascologia V1 - Somar Asc](base/ascologia/Readme.md)
 - [ ] `@alcaparras  +2 :leet`[Contar Ocorrências](base/alcaparras/Readme.md)
@@ -287,7 +286,7 @@ Significado das tags nas questões:
 - [ ] `@numerao     +3 :leet`[Número divisível por 11](base/numerao/Readme.md)
 - [ ] `@numeros     +3 :leet`[Encontrando e somando](base/numeros/Readme.md)
 
-### Problemas: Strings II<!-- +string:1 -->[](#missão-strings)
+### Problemas: Strings 2<!-- +string:1 -->[](#missão-strings-1)
 
 - [ ] `@muquirana     +4  :leet`[Busca máximo por critério](base/muquirana/Readme.md)
 - [ ] `@rocicleia     +4  :leet`[Rocicleia o Locioreca - Anagramas](base/rocicleia/Readme.md)
@@ -312,9 +311,10 @@ Significado das tags nas questões:
 - [ ] `@codigo       +4 :leet`[Código - OBI 2015 - Fase 2 - Nível Júnior](base/codigo/Readme.md)
 - [ ] `@tetris       +4 :leet`[Fazendo a peça do tetris cair](base/tetris/Readme.md)
 
-### Problemas: Recursão<!-- +rec:1 -->[](#problemas-vetores-i)
+### Problemas: Recursão<!-- +rec:1 -->[](#problemas-vetores-1)
 
-- [ ] `@hanoi   +4 :leet` [Torres de Hanoi](base/hanoi/Readme.md)
+- [ ] `@hanoi       +4 :leet` [Torres de Hanoi](base/hanoi/Readme.md)
+- [ ] `@fatores_rec +2 :leet`[Fatoração de um número](base/fatores/Readme.md)
 
 ## Projetos<!-- main -->
 
