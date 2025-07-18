@@ -267,7 +267,6 @@ Significado das tags nas questões:
 - [ ] `@botas       +4 :leet`[Botas trocadas - OBI 2017](base/botas/Readme.md)
 - [ ] `@cofre       +4 :leet`[O segredo do cofre - OBI 2017](base/cofre/Readme.md)
 - [ ] `@nervoso     +4 :leet`[Chefe nervoso - OBI 2021](base/nervoso/Readme.md)
-- [ ] `@eh_perm     +4 :leet`[É permutação](base/eh_perm/Readme.md)
 - [ ] `@senhas      +4 :leet`[Algoritmo de força bruta](base/senhas/Readme.md)
 - [ ] `@palindromo  +6 :leet`[Qual o maior](base/palindromo/Readme.md)
 
