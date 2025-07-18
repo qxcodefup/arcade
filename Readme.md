@@ -232,7 +232,6 @@ Significado das tags nas questões:
 - [ ] `@copos       +4 :leet`[Quebrador de copos](base/copos/Readme.md)
 - [ ] `@primo       +3 :leet`[Calculando se é](base/primo/Readme.md)
 - [ ] `@sopa        +4 :leet`[Sopa de coelho](base/sopa/Readme.md)
-- [ ] `@spok        +3 :leet`[Número palíndromo](base/spok/Readme.md)
 - [ ] `@digitos     +4 :leet`[Fazendo contagem](base/digitos/Readme.md)
 
 ### Problemas: Vetores 1<!-- +list:1 -->[](#missão-vetores-1)
