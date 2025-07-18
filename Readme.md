@@ -117,12 +117,12 @@ Significado das tags nas questões:
 ### Missão: Vetores 3<!-- +list:1 -->[](#missão-vetores-2)
 
 - [ ] `@batraquios  *04 :leet`[Está contido](base/batraquios/Readme.md)
-- [ ] `@baruel      *06 :leet`[Figurinhas repetidas](base/baruel/Readme.md)
-- [ ] `@tazos       *06 :leet`[Qual o mais repetido](base/tazos/Readme.md)
-- [ ] `@josephus    *10 :leet`[Cabeças vão rolar](base/josephus/Readme.md)
-- [ ] `@busca       *08 :leet`[Estressados 1](https://github.com/qxcodepoo/arcade/blob/master/base/busca/Readme.md)
-- [ ] `@contagem    *10 :leet`[Estressados 2](https://github.com/qxcodepoo/arcade/blob/master/base/contagem/Readme.md)
-- [ ] `@manipulacao *12 :leet`[Estressados 3](https://github.com/qxcodepoo/arcade/blob/master/base/manipulacao/Readme.md)
+- [ ] `@baruel      *04 :leet`[Figurinhas repetidas](base/baruel/Readme.md)
+- [ ] `@tazos       *04 :leet`[Qual o mais repetido](base/tazos/Readme.md)
+- [ ] `@josephus    *06 :leet`[Cabeças vão rolar](base/josephus/Readme.md)
+- [ ] `@busca       *06 :leet`[Estressados 1](https://github.com/qxcodepoo/arcade/blob/master/base/busca/Readme.md)
+- [ ] `@contagem    +10 :leet`[Estressados 2](https://github.com/qxcodepoo/arcade/blob/master/base/contagem/Readme.md)
+- [ ] `@manipulacao +12 :leet`[Estressados 3](https://github.com/qxcodepoo/arcade/blob/master/base/manipulacao/Readme.md)
 - [ ] `@especiais   +15 :leet`[Estressados 4](https://github.com/qxcodepoo/arcade/blob/master/base/especiais/Readme.md)
 
 ### Missão: Strings 1<!-- +string:1 -->[](#missão-vetores-1)
