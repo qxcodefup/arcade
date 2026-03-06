@@ -1,0 +1,50 @@
+[[tests]]
+input = '''
+55 30 2 974 79 23
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+2 7 88 31 19 40
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+47 20 23 27 9 1
+'''
+output = '''
+6
+'''
+
+[[tests]]
+label = '01'
+input = '''
+55 30 2 74 79 23
+'''
+output = '''
+3
+'''
+
+[[tests]]
+label = '04'
+input = '''
+1 7 5 3 4 8
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = '05'
+input = '''
+21 48 9 12 7 1
+'''
+output = '''
+2
+'''

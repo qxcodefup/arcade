@@ -1,0 +1,119 @@
+[[tests]]
+input = '''
+0
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+360
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+361
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+722
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+-2
+'''
+output = '''
+358
+'''
+
+[[tests]]
+input = '''
+-350
+'''
+output = '''
+10
+'''
+
+[[tests]]
+label = '07'
+input = '''
+-1
+'''
+output = '''
+359
+'''
+
+[[tests]]
+label = '08'
+input = '''
+362
+'''
+output = '''
+2
+'''
+
+[[tests]]
+label = '09'
+input = '''
+-360
+'''
+output = '''
+0
+'''
+
+[[tests]]
+label = '10'
+input = '''
+-361
+'''
+output = '''
+359
+'''
+
+[[tests]]
+label = '11'
+input = '''
+750
+'''
+output = '''
+30
+'''
+
+[[tests]]
+label = '12'
+input = '''
+-730
+'''
+output = '''
+350
+'''
+
+[[tests]]
+label = '13'
+input = '''
+1000
+'''
+output = '''
+280
+'''
+
+[[tests]]
+label = '14'
+input = '''
+-1300
+'''
+output = '''
+140
+'''

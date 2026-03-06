@@ -1,0 +1,52 @@
+[[tests]]
+input = '''
+3
+'''
+output = '''
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+'''
+
+[[tests]]
+label = '02'
+input = '''
+5
+'''
+output = '''
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+A -> B
+C -> B
+C -> A
+B -> A
+C -> B
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+B -> A
+C -> B
+C -> A
+B -> A
+B -> C
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+'''

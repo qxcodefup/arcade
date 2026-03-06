@@ -1,0 +1,23 @@
+[[tests]]
+input = '''
+ra on odnalor at acopip ed oriehc o
+'''
+output = '''
+o cheiro de pipoca ta rolando no ar
+'''
+
+[[tests]]
+input = '''
+rahnos zaf em euq latsirc ed aul
+'''
+output = '''
+lua de cristal que me faz sonhar
+'''
+
+[[tests]]
+input = '''
+oacaroc ues on x mu ieuqram
+'''
+output = '''
+marquei um x no seu coracao
+'''

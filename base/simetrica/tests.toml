@@ -1,0 +1,62 @@
+[[tests]]
+input = '''
+1 4 7
+4 1 8
+7 8 1
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+3 3 3
+3 3 3
+3 3 3
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+1 2 3
+4 5 6
+7 8 9
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+label = '04'
+input = '''
+2 7 6
+9 5 1
+4 3 8
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+label = '05'
+input = '''
+8 1 6
+3 5 7
+4 9 2
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+label = '06'
+input = '''
+1 4 7
+4 1 8
+7 9 1
+'''
+output = '''
+nao
+'''

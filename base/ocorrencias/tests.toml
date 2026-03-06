@@ -1,0 +1,38 @@
+[[tests]]
+input = '''
+fundamentos de programacao
+a
+'''
+output = '''
+4
+'''
+
+[[tests]]
+label = '02'
+input = '''
+o rato roeu a roupa do rei de roma
+a
+'''
+output = '''
+4
+'''
+
+[[tests]]
+label = '03'
+input = '''
+o rato roeu a roupa do rei de roma
+x
+'''
+output = '''
+0
+'''
+
+[[tests]]
+label = '04'
+input = '''
+o rato roeu a roupa do rei de roma
+o
+'''
+output = '''
+6
+'''

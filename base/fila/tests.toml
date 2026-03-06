@@ -1,0 +1,108 @@
+[[tests]]
+input = '''
+2
+4 2
+'''
+output = '''
+[ ]
+[ 4 2 ]
+'''
+
+[[tests]]
+input = '''
+4
+2 6 4 1
+'''
+output = '''
+[ 1 ]
+[ 2 6 4 ]
+'''
+
+[[tests]]
+input = '''
+6
+1 2 5 3 4 9
+'''
+output = '''
+[ 1 5 3 9 ]
+[ 2 4 ]
+'''
+
+[[tests]]
+label = '04 vazio'
+input = '''
+0
+'''
+output = '''
+[ ]
+[ ]
+'''
+grade_reduction = "10"
+
+[[tests]]
+label = '05 um_par'
+input = '''
+1
+4
+'''
+output = '''
+[ ]
+[ 4 ]
+'''
+grade_reduction = "20"
+
+[[tests]]
+label = '06 um_impar'
+input = '''
+1
+5
+'''
+output = '''
+[ 5 ]
+[ ]
+'''
+
+[[tests]]
+label = '07'
+input = '''
+2
+5 2
+'''
+output = '''
+[ 5 ]
+[ 2 ]
+'''
+grade_reduction = "50"
+
+[[tests]]
+label = '08'
+input = '''
+4
+1 5 4 3
+'''
+output = '''
+[ 1 5 3 ]
+[ 4 ]
+'''
+
+[[tests]]
+label = '09'
+input = '''
+6
+9 6 4 8 1 2
+'''
+output = '''
+[ 9 1 ]
+[ 6 4 8 2 ]
+'''
+
+[[tests]]
+label = '10 !%'
+input = '''
+7
+9 6 4 8 1 2 1
+'''
+output = '''
+[ 9 1 1 ]
+[ 6 4 8 2 ]
+'''

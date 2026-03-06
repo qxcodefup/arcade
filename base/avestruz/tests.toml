@@ -1,0 +1,36 @@
+[[tests]]
+input = '''
+A Andreia alimentou a avestruz com alcaparras
+a
+'''
+output = '''
+10
+'''
+
+[[tests]]
+input = '''
+A Andreia atirou alcachofras no LEAO
+e
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+A Andreia atirou alcachofras no leao
+x
+'''
+output = '''
+0
+'''
+
+[[tests]]
+label = '04 !%'
+input = '''
+A Xuxa xogou xapatos no xacare Xato e xujo
+x
+'''
+output = '''
+7
+'''

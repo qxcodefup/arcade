@@ -1,0 +1,29 @@
+[[tests]]
+input = '''
+a aba absorveu
+ab
+c
+'''
+output = '''
+a ca csorveu
+'''
+
+[[tests]]
+input = '''
+a almofada esta mofada e molhada
+mo
+bigode
+'''
+output = '''
+a albigodefada esta bigodefada e bigodelhada
+'''
+
+[[tests]]
+input = '''
+a bd abda
+bd
+abc
+'''
+output = '''
+a abc aabca
+'''

@@ -1,0 +1,39 @@
+[[tests]]
+label = '01'
+input = '''
+A Andreia alimentou a avestruz com alcaparras
+a
+'''
+output = '''
+8
+'''
+
+[[tests]]
+label = '02'
+input = '''
+A Andreia alimentou a avestruz com alcaparras
+A
+'''
+output = '''
+2
+'''
+
+[[tests]]
+label = '03'
+input = '''
+A Andreia atirou alcachofras no leao
+e
+'''
+output = '''
+2
+'''
+
+[[tests]]
+label = '04'
+input = '''
+A Andreia atirou alcachofras no leao
+x
+'''
+output = '''
+0
+'''

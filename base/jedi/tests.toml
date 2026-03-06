@@ -1,0 +1,71 @@
+[[tests]]
+input = '''
+2
+1
+1
+'''
+output = '''
+Empate
+'''
+
+[[tests]]
+input = '''
+2
+2
+1
+'''
+output = '''
+Jedi
+'''
+
+[[tests]]
+input = '''
+2
+2
+4
+'''
+output = '''
+Sith
+'''
+
+[[tests]]
+input = '''
+4
+2
+4
+5
+3
+'''
+output = '''
+Sith
+'''
+
+[[tests]]
+input = '''
+6
+2
+4
+3
+3
+3
+3
+'''
+output = '''
+Empate
+'''
+
+[[tests]]
+input = '''
+8
+2
+4
+3
+4
+3
+3
+3
+2
+'''
+output = '''
+Jedi
+'''

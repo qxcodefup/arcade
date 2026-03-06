@@ -1,0 +1,80 @@
+[[tests]]
+label = '01'
+input = '''
+1
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = '02'
+input = '''
+2
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = '03'
+input = '''
+3
+'''
+output = '''
+2
+'''
+
+[[tests]]
+label = '04'
+input = '''
+4
+'''
+output = '''
+3
+'''
+
+[[tests]]
+label = '05'
+input = '''
+5
+'''
+output = '''
+5
+'''
+
+[[tests]]
+label = '06'
+input = '''
+6
+'''
+output = '''
+8
+'''
+
+[[tests]]
+label = '07'
+input = '''
+7
+'''
+output = '''
+13
+'''
+
+[[tests]]
+label = '08'
+input = '''
+8
+'''
+output = '''
+21
+'''
+
+[[tests]]
+label = '09'
+input = '''
+9
+'''
+output = '''
+34
+'''

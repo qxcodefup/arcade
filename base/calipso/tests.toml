@@ -1,0 +1,44 @@
+[[tests]]
+input = '''
+1
+a batata
+'''
+output = '''
+a BaTaTa
+'''
+
+[[tests]]
+input = '''
+2
+AAAAAAAA
+bBbBbBbB
+'''
+output = '''
+AaAaAaAa
+bBbBbBbB
+'''
+
+[[tests]]
+input = '''
+2
+Morra Prea
+BigODE Aparado
+'''
+output = '''
+MoRrA pReA
+BiGoDe ApArAdO
+'''
+
+[[tests]]
+label = '04'
+input = '''
+3
+a Morra Prea
+g BigODE Aparado
+abcd ef
+'''
+output = '''
+a MoRrA pReA
+g BiGoDe ApArAdO
+aBcD eF
+'''

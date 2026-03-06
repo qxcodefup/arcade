@@ -1,0 +1,109 @@
+[[tests]]
+label = '01'
+input = '''
+30 3
+35 15 22
+'''
+output = '''
+1
+0
+'''
+
+[[tests]]
+label = '02'
+input = '''
+30 3
+35 32 40
+'''
+output = '''
+nenhum
+2
+'''
+
+[[tests]]
+label = '03'
+input = '''
+30 3
+35 36 36
+'''
+output = '''
+nenhum
+2
+'''
+
+[[tests]]
+label = '04'
+input = '''
+30 3
+25 26 24
+'''
+output = '''
+2
+1
+'''
+
+[[tests]]
+label = '01'
+input = '''
+30 3
+-35 15 22
+'''
+output = '''
+1
+0
+'''
+
+[[tests]]
+label = '02'
+input = '''
+30 3
+-35 32 40
+'''
+output = '''
+nenhum
+2
+'''
+
+[[tests]]
+label = '03'
+input = '''
+30 3
+-35 -36 36
+'''
+output = '''
+nenhum
+2
+'''
+
+[[tests]]
+label = '04'
+input = '''
+30 3
+-25 -26 24
+'''
+output = '''
+2
+1
+'''
+
+[[tests]]
+label = '05'
+input = '''
+30 4
+-25 -26 24 1
+'''
+output = '''
+3
+1
+'''
+
+[[tests]]
+label = '06'
+input = '''
+30 6
+-25 -26 24 1 20 -2
+'''
+output = '''
+3
+1
+'''

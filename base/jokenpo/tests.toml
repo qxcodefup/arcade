@@ -1,0 +1,79 @@
+[[tests]]
+label = '01'
+input = '''
+R
+P
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+label = '02'
+input = '''
+P
+P
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+label = '03'
+input = '''
+S
+P
+'''
+output = '''
+jog1
+'''
+
+[[tests]]
+label = '04'
+input = '''
+S
+S
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+label = '05'
+input = '''
+R
+S
+'''
+output = '''
+jog1
+'''
+
+[[tests]]
+label = '06'
+input = '''
+S
+R
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+label = '07'
+input = '''
+R
+R
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+label = '08'
+input = '''
+P
+R
+'''
+output = '''
+jog1
+'''

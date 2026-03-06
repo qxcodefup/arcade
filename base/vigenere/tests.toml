@@ -1,0 +1,51 @@
+[[tests]]
+input = '''
+batata? sim! frita!!
+abac
++
+'''
+output = '''
+bbtctb? skm! grktb!!
+'''
+
+[[tests]]
+input = '''
+quando vi voce eu buguei
+princesa
++
+'''
+output = '''
+fliafs ni kfkr gy tuvlmv
+'''
+
+[[tests]]
+input = '''
+a data ua bbfrua
+ab
+-
+'''
+output = '''
+a casa ta aberta
+'''
+
+[[tests]]
+label = '04'
+input = '''
+o bobe!
+ab
++
+'''
+output = '''
+o coce!
+'''
+
+[[tests]]
+label = '05'
+input = '''
+o coce!
+ab
+-
+'''
+output = '''
+o bobe!
+'''

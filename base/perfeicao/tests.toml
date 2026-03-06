@@ -1,0 +1,58 @@
+[[tests]]
+input = '''
+Dhaquison
+'''
+output = '''
+Dhaquisonn
+'''
+
+[[tests]]
+input = '''
+Alfredo
+'''
+output = '''
+Alfredoc
+'''
+
+[[tests]]
+input = '''
+Maikou
+'''
+output = '''
+sem sorte
+'''
+
+[[tests]]
+input = '''
+Davidp
+'''
+output = '''
+Davidpd
+'''
+
+[[tests]]
+label = '05'
+input = '''
+Ana
+'''
+output = '''
+sem sorte
+'''
+
+[[tests]]
+label = '06'
+input = '''
+David
+'''
+output = '''
+Davidp
+'''
+
+[[tests]]
+label = '07'
+input = '''
+Ticiany
+'''
+output = '''
+sem sorte
+'''

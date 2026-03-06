@@ -1,0 +1,86 @@
+[[tests]]
+input = '''
+16
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+18
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+81
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+label = '04'
+input = '''
+0
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+label = '05'
+input = '''
+5
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+label = '06'
+input = '''
+1
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+label = '07'
+input = '''
+4
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+label = '08'
+input = '''
+35
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+label = '09'
+input = '''
+140
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+label = '10'
+input = '''
+6084
+'''
+output = '''
+sim
+'''

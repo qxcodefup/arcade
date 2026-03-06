@@ -1,0 +1,41 @@
+[[tests]]
+input = '''
+1
+aeb
+'''
+output = '''
+ae
+'''
+
+[[tests]]
+input = '''
+1
+aebeiocdu
+'''
+output = '''
+eio
+'''
+
+[[tests]]
+input = '''
+2
+abdeiuofaoi
+xaeioux
+'''
+output = '''
+eiuo
+aeiou
+'''
+
+[[tests]]
+input = '''
+3
+aebaibaobaub
+baeoxuoiazzz
+oxau
+'''
+output = '''
+ae
+uoia
+au
+'''

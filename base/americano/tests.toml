@@ -1,0 +1,92 @@
+[[tests]]
+input = '''
+0
+0
+0
+0
+'''
+output = '''
+nenhum
+'''
+
+[[tests]]
+input = '''
+0
+0
+2
+0
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+input = '''
+2
+2
+2
+2
+'''
+output = '''
+jog4
+'''
+
+[[tests]]
+label = '04'
+input = '''
+1
+0
+0
+0
+'''
+output = '''
+jog1
+'''
+
+[[tests]]
+label = '05'
+input = '''
+0
+3
+0
+0
+'''
+output = '''
+jog3
+'''
+
+[[tests]]
+label = '06'
+input = '''
+1
+1
+1
+1
+'''
+output = '''
+jog4
+'''
+
+[[tests]]
+label = '07'
+input = '''
+2
+1
+1
+1
+'''
+output = '''
+jog1
+'''
+
+[[tests]]
+label = '08'
+input = '''
+2
+10
+1
+1
+'''
+output = '''
+jog2
+'''

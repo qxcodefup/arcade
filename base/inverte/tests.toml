@@ -1,0 +1,67 @@
+[[tests]]
+input = '''
+a
+'''
+output = '''
+A
+'''
+
+[[tests]]
+input = '''
+B
+'''
+output = '''
+b
+'''
+
+[[tests]]
+input = '''
+5
+'''
+output = '''
+5
+'''
+
+[[tests]]
+input = '''
+!
+'''
+output = '''
+!
+'''
+
+[[tests]]
+label = '05'
+input = '''
+X
+'''
+output = '''
+x
+'''
+
+[[tests]]
+label = '06'
+input = '''
+c
+'''
+output = '''
+C
+'''
+
+[[tests]]
+label = '07'
+input = '''
+-
+'''
+output = '''
+-
+'''
+
+[[tests]]
+label = '08'
+input = '''
+@
+'''
+output = '''
+@
+'''

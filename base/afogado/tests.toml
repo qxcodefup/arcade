@@ -1,0 +1,55 @@
+[[tests]]
+input = '''
+10
+1
+'''
+output = '''
+10
+'''
+
+[[tests]]
+input = '''
+20
+1
+'''
+output = '''
+16
+'''
+
+[[tests]]
+input = '''
+200
+10
+'''
+output = '''
+67
+'''
+
+[[tests]]
+input = '''
+500
+30
+'''
+output = '''
+122
+'''
+
+[[tests]]
+label = '05'
+input = '''
+200
+1
+'''
+output = '''
+60
+'''
+
+[[tests]]
+label = '06'
+input = '''
+500
+100
+'''
+output = '''
+185
+'''

@@ -1,0 +1,35 @@
+[[tests]]
+input = '''
+O Pato e o frango ja tao cozidos, comam!
+M
+'''
+output = '''
+O PATO E O FRANGO JA TAO COZIDOS, COMAM!
+'''
+
+[[tests]]
+input = '''
+O Pato e o frango ja tao cozidos, comam!
+m
+'''
+output = '''
+o pato e o frango ja tao cozidos, comam!
+'''
+
+[[tests]]
+input = '''
+O Pato e o frango ja tao cozidos, comam!
+p
+'''
+output = '''
+o Pato e o Frango Ja Tao Cozidos, Comam!
+'''
+
+[[tests]]
+input = '''
+O Pato e o frango ja tao cozidos, comam!
+i
+'''
+output = '''
+o pATO E O FRANGO JA TAO COZIDOS, COMAM!
+'''

@@ -1,0 +1,87 @@
+[[tests]]
+input = '''
+mario
+4
+'''
+output = '''
+mario eh crianca
+'''
+
+[[tests]]
+input = '''
+jose
+65
+'''
+output = '''
+jose eh idoso
+'''
+
+[[tests]]
+label = '03'
+input = '''
+mario
+1
+'''
+output = '''
+mario eh crianca
+'''
+
+[[tests]]
+label = '04'
+input = '''
+mariana
+12
+'''
+output = '''
+mariana eh jovem
+'''
+
+[[tests]]
+label = '05'
+input = '''
+maria
+17
+'''
+output = '''
+maria eh jovem
+'''
+
+[[tests]]
+label = '06'
+input = '''
+marina
+18
+'''
+output = '''
+marina eh adulto
+'''
+
+[[tests]]
+label = '07'
+input = '''
+marion
+64
+'''
+output = '''
+marion eh adulto
+'''
+
+[[tests]]
+label = '08'
+input = '''
+marilene
+65
+'''
+output = '''
+marilene eh idoso
+'''
+
+[[tests]]
+label = '09'
+input = '''
+maridracula
+10000
+'''
+output = '''
+maridracula eh mumia
+'''

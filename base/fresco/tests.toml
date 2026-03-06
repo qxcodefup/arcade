@@ -1,0 +1,31 @@
+[[tests]]
+input = '''
+a porta amassou
+'''
+output = '''
+a portamassou
+'''
+
+[[tests]]
+input = '''
+carla almeida alencar
+'''
+output = '''
+carlalmeidalencar
+'''
+
+[[tests]]
+input = '''
+a carla a ama
+'''
+output = '''
+a carlama
+'''
+
+[[tests]]
+input = '''
+o orvalho ouviu uniformemente e eu uivei
+'''
+output = '''
+orvalhouviuniformementeuivei
+'''

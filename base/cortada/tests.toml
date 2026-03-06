@@ -1,0 +1,296 @@
+[[tests]]
+input = '''
+50
+86
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+70
+90
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+130
+138
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+3
+3
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+1
+1
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+54
+54
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+159
+159
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+17
+17
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+14
+14
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+101
+101
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+111
+111
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+79
+79
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+80
+80
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+99
+99
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+89
+89
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+75
+52
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+112
+124
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+157
+31
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+108
+4
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+67
+69
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+148
+75
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+50
+150
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+59
+101
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+113
+115
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+46
+61
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+16
+28
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+83
+16
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+151
+140
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+11
+56
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+139
+75
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+35
+76
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+1
+159
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+159
+1
+'''
+output = '''
+0
+'''

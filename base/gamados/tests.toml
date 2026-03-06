@@ -1,0 +1,58 @@
+[[tests]]
+input = '''
+a amora azul
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+o rato roeu a roupa
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+a b c d e f
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+a b c d a f
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+label = '05'
+input = '''
+ab a ba
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+label = '06'
+input = '''
+a amiga da minha vizinha zooume
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+label = '07'
+input = '''
+arrocha arregao
+'''
+output = '''
+nao
+'''

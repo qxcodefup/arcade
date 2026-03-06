@@ -1,0 +1,81 @@
+[[tests]]
+input = '''
+00
+00
+H
+8
+'''
+output = '''
+01 20
+'''
+
+[[tests]]
+input = '''
+00
+10
+A
+74
+'''
+output = '''
+11 50
+'''
+
+[[tests]]
+label = '03'
+input = '''
+00
+40
+A
+1
+'''
+output = '''
+00 30
+'''
+
+[[tests]]
+label = '04'
+input = '''
+00
+10
+A
+2
+'''
+output = '''
+11 50
+'''
+
+[[tests]]
+label = '05'
+input = '''
+07
+40
+A
+915
+'''
+output = '''
+11 10
+'''
+
+[[tests]]
+label = '06'
+input = '''
+05
+10
+H
+492
+'''
+output = '''
+03 10
+'''
+
+[[tests]]
+label = '07'
+input = '''
+09
+10
+H
+27
+'''
+output = '''
+01 40
+'''

@@ -1,0 +1,150 @@
+[[tests]]
+input = '''
+0
+0
+3
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+1
+0
+3
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+0
+1
+5
+'''
+output = '''
+0
+'''
+
+[[tests]]
+label = '04'
+input = '''
+0
+3
+2
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = '05'
+input = '''
+0
+0
+2
+'''
+output = '''
+0
+'''
+
+[[tests]]
+label = '06'
+input = '''
+1
+3
+3
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = '07'
+input = '''
+1
+0
+5
+'''
+output = '''
+0
+'''
+
+[[tests]]
+label = '08'
+input = '''
+0
+0
+4
+'''
+output = '''
+0
+'''
+
+[[tests]]
+label = '09'
+input = '''
+0
+3
+1
+'''
+output = '''
+0
+'''
+
+[[tests]]
+label = '10'
+input = '''
+0
+2
+4
+'''
+output = '''
+0
+'''
+
+[[tests]]
+label = '11'
+input = '''
+1
+0
+1
+'''
+output = '''
+0
+'''
+
+[[tests]]
+label = '12'
+input = '''
+0
+3
+4
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = '13'
+input = '''
+0
+1
+4
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = '14'
+input = '''
+0
+4
+5
+'''
+output = '''
+1
+'''

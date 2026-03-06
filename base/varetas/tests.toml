@@ -1,0 +1,999 @@
+[[tests]]
+input = '''
+4
+7
+18
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+16
+14
+16
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+7
+13
+10
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+2
+3
+8
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+11
+20
+4
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+7
+1
+7
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+13
+17
+12
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+9
+8
+10
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+3
+11
+3
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+4
+8
+16
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+10
+3
+3
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+19
+10
+8
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+14
+17
+12
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+3
+10
+14
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+2
+20
+5
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+18
+19
+5
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+16
+11
+14
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+7
+12
+1
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+17
+14
+3
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+11
+17
+2
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+6
+6
+5
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+8
+17
+6
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+7
+10
+14
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+18
+5
+16
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+3
+6
+15
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+8
+15
+5
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+4
+11
+8
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+9
+17
+19
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+9
+5
+4
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+12
+15
+20
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+13
+1
+17
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+9
+20
+13
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+7
+7
+15
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+20
+16
+11
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+15
+19
+8
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+2
+18
+3
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+18
+13
+13
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+17
+2
+1
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+7
+2
+6
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+10
+5
+20
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+1
+10
+12
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+18
+18
+12
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+2
+16
+10
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+8
+8
+17
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+18
+14
+7
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+6
+7
+4
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+20
+5
+9
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+12
+13
+10
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+4
+20
+11
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+9
+9
+16
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+1
+10
+17
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+4
+19
+6
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+7
+12
+2
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+16
+20
+9
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+5
+9
+2
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+11
+14
+1
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+15
+5
+5
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+15
+8
+17
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+4
+12
+8
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+6
+20
+17
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+13
+12
+18
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+9
+16
+8
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+15
+2
+19
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+16
+10
+18
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+16
+14
+19
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+9
+4
+12
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+9
+10
+17
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+5
+4
+4
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+14
+19
+7
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+1
+5
+19
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+9
+9
+10
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+18
+18
+17
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+5
+4
+11
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+4
+11
+20
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+13
+6
+5
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+11
+6
+20
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+15
+7
+10
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+3
+3
+5
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+18
+8
+16
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+5
+9
+12
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+3
+9
+20
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+4
+7
+9
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+1
+3
+12
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+11
+6
+2
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+2
+11
+19
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+6
+1
+17
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+5
+7
+3
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+6
+9
+17
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+3
+19
+5
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+18
+3
+5
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+1
+17
+13
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+20
+20
+11
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+9
+12
+14
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+12
+2
+11
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+14
+15
+1
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+4
+20
+2
+'''
+output = '''
+False
+'''
+
+[[tests]]
+input = '''
+20
+17
+20
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+14
+14
+9
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+11
+16
+7
+'''
+output = '''
+True
+'''
+
+[[tests]]
+input = '''
+7
+5
+1
+'''
+output = '''
+False
+'''

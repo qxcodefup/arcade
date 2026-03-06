@@ -1,0 +1,239 @@
+[[tests]]
+input = '''
+52
+14
+18
+'''
+output = '''
+20
+'''
+
+[[tests]]
+input = '''
+47
+21
+9
+'''
+output = '''
+21
+'''
+
+[[tests]]
+input = '''
+109
+20
+30
+'''
+output = '''
+59
+'''
+
+[[tests]]
+input = '''
+69
+3
+18
+'''
+output = '''
+48
+'''
+
+[[tests]]
+input = '''
+60
+16
+17
+'''
+output = '''
+27
+'''
+
+[[tests]]
+input = '''
+84
+4
+30
+'''
+output = '''
+50
+'''
+
+[[tests]]
+input = '''
+63
+2
+6
+'''
+output = '''
+55
+'''
+
+[[tests]]
+input = '''
+87
+13
+14
+'''
+output = '''
+60
+'''
+
+[[tests]]
+input = '''
+83
+30
+18
+'''
+output = '''
+35
+'''
+
+[[tests]]
+input = '''
+73
+20
+40
+'''
+output = '''
+40
+'''
+
+[[tests]]
+input = '''
+110
+31
+21
+'''
+output = '''
+58
+'''
+
+[[tests]]
+input = '''
+85
+11
+10
+'''
+output = '''
+64
+'''
+
+[[tests]]
+input = '''
+74
+4
+12
+'''
+output = '''
+58
+'''
+
+[[tests]]
+input = '''
+42
+9
+21
+'''
+output = '''
+21
+'''
+
+[[tests]]
+input = '''
+103
+50
+40
+'''
+output = '''
+50
+'''
+
+[[tests]]
+input = '''
+89
+2
+75
+'''
+output = '''
+75
+'''
+
+[[tests]]
+input = '''
+76
+15
+21
+'''
+output = '''
+40
+'''
+
+[[tests]]
+input = '''
+100
+14
+25
+'''
+output = '''
+61
+'''
+
+[[tests]]
+input = '''
+87
+36
+28
+'''
+output = '''
+36
+'''
+
+[[tests]]
+input = '''
+78
+10
+51
+'''
+output = '''
+51
+'''
+
+[[tests]]
+input = '''
+96
+42
+25
+'''
+output = '''
+42
+'''
+
+[[tests]]
+input = '''
+91
+27
+8
+'''
+output = '''
+56
+'''
+
+[[tests]]
+input = '''
+41
+25
+6
+'''
+output = '''
+25
+'''
+
+[[tests]]
+input = '''
+47
+19
+7
+'''
+output = '''
+21
+'''

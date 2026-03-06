@@ -1,0 +1,83 @@
+[[tests]]
+label = 'Test 1'
+input = '''
+2
+4
+2000
+1
+4
+2000
+'''
+output = '''
+Mais recente
+'''
+
+[[tests]]
+label = 'Test 2'
+input = '''
+2
+3
+1999
+1
+4
+2000
+'''
+output = '''
+Mais antiga
+'''
+
+[[tests]]
+label = 'Test 3'
+input = '''
+1
+4
+2000
+2
+4
+2000
+'''
+output = '''
+Mais antiga
+'''
+
+[[tests]]
+label = 'Test 4'
+input = '''
+1
+4
+2000
+2
+4
+2001
+'''
+output = '''
+Mais antiga
+'''
+
+[[tests]]
+label = 'Test 5'
+input = '''
+1
+5
+2000
+2
+4
+2000
+'''
+output = '''
+Mais recente
+'''
+
+[[tests]]
+label = 'Test 6'
+input = '''
+1
+5
+2000
+1
+5
+2000
+'''
+output = '''
+Iguais
+'''

@@ -1,0 +1,69 @@
+[[tests]]
+label = '01'
+input = '''
+David
+'''
+output = '''
+38
+'''
+
+[[tests]]
+label = '02'
+input = '''
+Scya
+'''
+output = '''
+0
+'''
+
+[[tests]]
+label = '03'
+input = '''
+Ana
+'''
+output = '''
+22
+'''
+
+[[tests]]
+label = '04'
+input = '''
+BruNa
+'''
+output = '''
+22
+'''
+
+[[tests]]
+label = '05'
+input = '''
+Marcos
+'''
+output = '''
+13
+'''
+
+[[tests]]
+label = '06'
+input = '''
+andre
+'''
+output = '''
+22
+'''
+
+[[tests]]
+input = '''
+CumpadreWashington
+'''
+output = '''
+25
+'''
+
+[[tests]]
+input = '''
+Fernando
+'''
+output = '''
+13
+'''

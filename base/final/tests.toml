@@ -1,0 +1,50 @@
+[[tests]]
+input = '''
+8
+8
+9
+'''
+output = '''
+aprovado
+'''
+
+[[tests]]
+input = '''
+8
+2
+9
+'''
+output = '''
+aprovado na final
+'''
+
+[[tests]]
+input = '''
+4
+2
+9
+'''
+output = '''
+reprovado
+'''
+
+[[tests]]
+input = '''
+4
+8
+3
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+label = '05'
+input = '''
+4
+8
+3.99
+'''
+output = '''
+reprovado na final
+'''

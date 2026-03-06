@@ -1,0 +1,43 @@
+[[tests]]
+input = '''
+100  
+20  
+100  
+1
+'''
+output = '''
+Personagem 1
+'''
+
+[[tests]]
+input = '''
+100
+20
+100
+1
+'''
+output = '''
+Personagem 1
+'''
+
+[[tests]]
+input = '''
+100
+20
+1000
+10
+'''
+output = '''
+Personagem 2
+'''
+
+[[tests]]
+input = '''
+100
+100
+1000
+10
+'''
+output = '''
+Empate
+'''

@@ -1,0 +1,48 @@
+[[tests]]
+input = '''
+5
+0
+3
+2
+4
+1
+'''
+output = '''
+vazio
+ainda cabe
+lotado
+lotado
+hora de partir
+'''
+
+[[tests]]
+input = '''
+10
+10
+-10
+30
+'''
+output = '''
+lotado
+vazio
+hora de partir
+'''
+
+[[tests]]
+input = '''
+3
+1
+1
+1
+-3
+3
+3
+'''
+output = '''
+ainda cabe
+ainda cabe
+lotado
+vazio
+lotado
+hora de partir
+'''

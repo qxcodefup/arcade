@@ -1,0 +1,89 @@
+[[tests]]
+input = '''
+1  
+1.0  
+1.0  
+M  
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+2  
+1.0 2.0  
+1.0 2.1  
+m m  
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+input = '''
+2
+1.0 2.0
+1.0 2.1
+m M
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+2
+1.0 2.0
+1.1 2.1
+m M
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+input = '''
+3
+1.0 2.0 4.0
+1.1 2.1 4.0
+m M m
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+3
+1.0 2.0 4.02
+1.1 2.1 4.1
+M m m
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+label = '07'
+input = '''
+1
+1.0
+1.0
+M
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+label = '08'
+input = '''
+2
+1.0 2.0
+1.0 2.1
+m m
+'''
+output = '''
+empate
+'''

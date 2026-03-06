@@ -1,0 +1,31 @@
+[[tests]]
+input = '''
+sorvete suor casaca chicletes pegasus
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+minhoca quixe tempero musica roubo
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+acaro cocegas cagado aquecido
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+aaabbcc bbac bbbaacc ccbddbabda basdbdc
+'''
+output = '''
+3
+'''

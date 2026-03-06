@@ -1,0 +1,35 @@
+[[tests]]
+input = '''
+um abraco amigo
+'''
+output = '''
+uaaoaio
+mbrcmg
+'''
+
+[[tests]]
+input = '''
+meteoro de pegasus
+'''
+output = '''
+eeooeeau
+mtrdpgss
+'''
+
+[[tests]]
+input = '''
+hora de morfar
+'''
+output = '''
+oaeoa
+hrdmrfr
+'''
+
+[[tests]]
+input = '''
+thunder thunder thunder cats owwww
+'''
+output = '''
+ueueueao
+thndrthndrthndrctswwww
+'''

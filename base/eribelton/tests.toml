@@ -1,0 +1,49 @@
+[[tests]]
+input = '''
+e
+'''
+output = '''
+1
+ec
+0
+'''
+
+[[tests]]
+input = '''
+d
+'''
+output = '''
+0
+d
+0
+'''
+
+[[tests]]
+input = '''
+Aga
+'''
+output = '''
+15
+Agaa
+12
+'''
+
+[[tests]]
+input = '''
+Rufus
+'''
+output = '''
+33
+Rufusu
+0
+'''
+
+[[tests]]
+input = '''
+Ariates
+'''
+output = '''
+13
+Ariatesa
+10
+'''

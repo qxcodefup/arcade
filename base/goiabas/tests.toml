@@ -1,0 +1,95 @@
+[[tests]]
+label = 'conta exata'
+input = '''
+3
+1
+1
+1
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = 'sobrando duas'
+input = '''
+10
+4
+4
+4
+'''
+output = '''
+2
+'''
+
+[[tests]]
+label = 'sobrando uma'
+input = '''
+2
+4
+2
+3
+'''
+output = '''
+5
+'''
+
+[[tests]]
+label = '04'
+input = '''
+4
+1
+2
+0
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = '05'
+input = '''
+20
+80
+20
+30
+'''
+output = '''
+7
+'''
+
+[[tests]]
+label = '06'
+input = '''
+100
+5
+66
+27
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = '07'
+input = '''
+7
+20
+13
+16
+'''
+output = '''
+7
+'''
+
+[[tests]]
+label = '08'
+input = '''
+2
+15
+13
+19
+'''
+output = '''
+24
+'''

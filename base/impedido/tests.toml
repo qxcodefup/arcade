@@ -1,0 +1,73 @@
+[[tests]]
+input = '''
+35
+60
+75
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+55
+68
+67
+'''
+output = '''
+S
+'''
+
+[[tests]]
+input = '''
+66
+80
+80
+'''
+output = '''
+N
+'''
+
+[[tests]]
+label = '04'
+input = '''
+33
+40
+20
+'''
+output = '''
+N
+'''
+
+[[tests]]
+label = '05'
+input = '''
+80
+80
+40
+'''
+output = '''
+N
+'''
+
+[[tests]]
+label = '06'
+input = '''
+40
+40
+30
+'''
+output = '''
+N
+'''
+
+[[tests]]
+label = '07'
+input = '''
+71
+47
+15
+'''
+output = '''
+N
+'''

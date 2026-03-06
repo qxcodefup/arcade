@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+12345
+'''
+output = '''
+1 2 3 4 5
+'''
+
+[[tests]]
+input = '''
+2357
+'''
+output = '''
+2 3 5 7
+'''
+
+[[tests]]
+input = '''
+567
+'''
+output = '''
+5 6 7
+'''
+
+[[tests]]
+input = '''
+4937
+'''
+output = '''
+4 9 3 7
+'''
+
+[[tests]]
+input = '''
+953
+'''
+output = '''
+9 5 3
+'''

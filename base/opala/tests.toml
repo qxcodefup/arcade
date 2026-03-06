@@ -1,0 +1,43 @@
+[[tests]]
+label = 'corsa'
+input = '''
+100
+60
+10
+'''
+output = '''
+10.00
+'''
+
+[[tests]]
+label = 'fusca'
+input = '''
+60
+40
+10
+'''
+output = '''
+4.00
+'''
+
+[[tests]]
+label = '03 moto'
+input = '''
+65
+45
+2.5
+'''
+output = '''
+19.50
+'''
+
+[[tests]]
+label = '04 opala'
+input = '''
+120
+50
+20.4
+'''
+output = '''
+4.90
+'''

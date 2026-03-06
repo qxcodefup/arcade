@@ -1,0 +1,165 @@
+[[tests]]
+input = '''
+30
+8
+11
+56
+'''
+output = '''
+616
+'''
+
+[[tests]]
+input = '''
+12
+38
+5
+20
+'''
+output = '''
+456
+'''
+
+[[tests]]
+label = '03'
+input = '''
+9
+4
+9
+4
+'''
+output = '''
+36
+'''
+
+[[tests]]
+label = '04'
+input = '''
+9
+3
+2
+1
+'''
+output = '''
+27
+'''
+
+[[tests]]
+label = '05'
+input = '''
+10
+8
+8
+4
+'''
+output = '''
+80
+'''
+
+[[tests]]
+label = '06'
+input = '''
+14
+19
+17
+14
+'''
+output = '''
+266
+'''
+
+[[tests]]
+label = '07'
+input = '''
+18
+14
+20
+20
+'''
+output = '''
+400
+'''
+
+[[tests]]
+label = '08'
+input = '''
+16
+14
+13
+15
+'''
+output = '''
+224
+'''
+
+[[tests]]
+label = '09'
+input = '''
+71
+88
+60
+61
+'''
+output = '''
+6248
+'''
+
+[[tests]]
+label = '10'
+input = '''
+72
+60
+51
+79
+'''
+output = '''
+4320
+'''
+
+[[tests]]
+label = '11'
+input = '''
+66
+58
+95
+78
+'''
+output = '''
+7410
+'''
+
+[[tests]]
+label = '12'
+input = '''
+65
+92
+84
+33
+'''
+output = '''
+5980
+'''
+
+[[tests]]
+label = '13'
+input = '''
+91
+84
+76
+66
+'''
+output = '''
+7644
+'''
+
+[[tests]]
+label = '14'
+input = '''
+31
+57
+18
+87
+'''
+output = '''
+1767
+'''

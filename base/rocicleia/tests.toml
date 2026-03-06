@@ -1,0 +1,54 @@
+[[tests]]
+input = '''
+paralelepipedo
+pepidoelelapar
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+rocicleia
+licioreca
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+batata
+tabata
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+borboleta
+brobuleta
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+amor
+roam
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+label = '06'
+input = '''
+pegasus
+susgae
+'''
+output = '''
+nao
+'''

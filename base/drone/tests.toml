@@ -1,0 +1,87 @@
+[[tests]]
+input = '''
+30
+50
+80
+80
+60
+'''
+output = '''
+S
+'''
+
+[[tests]]
+input = '''
+75
+100
+50
+100
+30
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+20
+22
+5
+20
+10
+'''
+output = '''
+S
+'''
+
+[[tests]]
+label = '04'
+input = '''
+1
+1
+1
+40
+40
+'''
+output = '''
+S
+'''
+
+[[tests]]
+label = '05'
+input = '''
+80
+80
+80
+10
+10
+'''
+output = '''
+N
+'''
+
+[[tests]]
+label = '06'
+input = '''
+2
+2
+2
+90
+40
+'''
+output = '''
+S
+'''
+
+[[tests]]
+label = '07'
+input = '''
+10
+20
+30
+50
+60
+'''
+output = '''
+S
+'''

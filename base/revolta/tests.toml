@@ -1,0 +1,55 @@
+[[tests]]
+input = '''
+2
+1
+2
+'''
+output = '''
+rebeldes
+'''
+
+[[tests]]
+input = '''
+3
+1
+2
+1
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+input = '''
+2
+2
+3
+'''
+output = '''
+soldados
+'''
+
+[[tests]]
+input = '''
+4
+1
+2
+3
+1
+'''
+output = '''
+soldados
+'''
+
+[[tests]]
+input = '''
+5
+1
+2
+3
+1
+4
+'''
+output = '''
+rebeldes
+'''

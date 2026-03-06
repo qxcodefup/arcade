@@ -1,0 +1,29 @@
+[[tests]]
+input = '''
+extraordinario
+aeioubcdfgh
+*
+'''
+output = '''
+e***ao*di*a*io
+'''
+
+[[tests]]
+input = '''
+Teco-Teco!
+tbxyan
+_
+'''
+output = '''
+T___-T___!
+'''
+
+[[tests]]
+input = '''
+Seu Pilantra!
+yzxa
+*
+'''
+output = '''
+*** ***a***a!
+'''

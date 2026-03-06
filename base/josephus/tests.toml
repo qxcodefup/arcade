@@ -1,0 +1,62 @@
+[[tests]]
+input = '''
+5 
+3
+'''
+output = '''
+5
+'''
+
+[[tests]]
+input = '''
+6
+6
+'''
+output = '''
+4
+'''
+
+[[tests]]
+label = '03'
+input = '''
+5 3
+'''
+output = '''
+5
+'''
+
+[[tests]]
+label = '04'
+input = '''
+2 1
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = '05'
+input = '''
+3 2
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = '06'
+input = '''
+6 6
+'''
+output = '''
+4
+'''
+
+[[tests]]
+label = '07'
+input = '''
+16 2
+'''
+output = '''
+2
+'''

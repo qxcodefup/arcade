@@ -1,0 +1,23 @@
+[[tests]]
+input = '''
+Pedrinho Marcio
+'''
+output = '''
+cvccvccv cvccvv
+'''
+
+[[tests]]
+input = '''
+Reumario Albrito
+'''
+output = '''
+cvvcvcvv vcccvcv
+'''
+
+[[tests]]
+input = '''
+AaBbCcDdEe
+'''
+output = '''
+vvccccccvv
+'''

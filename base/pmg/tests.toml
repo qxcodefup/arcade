@@ -1,0 +1,61 @@
+[[tests]]
+input = '''
+1
+1.30
+'''
+output = '''
+1.30
+M
+'''
+
+[[tests]]
+input = '''
+2
+1.70 1.60
+'''
+output = '''
+1.65
+G P
+'''
+
+[[tests]]
+input = '''
+3
+1.70 1.60 1.8
+'''
+output = '''
+1.70
+M P G
+'''
+
+[[tests]]
+input = '''
+4
+1.00 1.70 1.60 1.80
+'''
+output = '''
+1.53
+P G G G
+'''
+
+[[tests]]
+label = '05'
+input = '''
+3
+1.7 1.6 1.8
+'''
+output = '''
+1.70
+M P G
+'''
+
+[[tests]]
+label = '06'
+input = '''
+2
+1.6 1.7
+'''
+output = '''
+1.65
+P G
+'''

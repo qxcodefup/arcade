@@ -1,0 +1,105 @@
+[[tests]]
+label = 'um animal'
+input = '''
+4
+4
+1
+c
+'''
+output = '''
+4
+empate
+'''
+
+[[tests]]
+input = '''
+7
+8
+2
+g
+c
+'''
+output = '''
+6
+Chico Bento
+'''
+
+[[tests]]
+input = '''
+15
+15
+5
+c
+c
+g
+v
+g
+'''
+output = '''
+16
+empate
+'''
+
+[[tests]]
+input = '''
+15
+17
+5
+c
+c
+g
+v
+g
+'''
+output = '''
+16
+empate
+'''
+
+[[tests]]
+input = '''
+17
+15
+5
+c
+c
+g
+v
+g
+'''
+output = '''
+16
+empate
+'''
+
+[[tests]]
+input = '''
+18
+15
+5
+c
+c
+g
+v
+g
+'''
+output = '''
+16
+Cebolinha
+'''
+
+[[tests]]
+input = '''
+15
+18
+5
+c
+c
+g
+v
+g
+'''
+output = '''
+16
+Chico Bento
+'''

@@ -1,0 +1,41 @@
+[[tests]]
+input = '''
+apesar de 2 jogadores serem expulsos, a seleção brasileira venceu a seleção italiana por 5 x 1
+'''
+output = '''
+8
+'''
+
+[[tests]]
+input = '''
+meus 3 cachorros comeram 2 ratos em 11 horas
+'''
+output = '''
+16
+'''
+
+[[tests]]
+input = '''
+os 2 irmãos de maria durmiram os ultimos 2 dias na casa de seus avós
+'''
+output = '''
+4
+'''
+
+[[tests]]
+label = '04'
+input = '''
+02 x dhgh 111 b 2 c d xf 31
+'''
+output = '''
+146
+'''
+
+[[tests]]
+label = '05'
+input = '''
+1 a x dhgh 11 b 2 c d xf 3
+'''
+output = '''
+17
+'''

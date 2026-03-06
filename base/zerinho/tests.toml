@@ -1,0 +1,83 @@
+[[tests]]
+input = '''
+1
+1
+1
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+input = '''
+0
+0
+1
+'''
+output = '''
+jog3
+'''
+
+[[tests]]
+input = '''
+1
+0
+0
+'''
+output = '''
+jog1
+'''
+
+[[tests]]
+input = '''
+1
+0
+1
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+label = '08'
+input = '''
+1
+1
+0
+'''
+output = '''
+jog3
+'''
+
+[[tests]]
+label = '09'
+input = '''
+0
+1
+0
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+label = '10'
+input = '''
+0
+1
+1
+'''
+output = '''
+jog1
+'''
+
+[[tests]]
+label = '12'
+input = '''
+0
+0
+0
+'''
+output = '''
+empate
+'''

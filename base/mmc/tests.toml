@@ -1,0 +1,23 @@
+[[tests]]
+input = '''
+6 9
+'''
+output = '''
+18
+'''
+
+[[tests]]
+input = '''
+3 4
+'''
+output = '''
+12
+'''
+
+[[tests]]
+input = '''
+3 6
+'''
+output = '''
+6
+'''

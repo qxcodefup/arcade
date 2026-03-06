@@ -1,0 +1,50 @@
+[[tests]]
+input = '''
+5
+'''
+output = '''
+positivo
+'''
+
+[[tests]]
+input = '''
+-1
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+0
+'''
+output = '''
+nulo
+'''
+
+[[tests]]
+label = '04'
+input = '''
+4
+'''
+output = '''
+positivo
+'''
+
+[[tests]]
+label = '05'
+input = '''
+-5
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+label = '06'
+input = '''
+-11
+'''
+output = '''
+negativo
+'''

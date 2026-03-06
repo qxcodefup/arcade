@@ -1,0 +1,69 @@
+[[tests]]
+input = '''
+a
+c
+d
+d
+'''
+output = '''
+Ja ouviu falar
+'''
+
+[[tests]]
+input = '''
+d
+a
+c
+d
+'''
+output = '''
+Super Fa
+'''
+
+[[tests]]
+label = '03'
+input = '''
+b
+b
+b
+b
+'''
+output = '''
+Nunca assistiu
+'''
+
+[[tests]]
+label = '04'
+input = '''
+d
+b
+b
+b
+'''
+output = '''
+Ja ouviu falar
+'''
+
+[[tests]]
+label = '05'
+input = '''
+d
+b
+b
+d
+'''
+output = '''
+Interessado no assunto
+'''
+
+[[tests]]
+label = '06'
+input = '''
+d
+b
+c
+d
+'''
+output = '''
+Fa
+'''

@@ -1,0 +1,47 @@
+[[tests]]
+input = '''
+3
+0 0 1
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+7
+1 0 0 0 1 0 1
+'''
+output = '''
+1
+'''
+
+[[tests]]
+label = '03'
+input = '''
+5
+0 0 1 0 0
+'''
+output = '''
+2
+'''
+
+[[tests]]
+label = '04'
+input = '''
+7
+1 0 0 0 0 0 1
+'''
+output = '''
+3
+'''
+
+[[tests]]
+label = '05'
+input = '''
+6
+0 1 0 0 1 0
+'''
+output = '''
+0
+'''

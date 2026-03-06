@@ -1,0 +1,23 @@
+[[tests]]
+input = '''
+Paralelepipedo
+'''
+output = '''
+Pa-ra-le-le-pi-pe-do
+'''
+
+[[tests]]
+input = '''
+Eu sou o rei de Fup
+'''
+output = '''
+Eu sou o rei de Fu-p
+'''
+
+[[tests]]
+input = '''
+Floresta Amazonica
+'''
+output = '''
+Flo-re-sta A-ma-zo-ni-ca
+'''

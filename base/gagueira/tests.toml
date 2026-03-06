@@ -1,0 +1,31 @@
+[[tests]]
+input = '''
+ola planeta terra
+'''
+output = '''
+ola ola planeta planeta terra terra
+'''
+
+[[tests]]
+input = '''
+gosto de tomate
+'''
+output = '''
+gosto gosto de de tomate tomate
+'''
+
+[[tests]]
+input = '''
+minha ufc
+'''
+output = '''
+minha minha ufc ufc
+'''
+
+[[tests]]
+input = '''
+sim eu vou
+'''
+output = '''
+sim sim eu eu vou vou
+'''

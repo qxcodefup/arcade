@@ -1,0 +1,59 @@
+[[tests]]
+input = '''
+77.00
+'''
+output = '''
+1 de 50.00
+1 de 20.00
+1 de 5.00
+1 de 2.00
+'''
+
+[[tests]]
+input = '''
+19.00
+'''
+output = '''
+1 de 10.00
+1 de 5.00
+2 de 2.00
+'''
+
+[[tests]]
+input = '''
+17.39
+'''
+output = '''
+1 de 10.00
+1 de 5.00
+1 de 2.00
+1 de 0.25
+1 de 0.10
+Falta 0.04
+'''
+
+[[tests]]
+input = '''
+57.01
+'''
+output = '''
+1 de 50.00
+1 de 5.00
+1 de 2.00
+Falta 0.01
+'''
+
+[[tests]]
+input = '''
+377.76
+'''
+output = '''
+3 de 100.00
+1 de 50.00
+1 de 20.00
+1 de 5.00
+1 de 2.00
+1 de 0.50
+1 de 0.25
+Falta 0.01
+'''

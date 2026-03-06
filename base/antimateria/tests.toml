@@ -1,0 +1,35 @@
+[[tests]]
+input = '''
+mel
+lema
+'''
+output = '''
+a
+'''
+
+[[tests]]
+input = '''
+pegasus
+suspiro
+'''
+output = '''
+pegapiro
+'''
+
+[[tests]]
+input = '''
+olho
+ohio
+'''
+output = '''
+olio
+'''
+
+[[tests]]
+input = '''
+minhoca
+arvore
+'''
+output = '''
+minhocrvore
+'''
