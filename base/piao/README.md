@@ -1,4 +1,4 @@
-# Piãoperto da linha
+# Pião perto da linha
 
 ![_](cover.jpg)
 
