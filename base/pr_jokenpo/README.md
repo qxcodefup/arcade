@@ -1,6 +1,6 @@
 # Jokenpô - Melhor de 5
 
-![cover](cover.jpg)
+![cover](assets/cover.jpg)
 
 Este trabalho tem como objetivo que você desenvolva habilidades de
 desenvolvimento de jogos, como contagem de pontos, jogadas aleatórias,
@@ -110,7 +110,7 @@ Você pode fazer o computador gerar números entre 0 e 2 e utilizar esses númer
 
 ### Pedra, Papel, Tesoura, Lagarto e Spock
 
-![spock](spock.jpg)
+![spock](assets/spock.jpg)
 
 Nesta segunda versão você deverá implementar o modo do jogo mais recente
 em que duas novas opções foram adicionadas, **Lagarto e Spock**,

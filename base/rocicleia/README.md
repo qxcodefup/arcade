@@ -1,6 +1,6 @@
 # Rocicleia o Locioreca - Anagramas
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -21,7 +21,7 @@ Dadas duas palavras, imprima sim se elas são anagramas e não se não são anag
 
 * A saída deve ser apenas "sim" ou "nao".
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

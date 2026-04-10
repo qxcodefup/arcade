@@ -1,6 +1,6 @@
 # Imprimindo em linha
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contecto
 
@@ -122,7 +122,7 @@ while i < B:
 let [a, b] : number = input().split(" ").map(Number);
 ```
 
-- Você pode utilizar métodos de interação como o loop `for` itera sobre um intervalo de números, começando em **A** e indo até **B-1**. A cada iteração, o valor de `i` é impresso no console usando `console.log()` ou `write()`.
+- Você pode utilizar métodos de interação como o loop `for` itera sobre um intervalo de números, começando em **A** e indo até **B-1**. A cada iteração, o valor de `i` é impresso no console usando `console.log()`.
 
 ```ts
 for (let i = A; i < B; i++) {

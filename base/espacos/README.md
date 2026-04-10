@@ -1,6 +1,6 @@
 # Espaços duplicados
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -25,7 +25,7 @@ Sua tarefa é ajudar Joãozinho a consertar seus trabalhos. Crie um programa que
 - O texto terá no máximo **200** caracteres.
 - A entrada conterá apenas letras minúsculas e espaços.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

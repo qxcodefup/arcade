@@ -1,6 +1,6 @@
 # Procurando melhor pizzaria
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

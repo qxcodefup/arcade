@@ -1,6 +1,6 @@
 # Chefe nervoso - OBI 2021
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 [](solver.py)
 
@@ -12,7 +12,7 @@ Infelizmente, de vez em quando seu chefe fala números errados para você ao tel
 
 Infelizmente, seu chefe pode cometer erros repetidos, e diz “zero” para cada erro. Por exemplo, seu chefe pode falar ao telefone “Um, três, cinco, quatro, zero, zero, sete, zero, zero, seis”, o que significa uma soma total igual a 7, conforme explicado na tabela abaixo:
 
-![_](capa.png)
+![_](assets/capa.png)
 
 Para não deixar seu chefe ainda mais nervoso, escreva um programa que determine a soma total dos números falados por seu chefe ao telefone.
 
@@ -30,7 +30,7 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 - 0 ≤ Xi ≤ 100, para (1 ≤ i ≤ N )
 - 0 ≤ resultado ≤ 1 000 000
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

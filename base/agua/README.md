@@ -1,6 +1,6 @@
 # Abastecimento de agua
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -25,7 +25,7 @@ Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 
 * Vetor com o total de água de cada casa.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

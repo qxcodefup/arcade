@@ -1,6 +1,6 @@
 # Professor
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -22,7 +22,7 @@ A ordem da entrada é importante nessa questão. As três primeira entradas são
 
 - "Aprovado com nota" ou "Final com nota" onde nota é o valor da nota com uma casa decimal.  
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

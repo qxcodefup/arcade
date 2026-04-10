@@ -1,6 +1,6 @@
 # Vetor de strings com variados tamanhos
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Ação
 
@@ -17,7 +17,7 @@ seguido de um espaço e a string.
 
 - Strings em ordem crescente (ou seja, na ordem do dicionário).
   
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

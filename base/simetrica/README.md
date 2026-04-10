@@ -1,6 +1,6 @@
 # Matrizes simétricas
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -18,7 +18,7 @@ Faça uma função onde verifique se uma matriz 3x3 é simétrica ou não. Tenha
 
 * "nao" se não for simétrica e "sim caso contrário.
 
-### Exemplos
+### Testes
 
 ``` py
 >>>>>>>> INSERT

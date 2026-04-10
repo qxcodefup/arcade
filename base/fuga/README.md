@@ -1,6 +1,6 @@
 # Fuga em helicóptero - OBI 2016
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

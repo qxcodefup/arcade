@@ -1,6 +1,6 @@
 # Qual o maior
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -26,7 +26,7 @@ Dado dois inteiros N e M, retornar os M maiores palíndromos formados pelo produ
 
 Os M maiores palíndromos formados pelo produto de dois números cuja quantidade de dígitos é N.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

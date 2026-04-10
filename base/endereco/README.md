@@ -1,6 +1,6 @@
 # Função que retorna vários valores
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -42,7 +42,7 @@ Você deverá:
 - Implementar a função 'converte_tempo'.
 - Chamar a função 'converte_tempo' dentro da função 'main'.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

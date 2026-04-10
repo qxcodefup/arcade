@@ -1,6 +1,6 @@
 # Busca máximo por critério
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -30,7 +30,7 @@ Faça um programa para imprimir o id do aluno com a maior nota.
 
 * O id do aluno com melhor média. Se vários alunos ficarem com a mesma média máxima. Imprima o id de maior número.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

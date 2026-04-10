@@ -1,6 +1,6 @@
 # Frota de taxi - OBI 2005
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -8,15 +8,15 @@ A Companhia de Táxi Tabajara (CTT) é uma das maiores empresas de transporte 
   
 ## Ação
 
-Você deve escrever um programa que, dados o preço do litro de álcool, o preço do litro de gasolina e os quilômetros por litro que um carro bi-combustível realiza com cada um desses combustíveis, determine se é mais econômico abastecer os carros da CTT com álcool ou com gasolina. No caso de não haver diferença de custo entre abastecer com álcool ou gasolina a CTT prefere utilizar gasolina.  
+Você deve escrever um programa que, dados o preço do litro de álcool, o preço do litro de gasolina e os quilômetros por litro que um carro bi-combustível realiza com cada um desses combustíveis, determine se é mais econômico abastecer os carros da CTT com álcool ou com gasolina. No caso de não haver diferença de custo entre abastecer com álcool ou gasolina a CTT prefere utilizar gasolina.
   
 ### Entrada
 
-A entrada é composta por uma linha contendo quatro números reais com precisão de duas casas decimais A, G, Ra e Rg , representando respectivamente o preço por litro do álcool, o preço por litro da gasolina, o rendimento (km/l) do carro utilizando álcool e o rendimento (km/l) do carro utilizando gasolina. A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado).  
+A entrada é composta por quatro linhas contendo quatro números reais com precisão de duas casas decimais A, G, Ra e Rg , representando respectivamente o preço por litro do álcool, o preço por litro da gasolina, o rendimento (km/l) do carro utilizando álcool e o rendimento (km/l) do carro utilizando gasolina. A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado).
   
 ## Saída
 
-A saída deve ser composta por uma única linha contendo o caractere 'A' se é mais econômico abastecer a frota com álcool ou o caractere 'G' se é mais econômico ou indiferente abastecer a frota com gasolina. A saída deve ser escrita no dispositivo de saída padrão (normalmente a tela).  
+A saída deve ser composta por uma única linha contendo o caractere 'A' se é mais econômico abastecer a frota com álcool ou o caractere 'G' se é mais econômico ou indiferente abastecer a frota com gasolina. A saída deve ser escrita no dispositivo de saída padrão (normalmente a tela).
   
 ## Restrições
 
@@ -25,43 +25,58 @@ A saída deve ser composta por uma única linha contendo o caractere 'A' se é
 - 0.01 ≤ Ra ≤ 20.00  
 - 0.01 ≤ Rg ≤ 20.00
 
-## Exemplos
+## Testes
 
 ``` py
->>>>>>>> INSERT 01
-1.00 1.00 8.00 8.01
+>>>>>>>> INSERT
+1.00
+1.00
+8.00
+8.01
 ======== EXPECT
 G
 <<<<<<<< FINISH
 ```
 
 ```py
->>>>>>>> INSERT 02
-10.00 0.01 10.01 0.01
+>>>>>>>> INSERT
+10.00
+0.01
+10.01
+0.01
 ======== EXPECT
 A
 <<<<<<<< FINISH
 ```
 
 ```py
->>>>>>>> INSERT 03
-2.15 3.17 19.34 18.22
+>>>>>>>> INSERT
+2.15 
+3.17
+19.34
+18.22
 ======== EXPECT
 A
 <<<<<<<< FINISH
 ```
 
 ```py
->>>>>>>> INSERT 04
-3.90 3.80 19.01 19.99
+>>>>>>>> INSERT
+3.90
+3.80
+19.01
+19.99
 ======== EXPECT
 G
 <<<<<<<< FINISH
 ```
 
 ```py
->>>>>>>> INSERT 05
-4.15 3.17 16.64 19.22
+>>>>>>>> INSERT
+4.15
+3.17
+16.64
+19.22
 ======== EXPECT
 G
 <<<<<<<< FINISH

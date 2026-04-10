@@ -1,6 +1,6 @@
 # A raposa e os esquilos
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

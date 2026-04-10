@@ -1,6 +1,6 @@
 # Carregando vetor na mesma linha
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

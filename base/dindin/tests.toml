@@ -1,0 +1,90 @@
+[[tests]]
+input = '''
+1
+c m
+'''
+output = '''
+c
+t
+'''
+
+[[tests]]
+input = '''
+2
+c m
+l t
+'''
+output = '''
+empate
+empate
+'''
+
+[[tests]]
+input = '''
+2
+c m
+c t
+'''
+output = '''
+c
+empate
+'''
+
+[[tests]]
+input = '''
+2
+l m
+l t
+'''
+output = '''
+l
+empate
+'''
+
+[[tests]]
+input = '''
+2
+c t
+l t
+'''
+output = '''
+empate
+m
+'''
+
+[[tests]]
+input = '''
+2
+c m
+l m
+'''
+output = '''
+empate
+t
+'''
+
+[[tests]]
+input = '''
+3
+c m
+c t
+l m
+'''
+output = '''
+c
+t
+'''
+
+[[tests]]
+input = '''
+5
+c m
+c t
+l m
+l m
+l m
+'''
+output = '''
+l
+t
+'''

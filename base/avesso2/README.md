@@ -1,6 +1,6 @@
 # Jogo do avesso 2
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -34,7 +34,7 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 
 - o novo vetor.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

@@ -1,12 +1,12 @@
 # Contando luzes
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
 João quer montar um painel de LEDs com diversos números, mas ele não sabe quantos LEDs serão necessários para formar um número específico. Para ajudá-lo, vamos criar um programa que calcule a quantidade de LEDs necessária para exibir um número com base em uma configuração padrão de segmentos de LED.
 
-![_](leds.png)
+![_](assets/leds.png)
 
 Dado o número de casos de teste e uma sequência de números inteiros, para cada número, calcule a quantidade de LEDs necessária para montá-lo com o padrão ilustrado na imagem.
 
@@ -24,7 +24,7 @@ Dado o número de casos de teste e uma sequência de números inteiros, para cad
 - **1 ≤ N ≤ 1000**
 - **1 ≤ V ≤ 10¹⁰⁰**
 
-### Testes
+## Testes
 
 ```py
 >>>>>>>> INSERT

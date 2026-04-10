@@ -1,6 +1,6 @@
 # Contar Ocorrências
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -20,7 +20,7 @@ Faça o código que conta quantas vezes um caractere aparece numa frase. Faça d
 
 * A quantidade de vezes que a letra aparece na frase
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01

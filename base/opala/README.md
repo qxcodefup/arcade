@@ -1,6 +1,6 @@
 # Opala bebedor
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -28,7 +28,7 @@ Para isso, siga os seguintes passos:
 - Os valores de entrada (velocidade, tempo, consumo) serão números positivos.
 - O consumo será sempre maior que zero.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT corsa

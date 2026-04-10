@@ -1,6 +1,6 @@
 # Identificando um quadrado mágico
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -21,7 +21,7 @@ Sua tarefa é criar um programa que, dada uma matriz de inteiros 3x3, determine 
 
 - A matriz de entrada será sempre do tamanho 3x3.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

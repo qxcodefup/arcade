@@ -1,6 +1,6 @@
 # Bolinhas da sorte
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -31,7 +31,7 @@ Conte as ocorrências e descubra qual elemento ocorre mais vezes no vetor.
 * linha 2: o elemento que se repete mais, se mais de um, coloque todos em ordem
 crescente.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01

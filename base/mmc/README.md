@@ -1,6 +1,6 @@
 # Calcule o mmc
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Ação
 
@@ -14,7 +14,7 @@ Faça uma função que calcule e retorne o mmc de dois números.
 
 * O mmc de N e M.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

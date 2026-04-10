@@ -1,6 +1,6 @@
 # Quiz do Harry Potter
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Descrição
 
@@ -42,11 +42,11 @@ A saída do programa vai variar com o número de acerto, da seguinte maneira:
 
 Número de acertos | Saída do programa
 ------------------|------------------
-0               | Nunca assistiu
-1             | Ja ouviu falar
-2               | Interessado no assunto
-3               | Fa
-4               | Super Fa
+0                 | Nunca assistiu
+1                 | Ja ouviu falar
+2                 | Interessado no assunto
+3                 | Fa
+4                 | Super Fa
 
 ### Entrada
 
@@ -58,7 +58,7 @@ Número de acertos | Saída do programa
 
 ---
 
-### Exemplos
+### Testes
 
 ``` py
 >>>>>>>> INSERT

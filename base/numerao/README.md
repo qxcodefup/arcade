@@ -1,6 +1,6 @@
 # Número divisível por 11
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -23,7 +23,7 @@ Existem formas para se determinar essa divisibilidade. Pesquise um pouco.
 
 * "sim" se o numero for divisível por 11 e "nao" caso contrário.  
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

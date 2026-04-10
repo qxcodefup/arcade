@@ -1,6 +1,6 @@
 # Soma de três inteiros
 
-![Imagem meteriologica](cover.jpg)
+![Imagem meteriologica](assets/cover.jpg)
 
 ## Contexto
 
@@ -48,32 +48,29 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 
 ## Dicas
 
-### Programando em: C
-
-- Quebre uma linha usando `\n`:
+- Como imprimir quebrando linha e sem quebrar linha:
 
 ```c
-int main() {
-    printf("%d\n", soma);
-}
+// C
+printf("%d", soma);   // Sem quebra de linha
+printf("%d\n", soma); // Com quebra de linha
 ```
-
-### Programando em: Python
-
-- Não há necessidade de quebrar a linha manualmente, pois ela é quebrada automaticamente:
 
 ```py
-print(soma)
-```
-
-### Programando em: TypeScript
-
-Não há necessidade de quebrar a linha manualmente, pois ela é quebrada automaticamente:
-
-```ts
-console.log(soma); || write();
+// Python
+print(soma)     # Com quebra de linha (padrão)
+print(soma, end='')  # Sem quebra de linha
 ```
 
 ```ts
-write(soma);
+// TypeScript
+console.log(soma); # Com quebra de linha
+process.stdout.write(soma.toString()); # Sem quebra de linha
+```
+
+
+```go
+// Go
+fmt.Println(soma)     // Com quebra de linha (padrão)
+fmt.Print(soma)       // Sem quebra de linha
 ```

@@ -1,6 +1,6 @@
 # Qual o mais repetido
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -12,23 +12,6 @@ Sua tarefa é criar um código que ajude Elvis a descobrir o número do tazo que
 
 - Seu código deve ter um único for e se utilizar do fato de os elementos estarem ordenados para fazer a contagem apenas na troca de valores.
 
-#### Apenas vetores
-
-```go
-- calcule uma lista com os únivos
-- crie uma lista para armazenar quantas vezes cada unico aparece
-- veja o maior valor dessa lista
-- pegue os unicos que tem esse maior valor
-```
-
-#### Com dicionários
-
-```go
-- calcule um dicionário com os únivos e a quantidade de vezes que eles aparecem
-- percorra para saber o maior valor
-- percorra para pegar as chaves que contem esse valor
-```
-
 ### Entrada
 
 - **Linha 1:** Um número inteiro positivo representando a quantidade de elementos no vetor (1 a 50).
@@ -39,7 +22,7 @@ Sua tarefa é criar um código que ajude Elvis a descobrir o número do tazo que
 
 - Os elementos que se repetem mais vezes no vetor, dentro de colchetes `[]` e separados por espaço.
 
-### Testes
+## Testes
 
 ```py
 >>>>>>>> INSERT

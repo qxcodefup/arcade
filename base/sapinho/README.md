@@ -1,6 +1,6 @@
 # Sapinho no Poço
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

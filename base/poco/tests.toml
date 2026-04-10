@@ -78,7 +78,6 @@ output = '''
 '''
 
 [[tests]]
-label = '05'
 input = '''
 85
 40
@@ -92,7 +91,6 @@ output = '''
 '''
 
 [[tests]]
-label = '06'
 input = '''
 100 
 60 

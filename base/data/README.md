@@ -1,6 +1,6 @@
 # Formatando data
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -14,7 +14,7 @@ Os formatos de data e hora são diversos. Sua tarefa é criar um programa que le
 
 - A data e hora formatadas no padrão `hh:mm dd/mm/aa`.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT
@@ -37,30 +37,6 @@ Os formatos de data e hora são diversos. Sua tarefa é criar um programa que le
 188
 ======== EXPECT
 12:30 01/03/88
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-14
-7
-7
-9
-2005
-======== EXPECT
-14:07 07/09/05
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-23
-1
-1
-1
-2076
-======== EXPECT
-23:01 01/01/76
 <<<<<<<< FINISH
 ```
 

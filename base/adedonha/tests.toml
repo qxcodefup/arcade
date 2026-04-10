@@ -39,7 +39,6 @@ a
 '''
 
 [[tests]]
-label = '06'
 input = '''
 28
 '''
@@ -48,7 +47,6 @@ b
 '''
 
 [[tests]]
-label = '07'
 input = '''
 52
 '''
@@ -57,7 +55,6 @@ z
 '''
 
 [[tests]]
-label = '08'
 input = '''
 53
 '''
@@ -66,7 +63,6 @@ a
 '''
 
 [[tests]]
-label = '09'
 input = '''
 30
 '''
@@ -75,7 +71,6 @@ d
 '''
 
 [[tests]]
-label = '10'
 input = '''
 54
 '''
@@ -84,7 +79,6 @@ b
 '''
 
 [[tests]]
-label = '11'
 input = '''
 80
 '''
@@ -93,7 +87,6 @@ b
 '''
 
 [[tests]]
-label = '12'
 input = '''
 150
 '''

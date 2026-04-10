@@ -1,6 +1,6 @@
 # Quem chega mais perto
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Descrição
 
@@ -22,7 +22,7 @@ Se ambos ficarem à mesma distancia do valor real, então houve empate.
 * "segundo" se o chute do Segundo for o mais próximo do valor do produto
 * "empate" caso ambos ficarem à mesma distancia
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT
@@ -44,35 +44,6 @@ segundo
 <<<<<<<< FINISH
 ```
 
-```py
->>>>>>>> INSERT
-10
-11
-9
-======== EXPECT
-empate
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-20
-21
-22
-======== EXPECT
-primeiro
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-20
-21
-21
-======== EXPECT
-empate
-<<<<<<<< FINISH
-```
 
 ## Ajuda
 

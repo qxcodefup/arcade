@@ -4,13 +4,11 @@ input = '''
 '''
 output = '''
 30
-'''
+<<<<<<<< FINISH<
 
-[[tests]]
-input = '''
+>>>>>>>> INSERT
 3 5 2 4
-'''
-output = '''
+======== EXPECT
 20
 '''
 
@@ -20,4 +18,12 @@ input = '''
 '''
 output = '''
 120
+'''
+
+[[tests]]
+input = '''
+3 5 2 4
+'''
+output = '''
+20
 '''

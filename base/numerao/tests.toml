@@ -23,7 +23,6 @@ nao
 '''
 
 [[tests]]
-label = '04'
 input = '''
 1
 '''
@@ -32,7 +31,6 @@ nao
 '''
 
 [[tests]]
-label = '05'
 input = '''
 121
 '''
@@ -41,7 +39,6 @@ sim
 '''
 
 [[tests]]
-label = '06'
 input = '''
 120
 '''
@@ -50,7 +47,6 @@ nao
 '''
 
 [[tests]]
-label = '07'
 input = '''
 12100000000
 '''
@@ -59,7 +55,6 @@ sim
 '''
 
 [[tests]]
-label = '08'
 input = '''
 12109020000
 '''

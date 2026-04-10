@@ -1,6 +1,6 @@
 # Valor absoluto
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -16,7 +16,7 @@ Implemente um programa que leia dois números inteiros e imprima o valor absolut
 
 - Dois números inteiros, um por linha.
 
-#### Saída
+### Saída
 
 - Valor absoluto da diferença entre dois números
 

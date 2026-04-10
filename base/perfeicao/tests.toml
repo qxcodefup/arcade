@@ -31,7 +31,6 @@ Davidpd
 '''
 
 [[tests]]
-label = '05'
 input = '''
 Ana
 '''
@@ -40,7 +39,6 @@ sem sorte
 '''
 
 [[tests]]
-label = '06'
 input = '''
 David
 '''
@@ -49,7 +47,6 @@ Davidp
 '''
 
 [[tests]]
-label = '07'
 input = '''
 Ticiany
 '''

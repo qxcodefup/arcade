@@ -6,7 +6,7 @@ Para conhecer melhor o jogo original, consulte:
 
 - <http://pt.wikipedia.org/wiki/Blackjack>  
 
-![Blackjack](blackjack.jpg)
+![Blackjack](assets/blackjack.jpg)
 
 ---
 

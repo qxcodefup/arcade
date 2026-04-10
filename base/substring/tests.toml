@@ -1,5 +1,4 @@
 [[tests]]
-label = '01'
 input = '''
 Coralina
 0
@@ -10,40 +9,6 @@ Cora
 '''
 
 [[tests]]
-label = '02'
-input = '''
-Power Ranger
-4
-20
-'''
-output = '''
-r Ranger
-'''
-
-[[tests]]
-label = '03'
-input = '''
-Coralina
-0
-1
-'''
-output = '''
-C
-'''
-
-[[tests]]
-label = '04'
-input = '''
-Coralina
-1
-1
-'''
-output = '''
-o
-'''
-
-[[tests]]
-label = '05'
 input = '''
 Coralina
 1
@@ -54,7 +19,36 @@ oral
 '''
 
 [[tests]]
-label = '06'
+input = '''
+Power Ranger
+4
+20
+'''
+output = '''
+r Ranger
+'''
+
+[[tests]]
+input = '''
+Coralina
+0
+1
+'''
+output = '''
+C
+'''
+
+[[tests]]
+input = '''
+Coralina
+1
+1
+'''
+output = '''
+o
+'''
+
+[[tests]]
 input = '''
 Power Ranger
 4
@@ -65,7 +59,6 @@ r Ranger
 '''
 
 [[tests]]
-label = '07'
 input = '''
 Decoracao
 4

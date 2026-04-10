@@ -1,6 +1,6 @@
 # Fazendo a peça do tetris cair
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -23,7 +23,7 @@ Você fai simular a queda de um única peça de Tetris. Verifique se a peça nã
 - O resultado do display. Se a peça estiver em colisão, reimprima
 o display sem alteração.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT bastao parado

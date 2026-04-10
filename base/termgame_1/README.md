@@ -4,7 +4,7 @@
 
 Vídeo de apresentação do projeto
 
-[![caolho](caolho.png)](https://youtu.be/2IlDR6D6VVQ)
+[![caolho](assets/caolho.png)](https://youtu.be/2IlDR6D6VVQ)
 
 ## Instalação
 

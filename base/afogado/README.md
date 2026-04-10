@@ -1,6 +1,6 @@
 # Sapinho 3 matemático não quer morrer afogado
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -18,9 +18,9 @@ Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcula
 
 ### Saída
 
-- A menor força de salto que o sapinho deve ter para conseguir sair do poço.
+- A menor força de salto que o sapinho deve ter para conseguir sair do poço. A força determina a altura do primeiro salto.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

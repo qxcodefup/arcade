@@ -142,7 +142,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 
 ## Vetores Extra +list @list_extra !@list2
 
-- [ ]`@josephus        :2:side`[Cabeças vão rolar](base/josephus/README.md)
+- [ ]`@josephus        :4:side`[Cabeças vão rolar](base/josephus/README.md)
 - [ ]`@casamento       :2:side`[Maior e menor](base/casamento/README.md)
 - [ ]`@intervalada     :3:side`[Busca intervalada](base/intervalada/README.md)
 - [ ]`@piao            :4:side`[Pião perto da linha](base/piao/README.md)
@@ -249,8 +249,8 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 
 ## Structs +structs:3 @struct !@list1
 
-- [ ]`@fatores_type    :3:side`[Fatoração de um número](base/fatores/README.md)
-- [ ]`@pedra_type      :3:main`[Pedra na lua](base/pedra/README.md)
+- [ ]`@fatores_struct  :3:side`[Fatoração de um número](base/fatores_struct/README.md)
+- [ ]`@pedra_struct    :3:main`[Pedra na lua](base/pedra_struct/README.md)
 - [ ]`@pizza           :3:main`[Procurando melhor pizzaria](base/pizza/README.md)
 - [ ]`@gomos           :3:main`[Gomos da cobrinha](base/gomos/README.md)
 - [ ]`@estudante       :4:main`[Melhor estudante](base/estudante/README.md)
@@ -258,19 +258,17 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 
 ## Dicionários +dict:3 @dict !@list1
 
-- [ ]`@tazos_dict      :5:main`[Qual o mais repetido](base/tazos/README.md)
-- [ ]`@casais_dict     :4:main`[Quantos casais na arca](base/casais/README.md)
-- [ ]`@exemplares_dict :4:main`[Arca quantos exemplares](base/exemplares/README.md)
-- [ ]`@sopa_dict       :4:main`[Sopa de coelho](base/sopa/README.md)
-- [ ]`@fatores_dict    :4:main`[Fatoração de um número](base/fatores/README.md)
+- [ ]`@casais_dict     :4:main`[Quantos casais na arca](base/casais_dict/README.md)
+- [ ]`@exemplares_dict :4:main`[Arca quantos exemplares](base/exemplares_dict/README.md)
+- [ ]`@fatores_dict    :4:main`[Fatoração de um número](base/fatores_dict/README.md)
 
 ## Recursão +rec:2 @rec !@list1
 
-- [ ]`@primo_rec       :3:main`[Calculando se é](base/primo/README.md)
-- [ ]`@sopa_rec        :4:main`[Sopa de coelho](base/sopa/README.md)
-- [ ]`@spok_rec        :3:main`[Número palíndromo](base/spok/README.md)
+- [ ]`@primo_rec       :3:main`[Calculando se é](base/primo_rec/README.md)
+- [ ]`@sopa_dict       :4:main`[Sopa de coelho](base/sopa_dict/README.md)
+- [ ]`@spok_rec        :3:main`[Número palíndromo](base/spok_rec/README.md)
 - [ ]`@hanoi           :4:side`[Torres de Hanoi](base/hanoi/README.md)
-- [ ]`@fatores_rec     :2:side`[Fatoração de um número](base/fatores/README.md)
+- [ ]`@fatores_rec     :2:side`[Fatoração de um número](base/fatores_rec/README.md)
 
 ## Jogos em modo texto +games:3 @games
 
@@ -301,9 +299,9 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 
 ## TODO =X
 
-- [ ]`@ocorrencias     `  [Contagem de ocorrências](base/ocorrencias/README.md)
-- [ ]`@rec_fib         `  [Números de Fibonacci](base/rec_fib/README.md)
-- [ ]`@rec_count       `  [Contando caracteres recursivamente](base/rec_count/README.md)
+- [ ]`@ocorrencias     `[Contagem de ocorrências](base/ocorrencias/README.md)
+- [ ]`@rec_fib         `[Números de Fibonacci](base/rec_fib/README.md)
+- [ ]`@rec_count       `[Contando caracteres recursivamente](base/rec_count/README.md)
 
 ## sandbox
 

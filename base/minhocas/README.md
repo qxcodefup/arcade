@@ -1,6 +1,6 @@
 # Campo de minhocas - OBI 2005
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -39,7 +39,7 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 - A saída deve ser composta por uma única linha contendo um inteiro, indicando o número esperado total de minhocas a serem colhidas pela máquina durante o teste.
 - A saída deve ser escrita no dispositivo de saída padrão (normalmente a tela).
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01

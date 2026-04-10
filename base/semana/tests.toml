@@ -1,0 +1,179 @@
+[[tests]]
+input = '''
+2
+12
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+2
+9
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+2
+7
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+2
+13
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+2
+14
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+2
+18
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+2
+17
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+3
+17
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+1
+9
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+1
+14
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+3
+19
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+6
+8
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+6
+11
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+6
+12
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+6
+15
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+7
+7
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+7
+8
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+7
+11
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+7
+12
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+7
+15
+'''
+output = '''
+NAO
+'''

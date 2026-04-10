@@ -1,6 +1,6 @@
 # Identificando tipos
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -26,7 +26,7 @@ Regras de Classificação:
 - A frase terá no máximo **100** caracteres.
 - Cada palavra/elemento terá no máximo **10** caracteres.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01

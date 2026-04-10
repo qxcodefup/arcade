@@ -1,6 +1,6 @@
 # Pensando letras como números
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -58,7 +58,7 @@ Leia a soma dos dedos dos três irmãos e diga qual a letra L que será utilizad
 
 0 <= SOMA (D1 + D2 + D3) <= 100.
 
-## Exemplos
+## Testes
 
 ```py
 >>>>>>>> INSERT

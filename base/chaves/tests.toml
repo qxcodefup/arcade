@@ -23,7 +23,6 @@ nulo
 '''
 
 [[tests]]
-label = '04'
 input = '''
 4
 '''
@@ -32,7 +31,6 @@ positivo
 '''
 
 [[tests]]
-label = '05'
 input = '''
 -5
 '''
@@ -41,7 +39,6 @@ negativo
 '''
 
 [[tests]]
-label = '06'
 input = '''
 -11
 '''

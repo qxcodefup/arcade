@@ -1,5 +1,4 @@
 [[tests]]
-label = '01'
 input = '''
 A Andreia alimentou a avestruz com alcaparras
 a
@@ -9,7 +8,6 @@ output = '''
 '''
 
 [[tests]]
-label = '02'
 input = '''
 A Andreia alimentou a avestruz com alcaparras
 A
@@ -19,7 +17,6 @@ output = '''
 '''
 
 [[tests]]
-label = '03'
 input = '''
 A Andreia atirou alcachofras no leao
 e
@@ -29,7 +26,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04'
 input = '''
 A Andreia atirou alcachofras no leao
 x

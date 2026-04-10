@@ -1,5 +1,4 @@
 [[tests]]
-label = '01'
 input = '''
 a
 0
@@ -9,7 +8,6 @@ a
 '''
 
 [[tests]]
-label = '02'
 input = '''
 b
 3
@@ -19,7 +17,6 @@ e
 '''
 
 [[tests]]
-label = '03'
 input = '''
 z
 2
@@ -29,7 +26,6 @@ b
 '''
 
 [[tests]]
-label = '04'
 input = '''
 f
 -3
@@ -39,7 +35,6 @@ c
 '''
 
 [[tests]]
-label = '05'
 input = '''
 b
 -2

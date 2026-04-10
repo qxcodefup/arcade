@@ -1,6 +1,6 @@
 # Calipso e Jack Sparrow - Alternar Case
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -26,7 +26,7 @@ Como você deve ter notado, Jack Sparrow fala de uma forma muito peculiar. Sua t
 - O texto de cada linha terá no máximo **100** caracteres.
 - A alternância de case deve ignorar os espaços, mas eles devem ser mantidos na saída.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

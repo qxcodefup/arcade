@@ -1,6 +1,6 @@
 # Clenda adora chocolate
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -64,62 +64,5 @@ empate
 <<<<<<<< FINISH
 ```
 
-```py
->>>>>>>> INSERT
-2
-l m
-l t
-======== EXPECT
-l
-empate
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-2
-c t
-l t
-======== EXPECT
-empate
-m
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-2
-c m
-l m
-======== EXPECT
-empate
-t
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-3
-c m
-c t
-l m
-======== EXPECT
-c
-t
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-5
-c m
-c t
-l m
-l m
-l m
-======== EXPECT
-l
-t
-<<<<<<<< FINISH
 
 ```

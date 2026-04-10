@@ -1,6 +1,6 @@
 # Ônibus dos alunos
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

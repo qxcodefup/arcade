@@ -1,6 +1,6 @@
 # Vigenere e Valdiskley
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -42,7 +42,7 @@ A operação de descifrar é o contrário da cifragem.
 
 - O resultado da operação.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

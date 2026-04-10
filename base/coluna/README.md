@@ -1,6 +1,6 @@
 # Qual a coluna de maior valor
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -32,7 +32,7 @@ O valor da coluna 0 é `4² + 3² + 2² = 16 + 9 + 4 = 29`. Após calcular para 
 
 - Se duas ou mais colunas tiverem o mesmo valor máximo, retorne o índice da primeira que foi encontrada.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT Teste 0

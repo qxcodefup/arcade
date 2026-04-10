@@ -1,12 +1,12 @@
 # Pião perto da linha
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
-![_](jogo.png)
+![_](assets/jogo.png)
 
-No jogo de pião lá de Ocara, o mói de peia dos `baitinga` funciona assim:
+No jogo de pião lá de Ocara funciona assim:
 
 - N jogadores se reúnem cada um com seu pião.
 - Um rapaz faz uma 3 linhas na areia. Uma linha alvo(azul) e duas linhas limite(verde).
@@ -31,7 +31,7 @@ No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e
   - o perdedor será quem jogou mais longe do alvo.
   - se houver empate, será o último jogador empatado, na ordem das jogadas.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01
@@ -73,4 +73,3 @@ nenhum
 <<<<<<<< FINISH
 ```
 
-- baitinga: modo carinhoso que um cearense chama o outro quando está invocado!

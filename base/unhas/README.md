@@ -1,13 +1,6 @@
 # Vetor para inteiro
 
-![_](cover.jpg)
-
-## Motivação
-
-Luzia estava apaixonada. Mandou pintar em cada unha dos dedos das mãos o cpf do seu amor.  
-Pensava ela: "sozinhos esses números, não são nada, mas juntos são o número do meu xuxuzinho.
-
-\[DS\]
+![_](assets/cover.jpg)
 
 ## Ação  
 
@@ -21,7 +14,7 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 
 - O valor inteiro resultado do programa.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

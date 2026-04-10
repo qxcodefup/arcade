@@ -1,5 +1,4 @@
 [[tests]]
-label = 'conta exata'
 input = '''
 3
 1
@@ -11,7 +10,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'sobrando duas'
 input = '''
 10
 4
@@ -23,7 +21,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'sobrando uma'
 input = '''
 2
 4
@@ -35,7 +32,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04'
 input = '''
 4
 1
@@ -47,7 +43,6 @@ output = '''
 '''
 
 [[tests]]
-label = '05'
 input = '''
 20
 80
@@ -59,7 +54,6 @@ output = '''
 '''
 
 [[tests]]
-label = '06'
 input = '''
 100
 5
@@ -71,7 +65,6 @@ output = '''
 '''
 
 [[tests]]
-label = '07'
 input = '''
 7
 20
@@ -83,7 +76,6 @@ output = '''
 '''
 
 [[tests]]
-label = '08'
 input = '''
 2
 15

@@ -1,6 +1,6 @@
 # Deu a louca no imperador
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -38,7 +38,7 @@ Some os pontos e determine o vencedor.
 - A matriz será quadrada.
 - Haverá no máximo um **L** (Leão) na arena.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

@@ -1,6 +1,6 @@
 # Atbash e Valdiskley
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -30,7 +30,7 @@ Observe que em word1 podem aparecer pontuação, numeros, etc. Se word1 = "123!\
 
 * o resultado da criptografia.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

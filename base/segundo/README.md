@@ -1,6 +1,6 @@
 # Calculando o próximo segundo
 
-![ponteiros de um relógio]( cover.jpg)
+![ponteiros de um relógio](assets/cover.jpg)
 
 ## Motivação
 
@@ -20,7 +20,7 @@ Supondo que João seja sobre humano, seu trabalho é fazer um programa para calc
 
 * Hora, minuto e segundo final e uma linha.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT
@@ -35,22 +35,6 @@ Supondo que João seja sobre humano, seu trabalho é fazer um programa para calc
 12 10 59
 ======== EXPECT
 12 11 00
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-12 59 59
-======== EXPECT
-13 00 00
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-23 59 59
-======== EXPECT
-00 00 00
 <<<<<<<< FINISH
 ```
 

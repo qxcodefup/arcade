@@ -1,6 +1,6 @@
 # Algoritmo de força bruta
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -26,7 +26,7 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 
 - As Q novas senhas a serem testadas uma por linha.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT numerico apenas

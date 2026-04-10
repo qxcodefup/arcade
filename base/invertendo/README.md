@@ -1,15 +1,8 @@
 # Invertendo vetor
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
-## Contexto
-
-Alfredo, um capoeirista dedicado, estava sentado no cantinho da UFC quando um amigo se aproximou e perguntou:
-
-- *Que foi Alfredo. Que cara de sofrimento é essa?*
-- *Tô pensando nas ironias da vida. Consigo passar 5 minutos de ponta cabeça, mas não consigo inverter esse vetor.*
-
-Ajude Alfredo a inverter um vetor que será dado como entrada.
+Inverta um vetor de números inteiros e imprima o resultado.
 
 ### Entrada
 
@@ -17,11 +10,11 @@ Ajude Alfredo a inverter um vetor que será dado como entrada.
 
 - **N** números inteiros, separados por espaços, representando os elementos do vetor.
 
-### Saida
+### Saída
 
 - Imprima o vetor invertido, entre colchetes, com os elementos separados por espaços.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01

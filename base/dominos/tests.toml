@@ -26,7 +26,6 @@ ok
 '''
 
 [[tests]]
-label = '04'
 input = '''
 4
 1 1 2 3
@@ -36,7 +35,6 @@ ok
 '''
 
 [[tests]]
-label = '05'
 input = '''
 5
 1 2 6 8 3
@@ -46,7 +44,6 @@ precisa de ajuste
 '''
 
 [[tests]]
-label = '06'
 input = '''
 1
 500
@@ -56,7 +53,6 @@ ok
 '''
 
 [[tests]]
-label = '07'
 input = '''
 8
 1 2 6 12 45 54 99 100
@@ -66,7 +62,6 @@ ok
 '''
 
 [[tests]]
-label = '08'
 input = '''
 4
 2 3 4 1

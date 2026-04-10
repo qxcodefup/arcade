@@ -1,5 +1,4 @@
 [[tests]]
-label = '01'
 input = '''
 3
 Alameda do Anjos
@@ -22,7 +21,6 @@ output = '''
 '''
 
 [[tests]]
-label = '01'
 input = '''
 3
 Alameda do Anjos
@@ -45,7 +43,6 @@ output = '''
 '''
 
 [[tests]]
-label = '02'
 input = '''
 4
 Kimberly
@@ -73,7 +70,6 @@ output = '''
 '''
 
 [[tests]]
-label = '03'
 input = '''
 3
 Alameda do Andes
@@ -96,7 +92,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04'
 input = '''
 5
 Kimberly

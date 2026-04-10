@@ -1,6 +1,6 @@
 # Campo Minado
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -19,7 +19,7 @@ O jogador deve usar essas informações para deduzir em que quadrados próximos 
 
 Dada uma matriz com a posição de cada mina, seu o programa deve preencher o resto do campo (matriz) com números ou com vazios, por exemplo:
 
-![1](q.jpg)
+![1](assets/q.jpg)
 
 ``` py
 *-*
@@ -29,7 +29,7 @@ Dada uma matriz com a posição de cada mina, seu o programa deve preencher o re
 
 Esse é um campo 3x3 que tem duas minas (simbolizadas por \*). Devemos preencher dessa forma:
 
-![todos](q2.png)  
+![todos](assets/q2.png)  
 
 ``` py
 *2*
@@ -55,7 +55,7 @@ Considere ( 1 <=  **n, m**<= 50).
 
 * Campo preenchido com minas, vazios e números.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT
@@ -109,10 +109,10 @@ Considere ( 1 <=  **n, m**<= 50).
 
 O quadrado amarelo é quem é calculado no momento, e os vermelhos são as minas consideradas no cálculo.
 
-![ex1](q3.png)
+![ex1](assets/q3.png)
 
-![ex2](q4.png)
+![ex2](assets/q4.png)
 
-![ex3](q5.png)  
+![ex3](assets/q5.png)  
 
 Se ainda tiver dúvidas de como funciona, tente jogar um pouco. [JOGO](https://minesweeper.online/pt/new-game)

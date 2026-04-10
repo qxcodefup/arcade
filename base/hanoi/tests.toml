@@ -13,7 +13,6 @@ A -> C
 '''
 
 [[tests]]
-label = '02'
 input = '''
 5
 '''

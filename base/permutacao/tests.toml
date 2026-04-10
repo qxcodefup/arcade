@@ -1,5 +1,4 @@
 [[tests]]
-label = 'Teste 0'
 input = '''
 123
 5
@@ -9,7 +8,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 1'
 input = '''
 3215
 1
@@ -19,7 +17,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 2'
 input = '''
 4567
 6
@@ -29,7 +26,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 3'
 input = '''
 123456
 8
@@ -39,7 +35,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 4'
 input = '''
 7651
 2
@@ -49,7 +44,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 5'
 input = '''
 15578
 3
@@ -59,7 +53,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 6'
 input = '''
 321
 8
@@ -69,7 +62,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 7'
 input = '''
 12345678
 8
@@ -79,7 +71,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 8'
 input = '''
 0123456789
 10
@@ -89,7 +80,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 9'
 input = '''
 9081726354
 5
@@ -99,7 +89,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 10'
 input = '''
 6677
 2

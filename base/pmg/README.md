@@ -1,6 +1,6 @@
 # Soldados e tamanhos
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -34,7 +34,7 @@ double media(int vet[], int qtd){
 * Média das altura com duas casas decimais.
 * Para cada soldado, imprima 'P' se o mesmo tiver altura menor que a média, 'M' se for exatamente igual à média e 'G' se for maior que a média.  
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

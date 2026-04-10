@@ -1,6 +1,6 @@
 # Cabo de Guerra
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -24,7 +24,7 @@ Você recebe uma entrada que é um vetor de tamanho T de numeros positivos entre
 
 * "Jedi", "Sith", ou "Empate"
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

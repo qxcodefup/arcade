@@ -1,6 +1,6 @@
 # Chico Bento e Cebolinha
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

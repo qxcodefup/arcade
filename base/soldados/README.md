@@ -1,6 +1,6 @@
 # Soldados em Posição
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -21,7 +21,7 @@ Sua tarefa é criar um programa que, dada a matriz da formação, conte o númer
 
 - A verificação deve ser feita apenas verticalmente (dentro de cada coluna).
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

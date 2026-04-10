@@ -19,7 +19,6 @@ zwavn pvwaryn
 '''
 
 [[tests]]
-label = '03'
 input = '''
 aquoso estrela
 aeios
@@ -30,7 +29,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04'
 input = '''
 eu desejo eu quero eu vou
 eo

@@ -1,6 +1,6 @@
 # Valdiskley e a cifra V1
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -29,7 +29,7 @@ Dado uma letra e um valor de rotação retorne a letra resultante.
 
 * A letra resultante
 
-### Exemplos
+### Testes
 
 ``` py
 >>>>>>>> INSERT 01

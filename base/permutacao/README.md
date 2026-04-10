@@ -1,6 +1,6 @@
 # Permutação de fichas
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -50,7 +50,7 @@ Dada a ficha de Sara e o número de fichas seguintes que Sara comprou, determine
 
 - Seja S⁰ a primeira ficha, S¹ a segunda... S^n é permutação lexografica de S^(n-1).
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT Teste 0

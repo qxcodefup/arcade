@@ -31,7 +31,6 @@ output = '''
 '''
 
 [[tests]]
-label = '05'
 input = '''
 X
 '''
@@ -40,7 +39,6 @@ x
 '''
 
 [[tests]]
-label = '06'
 input = '''
 c
 '''
@@ -49,7 +47,6 @@ C
 '''
 
 [[tests]]
-label = '07'
 input = '''
 -
 '''
@@ -58,7 +55,6 @@ output = '''
 '''
 
 [[tests]]
-label = '08'
 input = '''
 @
 '''

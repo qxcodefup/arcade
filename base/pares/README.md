@@ -1,6 +1,6 @@
 # Calculando soma
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

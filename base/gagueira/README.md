@@ -1,6 +1,6 @@
 # Duplicar Palavras
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -20,7 +20,7 @@ Faça um programa que receba uma frase(max 100 char) e imprima a mesma frase com
 
 * A frase com as palavras repetidas.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

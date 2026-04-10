@@ -1,6 +1,6 @@
 # Contando ocorrência na cartela
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -27,7 +27,7 @@ Sua tarefa é, dado um vetor de 6 números inteiros (os números sorteados), ver
 
 - A entrada consistirá em 6 números inteiros.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

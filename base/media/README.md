@@ -1,24 +1,23 @@
 # Média de dois inteiros
 
-![Imagem Média de Dois Inteiros](cover.jpg)
+![Imagem Média de Dois Inteiros](assets/cover.jpg)
 
 ## Contexto
 
-Escreva um programa que recebe dois números inteiros e retorna a média aritmética
-deles.
+Escreva um programa que recebe dois números inteiros e retorna a média aritmética deles.
 
 ### Entrada
 
 - A entrada consiste em duas linhas. Cada linha contém um número inteiro.
 
-#### Saída
+### Saída
 
 - A saída deve conter a média aritmética dos dois números com uma casa decimal.
 
 ## Testes
 
 ```py
->>>>>>>> INSERT t1
+>>>>>>>> INSERT
 2
 4
 ======== EXPECT
@@ -27,38 +26,11 @@ deles.
 ```
 
 ```py
->>>>>>>> INSERT t2
+>>>>>>>> INSERT
 34
 21
 ======== EXPECT
 27.5
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT t3
--15
-234
-======== EXPECT
-109.5
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT t4
-12
-4
-======== EXPECT
-8.0
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT t5
--13
--14
-======== EXPECT
--13.5
 <<<<<<<< FINISH
 ```
 
@@ -80,8 +52,6 @@ int main() {
 
 ```py
 print(f"{resultado:.1f}")
-- ou -
-print("{:.1f}".format(resultado))
 ```
 
 ### Programando em: TypeScript
@@ -90,9 +60,4 @@ print("{:.1f}".format(resultado))
 
 ```ts
 console.log(resultado.toFixed(1)); 
-```
-
-```ts
-console.log(resultado.toFixed(1)); 
-write(resultado.toFixed(1));
 ```

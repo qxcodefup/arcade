@@ -1,6 +1,6 @@
 # É 3 ou 5
 
-![Imagem eh o número 3](cover.jpg)
+![Imagem eh o número 3](assets/cover.jpg)
 
 ## Contexto
 

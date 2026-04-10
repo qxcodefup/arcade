@@ -1,6 +1,6 @@
 # Jogo da vida - Autômatos
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -25,7 +25,7 @@ Mais informações: Procure sobre Jogo da vida na Wikipedia
 
 - Próxima geração do jogo.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

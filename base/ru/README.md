@@ -1,6 +1,6 @@
 # Separando vogais de consoantes
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -24,7 +24,7 @@ Sua tarefa é criar um programa que aplique essa mesma lógica a qualquer frase.
 
 - A entrada conterá apenas letras minúsculas e espaços.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

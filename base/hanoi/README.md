@@ -1,6 +1,6 @@
 # Torres de Hanoi
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -49,7 +49,7 @@ Este problema parece difícil de resolver para o caso geral com _n_ discos. Por�
 - Notação do movimento do disco no topo da torre
   - torre de origem -> torre de destino.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

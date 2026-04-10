@@ -15,7 +15,6 @@ output = '''
 '''
 
 [[tests]]
-label = '03'
 input = '''
 122
 '''
@@ -24,7 +23,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04'
 input = '''
 1
 '''
@@ -33,7 +31,6 @@ output = '''
 '''
 
 [[tests]]
-label = '05'
 input = '''
 11
 '''
@@ -42,7 +39,6 @@ output = '''
 '''
 
 [[tests]]
-label = '06'
 input = '''
 1235321
 '''
@@ -51,7 +47,6 @@ output = '''
 '''
 
 [[tests]]
-label = '07'
 input = '''
 0
 '''
@@ -60,7 +55,6 @@ output = '''
 '''
 
 [[tests]]
-label = '08'
 input = '''
 2220122
 '''

@@ -1,6 +1,6 @@
 # Derrubando dominós
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -22,7 +22,7 @@ Leia um vetor de tamanho n (quantidade de dominós) , e diga se ele está ordena
 * "ok" caso  caso vetor esteja ordenado.
 * "precisa de ajuste" caso vetor esteja desordenado.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

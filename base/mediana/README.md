@@ -1,6 +1,6 @@
 # Calculando a mediana
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -30,7 +30,7 @@ Assim, você deve ordenar o vetor antes de calcular a mediana.
 
 - O Valor da mediana com até uma casa decimal.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

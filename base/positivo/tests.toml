@@ -1,0 +1,39 @@
+[[tests]]
+input = '''
+3
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+-12
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+-3
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+1
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+0
+'''
+output = '''
+SIM
+'''

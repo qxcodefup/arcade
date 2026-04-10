@@ -1,6 +1,6 @@
 # Avestruz com Alcaparras - ignorar case
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Ação
 
@@ -16,7 +16,7 @@ OBS: Não use o método count do python.
 
 * O número de vezes que a letra aparece na frase.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

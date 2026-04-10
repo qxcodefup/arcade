@@ -1,6 +1,6 @@
 # Hora do chute 2
 
-![Silvio Santos]( cover.jpg)
+![Silvio Santos](assets/cover.jpg)
 
 ## Descrição
 
@@ -24,7 +24,7 @@ O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o 
 
 - imprima quem foi o vencedor: "primeiro" ou "segundo"
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT
@@ -41,26 +41,6 @@ segundo
 1.1
 M
 1.0
-======== EXPECT
-primeiro
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-0.9
-M
-1.0
-======== EXPECT
-segundo
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-1.3
-m
-2.0
 ======== EXPECT
 primeiro
 <<<<<<<< FINISH

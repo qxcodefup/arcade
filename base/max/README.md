@@ -1,12 +1,10 @@
 # Maior de dois números
 
-![abs](cover.jpg)
+![abs](assets/cover.jpg)
 
 ## Contexto
 
-Frequentemente, precisamos comparar valores numéricos para determinar o maior entre eles. Isso é útil em diversas aplicações, desde cálculos financeiros até decisões de lógica em sistemas.
-
-Implemente um programa que leia dois números inteiros e imprima o maior deles. Se os números forem iguais, imprima o número repetido. Esse programa ajudará a aprender a comparar dois números e a utilizar funções específicas da linguagem.
+Compare dois números inteiros e determine qual deles é o maior.
 
 ### Entrada
 
@@ -18,7 +16,7 @@ Implemente um programa que leia dois números inteiros e imprima o maior deles. 
 
 ### Desafio
 
-Caso sua linguagem tenha uma função pronta para esse problema, como max(), utilize-a. No entanto, também é importante tentar criar sua própria função para calcular o maior de dois números.
+Após fazer utilizando if e else, verifique se a linguagem que você está utilizando possui uma função ou método para encontrar o maior número entre dois valores e utilize-o para resolver o problema.
 
 ## Testes
 

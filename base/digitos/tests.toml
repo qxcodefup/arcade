@@ -53,7 +53,6 @@ output = '''
 '''
 
 [[tests]]
-label = '05 t2'
 input = '''
 1
 99123321
@@ -63,7 +62,6 @@ output = '''
 '''
 
 [[tests]]
-label = '06 t3'
 input = '''
 9
 95398900
@@ -73,7 +71,6 @@ output = '''
 '''
 
 [[tests]]
-label = '07 t4'
 input = '''
 1
 99176810
@@ -83,7 +80,6 @@ output = '''
 '''
 
 [[tests]]
-label = '08 t5'
 input = '''
 3
 432
@@ -93,7 +89,6 @@ output = '''
 '''
 
 [[tests]]
-label = '09 t6'
 input = '''
 4
 44449999
@@ -103,7 +98,6 @@ output = '''
 '''
 
 [[tests]]
-label = '10 t7'
 input = '''
 0
 100101010

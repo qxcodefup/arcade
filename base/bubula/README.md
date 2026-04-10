@@ -1,6 +1,6 @@
 # Nao se bula - Gagueira V2
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -25,7 +25,7 @@ Sua tarefa é implementar o código de Arnoldo. Para cada palavra com mais de um
 - O texto conterá letras, espaços e pontuação.
 - A regra de gagueira se aplica a palavras com mais de uma sílaba.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

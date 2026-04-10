@@ -39,7 +39,6 @@ primeiro
 '''
 
 [[tests]]
-label = '05'
 input = '''
 0.9
 M

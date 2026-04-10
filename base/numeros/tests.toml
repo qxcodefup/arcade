@@ -16,6 +16,14 @@ output = '''
 
 [[tests]]
 input = '''
+os 2 irmãos de maria dormiram os ultimos 2 dias na casa de seus avós
+'''
+output = '''
+4
+'''
+
+[[tests]]
+input = '''
 os 2 irmãos de maria durmiram os ultimos 2 dias na casa de seus avós
 '''
 output = '''
@@ -23,7 +31,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04'
 input = '''
 02 x dhgh 111 b 2 c d xf 31
 '''
@@ -32,7 +39,6 @@ output = '''
 '''
 
 [[tests]]
-label = '05'
 input = '''
 1 a x dhgh 11 b 2 c d xf 3
 '''

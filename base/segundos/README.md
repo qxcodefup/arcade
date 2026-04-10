@@ -1,11 +1,8 @@
 # Converter segundos em h:m:s
 
-![Imagem Tempo em Horas, Minutos e Segundos](cover.jpg)
+![Imagem Tempo em Horas, Minutos e Segundos](assets/cover.jpg)
 
 ## Contexto
-
-Em muitas situações do dia a dia, é necessário converter um tempo em segundos
-para horas e minutos.
 
 Implemente um programa que recebe um tempo em segundos e transformar no formato:
 
@@ -27,7 +24,7 @@ Hora:Minuto:Segundo
 ## Testes
 
 ```py
->>>>>>>> INSERT 0
+>>>>>>>> INSERT
 3641
 ======== EXPECT
 1:0:41
@@ -35,114 +32,10 @@ Hora:Minuto:Segundo
 ```
 
 ```py
->>>>>>>> INSERT 1
+>>>>>>>> INSERT
 22067
 ======== EXPECT
 6:7:47
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 2
-9934
-======== EXPECT
-2:45:34
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 3
-30100
-======== EXPECT
-8:21:40
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 4
-22769
-======== EXPECT
-6:19:29
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 5
-19324
-======== EXPECT
-5:22:4
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 6
-15078
-======== EXPECT
-4:11:18
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 7
-32958
-======== EXPECT
-9:9:18
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 8
-30562
-======== EXPECT
-8:29:22
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 9
-28064
-======== EXPECT
-7:47:44
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 10
-9305
-======== EXPECT
-2:35:5
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 11
-31745
-======== EXPECT
-8:49:5
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 12
-26881
-======== EXPECT
-7:28:1
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 13
-20427
-======== EXPECT
-5:40:27
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 14
-13561
-======== EXPECT
-3:46:1
 <<<<<<<< FINISH
 ```
 
@@ -150,7 +43,7 @@ Hora:Minuto:Segundo
 
 ### Programando em: C
 
-- Aqui está uma menira de realizar impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
+- Aqui está uma maneira de realizar impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
 
 ```c
 int main() {
@@ -166,10 +59,6 @@ int main() {
 print(f"{hora}:{minuto}:{segundos}")
 ```
 
-```py
-print("{}:{}:{}".format(hora, minuto, segundos))
-```
-
 ### Programando em: TypeScript
 
 - Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
@@ -178,14 +67,10 @@ print("{}:{}:{}".format(hora, minuto, segundos))
 console.log(hora + ":" + minuto + ":" + segundo);
 ```
 
-```ts
-write(hora + ":" + minuto + ":" + segundo);
-```
+### Programando em: Go
 
-```ts
-console.log(`${hora}:${minuto}:${segundo}`);
-```
+- Aqui está uma maneira de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
 
-```ts
-write(`${hora}:${minuto}:${segundo}`);
+```go
+fmt.Printf("%d:%d:%d", hora, minuto, segundo)
 ```

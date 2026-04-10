@@ -1,6 +1,6 @@
 # Ordenando vacinas e doentes
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 by @wladmir
 

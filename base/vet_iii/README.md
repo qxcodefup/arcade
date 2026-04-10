@@ -1,6 +1,6 @@
 # impressão formatada
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -36,7 +36,7 @@ void imprime_vetor(int vet[], int n) {
 ### Programando em Python
 
 ```py
-def imprime_vetor(vet: List[int]) -> None:
+def imprime_vetor(vet: list[int]) -> None:
 ```
 
 ### Programando em TS

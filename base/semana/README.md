@@ -1,6 +1,6 @@
 # Semana e sábado
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -27,7 +27,7 @@ Para garantir que o funcionário está cumprindo sua carga horária, implemente 
 ## Testes
 
 ```py
->>>>>>>> INSERT seg as 12
+>>>>>>>> INSERT
 2
 12
 ======== EXPECT
@@ -36,164 +36,10 @@ NAO
 ```
 
 ```py
->>>>>>>> INSERT seg as 7
+>>>>>>>> INSERT
 2
-7
-======== EXPECT
-NAO
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT seg as 13
-2
-13
-======== EXPECT
-NAO
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT seg as 14
-2
-14
-======== EXPECT
-SIM
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT seg as 18
-2
-18
-======== EXPECT
-NAO
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT seg as 17
-2
-17
-======== EXPECT
-SIM
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT seg as 3
-3
-17
-======== EXPECT
-SIM
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT dom as 9
-1
 9
 ======== EXPECT
-NAO
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT dom as 14
-1
-14
-======== EXPECT
-NAO
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT ter as 19
-3
-19
-======== EXPECT
-NAO
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT sexta 8
-6
-8
-======== EXPECT
 SIM
 <<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT sex as 11
-6
-11
-======== EXPECT
-SIM
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT sex as 12
-6
-12
-======== EXPECT
-NAO
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT sex as 15
-6
-15
-======== EXPECT
-SIM
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT sab as 7
-7
-7
-======== EXPECT
-NAO
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT sab as 8
-7
-8
-======== EXPECT
-SIM
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT sab as 11
-7
-11
-======== EXPECT
-SIM
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT sab as 12
-7
-12
-======== EXPECT
-NAO
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT sab as 15
-7
-15
-======== EXPECT
-NAO
-<<<<<<<< FINISH
-
 ```

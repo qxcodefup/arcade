@@ -1,6 +1,6 @@
 # Contar Substrings
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -26,7 +26,7 @@ Ajude Amora a verificar suas cartas. Faça um programa que recebe duas entradas:
 - A frase terá no máximo **100** caracteres.
 - O trecho terá no máximo **20** caracteres.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

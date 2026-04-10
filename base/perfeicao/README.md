@@ -1,6 +1,6 @@
 # Eribelton e a Ascologia V2
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -23,7 +23,7 @@ nenhuma adição que coloque o valor em 0, escreva "sem sorte".
 
 O novo nome ou "sem sorte"
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

@@ -1,5 +1,4 @@
 [[tests]]
-label = '01'
 input = '''
 sponge
 gun
@@ -9,7 +8,6 @@ jog1
 '''
 
 [[tests]]
-label = '02'
 input = '''
 air
 scissors
@@ -19,7 +17,6 @@ jog2
 '''
 
 [[tests]]
-label = '03'
 input = '''
 gun
 gun
@@ -29,7 +26,6 @@ empate
 '''
 
 [[tests]]
-label = '04'
 input = '''
 air
 gun
@@ -39,7 +35,6 @@ jog1
 '''
 
 [[tests]]
-label = '05'
 input = '''
 fire
 air
@@ -49,7 +44,6 @@ jog2
 '''
 
 [[tests]]
-label = '06'
 input = '''
 water
 human
@@ -59,7 +53,6 @@ jog2
 '''
 
 [[tests]]
-label = '07'
 input = '''
 scissors
 paper
@@ -69,7 +62,6 @@ jog1
 '''
 
 [[tests]]
-label = '08'
 input = '''
 sponge
 human
@@ -79,7 +71,6 @@ jog2
 '''
 
 [[tests]]
-label = '09'
 input = '''
 human
 fire
@@ -89,7 +80,6 @@ jog2
 '''
 
 [[tests]]
-label = '10'
 input = '''
 air
 water
@@ -99,7 +89,6 @@ jog1
 '''
 
 [[tests]]
-label = '11'
 input = '''
 water
 paper
@@ -109,7 +98,6 @@ jog2
 '''
 
 [[tests]]
-label = '12'
 input = '''
 human
 scissors
@@ -119,7 +107,6 @@ jog2
 '''
 
 [[tests]]
-label = '13'
 input = '''
 paper
 sponge
@@ -129,7 +116,6 @@ jog2
 '''
 
 [[tests]]
-label = '14'
 input = '''
 water
 gun

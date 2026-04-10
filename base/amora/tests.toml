@@ -17,7 +17,6 @@ output = '''
 '''
 
 [[tests]]
-label = '03'
 input = '''
 lua de cristal que me faz sonhar menos
 me
@@ -27,7 +26,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04'
 input = '''
 marquei um x no seu umbigo de zumbak
 um
@@ -37,7 +35,6 @@ output = '''
 '''
 
 [[tests]]
-label = '05'
 input = '''
 super golpe de kungfu
 kungfu

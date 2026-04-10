@@ -1,6 +1,6 @@
 # Inverter Case de char
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

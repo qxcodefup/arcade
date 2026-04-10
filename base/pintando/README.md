@@ -1,6 +1,6 @@
 # Pintando a casa
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -8,7 +8,7 @@ Fernando comprou uma casa triangular. Ao tentar calcular a quantidade de tinta n
 
 Implemente um programa que, dado o tamanho dos três lados de um triângulo, calcule a área utilizando a Fórmula de Heron:
 
-![formula](heron.jpg)​
+![formula](assets/heron.jpg)​
 
 ### Entrada
 
@@ -71,10 +71,6 @@ print("{:.6f}".format(resultado))
 
 ```ts
 console.log(resultado.toFixed(6)); 
-```
-
-```ts
-write(resultado.toFixed(6));
 ```
 
 ## Resolução

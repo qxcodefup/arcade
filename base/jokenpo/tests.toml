@@ -1,5 +1,4 @@
 [[tests]]
-label = '01'
 input = '''
 R
 P
@@ -9,7 +8,6 @@ jog2
 '''
 
 [[tests]]
-label = '02'
 input = '''
 P
 P
@@ -19,7 +17,6 @@ empate
 '''
 
 [[tests]]
-label = '03'
 input = '''
 S
 P
@@ -29,7 +26,6 @@ jog1
 '''
 
 [[tests]]
-label = '04'
 input = '''
 S
 S
@@ -39,7 +35,6 @@ empate
 '''
 
 [[tests]]
-label = '05'
 input = '''
 R
 S
@@ -49,7 +44,6 @@ jog1
 '''
 
 [[tests]]
-label = '06'
 input = '''
 S
 R
@@ -59,7 +53,6 @@ jog2
 '''
 
 [[tests]]
-label = '07'
 input = '''
 R
 R
@@ -69,7 +62,6 @@ empate
 '''
 
 [[tests]]
-label = '08'
 input = '''
 P
 R

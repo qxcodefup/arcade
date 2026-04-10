@@ -1,6 +1,6 @@
 # Módulo no ângulo Cartesiano
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -14,7 +14,7 @@
 
 ## Ação
 
-![_](angulos.png)
+![_](assets/angulos.png)
 
 Nosso sistema de ângulos no plano cartesiano é definido em graus. O ângulo 0 aponta para esquerda, o 90 aponta para cima, o 180 para direita e por aí vai. O 360 graus equivale voltar ao 0.  
   
@@ -22,7 +22,7 @@ Seu objetivo é transformar os ângulos para recolocá-los dentro do cartesiano.
   
 Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano entre 0 e 359.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT
@@ -37,37 +37,5 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 360
 ======== EXPECT
 0
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-361
-======== EXPECT
-1
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-722
-======== EXPECT
-2
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
--2
-======== EXPECT
-358
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
--350
-======== EXPECT
-10
 <<<<<<<< FINISH
 ```

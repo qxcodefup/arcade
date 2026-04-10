@@ -1,6 +1,6 @@
 # Separe Pneumatócito
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -28,7 +28,7 @@ Se após uma vogal existir uma consoante, deve-se separar a sílaba.
 
 * O mesmo texto com **- (hífen)** entre as sílabas.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

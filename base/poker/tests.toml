@@ -1,5 +1,4 @@
 [[tests]]
-label = '01'
 input = '''
 5
 1 2 3 4 5
@@ -27,7 +26,6 @@ Teste 5
 '''
 
 [[tests]]
-label = '02'
 input = '''
 100
 11 7 11 11 8
@@ -435,7 +433,6 @@ Teste 100
 '''
 
 [[tests]]
-label = '03'
 input = '''
 25
 1 2 3 4 5
@@ -543,7 +540,6 @@ Teste 25
 '''
 
 [[tests]]
-label = '04'
 input = '''
 20
 1 1 1 1 2
@@ -631,7 +627,6 @@ Teste 20
 '''
 
 [[tests]]
-label = '05'
 input = '''
 20
 1 1 1 2 2
@@ -719,7 +714,6 @@ Teste 20
 '''
 
 [[tests]]
-label = '06'
 input = '''
 20
 1 1 1 2 3
@@ -807,7 +801,6 @@ Teste 20
 '''
 
 [[tests]]
-label = '07'
 input = '''
 20
 1 2 1 2 3
@@ -895,7 +888,6 @@ Teste 20
 '''
 
 [[tests]]
-label = '08'
 input = '''
 20
 3 11 11 9 5
@@ -983,7 +975,6 @@ Teste 20
 '''
 
 [[tests]]
-label = '09'
 input = '''
 100
 12 9 12 9 12
@@ -1391,7 +1382,6 @@ Teste 100
 '''
 
 [[tests]]
-label = '10'
 input = '''
 100
 9 10 8 6 7

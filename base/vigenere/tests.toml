@@ -29,7 +29,6 @@ a casa ta aberta
 '''
 
 [[tests]]
-label = '04'
 input = '''
 o bobe!
 ab
@@ -40,7 +39,6 @@ o coce!
 '''
 
 [[tests]]
-label = '05'
 input = '''
 o coce!
 ab

@@ -1,6 +1,6 @@
 # Sorvete suor casaca chicletes - Letras em Comum
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -30,7 +30,7 @@ Dada uma frase com até 100 caracteres, será que você consegue me dizer a quan
 
 - Um inteiro representando a quantidade de letras em comum.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

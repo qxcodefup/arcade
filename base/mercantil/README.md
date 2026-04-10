@@ -1,6 +1,6 @@
 # Mercantil com muitas rodadas
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -26,7 +26,7 @@
 
 - Resultado do jogo ("primeiro" ou "segundo" ou "empate").
 
-## Exemplos  
+## Testes  
 
 ``` py
 >>>>>>>> INSERT

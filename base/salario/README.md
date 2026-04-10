@@ -1,6 +1,6 @@
 # Calculando aumento
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -80,8 +80,4 @@ print("{:.2f}".format(resultado))
 
 ```ts
 console.log(resultado.toFixed(2)); 
-```
-
-```ts
-write(resultado.toFixed(2));
 ```

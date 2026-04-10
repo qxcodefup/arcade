@@ -1,6 +1,6 @@
 # Gomos da cobrinha
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -20,7 +20,7 @@ Sua tarefa é simular o movimento de uma cobra em um plano 2D. A cobra é compos
 - O eixo **x** aumenta para a direita.
 - O eixo **y** aumenta para baixo.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

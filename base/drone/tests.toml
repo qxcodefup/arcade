@@ -35,7 +35,6 @@ S
 '''
 
 [[tests]]
-label = '04'
 input = '''
 1
 1
@@ -48,7 +47,6 @@ S
 '''
 
 [[tests]]
-label = '05'
 input = '''
 80
 80
@@ -61,7 +59,6 @@ N
 '''
 
 [[tests]]
-label = '06'
 input = '''
 2
 2
@@ -74,7 +71,6 @@ S
 '''
 
 [[tests]]
-label = '07'
 input = '''
 10
 20

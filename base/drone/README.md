@@ -1,6 +1,6 @@
 # Dronede Entrega - OBI 2017 - Fase 1
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

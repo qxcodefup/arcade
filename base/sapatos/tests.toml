@@ -1,5 +1,4 @@
 [[tests]]
-label = '01'
 input = '''
 1
 20
@@ -9,7 +8,6 @@ output = '''
 '''
 
 [[tests]]
-label = '02'
 input = '''
 1
 10
@@ -19,7 +17,6 @@ output = '''
 '''
 
 [[tests]]
-label = '03'
 input = '''
 10
 1
@@ -29,7 +26,6 @@ invalido
 '''
 
 [[tests]]
-label = '04'
 input = '''
 6
 6
@@ -39,7 +35,6 @@ output = '''
 '''
 
 [[tests]]
-label = '05'
 input = '''
 1
 500
@@ -49,7 +44,6 @@ output = '''
 '''
 
 [[tests]]
-label = '06'
 input = '''
 100
 90
@@ -59,7 +53,6 @@ invalido
 '''
 
 [[tests]]
-label = '07'
 input = '''
 12
 12

@@ -23,7 +23,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04'
 input = '''
 500.00
 '''
@@ -32,7 +31,6 @@ output = '''
 '''
 
 [[tests]]
-label = '05'
 input = '''
 1000.00
 '''
@@ -41,7 +39,6 @@ output = '''
 '''
 
 [[tests]]
-label = '06'
 input = '''
 1001.00
 '''
@@ -50,7 +47,6 @@ output = '''
 '''
 
 [[tests]]
-label = '08'
 input = '''
 2000.00
 '''
@@ -59,7 +55,6 @@ output = '''
 '''
 
 [[tests]]
-label = '09'
 input = '''
 3007.21
 '''

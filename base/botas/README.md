@@ -1,6 +1,6 @@
 # Botas trocadas - OBI 2017
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -23,7 +23,7 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 - 30 ≤ M ≤ 60
 - L é o caractere 'D' ou o caractere 'E'
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

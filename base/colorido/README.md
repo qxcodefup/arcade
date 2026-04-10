@@ -1,6 +1,6 @@
 # Paulo Victor e seu sapato colorido
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

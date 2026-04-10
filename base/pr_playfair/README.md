@@ -2,7 +2,7 @@
 
 O objetivo desse trabalho é a construção de um programa que realize a cifragem e a decifragem de um texto utilizando a criptografia de Playfair. Ele demandará de conhecimento dos assuntos de strings, matrizes e um pouco de arquivos.
 
-![Autoria de Charles Wheatstone](author.jpg)
+![Autoria de Charles Wheatstone](assets/author.jpg)
 
 O conteúdo dessa seção é retirada do site abaixo. Apenas os conteúdos mais importantes foram copiados pra cá. Sugiro que você leia na íntegra no seguinte [site](http://www.numaboa.com.br/criptografia/substituicoes/poligramicas/1041-playfair).
 

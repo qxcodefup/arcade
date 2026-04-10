@@ -3,7 +3,7 @@
 O objetivo desse trabalho é fazer um código que simule um bingo e um
 gerador de cartelas.
 
-![Roleta e Mesa](roleta.jpg)
+![Roleta e Mesa](assets/roleta.jpg)
 
 <http://www.bingosonline.com/regras-bingo/75-bolas>
 
@@ -110,7 +110,7 @@ Aqui cada letra contem bolas dentro de uma faixa.
 Os números normalmente não são ordenados dentro da letra. A seguir o
 exemplo de uma cartela.
 
-![Cartela](cartela.jpg)
+![Cartela](assets/cartela.jpg)
 
 ## Exemplo Parte 2
 

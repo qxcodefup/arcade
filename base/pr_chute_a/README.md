@@ -102,7 +102,7 @@ int main() {
 }
 ```
 
-## Exemplos de interação
+## Testes de interação
 
 ```txt
 Diga um numero entre ]0, 100[: 50

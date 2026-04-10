@@ -26,7 +26,6 @@ Empate
 '''
 
 [[tests]]
-label = '04'
 input = '''
 13
 1
@@ -36,7 +35,6 @@ Jogador 1
 '''
 
 [[tests]]
-label = '05'
 input = '''
 12
 10
@@ -46,7 +44,6 @@ Jogador 2
 '''
 
 [[tests]]
-label = '06'
 input = '''
 8
 10
@@ -56,7 +53,6 @@ Jogador 1
 '''
 
 [[tests]]
-label = '07'
 input = '''
 1
 12
@@ -66,7 +62,6 @@ Jogador 2
 '''
 
 [[tests]]
-label = '08'
 input = '''
 9
 1
@@ -76,7 +71,6 @@ Jogador 1
 '''
 
 [[tests]]
-label = '09'
 input = '''
 2
 7
@@ -86,7 +80,6 @@ Jogador 1
 '''
 
 [[tests]]
-label = '10'
 input = '''
 5
 4
@@ -96,7 +89,6 @@ Jogador 2
 '''
 
 [[tests]]
-label = '11'
 input = '''
 8
 1
@@ -106,7 +98,6 @@ Jogador 2
 '''
 
 [[tests]]
-label = '12'
 input = '''
 0
 6

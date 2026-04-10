@@ -1,6 +1,6 @@
 # Distância entre dois pontos
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -15,14 +15,14 @@ Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto
 - Coordenada ***X*** e coordenada ***Y*** do primeiro ponto.
 - Coordenada ***X*** e coordenada ***Y*** do segundo ponto.
 
-#### Saída
+### Saída
 
 - A distância entre os pontos com duas casas decimais.
 
 ## Testes
 
 ```py
->>>>>>>> INSERT 01
+>>>>>>>> INSERT
 3
 7
 1
@@ -33,7 +33,7 @@ Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto
 ```
 
 ```py
->>>>>>>> INSERT 02
+>>>>>>>> INSERT
 1
 8.2
 -4
@@ -44,7 +44,7 @@ Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto
 ```
 
 ```py
->>>>>>>> INSERT 03
+>>>>>>>> INSERT
 3
 1
 3
@@ -122,10 +122,6 @@ quadrado =  numero ** 2
 
 ```ts
 console.log(resultado.toFixed(2)); 
-```
-
-```ts
-write(resultado.toFixed(2));
 ```
 
 - Em TypeScript, a abordagem é semelhante à do JavaScript. Não há uma biblioteca padrão para funções matemáticas, mas podemos utilizar a biblioteca Math global.

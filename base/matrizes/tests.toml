@@ -1,5 +1,4 @@
 [[tests]]
-label = '00'
 input = '''
 2
 3
@@ -14,7 +13,6 @@ output = '''
 '''
 
 [[tests]]
-label = '01'
 input = '''
 2
 1
@@ -29,7 +27,6 @@ output = '''
 '''
 
 [[tests]]
-label = '02'
 input = '''
 3
 3
@@ -47,7 +44,6 @@ output = '''
 '''
 
 [[tests]]
-label = '03'
 input = '''
 1
 1
@@ -59,7 +55,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04'
 input = '''
 2
 2

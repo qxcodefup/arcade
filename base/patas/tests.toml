@@ -1,5 +1,52 @@
 [[tests]]
-label = 'um animal'
+input = '''
+18
+15
+5
+c
+c
+g
+v
+g
+'''
+output = '''
+16
+Cebolinha
+'''
+
+[[tests]]
+input = '''
+15
+18
+5
+c
+c
+g
+v
+g
+'''
+output = '''
+16
+Chico Bento
+'''
+
+[[tests]]
+input = '''
+17
+15
+5
+c
+c
+g
+v
+g
+'''
+output = '''
+16
+empate
+'''
+
+[[tests]]
 input = '''
 4
 4
@@ -54,52 +101,4 @@ g
 output = '''
 16
 empate
-'''
-
-[[tests]]
-input = '''
-17
-15
-5
-c
-c
-g
-v
-g
-'''
-output = '''
-16
-empate
-'''
-
-[[tests]]
-input = '''
-18
-15
-5
-c
-c
-g
-v
-g
-'''
-output = '''
-16
-Cebolinha
-'''
-
-[[tests]]
-input = '''
-15
-18
-5
-c
-c
-g
-v
-g
-'''
-output = '''
-16
-Chico Bento
 '''

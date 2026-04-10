@@ -2,7 +2,7 @@
 
 ## Lendo cenário
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -41,7 +41,7 @@ __#######_
 - O vetor terá entre **1** e **20** elementos.
 - Cada número no vetor (altura) estará entre **1** e **20**.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

@@ -1,6 +1,6 @@
 # Mini poker - OBI2005
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -48,7 +48,7 @@ A grafia mostrada no Exemplo de Saída, abaixo, deve ser seguida rigorosamente. 
 - 1 ≤ N ≤ 100  
 - 1 ≤ C1 , C2 , C3 , C4 , C5 ≤ 13
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01

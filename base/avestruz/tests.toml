@@ -26,7 +26,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04 !%'
 input = '''
 A Xuxa xogou xapatos no xacare Xato e xujo
 x

@@ -39,7 +39,6 @@ P G G G
 '''
 
 [[tests]]
-label = '05'
 input = '''
 3
 1.7 1.6 1.8
@@ -50,7 +49,6 @@ M P G
 '''
 
 [[tests]]
-label = '06'
 input = '''
 2
 1.6 1.7

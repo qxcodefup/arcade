@@ -1,6 +1,6 @@
 # Troca de valores de variáveis
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Ação
 
@@ -20,7 +20,7 @@ Você deverá:
 - Implementar a função 'troca'.
 - Chamar a função 'troca' dentro da função 'main'.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

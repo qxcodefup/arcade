@@ -1,6 +1,6 @@
 # Jogo da cobrinha
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -10,7 +10,7 @@ O primeiro jogo que Mavarildo instalou foi o jogo da cobrinha. Mas ele é distra
 
 No jogo da cobrinha, quando a cabeça passa do limite direito, ela reaparece do lado esquerdo. Quando passa do limite inferior, reaparece na parte de cima. Imagine o jogo apenas com a cabeça da cobra. A tela é quadrada, formada por N quadrados de largura e N quadrados de altura. O quadrado de posição 0, 0 é o mais em cima na esquerda. O X cresce para direita e o Y para baixo de acordo com a seguinte figura.
 
-![_](pontos.jpg)
+![_](assets/pontos.jpg)
 
 A cabeça da cobra pode estar apontada para 4 possíveis direções.
 

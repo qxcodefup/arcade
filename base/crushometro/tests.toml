@@ -35,7 +35,6 @@ As chances do crush te dar bola sao: 100%!
 '''
 
 [[tests]]
-label = '05'
 input = '''
 Sabrina
 Sheehan
@@ -45,7 +44,6 @@ As chances do crush te dar bola sao: 70%!
 '''
 
 [[tests]]
-label = '06'
 input = '''
 Cosette
 Caboclos
@@ -55,7 +53,6 @@ As chances do crush te dar bola sao: 40%!
 '''
 
 [[tests]]
-label = '07'
 input = '''
 Ermanoteu
 Helainete
@@ -65,7 +62,6 @@ As chances do crush te dar bola sao: 80%!
 '''
 
 [[tests]]
-label = '08'
 input = '''
 Will
 Ana
@@ -75,7 +71,6 @@ As chances do crush te dar bola sao: 0%!
 '''
 
 [[tests]]
-label = '09'
 input = '''
 Emerson
 Tamires
@@ -85,7 +80,6 @@ As chances do crush te dar bola sao: 80%!
 '''
 
 [[tests]]
-label = '10'
 input = '''
 Eduardo
 Gabriel
@@ -95,7 +89,6 @@ As chances do crush te dar bola sao: 20%!
 '''
 
 [[tests]]
-label = '11'
 input = '''
 Zac
 Zyra
@@ -105,7 +98,6 @@ As chances do crush te dar bola sao: 40%!
 '''
 
 [[tests]]
-label = '12'
 input = '''
 Talyta
 Thanos
@@ -115,7 +107,6 @@ As chances do crush te dar bola sao: 70%!
 '''
 
 [[tests]]
-label = '13'
 input = '''
 Sakura
 Sasuke

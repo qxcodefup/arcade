@@ -1,6 +1,6 @@
 # Calculando se é
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -8,10 +8,7 @@ Dado um número inteiro, faça uma função que verifique se ele é primo.
 
 ### Estratégias
 
-- Com laço
-  - Faça um laço de i = 2 até sqrt(n) para ver se o valor é divisível por i.
-- Com recursão
-  - Substitua o laço por um algoritmo recursivo.
+- Faça um laço de i = 2 até sqrt(n) para ver se o valor é divisível por i
 
 ### Entrada
 
@@ -21,7 +18,7 @@ Dado um número inteiro, faça uma função que verifique se ele é primo.
 
 - O número **1** se **N** for primo e **0** caso contrário.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

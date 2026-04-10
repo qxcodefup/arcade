@@ -47,7 +47,6 @@ output = '''
 '''
 
 [[tests]]
-label = '03'
 input = '''
 5
 1
@@ -60,7 +59,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04'
 input = '''
 0
 1

@@ -1,5 +1,4 @@
 [[tests]]
-label = '01'
 input = '''
 2
 ana 80 f
@@ -10,7 +9,6 @@ ana
 '''
 
 [[tests]]
-label = '02'
 input = '''
 2
 jose 80 m
@@ -21,7 +19,6 @@ nao tem mulher
 '''
 
 [[tests]]
-label = '03'
 input = '''
 3
 joao 43 m
@@ -33,7 +30,6 @@ ana
 '''
 
 [[tests]]
-label = '04'
 input = '''
 3
 joao 88 m
@@ -45,7 +41,6 @@ melissa
 '''
 
 [[tests]]
-label = '05'
 input = '''
 3
 joao 88 m
@@ -57,7 +52,6 @@ nao tem mulher
 '''
 
 [[tests]]
-label = '06'
 input = '''
 7
 maria 11 f
@@ -73,7 +67,6 @@ meire
 '''
 
 [[tests]]
-label = '07'
 input = '''
 6
 maria 11 f
@@ -88,7 +81,6 @@ meire
 '''
 
 [[tests]]
-label = '08'
 input = '''
 5
 maria 99 f
@@ -102,7 +94,6 @@ maria
 '''
 
 [[tests]]
-label = '09'
 input = '''
 7
 mario 80 m

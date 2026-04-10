@@ -35,7 +35,6 @@ output = '''
 '''
 
 [[tests]]
-label = '05'
 input = '''
 0 0 0
 1 1 1
@@ -45,7 +44,6 @@ output = '''
 '''
 
 [[tests]]
-label = '06'
 input = '''
 10 0 0
 11 12 13
@@ -55,7 +53,6 @@ output = '''
 '''
 
 [[tests]]
-label = '07'
 input = '''
 04 05 00
 03 05 00
@@ -65,7 +62,6 @@ output = '''
 '''
 
 [[tests]]
-label = '08'
 input = '''
 03 15 32
 21 34 07
@@ -75,7 +71,6 @@ output = '''
 '''
 
 [[tests]]
-label = '09'
 input = '''
 21 15 32
 06 34 09

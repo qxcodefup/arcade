@@ -1,6 +1,6 @@
 # Imprimir vetor formatado
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 

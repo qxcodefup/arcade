@@ -21,7 +21,6 @@ Final com 6.0
 '''
 
 [[tests]]
-label = '03'
 input = '''
 10
 10
@@ -33,7 +32,6 @@ Aprovado com 10.0
 '''
 
 [[tests]]
-label = '04'
 input = '''
 10
 10
@@ -45,7 +43,6 @@ Aprovado com 10.0
 '''
 
 [[tests]]
-label = '05'
 input = '''
 8
 8
@@ -57,7 +54,6 @@ Aprovado com 8.0
 '''
 
 [[tests]]
-label = '06'
 input = '''
 6.5
 7.5
@@ -69,7 +65,6 @@ Aprovado com 7.0
 '''
 
 [[tests]]
-label = '07'
 input = '''
 2
 10
@@ -81,7 +76,6 @@ Final com 6.0
 '''
 
 [[tests]]
-label = '08'
 input = '''
 6.9
 6.9

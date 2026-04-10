@@ -1,6 +1,6 @@
 # Número palíndromo
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -8,18 +8,13 @@ A bordo da Enterprise, Spok recebeu a missão de explorar novos planetas. Cada p
 
 Sua tarefa é criar uma função que recebe um inteiro referente ao ID de um planeta e retorna 1 (true) se o ID for palíndromo e 0 (false) caso contrário.
 
-### Estratágias
+### Estratégias
 
-Fazer uma função que recebe um inteiro referente ao ID de um planeta e retorne 1 (true)  se o ID é palíndromo e 0 (false) caso contrário.
-
-- Apenas repetição
-  - **Obs 1:** Faça essa questão sem usar vetores ou strings.  
-  - **Obs 2:** Um número é `palíndromo` quando o seu inverso é igual a ele.
-  - Por exemplo: 121 é palíndromo pois seu inverso é 121.
-- Recursão
-  - Crie uma função recursiva que recebe o número e retorna ele invertido
-
-**Dica:** Vá consumindo o número utilizando operadores de módulo e divisão por 10 enquanto monta o número invertido.
+- **Obs 1:** Faça essa questão sem usar vetores ou strings.  
+- **Obs 2:** Um número é `palíndromo` quando o seu inverso é igual a ele.
+- Por exemplo: 121 é palíndromo pois seu inverso é 121.
+- Vá consumindo o número utilizando operadores de módulo e divisão por 10 enquanto monta o número invertido.
+- Tente criar uma função que gera o número invertido.
 
 ### Entrada
 
@@ -33,7 +28,7 @@ Fazer uma função que recebe um inteiro referente ao ID de um planeta e retorne
 
 - O ID do planeta será um número inteiro positivo que cabe em uma variável do tipo `int`.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

@@ -1,6 +1,6 @@
 # Zerim ou um americano
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -24,7 +24,7 @@ Suponha que existem 4 jogadores. O contador, o jogador 1, aponta pra cima e diz 
 
 - "nenhum" se a soma deu 0, jog1, jog2, jog3 ou jog4.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

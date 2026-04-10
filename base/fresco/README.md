@@ -1,6 +1,6 @@
 # Juntar palavras
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -22,7 +22,7 @@ Sua tarefa é criar um programa que simule esse efeito. Dado um texto, você dev
 - Haverá apenas um espaço entre as palavras, sem espaços no início ou no fim da frase.
 - Se a junção de palavras criar uma sequência de 3 ou mais vogais, todas devem ser unidas.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

@@ -1,6 +1,6 @@
 # Par ou impar
 
-![Imagem eh Positivo](cover.jpg)
+![Imagem eh Positivo](assets/cover.jpg)
 
 ## Ação
 
@@ -15,7 +15,7 @@ Implemente um programa que recebe um número inteiro e diga se ele é par ou imp
 - "PAR" se o número for impar
 - "IMPAR" se o número for par
 
-## Exemplos
+## Testes
 
 ```py
 >>>>>>>> INSERT 0

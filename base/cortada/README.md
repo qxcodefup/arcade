@@ -1,6 +1,6 @@
 # Essa nota presta? - OBI 2019 F1P1
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -12,7 +12,7 @@ A nota é um retângulo de comprimento 160 centímetros e altura 70 centímetros
 
 A parte direita da figura ilustra dois possíveis cortes. No de cima, Marzia ficaria claramente com o maior pedaço, que vale 100 reais; e no de baixo, dá para ver que Felix é quem ficaria com o maior pedaço.
 
-![_](figura.jpg)
+![_](assets/figura.jpg)
 
 O corte reto vai começar na base a uma distância de B centímetros a partir do lado esquerdo da nota; e terminar no topo a uma distância de T centímetros também a partir do lado esquerdo da nota. Veja a indicação na parte direita da figura. Neste problema, dados os valores B e T, seu programa deve computar quem vai ficar com o pedaço que vale 100 reais, ou se o valor da nota se perdeu.
 

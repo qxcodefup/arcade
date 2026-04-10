@@ -1,6 +1,6 @@
 # Krueguer e Jason - Busca de maior ocorrência
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -35,7 +35,7 @@ Sua tarefa é criar um programa que, dada uma string, encontre e retorne a subse
 - **1 ≤ N ≤ 50**
 - A frase de cada caso de teste terá no máximo **50** caracteres e conterá apenas letras minúsculas.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

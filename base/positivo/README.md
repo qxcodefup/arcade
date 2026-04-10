@@ -1,12 +1,10 @@
 # É positivo
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
-Em muitas aplicações, precisamos verificar se um número é positivo ou não para tomar decisões. Por exemplo, ao validar se uma quantidade ou saldo está em condições aceitáveis.
-
-Implemente um programa que recebe um número inteiro e imprime "SIM" se o número for maior ou igual a zero. Caso contrário, o programa apenas imprimirá uma linha vazia.
+Implemente um programa que recebe um número inteiro e imprime "SIM" se o número for maior ou igual a zero. Caso contrário, o programa apenas imprimirá NAO.
 
 ### Entrada
 
@@ -19,7 +17,7 @@ Implemente um programa que recebe um número inteiro e imprime "SIM" se o númer
 ## Testes
 
 ```py
->>>>>>>> INSERT 0
+>>>>>>>> INSERT
 3
 ======== EXPECT
 SIM
@@ -27,7 +25,7 @@ SIM
 ```
 
 ```py
->>>>>>>> INSERT 1
+>>>>>>>> INSERT
 -12
 ======== EXPECT
 NAO
@@ -35,7 +33,7 @@ NAO
 ```
 
 ```py
->>>>>>>> INSERT 2
+>>>>>>>> INSERT
 -3
 ======== EXPECT
 NAO
@@ -43,7 +41,7 @@ NAO
 ```
 
 ```py
->>>>>>>> INSERT 3
+>>>>>>>> INSERT
 1
 ======== EXPECT
 SIM
@@ -51,7 +49,7 @@ SIM
 ```
 
 ```py
->>>>>>>> INSERT 4
+>>>>>>>> INSERT
 0
 ======== EXPECT
 SIM

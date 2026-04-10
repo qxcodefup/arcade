@@ -1,6 +1,6 @@
 # Guerra civil no Universo Marvel
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -27,7 +27,7 @@ Crie um programa que receba o número de integrantes, crie um vetor para cada ti
 * Time vencedor
 * Nome do campeão mais poderoso
 
-### Exemplos
+### Testes
 
 ``` py
 >>>>>>>> INSERT

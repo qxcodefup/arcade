@@ -1,6 +1,6 @@
 # Luta até a morte
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -19,7 +19,7 @@ A função duelo recebe como entrada dois dicionários, onde cada um deles repre
 - 3a linha - vida do 2o personagem  
 - 4a linha - ataque do 2o personagem  
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

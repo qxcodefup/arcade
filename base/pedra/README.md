@@ -1,6 +1,6 @@
 # Pedra na lua
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -31,7 +31,7 @@ Você deve escrever um programa que identifique o competidor vencedor.
 - Cada competidor arremessa duas pedras, cujas distâncias estão entre **1** e **100 metros**.
 - Todos os competidores que lançarem **qualquer** pedra a **menos de 10 metros** são automaticamente **desclassificados**.
 
-### Testes
+## Testes
 
 ```py
 >>>>>>>> INSERT
@@ -51,29 +51,6 @@ Você deve escrever um programa que identifique o competidor vencedor.
 10 11
 ======== EXPECT
 2
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-3
-12 15
-16 14
-10 9
-======== EXPECT
-1
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-4
-12 15
-20 23
-10 9
-35 35
-======== EXPECT
-3
 <<<<<<<< FINISH
 ```
 

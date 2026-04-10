@@ -2,7 +2,7 @@
 
 ## Imprimir vetor formatado
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

@@ -1,6 +1,6 @@
 # Calculadora numérica
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

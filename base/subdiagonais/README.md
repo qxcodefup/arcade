@@ -1,6 +1,6 @@
 # Subdiagonais de uma matriz
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -20,7 +20,7 @@ Em uma matriz de elementos inteiros 5x5, some todos os elementos da diagonal pri
 
 * A soma dos elementos da diagonal principal menos a soma dos elementos da diagonal secundária.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

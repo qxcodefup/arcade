@@ -1,6 +1,6 @@
 # Diana no esconde-esconde
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

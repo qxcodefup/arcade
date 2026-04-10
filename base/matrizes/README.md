@@ -1,6 +1,6 @@
 # Soma de matrizes
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Ação
 
@@ -17,7 +17,7 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 
 - Linhas da matriz S = A + B.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT 00

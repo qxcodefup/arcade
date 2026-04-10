@@ -1,6 +1,6 @@
 # Filhos de Seu David
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

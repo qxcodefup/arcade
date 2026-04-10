@@ -1,6 +1,6 @@
 # Paredes sobrepondo a visão
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 by @wladmir
 

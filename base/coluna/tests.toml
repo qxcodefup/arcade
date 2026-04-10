@@ -1,5 +1,4 @@
 [[tests]]
-label = 'Teste 0'
 input = '''
 3
 3 4 5
@@ -11,7 +10,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 1'
 input = '''
 3
 -7 8 10
@@ -23,7 +21,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 2'
 input = '''
 5
 3 3 3 3 4
@@ -37,7 +34,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 3'
 input = '''
 6
 0 0 0 0 0 0
@@ -52,7 +48,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 4'
 input = '''
 2
 1 2
@@ -63,7 +58,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 5'
 input = '''
 7
 1 0 0 0 0 0 0
@@ -79,7 +73,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 6'
 input = '''
 4
 3 3 4 4
@@ -93,7 +86,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 7'
 input = '''
 5
 0 0 0 0 0
@@ -107,7 +99,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 8'
 input = '''
 1
 2
@@ -117,7 +108,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'Teste 9'
 input = '''
 10
 1 2 3 4 5 6 7 8 9 0

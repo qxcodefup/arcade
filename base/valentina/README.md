@@ -1,6 +1,6 @@
 # Valentina e Valdiskley
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -52,7 +52,7 @@ Você deve criar um programa que receba dois caracteres e uma operação (+ ou -
 
 - Os caracteres de entrada serão sempre letras minúsculas de **'a'** a **'z'**.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

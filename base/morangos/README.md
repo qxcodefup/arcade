@@ -2,7 +2,7 @@
 
 ## OBI 2016 - Fase1 - Nível 1
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -21,7 +21,7 @@ Os administradores da Fazenda Fartura planejam criar uma nova plantação de mor
 - 1 ≤ comprimento ≤ 100
 - 1 ≤ largura ≤ 100
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

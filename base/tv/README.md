@@ -1,6 +1,6 @@
 # Comprando tv parcelada
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -61,37 +61,6 @@ Sua tarefa é criar um programa que, dado o valor da televisão e a quantidade d
 14.50
 145.00
 <<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-102
-3
-======== EXPECT
-37.40
-112.20
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-52
-4
-======== EXPECT
-14.95
-59.80
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-100
-5
-======== EXPECT
-24.00
-120.00
-<<<<<<<< FINISH
-
 ```
 
 Problema proposto por Aluízio Lopes.

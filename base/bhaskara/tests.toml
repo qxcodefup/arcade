@@ -1,5 +1,4 @@
 [[tests]]
-label = 'duas raízes'
 input = '''
 5.4
 25.0
@@ -11,7 +10,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'duas raízes'
 input = '''
 3.0
 -7.0
@@ -23,7 +21,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'uma raiz'
 input = '''
 9.0
 -12.0
@@ -34,7 +31,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'sem raízes'
 input = '''
 5.0
 3.0
@@ -45,7 +41,6 @@ nao ha raiz real
 '''
 
 [[tests]]
-label = '05'
 input = '''
 1.0
 -1.0
@@ -57,7 +52,6 @@ output = '''
 '''
 
 [[tests]]
-label = '06'
 input = '''
 2.00
 0.00
@@ -68,7 +62,6 @@ output = '''
 '''
 
 [[tests]]
-label = '07'
 input = '''
 5.3
 3.4

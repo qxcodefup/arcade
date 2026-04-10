@@ -1,6 +1,6 @@
 # Revolta em Portugal
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -33,7 +33,7 @@ Dado um vetor de números inteiros, some as forças dos soldados (números ímpa
 - O vetor conterá entre 1 e 50 elementos.
 - Os valores dos elementos do vetor estão entre 1 e 50.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

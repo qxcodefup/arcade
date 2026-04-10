@@ -1,15 +1,12 @@
 # Vetores e proximidade
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
 A brincadeira do avesso funciona assim.
 
-Tem um chefe e os operários.  
-Os operários ficam em fila.  
-O chefe diz o nome de um operário e os dois operários que estavam perto dele tem que trocar de posição.  
-Se estavam em pé, ficam agachados e vice-versa.
+Tem um chefe e os operários. Os operários ficam em fila. O chefe diz o nome de um operário e os dois operários que estavam perto dele tem que trocar de posição. Se estavam em pé, ficam agachados e vice-versa.
 
 ## Ação
 
@@ -47,7 +44,7 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 
 - Vetor resultante.  
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

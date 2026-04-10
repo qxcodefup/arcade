@@ -1,6 +1,6 @@
 # Código - OBI 2015 - Fase 2 - Nível Júnior
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -18,7 +18,7 @@ Gabriel inventou um código para representar números naturais, usando uma sequ�
 
 - 3 ≤ N ≤ 104
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

@@ -1,6 +1,6 @@
 # Operações básicas
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -24,7 +24,7 @@ Sua tarefa é criar um programa que leia dois números inteiros e imprima o resu
 - O valor da divisão deve ser impresso como um número de ponto flutuante com duas casas decimais.
 - O valor de **B** nunca será 0.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT
@@ -62,4 +62,4 @@ Seja a variável `valor` um número em ponto flutuante, você pode imprimir essa
 
 ### Resolução
 
-[![_](video.png)](https://youtu.be/XbjHzCULmEI)
+[![_](assets/video.png)](https://youtu.be/XbjHzCULmEI)

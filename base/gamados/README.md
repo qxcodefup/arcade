@@ -1,6 +1,6 @@
 # Verificar ordenação da frase
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -30,7 +30,7 @@ Sua tarefa é verificar se as palavras em umam determinada frase estão e ordem 
 - A frase terá no máximo **100** caracteres.
 - A entrada conterá apenas letras minúsculas e espaços.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

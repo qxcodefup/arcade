@@ -1,5 +1,4 @@
 [[tests]]
-label = 'numerico apenas'
 input = '''
 4 10
 0179
@@ -19,7 +18,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'misturado'
 input = '''
 3 7
 #!1Ap
@@ -36,7 +34,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'numerico invertido'
 input = '''
 4 10
 0982
@@ -56,7 +53,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04 muitos'
 input = '''
 6 50
 Zou29@#

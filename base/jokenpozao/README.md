@@ -1,6 +1,6 @@
 # Jokenpo de 9
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -46,7 +46,7 @@ ARMA MIRA ROCHA, DISPARA, SUPERA TESOURA, ATIRA NO HUMANO.
 
 - empate, jog1 ou jog2.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01

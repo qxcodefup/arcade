@@ -1,6 +1,6 @@
 # Números de Fibonacci
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -36,7 +36,7 @@ int main(){
 }
 ```
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01

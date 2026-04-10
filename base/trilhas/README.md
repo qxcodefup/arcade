@@ -6,7 +6,7 @@ Nos finais de semana Paulo faz longas caminhadas pelas bonitas trilhas que atrav
   
 Paulo tem uma nova namorada, e quer convencê-la a passear junto com ele pelas trilhas. Para o primeiro passeio juntos, Paulo quer escolher uma trilha "fácil”. Segundo o seu critério, a trilha mais fácil é a que, em um dos sentidos do percurso, exige o menor esforço de subida. O esforço exigido em um trecho de subida é proporcional ao desnı́vel do trecho.
 
-![_](figura.jpg)
+![_](assets/figura.jpg)
 
 ## Ação
 
@@ -41,7 +41,7 @@ Dadas as informações colhidas por Paulo sobre distâncias e altitudes de um
 - 2 ≤ M ≤ 1000  
 - 0 ≤ Hi ≤ 1000
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01

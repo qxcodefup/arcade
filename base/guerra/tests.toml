@@ -39,7 +39,6 @@ Wanda
 '''
 
 [[tests]]
-label = '03'
 input = '''
 2
 Homem de Ferro
@@ -58,7 +57,6 @@ Capitao America
 '''
 
 [[tests]]
-label = '04'
 input = '''
 5
 Homem de Ferro
@@ -89,7 +87,6 @@ Visao
 '''
 
 [[tests]]
-label = '05'
 input = '''
 1
 Homem de Ferro

@@ -1,6 +1,6 @@
 # Bolada na fuça
 
-![Resultado de imagem para haikyuu]( cover.jpg)
+![Resultado de imagem para haikyuu](assets/cover.jpg)
 
 ## Motivação
 
@@ -36,7 +36,7 @@ Desenvolva o programa que dados os valores de entrada, imprima o resultado de sa
 
 - A precisão do saque do atleta
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT
@@ -53,24 +53,6 @@ b
 68
 ======== EXPECT
 Fraco, nem passou
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-c
-160
-======== EXPECT
-Muito forte, bola fora
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-b
-99
-======== EXPECT
-Satisfeito
 <<<<<<<< FINISH
 ```
 

@@ -1,6 +1,6 @@
 # Meu word QuEbRoU - formatação de case
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -27,7 +27,7 @@ Sua tarefa é criar um programa que, dado um texto e um comando de formatação,
 - O texto terá no máximo **100** caracteres.
 - A formatação deve ser aplicada apenas às letras, ignorando pontuação, espaços e números.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

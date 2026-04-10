@@ -1,6 +1,6 @@
 # Tipos de divisão
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -22,7 +22,7 @@ Sua tarefa é dominar os dois mundos da divisão. Crie um programa que, dados do
 
 - **n2** será sempre diferente de zero.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

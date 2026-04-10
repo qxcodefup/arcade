@@ -44,7 +44,6 @@ output = '''
 '''
 
 [[tests]]
-label = '06'
 input = '''
 c
 0.5
@@ -54,7 +53,6 @@ output = '''
 '''
 
 [[tests]]
-label = '07'
 input = '''
 f
 6.7
@@ -64,7 +62,6 @@ output = '''
 '''
 
 [[tests]]
-label = '08'
 input = '''
 f
 0.5
@@ -74,7 +71,6 @@ output = '''
 '''
 
 [[tests]]
-label = '09'
 input = '''
 r
 7.3
@@ -84,7 +80,6 @@ output = '''
 '''
 
 [[tests]]
-label = '10'
 input = '''
 r
 7.5
@@ -94,7 +89,6 @@ output = '''
 '''
 
 [[tests]]
-label = '11'
 input = '''
 f
 3.33
@@ -104,7 +98,6 @@ output = '''
 '''
 
 [[tests]]
-label = '12'
 input = '''
 r
 9.7

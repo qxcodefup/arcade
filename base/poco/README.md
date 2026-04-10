@@ -1,6 +1,6 @@
 # Sapinho 2 morrendo no poço
 
-![sapinho]( cover.jpg)
+![sapinho](assets/cover.jpg)
 
 ## Motivação
 
@@ -29,7 +29,7 @@ para mostrar os saltos do sapo até a saída.
 
 * as posições de salto e aterrissagem do sapinho até que ele saia ou morra afogado.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

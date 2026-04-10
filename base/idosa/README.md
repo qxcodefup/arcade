@@ -1,6 +1,6 @@
 # Mulher mais idosa
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -22,7 +22,7 @@ Depois de armazenar os dados, processe o vetor para encontrar a mulher com a mai
 
 - O nome não terá espaços e terá no máximo 20 caracteres.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01

@@ -1,10 +1,10 @@
 # Arredondar número
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
-Um aluno ficou implorando para o seu professor de FUP arredondar seu 6.9999999999 para 10 porque ele precisa de um 10 para passar de semestre. Seu trabalho é implementar as funções ceil, floor e round para ajudar o professor a calcular as notas dos alunos.
+Um aluno ficou implorando para o seu professor de FUP arredondar seu 6.9999999999 para 10 porque ele precisa de um 10 para passar de semestre. Seu trabalho é utilizar as funções ceil, floor e round que existem na sua linguagem de programação.
 
 implemente três funções:
 
@@ -12,13 +12,7 @@ implemente três funções:
 - `floor` que sempre arredonda para baixo
 - `round`: que arredonda para baixo se a parte fracionária for menor que 0.5 e para cima se for maior ou igual a 0.5.
 
-Os protótipos das funções são em **C**:
-
-```c
-int round(float num);
-int floor(float num);
-int ceil(float num);
-```
+Pesquise como utilizar essas funções na linguagem de programação que você está utilizando.
 
 Na função principal (main), leia um caractere que representa a operação (r, f, c) e um número do tipo float. Depois, chame a função correspondente e imprima o resultado.
 
@@ -80,42 +74,32 @@ r
 
 ## Dicas
 
-### Programando em: C
-
-- É dessa forma que é realizada a criação de uma função:
+### C
 
 ```c
-int round(float num){
-    return;
-}
-
+#include <math.h>
 int main() {
-    float num = 1.1;
-    round(num);
+    printf("%d\n", (int)ceil(numero)); // para ceil
+    printf("%d\n", (int)floor(numero)); // para floor
+    printf("%d\n", (int)round(numero)); // para round
 }
 ```
 
-### Programando em: Python
-
-- É dessa forma que é realizada a criação de uma função:
+### Python
 
 ```py
-def round(float num):
-    return
-
-num = 1.1;
-round(num);
+print(int(math.ceil(numero))) # para ceil
+print(int(math.floor(numero))) # para floor
+print(int(round(numero))) # para round
 ```
 
-### Programando em: TypeScript
+### GO
 
-- É dessa forma que é realizada a criação de uma função:
-
-```ts
-function round(num: number): number{
-    return;
+```go
+import "math"
+func main() {
+    fmt.Println(int(math.Ceil(numero))) // para ceil
+    fmt.Println(int(math.Floor(numero))) // para floor
+    fmt.Println(int(math.Round(numero))) // para round
 }
-
-let num = 1.1;
-round(num);
 ```

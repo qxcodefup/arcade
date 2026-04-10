@@ -1,14 +1,12 @@
 # Fazendo contagem
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 [Explicação](https://youtu.be/1zT-Y0Zb1K0)
 
 ## Motivação
 
-Joãozinho passou o dia visualizando os seus contatos no celular.  
-Logo ele decidiu fazer um programa que calcula a quantidade de vezes que um determinado dígito aparece em um número de contato.  
-Após passar uma semana tentando ele repassou esse problema para você.  
+Joãozinho passou o dia visualizando os seus contatos no celular. Logo ele decidiu fazer um programa que calcula a quantidade de vezes que um determinado dígito aparece em um número de contato.
 
 ## Ação
 
@@ -23,7 +21,7 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 
 * Número de vezes que o dígito A aparece em B  
 
-## Exemplos
+## Testes
 
 ```py
 >>>>>>>> INSERT

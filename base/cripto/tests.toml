@@ -1,5 +1,4 @@
 [[tests]]
-label = 'Teste 0'
 input = '''
 nnb!ovofl
 123
@@ -9,7 +8,6 @@ ola mundo
 '''
 
 [[tests]]
-label = 'Teste 1'
 input = '''
 Br'tbn+'qhdb'tfeb+'iht'tfebjht
 777
@@ -19,7 +17,6 @@ Eu sei, voce sabe, nos sabemos
 '''
 
 [[tests]]
-label = 'Teste 2'
 input = '''
 jsmc*&cs&uis&ucs&vgo
 666
@@ -29,7 +26,6 @@ luke, eu sou seu pai
 '''
 
 [[tests]]
-label = 'Teste 3'
 input = '''
 J%isjaj$hej%an$ph$kew%`c$wjwgw
 55464
@@ -39,7 +35,6 @@ O mundo nao eh um mar de rosas
 '''
 
 [[tests]]
-label = 'Teste 4'
 input = '''
 dh#un%mudaq%ruio/%tm#lvb`r#cqpdl
 103035
@@ -49,7 +44,6 @@ eh um lugar sujo, um lugar cruel
 '''
 
 [[tests]]
-label = 'Teste 5'
 input = '''
 swg"lcm"swgp"qc`gp"m"swclvm"tmag"gj"fwpcm,
 222
@@ -59,7 +53,6 @@ que nao quer saber o quanto voce eh durao.
 '''
 
 [[tests]]
-label = 'Teste 6'
 input = '''
 Wcj!ajp`p#wlfa!ff!ijamjlr#`$wm`d#seh"eh`dv!ff!ijamjlr#uesc#rfhtsg#rf%rnaf!g`mycq
 1231354
@@ -69,7 +62,6 @@ Vai botar voce de joelhos e voce vai ficar de joelhos para sempre se voce deixar
 '''
 
 [[tests]]
-label = 'Teste 7'
 input = '''
 Sjgc(%`q*$kljaq`h$pel%fgp`w$rej%bivq`$ekhj$g$sl`g
 55464
@@ -79,7 +71,6 @@ Voce, eu, ninguem vai bater tao forte como a vida
 '''
 
 [[tests]]
-label = 'Teste 8'
 input = '''
 ndr#ocl%rf!vqdub!ff%cbugq%glsvf+
 351312
@@ -89,7 +80,6 @@ mas nao se trata de bater forte.
 '''
 
 [[tests]]
-label = 'Teste 9'
 input = '''
 R`!qsdud!ad%pp`kuj!snfd%`bt`oq`%`u`kids%d%r`fphw!`l%gwdku`
 1515
@@ -99,7 +89,6 @@ Se trata de quanto voce aguenta apanhar e seguir em frente
 '''
 
 [[tests]]
-label = 'Teste 10'
 input = '''
 h'vrfish'qhdb'bo'dfwf}'cb'f`rbisfu'b'dhisnirfu'sbisfich
 77
@@ -109,7 +98,6 @@ o quanto voce eh capaz de aguentar e continuar tentando
 '''
 
 [[tests]]
-label = 'Teste 11'
 input = '''
 Aj#eqpmo#uwf$qf$aljqfcwf$tfjafv,
 423

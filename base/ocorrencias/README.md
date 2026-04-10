@@ -1,6 +1,6 @@
 # Contagem de ocorrências
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Ação
 
@@ -34,7 +34,7 @@ int main(){
 
 - Número de ocorrências do caractere na string.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

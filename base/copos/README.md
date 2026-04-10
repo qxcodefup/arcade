@@ -1,6 +1,6 @@
 # Quebrador de copos
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -18,7 +18,7 @@ Faça um programa que dado um numero N inteiro (0<N<50) mostre na tela um triang
 
 * Um triângulo isósceles formado por apenas pelo numero N e com altura igual a N.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

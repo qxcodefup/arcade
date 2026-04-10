@@ -1,5 +1,4 @@
 [[tests]]
-label = 'corsa'
 input = '''
 100
 60
@@ -10,7 +9,6 @@ output = '''
 '''
 
 [[tests]]
-label = 'fusca'
 input = '''
 60
 40
@@ -21,7 +19,6 @@ output = '''
 '''
 
 [[tests]]
-label = '03 moto'
 input = '''
 65
 45
@@ -32,7 +29,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04 opala'
 input = '''
 120
 50

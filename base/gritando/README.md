@@ -1,6 +1,6 @@
 # Invertendo o Case da frase
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -28,7 +28,7 @@ Sua tarefa é criar um programa que, dado um texto, troque o "case" de cada letr
 - O texto terá no máximo **100** caracteres.
 - Números e símbolos de pontuação não devem ser alterados.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

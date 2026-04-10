@@ -1,12 +1,14 @@
 # Leitura de inteiros
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 [Explicação](https://youtu.be/r44oGh6gVU0)
 
 Você não precisa saber o tamanho do vetor quando for ler uma linha com dados. Em python o comando `input().split(" ")` já retorna o vetor dividido. Em `c`e `c++` você tem algumas formas de fazer isso.
 
 Em `c` você pode ler os dados e o `char` seguido a esse dado. Se utilizar `scanf("%d%c"`, sem o espaço antes do`%c` você está informando ao `scanf` para não ignorar os _whitespaces_. O código baixo vai em cada rodada do laço pegar o inteiro e o char sequencial a ele. Se esse char for um `\n` significa que a linha acabou.
+
+Em outras linguagens, você pode ler a linha e procurar uma forma de dividir em pedaços, como o `split` do python, go, javascript.
 
 ```c
 #include <stdio.h>

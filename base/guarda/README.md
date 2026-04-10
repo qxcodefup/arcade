@@ -1,6 +1,6 @@
 # Retornando problemas primeiro
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -44,57 +44,6 @@ you must connect to wifi
 <<<<<<<< FINISH
 ```
 
-```py
->>>>>>>> INSERT
-0
-0
-1
-======== EXPECT
-you must connect to wifi
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-1
-0
-1
-======== EXPECT
-you need to login first
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-1
-0
-0
-======== EXPECT
-you need to login first
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-1
-1
-0
-======== EXPECT
-you must to login as admin
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-1
-1
-1
-======== EXPECT
-done
-<<<<<<<< FINISH
-
-```
-
 ## Dicas
 
 ### Programando em: C
@@ -125,11 +74,5 @@ if not wifi:
 ```ts
 if (!wifi) {
     console.log("you must connect to wifi");
-}
-```
-
-```ts
-if (!wifi) {
-    write("you must connect to wifi");
 }
 ```

@@ -1,5 +1,4 @@
 [[tests]]
-label = '01'
 input = '''
 David
 '''
@@ -8,7 +7,6 @@ output = '''
 '''
 
 [[tests]]
-label = '02'
 input = '''
 Scya
 '''
@@ -17,7 +15,6 @@ output = '''
 '''
 
 [[tests]]
-label = '03'
 input = '''
 Ana
 '''
@@ -26,7 +23,6 @@ output = '''
 '''
 
 [[tests]]
-label = '04'
 input = '''
 BruNa
 '''
@@ -35,7 +31,6 @@ output = '''
 '''
 
 [[tests]]
-label = '05'
 input = '''
 Marcos
 '''
@@ -44,7 +39,6 @@ output = '''
 '''
 
 [[tests]]
-label = '06'
 input = '''
 andre
 '''

@@ -1,0 +1,55 @@
+[[tests]]
+input = '''
+3
+'''
+output = '''
+IMPAR
+'''
+
+[[tests]]
+input = '''
+12
+'''
+output = '''
+PAR
+'''
+
+[[tests]]
+input = '''
+33
+'''
+output = '''
+IMPAR
+'''
+
+[[tests]]
+input = '''
+0
+'''
+output = '''
+PAR
+'''
+
+[[tests]]
+input = '''
+7
+'''
+output = '''
+IMPAR
+'''
+
+[[tests]]
+input = '''
+20
+'''
+output = '''
+PAR
+'''
+
+[[tests]]
+input = '''
+15
+'''
+output = '''
+IMPAR
+'''

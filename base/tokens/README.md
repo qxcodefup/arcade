@@ -1,6 +1,6 @@
 # Separando a partir de tokens
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Ação
 
@@ -14,7 +14,7 @@ Dada uma frase (max 100 char) com palavras (letras minusculas), números e espa�
 
 * n frases sem os tokens.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

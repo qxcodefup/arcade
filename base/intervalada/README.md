@@ -1,18 +1,10 @@
 # Busca intervalada
 
-![_](cover.jpg)
-
-## Motivação
-
-No jogo de amarelinha é necessário jogar a pedrinha no número certo. Não vale jogar no número maior nem no número menor. Pra ficar mais divertido, dois amigos decidiram reformular as regras do jogo permitindo jogar a pedrinha dentro do intervalo estabelecido. Funcionava, assim:  
-  
-\- "João, joga, é tua vez. Entre 6 e 8. Vai. Vai maxu! Bora miséria. Deixa de olhar o Zap carniça."  
-  
-Moral da história: maldito zap que não deixa mais o povo brincar de nada divertido!  
+![_](assets/cover.jpg)
 
 ## Ação
 
-Dado uma lista de número e um intervalo, calcule quantas vezes um número cai dentro do intervalo fechado. Em um intervalo fechado os valores inferior e superior também fazem parte do intervalo.  
+Dado uma lista de número e um intervalo, calcule quantas vezes um número cai dentro do intervalo fechado. Em um intervalo fechado os valores inferior e superior também fazem parte do intervalo.
 
 ### Entrada
 
@@ -23,7 +15,7 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 
 * Números inteiros que estão dentro do intervalo, incluindo os limites.
 
-### Exemplos
+### Testes
 
 ``` py
 >>>>>>>> INSERT

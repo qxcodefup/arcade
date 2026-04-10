@@ -1,6 +1,6 @@
 # Comparar data
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 Considere o seguinte tipo de registro que deve ser usado em seu programa:
 

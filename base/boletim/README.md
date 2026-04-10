@@ -1,6 +1,6 @@
 # Soma de elementos de em uma matriz
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -23,7 +23,7 @@ Sua tarefa é criar um programa que, inspirando-se nessa lógica, receba uma mat
 
 - A matriz de entrada será sempre do tamanho 2x3.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

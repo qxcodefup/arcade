@@ -1,6 +1,6 @@
 # Usando biblioteca matemática
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -26,7 +26,7 @@ Dados os valores de A, B e C, calcule as raízes.
 - Caso Δ seja igual a zero: exiba a única raiz com duas casas decimais.
 - Caso Δ seja negativo: exiba a mensagem "nao ha raiz real".
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT duas raízes
@@ -137,10 +137,6 @@ quadrado =  numero ** 2
 
 ```ts
 console.log(resultado.toFixed(1)); 
-```
-
-```ts
-write(resultado.toFixed(1));
 ```
 
 - Em TypeScript, a abordagem é semelhante à do JavaScript. Não há uma biblioteca padrão para funções matemáticas, mas podemos utilizar a biblioteca Math global.

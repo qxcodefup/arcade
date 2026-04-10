@@ -1,6 +1,6 @@
 # Cabeças vão rolar
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

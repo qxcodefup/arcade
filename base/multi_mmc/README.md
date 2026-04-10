@@ -12,7 +12,7 @@ Faça uma função que receba um vetor e retorne e mmc dos números.
 
 * O mmc dos N numeros.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

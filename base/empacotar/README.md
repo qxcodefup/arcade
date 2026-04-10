@@ -1,6 +1,6 @@
 # Empacotar operações
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -12,7 +12,7 @@ expressao = {"Soma": \*\*\*, "Subtracao": \*\*\*, "Divisao": \*\*\*, "Multiplica
 
 Crie um programa que leia do usuário dois números inteiros e calcule o valor de cada uma das operações do dicionário, preenchendo-o. Por fim, imprima os resultados na ordem: soma, subtração, divisão e multiplicação.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

@@ -1,12 +1,10 @@
 # Criança, jovem, adulto
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
-Em um projeto escolar, um professor precisa classificar os alunos de acordo com suas idades. A tarefa é determinar se um aluno é uma criança, jovem, adulto, idoso ou uma múmia, com base em regras específicas. O professor gostaria que a implementação fosse feita de forma clara e eficiente.
-
-Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escreva:
+Em um projeto escolar, um professor precisa classificar os alunos de acordo com suas idades. A tarefa é determinar se um aluno é uma criança, jovem, adulto, idoso ou uma múmia, com base em regras específicas. O professor gostaria que a implementação fosse feita de forma clara e eficiente. Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escreva:
 
 - "crianca" se menor que 12 (não use o ç),
 - "jovem" se menor que 18,
@@ -92,9 +90,25 @@ else:
 ```ts
 if(x < 12) {
     ...
-} else if(x < 18) {
+} else if (x < 18) {
     ...
-} else if(x < 65) {
+} else if (x < 65) {
+    ...
+} else {
+    ...
+}
+```
+
+## Programando em Go
+
+- Utilize a técnica do seleção intervalada e termine com um else sem condição:
+
+```go
+if x < 12 {
+    ...
+} else if x < 18 {
+    ...
+} else if x < 65 {
     ...
 } else {
     ...

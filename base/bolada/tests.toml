@@ -35,7 +35,6 @@ Satisfeito
 '''
 
 [[tests]]
-label = '05'
 input = '''
 c
 90
@@ -45,7 +44,6 @@ Perfeito
 '''
 
 [[tests]]
-label = '06'
 input = '''
 c
 87
@@ -55,7 +53,6 @@ Fraco, nem passou
 '''
 
 [[tests]]
-label = '07'
 input = '''
 b
 120
@@ -65,7 +62,6 @@ Muito forte, bola fora
 '''
 
 [[tests]]
-label = '08'
 input = '''
 c
 127
@@ -75,7 +71,6 @@ Muito forte, bola fora
 '''
 
 [[tests]]
-label = '09'
 input = '''
 c
 115
@@ -85,7 +80,6 @@ Satisfeito
 '''
 
 [[tests]]
-label = '10'
 input = '''
 c
 50

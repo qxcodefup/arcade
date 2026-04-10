@@ -17,7 +17,6 @@ jose eh idoso
 '''
 
 [[tests]]
-label = '03'
 input = '''
 mario
 1
@@ -27,7 +26,6 @@ mario eh crianca
 '''
 
 [[tests]]
-label = '04'
 input = '''
 mariana
 12
@@ -37,7 +35,6 @@ mariana eh jovem
 '''
 
 [[tests]]
-label = '05'
 input = '''
 maria
 17
@@ -47,7 +44,6 @@ maria eh jovem
 '''
 
 [[tests]]
-label = '06'
 input = '''
 marina
 18
@@ -57,7 +53,6 @@ marina eh adulto
 '''
 
 [[tests]]
-label = '07'
 input = '''
 marion
 64
@@ -67,7 +62,6 @@ marion eh adulto
 '''
 
 [[tests]]
-label = '08'
 input = '''
 marilene
 65
@@ -77,7 +71,6 @@ marilene eh idoso
 '''
 
 [[tests]]
-label = '09'
 input = '''
 maridracula
 10000

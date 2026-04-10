@@ -1,16 +1,10 @@
 # Está contido
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
-Todo batráquio é um anfíbio, mas nem todo anfíbio é um batráquio. Os sapos, as rãs e as pererecas são exemplos de animais que são ao mesmo tempo anfíbios e batráquios.
-
-Portanto, o conjunto dos sapos está contido no conjunto dos batráquios, que, por sua vez, está contido no conjunto dos anfíbios.
-
-Ficou confuso? Quem mandou faltar à aula de biologia!
-
-Agora, aplicando isso a vetores: dados dois vetores, verifique se o primeiro está contido no segundo.
+Dados dois vetores, verifique se o primeiro está contido no segundo.
 
 Descubra se o vetor `vetor1` está contido em `vetor2` e retorne **"sim"** se isso ocorrer.
 

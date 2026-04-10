@@ -1,6 +1,6 @@
 # Eribelton e a Ascologia V3 - Busca do mínimo
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -23,7 +23,7 @@ Sua tarefa é pegar uma palavra e testar a adição de cada letra minúscula ('a
 - A palavra terá no máximo **50** caracteres.
 - A busca pela letra de menor valor deve ser feita apenas com caracteres minúsculos ('a' a 'z').
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

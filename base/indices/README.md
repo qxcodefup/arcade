@@ -1,6 +1,6 @@
 # Para onde foi cada valor
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 Você recebe uma vetor A de inteiros não negativos de tamanho `n`. Sua tarefa é ordernar o vetor em ordem crescente e imprimir os índices originais do novo vetor ordenado.
 

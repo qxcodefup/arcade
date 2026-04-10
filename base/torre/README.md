@@ -1,6 +1,6 @@
 # Torre - OBI 2015 - Fase 2 - Nível 1
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -33,7 +33,7 @@ No exemplo da figura acima, com um tabuleiro de dimensão seis (ou seja, seis li
 
 - Em um conjunto de casos de teste cuja soma é 60 pontos, N ≤ 300.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

@@ -1,6 +1,6 @@
 # Trila Modo fácil - OBI 2005
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -40,7 +40,7 @@ Dado uma trilha, você deve calcular o menor esforço para percorrê-la.
 - 2 ≤ M ≤ 1000  
 - 0 ≤ Hi ≤ 1000
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT 00

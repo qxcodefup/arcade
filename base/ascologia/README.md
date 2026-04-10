@@ -1,6 +1,6 @@
 # Eribelton e a ascologia V1 - Somar Asc
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -22,7 +22,7 @@ Receba um nome como entrada e some todos os caracteres. Imprima o resto da soma 
 
 - Resto da divisão da soma dos caracteres por 50.  
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01

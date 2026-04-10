@@ -1,6 +1,6 @@
 # Criptografia de chave
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -59,7 +59,7 @@ O enigma revelado.
 
 1 < KEY <= 2147483647.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT Teste 0

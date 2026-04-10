@@ -31,7 +31,6 @@ nao
 '''
 
 [[tests]]
-label = '05'
 input = '''
 ab a ba
 '''
@@ -40,7 +39,6 @@ nao
 '''
 
 [[tests]]
-label = '06'
 input = '''
 a amiga da minha vizinha zooume
 '''
@@ -49,7 +47,6 @@ sim
 '''
 
 [[tests]]
-label = '07'
 input = '''
 arrocha arregao
 '''

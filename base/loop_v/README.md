@@ -1,6 +1,6 @@
 # Loop com continue e break
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

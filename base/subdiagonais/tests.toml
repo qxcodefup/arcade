@@ -35,7 +35,6 @@ output = '''
 '''
 
 [[tests]]
-label = '03'
 input = '''
 2 4 6 3 9
       8 7 5 4 1

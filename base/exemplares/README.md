@@ -1,14 +1,12 @@
 # Arca quantos exemplares
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
 O dono do zoologico quer a lista de todas as espécies de animais  que existem no zoologico. Para isso ele te deu uma lista de todos os animais. Ele quer que você faça um programa que retorne uma nova lista contendo apenas um animal de cada especie. Considere que um número representa uma especie. Devolva um novo vetor, sem números repetidos e ordenado.
 
 ### Estratégia
-
-- Usando vetores
 
 ```txt
 vetor = crie um vetor para representar os animais únicos
@@ -18,19 +16,6 @@ para cada animal lido:
 ordene o vetor
 imprima o resultado
 ```
-
-- Usando Conjuntos ou Dicionários
-
-```txt
-unicos = crie um dict ou set para representar os animais únicos
-para cada animal lido:
-    se o animal não estiver em unicos
-        adicione o animal em unicos
-gere um vetor de unicos
-ordene o vetor
-imprima o resultado
-```
-
 
 ### Entrada
 
@@ -45,7 +30,7 @@ imprima o resultado
 
 - Não utilize funções de ordenação prontas.
 
-### Testes
+## Testes
 
 ```py
 >>>>>>>> INSERT

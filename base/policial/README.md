@@ -1,6 +1,6 @@
 # Ordenação de números
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -33,7 +33,7 @@ Também é muito importante que você aprenda como sua linguagem pode fazer a or
 
 * Os elementos do vetor ordenados em ordem crescente.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

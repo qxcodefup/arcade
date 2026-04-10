@@ -21,7 +21,6 @@ Super Fa
 '''
 
 [[tests]]
-label = '03'
 input = '''
 b
 b
@@ -33,7 +32,6 @@ Nunca assistiu
 '''
 
 [[tests]]
-label = '04'
 input = '''
 d
 b
@@ -45,7 +43,6 @@ Ja ouviu falar
 '''
 
 [[tests]]
-label = '05'
 input = '''
 d
 b
@@ -57,7 +54,6 @@ Interessado no assunto
 '''
 
 [[tests]]
-label = '06'
 input = '''
 d
 b

@@ -1,6 +1,6 @@
 # Máquina Quebrada
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -24,7 +24,7 @@ Sua tarefa é criar um programa que, dado o dígito da tecla quebrada e o númer
 - O dígito da tecla quebrada estará entre **1** e **9**.
 - O número negociado pode ter até **100** dígitos.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

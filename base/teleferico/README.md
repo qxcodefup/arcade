@@ -1,6 +1,6 @@
 # Teleférico OBI 2017 - Fase 1
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -22,7 +22,7 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 - 2 ≤ C ≤ 100
 - 1 ≤ A ≤ 1000
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT
@@ -39,42 +39,6 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 8
 ======== EXPECT
 2
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-5
-9
-======== EXPECT
-3
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 01
-10
-20
-======== EXPECT
-3
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 02
-12
-55
-======== EXPECT
-5
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 03
-100
-87
-======== EXPECT
-1
 <<<<<<<< FINISH
 ```
 

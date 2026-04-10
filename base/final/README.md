@@ -1,6 +1,6 @@
 # Será que eu passo?
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -52,25 +52,6 @@ aprovado na final
 <<<<<<<< FINISH
 ```
 
-```py
->>>>>>>> INSERT
-4
-2
-9
-======== EXPECT
-reprovado
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-4
-8
-3
-======== EXPECT
-reprovado na final
-<<<<<<<< FINISH
-```
 
 ## Dicas
 

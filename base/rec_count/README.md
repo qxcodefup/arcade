@@ -1,6 +1,6 @@
 # Contando caracteres recursivamente
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Ação
 
@@ -15,7 +15,7 @@ Forneça um algoritmo recursivo para contar quantas vezes um determinado caracte
 
 - Número de ocorrências do caractere na string.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

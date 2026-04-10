@@ -1,6 +1,6 @@
 # Cadê meu crush
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -34,7 +34,7 @@ printf("%%");
 
 * Porcentagem de chances do crush te dar bola
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

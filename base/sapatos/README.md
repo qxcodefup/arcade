@@ -1,6 +1,6 @@
 # Sapatos para 2 e 3
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -20,7 +20,7 @@ Dado dois números inteiros **A** e **B**, some todos os números que são divis
 ## Testes
 
 ```py
->>>>>>>> INSERT 01
+>>>>>>>> INSERT
 1
 20
 ======== EXPECT
@@ -29,7 +29,7 @@ Dado dois números inteiros **A** e **B**, some todos os números que são divis
 ```
 
 ```py
->>>>>>>> INSERT 02
+>>>>>>>> INSERT
 1
 10
 ======== EXPECT
@@ -38,7 +38,7 @@ Dado dois números inteiros **A** e **B**, some todos os números que são divis
 ```
 
 ```py
->>>>>>>> INSERT 03
+>>>>>>>> INSERT
 10
 1
 ======== EXPECT
@@ -47,7 +47,7 @@ invalido
 ```
 
 ```py
->>>>>>>> INSERT 04
+>>>>>>>> INSERT
 6
 6
 ======== EXPECT

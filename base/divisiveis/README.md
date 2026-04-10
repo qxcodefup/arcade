@@ -1,6 +1,6 @@
 # Verificar ambos
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -19,7 +19,7 @@ Leia dois inteiros e diga se ambos são divisíveis por 3 ou se ambos são divis
 - "sim" (sem aspas) caso ambos sejam divisíveis por 3 ou ambos sejam divisíveis por 5.
 - "nao" (sem aspas) caso contrário.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

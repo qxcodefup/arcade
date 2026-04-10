@@ -1,6 +1,6 @@
 # Antimatéria e Matéria
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -28,7 +28,7 @@ Sua tarefa é criar um programa que simule essa colisão. Dadas duas palavras, e
 
 - As palavras conterão apenas letras minúsculas.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

@@ -1,6 +1,6 @@
 # Identificando Ultrons V2
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -30,7 +30,7 @@ Para cada caso de teste, imprima uma das seguintes opções:
 - O código do Ultron terá entre **1** e **26** letras, sem repetições.
 - A correspondência de letras não diferencia maiúsculas de minúsculas.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

@@ -1,6 +1,6 @@
 # Melhor estudante
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -26,7 +26,7 @@ A questão é a seguinte: dado o nome completo de vários alunos e as 3 notas qu
 - As notas serão números de ponto flutuante.
 - O nome do aluno pode conter espaços.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT 01

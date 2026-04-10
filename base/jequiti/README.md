@@ -1,6 +1,6 @@
 # Roda Roda Jequiti
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -42,7 +42,7 @@ Ex: "**Seu Pilantra!**" , "**yzxa**" , '**\***' -> "**\*\*\* \*\*\*a\*\*\*a!**"
 
 * Uma frase com as letras chutadas corretamente e o caractere marcador nas letras erradas.
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT

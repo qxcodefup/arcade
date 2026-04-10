@@ -1,6 +1,6 @@
 # Vogais e Consoantes - Substituindo
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -26,7 +26,7 @@ Sua tarefa é criar um programa que implemente a codificação de Pedrinho. Dada
 - A substituição deve ser insensível a maiúsculas e minúsculas (trate 'A' e 'a' como vogais, 'B' e 'b' como consoantes).
 - Espaços devem ser preservados.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT

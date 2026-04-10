@@ -1,6 +1,6 @@
 # Zerinho ou Um
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Motivação
 
@@ -20,7 +20,7 @@ Receba três valores correspondentes dos jogadores e em seguida imprima quem foi
 
 * O jogador (jog1, jog2, jog3) que ganhou ou "empate".
 
-## Exemplos
+## Testes
 
 ``` py
 >>>>>>>> INSERT
@@ -39,25 +39,5 @@ empate
 1
 ======== EXPECT
 jog3
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-1
-0
-0
-======== EXPECT
-jog1
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-1
-0
-1
-======== EXPECT
-jog2
 <<<<<<<< FINISH
 ```

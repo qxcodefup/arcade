@@ -1,6 +1,6 @@
 # Busca por proximidade
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -14,13 +14,13 @@ Todo soldado de combate que está adjacente a um médico (à esquerda ou à dire
 ### Entrada
 
 - linha 1:  Um número inteiro **'N'** representando a quantidade de elementos do vetor.
- - linha 2: Uma sequência de **N** inteiros, onde cada elemento é **0** (soldado) ou **1** (médico).
+- linha 2: Uma sequência de **N** inteiros, onde cada elemento é **0** (soldado) ou **1** (médico).
 
 ### Saída
 
 * A quantidade de soldados que não tem médico à sua direita ou à sua esquerda.
 
-## Exemplos
+## Testes
 
 ```py
 >>>>>>>> INSERT

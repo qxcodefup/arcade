@@ -1,6 +1,6 @@
 # Ingrid quer chegar no céu
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 

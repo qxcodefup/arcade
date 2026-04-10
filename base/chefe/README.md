@@ -1,6 +1,6 @@
 # Aniquilando Ultrons V3
 
-![_](cover.jpg)
+![_](assets/cover.jpg)
 
 ## Contexto
 
@@ -30,7 +30,7 @@ Por exemplo, com o código Ultron **"ultron"** e o ambiente **"ruame ronuai Lion
 - Cada código de pessoa terá no máximo 20 caracteres.
 - A verificação não diferencia maiúsculas de minúsculas.
 
-### Testes
+## Testes
 
 ``` py
 >>>>>>>> INSERT
