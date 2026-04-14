@@ -113,7 +113,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ]`@sopa            :4:side`[Sopa de coelho](base/sopa/README.md)
 - [ ]`@digitos         :4:side`[Fazendo contagem](base/digitos/README.md)
 
-## Vetores 1 +list:1 @list1 !@for1
+## Vetores !@for1 @list
 
 - [ ]`@vet_i           :1:main`[Carregando vetor em várias linhas](base/vet_i/README.md)
 - [ ]`@vet_ii          :1:main`[Carregando vetor na mesma linha](base/vet_ii/README.md)
@@ -123,9 +123,6 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ]`@patas           :2:main`[Chico Bento e Cebolinha](base/patas/README.md)
 - [ ]`@dindin          :2:main`[Clenda adora chocolate](base/dindin/README.md)
 - [ ]`@repetidos       :2:main`[Contar repetidos](base/repetidos/README.md)
-
-## Vetores 2 +list:1 @list2 !@list1
-
 - [ ]`@batraquios      :2:main`[Está contido](base/batraquios/README.md)
 - [ ]`@baruel          :2:main`[Figurinhas repetidas](base/baruel/README.md)
 - [ ]`@tazos           :2:main`[Qual o mais repetido](base/tazos/README.md)
@@ -139,9 +136,6 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ]`@exemplares      :3:main`[Arca quantos exemplares](base/exemplares/README.md)
 - [ ]`@parkour         :3:main`[Analisando vetores](base/parkour/README.md)
 - [ ]`@medico          :3:main`[Busca por proximidade](base/medico/README.md)
-
-## Vetores Extra +list @list_extra !@list2
-
 - [ ]`@josephus        :4:side`[Cabeças vão rolar](base/josephus/README.md)
 - [ ]`@casamento       :2:side`[Maior e menor](base/casamento/README.md)
 - [ ]`@intervalada     :3:side`[Busca intervalada](base/intervalada/README.md)
@@ -174,7 +168,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ]`@senhas          :4:side`[Algoritmo de força bruta](base/senhas/README.md)
 - [ ]`@palindromo      :6:side`[Qual o maior](base/palindromo/README.md)
 
-## Strings 1 +string @str1 !@list1
+## Strings @string !@list
 
 - [ ]`@xuxa            :2:main`[Inverter String](base/xuxa/README.md)
 - [ ]`@inverte         :2:main`[Inverter Case de char](base/inverte/README.md)
@@ -187,9 +181,6 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ]`@fresco          :4:main`[Juntar palavras](base/fresco/README.md)
 - [ ]`@gamados         :4:main`[Verificar ordenação da frase](base/gamados/README.md)
 - [ ]`@mario           :4:main`[Mário e o Assassins Creed](base/mario/README.md)
-
-## Strings 2 +string @str2 !@str1
-
 - [ ]`@valentina       :3:main`[Valentina e Valdiskley](base/valentina/README.md)
 - [ ]`@vcvcvc          :3:main`[Vogais e Consoantes - Substituindo](base/vcvcvc/README.md)
 - [ ]`@eribelton       :4:main`[Eribelton e a Ascologia V3 - Busca do mínimo](base/eribelton/README.md)
@@ -203,9 +194,6 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ]`@espacos         :4:main`[Espaços duplicados](base/espacos/README.md)
 - [ ]`@datilografar    :4:main`[Máquina Quebrada](base/datilografar/README.md)
 - [ ]`@bubula          :4:main`[Nao se bula - Gagueira V2](base/bubula/README.md)
-
-## Strings Extra +string @str_extra !@str2
-
 - [ ]`@ascologia       :2:side`[Eribelton e a ascologia V1 - Somar Asc](base/ascologia/README.md)
 - [ ]`@alcaparras      :2:side`[Contar Ocorrências](base/alcaparras/README.md)
 - [ ]`@valdiskley      :2:side`[Valdiskley e a cifra V1](base/valdiskley/README.md)
@@ -229,7 +217,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ]`@cripto          :4:side`[Criptografia de chave](base/cripto/README.md)
 - [ ]`@permutacao      :6:side`[Permutação de fichas](base/permutacao/README.md)
 
-## Matrizes +mat:2 @mat !@list1
+## Matrizes +mat:2 @mat !@list
 
 - [ ]`@bingo           :3:main`[Contando ocorrência na cartela](base/bingo/README.md)
 - [ ]`@imperador       :3:main`[Deu a louca no imperador](base/imperador/README.md)
@@ -247,7 +235,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ]`@codigo          :4:side`[Código - OBI 2015 - Fase 2 - Nível Júnior](base/codigo/README.md)
 - [ ]`@tetris          :4:side`[Fazendo a peça do tetris cair](base/tetris/README.md)
 
-## Structs +structs:3 @struct !@list1
+## Structs +structs:3 @struct !@list
 
 - [ ]`@fatores_struct  :3:side`[Fatoração de um número](base/fatores_struct/README.md)
 - [ ]`@pedra_struct    :3:main`[Pedra na lua](base/pedra_struct/README.md)
@@ -256,13 +244,13 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ]`@estudante       :4:main`[Melhor estudante](base/estudante/README.md)
 - [ ]`@idosa           :4:side`[Mulher mais idosa](base/idosa/README.md)
 
-## Dicionários +dict:3 @dict !@list1
+## Dicionários +dict:3 @dict !@list
 
 - [ ]`@casais_dict     :4:main`[Quantos casais na arca](base/casais_dict/README.md)
 - [ ]`@exemplares_dict :4:main`[Arca quantos exemplares](base/exemplares_dict/README.md)
 - [ ]`@fatores_dict    :4:main`[Fatoração de um número](base/fatores_dict/README.md)
 
-## Recursão +rec:2 @rec !@list1
+## Recursão +rec:2 @rec !@list
 
 - [ ]`@primo_rec       :3:main`[Calculando se é](base/primo_rec/README.md)
 - [ ]`@sopa_dict       :4:main`[Sopa de coelho](base/sopa_dict/README.md)
@@ -282,7 +270,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ]`@pr_orc          :4:side:self`[Batalha Orc](base/pr_orc/README.md)
 - [ ]`@pr_playfair     :4:side:self`[A cifra de Playfair](base/pr_playfair/README.md)
 
-## C: Ponteiros @c_pointers =c =cpp +c
+## C: Ponteiros @c_pointers =c =cpp +c !@list
 
 - [ ]`@formatado       :3:main`[Imprimir vetor formatado](base/formatado/README.md)
 - [ ]`@duelo           :2:main`[Luta até a morte](base/duelo/README.md)
@@ -290,7 +278,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ]`@endereco        :3:main`[Função que retorna vários valores](base/endereco/README.md)
 - [ ]`@realoc          :3:main`[Vetor de strings com variados tamanhos](base/realoc/README.md)
 
-## C: Structs @c_structs =c =cpp +c:1
+## C: Structs @c_structs =c =cpp +c:1 !@c_pointers
 
 - [ ]`@empacotar       :2:main`[Empacotar operações](base/empacotar/README.md)
 - [ ]`@comparar_data   :3:main`[Comparar data](base/comparar_data/README.md)

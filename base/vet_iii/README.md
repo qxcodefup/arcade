@@ -89,4 +89,5 @@ function imprimeVetor(vet: number[]): void {
 4 2 3 1
 ======== EXPECT
 [4, 2, 3, 1]
+======== EXPECT
 ```
