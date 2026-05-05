@@ -44,7 +44,7 @@ Criar um jogo onde o computador sorteia um número secreto, e o jogador deve adi
 
 ---
 
-## Dicas
+## Orientações
 
 - Garanta que o jogador **só possa digitar números dentro do intervalo** aberto.
 - Você pode usar uma **função de aleatoriedade** da sua linguagem para sortear o número.
@@ -102,7 +102,7 @@ int main() {
 }
 ```
 
-## Testes de interação
+## Exemplos de interação
 
 ```txt
 Diga um numero entre ]0, 100[: 50

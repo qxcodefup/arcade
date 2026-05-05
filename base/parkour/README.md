@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Thaiquovisqui da Silva está desenvolvendo um jogo inspirado em Super Mario e Assassin's Creed.
 
 No jogo, Mario se move em um cenário 2D. No entanto, ao invés de pular na cabeça dos inimigos, ele os elimina com uma chave de fenda ou uma chave inglesa, lembrando que ele é um encanador. O problema é que o cenário contém algumas áreas difíceis para Mario se deslocar: blocos altos demais, nos quais ele não consegue subir, e blocos baixos demais, que podem ser perigosos.
@@ -41,8 +39,9 @@ Neste exemplo, Mario precisa realizar 4 movimentos de parkour: do bloco `1` para
 
 - Um número inteiro representando a quantidade de movimentos de parkour necessários.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 5
@@ -60,21 +59,4 @@ Neste exemplo, Mario precisa realizar 4 movimentos de parkour: do bloco `1` para
 3
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-8
-1 3 5 7 6 5 4 3
-======== EXPECT
-3
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-14
-4 2 5 3 6 4 3 4 3 2 3 2 3 5
-======== EXPECT
-6
-<<<<<<<< FINISH
-```
+<!-- load -->

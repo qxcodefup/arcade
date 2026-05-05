@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 ![_](assets/jogo.png)
 
 No jogo de pião lá de Ocara funciona assim:
@@ -22,7 +20,7 @@ No jogo de pião lá de Ocara funciona assim:
 
 No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e P3 tem valor 25.
 
-## Saída
+### Saída
 
 - 1a linha: o número do ganhador (1o jogador tem índice 0).
   - "nenhum" se nenhum conseguiu acertar dentro dos limite.
@@ -31,10 +29,11 @@ No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e
   - o perdedor será quem jogou mais longe do alvo.
   - se houver empate, será o último jogador empatado, na ordem das jogadas.
 
-## Testes
+## Exemplos
 
-``` py
->>>>>>>> INSERT 01
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
 30 3
 35 -15 22
 ======== EXPECT
@@ -44,7 +43,7 @@ No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e
 ```
 
 ```py
->>>>>>>> INSERT 02
+>>>>>>>> INSERT
 30 3
 35 -32 -40
 ======== EXPECT
@@ -52,24 +51,4 @@ nenhum
 2
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT 03
-30 3
-35 36 -36
-======== EXPECT
-nenhum
-2
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 04
-40 3
--25 -26 24
-======== EXPECT
-2
-1
-<<<<<<<< FINISH
-```
-
+<!-- load -->

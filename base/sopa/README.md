@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Zé da Carroça comprou um casal de coelhos. Ele gosta muito de sopa de coelho. Muito mesmo. Só tem uma coisa maior em Zé da Carroça do que a vontade de tomar sopa de coelho. É o sonho de ser um Cuniculturista vendendo carne de coelho para todo sertão central. Ele ainda está decidindo se come o casal de coelhos na sopa de hoje ou espera até que eles procriem o suficiente pra que Marivaldo fique rico.
 
 Estudando um pouco ele descobriu uma regra interessante criado por Leonardo de Pisa no ano de 1200.
@@ -25,7 +23,7 @@ Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, 
 
 ### Estratégias
 
-- Crie um vetor com dois elementos {1, 1}
+- Crie um vetor com dois elementos [1, 1]
 - Faça um laço preenchendo o vetor somando sempre a soma dos dois últimos até chegar no termo desejado.
 
 ### Entrada
@@ -41,9 +39,10 @@ Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, 
 - **0 ≤ N ≤ 50**
 - **Sugestão:** O resultado pode não caber em um `int` padrão. Se estiver programando em **C**, use `long long int`.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1
 ======== EXPECT
@@ -58,11 +57,4 @@ Sugestão: Não use recursão. Observe que o resultado não cabe em um inteiro, 
 8
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-50
-======== EXPECT
-12586269025
-<<<<<<<< FINISH
-```
+<!-- load -->

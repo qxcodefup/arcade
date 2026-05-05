@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 - *"ra on odnalor at acopip ed oriehc a acopip"*
 - *"Tá ficando doido menino?" Perguntou a mãe.*
 - *"Que marmota é essa que você tá fazendo com meu LP da Xuxa?"*
@@ -26,8 +24,9 @@ Implemente um programa que, dada uma string, imprima a mesma string ao contrári
 - A frase terá entre **1** e **100** caracteres.
 - Apenas letras e espaços estarão na frase.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 3 -->
 ```py
 >>>>>>>> INSERT
 ra on odnalor at acopip ed oriehc o
@@ -51,3 +50,4 @@ oacaroc ues on x mu ieuqram
 marquei um x no seu coracao
 <<<<<<<< FINISH
 ```
+<!-- load -->

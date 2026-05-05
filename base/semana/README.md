@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Um funcionário trabalha de segunda a sexta-feira, das 8h às 11h e das 14h às 17h. Às 17h ele ainda deve estar trabalhando! No sábado, ele trabalha apenas das 8h às 11h.
 
 Para garantir que o funcionário está cumprindo sua carga horária, implemente um código que lê o dia da semana e a hora, informando ao chefe se o funcionário ainda deve estar trabalhando.
@@ -24,8 +22,9 @@ Para garantir que o funcionário está cumprindo sua carga horária, implemente 
 
 - O programa deve imprimir "SIM" se o funcionário deve estar trabalhando ou "NAO" se ele não deve estar trabalhando.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 2
@@ -43,3 +42,4 @@ NAO
 SIM
 <<<<<<<< FINISH
 ```
+<!-- load -->

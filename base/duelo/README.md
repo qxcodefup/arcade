@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Considere o seguinte formato de dicionário que deve ser usada em seu programa:  
   
 personagem = {"Vida: \*\*\*, "Ataque": \*\*\*}  
@@ -19,9 +17,10 @@ A função duelo recebe como entrada dois dicionários, onde cada um deles repre
 - 3a linha - vida do 2o personagem  
 - 4a linha - ataque do 2o personagem  
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 100  
 20  
@@ -42,25 +41,4 @@ Personagem 1
 Personagem 1
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-100
-20
-1000
-10
-======== EXPECT
-Personagem 2
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-100
-100
-1000
-10
-======== EXPECT
-Empate
-<<<<<<<< FINISH
-```
+<!-- load -->

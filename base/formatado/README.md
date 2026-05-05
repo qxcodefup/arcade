@@ -10,9 +10,10 @@ Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 - Saída
   - Para cada caso de teste imprima o vetor formatado
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1
 0
@@ -29,55 +30,4 @@ Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 [10, 16, 11]
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-3
-3 10 16 11
-1 88
-4 34 12 32 100
-======== EXPECT
-[10, 16, 11]
-[88]
-[34, 12, 32, 100]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-4
-3 10 16 11
-1 88
-4 34 12 32 100
-0
-======== EXPECT
-[10, 16, 11]
-[88]
-[34, 12, 32, 100]
-[]
-<<<<<<<< FINISH
-
-```
-
-## Código inicial
-
-```c
-#include <stdio.h>
-
-void print_vet(int vet, int size){
-    //seu código aqui
-}
-
-int main(){
-    int qtd = 0;
-    scanf("%d", &qtd);
-    while(qtd--){
-        int size = 0;
-        scanf("%d", &size);
-        int vet[size];
-        for(int i = 0; i < size; i++)
-            scanf("%d", &vet[i]);
-        print_vet(vet, size);
-    }
-}
-```
+<!-- load -->

@@ -20,7 +20,7 @@ Criar um jogo onde **o jogador pensa em um número secreto** e o **computador te
 
 ---
 
-## Exemplo de execução
+## Exemplos de execução
 
 ```txt
 ]0, 100[ É 53?

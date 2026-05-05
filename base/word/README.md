@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 O seu editor de texto deu problema. Seu orientador pediu que você formatasse toda uma seção do seu trabalho em caixa alta. Como você é um fantástico programador, resolveu logo fazer algo mais completo.
 
 Sua tarefa é criar um programa que, dado um texto e um comando de formatação, aplique a transformação solicitada. As opções de formatação são:
@@ -27,9 +25,10 @@ Sua tarefa é criar um programa que, dado um texto e um comando de formatação,
 - O texto terá no máximo **100** caracteres.
 - A formatação deve ser aplicada apenas às letras, ignorando pontuação, espaços e números.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 4 -->
+```py
 >>>>>>>> INSERT
 O Pato e o frango ja tao cozidos, comam!
 M
@@ -64,3 +63,4 @@ i
 o pATO E O FRANGO JA TAO COZIDOS, COMAM!
 <<<<<<<< FINISH
 ```
+<!-- load -->

@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 A batalha contra o exército de disfarces do Ultron continua. Desta vez, em vez de analisar indivíduos um a um, você recebeu um panorama completo do ambiente: o código genético do Ultron e uma lista de todos os códigos das pessoas presentes.
 
 Sua missão é mapear o ambiente, identificando cada indivíduo. Para cada código na lista, você deve determinar se é uma **"pessoa"**, um **"ultron"** ou um potencial **"chefe"**, com base na porcentagem de letras que correspondem ao código do Ultron.
@@ -30,13 +28,14 @@ Por exemplo, com o código Ultron **"ultron"** e o ambiente **"ruame ronuai Lion
 - Cada código de pessoa terá no máximo 20 caracteres.
 - A verificação não diferencia maiúsculas de minúsculas.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 aeiou  
 arta euio auiaoauio riu pegasus
-======== EXPECT  
+======== EXPECT
 pessoa chefe chefe ultron pessoa
 <<<<<<<< FINISH
 ```
@@ -49,3 +48,4 @@ arta euio auiaoauio riu pegasus rea
 ultron pessoa pessoa pessoa pessoa chefe
 <<<<<<<< FINISH
 ```
+<!-- load -->

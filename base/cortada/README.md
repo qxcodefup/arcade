@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Se pegarmos uma nota de 100 reais e a cortarmos, usando uma tesoura, em dois pedaços, quanto vale cada um dos pedaços? A regra é simples: se um dos pedaços possuir estritamente mais da metade da área da nota original, então ele vale 100 reais; e o outro pedaço não vale nada.
 
 Veja que se cada pedaço possuir exatamente metade da área original, então nenhum dos dois tem valor. Felix e Marzia decidiram fazer um corte, em linha reta, que comece no lado inferior da nota, a base, e termine no lado superior, o topo.
@@ -28,8 +26,9 @@ O corte reto vai começar na base a uma distância de B centímetros a partir do
   - 2, se Marzia ficou com o pedaço que vale 100 reais; ou
   - 0, se o valor da nota se perdeu.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 50
@@ -47,18 +46,10 @@ O corte reto vai começar na base a uma distância de B centímetros a partir do
 0
 <<<<<<<< FINISH
 ```
+<!-- load -->
 
-```py
->>>>>>>> INSERT
-130
-138
-======== EXPECT
-1
-<<<<<<<< FINISH
 
-```
-
-## Dicas
+## Ajuda
 
 A área de um trapézio é calculada pela média aritmética das bases multiplicada pela altura. A fórmula para calcular a área (A) de um trapézio é:
 

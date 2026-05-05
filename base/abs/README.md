@@ -24,8 +24,9 @@ Implemente um programa que leia dois números inteiros e imprima o valor absolut
 
 Crie sua própria função para calcular o valor absoluto de um número.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 3 -->
 ```py
 >>>>>>>> INSERT
 1
@@ -52,43 +53,4 @@ Crie sua própria função para calcular o valor absoluto de um número.
 6
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-1
--5
-======== EXPECT
-6
-<<<<<<<< FINISH
-
-```
-
-## Dicas
-
-### Programando em: C
-
-- O método `abs()` o ajudará a encontrar o valor absoluto.
-
-```c
-#include <stdio.h>
-#include <stdlib.h> // abs
-int main() {
-    int valorAbsoluto = abs(numero)
-}
-```
-
-### Programando em: Python
-
-- O método `abs()` o ajudará a encontrar o valor absoluto.
-
-```py
-valorAbsoluto = abs(numero)
-```
-
-### Programando em: TypeScript
-
-- O método `abs()` o ajudará a encontrar o valor absoluto.
-
-```ts
-let valorAbsoluto: number = Math.abs(numero);
-```
+<!-- load -->

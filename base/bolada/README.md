@@ -2,8 +2,6 @@
 
 ![Resultado de imagem para haikyuu](assets/cover.jpg)
 
-## Motivação
-
 Haikyuu é um anime muito show de bola sobre vôlei. Se você já tiver terminado todas as questões de seleção do moodle, você pode ir conferir alguns episódios em [LINK](https://www.animesync.tv/v/V3Eo6xG9Wrjv/).
 
 Alan Brado é um treinador muito competente e determinado. Numa certa manhã, ele reuniu todo o time e decidiu fazer um treino de saque para observar seus jogadores e o desempenho neles no jogo. Depois de alguns cálculos, ele percebeu um padrão e então criou uma fórmula para calcular o índice de poder dos saques. A fórmula é dada por:
@@ -32,13 +30,14 @@ Desenvolva o programa que dados os valores de entrada, imprima o resultado de sa
 - Tipo de saque (c ou b) do tipo char
 - Um inteiro para a força do atleta
 
-## Saída
+### Saída
 
 - A precisão do saque do atleta
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 c
 100
@@ -55,8 +54,9 @@ b
 Fraco, nem passou
 <<<<<<<< FINISH
 ```
+<!-- load -->
 
-## Dicas
+## Ajuda
 
 Quando for fazer os if elses, lembre que pode fazer os if elses apenas utilizando o intervalo superior.
 

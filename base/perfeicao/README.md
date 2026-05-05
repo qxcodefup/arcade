@@ -2,18 +2,9 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Faça a Ascologia V1 antes dessa.
 
-Seu objetivo aqui é tentar usando as regras conhecidas, mudar o nome da pessoa para  
-tentar encontrar o valor ascológico perfeito de 0.
-
-## Ação
-
-Para isso a única modificação que você pode fazer no nome é adicionar uma letra ao
-final da palavra, um alfabético minúsculo apenas. Apenas um. Se não existir
-nenhuma adição que coloque o valor em 0, escreva "sem sorte".
+Seu objetivo aqui é tentar usando as regras conhecidas, mudar o nome da pessoa para tentar encontrar o valor ascológico perfeito de 0. Para isso a única modificação que você pode fazer no nome é adicionar uma letra ao final da palavra, um alfabético minúsculo apenas. Apenas um. Se não existir nenhuma adição que coloque o valor em 0, escreva "sem sorte".
 
 ### Entrada
 
@@ -23,9 +14,10 @@ nenhuma adição que coloque o valor em 0, escreva "sem sorte".
 
 O novo nome ou "sem sorte"
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 Dhaquison
 ======== EXPECT
@@ -40,19 +32,4 @@ Alfredo
 Alfredoc
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-Maikou
-======== EXPECT
-sem sorte
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-Davidp
-======== EXPECT
-Davidpd
-<<<<<<<< FINISH
-```
+<!-- load -->

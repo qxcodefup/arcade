@@ -14,14 +14,12 @@ Início do jogo:
 
 Quando o round termina:
 
-* Se um Orc ficar com vida negativa ou zero, ele é removido da
-      batalha.
+* Se um Orc ficar com vida negativa ou zero, ele é removido da batalha.
 * Outro round reinicia até que só sobre um vencedor.
 * Se no último round os dois Orcs morrerem, então não houve vencedor.
 * Você deve mostrar o Orc vencedor se houver algum.
 
 ## Fase 2: Nível Experiente.
-
 
 Vamos criar algumas reviravoltas no nosso jogo.
 

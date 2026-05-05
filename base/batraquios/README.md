@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Dados dois vetores, verifique se o primeiro está contido no segundo.
 
 Descubra se o vetor `vetor1` está contido em `vetor2` e retorne **"sim"** se isso ocorrer.
@@ -19,8 +17,9 @@ Descubra se o vetor `vetor1` está contido em `vetor2` e retorne **"sim"** se is
 - **"não"** caso contrário.
 
   
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 2 1 3
@@ -38,12 +37,4 @@ sim
 nao
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-3 1 3 2
-6 1 5 3 6 8 2
-======== EXPECT
-sim
-<<<<<<<< FINISH
-```
+<!-- load -->

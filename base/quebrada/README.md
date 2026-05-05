@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Na 5ª série, o professor prometeu um poder incrível: uma técnica secreta que eliminaria a necessidade de pensar em quociente e resto. Uma única divisão, dois números entrando e apenas um saindo. O sonho! O que ele esqueceu de mencionar foi a tal da vírgula e, às vezes, muitos números depois dela.
 
 Sua tarefa é dominar os dois mundos da divisão. Crie um programa que, dados dois números inteiros, calcule e exiba o resultado da divisão inteira, o resto dessa divisão e o resultado da divisão "quebrada" (com ponto flutuante).
@@ -22,9 +20,10 @@ Sua tarefa é dominar os dois mundos da divisão. Crie um programa que, dados do
 
 - **n2** será sempre diferente de zero.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 6
 3
@@ -44,30 +43,7 @@ Sua tarefa é dominar os dois mundos da divisão. Crie um programa que, dados do
 1
 2.33
 <<<<<<<< FINISH
-
 ```
-
-### Dica
-
-Lembre de fazer os **casts** ou arredondamentos para conseguir divisão inteira ou quebrada.
-
-Para imprimir em **c ou c++** com duas casas decimais use:
-
-```C
-//c ou c++
-#include <stdio.h>
-float a = 4.3243255;
-float b = 3.4334344;
-printf("a=%.2f e b=%.3f", a, b); //a=4.32 e b=3.433
-```
-
-Para **python**, você tem várias possibilidades.
-
-```py
-a = 4.3243255
-b = 3.4334344
-print("a={:.2f} e b={:.3f}".format(a, b)) //a=4.32 e b=3.433
-```
-[Veja outras opções na documentação oficial](https://docs.python.org/pt-br/3/tutorial/inputoutput.html#fancier-output-formatting)
+<!-- load -->
 
 [Resolução](https://www.youtube.com/watch?v=budW2bakIjg)

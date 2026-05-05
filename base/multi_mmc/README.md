@@ -1,7 +1,5 @@
 # MMC de vários Números
 
-## Ação
-
 Faça uma função que receba um vetor e retorne e mmc dos números.
 
 ### Entrada
@@ -12,9 +10,10 @@ Faça uma função que receba um vetor e retorne e mmc dos números.
 
 * O mmc dos N numeros.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 4 2 5 4 6
 ======== EXPECT
@@ -35,3 +34,4 @@ Faça uma função que receba um vetor e retorne e mmc dos números.
 120
 <<<<<<<< FINISH
 ```
+<!-- load -->

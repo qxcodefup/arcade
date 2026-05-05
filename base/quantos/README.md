@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Implemente um programa que receba três valores e informe quantos deles são iguais.
 
 ### Entrada
@@ -14,9 +12,10 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 
 - Um número inteiro indicando quantos valores são iguais dentre os três fornecidos.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1
 4
@@ -35,3 +34,4 @@ Implemente um programa que receba três valores e informe quantos deles são igu
 0
 <<<<<<<< FINISH
 ```
+<!-- load -->

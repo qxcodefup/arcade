@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Dado um número inteiro, o objetivo é encontrar seus fatores primos e a quantidade de vezes que cada fator aparece na sua fatoração e montar um vetor com os fatores.
 
 ### Guia
@@ -24,9 +22,10 @@ def calc_fatores(num int, resp map[int]int) {
 
 - Os fatores primos de **N** e a quantidade de vezes que eles aparecem na fatoração. Cada fator e sua quantidade devem ser impressos em uma linha, com o fator seguido pelo número de vezes que aparece.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 8
 ======== EXPECT
@@ -42,34 +41,4 @@ def calc_fatores(num int, resp map[int]int) {
 5 1
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-55
-======== EXPECT
-5 1
-11 1
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-552
-======== EXPECT
-2 3
-3 1
-23 1
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-169400
-======== EXPECT
-2 3
-5 2
-7 1
-11 2
-<<<<<<<< FINISH
-
-```
+<!-- load -->

@@ -2,7 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Ação
 
 Leia um conjunto de strings e aloque apenas a quantidade de memória necessária para armazenar estas strings. Em seguida ordene e imprima as strings. Somente serão aceitas respostas com alocação dinâmica das strings (verificação manual).
 
@@ -13,13 +12,14 @@ Leia um conjunto de strings e aloque apenas a quantidade de memória necessária
 A linha começa com um inteiro indicando quantos caracteres tem a string,
 seguido de um espaço e a string.
   
-## Saída
+### Saída
 
 - Strings em ordem crescente (ou seja, na ordem do dicionário).
   
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 6
 12 Gilberto Gil
@@ -37,8 +37,9 @@ Marisa Monte
 Osvaldo Montenegro
 <<<<<<<< FINISH
 ```
+<!-- load -->
 
-## Dicas
+## Orientações
 
 - Declare um vetor com n ponteiros para char:
   char* v\[n\];

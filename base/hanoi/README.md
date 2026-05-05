@@ -2,11 +2,9 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 O objetivo do jogo das torres de hanoi é mover todos os discos da torre inicial para a torre final, sem colocar disco maior sobre disco menor. Inicialmente, a torre final e a torre auxiliar estão vazias. Você pode usar a torre auxiliar para lhe ajudar a mover os discos.
 
-## Exemplo
+## Exemplos
 
 ```py
       ++                  ++                 ++
@@ -43,15 +41,16 @@ Este problema parece difícil de resolver para o caso geral com _n_ discos. Por�
 
 - Número de discos para mover da torre 'A' para a torre 'C'.
 
-## Saída
+### Saída
 
 - Sequência de movimentos para mover todos os discos (um movimento por linha).
 - Notação do movimento do disco no topo da torre
   - torre de origem -> torre de destino.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 3
 ======== EXPECT
@@ -64,3 +63,42 @@ B -> C
 A -> C
 <<<<<<<< FINISH
 ```
+
+```py
+>>>>>>>> INSERT
+5
+======== EXPECT
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+A -> B
+C -> B
+C -> A
+B -> A
+C -> B
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+B -> A
+C -> B
+C -> A
+B -> A
+B -> C
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+<<<<<<<< FINISH
+```
+<!-- load -->

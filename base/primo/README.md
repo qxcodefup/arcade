@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Dado um número inteiro, faça uma função que verifique se ele é primo.  
 
 ### Estratégias
@@ -18,9 +16,10 @@ Dado um número inteiro, faça uma função que verifique se ele é primo.
 
 - O número **1** se **N** for primo e **0** caso contrário.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 5
 ======== EXPECT
@@ -35,13 +34,6 @@ Dado um número inteiro, faça uma função que verifique se ele é primo.
 0
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-2
-======== EXPECT
-1
-<<<<<<<< FINISH
-```
+<!-- load -->
 
 [Resolução](https://youtu.be/FZVqoVx9KnM)

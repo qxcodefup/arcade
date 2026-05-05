@@ -105,8 +105,6 @@ a senha ao usuário. Ele mostrará o texto processado na tela.
     >> O texto cifrado eh:
     VG EY AE TO QY TR OA PB GA BY
 
-
-
     --Conteudo do arquivo cifra.txt
     VG EY AE TO QY TR OA PB GA BY
 

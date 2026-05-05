@@ -2,8 +2,6 @@
 
 ![Imagem eh Positivo](assets/cover.jpg)
 
-## Ação
-
 Implemente um programa que recebe dois números inteiros e imprime o maior.
 
 ### Entrada
@@ -14,10 +12,11 @@ Implemente um programa que recebe dois números inteiros e imprime o maior.
 
 - Imprima o maior número
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
->>>>>>>> INSERT 0
+>>>>>>>> INSERT
 4
 9
 ======== EXPECT
@@ -26,10 +25,11 @@ Implemente um programa que recebe dois números inteiros e imprime o maior.
 ```
 
 ```py
->>>>>>>> INSERT 1
+>>>>>>>> INSERT
 56
 7
 ======== EXPECT
 56
 <<<<<<<< FINISH
 ```
+<!-- load -->

@@ -2,13 +2,7 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
-Você com certeza já jogou tetris. Ele é o jogo mais vendido do mundo com 170 milhões de unidades. Seja no seu celular ou no mini game de 70 joguinhos em um da vovó, Tetris é imbatível.
-
-## Ação
-
-Você fai simular a queda de um única peça de Tetris. Verifique se a peça não está colidindo com nada e faça-a descer uma posição.
+Você com certeza já jogou tetris. Ele é o jogo mais vendido do mundo com 170 milhões de unidades. Seja no seu celular ou no mini game de 70 joguinhos em um da vovó, Tetris é imbatível. Você fai simular a queda de um única peça de Tetris. Verifique se a peça não está colidindo com nada e faça-a descer uma posição.
 
 ### Entrada
 
@@ -18,15 +12,16 @@ Você fai simular a queda de um única peça de Tetris. Verifique se a peça nã
   - o representa a peça que cai
   - \# representam as peças que estão na base
 
-## Saída
+### Saída
 
 - O resultado do display. Se a peça estiver em colisão, reimprima
 o display sem alteração.
 
-## Testes
+## Exemplos
 
-``` py
->>>>>>>> INSERT bastao parado
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
 4 4
 .#.#
 .#o#
@@ -41,7 +36,7 @@ o display sem alteração.
 ```
 
 ```py
->>>>>>>> INSERT u movel
+>>>>>>>> INSERT
 4 4
 ooo#
 o.o#
@@ -54,3 +49,4 @@ o#o#
 o#o#
 <<<<<<<< FINISH
 ```
+<!-- load -->

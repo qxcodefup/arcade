@@ -2,8 +2,6 @@
 
 ![Silvio Santos](assets/cover.jpg)
 
-## Descrição
-
 - Pedro e João foram no Silvio Santos. Esse problema é diferente da versão V1 do Mercantil.
 - Nesse, cada produto tem um valor real que nenhum dos competidores conhece.
 - O jogo funciona assim:
@@ -24,9 +22,10 @@ O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o 
 
 - imprima quem foi o vencedor: "primeiro" ou "segundo"
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1.1
 m
@@ -45,3 +44,4 @@ M
 primeiro
 <<<<<<<< FINISH
 ```
+<!-- load -->

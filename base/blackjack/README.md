@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Faça um programa que conte o valor de uma mão de blackjack.
 
 Ela recebe um vetor de cartas e calcula usando as seguntes regras. K, Q e J valem 10 pontos. ÁS vale 11 pontos. As outras cartas valem seu próprio valor.
@@ -16,13 +14,14 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 
 - A entrada começa informando a quantidade de elementos do vetor e é seguida pelos valores inteiros um por linha.
 
-## Saída
+### Saída
 
 - A saída deve ser um inteiro informando o valor da mão do blackjack.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 2
 1
@@ -41,40 +40,4 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 20
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-3
-1
-1
-1
-======== EXPECT
-13
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-5
-1
-1
-2
-3
-12
-======== EXPECT
-17
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-5
-1
-1
-2
-10
-12
-======== EXPECT
-24
-<<<<<<<< FINISH
-```
+<!-- load -->

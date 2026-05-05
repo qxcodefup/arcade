@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 *Cuidado: Baseado em fatos reais!*
 
 Alex Sandro foi até a sala do professor de informática pedir uma questão para usar como motivação do curso de informática para os alunos do ensino médio.
@@ -26,10 +24,11 @@ A questão é a seguinte: dado o nome completo de vários alunos e as 3 notas qu
 - As notas serão números de ponto flutuante.
 - O nome do aluno pode conter espaços.
 
-## Testes
+## Exemplos
 
-``` py
->>>>>>>> INSERT 01
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
 3
 Alameda do Anjos
 4.5 4.1 8.9
@@ -48,5 +47,27 @@ Hartheobaudo Hidropolino
    Media: 5.73
    N1: 4.70, N2: 4.30, N3: 8.20
 <<<<<<<< FINISH
-
 ```
+
+```py
+>>>>>>>> INSERT
+3
+Alameda do Anjos
+4.5 4.1 8.9
+Heleno Malino
+4.7 4.3 8.2
+Hartheobaudo Hidropolino
+10.0 10.0 8.2
+======== EXPECT
+0: Hartheobaudo Hidropolino
+   Media: 9.40
+   N1: 10.00, N2: 10.00, N3: 8.20
+1: Alameda do Anjos
+   Media: 5.83
+   N1: 4.50, N2: 4.10, N3: 8.90
+2: Heleno Malino
+   Media: 5.73
+   N1: 4.70, N2: 4.30, N3: 8.20
+<<<<<<<< FINISH
+```
+<!-- load -->

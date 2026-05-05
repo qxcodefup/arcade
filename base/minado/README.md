@@ -2,16 +2,13 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Robert Donner, em 1989, criou um jogo cujo objetivo seria revelar a localização de minas em um campo sem que nenhuma seja detonada.  
 
 Para isso o tabuleiro é formado de minas, números e espaços vazios.
 
 As regras são simples :
 
-* Se um bloco é um número, ele informará quantas minas estão escondidas nos oito quadrados que o cercam.  
-
+* Se um bloco é um número, ele informará quantas minas estão escondidas nos oito quadrados que o cercam.
 * Se um bloco é vazio, é porque não há nenhuma mina ao seu redor.
 * Um bloco pode ser uma mina, nesse caso ele é representado por um símbolo.
 
@@ -21,7 +18,7 @@ Dada uma matriz com a posição de cada mina, seu o programa deve preencher o re
 
 ![1](assets/q.jpg)
 
-``` py
+```txt
 *-*
 ---
 ---
@@ -40,8 +37,6 @@ Esse é um campo 3x3 que tem duas minas (simbolizadas por \*). Devemos preencher
 As minas são simbolizadas com asteriscos \* e os campos vazios são simbolizados com sinal de menos -  
 Mais exemplos no final da página.
 
-## Ação
-
 Leia uma matriz com **n** linhas e **m** colunas com a posição das minas. Preencha o restante da matriz seguindo as regras citadas.  
 Considere ( 1 <=  **n, m**<= 50).
 
@@ -51,13 +46,14 @@ Considere ( 1 <=  **n, m**<= 50).
 
 * Cada elemento da matriz: \* ou -  
 
-## Saída
+### Saída
 
 * Campo preenchido com minas, vazios e números.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 3 3
 ***
@@ -82,28 +78,7 @@ Considere ( 1 <=  **n, m**<= 50).
 111
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-3 5
-*----
-----*
----**
-======== EXPECT
-*1-11
-1113*
---1**
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-1 1
-*
-======== EXPECT
-*
-<<<<<<<< FINISH
-```
+<!-- load -->
 
 ## Mais exemplos
 

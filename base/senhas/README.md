@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Todo algoritmo de força bruta exige a geração de todas as combinações possíveis para a senha. Quanto mais informação se tem sobre a senha, menor o espaço de busca a ser testado.
 
 Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem aparecer nela são "0,1,3". Calculando todas as permutações com repetição geraria as seguintes possibilidades:
@@ -22,14 +20,15 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 - 2a linha: algarismos que podem aparecer na senha.
 - 3a linha: senha de partida.
 
-## Saída
+### Saída
 
 - As Q novas senhas a serem testadas uma por linha.
 
-## Testes
+## Exemplos
 
-``` py
->>>>>>>> INSERT numerico apenas
+<!-- load tests.toml --tests 3 -->
+```py
+>>>>>>>> INSERT
 4 10
 0179
 9997
@@ -48,7 +47,7 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 ```
 
 ```py
->>>>>>>> INSERT misturado
+>>>>>>>> INSERT
 3 7
 #!1Ap
 !#A
@@ -64,7 +63,7 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 ```
 
 ```py
->>>>>>>> INSERT numerico invertido
+>>>>>>>> INSERT
 4 10
 0982
 2222
@@ -81,3 +80,4 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 0089
 <<<<<<<< FINISH
 ```
+<!-- load -->

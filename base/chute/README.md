@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Descrição
-
 Pedro e João foram no Sílvio Santos. O programa era aquele que o Sílvio mostrava um produto do mercantil, ambos os participantes chutavam o preço e a pessoa que chegasse mais próximo do preço real ganhava.
 
 O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o valor do produto e o valor do chute de cada jogador. O jogador que chegar mais perto ganha.
@@ -22,9 +20,10 @@ Se ambos ficarem à mesma distancia do valor real, então houve empate.
 * "segundo" se o chute do Segundo for o mais próximo do valor do produto
 * "empate" caso ambos ficarem à mesma distancia
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1
 2
@@ -43,43 +42,4 @@ primeiro
 segundo
 <<<<<<<< FINISH
 ```
-
-
-## Ajuda
-
-* Ao ser realizado a diferença entre o chute de um jogador e o valor do produto, o resultado pode ser negativo. Para eliminar esse resultado negativo existe a função `abs`.
-* A função `abs` retorna o valor absoluto de um número, ou seja, o valor do número sem sinal.
-
-Observação
-
-* Para ser utilizada a função `abs`, ela deve ser importada. Segue as formas de importação em algumas linguagens e como utilizar:
-
-Em **C**:
-
-```c
-#include <math.h> //c
-
-abs(-3) //retorna 3
-```
-
-Em **C++**:
-
-```c++
-#include <cmath> //c++
-
-abs(-3) //retorna 3
-```
-
-Em **Python**:
-
-```py
-#python
-abs(-3) #retorna 3
-```
-
-Em **JavaScript**:
-
-```javascript
-//javascript 
-Math.abs(-3) //retorna 3
-```
+<!-- load -->

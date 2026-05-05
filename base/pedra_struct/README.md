@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Em uma competição interplanetária de arremesso de pedras na lua, os competidores devem demonstrar precisão e força. Cada participante possui duas pedras:
 
 - A **pedra A** e a **pedra B**.
@@ -49,8 +47,9 @@ func procurar_melhor_jogada(jogadas []Jogada) int {
 - Cada competidor arremessa duas pedras, cujas distâncias estão entre **1** e **100 metros**.
 - Todos os competidores que lançarem **qualquer** pedra a **menos de 10 metros** são automaticamente **desclassificados**.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 2
@@ -71,14 +70,4 @@ func procurar_melhor_jogada(jogadas []Jogada) int {
 2
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-3
-12 15
-16 14
-10 9
-======== EXPECT
-1
-<<<<<<<< FINISH
-```
+<!-- load -->

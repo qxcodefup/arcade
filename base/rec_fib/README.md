@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Os números de Fibonacci são definidos recursivamente de acordo com a expressão abaixo:
 
 ```py
@@ -14,7 +12,6 @@ n         1  2  3  4  5  6   7   8   9
 fib(n)    1  1  2  3  5  8  13  21  34
 ```
 
-## Ação
 
 A função fib abaixo retorna o n-ésimo número de Fibonacci, mas de forma não recursiva. Forneça uma função fib que seja recursiva.
 
@@ -36,10 +33,11 @@ int main(){
 }
 ```
 
-## Testes
+## Exemplos
 
-``` py
->>>>>>>> INSERT 01
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
 1
 ======== EXPECT
 1
@@ -47,25 +45,10 @@ int main(){
 ```
 
 ```py
->>>>>>>> INSERT 02
+>>>>>>>> INSERT
 2
 ======== EXPECT
 1
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT 03
-3
-======== EXPECT
-2
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 04
-4
-======== EXPECT
-3
-<<<<<<<< FINISH
-```
+<!-- load -->

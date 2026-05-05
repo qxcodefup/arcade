@@ -14,9 +14,10 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 
 - O valor inteiro resultado do programa.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 3
 1
@@ -38,26 +39,4 @@ Faça um programa que deve transformar um vetor em um número inteiro e retornar
 3451
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-2
-1
-2
-======== EXPECT
-12
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-5
-5
-4
-3
-2
-1
-======== EXPECT
-54321
-<<<<<<<< FINISH
-```
+<!-- load -->

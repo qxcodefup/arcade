@@ -2,18 +2,9 @@
 
 ![cover](assets/cover.jpg)
 
-Este trabalho tem como objetivo que você desenvolva habilidades de
-desenvolvimento de jogos, como contagem de pontos, jogadas aleatórias,
-rounds e início e fim do game.
+Este trabalho tem como objetivo que você desenvolva habilidades de desenvolvimento de jogos, como contagem de pontos, jogadas aleatórias, rounds e início e fim do game. Para realizar este trabalho você precisará lidar com entrada e saída de informações e com geração de dados aleatórios.
 
-Para realizar este trabalho você precisará lidar com entrada e saída de
-informações e com geração de dados aleatórios.
-
-O jogo Jokenpô - ou Pedra, Papel e Tesoura - é jogado por dois jogadores
-em que ambos escolhem, aleatoriamente dentre as três opções, a sua
-jogada e as exibem ao mesmo tempo vencendo aquele que a opção escolhida
-ganha a do adversário, ou empatando quando ambos escolhem a mesma opção.
-As regras definem as vitórias do seguinte modo:
+O jogo Jokenpô - ou Pedra, Papel e Tesoura - é jogado por dois jogadores em que ambos escolhem, aleatoriamente dentre as três opções, a sua jogada e as exibem ao mesmo tempo vencendo aquele que a opção escolhida ganha a do adversário, ou empatando quando ambos escolhem a mesma opção. As regras definem as vitórias do seguinte modo:
 
 1. **Pedra** ganha da **tesoura**
 
@@ -21,18 +12,11 @@ As regras definem as vitórias do seguinte modo:
 
 3. **Papel** ganha da **pedra**
 
-O jogo deverá ser entre um jogador e o computador, em que este deverá
-fazer suas jogadas aleatoriamente após as do jogador, que então serão
-comparadas, informado quem venceu e incrementado o número de vitórias do
-atual vitorioso. Cada jogo será dividido em 5 rounds, que deverá ser
-exibido em qual estará no momento e ao fim o jogo deverá perguntar se o
-jogador deseja jogar novamente ou sair, sempre exibindo o número de
-vitórias de cada participante - jogador e computador.
+O jogo deverá ser entre um jogador e o computador, em que este deverá fazer suas jogadas aleatoriamente após as do jogador, que então serão comparadas, informado quem venceu e incrementado o número de vitórias do atual vitorioso. Cada jogo será dividido em 5 rounds, que deverá ser exibido em qual estará no momento e ao fim o jogo deverá perguntar se o jogador deseja jogar novamente ou sair, sempre exibindo o número de vitórias de cada participante - jogador e computador.
 
-## Exemplo
+## Exemplos
 
-Exemplo em execução. Os símbolos `>>` significam a entrada de dados do
-usuário.
+Exemplo em execução. Os símbolos `>>` significam a entrada de dados do usuário.
 
     # JOKENPÔ #
     Você: 0 | PC: 0
@@ -98,7 +82,7 @@ usuário.
     1 - Sim
     0 - Sair
 
-## Dicas
+## Orientações
 
 Você pode fazer o computador gerar números entre 0 e 2 e utilizar esses números como as jogadas.
 
@@ -112,9 +96,7 @@ Você pode fazer o computador gerar números entre 0 e 2 e utilizar esses númer
 
 ![spock](assets/spock.jpg)
 
-Nesta segunda versão você deverá implementar o modo do jogo mais recente
-em que duas novas opções foram adicionadas, **Lagarto e Spock**,
-conforme as regras clássicas e as adicionais:
+Nesta segunda versão você deverá implementar o modo do jogo mais recente em que duas novas opções foram adicionadas, **Lagarto e Spock**, conforme as regras clássicas e as adicionais:
 
 1. **Tesoura** ganha do **papel**
 2. **Papel** ganha da **pedra**

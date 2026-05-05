@@ -21,7 +21,7 @@ Implementar um jogo semelhante à **Forca**, em que o jogador tenta descobrir um
 
 ---
 
-## Exemplo de execução
+## Exemplos de execução
 
 ![gif](demo.gif)
 

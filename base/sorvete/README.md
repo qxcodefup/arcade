@@ -2,23 +2,15 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
-\-Sabe o que as palavras a seguir tem em comum?  
-(sorvete suor casaca chicletes pegasus)?
-
-Todas tem a letra s!
-
-E essas daqui?  
-(minhoca quixe tempero musica roubo)
-
-Não existe nenhuma letra que se repita em todas!  
-E essas daqui?  
-(acaro cocegas cagado aquecido)
-
-Elas tem em comum as letras (a, c e o).
-
-## Ação
+- Sabe o que as palavras a seguir tem em comum?
+  - sorvete suor casaca chicletes pegasus
+- Todas tem a letra s!
+- E essas daqui? 
+  - minhoca quixe tempero musica roubo
+- Não existe nenhuma letra que se repita em todas!  
+  - E essas daqui?  
+  - acaro cocegas cagado aquecido
+  - Elas tem em comum as letras (a, c e o).
 
 Dada uma frase com até 100 caracteres, será que você consegue me dizer a quantidade de letras que todas as palavras tem em comum?
 
@@ -26,13 +18,14 @@ Dada uma frase com até 100 caracteres, será que você consegue me dizer a quan
 
 - Uma frase com até 100 caracteres.  
 
-## Saída
+### Saída
 
 - Um inteiro representando a quantidade de letras em comum.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 3 -->
+```py
 >>>>>>>> INSERT
 sorvete suor casaca chicletes pegasus
 ======== EXPECT
@@ -55,11 +48,4 @@ acaro cocegas cagado aquecido
 3
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-aaabbcc bbac bbbaacc ccbddbabda basdbdc
-======== EXPECT
-3
-<<<<<<<< FINISH
-```
+<!-- load -->

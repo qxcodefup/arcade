@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 O Ultron copiou os poderes da Mística e está se disfarçando para surpreender os Vingadores. Como o Homem de Ferro está muito ocupado lutando, o computador dele enviará os dados para você, e sua tarefa é informar quais são pessoas verdadeiras e quais são Ultrons disfarçados.
 
 Você receberá um "rastro genético magnético" (um código de letras) do Ultron e o código da pessoa analisada. Se o código da pessoa tiver **mais de 50%** de suas letras correspondendo ao código do Ultron, ela é um Ultron. Se a correspondência for de **100%**, ela é um "chefe". A verificação não diferencia maiúsculas de minúsculas.
@@ -30,9 +28,10 @@ Para cada caso de teste, imprima uma das seguintes opções:
 - O código do Ultron terá entre **1** e **26** letras, sem repetições.
 - A correspondência de letras não diferencia maiúsculas de minúsculas.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 4
 aeiou
@@ -63,3 +62,4 @@ ultron
 pessoa
 <<<<<<<< FINISH
 ```
+<!-- load -->

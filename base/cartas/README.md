@@ -4,8 +4,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Você está jogando um jogo de cartas com seus amigos e, ao olhar para sua mão, percebe que os números das cartas estão codificados. Querendo saber quais cartas realmente possui, você decide converter esses números em letras e ver sua mão de forma clara.
 
 No jogo:
@@ -30,8 +28,9 @@ Leia um vetor contendo a mão de cartas de um jogador e mostre as cartas para o 
 - O número de cartas **N** estará entre 0 e 13.
 - Os valores das cartas estarão entre 1 e 13.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 0
@@ -48,30 +47,4 @@ Leia um vetor contendo a mão de cartas de um jogador e mostre as cartas para o 
 [A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K]
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-4
-1 1 3 13
-======== EXPECT
-[A, A, 3, K]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-6
-1 12 13 1 1 10
-======== EXPECT
-[A, Q, K, A, A, 10]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-6
-10 10 2 2 11 1
-======== EXPECT
-[10, 10, 2, 2, J, A]
-<<<<<<<< FINISH
-```
+<!-- load -->

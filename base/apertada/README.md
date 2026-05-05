@@ -15,9 +15,10 @@
 - Os cinco valores inteiros estarão no intervalo **[1, 30]**.
 - Sempre haverá exatamente cinco valores inteiros na entrada.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1
 4
@@ -40,3 +41,4 @@
 3
 <<<<<<<< FINISH
 ```
+<!-- load -->

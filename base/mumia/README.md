@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Em um projeto escolar, um professor precisa classificar os alunos de acordo com suas idades. A tarefa é determinar se um aluno é uma criança, jovem, adulto, idoso ou uma múmia, com base em regras específicas. O professor gostaria que a implementação fosse feita de forma clara e eficiente. Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escreva:
 
 - "crianca" se menor que 12 (não use o ç),
@@ -25,8 +23,9 @@ Em um projeto escolar, um professor precisa classificar os alunos de acordo com 
 
 Por simplificações, não faça flexão de gênero (idoso, idosa, adulto, adulta), não use acento, nem ç, nem maiúscula.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 mario
@@ -44,73 +43,4 @@ jose
 jose eh idoso
 <<<<<<<< FINISH
 ```
-
-## Dicas
-
-### Programando em: C
-
-- Utilize a técnica do seleção intervalada e termine com um else sem condição:
-
-```c
-int main() {
-    if(x < 12) {
-        ...
-    }  
-    else if(x < 18) {
-        ...
-    }  
-    else if(x < 65) {
-        ...
-    }  
-    else {
-        ...
-    }
-}
-```
-
-### Programando em: Python
-
-- Utilize a técnica do seleção intervalada e termine com um else sem condição:
-
-```py
-if x < 12:
-    ...
-elif x < 18:
-    ...
-elif x < 65:
-    ...
-else:
-    ...
-```
-
-### Programando em: TypeScript
-
-- Utilize a técnica do seleção intervalada e termine com um else sem condição:
-
-```ts
-if(x < 12) {
-    ...
-} else if (x < 18) {
-    ...
-} else if (x < 65) {
-    ...
-} else {
-    ...
-}
-```
-
-## Programando em Go
-
-- Utilize a técnica do seleção intervalada e termine com um else sem condição:
-
-```go
-if x < 12 {
-    ...
-} else if x < 18 {
-    ...
-} else if x < 65 {
-    ...
-} else {
-    ...
-}
-```
+<!-- load -->

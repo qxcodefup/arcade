@@ -2,23 +2,7 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 O dono do zoológico quer construir uma grande arca e colocar os animais dentro dela. Os animais só podem embarcar aos **pares**. Um número inteiro representa uma espécie de animal. Se esse número for **positivo**, representa um animal **macho**; se for **negativo**, representa uma **fêmea**. Um casal válido consiste em um macho e uma fêmea da mesma espécie.
-
-### Estratégio
-
-```txt
-descasados = Crie um vetor para armazenar os animais sem pares
-para cada animal no zoo:
-    animal = leia o valor
-    Se ele tiver par na lista de descasado
-        marque a posição do par no vetor com 0
-        incremente a contagem de pares
-    se não
-        adicione esse animal na lista de descasados
-```
-
 
 ### Entrada
 
@@ -29,8 +13,9 @@ para cada animal no zoo:
 
 - A quantidade de casais formados.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 3
@@ -48,21 +33,4 @@ para cada animal no zoo:
 1
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-10
-1 9 -3 3 3 2 -1 4 -1 1
-======== EXPECT
-3
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-11
-1 9 -3 3 3 2 -1 4 -3 1 -1
-======== EXPECT
-4
-<<<<<<<< FINISH
-```
+<!-- load -->

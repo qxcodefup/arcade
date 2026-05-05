@@ -4,11 +4,7 @@
 
 [Explicação](https://youtu.be/1zT-Y0Zb1K0)
 
-## Motivação
-
 Joãozinho passou o dia visualizando os seus contatos no celular. Logo ele decidiu fazer um programa que calcula a quantidade de vezes que um determinado dígito aparece em um número de contato.
-
-## Ação
 
 Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber quantas vezes aparece e o segundo sendo o número do contato.
 
@@ -17,12 +13,13 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 * Valor inteiro A (entre 1 e 9).
 * Valor inteiro B.
 
-## Saída
+### Saída
 
 * Número de vezes que o dígito A aparece em B  
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 0
@@ -39,41 +36,8 @@ Receba dois inteiros do usuário, o primeiro sendo o dígito que se quer saber q
 ======== EXPECT
 1
 <<<<<<<< FINISH
-
-
->>>>>>>> INSERT
-2
-99102030
-======== EXPECT
-1
-<<<<<<<< FINISH
 ```
+<!-- load -->
 
-```py
->>>>>>>> INSERT
-9
-44902391
-======== EXPECT
-2
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-4
-5939
-======== EXPECT
-0
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-0
-51007140
-======== EXPECT
-3
-<<<<<<<< FINISH
-```
 
 [Resolução](https://youtu.be/utRdA8SwBzA)

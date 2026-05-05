@@ -2,8 +2,6 @@
 
 ![Imagem Tempo em Horas, Minutos e Segundos](assets/cover.jpg)
 
-## Contexto
-
 Implemente um programa que recebe um tempo em segundos e transformar no formato:
 
 Hora:Minuto:Segundo
@@ -21,8 +19,9 @@ Hora:Minuto:Segundo
 
 - Tempo formatado em Horas:Minutos:Segundos
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 3641
@@ -38,39 +37,4 @@ Hora:Minuto:Segundo
 6:7:47
 <<<<<<<< FINISH
 ```
-
-## Dicas
-
-### Programando em: C
-
-- Aqui está uma maneira de realizar impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
-
-```c
-int main() {
-    printf("%d:%d:%d", hora, minuto, segundo)
-}
-```
-
-### Programando em: Python
-
-- Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
-
-```py
-print(f"{hora}:{minuto}:{segundos}")
-```
-
-### Programando em: TypeScript
-
-- Aqui estão duas maneiras de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
-
-```ts
-console.log(hora + ":" + minuto + ":" + segundo);
-```
-
-### Programando em: Go
-
-- Aqui está uma maneira de realizar a impressão de variáveis junto com textos (strings) no terminal, utilizando o caractere `:` como separador. Os dois pontos podem ser substituídos por qualquer outro caractere:
-
-```go
-fmt.Printf("%d:%d:%d", hora, minuto, segundo)
-```
+<!-- load -->

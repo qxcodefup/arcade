@@ -15,9 +15,10 @@ A primeira linha da entrada contém um número natural N representando o tipo do
 
 Seu programa deve imprimir uma linha contendo um número natural representando quantas peças existem num jogo de dominó do tipo duplo-N.
 
-## Exemplo
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 6
 ======== EXPECT
@@ -31,5 +32,5 @@ Seu programa deve imprimir uma linha contendo um número natural representando q
 ======== EXPECT
 91
 <<<<<<<< FINISH
-
 ```
+<!-- load -->

@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 A professora Ingrid conta que, em suas brincadeiras de criança, uma das suas atividades favoritas era pular amarelinha. Na versão simplificada, a criança joga a pedra em um número e depois tem que ir pulando um número por vez, sem pisar no número onde a pedra caiu, até chegar ao fim da trilha.
 
 Na brincadeira, o primeiro número é o 0 e o último número é o 10, que as crianças chamam de "céu".
@@ -26,8 +24,9 @@ Se a pedra cair no número 10, não há necessidade de imprimir "céu", pois o n
 
 - O número **N** será um número inteiro no intervalo **[0, 10]**.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 8
@@ -43,36 +42,4 @@ Se a pedra cair no número 10, não há necessidade de imprimir "céu", pois o n
 [ 1 2 3 4 5 6 7 8 9 ceu ]
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-0
-======== EXPECT
-[ 1 2 3 4 5 6 7 8 9 ceu ]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-1
-======== EXPECT
-[ 0 2 3 4 5 6 7 8 9 ceu ]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-2
-======== EXPECT
-[ 0 1 3 4 5 6 7 8 9 ceu ]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-10
-======== EXPECT
-[ 0 1 2 3 4 5 6 7 8 9 ]
-<<<<<<<< FINISH
-
-```
+<!-- load -->

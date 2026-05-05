@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Quem utiliza transporte público sabe o quão cheio um ônibus pode ficar, muitas vezes desafiando as leis da física. A quantidade de passageiros entrando e saindo é tão grande que o motorista nem consegue contar. Durante uma viagem, o motorista pediu sua ajuda, como estudante de TI, para criar um programa que o auxilie a decidir quando o ônibus está pronto para partir.
 
 Dado um número inteiro C, que representa a capacidade do ônibus prevista pela legislação, o programa deve ler a movimentação M (quantidade de pessoas que entram ou saem) e exibir o estado atual do ônibus. O programa encerra quando for a "hora de partir".
@@ -28,8 +26,9 @@ Dado um número inteiro C, que representa a capacidade do ônibus prevista pela 
 - Um número negativo representa a saída de pessoas.
 - Nunca vão sair mais pessoas do que tem no ônibus
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 5
@@ -59,22 +58,4 @@ vazio
 hora de partir
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-3
-1
-1
-1
--3
-3
-3
-======== EXPECT
-ainda cabe
-ainda cabe
-lotado
-vazio
-lotado
-hora de partir
-<<<<<<<< FINISH
-```
+<!-- load -->

@@ -2,8 +2,6 @@
 
 ![Imagem meteriologica](assets/cover.jpg)
 
-## Contexto
-
 Você deve escrever um programa que recebe três números inteiros e retorna a soma desses três números.
 
 ### Entrada
@@ -14,8 +12,9 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 
 - A saída deve conter um único valor: a soma dos três números inteiros, seguido por uma quebra de linha.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 2
@@ -35,42 +34,4 @@ Você deve escrever um programa que recebe três números inteiros e retorna a s
 53
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
--10
--4
-23
-======== EXPECT
-9
-<<<<<<<< FINISH
-```
-
-## Dicas
-
-- Como imprimir quebrando linha e sem quebrar linha:
-
-```c
-// C
-printf("%d", soma);   // Sem quebra de linha
-printf("%d\n", soma); // Com quebra de linha
-```
-
-```py
-// Python
-print(soma)     # Com quebra de linha (padrão)
-print(soma, end='')  # Sem quebra de linha
-```
-
-```ts
-// TypeScript
-console.log(soma); # Com quebra de linha
-process.stdout.write(soma.toString()); # Sem quebra de linha
-```
-
-
-```go
-// Go
-fmt.Println(soma)     // Com quebra de linha (padrão)
-fmt.Print(soma)       // Sem quebra de linha
-```
+<!-- load -->

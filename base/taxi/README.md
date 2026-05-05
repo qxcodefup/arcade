@@ -2,21 +2,18 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
-A Companhia de Táxi Tabajara (CTT) é uma das maiores empresas de transporte do país. Possui uma vasta frota de carros e opera em todas as grandes cidades. Recentemente a CTT modernizou a sua frota, adquirindo um lote de 500 carros bi-combustíveis (carros que podem utilizar como combustível tanto álcool quanto gasolina). Além do maior conforto para os passageiros e o menor gasto com manutenção, com os novos carros é possível uma redução adicional de custo: como o preço da gasolina está sujeito a variações muito bruscas e pode ser vantagem, em certos momentos, utilizar álcool como combustível. Entretanto, os carros possuem um melhor desempenho utilizando gasolina, ou seja, em geral, um carro percorre mais quilômetros por litro de gasolina do que por litro de álcool.  
+A Companhia de Táxi Tabajara (CTT) é uma das maiores empresas de transporte do país. Possui uma vasta frota de carros e opera em todas as grandes cidades. Recentemente a CTT modernizou a sua frota, adquirindo um lote de 500 carros bi-combustíveis (carros que podem utilizar como combustível tanto álcool quanto gasolina). Além do maior conforto para os passageiros e o menor gasto com manutenção, com os novos carros é possível uma redução adicional de custo: como o preço da gasolina está sujeito a variações muito bruscas e pode ser vantagem, em certos momentos, utilizar álcool como combustível. Entretanto, os carros possuem um melhor desempenho utilizando gasolina, ou seja, em geral, um carro percorre mais quilômetros por litro de gasolina do que por litro de álcool.  
   
-## Ação
 
-Você deve escrever um programa que, dados o preço do litro de álcool, o preço do litro de gasolina e os quilômetros por litro que um carro bi-combustível realiza com cada um desses combustíveis, determine se é mais econômico abastecer os carros da CTT com álcool ou com gasolina. No caso de não haver diferença de custo entre abastecer com álcool ou gasolina a CTT prefere utilizar gasolina.
+Você deve escrever um programa que, dados o preço do litro de álcool, o preço do litro de gasolina e os quilômetros por litro que um carro bi-combustível realiza com cada um desses combustíveis, determine se é mais econômico abastecer os carros da CTT com álcool ou com gasolina. No caso de não haver diferença de custo entre abastecer com álcool ou gasolina a CTT prefere utilizar gasolina.
   
 ### Entrada
 
-A entrada é composta por quatro linhas contendo quatro números reais com precisão de duas casas decimais A, G, Ra e Rg , representando respectivamente o preço por litro do álcool, o preço por litro da gasolina, o rendimento (km/l) do carro utilizando álcool e o rendimento (km/l) do carro utilizando gasolina. A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado).
+A entrada é composta por quatro linhas contendo quatro números reais com precisão de duas casas decimais A, G, Ra e Rg , representando respectivamente o preço por litro do álcool, o preço por litro da gasolina, o rendimento (km/l) do carro utilizando álcool e o rendimento (km/l) do carro utilizando gasolina. A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado).
   
-## Saída
+### Saída
 
-A saída deve ser composta por uma única linha contendo o caractere 'A' se é mais econômico abastecer a frota com álcool ou o caractere 'G' se é mais econômico ou indiferente abastecer a frota com gasolina. A saída deve ser escrita no dispositivo de saída padrão (normalmente a tela).
+A saída deve ser composta por uma única linha contendo o caractere 'A' se é mais econômico abastecer a frota com álcool ou o caractere 'G' se é mais econômico ou indiferente abastecer a frota com gasolina. A saída deve ser escrita no dispositivo de saída padrão (normalmente a tela).
   
 ## Restrições
 
@@ -25,9 +22,10 @@ A saída deve ser composta por uma única linha contendo o caractere 'A' se é
 - 0.01 ≤ Ra ≤ 20.00  
 - 0.01 ≤ Rg ≤ 20.00
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1.00
 1.00
@@ -48,36 +46,4 @@ G
 A
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-2.15 
-3.17
-19.34
-18.22
-======== EXPECT
-A
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-3.90
-3.80
-19.01
-19.99
-======== EXPECT
-G
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-4.15
-3.17
-16.64
-19.22
-======== EXPECT
-G
-<<<<<<<< FINISH
-```
+<!-- load -->

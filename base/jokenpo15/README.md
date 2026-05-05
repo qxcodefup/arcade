@@ -1,7 +1,5 @@
 # Jokenpo com quinze opções
 
-## Motivação
-
 O jokenpo é emocionante. Normalmente, as crianças aprendem a jogar jokenpo antes de aprenderem par ou ímpar pois é mais fácil aprender que pedra quebra tesoura do que somar números e descobrir se par ou ímpar. Existem várias variações. Uma interessante com 15 níveis é a seguir. Cada elemento ganha de 7 elementos a sua frente e perder de 7 elementos que estão antes dele.
 
 ![_](assets/cover.jpg)
@@ -12,7 +10,7 @@ Vamos fazer do Human o número 0, Tree será 1 e assim sucessivamente. O número
 
 - Dois números, A, B um por linha indicando as escolhas do primeiro e do segundo jogador.
 
-## Saída
+### Saída
 
 - "Empate", "Jogador 1", "Jogador 2"
 
@@ -20,9 +18,10 @@ Vamos fazer do Human o número 0, Tree será 1 e assim sucessivamente. O número
 
 - 0 ≤ A, B, C ≤ 14
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1
 0
@@ -30,8 +29,8 @@ Vamos fazer do Human o número 0, Tree será 1 e assim sucessivamente. O número
 Jogador 2
 <<<<<<<< FINISH
 ```
-  
-``` py
+
+```py
 >>>>>>>> INSERT
 5
 9
@@ -39,12 +38,4 @@ Jogador 2
 Jogador 1
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-0
-0
-======== EXPECT
-Empate
-<<<<<<<< FINISH
-```
+<!-- load -->

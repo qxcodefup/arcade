@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Na Roma antiga, o imperador Cyzar, cansado dos combates 1x1 no Coliseu, resolveu fazer uma única e gigante batalha. Ele juntou todos os Gladiadores (**G**) e Condenados à morte (**C**) na arena para um espetáculo sangrento.
 
 Os Gladiadores, que podiam se defender, tinham mais chances de vitória. Já os Condenados entravam desarmados. Para equilibrar, Cyzar definiu regras de pontuação. Às vezes, para "esquentar" as coisas, ele soltava um Leão (**L**) na arena!
@@ -38,9 +36,10 @@ Some os pontos e determine o vencedor.
 - A matriz será quadrada.
 - Haverá no máximo um **L** (Leão) na arena.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 3
 G L G
@@ -61,14 +60,4 @@ G C C
 Condenados a morte
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-3
-C C G
-C G C
-G C C
-======== EXPECT
-Ninguem
-<<<<<<<< FINISH
-```
+<!-- load -->

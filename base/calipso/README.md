@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Tia Dalma (Calipso) e Jack Sparrow estavam conversando. Jack, depois da terceira garrafa de rum, diz:
 
 - Ja QuE eStAmOs Só NóS nEsSe BaRrCo, SeRá QuE rOlA uM bEiJiNhO?
@@ -26,9 +24,10 @@ Como você deve ter notado, Jack Sparrow fala de uma forma muito peculiar. Sua t
 - O texto de cada linha terá no máximo **100** caracteres.
 - A alternância de case deve ignorar os espaços, mas eles devem ser mantidos na saída.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1
 a batata
@@ -47,14 +46,4 @@ AaAaAaAa
 bBbBbBbB
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-2
-Morra Prea
-BigODE Aparado
-======== EXPECT
-MoRrA pReA
-BiGoDe ApArAdO
-<<<<<<<< FINISH
-```
+<!-- load -->

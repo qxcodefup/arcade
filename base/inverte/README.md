@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Implemente um programa que, dado um único caractere, retorne a sua versão com o "case" invertido:
 
 - Se o caractere for minúsculo, retorne-o em maiúsculo.
@@ -22,8 +20,9 @@ Implemente um programa que, dado um único caractere, retorne a sua versão com 
 
 - O caractere será qualquer um representável em **ASCII**.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 a
@@ -39,19 +38,4 @@ B
 b
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-5
-======== EXPECT
-5
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-!
-======== EXPECT
-!
-<<<<<<<< FINISH
-```
+<!-- load -->

@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Dona Mônica é mãe de três filhos que têm idades diferentes. Ela notou que, neste ano, a soma das idades dos seus três filhos é igual à idade dela. Neste problema, dada a idade de dona Mônica e as idades de dois dos filhos, seu programa deve computar e imprimir a idade do filho mais velho.
 
 Por exemplo, se sabemos que dona Mônica tem 52 anos e as idades conhecidas de dois dos filhos são 14 e 18 anos, então a idade do outro filho, que não era conhecida, tem que ser 20 anos, pois a soma das três idades tem que ser 52. Portanto, a idade do filho mais velho é 20.
@@ -27,8 +25,9 @@ Em mais um exemplo, se dona Mônica tem 47 anos e as idades de dois dos filhos s
 - 1 ≤ B < M
 - A !=B
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 52
@@ -47,56 +46,5 @@ Em mais um exemplo, se dona Mônica tem 47 anos e as idades de dois dos filhos s
 ======== EXPECT
 21
 <<<<<<<< FINISH
-
 ```
-
-## Dicas
-
-A idade do terceiro filho 𝐶 pode ser calculada pela fórmula:
-
-$$C = M - (A + B)$$
-
-Depois de calcular a idade do terceiro filho, compare as idades dos três filhos para determinar qual é o mais velho.
-
-### Programando em: C
-
-- Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
-`x = condicao ? valor_verdade : valor_falso`:
-
-```c
-int main() {
-    int maior = 5 > 4 ? 5 : 4;    
-}  
-```
-
-```c
-int main() {
-    int maior = C > maior ? C : maior;    
-}  
-```
-
-### Programando em: Python
-
-- Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
-`x = valor_verdade if condicao else valor_falso`:
-
-```py
-int x = 5 if 5 > 4 else 4
-```
-
-```py
-int x = A if A > B else B
-```
-
-### Programando em: TypeScript
-
-- Um operador ternário pode simplificar a conta. Ele é da seguinte forma:
-`x = condicao ? valor_verdade : valor_falso`:
-
-```ts
-let maior = 5 > 4 ? 5 : 4;
-```
-
-```ts
-let maior = C > maior ? C : maior;  
-```
+<!-- load -->

@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Transform um número em um vetor de inteiros sem usar strings.
 
 ### Entrada
@@ -16,9 +14,10 @@ OBS: Use os operadores de divisão e módulo para obter os números.
 
 - O valor decomposto em números(0 à 9).
   
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 12345
 ======== EXPECT
@@ -33,27 +32,4 @@ OBS: Use os operadores de divisão e módulo para obter os números.
 2 3 5 7
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-567
-======== EXPECT
-5 6 7
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-4937
-======== EXPECT
-4 9 3 7
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-953
-======== EXPECT
-9 5 3
-<<<<<<<< FINISH
-```
+<!-- load -->

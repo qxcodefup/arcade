@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Valdiskley é muito nerd e, depois de estudar criptografia, bolou um plano infalível para conquistar o amor da sua vida, Valentina. Seu plano é o seguinte: ele vai escrever várias cartinhas criptografadas para ela e só revelará a senha se ela aceitar namorar com ele.
 
 Sua tarefa é implementar a lógica de criptografia que Valdiskley usará. A operação funciona com base em uma cifra de caracteres, onde o alfabeto é tratado como uma lista circular ('a' vem depois de 'z'). Pense em 'a' como 0, 'b' como 1, e assim por diante, até 'z' como 25.
@@ -52,9 +50,10 @@ Você deve criar um programa que receba dois caracteres e uma operação (+ ou -
 
 - Os caracteres de entrada serão sempre letras minúsculas de **'a'** a **'z'**.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 4 -->
+```py
 >>>>>>>> INSERT
 a
 +
@@ -93,23 +92,4 @@ d
 c
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-b
--
-c
-======== EXPECT
-z
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-b
-+
-b
-======== EXPECT
-c
-<<<<<<<< FINISH
-```
+<!-- load -->

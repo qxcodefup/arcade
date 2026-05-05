@@ -2,13 +2,7 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Valdiskley está apaixonado por criptografia. Descobriu que codificar uma cifra genérica pode executar várias das antigas cifras históricas.
-
-Para conhecer mais cifras históricas veja Atbash, Albam e Atbah.
-
-## Ação  
 
 Vamos fazer uma cifra de substituição genérica. Voce recebe um texto claro e duas palavras de cifragem. Se o caractere do texto claro estiver na palavra de cifragem 1, você deve substitui-lo pelo caractere correspondente da palavra de cifragem 2.
 
@@ -26,13 +20,14 @@ Observe que em word1 podem aparecer pontuação, numeros, etc. Se word1 = "123!\
 * linha 2: palavra1 de cifragem.
 * linha 3: palavra2 de cifragem.
 
-## Saída
+### Saída
 
 * o resultado da criptografia.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 Opa amigo xarles 2o
 a
@@ -51,3 +46,4 @@ nopqrtuvwxyz
 zwavn pvwaryn
 <<<<<<<< FINISH
 ```
+<!-- load -->

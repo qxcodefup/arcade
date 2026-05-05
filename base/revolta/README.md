@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Um grupo de portugueses planeja fazer uma revolução armada:
 
 - *"Pois, pois, Manoel, como pretendes tomar de assalto a praça?"*
@@ -33,9 +31,10 @@ Dado um vetor de números inteiros, some as forças dos soldados (números ímpa
 - O vetor conterá entre 1 e 50 elementos.
 - Os valores dos elementos do vetor estão entre 1 e 50.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 2
 1
@@ -55,38 +54,4 @@ rebeldes
 empate
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-2
-2
-3
-======== EXPECT
-soldados
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-4
-1
-2
-3
-1
-======== EXPECT
-soldados
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-5
-1
-2
-3
-1
-4
-======== EXPECT
-rebeldes
-<<<<<<<< FINISH
-```
+<!-- load -->

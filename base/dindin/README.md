@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Clenda adora um dindin de chocolate, mas odeia ter que pegar fila para comprar um após o almoço. Ela sempre fica decepcionada quando chega e não encontra mais o sabor de chocolate disponível. Para comprovar que chocolate é realmente o sabor mais vendido e descobrir o horário mais vago para comprar, Clenda começou a anotar as vendas dos dindins, registrando o sabor e o turno em que foram vendidos.
 
 Dado o número de dindins vendidos, o sabor e o turno de cada venda, seu programa deve calcular qual sabor foi o mais vendido e qual turno foi o mais vago.
@@ -30,8 +28,9 @@ Dado o número de dindins vendidos, o sabor e o turno de cada venda, seu program
   - **m:** manhã.
   - **t:** tarde.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 1
@@ -52,17 +51,4 @@ empate
 empate
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-2
-c m
-c t
-======== EXPECT
-c
-empate
-<<<<<<<< FINISH
-```
-
-
-```
+<!-- load -->

@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Ação
-
 Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida calcule e imprima a soma destas matrizes. Se S é a soma das matrizes A e B, então cada elemento S\[i\]\[j\] é calculado como A\[i\]\[j\] + B\[i\]\[j\], ou seja, a soma dos elementos de mesma posição nas matrizes A e B.
 
 ### Entrada
@@ -13,14 +11,15 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 - Linhas da matriz A.  
 - Linhas da matriz B.
 
-## Saída
+### Saída
 
 - Linhas da matriz S = A + B.
 
-## Testes
+## Exemplos
 
-``` py
->>>>>>>> INSERT 00
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
 2
 3
 1 2 3
@@ -34,7 +33,7 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 ```
 
 ```py
->>>>>>>> INSERT 01
+>>>>>>>> INSERT
 2
 1
 1
@@ -46,3 +45,4 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 [ 6 ]
 <<<<<<<< FINISH
 ```
+<!-- load -->

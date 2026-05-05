@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 No jokenpo de nove elementos temos uma lista circular onde cada um vence os quatro elementos a sua frente e perde para quatro elementos atrás dele. A sequência é a seguinte:
 
 Em inglês:
@@ -42,14 +40,15 @@ ARMA MIRA ROCHA, DISPARA, SUPERA TESOURA, ATIRA NO HUMANO.
 
 - Texto em inglês em minúsculo e sem acentos contendo as opções dos dois jogadores.  
 
-## Saída
+### Saída
 
 - empate, jog1 ou jog2.
 
-## Testes
+## Exemplos
 
-``` py
->>>>>>>> INSERT 01
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
 sponge
 gun
 ======== EXPECT
@@ -58,64 +57,11 @@ jog1
 ```
 
 ```py
->>>>>>>> INSERT 02
+>>>>>>>> INSERT
 air
 scissors
 ======== EXPECT
 jog2
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT 03
-gun
-gun
-======== EXPECT
-empate
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 04
-air
-gun
-======== EXPECT
-jog1
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 05
-fire
-air
-======== EXPECT
-jog2
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 06
-water
-human
-======== EXPECT
-jog2
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 07
-scissors
-paper
-======== EXPECT
-jog1
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 08
-sponge
-human
-======== EXPECT
-jog2
-<<<<<<<< FINISH
-```
+<!-- load -->

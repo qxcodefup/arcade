@@ -15,9 +15,10 @@ No tabuleiro de xadrez, a casa na linha 1, coluna 1 (canto superior esquerdo) é
   - 1, se for branca; e
   - 0, se for preta.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 4 -->
+```py
 >>>>>>>> INSERT
 6
 9
@@ -52,3 +53,4 @@ No tabuleiro de xadrez, a casa na linha 1, coluna 1 (canto superior esquerdo) é
 0
 <<<<<<<< FINISH
 ```
+<!-- load -->

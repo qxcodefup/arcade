@@ -1,6 +1,6 @@
 # Blackjack 21
 
-Você irá implementar uma versão simplificada do jogo **Blackjack 21**, também conhecido como “vinte e um”, onde um jogador humano enfrenta a mesa (computador). A atividade pode feita em três etapas, com aumento progressivo na complexidade.
+Você irá implementar uma versão simplificada do jogo **Blackjack 21**, também conhecido como “vinte e um", onde um jogador humano enfrenta a mesa (computador). A atividade pode feita em três etapas, com aumento progressivo na complexidade.
 
 Para conhecer melhor o jogo original, consulte:  
 
@@ -96,7 +96,7 @@ Valor inválido.
 Se quiser ir além:
 
 - Adicione **múltiplos jogadores**, com turnos alternados.
-- Implemente regras extras como **dobrar aposta** ou **dividir cartas** (“split”).
+- Implemente regras extras como **dobrar aposta** ou **dividir cartas** (“split").
 
 ---
 

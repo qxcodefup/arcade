@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Chico Bento fez uma aposta com o Cebolinha para ver quem conseguia estimar melhor o número total de patas dos animais na fazenda. Eles listaram vários animais, e o objetivo é calcular quantas patas existem ao todo e descobrir quem fez a estimativa mais precisa.
 
 Dado o chute de Chico Bento e Cebolinha, e a lista de animais com suas respectivas patas, escreva um programa que calcule o somatório das patas e determine quem chegou mais perto do valor correto.
@@ -28,8 +26,9 @@ Dado o chute de Chico Bento e Cebolinha, e a lista de animais com suas respectiv
 - O número de animais será um inteiro positivo.
 - Os chutes de Chico Bento e Cebolinha são inteiros positivos.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 18
@@ -61,26 +60,4 @@ g
 Chico Bento
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-17
-15
-5
-c
-c
-g
-v
-g
-======== EXPECT
-16
-empate
-<<<<<<<< FINISH
-```
-
-## Dicas
-
-- **Somatório de patas:** Lembre-se de que vacas e cavalos têm 4 patas, enquanto galinhas têm 2. Crie um somatório iterando pela lista de animais.
-
-- **Diferença absoluta:** Para saber quem está mais próximo, calcule a diferença absoluta entre o chute de cada um e o número real de patas.
-
+<!-- load -->

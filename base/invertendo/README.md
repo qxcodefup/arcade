@@ -14,10 +14,11 @@ Inverta um vetor de números inteiros e imprima o resultado.
 
 - Imprima o vetor invertido, entre colchetes, com os elementos separados por espaços.
 
-## Testes
+## Exemplos
 
-``` py
->>>>>>>> INSERT 01
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
 4
 1 2 3 4
 ======== EXPECT
@@ -26,28 +27,11 @@ Inverta um vetor de números inteiros e imprima o resultado.
 ```
 
 ```py
->>>>>>>> INSERT 02
+>>>>>>>> INSERT
 2
 1 2
 ======== EXPECT
 [ 2 1 ]
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT 03
-6
-1 2 3 4 5 6
-======== EXPECT
-[ 6 5 4 3 2 1 ]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 04
-5
-1 2 3 4 5
-======== EXPECT
-[ 5 4 3 2 1 ]
-<<<<<<<< FINISH
-```
+<!-- load -->

@@ -2,13 +2,10 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 No capítulo 3 da saga de Valdiskey você vai escrever o algoritmo que faz a criptografia e descriptografia. Valentina aceitou o namoro e vai usar o seu código para ler o conteúdo das cartinhas de amor de Valdiskley. Se você quiser pesquisar o nome dessa cifra é cifra de Vigenere.
 
 [http://pt.wikipedia.org/wiki/Cifra_de_Vigen%C3%A8re](http://pt.wikipedia.org/wiki/Cifra_de_Vigen%C3%A8re)
 
-## Ação
 
 Primeiro a criptografia:
 
@@ -38,13 +35,14 @@ saida: "fliafs ni kfkr gy tuvlmv"
 
 A operação de descifrar é o contrário da cifragem.
 
-## Saída
+### Saída
 
 - O resultado da operação.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 4 -->
+```py
 >>>>>>>> INSERT
 batata? sim! frita!!
 abac
@@ -73,3 +71,14 @@ ab
 a casa ta aberta
 <<<<<<<< FINISH
 ```
+
+```py
+>>>>>>>> INSERT
+o bobe!
+ab
++
+======== EXPECT
+o coce!
+<<<<<<<< FINISH
+```
+<!-- load -->

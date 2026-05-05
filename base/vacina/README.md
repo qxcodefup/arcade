@@ -12,13 +12,13 @@ A primeira linha contém o número de vacinas N.
 
 A segunda linha contém N inteiros, representando a força das vacinas. A terceira linha contém N inteiros, que são a contagem média dos pacientes.
 
-## Saída
+### Saída
 
 Imprima uma única linha contendo Yes, se todos os pacientes podem ser salvos e No, caso contrário.
 
 A força das vacinas e a contagem de células T de pacientes cabem em um número inteiro.
 
-## Exemplo de entrada 1
+## Exemplos de entrada 1
 
 ```py
 5
@@ -26,7 +26,7 @@ A força das vacinas e a contagem de células T de pacientes cabem em um número
 100 328 248 689 200
 ```
 
-## Exemplo de Saída 1
+## Exemplos de Saída 1
 
 ```py
 No
@@ -36,9 +36,9 @@ No
 
 A vacina 1 (contagem 123) cura o paciente 1 (contagem 100).
 
- A vacina 2 (contagem 146) não cura nenhum outro.
+A vacina 2 (contagem 146) não cura nenhum outro.
 
-## Exemplo de entrada 2
+## Exemplos de entrada 2
 
 ```py
 5
@@ -46,7 +46,7 @@ A vacina 1 (contagem 123) cura o paciente 1 (contagem 100).
 100 328 248 689 145
 ```
 
-## Exemplo de Saída 2
+## Exemplos de Saída 2
 
 ```py
 Yes
@@ -59,3 +59,28 @@ Yes
 - A vacina 3 (contagem 454) cura o paciente 2.
 - A vacina 4 (contagem 150) cura o paciente 5.
 - A vacina 5 (contagem 150) cura o paciente 3.
+
+
+### Exemplos
+
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
+5
+10 61 55 88 17
+15 76 21 73 19
+======== EXPECT
+No
+<<<<<<<< FINISH
+```
+
+```py
+>>>>>>>> INSERT
+5
+123 146 454 542 456
+100 328 248 689 200
+======== EXPECT
+No
+<<<<<<<< FINISH
+```
+<!-- load -->

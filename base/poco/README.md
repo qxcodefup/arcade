@@ -2,8 +2,6 @@
 
 ![sapinho](assets/cover.jpg)
 
-## Motivação
-
 * Mamãe, minha namorada, a Myrellah disse que não vem mais aqui em casa.
 * Porquê meu filho?
 * Porque ela odeia sapo e o quintal tá cheio.
@@ -25,13 +23,14 @@ para mostrar os saltos do sapo até a saída.
 
 * P, S, E inteiros, um por linhas.
 
-## Saída
+### Saída
 
 * as posições de salto e aterrissagem do sapinho até que ele saia ou morra afogado.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 800
 300
@@ -75,37 +74,4 @@ para mostrar os saltos do sapo até a saída.
 -110 morreu
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-100
-50
-30
-======== EXPECT
-0 50
-20 60
-30 60
-30 50
-20 30
-0 0
--30 morreu
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-100
-60
-30
-======== EXPECT
-0 60
-30 80
-50 90
-60 90
-60 80
-50 60
-30 30
-0 0
--30 morreu
-<<<<<<<< FINISH
-```
+<!-- load -->

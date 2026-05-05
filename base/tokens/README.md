@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Ação
-
 Dada uma frase (max 100 char) com palavras (letras minusculas), números e espaço, divida os elementos em n frases usando os tokens ' # ' e ' ; ' como referência de fim para aquela frase.
 
 ### Entrada
@@ -14,9 +12,10 @@ Dada uma frase (max 100 char) com palavras (letras minusculas), números e espa�
 
 * n frases sem os tokens.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 4 -->
+```py
 >>>>>>>> INSERT
 mamae me ama#15#1.76;
 ======== EXPECT
@@ -46,3 +45,4 @@ coca zero
 U
 <<<<<<<< FINISH
 ```
+<!-- load -->

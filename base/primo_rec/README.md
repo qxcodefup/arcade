@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Dado um número inteiro, faça uma função recursiva que verifique se ele é primo.  
 
 ### Entrada
@@ -14,9 +12,10 @@ Dado um número inteiro, faça uma função recursiva que verifique se ele é pr
 
 - O número **1** se **N** for primo e **0** caso contrário.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 5
 ======== EXPECT
@@ -31,11 +30,4 @@ Dado um número inteiro, faça uma função recursiva que verifique se ele é pr
 0
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-2
-======== EXPECT
-1
-<<<<<<<< FINISH
-```
+<!-- load -->

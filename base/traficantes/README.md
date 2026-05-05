@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 O traficante Aldemir liga para seu comparsa Valdemiro por um telefone que estava grampeado. Aldemir fala:
 
 - "preciso de tutu pra comprar uma tutuda porque o Carlos nao me entutu mais".
@@ -31,9 +29,10 @@ Inspirado pela necessidade de decifrar a mensagem, sua tarefa é criar uma ferra
 - Todos os caracteres da entrada são minúsculos e sem pontuação.
 - **Desafio:** Não use nenhuma função pronta de substituição da sua linguagem de programação para resolver o problema.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 a aba absorveu
 ab
@@ -52,13 +51,4 @@ bigode
 a albigodefada esta bigodefada e bigodelhada
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-a bd abda
-bd
-abc
-======== EXPECT
-a abc aabca
-<<<<<<<< FINISH
-```
+<!-- load -->

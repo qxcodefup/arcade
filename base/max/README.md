@@ -2,8 +2,6 @@
 
 ![abs](assets/cover.jpg)
 
-## Contexto
-
 Compare dois números inteiros e determine qual deles é o maior.
 
 ### Entrada
@@ -14,12 +12,13 @@ Compare dois números inteiros e determine qual deles é o maior.
 
 - O maior dos dois números.
 
-### Desafio
+### Sugestão
 
 Após fazer utilizando if e else, verifique se a linguagem que você está utilizando possui uma função ou método para encontrar o maior número entre dois valores e utilize-o para resolver o problema.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 4
@@ -37,51 +36,4 @@ Após fazer utilizando if e else, verifique se a linguagem que você está utili
 5
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-12
-12
-======== EXPECT
-12
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
--5
-0
-======== EXPECT
-0
-<<<<<<<< FINISH
-
-```
-
-## Dicas
-
-### Programando em: C
-
-- O método `fmax()` da biblioteca `math.h` pode ajudar a encontrar o maior número:
-
-```c
-#include <math.h>
-int main() {
-    maior = fmax(a, b);
-}
-```
-
-### Programando em: Python
-
-- Utilize a função `max()` para encontrar o maior número:
-
-```py
-maior = max(a, b)
-```
-
-### Programando em: TypeScript
-
-- A função `Math.max()` retornará o maior valor entre os números:
-
-```ts
-let maior: number = Math.max(a, b);
-```
+<!-- load -->

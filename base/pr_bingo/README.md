@@ -7,44 +7,19 @@ gerador de cartelas.
 
 <http://www.bingosonline.com/regras-bingo/75-bolas>
 
-## Regras Básicas
+O bingo de 75 bolas é a modalidade de bingo mais popular nos Estados Unidos. Esta tradicional variante do bingo utiliza 75 números, com grupos de 15. Cada letra da palavra *Bingo* é utilizada para agrupar 15 números, de 01 a 75. As cartelas do bingo de 75 bolas são quadaradas, com 25 espaços - 5 colunas e 5 linhas. O espaço que fica bem no centro da cartela é marcado com a palavra *Free* (*Livre*), ou seja, não será utilizado por nenhum jogador. Todos os demais espaços contem números aleatórios, dispostos conforme o layout *Bingo* anteriormente explicado, e devem ser preenchidos conforme são cantados.
 
-O bingo de 75 bolas é a modalidade de bingo mais popular nos Estados
-Unidos. Esta tradicional variante do bingo utiliza 75 números, com
-grupos de 15. Cada letra da palavra *Bingo* é utilizada para agrupar
-15 números, de 01 a 75. As cartelas do bingo de 75 bolas são quadaradas,
-com 25 espaços - 5 colunas e 5 linhas. O espaço que fica bem no centro
-da cartela é marcado com a palavra *Free* (*Livre*), ou seja, não
-será utilizado por nenhum jogador. Todos os demais espaços contem
-números aleatórios, dispostos conforme o layout *Bingo* anteriormente
-explicado, e devem ser preenchidos conforme são cantados.
+Nesta modalidade de bingo, todos os jogadores devem preencher os espaços até completarem um padrão de preenchimento preestabelecido no início do jogo. Um padrão de linha requer que o jogador complete uma das linhas de sua cartela, o padrão X requer o preenchimento de duas linhas na diagonal, entre outros. O padrão *bingo* (todos os espaços completos) é conhecido nesta modalidade como *Full House*, *Blackout*, ou ainda *Coverall*.
 
-Nesta modalidade de bingo, todos os jogadores devem preencher os espaços
-até completarem um padrão de preenchimento preestabelecido no início do
-jogo. Um padrão de linha requer que o jogador complete uma das linhas de
-sua cartela, o padrão X requer o preenchimento de duas linhas na
-diagonal, entre outros. O padrão *bingo* (todos os espaços completos)
-é conhecido nesta modalidade como *Full House*, *Blackout*, ou ainda
-*Coverall*.
+Seu objetivo é implementar a roleta e o rack de guardar as bolas. A cada rodada, o programa pergunta pro usuário se quer pedir outra bola ou parar. A cada bola sorteada, esta deve sair da roleta e ir para o rack.
 
-## Implementação Parte 1
+O programa deve continuamente mostrar quais as bolas que estão na roleta e quais as bolas que já foram sorteadas e estão no rack.
 
-Seu objetivo é implementar a roleta e o rack de guardar as bolas. A cada
-rodada, o programa pergunta pro usuário se quer pedir outra bola ou
-parar. A cada bola sorteada, esta deve sair da roleta e ir para o rack.
+Como sugestão ordene esses valores para facilitar a visualização. Se desejar, implemente como no exemplo abaixo, no qual as bolas que faltam são mostradas com um marcador.
 
-O programa deve continuamente mostrar quais as bolas que estão na
-roleta e quais as bolas que já foram sorteadas e estão no rack.
+## Exemplos
 
-Como sugestão ordene esses valores para facilitar a visualização. Se
-desejar, implemente como no exemplo abaixo, no qual as bolas que faltam
-são mostradas com um marcador.
-
-## Exemplo
-
-1a Versão. Uma única rodada, um jogador e a mesa. A cada rodada o
-programa pergunta se o jogador quer parar ou continuar. Se quiser
-continuar, ele recebe uma bola aleatória. Abaixo, um exemplo de saída.
+1a Versão. Uma única rodada, um jogador e a mesa. A cada rodada o programa pergunta se o jogador quer parar ou continuar. Se quiser continuar, ele recebe uma bola aleatória. Abaixo, um exemplo de saída.
 
     Iniciando Bingo:
 
@@ -98,8 +73,7 @@ continuar, ele recebe uma bola aleatória. Abaixo, um exemplo de saída.
 
 ## Implementação Parte 2
 
-A segunda parte da implementação é a criação de um gerador de cartelas.
-Aqui cada letra contem bolas dentro de uma faixa.
+A segunda parte da implementação é a criação de um gerador de cartelas. Aqui cada letra contem bolas dentro de uma faixa.
 
 - B - 5 bolas entre 1 e 15
 - I - 5 bolas entre 16 e 30
@@ -107,12 +81,11 @@ Aqui cada letra contem bolas dentro de uma faixa.
 - G - 5 bolas entre 46 e 60
 - O - 5 bolas entre 61 e 75
 
-Os números normalmente não são ordenados dentro da letra. A seguir o
-exemplo de uma cartela.
+Os números normalmente não são ordenados dentro da letra. A seguir o exemplo de uma cartela.
 
 ![Cartela](assets/cartela.jpg)
 
-## Exemplo Parte 2
+## Exemplos Parte 2
 
     Cartela 1
     B  I  N  G  O

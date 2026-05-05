@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Um fugitivo, um helicóptero e um policial estão em posições distintas numa pista circular, exatamente como a mostrada na figura ao lado, com dezesseis posições numeradas de 0 a 15 em direção anti-horária.
 
 O helicóptero e o policial ficam sempre parados. O objetivo do fugitivo é chegar no helicóptero sem passar pelo policial antes, claro. Ele pode decidir correr na direção horária, ou na direção anti-horária.
@@ -26,8 +24,9 @@ Neste problema, dadas as posições do helicóptero, do policial e do fugitivo, 
 
 - Os inteiros **H**, **P** e **F* são distintos e estão entre **0** e **15**, inclusive.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 4 14 7 -1
@@ -43,19 +42,4 @@ S
 N
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-15 9 8 -1
-======== EXPECT
-S
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-0 14 15 -1
-======== EXPECT
-N
-<<<<<<<< FINISH
-```
+<!-- load -->

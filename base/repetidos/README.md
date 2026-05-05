@@ -11,9 +11,10 @@
 
 - A quantidade de vezes que o número P aparece no vetor.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 5 3
 2
@@ -35,19 +36,4 @@
 3
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-2 8
-2
-4
-2
-6
-2
-0
-2
-2
-======== EXPECT
-5
-<<<<<<<< FINISH
-```
+<!-- load -->

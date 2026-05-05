@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Amora está apaixonada e quer descobrir quantas vezes em sua cartinha de amor aparecem palavras amorosas. Na cartinha, estava escrito:
 
 "amo o amor que me amou, oh amora que me enamora amolecendo minha alma."
@@ -26,9 +24,10 @@ Ajude Amora a verificar suas cartas. Faça um programa que recebe duas entradas:
 - A frase terá no máximo **100** caracteres.
 - O trecho terá no máximo **20** caracteres.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 amo o amor que me amou, oh amora amortecida
 amo
@@ -45,3 +44,4 @@ rat
 5
 <<<<<<<< FINISH
 ```
+<!-- load -->

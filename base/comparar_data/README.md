@@ -26,11 +26,11 @@ A função principal do seu programa é a seguinte:
 ```c
 #include <stdio.h>
 
-typedef struct{
+typedef struct {
      int dia;
      int mes;
      int ano;
-}Data;
+} Data;
 
 typedef enum { LT, EQ, GT} compare;
 
@@ -45,3 +45,33 @@ int main(){
     printf("%d\n", res); //0
 }
 ```
+
+## Exemplos
+
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
+2
+4
+2000
+1
+4
+2000
+======== EXPECT
+Mais recente
+<<<<<<<< FINISH
+```
+
+```py
+>>>>>>>> INSERT
+2
+3
+1999
+1
+4
+2000
+======== EXPECT
+Mais antiga
+<<<<<<<< FINISH
+```
+<!-- load -->

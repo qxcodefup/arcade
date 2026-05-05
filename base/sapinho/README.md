@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 - *Mamãe, minha namorada, a Myrellah, disse que não vem mais aqui em casa.*
 - *Por que, meu filho?*
 - *Porque ela odeia sapo e o quintal tá cheio.*
@@ -23,9 +21,10 @@ O sapo começa no fundo de um poço de profundidade **P** centímetros. A cada s
 
 - As posições de salto e aterrissagem do sapinho até que ele saia do poço. O programa deve imprimir as posições, uma por linha, até que o sapinho escape. A última linha deve conter a posição do sapinho seguida da palavra **"saiu"**.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 500
 100
@@ -54,3 +53,4 @@ O sapo começa no fundo de um poço de profundidade **P** centímetros. A cada s
 500 saiu
 <<<<<<<< FINISH
 ```
+<!-- load -->

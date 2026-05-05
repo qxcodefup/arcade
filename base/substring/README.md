@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Implemente uma função que, dada uma string, um índice de início e uma quantidade de caracteres, retorne a substring correspondente. Se o índice ou a quantidade de caracteres forem inválidos, retorne uma string vazia. A função deve retornar exatamente a quantidade de caracteres solicitada ou até o fim da string, o que ocorrer primeiro.
 
 ### Entrada
@@ -21,10 +19,11 @@ Implemente uma função que, dada uma string, um índice de início e uma quanti
 - O índice de início e a quantidade de caracteres são sempre inteiros.
 - A string contém apenas caracteres alfanuméricos e espaços.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
->>>>>>>> INSERT 01
+>>>>>>>> INSERT
 Coralina
 0
 4
@@ -34,7 +33,7 @@ Cora
 ```
 
 ```py
->>>>>>>> INSERT 01
+>>>>>>>> INSERT
 Coralina
 1
 4
@@ -42,23 +41,4 @@ Coralina
 oral
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT 02
-Power Ranger
-4
-20
-======== EXPECT
-r Ranger
-<<<<<<<< FINISH
-
-```
-
-## Dicas
-
-
-### Programando em Python
-
-- Em Python, você pode usar fatiamento para obter uma substring diretamente, por exemplo, `texto[inicio:inicio + quantidade]`.
-- Verifique se o índice inicial é válido para evitar erros de índice fora do intervalo.
-- Caso o índice inicial seja maior que o comprimento da string, ou a quantidade de caracteres solicitada seja negativa, retorne uma string vazia imediatamente.
+<!-- load -->

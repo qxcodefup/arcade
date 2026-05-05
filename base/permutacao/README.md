@@ -2,19 +2,12 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
-Sara quer andar na montanha russa, mas para isso ela precisa esperar a sua vez na fila.
-
-## Descrição
-
-Sara tem um número de ficha, e lhe disseram que as fichas são geradas a partir de um número único seguindo os seguintes critérios:
+Sara quer andar na montanha russa, mas para isso ela precisa esperar a sua vez na fila. Sara tem um número de ficha, e lhe disseram que as fichas são geradas a partir de um número único seguindo os seguintes critérios: 
 
 - Cada ficha é gerada a partir da permutação lexicográfica da anterior.
-
 - Se a última ficha gerada for a última permutação, as próximas fichas serão iguais.
 
-### Exemplo
+## Exemplos
 
 ```py
 1° ficha = 123
@@ -28,8 +21,6 @@ Sara tem um número de ficha, e lhe disseram que as fichas são geradas a partir
 ```
 
 Saiba mais: Permutações Lexográficas
-
-## Ação
 
 Sara tem medo de montanha russa, por isso ela vai comprar mais fichas para ir com as amigas.
 
@@ -50,10 +41,11 @@ Dada a ficha de Sara e o número de fichas seguintes que Sara comprou, determine
 
 - Seja S⁰ a primeira ficha, S¹ a segunda... S^n é permutação lexografica de S^(n-1).
 
-## Testes
+## Exemplos
 
-``` py
->>>>>>>> INSERT Teste 0
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
 123
 5
 ======== EXPECT
@@ -62,19 +54,11 @@ Dada a ficha de Sara e o número de fichas seguintes que Sara comprou, determine
 ```
 
 ```py
->>>>>>>> INSERT Teste 1
+>>>>>>>> INSERT
 3215
 1
 ======== EXPECT
 3251
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT Teste 2
-4567
-6
-======== EXPECT
-5467
-<<<<<<<< FINISH
-```
+<!-- load -->

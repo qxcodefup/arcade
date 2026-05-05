@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Ao trabalhar com vetores, muitas vezes é necessário formatar a saída de forma mais legível. Neste exercício, o objetivo é imprimir um vetor em um formato específico, utilizando uma função que realiza a formatação correta, separando os elementos por vírgulas e espaços.
 
 Você deve implementar um programa que leia um vetor, armazene os valores e depois os exiba com uma formatação específica. O vetor deve ser impresso entre colchetes e os elementos separados por **"`,` "**. Se o vetor estiver vazio, deve ser exibido como `[]`.
@@ -24,30 +22,13 @@ Você deve implementar um programa que leia um vetor, armazene os valores e depo
 
 ## Desafio
 
-Implemente uma função que receba o vetor e o imprima formatado conforme as especificações:
+Implemente uma função que receba o vetor
+  - Imprima o vetor formatado conforme descrito.
+  - Ou retorne a string formatada do vetor, para que possa ser utilizada em outras partes do programa.
 
-### Programando em C
+## Exemplos
 
-```c
-void imprime_vetor(int vet[], int n) {
-}
-```
-
-### Programando em Python
-
-```py
-def imprime_vetor(vet: list[int]) -> None:
-```
-
-### Programando em TS
-
-```ts
-function imprimeVetor(vet: number[]): void {
-}
-```
-
-## Testes
-
+<!-- load tests.toml --tests 4 -->
 ```py
 >>>>>>>> INSERT
 3
@@ -82,12 +63,4 @@ function imprimeVetor(vet: number[]): void {
 [1, 2, 3, 4, 5]
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-4
-4 2 3 1
-======== EXPECT
-[4, 2, 3, 1]
-======== EXPECT
-```
+<!-- load -->

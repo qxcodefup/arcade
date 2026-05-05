@@ -2,10 +2,7 @@
 
 ![_](assets/cover.jpg)
 
-## Ação
-
 Implemente a função `troca`, que recebe como parâmetro duas variáveis inteiras passadas por referência, e troca os valores destas variáveis.
-
 
 ## Draft
 
@@ -20,9 +17,10 @@ Você deverá:
 - Implementar a função 'troca'.
 - Chamar a função 'troca' dentro da função 'main'.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1 2
 ======== EXPECT
@@ -37,24 +35,4 @@ Você deverá:
 3 -1
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-0 0
-======== EXPECT
-0 0
-<<<<<<<< FINISH
-```
-
-
-upload:
-   vpl_evaluate.sh
-   vpl_cases.txt
-
-keep:
-   main.c
-   data.txt
-
-required:
-   lib.c
-   lib.h
+<!-- load -->

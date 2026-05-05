@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 - O sapo começa no fundo de um poço de profundidade P cm.
 - A cada salto ele sobe S centímetros.
 - Enquanto se recupera para o próximo salto, ele escorrega E centímetros.
@@ -20,9 +18,10 @@ Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcula
 
 - A menor força de salto que o sapinho deve ter para conseguir sair do poço. A força determina a altura do primeiro salto.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 10
 1
@@ -39,21 +38,4 @@ Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcula
 16
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-200
-10
-======== EXPECT
-67
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-500
-30
-======== EXPECT
-122
-<<<<<<<< FINISH
-```
+<!-- load -->

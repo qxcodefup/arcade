@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Dois amigos, Alice e Bob, estão jogando um jogo muito simples, em que um deles grita ou "par" ou "ímpar" e o outro imediatamente responde ao contrário, respectivamente "ímpar" ou "par". Em seguida, ambos exibem ao mesmo tempo uma mão cada um, em que alguns dedos estão estendidos e outros dobrados. Então eles contam o número total de dedos estendidos. Se a soma for par, quem gritou "par" ganha. Se a soma for ímpar, quem gritou "ímpar" ganha.
 
 Seu programa deve determinar quem ganhou, tendo a informação de quem gritou par e o número de dedos estendidos de cada um.
@@ -29,9 +27,10 @@ Seu programa deve determinar quem ganhou, tendo a informação de quem gritou pa
 - 0 ≤ D1 ≤ 5
 - 0 ≤ D2 ≤ 5
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 0
 0
@@ -50,13 +49,4 @@ Seu programa deve determinar quem ganhou, tendo a informação de quem gritou pa
 0
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-0
-1
-5
-======== EXPECT
-0
-<<<<<<<< FINISH
-```
+<!-- load -->

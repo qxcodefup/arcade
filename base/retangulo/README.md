@@ -59,3 +59,25 @@ int main(){
     printf("%d\n", dentro(r,p) ); //1
 }
 ```
+
+## Exemplos
+
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
+0 5 5 0
+2 2
+======== EXPECT
+1
+<<<<<<<< FINISH
+```
+
+```py
+>>>>>>>> INSERT
+0 5 5 0
+2 7
+======== EXPECT
+0
+<<<<<<<< FINISH
+```
+<!-- load -->

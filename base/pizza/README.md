@@ -2,9 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
-
 Davi adora comer pizza. Mas ele está preocupado porque a qualidade da pizza feita pela maioria dos restaurantes em Quixadá está piorando. As últimas pizzas pedidas por ele não estavam tão boas. Davi está com muita fome e quer comer pizza. Mas ele está indeciso sobre o restaurante de onde deveria pedir. Como sempre, ele pede ajuda a Edvadlo.
 
 Edvaldo sugere que Davi atribua alguns pontos a cada restaurante e, em seguida, escolha o restaurante com o máximo de pontos. Se mais de um restaurante tiver os mesmos pontos, Davi pode escolher aquele com o menor nome na ordem lexicográfica.
@@ -29,9 +26,10 @@ Crie uma `struct` para representar um `Restaurante` e faça uma função que rec
 - Os pontos de cada restaurante estarão entre **1** e **1.000.000**.
 - O nome do restaurante terá no máximo **20** caracteres, contendo apenas letras minúsculas e sem espaços.
 
-## Exemplo de Entrada
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 1 -->
+```py
 >>>>>>>> INSERT
 3
 fornoalenha 108
@@ -41,3 +39,4 @@ qsabor 49
 burguery
 <<<<<<<< FINISH
 ```
+<!-- load -->

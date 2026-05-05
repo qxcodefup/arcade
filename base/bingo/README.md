@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Sua avó, uma frequentadora assídua do bingo dos idosos, estava tendo dificuldades para saber quantos números estava acertando por partida. Sendo o bom neto que você é, decidiu criar um programa para ajudá-la.
 
 Sua tarefa é, dado um vetor de 6 números inteiros (os números sorteados), verificar quantos deles estão presentes na cartela de bingo fixa da sua avó, que é a matriz 4x4 abaixo:
@@ -27,9 +25,10 @@ Sua tarefa é, dado um vetor de 6 números inteiros (os números sorteados), ver
 
 - A entrada consistirá em 6 números inteiros.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 55 30 2 974 79 23
 ======== EXPECT
@@ -44,11 +43,4 @@ Sua tarefa é, dado um vetor de 6 números inteiros (os números sorteados), ver
 0
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-47 20 23 27 9 1
-======== EXPECT
-6
-<<<<<<<< FINISH
-```
+<!-- load -->

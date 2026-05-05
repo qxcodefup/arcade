@@ -2,14 +2,12 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 No quartel, os soldados formaram uma fila representada por um vetor de inteiros. Nesta fila:
 
 - `1` representa um médico.
 - `0` representa um soldado de combate.
 
-Todo soldado de combate que está adjacente a um médico (à esquerda ou à direita) tem mais chances de sobreviver. O objetivo é calcular quantos soldados **não estão adjacentes** a um médico e, portanto, não têm proteção.
+Todo soldado de combate que está adjacente a um médico (à esquerda ou à direita) tem mais chances de sobreviver. O objetivo é calcular quantos soldados **não estão adjacentes** a um médico e, portanto, estão correndo mais riscos.
 
 ### Entrada
 
@@ -20,8 +18,9 @@ Todo soldado de combate que está adjacente a um médico (à esquerda ou à dire
 
 * A quantidade de soldados que não tem médico à sua direita ou à sua esquerda.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 3
@@ -39,3 +38,4 @@ Todo soldado de combate que está adjacente a um médico (à esquerda ou à dire
 1
 <<<<<<<< FINISH
 ```
+<!-- load -->

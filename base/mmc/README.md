@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Ação
-
 Faça uma função que calcule e retorne o mmc de dois números.  
 
 ### Entrada
@@ -14,9 +12,10 @@ Faça uma função que calcule e retorne o mmc de dois números.
 
 * O mmc de N e M.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 6 9
 ======== EXPECT
@@ -31,11 +30,4 @@ Faça uma função que calcule e retorne o mmc de dois números.
 12
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-3 6
-======== EXPECT
-6
-<<<<<<<< FINISH
-```
+<!-- load -->

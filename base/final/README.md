@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Imagine-se no fim do semestre, ansioso para saber se suas notas foram suficientes para passar direto ou se precisará fazer a temida prova final. Além disso, alguns colegas estão se perguntando se ainda têm chance de salvar o semestre com a nota da final, ou se já estão reprovados. Para evitar todo esse suspense, você decide criar um programa que, a partir das suas notas e da prova final (se for o caso), calcula se você está aprovado, reprovado ou se precisará da nota final para decidir seu destino.
 
 - Caso a média das duas primeiras notas seja maior ou igual a 7, o aluno será aprovado.
@@ -30,9 +28,10 @@ Agora, implemente um programa que siga essas regras e decida automaticamente seu
 
 - As notas serão inteiros entre 0 e 10
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 8
 8
@@ -51,25 +50,4 @@ aprovado
 aprovado na final
 <<<<<<<< FINISH
 ```
-
-
-## Dicas
-
-Use o pseudocódigo a seguir para implementar o algoritmo de calcular nota e decidir se você ficou aprovado, reprovado, aprovado na final ou reprovado na final.
-
-```txt
-leia a primeira nota
-leia a segunda nota
-media = some as notas e divida por 2
-se media maior igual a 7
-  aprovado
-se menor que 4 reprovado
-  reprovado
-se entre 4 e 7
-  leia a final
-  mediaFinal = (mediaParcial + final)/2
-  se mediaFinal >= 5
-      aprovado
-  senao
-      reprovado
-```
+<!-- load -->

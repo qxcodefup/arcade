@@ -2,11 +2,7 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Na pré-estreia de Capitão América: Guerra Civil, os fãs estavam loucos e divididos entre dois times, sendo eles: Team Iron e Team Captain. Eles discutiam os motivos de seus lados saírem vencedores. Stan Lee, um estagiário de TI pensou em diversas formas de determinar o vencedor, uma delas era dizendo a força de cada personagem, depois determinar qual seria vencedor de acordo com a soma dos poderes de cada time e por fim dizer quem é o melhor de toda a batalha de acordo com o seu poder.
-
-## Ação
 
 Crie um programa que receba o número de integrantes, crie um vetor para cada time que recebe o nome e seu respectivo poder. Some o poder de cada time e veja qual é o maior para determinar o vencedor.
 
@@ -22,14 +18,15 @@ Crie um programa que receba o número de integrantes, crie um vetor para cada ti
 * Quantidade de integrantes do time do Capitão América
 * Nome e poder de cada
 
-## Saída
+### Saída
 
 * Time vencedor
 * Nome do campeão mais poderoso
 
-### Testes
+### Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 2
 Homem de Ferro
@@ -68,3 +65,4 @@ Team Iron Wins
 Wanda
 <<<<<<<< FINISH
 ```
+<!-- load -->

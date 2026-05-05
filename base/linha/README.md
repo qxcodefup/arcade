@@ -30,7 +30,12 @@ Agora tente adaptar esse código para carregar vários inteiros em um vetor e de
 - Saída:
   - O vetor impresso ao contrário.
 
-``` py
+[Resolução](https://youtu.be/r44oGh6gVU0)
+
+## Exemplos
+
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 19 12 32 11 17 15
 ======== EXPECT
@@ -45,22 +50,4 @@ Agora tente adaptar esse código para carregar vários inteiros em um vetor e de
 [ 15 ]
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-15 12
-======== EXPECT
-[ 12 15 ]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-15 17 11
-======== EXPECT
-[ 11 17 15 ]
-<<<<<<<< FINISH
-
-```
-
-[Resolução](https://youtu.be/r44oGh6gVU0)
+<!-- load -->

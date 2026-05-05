@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Implemente um programa que recebe um número inteiro e imprime "SIM" se o número for maior ou igual a zero. Caso contrário, o programa apenas imprimirá NAO.
 
 ### Entrada
@@ -14,8 +12,9 @@ Implemente um programa que recebe um número inteiro e imprime "SIM" se o númer
 
 - "SIM" se o número for maior ou igual a zero, caso contrário, NAO.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 3
@@ -31,27 +30,4 @@ SIM
 NAO
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
--3
-======== EXPECT
-NAO
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-1
-======== EXPECT
-SIM
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-0
-======== EXPECT
-SIM
-<<<<<<<< FINISH
-```
+<!-- load -->

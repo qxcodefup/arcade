@@ -2,27 +2,20 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
-Você já jogou zerim ou um? Aposto que sim!
-
-Que tal implementar um código que lê os dedos e informa quem ganhou o jogo?
-
-## Ação
-
-Receba três valores correspondentes dos jogadores e em seguida imprima quem foi o vencedor ou se ouve empate segundo as regras do zerim ou um.
+Você já jogou zerim ou um? Aposto que sim! Que tal implementar um código que lê os dedos e informa quem ganhou o jogo? Receba três valores correspondentes dos jogadores e em seguida imprima quem foi o vencedor ou se ouve empate segundo as regras do zerim ou um.
 
 ### Entrada
 
 * As opções dos 3 jogadores, uma por linha.
 
-## Saída
+### Saída
 
 * O jogador (jog1, jog2, jog3) que ganhou ou "empate".
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1
 1
@@ -41,3 +34,4 @@ empate
 jog3
 <<<<<<<< FINISH
 ```
+<!-- load -->

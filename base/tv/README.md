@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Aluízio quer comprar uma televisão parcelada. No plano de pagamento, os juros aumentam de acordo com o número de parcelas, seguindo a regra abaixo:
 
 - **1 vez:** sem juros
@@ -33,7 +31,10 @@ Sua tarefa é criar um programa que, dado o valor da televisão e a quantidade d
 
 - A quantidade de parcelas será um número inteiro entre **1** e **10**.
 
-``` py
+## Exemplos
+
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 100
 1
@@ -52,15 +53,4 @@ Sua tarefa é criar um programa que, dado o valor da televisão e a quantidade d
 105.00
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-100
-10
-======== EXPECT
-14.50
-145.00
-<<<<<<<< FINISH
-```
-
-Problema proposto por Aluízio Lopes.
+<!-- load -->

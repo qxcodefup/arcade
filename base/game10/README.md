@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 No princípio dos anos 1980 surgiram nos colégios os primeiros relógios de pulso digitais com joguinhos. Era uma febre entre os alunos e quem tinha um era muito popular na hora do recreio. Os joguinhos eram bem simples, mas muito legais. Um dos primeiros era o Game-10, no qual você controlava um avião que aparecia na parte direita do visor. Na parte esquerda aparecia um disco voador em qualquer uma de três posições, aleatoriamente, e lançava um míssil. O objetivo do jogador era movimentar o avião verticalmente para que ficasse na frente do disco voador (na mesma linha horizontal, do lado direito) e atirar para interceptar o míssil antes que esse atingisse o avião.
 
 ![_](assets/figura.jpg)
@@ -30,9 +28,10 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 - 3 ≤ N ≤ 100
 - 1 ≤ D,A ≤ N
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 3
 2
@@ -51,28 +50,4 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 15
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-3
-2
-2
-======== EXPECT
-0
-<<<<<<<< FINISH
-```
-
-## Dicas
-
-O problema pode ser resolvido calculando a diferença cíclica entre a posição do disco voador 𝐷 e a posição do avião 𝐴. A diferença pode ser obtida de duas maneiras:
-
-- Movendo o avião de 𝐴 até 𝐷 diretamente.
-- Dando uma volta completa no ciclo e contando quantos movimentos são necessários.
-
-O número de movimentos será o menor valor entre essas duas possibilidades.
-
-O número de movimentos necessários para mover o avião pode ser calculado com a fórmula:
-
-$$movimentos = (D - A + N) \mod N$$
-
-Isso garante que a contagem dos movimentos seja sempre positiva e dentro do intervalo das posições disponíveis.
+<!-- load -->

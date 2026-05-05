@@ -1,7 +1,5 @@
 # Formiga da bundona
 
-## Motivação
-
 Uma formiguinha está andando na borda de um relógio redondo analógico. Como sua dieta é muito baseada em açúcar, sua nutricionista recomendou que ela caminhasse todos os dias para emagrecer.
 
 ![formiga](assets/cover.jpg)
@@ -14,13 +12,14 @@ Dado a posição inicial da formiga no relógio, a direção que ela está camin
 
 - Posição da Hora 'H' e do Minuto 'M' que a formiga começa sua caminhada. O sentido 'S' que ela anda, sendo Horário(H) ou Anti-horário(A) e distância D caminhada em centímetros. Para simplificar, o meio dia será representado pelo horário 00:00 e não por 12:00.
 
-## Saída
+### Saída
 
 - Posição hora e minuto que ela termina sua caminhada.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 00
 00
@@ -41,3 +40,4 @@ A
 11 50
 <<<<<<<< FINISH
 ```
+<!-- load -->

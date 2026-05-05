@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Sua tarefa é ler os dados de um grupo de pessoas e informar o nome da mulher mais idosa. Primeiro, você deve ler todas as informações e armazená-las em um vetor de `structs`. Cada pessoa será representada por seu nome, idade e sexo.
 
 Depois de armazenar os dados, processe o vetor para encontrar a mulher com a maior idade.
@@ -22,10 +20,11 @@ Depois de armazenar os dados, processe o vetor para encontrar a mulher com a mai
 
 - O nome não terá espaços e terá no máximo 20 caracteres.
 
-## Testes
+## Exemplos
 
-``` py
->>>>>>>> INSERT 01
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
 2
 ana 80 f
 joao 43 m
@@ -35,7 +34,7 @@ ana
 ```
 
 ```py
->>>>>>>> INSERT 02
+>>>>>>>> INSERT
 2
 jose 80 m
 joao 43 m
@@ -43,25 +42,4 @@ joao 43 m
 nao tem mulher
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT 03
-3
-joao 43 m
-ana 80 f
-melissa 34 f
-======== EXPECT
-ana
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 04
-3
-joao 88 m
-ana 80 f
-melissa 84 f
-======== EXPECT
-melissa
-<<<<<<<< FINISH
-```
+<!-- load -->

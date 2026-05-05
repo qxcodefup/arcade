@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Você foi encarregado de organizar a fila do Restaurante Universitário (RU). Para agilizar o processo, você teve a brilhante ideia de dividir a fila em dois grupos: uma fila para professores e STAs, e outra para alunos.
 
 - Professores e STAs (servidores) serão representados pelos números pares.
@@ -21,8 +19,9 @@ Dado um conjunto de números, divida-os em duas listas: uma contendo os números
 - Na primeira linha, imprima os números ímpares (alunos) na ordem em que foram inseridos, entre colchetes e separados por espaços.
 - Na segunda linha, imprima os números pares (servidores) na ordem em que foram inseridos, entre colchetes e separados por espaços.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 2
@@ -42,13 +41,4 @@ Dado um conjunto de números, divida-os em duas listas: uma contendo os números
 [ 2 6 4 ]
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-6
-1 2 5 3 4 9
-======== EXPECT
-[ 1 5 3 9 ]
-[ 2 4 ]
-<<<<<<<< FINISH
-```
+<!-- load -->

@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 A compreensão do uso de loops infinitos e dos comandos continue e break é fundamental para otimizar a execução de loops em programação. Essa atividade vai te ajudar a exercitar essas habilidades através de uma sequência numérica, excluindo números pares e parando no ponto certo.
 
 Leia dois números inteiros **A** e **B**, onde **A** será sempre menor ou igual a B. Utilize um loop infinito para imprimir todos os números ímpares entre **A** e **B**, excluindo **B** da impressão.
@@ -25,8 +23,9 @@ Leia dois números inteiros **A** e **B**, onde **A** será sempre menor ou igua
 
 - **A** sempre será menor ou igual a **B**
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 0 10
@@ -42,11 +41,4 @@ Leia dois números inteiros **A** e **B**, onde **A** será sempre menor ou igua
 [ 5 7 9 ]
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
--5 10
-======== EXPECT
-[ -5 -3 -1 1 3 5 7 9 ]
-<<<<<<<< FINISH
-```
+<!-- load -->

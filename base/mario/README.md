@@ -4,8 +4,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Thaiquovisqui da Silva está fazendo um joguinho com uma mistura de Super Mário e Assassins Creed. Nele, o Mário anda em um cenário 2D, mas ao invés de pular na cabeça dos inimigos, ele os derrota com uma chave de fenda. Afinal, Mário é um encanador, então faz todo o sentido!
 
 Sua tarefa é ajudar a construir os cenários para este jogo. Você receberá um vetor de números inteiros que representa a altura dos blocos em cada coluna do cenário. Seu programa deve desenhar esse cenário na tela, usando o caractere **#** para representar os blocos e **\_** para os espaços vazios.
@@ -41,9 +39,10 @@ __#######_
 - O vetor terá entre **1** e **20** elementos.
 - Cada número no vetor (altura) estará entre **1** e **20**.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 4
 1 3 1 2
@@ -66,17 +65,4 @@ _#_##
 #####
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-10
-1 1 3 3 4 6 4 2 2 1
-======== EXPECT
-_____#____
-_____#____
-____###___
-__#####___
-__#######_
-##########
-<<<<<<<< FINISH
-```
+<!-- load -->

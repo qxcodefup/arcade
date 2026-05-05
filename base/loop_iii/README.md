@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Aprender a utilizar loops decrescentes é uma habilidade essencial em programação. Esta atividade vai te ajudar a entender como iterar em ordem inversa.
 
 Leia dois números inteiros **A** e **B**, onde A será maior ou igual a **B**. Você deve imprimir todos os números inteiros entre **A** e **B**, excluindo **B**, na mesma linha, entre colchetes.
@@ -16,8 +14,9 @@ Leia dois números inteiros **A** e **B**, onde A será maior ou igual a **B**. 
 
 - Uma linha com os números inteiros entre **A** e **B**, em **ordem decrescente**, excluindo B, dentro de colchetes.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 10 0
@@ -33,12 +32,4 @@ Leia dois números inteiros **A** e **B**, onde A será maior ou igual a **B**. 
 [ 14 13 12 11 ]
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-0 -5
-======== EXPECT
-[ 0 -1 -2 -3 -4 ]
-<<<<<<<< FINISH
-
-```
+<!-- load -->

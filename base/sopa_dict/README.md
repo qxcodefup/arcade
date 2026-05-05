@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Zé da Carroça comprou um casal de coelhos. Ele gosta muito de sopa de coelho. Muito mesmo. Só tem uma coisa maior em Zé da Carroça do que a vontade de tomar sopa de coelho. É o sonho de ser um Cuniculturista vendendo carne de coelho para todo sertão central. Ele ainda está decidindo se come o casal de coelhos na sopa de hoje ou espera até que eles procriem o suficiente pra que Marivaldo fique rico.
 
 Estudando um pouco ele descobriu uma regra interessante criado por Leonardo de Pisa no ano de 1200.
@@ -52,9 +50,10 @@ func fib(n value, cache dict[int]int) {
 - **0 ≤ N ≤ 50**
 - **Sugestão:** O resultado pode não caber em um `int` padrão. Se estiver programando em **C**, use `long long int`.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1
 ======== EXPECT
@@ -69,11 +68,4 @@ func fib(n value, cache dict[int]int) {
 8
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-50
-======== EXPECT
-12586269025
-<<<<<<<< FINISH
-```
+<!-- load -->

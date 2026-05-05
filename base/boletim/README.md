@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 - Mamãe me perguntou: Tem certeza que tu não tá escondendo alguma nota baixa?
 - Tudo deu 10 no meu boletim, mãe!
 - Como assim, tudo deu 10?
@@ -23,9 +21,10 @@ Sua tarefa é criar um programa que, inspirando-se nessa lógica, receba uma mat
 
 - A matriz de entrada será sempre do tamanho 2x3.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1 2 3
 4 5 6
@@ -42,12 +41,4 @@ Sua tarefa é criar um programa que, inspirando-se nessa lógica, receba uma mat
 6
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-5 2 1
-3 2 1
-======== EXPECT
-14
-<<<<<<<< FINISH
-```
+<!-- load -->

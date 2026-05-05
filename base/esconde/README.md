@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Quando Diana jogava esconde-esconde, ela achava que o Paulo Victor contava rápido demais. Para resolver o problema, Diana inventou uma regra: Paulo deveria contar até o número combinado dizendo apenas os números ímpares na ida, e depois contar de volta dizendo apenas os números pares.
 
 Para garantir que a contagem fosse feita corretamente, Ingrid ficava de vigia, e Paulo só poderia sair após terminar a contagem.
@@ -22,8 +20,9 @@ Dado um número N ímpar, a tarefa é imprimir a sequência de números ímpares
 
 - O número **N** será sempre um número ímpar.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
 >>>>>>>> INSERT
 5
@@ -53,25 +52,4 @@ Dado um número N ímpar, a tarefa é imprimir a sequência de números ímpares
 0
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-13
-======== EXPECT
-1
-3
-5
-7
-9
-11
-13
-12
-10
-8
-6
-4
-2
-0
-<<<<<<<< FINISH
-
-```
+<!-- load -->

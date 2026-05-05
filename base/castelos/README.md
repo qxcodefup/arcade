@@ -2,7 +2,7 @@
 
 ![_](assets/cover.jpg)
 
-Zezim da Carroça ganhou bloquinhos de montar do seu pai. Como ele não tinha computador pra jogar Minecraft, resolveu criar construções magníficas com seus bloquinhos de montar. Decidiu organizar vários níveis usando a seguinte lógica:
+Vamos montar castelos utilizando a seguinte lógica.
 
 1² = 1 ![_](assets/quadrado1.png)
 
@@ -19,9 +19,7 @@ Zezim da Carroça ganhou bloquinhos de montar do seu pai. Como ele não tinha co
 ---
 5² = 25 ![_](assets/quadrado25.png)
 
-Algum tempo depois descobriu que esses números, 1, 2, 4, 9, 16, 25, etc eram chamados números quadrados ou quadrados perfeitos. Se quiser conhecer mais sobre as propriedades desse números acesse [https://pt.wikipedia.org/wiki/N%C3%BAmero\_quadrado](https://pt.wikipedia.org/wiki/N%C3%BAmero_quadrado)
-
-## Ação
+Esses números, 1, 2, 4, 9, 16, 25, etc, eram chamados números quadrados ou quadrados perfeitos.
 
 Dado um inteiro lido do usuário, determine, sem uso de operadores reais (como raiz quadrada, por exemplo), se ele é um quadrado perfeito, imprimindo "sim" se ele for quadrado perfeito e "nao", caso contrário.
 
@@ -29,13 +27,14 @@ Dado um inteiro lido do usuário, determine, sem uso de operadores reais (como r
 
 - Um número inteiro.
 
-## Saída
+### Saída
 
 - sim ou nao
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 16
 ======== EXPECT
@@ -50,11 +49,4 @@ sim
 nao
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-81
-======== EXPECT
-sim
-<<<<<<<< FINISH
-```
+<!-- load -->

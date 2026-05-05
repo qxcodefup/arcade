@@ -2,8 +2,6 @@
 
 ![Imagem eh Positivo](assets/cover.jpg)
 
-## Ação
-
 Implemente um programa que recebe um número inteiro e diga se ele é par ou impar.
 
 ### Entrada
@@ -15,10 +13,11 @@ Implemente um programa que recebe um número inteiro e diga se ele é par ou imp
 - "PAR" se o número for impar
 - "IMPAR" se o número for par
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 2 -->
 ```py
->>>>>>>> INSERT 0
+>>>>>>>> INSERT
 3
 ======== EXPECT
 IMPAR
@@ -26,49 +25,10 @@ IMPAR
 ```
 
 ```py
->>>>>>>> INSERT 1
+>>>>>>>> INSERT
 12
 ======== EXPECT
 PAR
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT 2
-33
-======== EXPECT
-IMPAR
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 3
-0
-======== EXPECT
-PAR
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 4
-7
-======== EXPECT
-IMPAR
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 5
-20
-======== EXPECT
-PAR
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT 6
-15
-======== EXPECT
-IMPAR
-<<<<<<<< FINISH
-```
+<!-- load -->

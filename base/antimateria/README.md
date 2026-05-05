@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Marquinhos (12 anos) chega em casa e fala pro seu irmão mais velho:
 
 - Lá no consultório do dentista, vi numa revista que existe antimatéria! Ela destrói toda matéria que toca e os dois desaparecem.
@@ -28,9 +26,10 @@ Sua tarefa é criar um programa que simule essa colisão. Dadas duas palavras, e
 
 - As palavras conterão apenas letras minúsculas.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 mel
 lema
@@ -47,21 +46,4 @@ suspiro
 pegapiro
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-olho
-ohio
-======== EXPECT
-olio
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-minhoca
-arvore
-======== EXPECT
-minhocrvore
-<<<<<<<< FINISH
-```
+<!-- load -->

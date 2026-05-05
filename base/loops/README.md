@@ -2,17 +2,13 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 - Aline: Ei André, minha vida deu uma volta de 360 graus.  
-- André: Vai pro colégio não tu? 360 graus volta pro mesmo lugar.  
+- André: Mas 360 graus volta pro mesmo lugar.  
 - Aline: Eu sei, é porque eu achei na rua uma carteira sem nenhum documento e cheia de dinheiro na rua.  
-- André: Então é 180 graus, mulher, tu agora tá estribada.  
+- André: Então é 180 graus, tu agora tá estribada.  
 - Aline: Não, é 360 mesmo, eu levei a carteira pra casa.  
 - André: E?????  
 - Aline: Descobri que era do meu pai.
-
-## Ação
 
 ![_](assets/angulos.png)
 
@@ -22,9 +18,10 @@ Seu objetivo é transformar os ângulos para recolocá-los dentro do cartesiano.
   
 Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano entre 0 e 359.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 0
 ======== EXPECT
@@ -39,3 +36,4 @@ Você deve ler o ângulo e imprimir o valor correto dele dentro do cartesiano en
 0
 <<<<<<<< FINISH
 ```
+<!-- load -->

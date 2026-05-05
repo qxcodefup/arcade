@@ -20,10 +20,9 @@ NOTA: A indexação da vetor começa com 0.
 
 A primeira linha de entrada consiste no tamanho da vetor A. A próxima linha consiste no vetor de tamanho n.
 
-## Saída
+### Saída
 
-A saída consiste em uma única linha de inteiros
-representando os índices originais de cada elemento no vetor ordenado entre [ ]
+A saída consiste em uma única linha de inteiros representando os índices originais de cada elemento no vetor ordenado entre [ ]
 
 ## Restrições
 
@@ -43,3 +42,16 @@ Exemplo de Saída
 ```py
 [ 4 2 0 1 3 ]
 ```
+
+## Exemplos
+
+<!-- load tests.toml --tests 1 -->
+```py
+>>>>>>>> INSERT
+10
+7 5 4 3 2 1 8 0 9 6
+======== EXPECT
+[ 7 5 4 3 2 1 9 0 6 8 ]
+<<<<<<<< FINISH
+```
+<!-- load -->

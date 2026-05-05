@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Sua tarefa é criar um programa que leia dois números inteiros e imprima o resultado das cinco operações básicas: soma, subtração, multiplicação, divisão e o resto da divisão, nesta ordem.
 
 ### Entrada
@@ -24,9 +22,10 @@ Sua tarefa é criar um programa que leia dois números inteiros e imprima o resu
 - O valor da divisão deve ser impresso como um número de ponto flutuante com duas casas decimais.
 - O valor de **B** nunca será 0.
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1
 4
@@ -51,14 +50,7 @@ Sua tarefa é criar um programa que leia dois números inteiros e imprima o resu
 0
 <<<<<<<< FINISH
 ```
-
-### Dica
-
-Seja a variável `valor` um número em ponto flutuante, você pode imprimir essa variável com duas casas decimais você pode fazer assim:
-
-- C: `printf("%2.f", valor)`
-- Javascript: `console.log(valor.toFixed(2))`
-- Python: `print("{:.2f}".format(valor))`
+<!-- load -->
 
 ### Resolução
 

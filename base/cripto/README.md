@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Yara quer desvendar um enigma, diga-se de passagem é bem enigmático!!!
 
 O enigma consiste em um conjunto de caracteres aparentemente sem sentido, esse enigma so passa a fazer sentindo quando processado com uma 'Key' composto por um número inteiro.
@@ -11,7 +9,7 @@ O enigma consiste em um conjunto de caracteres aparentemente sem sentido, esse e
 O processamento consiste em fazer operações short (^), bit a bit, entre cada caractere do
 enigma e cada digito da 'key', se a quantidade de dígitos da 'key' for menor que a quantidade de caracteres do enigma, a 'key' se repete, se a quantidade de caracteres do enigma for menor que a quantidade de dígitos da 'key', a 'key' se converte ao tamanho do enigma , desprezando os dígitos adicionais.
 
-### Exemplo
+## Exemplos
 
 ```py
 Enigma = nnb!ovofl
@@ -37,7 +35,6 @@ Perceba que na prática os caracteres serão convertidos para o seu código deci
 
 Ufaaa! Em fim... Ajude Yara nessa missao :)
 
-## Ação
 
 Yara irá procurar a chave pra você.
 
@@ -59,10 +56,11 @@ O enigma revelado.
 
 1 < KEY <= 2147483647.
 
-## Testes
+## Exemplos
 
-``` py
->>>>>>>> INSERT Teste 0
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
 nnb!ovofl
 123
 ======== EXPECT
@@ -71,19 +69,11 @@ ola mundo
 ```
 
 ```py
->>>>>>>> INSERT Teste 1
+>>>>>>>> INSERT
 Br'tbn+'qhdb'tfeb+'iht'tfebjht
 777
 ======== EXPECT
 Eu sei, voce sabe, nos sabemos
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT Teste 2
-jsmc*&cs&uis&ucs&vgo
-666
-======== EXPECT
-luke, eu sou seu pai
-<<<<<<<< FINISH
-```
+<!-- load -->

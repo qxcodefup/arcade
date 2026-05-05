@@ -2,7 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Descrição
 
 Um site sobre a série Harry Potter pediu para você criar um programa para medir o conhecimento de um visitante sobre a série e assim determinar o quão fã o visitante é.
 
@@ -52,15 +51,16 @@ Número de acertos | Saída do programa
 
 - 4 letras(abcd) uma por linha.
 
-## Saída
+### Saída
 
 - O texto correspondente ao número de acertos.
 
 ---
 
-### Testes
+### Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 a
 c
@@ -81,7 +81,4 @@ d
 Super Fa
 <<<<<<<< FINISH
 ```
-
-Autor: Bruno Góes
-
----
+<!-- load -->

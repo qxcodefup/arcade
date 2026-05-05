@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 Depois de muitos Spotteds-VSF de amor no Facebook, um aluno fez um estudo e percebeu que os atributos necessários para comparar a compatibilidade entre você e o crush são:
 
 - Se a primeira letra do nome for igual, ganha 20 pontos;
@@ -30,13 +28,14 @@ printf("%%");
 * Seu primeiro nome
 * Primeiro nome do seu crush
 
-## Saída
+### Saída
 
 * Porcentagem de chances do crush te dar bola
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 Yudi
 Priscilla
@@ -53,30 +52,4 @@ Hyoga
 As chances do crush te dar bola sao: 0%!
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-Kratos
-Athena
-======== EXPECT
-As chances do crush te dar bola sao: 20%!
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-Paula
-Paulo
-======== EXPECT
-As chances do crush te dar bola sao: 100%!
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-Shun
-Hyoga
-======== EXPECT
-As chances do crush te dar bola sao: 0%!
-<<<<<<<< FINISH
-```
+<!-- load -->

@@ -2,16 +2,11 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 A brincadeira do avesso funciona assim.
 
 Tem um chefe e os operários. Os operários ficam em fila. O chefe diz o nome de um operário e os dois operários que estavam perto dele tem que trocar de posição. Se estavam em pé, ficam agachados e vice-versa.
 
-## Ação
-
-Suponha a seguinte configuração onde cada número  
-representa uma pessoa.
+Suponha a seguinte configuração onde cada número representa uma pessoa.
 
 \[3 4 8 9 1 5 6\]
 
@@ -40,13 +35,14 @@ Se o chefe disser um número errado, ninguém deve se mexer.
   - O tamanho do vetor de operários (N < 100) e o grito do chefe (0 < X < 100).  
   - O vetor de operários, um valor inteiro para cada elemento  (0 < 100).
 
-## Saída
+### Saída
 
 - Vetor resultante.  
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 1
 2 3
@@ -65,45 +61,4 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 [2 1]
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-1
-2 1
-4 1
-======== EXPECT
-[-4 1]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-3
-3 1
-4 1 5
-3 5
-4 1 5
-3 4
-4 1 5
-======== EXPECT
-[-4 1 -5]
-[4 -1 5]
-[4 -1 5]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-3
-7 0
-3 4 8 9 1 5 6
-7 4
-3 4 8 9 1 5 6
-7 9
-3 4 -8 9 1 5 6
-======== EXPECT
-[3 4 8 9 1 5 6]
-[-3 4 -8 9 1 5 6]
-[3 4 8 9 -1 5 6]
-<<<<<<<< FINISH
-```
+<!-- load -->

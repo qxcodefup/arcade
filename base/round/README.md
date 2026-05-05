@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Um aluno ficou implorando para o seu professor de FUP arredondar seu 6.9999999999 para 10 porque ele precisa de um 10 para passar de semestre. Seu trabalho é utilizar as funções ceil, floor e round que existem na sua linguagem de programação.
 
 implemente três funções:
@@ -25,9 +23,10 @@ Na função principal (main), leia um caractere que representa a operação (r, 
 
 - imprima um inteiro de acordo com a operação pedida.  
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 c
 5.5
@@ -44,62 +43,4 @@ f
 6
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-c
-6.99
-======== EXPECT
-7
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-r
-5.5
-======== EXPECT
-6
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-r
-5.4
-======== EXPECT
-5
-<<<<<<<< FINISH
-```
-
-## Dicas
-
-### C
-
-```c
-#include <math.h>
-int main() {
-    printf("%d\n", (int)ceil(numero)); // para ceil
-    printf("%d\n", (int)floor(numero)); // para floor
-    printf("%d\n", (int)round(numero)); // para round
-}
-```
-
-### Python
-
-```py
-print(int(math.ceil(numero))) # para ceil
-print(int(math.floor(numero))) # para floor
-print(int(round(numero))) # para round
-```
-
-### GO
-
-```go
-import "math"
-func main() {
-    fmt.Println(int(math.Ceil(numero))) // para ceil
-    fmt.Println(int(math.Floor(numero))) // para floor
-    fmt.Println(int(math.Round(numero))) // para round
-}
-```
+<!-- load -->

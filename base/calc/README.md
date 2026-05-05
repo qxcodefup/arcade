@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
 Quem nunca, durante uma prova de matemática ou física no ensino médio, escutou um coleguinha perguntar: "Professor, pode usar a calculadora?"? Essa atividade traz essa prática para o mundo da programação, onde você terá a chance de criar sua própria calculadora que realiza operações básicas entre dois números inteiros.
 
 Leia dois números inteiros e um símbolo de operação, e imprima o resultado da operação correspondente.
@@ -24,9 +22,10 @@ A entrada consiste em três linhas:
 
 - Nunca haverá divisão por zero
 
-## Testes
+## Exemplos
 
-``` py
+<!-- load tests.toml --tests 2 -->
+```py
 >>>>>>>> INSERT
 5
 2
@@ -45,45 +44,8 @@ A entrada consiste em três linhas:
 8
 <<<<<<<< FINISH
 ```
+<!-- load -->
 
-```py
->>>>>>>> INSERT
-7
-9
-/
-======== EXPECT
-0
-<<<<<<<< FINISH
-```
-
-## Dicas
-
-### Programando em: C
-
-- O `operador` deve ser recebido em uma variável do tipo `char`:
-
-```c
-int main() {
-    char operador = 0;
-    scanf(" %c", &operador);
-}
-```
-
-### Programando em: Python
-
-- Não tem a necessidade de informar o tipo
-
-```py
-operador = input()
-```
-
-### Programando em: TypeScript
-
-- Não tem a necessidade de informar o tipo
-
-```ts
-let operador = input();
-```
 
 ## Resolução
 

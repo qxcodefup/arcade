@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-## Motivação
-
 O sistema de segredo para abrir esse cofre é bastante complexo. Ao invés de girar um botão várias vezes, como a gente vê normalmente nos filmes, o dono do cofre tem que deslizar um controle para a esquerda e para a direita, em cima de uma barra, várias vezes, parando em determinadas posições. A barra possui N posições e cada posição contém um número inteiro entre 0 e 9, inclusive. No exemplo da figura, a barra tem 14 posições e o controle está na posição 1.
 
 ![_](assets/cofre.png)
@@ -16,7 +14,7 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 
 - A primeira linha da entrada contém dois inteiros N e M, representando o número de posições na barra do cofre e o número de posições na sequência que o dono vai seguir para deslizar o controle. A segunda linha contém N inteiros entre 0 e 9, definindo a barra do cofre. A terceira linha contém M inteiros representando a sequência de posições que o dono vai seguir. A primeira posição nessa sequência é sempre 1 e não há duas posições consecutivas iguais.
 
-## Saída
+### Saída
 
 - Seu programa deve imprimir uma linha contendo 10 inteiros, representando o número de vezes que cada inteiro, entre 0 e 9, vai aparecer no controle da barra.
 
@@ -28,10 +26,11 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 
 - Em um conjunto de testes somando 40 pontos, N ≤ 1000 e M ≤ 1000
 
-## Testes
+## Exemplos
 
-``` py
->>>>>>>> INSERT 01
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
 14 5
 9 4 3 9 1 2 4 5 1 1 9 7 0 5
 1 9 4 11 13
@@ -41,7 +40,7 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 ```
 
 ```py
->>>>>>>> INSERT 02
+>>>>>>>> INSERT
 5 4
 5 8 0 5 1
 1 4 2 5
@@ -49,3 +48,4 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 [ 3 1 0 0 0 3 0 0 2 0 ]
 <<<<<<<< FINISH
 ```
+<!-- load -->

@@ -2,11 +2,7 @@
 
 ![_](assets/cover.jpg)
 
-## Contexto
-
-Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos em ordem numérica, mas está na dúvida de qual tazo ele tem mais vezes repetido.
-
-Sua tarefa é criar um código que ajude Elvis a descobrir o número do tazo que se repete mais vezes. Se mais de um tazo empatar na quantidade máxima de repetições, todos eles devem ser impressos.
+Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos em ordem numérica, mas está na dúvida de qual tazo ele tem mais vezes repetido. Sua tarefa é criar um código que ajude Elvis a descobrir o número do tazo que se repete mais vezes. Se mais de um tazo empatar na quantidade máxima de repetições, todos eles devem ser impressos.
 
 ### Estratégias
 
@@ -15,15 +11,15 @@ Sua tarefa é criar um código que ajude Elvis a descobrir o número do tazo que
 ### Entrada
 
 - **Linha 1:** Um número inteiro positivo representando a quantidade de elementos no vetor (1 a 50).
-
 - **Linha 2:** O vetor de inteiros em **ORDEM CRESCENTE**.
 
 ### Saída
 
 - Os elementos que se repetem mais vezes no vetor, dentro de colchetes `[]` e separados por espaço.
 
-## Testes
+## Exemplos
 
+<!-- load tests.toml --tests 4 -->
 ```py
 >>>>>>>> INSERT
 3
@@ -59,40 +55,4 @@ Sua tarefa é criar um código que ajude Elvis a descobrir o número do tazo que
 [ 3 ]
 <<<<<<<< FINISH
 ```
-
-```py
->>>>>>>> INSERT
-9
-2 2 3 5 5 5 7 7 7
-======== EXPECT
-[ 5 7 ]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-12
-2 2 3 5 5 5 7 7 7 9 9 9
-======== EXPECT
-[ 5 7 9 ]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-13
-2 2 3 5 5 5 7 7 7 9 9 9 9
-======== EXPECT
-[ 9 ]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-5
-2 3 5 8 9
-======== EXPECT
-[ 2 3 5 8 9 ]
-<<<<<<<< FINISH
-
-```
+<!-- load -->
