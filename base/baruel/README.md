@@ -6,14 +6,14 @@ Baruel Ruel tem muitas figurinhas do álbum de futebol. Ele estava indo para uma
 
 ### Entrada
 
-- **linha 1:** Um inteiro representando a quantidade total de figurinhas do álbum (1 a 50).
-- **linha 2:** Um inteiro representando a quantidade de figurinhas que Baruel possui (1 a 100).
-- **linha 3:** Uma sequência de inteiros representando os números das figurinhas que Baruel possui, em **ORDEM CRESCENTE**.
+- linha 1: Um inteiro representando a quantidade total de figurinhas do álbum (1 a 50).
+- linha 2: Um inteiro representando a quantidade de figurinhas que Baruel possui (1 a 100).
+- linha 3: Uma sequência de inteiros representando os números das figurinhas que Baruel possui, em **ORDEM CRESCENTE**.
 
 ### Saída
 
-- **Linha 1:** Os números das figurinhas que estão repetidas.
-- **Linha 2:** Os números das figurinhas que estão faltando no álbum.
+- Linha 1: Os números das figurinhas que estão repetidas.
+- Linha 2: Os números das figurinhas que estão faltando no álbum.
 
 ## Exemplos
 
