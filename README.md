@@ -22,7 +22,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ] `@opala           🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Opala bebedor](base/opala/README.md)
 - [ ] `@tv              🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Comprando tv parcelada](base/tv/README.md)
 
-## Seleção 1 <!-- @if1 deps=@base factor=1 xpgoal=26 active=1 -->
+## Seleção 1 <!-- @if1 deps=@base skills=if factor=1 xpgoal=26 active=1 -->
 
 - [x] `@abs             🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Valor absoluto](base/abs/README.md)
 - [x] `@max             🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Maior de dois números](base/max/README.md)
@@ -38,7 +38,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [x] `@meio            🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [A raposa e os esquilos](base/meio/README.md)
 - [x] `@jokenpo         🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Jokenpo das tartarugas](base/jokenpo/README.md)
 
-## Seleção 2 <!-- @if2 deps=@if1 factor=1 xpgoal=36 active=1 -->
+## Seleção 2 <!-- @if2 deps=@if1 skills=if factor=1 xpgoal=36 active=1 -->
 
 - [x] `@final           🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Será que eu passo?](base/final/README.md)
 - [x] `@semana          🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Semana e sábado](base/semana/README.md)
@@ -52,9 +52,6 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [x] `@cobra           🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Jogo da cobrinha](base/cobra/README.md)
 - [x] `@game10          🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Game10 - OBI 2017 - Fase 1 - Universitário](base/game10/README.md)
 - [x] `@salario         🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Calculando aumento](base/salario/README.md)
-
-## Seleção Extra <!-- @if_extra deps=@if2 factor=1 xpgoal=0 active=1 -->
-
 - [ ] `@impedido        🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Calculando impedimento](base/impedido/README.md)
 - [ ] `@maximo          🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Valor máximo entre dois números](base/maximo/README.md)
 - [ ] `@chaves          🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Positivo, Nulo ou Negativo?](base/chaves/README.md)
@@ -79,7 +76,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ] `@adedonha        🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Pensando letras como números](base/adedonha/README.md)
 - [ ] `@sono            🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Quanto tempo ainda tenho](base/sono/README.md)
 
-## Repetição 1 <!-- @for1 deps=@if2 factor=1 xpgoal=16 active=1 -->
+## Repetição 1 <!-- @for1 deps=@if2 skills=for factor=1 xpgoal=16 active=1 -->
 
 - [x] `@loop_i          🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Treino de loop](base/loop_i/README.md)
 - [x] `@loop_ii         🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Imprimindo em linha](base/loop_ii/README.md)
@@ -92,7 +89,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [x] `@ceu             🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Ingrid quer chegar no céu](base/ceu/README.md)  
 - [x] `@esconde         🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Diana no esconde-esconde](base/esconde/README.md)
 
-## Repetição 2 <!-- @for2 deps=@for1 factor=1 xpgoal=22 active=1 -->
+## Repetição 2 <!-- @for2 deps=@for1 skills=for factor=1 xpgoal=22 active=1 -->
 
 - [x] `@zigzag          🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Viunei e a saúde mental](base/zigzag/README.md)
 - [x] `@colorido        🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Paulo Victor e seu sapato colorido](base/colorido/README.md)
@@ -102,9 +99,6 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [x] `@spok            🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Número palíndromo](base/spok/README.md)
 - [x] `@sapinho         🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Sapinho no Poço](base/sapinho/README.md)
 - [x] `@fatores         🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Fatoração de um número](base/fatores/README.md)
-
-## Repetição Extra <!-- @for_extra deps=@for2 skills=for factor=1 xpgoal=0 active=1 -->
-
 - [ ] `@poco            🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Sapinho 2 morrendo no poço](base/poco/README.md)
 - [ ] `@afogado         🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Sapinho 3 matemático não quer morrer afogado](base/afogado/README.md)
 - [ ] `@castelos        🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Castelo de Cubos](base/castelos/README.md)
@@ -161,61 +155,61 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ] `@avesso2         🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Jogo do avesso 2](base/avesso2/README.md)
 - [ ] `@multi_mmc       🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [MMC de vários Números](base/multi_mmc/README.md)
 - [ ] `@agua            🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Abastecimento de agua](base/agua/README.md)
-- [ ] `@viciadas        🛠️ 🤖 type=make xp=4 tier=1 loss=zero :test` BOSS[Bolinhas da sorte](base/viciadas/README.md)
-- [ ] `@josephus        🛠️ 🤖 type=make xp=3 tier=1 loss=zero :test` BOSS[Cabeças vão rolar](base/josephus/README.md)
-- [ ] `@cofre           🛠️ 🤖 type=make xp=4 tier=1 loss=zero :test` BOSS[O segredo do cofre - OBI 2017](base/cofre/README.md)
-- [ ] `@nervoso         🛠️ 🤖 type=make xp=4 tier=1 loss=zero :test` BOSS[Chefe nervoso - OBI 2021](base/nervoso/README.md)
-- [ ] `@senhas          🛠️ 🤖 type=make xp=4 tier=1 loss=zero :test` BOSS[Algoritmo de força bruta](base/senhas/README.md)
-- [ ] `@palindromo      🛠️ 🤖 type=make xp=4 tier=1 loss=zero :test` BOSS[Qual o maior](base/palindromo/README.md)
+- [ ] `@viciadas        🛠️ 🤖 type=make xp=4 tier=1 loss=zero :test`  BOSS[Bolinhas da sorte](base/viciadas/README.md)
+- [ ] `@josephus        🛠️ 🤖 type=make xp=3 tier=1 loss=zero :test`  BOSS[Cabeças vão rolar](base/josephus/README.md)
+- [ ] `@cofre           🛠️ 🤖 type=make xp=4 tier=1 loss=zero :test`  BOSS[O segredo do cofre - OBI 2017](base/cofre/README.md)
+- [ ] `@nervoso         🛠️ 🤖 type=make xp=4 tier=1 loss=zero :test`  BOSS[Chefe nervoso - OBI 2021](base/nervoso/README.md)
+- [ ] `@senhas          🛠️ 🤖 type=make xp=4 tier=1 loss=zero :test`  BOSS[Algoritmo de força bruta](base/senhas/README.md)
+- [ ] `@palindromo      🛠️ 🤖 type=make xp=4 tier=1 loss=zero :test`  BOSS[Qual o maior](base/palindromo/README.md)
 
-## Strings <!-- @string deps=@list factor=1 xpgoal=0 active=1 -->
+## Strings <!-- @string deps=@list factor=1 xpgoal=33 active=1 -->
 
-- [ ] `@xuxa            🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Inverter String](base/xuxa/README.md)
-- [ ] `@inverte         🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Inverter Case de char](base/inverte/README.md)
-- [ ] `@substring       🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Obter Substrings](base/substring/README.md)
-- [ ] `@leds            🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Contando luzes](base/leds/README.md)
-- [ ] `@ru              🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Separando vogais de consoantes](base/ru/README.md)
-- [ ] `@gritando        🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Invertendo o Case da frase](base/gritando/README.md)
-- [ ] `@amora           🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Contar Substrings](base/amora/README.md)
-- [ ] `@traficantes     🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Substituições de substrings](base/traficantes/README.md)
-- [ ] `@fresco          🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Juntar palavras](base/fresco/README.md)
-- [ ] `@gamados         🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Verificar ordenação da frase](base/gamados/README.md)
-- [ ] `@mario           🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Mário e o Assassins Creed](base/mario/README.md)
-- [ ] `@valentina       🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Valentina e Valdiskley](base/valentina/README.md)
-- [ ] `@vcvcvc          🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Vogais e Consoantes - Substituindo](base/vcvcvc/README.md)
-- [ ] `@eribelton       🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Eribelton e a Ascologia V3 - Busca do mínimo](base/eribelton/README.md)
-- [ ] `@disfarce        🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Identificando Ultrons V2](base/disfarce/README.md)
-- [ ] `@chefe           🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Aniquilando Ultrons V3](base/chefe/README.md)
-- [ ] `@identificando   🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Identificando tipos](base/identificando/README.md)
-- [ ] `@calipso         🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Calipso e Jack Sparrow - Alternar Case](base/calipso/README.md)
-- [ ] `@krueguer        🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Krueguer e Jason - Busca de maior ocorrência](base/krueguer/README.md)
-- [ ] `@antimateria     🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Antimatéria e Matéria](base/antimateria/README.md)
-- [ ] `@word            🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Meu word QuEbRoU - formatação de case](base/word/README.md)
-- [ ] `@espacos         🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Espaços duplicados](base/espacos/README.md)
-- [ ] `@datilografar    🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Máquina Quebrada](base/datilografar/README.md)
-- [ ] `@bubula          🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Nao se bula - Gagueira V2](base/bubula/README.md)
+- [x] `@xuxa            🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Inverter String](base/xuxa/README.md)
+- [x] `@inverte         🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Inverter Case de char](base/inverte/README.md)
+- [x] `@substring       🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Obter Substrings](base/substring/README.md)
+- [x] `@leds            🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Contando luzes](base/leds/README.md)
+- [x] `@ru              🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Separando vogais de consoantes](base/ru/README.md)
+- [x] `@gritando        🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Invertendo o Case da frase](base/gritando/README.md)
+- [x] `@amora           🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Contar Substrings](base/amora/README.md)
+- [x] `@traficantes     🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Substituições de substrings](base/traficantes/README.md)
+- [x] `@fresco          🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Juntar palavras](base/fresco/README.md)
+- [x] `@gamados         🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Verificar ordenação da frase](base/gamados/README.md)
+- [x] `@mario           🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Mário e o Assassins Creed](base/mario/README.md)
+- [x] `@valentina       🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Valentina e Valdiskley](base/valentina/README.md)
+- [x] `@vcvcvc          🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Vogais e Consoantes - Substituindo](base/vcvcvc/README.md)
+- [x] `@eribelton       🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Eribelton e a Ascologia V3 - Busca do mínimo](base/eribelton/README.md)
+- [x] `@disfarce        🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Identificando Ultrons V2](base/disfarce/README.md)
+- [x] `@chefe           🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Aniquilando Ultrons V3](base/chefe/README.md)
+- [x] `@identificando   🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Identificando tipos](base/identificando/README.md)
+- [x] `@calipso         🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Calipso e Jack Sparrow - Alternar Case](base/calipso/README.md)
+- [ ] `@krueguer        🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Krueguer e Jason - Busca de maior ocorrência](base/krueguer/README.md)
+- [ ] `@antimateria     🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Antimatéria e Matéria](base/antimateria/README.md)
+- [ ] `@word            🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Meu word QuEbRoU - formatação de case](base/word/README.md)
+- [ ] `@espacos         🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Espaços duplicados](base/espacos/README.md)
+- [ ] `@datilografar    🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Máquina Quebrada](base/datilografar/README.md)
+- [ ] `@bubula          🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Nao se bula - Gagueira V2](base/bubula/README.md)
 - [ ] `@ascologia       🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Eribelton e a ascologia V1 - Somar Asc](base/ascologia/README.md)
-- [ ] `@alcaparras      🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Contar Ocorrências](base/alcaparras/README.md)
-- [ ] `@valdiskley      🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Valdiskley e a cifra V1](base/valdiskley/README.md)
-- [ ] `@avestruz        🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Avestruz com Alcaparras - ignorar case](base/avestruz/README.md)
-- [ ] `@crushometro     🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Cadê meu crush](base/crushometro/README.md)
-- [ ] `@perfeicao       🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Eribelton e a Ascologia V2](base/perfeicao/README.md)
-- [ ] `@gagueira        🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Duplicar Palavras](base/gagueira/README.md)
-- [ ] `@guerra          🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Guerra civil no Universo Marvel](base/guerra/README.md)
-- [ ] `@jokenpozao      🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Jokenpo de 9](base/jokenpozao/README.md)
-- [ ] `@numerao         🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Número divisível por 11](base/numerao/README.md)
-- [ ] `@numeros         🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Encontrando e somando](base/numeros/README.md)
-- [ ] `@muquirana       🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Busca máximo por critério](base/muquirana/README.md)
-- [ ] `@rocicleia       🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Rocicleia o Locioreca - Anagramas](base/rocicleia/README.md)
-- [ ] `@jequiti         🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Roda Roda Jequiti](base/jequiti/README.md)
-- [ ] `@tokens          🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Separando a partir de tokens](base/tokens/README.md)
-- [ ] `@silabas         🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Separe Pneumatócito](base/silabas/README.md)
-- [ ] `@sorvete         🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Sorvete suor casaca chicletes - Letras em Comum](base/sorvete/README.md)
+- [ ] `@alcaparras      🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Contar Ocorrências](base/alcaparras/README.md)
+- [ ] `@valdiskley      🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Valdiskley e a cifra V1](base/valdiskley/README.md)
+- [ ] `@avestruz        🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Avestruz com Alcaparras - ignorar case](base/avestruz/README.md)
+- [ ] `@crushometro     🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Cadê meu crush](base/crushometro/README.md)
+- [ ] `@perfeicao       🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Eribelton e a Ascologia V2](base/perfeicao/README.md)
+- [ ] `@gagueira        🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Duplicar Palavras](base/gagueira/README.md)
+- [ ] `@guerra          🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Guerra civil no Universo Marvel](base/guerra/README.md)
+- [ ] `@jokenpozao      🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Jokenpo de 9](base/jokenpozao/README.md)
+- [ ] `@numerao         🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Número divisível por 11](base/numerao/README.md)
+- [ ] `@numeros         🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Encontrando e somando](base/numeros/README.md)
+- [ ] `@muquirana       🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Busca máximo por critério](base/muquirana/README.md)
+- [ ] `@rocicleia       🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Rocicleia o Locioreca - Anagramas](base/rocicleia/README.md)
+- [ ] `@jequiti         🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Roda Roda Jequiti](base/jequiti/README.md)
+- [ ] `@tokens          🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Separando a partir de tokens](base/tokens/README.md)
+- [ ] `@silabas         🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Separe Pneumatócito](base/silabas/README.md)
+- [ ] `@sorvete         🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Sorvete suor casaca chicletes - Letras em Comum](base/sorvete/README.md)
 - [ ] `@vigenere        🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Vigenere e Valdiskley](base/vigenere/README.md)
 - [ ] `@poker           🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Mini poker - OBI2005](base/poker/README.md)
 - [ ] `@atbash          🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Atbash e Valdiskley](base/atbash/README.md)
 - [ ] `@cripto          🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Criptografia de chave](base/cripto/README.md)
-- [ ] `@permutacao      🛠️ 🤖 type=make xp=6 tier=1 loss=part :test` [Permutação de fichas](base/permutacao/README.md)
+- [ ] `@permutacao      🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Permutação de fichas](base/permutacao/README.md)
 
 ## Matrizes <!-- @mat deps=@list factor=2 xpgoal=22 active=1 -->
 
@@ -237,11 +231,11 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 
 ## Structs <!-- @struct deps=@list skills=structs factor=3 xpgoal=13 active=1 -->
 
-- [ ] `@fatores_struct  🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Fatoração de um número](base/fatores_struct/README.md)
 - [x] `@pedra_struct    🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Pedra na lua](base/pedra_struct/README.md)
 - [x] `@pizza           🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Procurando melhor pizzaria](base/pizza/README.md)
 - [x] `@gomos           🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Gomos da cobrinha](base/gomos/README.md)
 - [x] `@estudante       🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Melhor estudante](base/estudante/README.md)
+- [ ] `@fatores_struct  🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Fatoração de um número](base/fatores_struct/README.md)
 - [ ] `@idosa           🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Mulher mais idosa](base/idosa/README.md)
 
 ## Dicionários <!-- @dict deps=@list factor=3 xpgoal=12 active=1 -->
@@ -270,7 +264,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ] `@pr_orc          🛠️ 👤 type=make xp=4 tier=1 loss=part :self` [Batalha Orc](base/pr_orc/README.md)
 - [ ] `@pr_playfair     🛠️ 👤 type=make xp=4 tier=1 loss=part :self` [A cifra de Playfair](base/pr_playfair/README.md)
 
-## C: Ponteiros <!-- @c_pointers deps=@list factor=1 xpgoal=13 lang=cpp lang=c active=1 -->
+## C: Ponteiros <!-- @c_pointers deps=@list factor=1 xpgoal=13 lang=c lang=cpp active=1 -->
 
 - [x] `@formatado       🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Imprimir vetor formatado](base/formatado/README.md)
 - [x] `@duelo           🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Luta até a morte](base/duelo/README.md)
@@ -278,7 +272,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [x] `@endereco        🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Função que retorna vários valores](base/endereco/README.md)
 - [x] `@realoc          🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Vetor de strings com variados tamanhos](base/realoc/README.md)
 
-## C: Structs <!-- @c_structs deps=@c_pointers skills=c factor=1 xpgoal=11 lang=cpp lang=c active=1 -->
+## C: Structs <!-- @c_structs deps=@c_pointers skills=c factor=1 xpgoal=11 lang=c lang=cpp active=1 -->
 
 - [x] `@empacotar       🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Empacotar operações](base/empacotar/README.md)
 - [x] `@comparar_data   🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Comparar data](base/comparar_data/README.md)
