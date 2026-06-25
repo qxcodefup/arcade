@@ -238,13 +238,13 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ] `@fatores_struct  🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Fatoração de um número](base/fatores_struct/README.md)
 - [ ] `@idosa           🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Mulher mais idosa](base/idosa/README.md)
 
-## Dicionários <!-- @dict deps=@list factor=3 xpgoal=12 active=1 -->
+## Dicionários <!-- @dict deps=@list factor=3 xpgoal=12 active=0 -->
 
 - [x] `@casais_dict     🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Quantos casais na arca](base/casais_dict/README.md)
 - [x] `@exemplares_dict 🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Arca quantos exemplares](base/exemplares_dict/README.md)
 - [x] `@fatores_dict    🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Fatoração de um número](base/fatores_dict/README.md)
 
-## Recursão <!-- @rec deps=@list factor=2 xpgoal=10 active=1 -->
+## Recursão <!-- @rec deps=@list factor=2 xpgoal=10 active=0 -->
 
 - [x] `@primo_rec       🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Calculando se é](base/primo_rec/README.md)
 - [x] `@sopa_dict       🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Sopa de coelho](base/sopa_dict/README.md)
@@ -252,12 +252,12 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ] `@hanoi           🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Torres de Hanoi](base/hanoi/README.md)
 - [ ] `@fatores_rec     🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Fatoração de um número](base/fatores_rec/README.md)
 
-## Jogos em modo texto <!-- @games deps=none factor=3 xpgoal=19 active=1 -->
+## Jogos em modo texto <!-- @games deps=none factor=3 xpgoal=11 active=1 -->
 
 - [x] `@pr_jokenpo      🛠️ 👤 type=make xp=3 tier=1 loss=part :self` [Jokenpô - Melhor de 5](base/pr_jokenpo/README.md)
 - [x] `@pr_chute_a      🛠️ 👤 type=make xp=4 tier=1 loss=part :self` [Adivinhe o número entre dois limites](base/pr_chute_a/README.md)
 - [x] `@pr_chute_b      🛠️ 👤 type=make xp=4 tier=1 loss=part :self` [O computador tenta adivinhar seu número](base/pr_chute_b/README.md)
-- [x] `@termgame_1      🛠️ 👤 type=make xp=8 tier=1 loss=part :self` [Modelo de jogo interativo no terminal](base/termgame_1/README.md)
+- [ ] `@termgame_1      🛠️ 👤 type=make xp=8 tier=1 loss=part :self` [Modelo de jogo interativo no terminal](base/termgame_1/README.md)
 - [ ] `@pr_game21       🛠️ 👤 type=make xp=4 tier=1 loss=part :self` [Blackjack 21](base/pr_game21/README.md)
 - [ ] `@pr_forca        🛠️ 👤 type=make xp=4 tier=1 loss=part :self` [Jogo da Palavra Oculta](base/pr_forca/README.md)
 - [ ] `@pr_bingo        🛠️ 👤 type=make xp=4 tier=1 loss=part :self` [Simulador de Bingo e Gerador de Cartelas](base/pr_bingo/README.md)
