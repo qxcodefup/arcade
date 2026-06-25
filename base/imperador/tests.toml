@@ -50,6 +50,17 @@ C L C
 G C C
 '''
 output = '''
+Gladiadores
+'''
+
+[[tests]]
+input = '''
+3
+G C C
+C L C
+C C G
+'''
+output = '''
 Ninguem
 '''
 

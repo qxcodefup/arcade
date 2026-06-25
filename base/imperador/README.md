@@ -4,7 +4,7 @@
 
 Na Roma antiga, o imperador Cyzar, cansado dos combates 1x1 no Coliseu, resolveu fazer uma única e gigante batalha. Ele juntou todos os Gladiadores (**G**) e Condenados à morte (**C**) na arena para um espetáculo sangrento.
 
-Os Gladiadores, que podiam se defender, tinham mais chances de vitória. Já os Condenados entravam desarmados. Para equilibrar, Cyzar definiu regras de pontuação. Às vezes, para "esquentar" as coisas, ele soltava um Leão (**L**) na arena!
+Os Gladiadores, que podiam se defender, tinham mais chances de vitória. Já os Condenados entravam desarmados. Para equilibrar, Cyzar definiu regras de pontuação. Às vezes, para "esquentar" as coisas, ele soltava um ÚNICO Leão (**L**) na arena!
 
 Sua tarefa é determinar o vencedor com base na configuração da arena, representada por uma matriz.
 
@@ -12,8 +12,12 @@ Sua tarefa é determinar o vencedor com base na configuração da arena, represe
 
 - Cada **G** vale **2** pontos.
 - Cada **C** vale **1** ponto.
-- **Exceção:** Um **C** posicionado na diagonal secundária da matriz é mais valente e tem seu valor dobrado, valendo 2 pontos.
-- **Reviravolta:** Se um **L** (Leão) aparecer, toda a linha e a coluna onde ele se encontra são aniquiladas, e ninguém naquela linha ou coluna pontua.
+- **Exceção:** Um **C** posicionado na diagonal secundária está em posição estratégica e mais vale 2 pontos.
+- **Reviravolta:** Se um **L** (Leão) aparecer, toda a linha e a coluna onde ele se encontra são aniquiladas e ninguém naquela linha ou coluna pontua.
+
+- Dicas
+  - Na diagonal secundária, se a posição é dada pos mat[l][c], (l + c) == size - 1.
+  - Como podemos ter talvez apenas um leão, você pode salvar a posição que ele aparece logo na leitura.
 
 Some os pontos e determine o vencedor.
 
