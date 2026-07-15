@@ -40,5 +40,3 @@ Joãozinho está com insônia e decide contar ovelhas para tentar dormir. Como e
 <<<<<<<< FINISH
 ```
 <!-- load -->
-
-[Explicação](https://youtu.be/qKkmrLZfYcA)
