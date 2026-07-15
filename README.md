@@ -76,7 +76,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [ ] `@adedonha        🛠️ 🤖 type=make xp=3 tier=1 loss=part :test` [Pensando letras como números](base/adedonha/README.md)
 - [ ] `@sono            🛠️ 🤖 type=make xp=4 tier=1 loss=part :test` [Quanto tempo ainda tenho](base/sono/README.md)
 
-## Repetição 1 <!-- @for1 deps=@if2 skills=for factor=1 xpgoal=16 active=1 -->
+## Repetição 1 <!-- @for1 deps=@if2 skills=for factor=1 xpgoal=18 active=1 -->
 
 - [x] `@loop_i          🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Treino de loop](base/loop_i/README.md)
 - [x] `@loop_ii         🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Imprimindo em linha](base/loop_ii/README.md)
@@ -84,6 +84,7 @@ Descrição do marcadores[LINK](https://github.com/senapk/tko/blob/master/wiki/M
 - [x] `@loop_iv         🛠️ 🤖 type=make xp=1 tier=1 loss=part :test` [Loop em ambas as direções](base/loop_iv/README.md)
 - [x] `@loop_v          🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Loop com continue e break](base/loop_v/README.md)
 - [x] `@pares           🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Calculando soma](base/pares/README.md)
+- [x] `@ovelhas         🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Contando Ovelhas](base/ovelhas/README.md)
 - [x] `@sapatos         🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Sapatos para 2 e 3](base/sapatos/README.md)
 - [x] `@filhos          🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Filhos de Seu David](base/filhos/README.md)
 - [x] `@ceu             🛠️ 🤖 type=make xp=2 tier=1 loss=part :test` [Ingrid quer chegar no céu](base/ceu/README.md)  

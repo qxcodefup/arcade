@@ -1,0 +1,55 @@
+[[tests]]
+input = '''
+1
+'''
+output = '''
+1 ovelha
+'''
+
+[[tests]]
+input = '''
+2
+'''
+output = '''
+1 ovelha
+2 ovelhas
+'''
+
+[[tests]]
+input = '''
+3
+'''
+output = '''
+1 ovelha
+2 ovelhas
+3 ovelhas
+'''
+
+[[tests]]
+input = '''
+5
+'''
+output = '''
+1 ovelha
+2 ovelhas
+3 ovelhas
+4 ovelhas
+5 ovelhas
+'''
+
+[[tests]]
+input = '''
+10
+'''
+output = '''
+1 ovelha
+2 ovelhas
+3 ovelhas
+4 ovelhas
+5 ovelhas
+6 ovelhas
+7 ovelhas
+8 ovelhas
+9 ovelhas
+10 ovelhas
+'''
