@@ -22,12 +22,3 @@ __pycache__
 # tko local
 .tko
 .build
-# public filter
-local.sh
-config.json
-src
-solver*
-Solver*
-__*
-.hide
-.exec

@@ -1,0 +1,40 @@
+# Está contido
+
+![_](https://raw.githubusercontent.com/qxcodefup/arcade/main/labs/batraquios/assets/cover.jpg)
+
+Dados dois vetores, verifique se o primeiro está contido no segundo.
+
+Descubra se o vetor `vetor1` está contido em `vetor2` e retorne **"sim"** se isso ocorrer.
+
+### Entrada
+
+- linha 1: Número de elementos **N** do primeiro vetor (1 a 50) seguido dos **N** elementos.  
+- linha 2: Número de elementos **M** do segundo vetor(1 a 50) seguido dos **M** elementos.
+
+### Saída
+
+- **"sim"** se o primeiro está condido no segundo.
+- **"não"** caso contrário.
+
+  
+## Exemplos
+
+<!-- load tests.toml --tests 2 -->
+```py
+>>>>>>>> INSERT
+2 1 3
+3 1 5 3
+======== EXPECT
+sim
+<<<<<<<< FINISH
+```
+
+```py
+>>>>>>>> INSERT
+2 1 3
+3 6 5 3
+======== EXPECT
+nao
+<<<<<<<< FINISH
+```
+<!-- load -->

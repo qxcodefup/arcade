@@ -1,0 +1,78 @@
+case=
+input=2
+4 2
+output="[ ]
+[ 4 2 ]
+"
+
+
+case=
+input=4
+2 6 4 1
+output="[ 1 ]
+[ 2 6 4 ]
+"
+
+
+case=
+input=6
+1 2 5 3 4 9
+output="[ 1 5 3 9 ]
+[ 2 4 ]
+"
+
+
+case=
+input=0
+output="[ ]
+[ ]
+"
+
+
+case=
+input=1
+4
+output="[ ]
+[ 4 ]
+"
+
+
+case=
+input=1
+5
+output="[ 5 ]
+[ ]
+"
+
+
+case=
+input=2
+5 2
+output="[ 5 ]
+[ 2 ]
+"
+
+
+case=
+input=4
+1 5 4 3
+output="[ 1 5 3 ]
+[ 4 ]
+"
+
+
+case=
+input=6
+9 6 4 8 1 2
+output="[ 9 1 ]
+[ 6 4 8 2 ]
+"
+
+
+case=
+input=7
+9 6 4 8 1 2 1
+output="[ 9 1 1 ]
+[ 6 4 8 2 ]
+"
+

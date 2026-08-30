@@ -1,0 +1,27 @@
+case=
+input=fundamentos de programacao
+a
+output="4
+"
+
+
+case=
+input=o rato roeu a roupa do rei de roma
+a
+output="4
+"
+
+
+case=
+input=o rato roeu a roupa do rei de roma
+x
+output="0
+"
+
+
+case=
+input=o rato roeu a roupa do rei de roma
+o
+output="6
+"
+

@@ -1,0 +1,17 @@
+case=
+input=Paralelepipedo
+output="Pa-ra-le-le-pi-pe-do
+"
+
+
+case=
+input=Eu sou o rei de Fup
+output="Eu sou o rei de Fu-p
+"
+
+
+case=
+input=Floresta Amazonica
+output="Flo-re-sta A-ma-zo-ni-ca
+"
+

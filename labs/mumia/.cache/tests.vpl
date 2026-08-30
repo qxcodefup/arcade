@@ -1,0 +1,62 @@
+case=
+input=mario
+4
+output="mario eh crianca
+"
+
+
+case=
+input=jose
+65
+output="jose eh idoso
+"
+
+
+case=
+input=mario
+1
+output="mario eh crianca
+"
+
+
+case=
+input=mariana
+12
+output="mariana eh jovem
+"
+
+
+case=
+input=maria
+17
+output="maria eh jovem
+"
+
+
+case=
+input=marina
+18
+output="marina eh adulto
+"
+
+
+case=
+input=marion
+64
+output="marion eh adulto
+"
+
+
+case=
+input=marilene
+65
+output="marilene eh idoso
+"
+
+
+case=
+input=maridracula
+10000
+output="maridracula eh mumia
+"
+

@@ -1,0 +1,27 @@
+case=
+input=A Andreia alimentou a avestruz com alcaparras
+a
+output="8
+"
+
+
+case=
+input=A Andreia alimentou a avestruz com alcaparras
+A
+output="2
+"
+
+
+case=
+input=A Andreia atirou alcachofras no leao
+e
+output="2
+"
+
+
+case=
+input=A Andreia atirou alcachofras no leao
+x
+output="0
+"
+

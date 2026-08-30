@@ -1,0 +1,13 @@
+case=
+input=aeiou  
+arta euio auiaoauio riu pegasus
+output="pessoa chefe chefe ultron pessoa
+"
+
+
+case=
+input=aer
+arta euio auiaoauio riu pegasus rea
+output="ultron pessoa pessoa pessoa pessoa chefe
+"
+

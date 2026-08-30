@@ -1,0 +1,17 @@
+case=
+input=Pedrinho Marcio
+output="cvccvccv cvccvv
+"
+
+
+case=
+input=Reumario Albrito
+output="cvvcvcvv vcccvcv
+"
+
+
+case=
+input=AaBbCcDdEe
+output="vvccccccvv
+"
+

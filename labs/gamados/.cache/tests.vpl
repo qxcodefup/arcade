@@ -1,0 +1,41 @@
+case=
+input=a amora azul
+output="sim
+"
+
+
+case=
+input=o rato roeu a roupa
+output="nao
+"
+
+
+case=
+input=a b c d e f
+output="sim
+"
+
+
+case=
+input=a b c d a f
+output="nao
+"
+
+
+case=
+input=ab a ba
+output="nao
+"
+
+
+case=
+input=a amiga da minha vizinha zooume
+output="sim
+"
+
+
+case=
+input=arrocha arregao
+output="nao
+"
+

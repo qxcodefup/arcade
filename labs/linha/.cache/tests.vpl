@@ -1,0 +1,23 @@
+case=
+input=19 12 32 11 17 15
+output="[ 15 17 11 32 12 19 ]
+"
+
+
+case=
+input=15
+output="[ 15 ]
+"
+
+
+case=
+input=15 12
+output="[ 12 15 ]
+"
+
+
+case=
+input=15 17 11
+output="[ 11 17 15 ]
+"
+

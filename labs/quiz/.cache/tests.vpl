@@ -1,0 +1,53 @@
+case=
+input=a
+c
+d
+d
+output="Ja ouviu falar
+"
+
+
+case=
+input=d
+a
+c
+d
+output="Super Fa
+"
+
+
+case=
+input=b
+b
+b
+b
+output="Nunca assistiu
+"
+
+
+case=
+input=d
+b
+b
+b
+output="Ja ouviu falar
+"
+
+
+case=
+input=d
+b
+b
+d
+output="Interessado no assunto
+"
+
+
+case=
+input=d
+b
+c
+d
+output="Fa
+"
+
