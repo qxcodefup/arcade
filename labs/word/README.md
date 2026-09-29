@@ -27,40 +27,40 @@ Sua tarefa é criar um programa que, dado um texto e um comando de formatação,
 
 ## Exemplos
 
-<!-- load tests.toml --tests 4 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 4 -->
+<table><tr><th><code>                  Entrada                  </code>
+</th><th><code>                   Saída                   </code>
+</th></tr><tr><td valign="top"><pre>
 O Pato e o frango ja tao cozidos, comam!
 M
-======== EXPECT
+</pre></td><td valign="top"><pre>
 O PATO E O FRANGO JA TAO COZIDOS, COMAM!
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                  Entrada                  </code>
+</th><th><code>                   Saída                   </code>
+</th></tr><tr><td valign="top"><pre>
 O Pato e o frango ja tao cozidos, comam!
 m
-======== EXPECT
+</pre></td><td valign="top"><pre>
 o pato e o frango ja tao cozidos, comam!
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                  Entrada                  </code>
+</th><th><code>                   Saída                   </code>
+</th></tr><tr><td valign="top"><pre>
 O Pato e o frango ja tao cozidos, comam!
 p
-======== EXPECT
+</pre></td><td valign="top"><pre>
 o Pato e o Frango Ja Tao Cozidos, Comam!
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                  Entrada                  </code>
+</th><th><code>                   Saída                   </code>
+</th></tr><tr><td valign="top"><pre>
 O Pato e o frango ja tao cozidos, comam!
 i
-======== EXPECT
+</pre></td><td valign="top"><pre>
 o pATO E O FRANGO JA TAO COZIDOS, COMAM!
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

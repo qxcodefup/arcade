@@ -14,22 +14,31 @@ Implemente um programa que receba dois inteiros positivos e calcule o valor do q
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 51
 31
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1 20
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 398
 50
-======== EXPECT
+</pre></td><td valign="top"><pre>
 7 48
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
+350
+40
+</pre></td><td valign="top"><pre>
+8 30
+</pre></td></tr></table>
+<!-- end -->

@@ -23,20 +23,28 @@ Receba o valor do salário atual do funcionário e imprima o novo salário de ac
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 900.00
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1080.00
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 1500.00
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1725.00
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
+2005.20
+</pre></td><td valign="top"><pre>
+2105.46
+</pre></td></tr></table>
+<!-- end -->

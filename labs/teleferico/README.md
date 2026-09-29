@@ -22,25 +22,34 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 5
 4
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 5
 8
-======== EXPECT
+</pre></td><td valign="top"><pre>
 2
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+5
+9
+</pre></td><td valign="top"><pre>
+3
+</pre></td></tr></table>
+<!-- end -->
 
 ## Resolusão
 

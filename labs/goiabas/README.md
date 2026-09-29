@@ -21,26 +21,37 @@ Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minuto
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 3
 1
 1
 1
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 10
 4
 4
 4
-======== EXPECT
+</pre></td><td valign="top"><pre>
 2
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+2
+4
+2
+3
+</pre></td><td valign="top"><pre>
+5
+</pre></td></tr></table>
+<!-- end -->

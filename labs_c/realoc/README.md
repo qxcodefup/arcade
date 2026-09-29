@@ -18,7 +18,7 @@ seguido de um espaço e a string.
   
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
+<!-- tests tests.toml --limit 3 -->
 ```py
 >>>>>>>> INSERT
 6
@@ -37,7 +37,7 @@ Marisa Monte
 Osvaldo Montenegro
 <<<<<<<< FINISH
 ```
-<!-- load -->
+<!-- end -->
 
 ## Orientações
 

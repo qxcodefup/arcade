@@ -21,24 +21,34 @@ Dado um conjunto de números, divida-os em duas listas: uma contendo os números
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
 2
 4 2
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ ]
 [ 4 2 ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
 4
 2 6 4 1
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 1 ]
 [ 2 6 4 ]
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
+6
+1 2 5 3 4 9
+</pre></td><td valign="top"><pre>
+[ 1 5 3 9 ]
+[ 2 4 ]
+</pre></td></tr></table>
+<!-- end -->

@@ -20,22 +20,31 @@ Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcula
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 10
 1
-======== EXPECT
+</pre></td><td valign="top"><pre>
 10
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 20
 1
-======== EXPECT
+</pre></td><td valign="top"><pre>
 16
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+200
+10
+</pre></td><td valign="top"><pre>
+67
+</pre></td></tr></table>
+<!-- end -->

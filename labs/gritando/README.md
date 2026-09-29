@@ -19,20 +19,28 @@ Sua tarefa é criar um programa que, dado um texto, troque o "case" de cada letr
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>                      Entrada                      </code>
+</th><th><code>                       Saída                       </code>
+</th></tr><tr><td valign="top"><pre>
 O ovomaltine e GOSTOSO
-======== EXPECT
+</pre></td><td valign="top"><pre>
 o OVOMALTINE E gostoso
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                      Entrada                      </code>
+</th><th><code>                       Saída                       </code>
+</th></tr><tr><td valign="top"><pre>
 Paralelepipedarte-ei se NAO me passar a CARTEIRA
-======== EXPECT
+</pre></td><td valign="top"><pre>
 pARALELEPIPEDARTE-EI SE nao ME PASSAR A carteira
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>                      Entrada                      </code>
+</th><th><code>                       Saída                       </code>
+</th></tr><tr><td valign="top"><pre>
+1, Dois, 3 Indiozinhos
+</pre></td><td valign="top"><pre>
+1, dOIS, 3 iNDIOZINHOS
+</pre></td></tr></table>
+<!-- end -->

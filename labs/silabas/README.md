@@ -14,20 +14,28 @@ Faça um programa que receba uma palavra e separe suas silabas levando em consid
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>        Entrada        </code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
 Paralelepipedo
-======== EXPECT
+</pre></td><td valign="top"><pre>
 Pa-ra-le-le-pi-pe-do
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>        Entrada        </code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
 Eu sou o rei de Fup
-======== EXPECT
+</pre></td><td valign="top"><pre>
 Eu sou o rei de Fu-p
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>        Entrada        </code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
+Floresta Amazonica
+</pre></td><td valign="top"><pre>
+Flo-re-sta A-ma-zo-ni-ca
+</pre></td></tr></table>
+<!-- end -->

@@ -18,22 +18,31 @@ Implemente um programa que receba as jogadas de dois jogadores e determine quem 
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 R
 P
-======== EXPECT
+</pre></td><td valign="top"><pre>
 jog2
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 P
 P
-======== EXPECT
+</pre></td><td valign="top"><pre>
 empate
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+S
+P
+</pre></td><td valign="top"><pre>
+jog1
+</pre></td></tr></table>
+<!-- end -->

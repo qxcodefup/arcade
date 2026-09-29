@@ -22,24 +22,34 @@ Se ambos ficarem à mesma distancia do valor real, então houve empate.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 1
 2
 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 primeiro
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 3
 5
 4
-======== EXPECT
+</pre></td><td valign="top"><pre>
 segundo
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
+10
+11
+9
+</pre></td><td valign="top"><pre>
+empate
+</pre></td></tr></table>
+<!-- end -->

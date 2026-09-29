@@ -46,22 +46,31 @@ ARMA MIRA ROCHA, DISPARA, SUPERA TESOURA, ATIRA NO HUMANO.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 sponge
 gun
-======== EXPECT
+</pre></td><td valign="top"><pre>
 jog1
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 air
 scissors
-======== EXPECT
+</pre></td><td valign="top"><pre>
 jog2
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+gun
+gun
+</pre></td><td valign="top"><pre>
+empate
+</pre></td></tr></table>
+<!-- end -->

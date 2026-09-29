@@ -22,20 +22,28 @@ Implemente um programa que, dado um único caractere, retorne a sua versão com 
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 a
-======== EXPECT
+</pre></td><td valign="top"><pre>
 A
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 B
-======== EXPECT
+</pre></td><td valign="top"><pre>
 b
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+5
+</pre></td><td valign="top"><pre>
+5
+</pre></td></tr></table>
+<!-- end -->

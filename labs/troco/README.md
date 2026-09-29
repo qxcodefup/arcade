@@ -37,25 +37,38 @@ Não use `ifs` e `elses`, faça um `vetor` de opções de troco.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 77.00
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1 de 50.00
 1 de 20.00
 1 de 5.00
 1 de 2.00
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 19.00
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1 de 10.00
 1 de 5.00
 2 de 2.00
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code> Entrada </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
+17.39
+</pre></td><td valign="top"><pre>
+1 de 10.00
+1 de 5.00
+1 de 2.00
+1 de 0.25
+1 de 0.10
+Falta 0.04
+</pre></td></tr></table>
+<!-- end -->

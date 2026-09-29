@@ -34,20 +34,28 @@ Agora tente adaptar esse código para carregar vários inteiros em um vetor e de
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>       Entrada       </code>
+</th><th><code>          Saída          </code>
+</th></tr><tr><td valign="top"><pre>
 19 12 32 11 17 15
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 15 17 11 32 12 19 ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>       Entrada       </code>
+</th><th><code>          Saída          </code>
+</th></tr><tr><td valign="top"><pre>
 15
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 15 ]
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>       Entrada       </code>
+</th><th><code>          Saída          </code>
+</th></tr><tr><td valign="top"><pre>
+15 12
+</pre></td><td valign="top"><pre>
+[ 12 15 ]
+</pre></td></tr></table>
+<!-- end -->

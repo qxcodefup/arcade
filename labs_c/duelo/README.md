@@ -19,7 +19,7 @@ A função duelo recebe como entrada dois dicionários, onde cada um deles repre
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
+<!-- tests tests.toml --limit 3 -->
 ```py
 >>>>>>>> INSERT
 100  
@@ -41,4 +41,4 @@ Personagem 1
 Personagem 1
 <<<<<<<< FINISH
 ```
-<!-- load -->
+<!-- end -->

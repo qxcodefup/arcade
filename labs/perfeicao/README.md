@@ -16,20 +16,28 @@ O novo nome ou "sem sorte"
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 Dhaquison
-======== EXPECT
+</pre></td><td valign="top"><pre>
 Dhaquisonn
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 Alfredo
-======== EXPECT
+</pre></td><td valign="top"><pre>
 Alfredoc
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
+Maikou
+</pre></td><td valign="top"><pre>
+sem sorte
+</pre></td></tr></table>
+<!-- end -->

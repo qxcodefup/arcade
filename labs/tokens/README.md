@@ -14,35 +14,35 @@ Dada uma frase (max 100 char) com palavras (letras minusculas), números e espa�
 
 ## Exemplos
 
-<!-- load tests.toml --tests 4 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 4 -->
+<table><tr><th><code>         Entrada         </code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
 mamae me ama#15#1.76;
-======== EXPECT
+</pre></td><td valign="top"><pre>
 mamae me ama
 15
 1.76
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>         Entrada         </code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
 aa 4#1 -f; -2.0;
-======== EXPECT
+</pre></td><td valign="top"><pre>
 aa 4
 1 -f
  -2.0
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>         Entrada         </code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
 coca zero;1.75#8;U;
-======== EXPECT
+</pre></td><td valign="top"><pre>
 coca zero
 1.75
 8
 U
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

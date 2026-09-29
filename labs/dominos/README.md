@@ -20,22 +20,31 @@ Leia um vetor de tamanho n (quantidade de dominós) , e diga se ele está ordena
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
 5
 1 2 3 4 4
-======== EXPECT
+</pre></td><td valign="top"><pre>
 ok
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
 6
 2 4 2 6 8 10
-======== EXPECT
+</pre></td><td valign="top"><pre>
 precisa de ajuste
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
+1
+2
+</pre></td><td valign="top"><pre>
+ok
+</pre></td></tr></table>
+<!-- end -->

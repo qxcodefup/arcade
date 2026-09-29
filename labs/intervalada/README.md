@@ -15,29 +15,41 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 
 ### Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 4 1 3
 1
 5
 3
 7
-======== EXPECT
+</pre></td><td valign="top"><pre>
 2
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 5 3 5
 1
 2
 4
 6
 8
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code> Entrada </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+4 3 5
+1
+2
+7
+8
+</pre></td><td valign="top"><pre>
+0
+</pre></td></tr></table>
+<!-- end -->

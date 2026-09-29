@@ -58,22 +58,31 @@ O enigma revelado.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>             Entrada             </code>
+</th><th><code>              Saída              </code>
+</th></tr><tr><td valign="top"><pre>
 nnb!ovofl
 123
-======== EXPECT
+</pre></td><td valign="top"><pre>
 ola mundo
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>             Entrada             </code>
+</th><th><code>              Saída              </code>
+</th></tr><tr><td valign="top"><pre>
 Br'tbn+'qhdb'tfeb+'iht'tfebjht
 777
-======== EXPECT
+</pre></td><td valign="top"><pre>
 Eu sei, voce sabe, nos sabemos
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>             Entrada             </code>
+</th><th><code>              Saída              </code>
+</th></tr><tr><td valign="top"><pre>
+jsmc*&cs&uis&ucs&vgo
+666
+</pre></td><td valign="top"><pre>
+luke, eu sou seu pai
+</pre></td></tr></table>
+<!-- end -->

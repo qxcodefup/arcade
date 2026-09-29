@@ -41,28 +41,42 @@ __#######_
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>        Entrada        </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 4
 1 3 1 2
-======== EXPECT
+</pre></td><td valign="top"><pre>
 _#__
 _#_#
 ####
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>        Entrada        </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 5
 1 3 1 2 5
-======== EXPECT
+</pre></td><td valign="top"><pre>
 ____#
 ____#
 _#__#
 _#_##
 #####
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>        Entrada        </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
+10
+1 1 3 3 4 6 4 2 2 1
+</pre></td><td valign="top"><pre>
+_____#____
+_____#____
+____###___
+__#####___
+__#######_
+##########
+</pre></td></tr></table>
+<!-- end -->

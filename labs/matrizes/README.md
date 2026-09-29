@@ -17,32 +17,49 @@ Leia duas matrizes A e B com mesmo número de linhas e colunas, e em seguida cal
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 2
 3
 1 2 3
 4 5 6
 1 1 1
 2 2 2
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 2 3 4 ]
 [ 6 7 8 ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 2
 1
 1
 2
 3
 4
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 4 ]
 [ 6 ]
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code> Entrada </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
+3
+3
+6 1 8
+0 7 5
+3 2 4
+1 6 0
+7 5 4
+3 8 2
+</pre></td><td valign="top"><pre>
+[ 7 7 8 ]
+[ 7 12 9 ]
+[ 6 10 6 ]
+</pre></td></tr></table>
+<!-- end -->

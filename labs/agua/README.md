@@ -23,23 +23,36 @@ Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>         Saída         </code>
+</th></tr><tr><td valign="top"><pre>
 5 1
 0 2 1  
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1 1 1 0 0
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>         Saída         </code>
+</th></tr><tr><td valign="top"><pre>
 5 2
 0 2 1
 2 4 2
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1 1 3 2 2
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>         Saída         </code>
+</th></tr><tr><td valign="top"><pre>
+10 5
+1 4 5
+5 8 2
+0 9 1
+8 9 3
+4 8 2
+</pre></td><td valign="top"><pre>
+1 6 6 6 8 5 5 5 8 4
+</pre></td></tr></table>
+<!-- end -->

@@ -28,20 +28,28 @@ Sua tarefa é criar uma função que recebe um inteiro referente ao ID de um pla
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 121
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 123
-======== EXPECT
+</pre></td><td valign="top"><pre>
 0
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+122
+</pre></td><td valign="top"><pre>
+0
+</pre></td></tr></table>
+<!-- end -->

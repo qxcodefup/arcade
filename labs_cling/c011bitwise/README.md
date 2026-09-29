@@ -4,6 +4,6 @@ Descrição no código.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
+<!-- tests tests.toml --limit 3 -->
 
-<!-- load -->
+<!-- end -->

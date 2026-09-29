@@ -14,26 +14,37 @@ Leia 4 números e imprima o maior valor.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 3
 3
 2
 2
-======== EXPECT
+</pre></td><td valign="top"><pre>
 3
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 5
 1
 8
 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 8
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+5
+9
+15
+26
+</pre></td><td valign="top"><pre>
+26
+</pre></td></tr></table>
+<!-- end -->

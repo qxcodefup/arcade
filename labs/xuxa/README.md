@@ -26,28 +26,28 @@ Implemente um programa que, dada uma string, imprima a mesma string ao contrári
 
 ## Exemplos
 
-<!-- load tests.toml --tests 3 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>                Entrada                </code>
+</th><th><code>                 Saída                 </code>
+</th></tr><tr><td valign="top"><pre>
 ra on odnalor at acopip ed oriehc o
-======== EXPECT
+</pre></td><td valign="top"><pre>
 o cheiro de pipoca ta rolando no ar
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                Entrada                </code>
+</th><th><code>                 Saída                 </code>
+</th></tr><tr><td valign="top"><pre>
 rahnos zaf em euq latsirc ed aul
-======== EXPECT
+</pre></td><td valign="top"><pre>
 lua de cristal que me faz sonhar
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                Entrada                </code>
+</th><th><code>                 Saída                 </code>
+</th></tr><tr><td valign="top"><pre>
 oacaroc ues on x mu ieuqram
-======== EXPECT
+</pre></td><td valign="top"><pre>
 marquei um x no seu coracao
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

@@ -26,20 +26,28 @@ Neste problema, dadas as posições do helicóptero, do policial e do fugitivo, 
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 4 14 7 -1
-======== EXPECT
+</pre></td><td valign="top"><pre>
 S
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 4 14 7 1
-======== EXPECT
+</pre></td><td valign="top"><pre>
 N
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+15 9 8 -1
+</pre></td><td valign="top"><pre>
+S
+</pre></td></tr></table>
+<!-- end -->

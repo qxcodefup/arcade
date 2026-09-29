@@ -33,24 +33,34 @@ Sua tarefa é criar um programa que, dado o valor da televisão e a quantidade d
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 100
 1
-======== EXPECT
+</pre></td><td valign="top"><pre>
 100.00
 100.00
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 100
 2
-======== EXPECT
+</pre></td><td valign="top"><pre>
 52.50
 105.00
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+100
+10
+</pre></td><td valign="top"><pre>
+14.50
+145.00
+</pre></td></tr></table>
+<!-- end -->

@@ -22,20 +22,28 @@ Dado dois números inteiros **A** e **B**, faça um loop para imprimir todos os 
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code>          Saída          </code>
+</th></tr><tr><td valign="top"><pre>
 1 10
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 1 2 3 4 5 6 7 8 9 ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code>          Saída          </code>
+</th></tr><tr><td valign="top"><pre>
 10 14
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 10 11 12 13 ]
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code> Entrada </code>
+</th><th><code>          Saída          </code>
+</th></tr><tr><td valign="top"><pre>
+-5 0
+</pre></td><td valign="top"><pre>
+[ -5 -4 -3 -2 -1 ]
+</pre></td></tr></table>
+<!-- end -->

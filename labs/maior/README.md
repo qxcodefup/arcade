@@ -24,24 +24,34 @@ O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o 
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 1.1
 m
 1.0
-======== EXPECT
+</pre></td><td valign="top"><pre>
 segundo
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 1.1
 M
 1.0
-======== EXPECT
+</pre></td><td valign="top"><pre>
 primeiro
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
+0.9
+M
+1.0
+</pre></td><td valign="top"><pre>
+segundo
+</pre></td></tr></table>
+<!-- end -->

@@ -19,24 +19,34 @@ Se nas palavras houver pontuação ou espaço, você deve imprimi-los corretame
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>     Entrada     </code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
 extraordinario
 aeioubcdfgh
 *
-======== EXPECT
+</pre></td><td valign="top"><pre>
 e***ao*di*a*io
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>     Entrada     </code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
 Teco-Teco!
 tbxyan
 _
-======== EXPECT
+</pre></td><td valign="top"><pre>
 T___-T___!
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>     Entrada     </code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
+Seu Pilantra!
+yzxa
+*
+</pre></td><td valign="top"><pre>
+*** ***a***a!
+</pre></td></tr></table>
+<!-- end -->

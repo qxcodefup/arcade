@@ -19,20 +19,28 @@ Sua tarefa é verificar se as palavras em uma determinada frase estão e ordem a
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>        Entrada        </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 a amora azul
-======== EXPECT
+</pre></td><td valign="top"><pre>
 sim
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>        Entrada        </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 o rato roeu a roupa
-======== EXPECT
+</pre></td><td valign="top"><pre>
 nao
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>        Entrada        </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
+a b c d e f
+</pre></td><td valign="top"><pre>
+sim
+</pre></td></tr></table>
+<!-- end -->

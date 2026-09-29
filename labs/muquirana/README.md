@@ -20,22 +20,31 @@ Faça um programa para imprimir o id do aluno com a maior nota.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>                   Entrada                   </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 2
 034444 024444
-======== EXPECT
+</pre></td><td valign="top"><pre>
 03
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                   Entrada                   </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 2
 014444 024444
-======== EXPECT
+</pre></td><td valign="top"><pre>
 02
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>                   Entrada                   </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+6
+028888 047989 059999 072213 199989 019999
+</pre></td><td valign="top"><pre>
+05
+</pre></td></tr></table>
+<!-- end -->

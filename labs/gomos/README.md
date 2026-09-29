@@ -20,26 +20,41 @@ Sua tarefa é simular o movimento de uma cobra em um plano 2D. A cobra é compos
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 1 L
 5 5
-======== EXPECT
+</pre></td><td valign="top"><pre>
 4 5
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 3 L
 5 5
 6 5
 6 6
-======== EXPECT
+</pre></td><td valign="top"><pre>
 4 5
 5 5
 6 5
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
+4 U
+5 5
+6 5
+6 6
+6 7
+</pre></td><td valign="top"><pre>
+5 4
+5 5
+6 5
+6 6
+</pre></td></tr></table>
+<!-- end -->

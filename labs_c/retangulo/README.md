@@ -62,7 +62,7 @@ int main(){
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
+<!-- tests tests.toml --limit 3 -->
 ```py
 >>>>>>>> INSERT
 0 5 5 0
@@ -80,4 +80,4 @@ int main(){
 0
 <<<<<<<< FINISH
 ```
-<!-- load -->
+<!-- end -->

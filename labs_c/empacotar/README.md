@@ -11,7 +11,7 @@ Crie um programa que leia do usuário dois números inteiros e calcule o valor d
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
+<!-- tests tests.toml --limit 3 -->
 ```py
 >>>>>>>> INSERT
 5  
@@ -29,4 +29,4 @@ Crie um programa que leia do usuário dois números inteiros e calcule o valor d
 10 0 1.0 25
 <<<<<<<< FINISH
 ```
-<!-- load -->
+<!-- end -->

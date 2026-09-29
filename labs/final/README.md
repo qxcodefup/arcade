@@ -30,24 +30,34 @@ Agora, implemente um programa que siga essas regras e decida automaticamente seu
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
 8
 8
 9
-======== EXPECT
+</pre></td><td valign="top"><pre>
 aprovado
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
 8
 2
 9
-======== EXPECT
+</pre></td><td valign="top"><pre>
 aprovado na final
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
+4
+2
+9
+</pre></td><td valign="top"><pre>
+reprovado
+</pre></td></tr></table>
+<!-- end -->

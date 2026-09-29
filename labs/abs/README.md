@@ -26,31 +26,22 @@ Crie sua própria função para calcular o valor absoluto de um número.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 3 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 2 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 1
 5
-======== EXPECT
+</pre></td><td valign="top"><pre>
 4
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 5
 1
-======== EXPECT
+</pre></td><td valign="top"><pre>
 4
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
--5
-1
-======== EXPECT
-6
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

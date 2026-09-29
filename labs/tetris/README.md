@@ -19,34 +19,51 @@ o display sem alteração.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 4 4
 .#.#
 .#o#
 ##o#
 ##o#
-======== EXPECT
+</pre></td><td valign="top"><pre>
 .#.#
 .#o#
 ##o#
 ##o#
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 4 4
 ooo#
 o.o#
 o#o#
 .#.#
-======== EXPECT
+</pre></td><td valign="top"><pre>
 ...#
 ooo#
 o#o#
 o#o#
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code> Entrada </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+5 5
+.....
+..ooo
+.#..o
+###..
+##.##
+</pre></td><td valign="top"><pre>
+.....
+.....
+.#ooo
+###.o
+##.##
+</pre></td></tr></table>
+<!-- end -->

@@ -29,22 +29,31 @@ Agora, você deve programar esse jogo de acordo com as regras de Paulo Victor.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>                Saída                </code>
+</th></tr><tr><td valign="top"><pre>
 8
 d
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 0d 1e 2d 3e 4d 5e 6d 7e 9d ceu ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>                Saída                </code>
+</th></tr><tr><td valign="top"><pre>
 0
 e
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 1e 2d 3e 4d 5e 6d 7e 8d 9e ceu ]
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>                Saída                </code>
+</th></tr><tr><td valign="top"><pre>
+0
+d
+</pre></td><td valign="top"><pre>
+[ 1d 2e 3d 4e 5d 6e 7d 8e 9d ceu ]
+</pre></td></tr></table>
+<!-- end -->

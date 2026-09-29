@@ -18,22 +18,31 @@ Leia dois inteiros e diga se ambos são divisíveis por 3 ou se ambos são divis
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 5
 10
-======== EXPECT
+</pre></td><td valign="top"><pre>
 sim
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 3
 10
-======== EXPECT
+</pre></td><td valign="top"><pre>
 nao
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
+6
+9
+</pre></td><td valign="top"><pre>
+sim
+</pre></td></tr></table>
+<!-- end -->

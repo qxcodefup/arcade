@@ -21,24 +21,35 @@ Sua tarefa é criar um programa que, dada a matriz da formação, conte o númer
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 2 1
 2
 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 0
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 2 1
 4
 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code> Entrada </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+3 3
+2 4 6
+3 8 9
+1 0 5
+</pre></td><td valign="top"><pre>
+3
+</pre></td></tr></table>
+<!-- end -->

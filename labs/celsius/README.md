@@ -16,20 +16,28 @@ $$T_f = 1.8 \cdot T_c + 32$$
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 43.000000
-======== EXPECT
+</pre></td><td valign="top"><pre>
 109.400000
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 55.000000
-======== EXPECT
+</pre></td><td valign="top"><pre>
 131.000000
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
+99.000000
+</pre></td><td valign="top"><pre>
+210.200000
+</pre></td></tr></table>
+<!-- end -->

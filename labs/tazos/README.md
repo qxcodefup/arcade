@@ -19,40 +19,40 @@ Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos e
 
 ## Exemplos
 
-<!-- load tests.toml --tests 4 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 4 -->
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 3
 1 1 2
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 1 ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 2
 1 2
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 1 2 ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 4
 2 2 5 5
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 2 5 ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 5
 1 1 3 3 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 3 ]
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

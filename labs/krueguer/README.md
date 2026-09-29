@@ -20,22 +20,33 @@ Sua tarefa é criar um programa que, dada uma string, encontre e retorne a subse
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 1
 aeb
-======== EXPECT
+</pre></td><td valign="top"><pre>
 ae
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 1
 aebeiocdu
-======== EXPECT
+</pre></td><td valign="top"><pre>
 eio
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+2
+abdeiuofaoi
+xaeioux
+</pre></td><td valign="top"><pre>
+eiuo
+aeiou
+</pre></td></tr></table>
+<!-- end -->

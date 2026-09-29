@@ -22,20 +22,28 @@ Sua tarefa é criar um programa que simule esse efeito. Dado um texto, você dev
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>         Entrada         </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
 a porta amassou
-======== EXPECT
+</pre></td><td valign="top"><pre>
 a portamassou
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>         Entrada         </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
 carla almeida alencar
-======== EXPECT
+</pre></td><td valign="top"><pre>
 carlalmeidalencar
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>         Entrada         </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
+a carla a ama
+</pre></td><td valign="top"><pre>
+a carlama
+</pre></td></tr></table>
+<!-- end -->

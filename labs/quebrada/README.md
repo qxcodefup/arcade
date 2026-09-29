@@ -22,28 +22,39 @@ Sua tarefa é dominar os dois mundos da divisão. Crie um programa que, dados do
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 6
 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 2
 0
 2.00
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 7
 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 2
 1
 2.33
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
+5
+2
+</pre></td><td valign="top"><pre>
+2
+1
+2.50
+</pre></td></tr></table>
+<!-- end -->
 
 [Resolução](https://www.youtube.com/watch?v=budW2bakIjg)

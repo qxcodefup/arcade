@@ -17,26 +17,37 @@ Baruel Ruel tem muitas figurinhas do álbum de futebol. Ele estava indo para uma
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>      Entrada      </code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
 5
 8
 1 1 1 1 2 2 3 5
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 1 1 1 2 ]
 [ 4 ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>      Entrada      </code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
 2
 4
 1 1 2 2
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 1 2 ]
 [ ]
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>      Entrada      </code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
+5
+2
+4 5
+</pre></td><td valign="top"><pre>
+[ ]
+[ 1 2 3 ]
+</pre></td></tr></table>
+<!-- end -->

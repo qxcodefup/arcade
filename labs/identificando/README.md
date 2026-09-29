@@ -26,20 +26,28 @@ Regras de Classificação:
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>                                   Entrada                                   </code>
+</th><th><code>                         Saída                         </code>
+</th></tr><tr><td valign="top"><pre>
 tenho 15 4nos 1.75 altur4 -15 conto p0rr4 -4.04
-======== EXPECT
+</pre></td><td valign="top"><pre>
 str int str float str int str str float
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                                   Entrada                                   </code>
+</th><th><code>                         Saída                         </code>
+</th></tr><tr><td valign="top"><pre>
 a proxima eleição presidencial no Brasil ocorrerá em 2 de outubro de 2018
-======== EXPECT
+</pre></td><td valign="top"><pre>
 str str str str str str str str int str str str int
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>                                   Entrada                                   </code>
+</th><th><code>                         Saída                         </code>
+</th></tr><tr><td valign="top"><pre>
+aa 1 -2.0
+</pre></td><td valign="top"><pre>
+str int float
+</pre></td></tr></table>
+<!-- end -->

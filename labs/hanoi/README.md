@@ -49,11 +49,12 @@ Este problema parece difícil de resolver para o caso geral com _n_ discos. Por�
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 A -> C
 A -> B
 C -> B
@@ -61,13 +62,13 @@ A -> C
 B -> A
 B -> C
 A -> C
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 5
-======== EXPECT
+</pre></td><td valign="top"><pre>
 A -> C
 A -> B
 C -> B
@@ -99,6 +100,5 @@ A -> C
 B -> A
 B -> C
 A -> C
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

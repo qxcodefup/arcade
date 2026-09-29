@@ -26,13 +26,14 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 
 ## Exemplos
 
-<!-- load tests.toml --tests 3 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 4 10
 0179
 9997
-======== EXPECT
+</pre></td><td valign="top"><pre>
 9999
 0000
 0001
@@ -43,15 +44,15 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 0017
 0019
 0070
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 3 7
 #!1Ap
 !#A
-======== EXPECT
+</pre></td><td valign="top"><pre>
 !#p
 !!#
 !!!
@@ -59,15 +60,15 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 !!A
 !!p
 !1#
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 4 10
 0982
 2222
-======== EXPECT
+</pre></td><td valign="top"><pre>
 0000
 0009
 0008
@@ -78,6 +79,5 @@ Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem ap
 0092
 0080
 0089
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

@@ -31,24 +31,34 @@ Inspirado pela necessidade de decifrar a mensagem, sua tarefa é criar uma ferra
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>              Entrada              </code>
+</th><th><code>                     Saída                     </code>
+</th></tr><tr><td valign="top"><pre>
 a aba absorveu
 ab
 c
-======== EXPECT
+</pre></td><td valign="top"><pre>
 a ca csorveu
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>              Entrada              </code>
+</th><th><code>                     Saída                     </code>
+</th></tr><tr><td valign="top"><pre>
 a almofada esta mofada e molhada
 mo
 bigode
-======== EXPECT
+</pre></td><td valign="top"><pre>
 a albigodefada esta bigodefada e bigodelhada
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>              Entrada              </code>
+</th><th><code>                     Saída                     </code>
+</th></tr><tr><td valign="top"><pre>
+a bd abda
+bd
+abc
+</pre></td><td valign="top"><pre>
+a abc aabca
+</pre></td></tr></table>
+<!-- end -->

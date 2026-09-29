@@ -41,9 +41,10 @@ Olimpíada Brasileira de Informática - OBI2005 - Modalidade Programação Níve
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>          Entrada          </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 5 4
 3 2 1 4 5
 5 1 1 1 1 1 1
@@ -61,18 +62,18 @@ Olimpíada Brasileira de Informática - OBI2005 - Modalidade Programação Níve
 2 1 1 1
 2 1 1 0
 0 0
-======== EXPECT
+</pre></td><td valign="top"><pre>
 Teste 1
 5
 Teste 2
 3
 Teste 3
 2
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>          Entrada          </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 10 7
 5 6 1 8 10 4 2 7 9 3
 10 1 1 1 0 1 1 1 1 1 1 1
@@ -105,13 +106,120 @@ Teste 3
 4 0 0 0 0 0
 4 1 0 1 0 0
 0 0
-======== EXPECT
+</pre></td><td valign="top"><pre>
 Teste 1
 10
 Teste 2
 7
 Teste 3
 1
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>          Entrada          </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
+3 6
+1 2 3
+3 0 0 0 0
+3 0 0 0 0
+3 0 0 0 0
+3 1 0 1 1
+2 0 0 1
+1 0 0
+3 10
+3 1 2
+3 1 1 1 1
+3 0 0 0 1
+2 0 0 0
+2 0 0 0
+2 0 0 0
+2 0 0 0
+2 0 0 0
+2 1 0 1
+1 0 0
+1 0 0
+5 4
+5 2 3 4 1
+5 0 0 0 0 0 0
+5 1 1 1 1 1 0
+4 1 0 1 1 0
+2 0 1 0
+10 6
+1 8 4 3 5 6 10 2 7 9
+10 0 0 0 0 1 1 0 1 0 0 0
+7 1 1 1 0 1 0 0 1
+4 0 0 1 0 0
+3 1 1 1 1
+3 0 0 1 0
+2 0 1 0
+5 4
+3 5 4 2 1
+5 0 0 0 0 0 0
+5 1 0 1 1 0 1
+3 0 0 0 0
+3 0 0 1 1
+10 7
+10 3 6 8 2 9 1 4 7 5
+10 0 0 0 0 1 0 0 0 0 1 0
+8 0 0 0 0 1 0 0 0 0
+7 0 1 1 1 0 1 0 0
+3 1 0 0 1
+1 0 0
+1 0 0
+1 0 0
+8 3
+5 3 4 2 1 7 6 8
+8 0 0 0 0 0 1 0 0 0
+7 1 0 0 1 1 1 1 1
+5 0 1 1 1 0 1
+9 6
+4 6 7 8 2 9 1 3 5
+9 1 0 1 0 1 1 1 1 1 1
+7 1 1 1 1 1 1 1 1
+7 1 1 1 1 0 1 1 1
+6 0 1 0 1 0 0 0
+4 0 0 1 1 1
+1 1 1
+2 9
+2 1
+2 0 0 0
+2 0 0 0
+2 1 1 1
+2 0 0 0
+2 0 0 0
+2 1 1 1
+2 0 1 0
+1 1 1
+1 1 1
+8 6
+3 5 4 2 1 8 7 6
+8 1 1 1 1 1 1 1 1 1
+8 1 1 1 1 1 1 1 1 1
+8 1 0 1 0 1 1 0 0 1
+4 0 1 0 0 1
+2 0 0 1
+1 0 0
+0 0
+</pre></td><td valign="top"><pre>
+Teste 1
+2
+Teste 2
+1
+Teste 3
+3
+Teste 4
+9
+Teste 5
+5
+Teste 6
+5
+Teste 7
+6
+Teste 8
+8
+Teste 9
+1
+Teste 10
+2
+</pre></td></tr></table>
+<!-- end -->

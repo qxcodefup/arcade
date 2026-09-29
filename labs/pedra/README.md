@@ -31,25 +31,36 @@ Você deve escrever um programa que identifique o competidor vencedor.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 2
 8 11
 10 15
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 3
 9 12
 11 13
 10 11
-======== EXPECT
+</pre></td><td valign="top"><pre>
 2
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code> Entrada </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+3
+12 15
+16 14
+10 9
+</pre></td><td valign="top"><pre>
+1
+</pre></td></tr></table>
+<!-- end -->

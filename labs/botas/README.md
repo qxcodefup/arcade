@@ -23,21 +23,22 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 4
 40 D
 41 E
 41 D
 40 E
-======== EXPECT
+</pre></td><td valign="top"><pre>
 2
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 6
 38 E
 39 E
@@ -45,8 +46,25 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 38 D
 40 D
 37 E
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+10
+30 E
+31 E
+31 D
+31 E
+30 D
+31 D
+31 D
+31 E
+30 D
+31 D
+</pre></td><td valign="top"><pre>
+4
+</pre></td></tr></table>
+<!-- end -->

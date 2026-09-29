@@ -16,44 +16,44 @@ Leia os comprimentos das três varetas e verifique se é possível formar um tri
 
 ## Exemplos
 
-<!-- load tests.toml --tests 4 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 4 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 4
 7
 18
-======== EXPECT
+</pre></td><td valign="top"><pre>
 False
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 16
 14
 16
-======== EXPECT
+</pre></td><td valign="top"><pre>
 True
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 7
 13
 10
-======== EXPECT
+</pre></td><td valign="top"><pre>
 True
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 2
 3
 8
-======== EXPECT
+</pre></td><td valign="top"><pre>
 False
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

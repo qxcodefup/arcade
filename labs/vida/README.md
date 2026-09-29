@@ -24,39 +24,40 @@ Regras:
 
 ## Exemplos
 
-<!-- load tests.toml --tests 4 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 4 -->
+<table><tr><th><code>       Entrada       </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
 4 8
 ........
 ........
 ..####..
 ........
-======== EXPECT
+</pre></td><td valign="top"><pre>
 ........
 ...##...
 ...##...
 ...##...
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>       Entrada       </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
 4 8
 ......#.
 .##...#.
 .#.#..#.
 ..#.....
-======== EXPECT
+</pre></td><td valign="top"><pre>
 ........
 .##..###
 .#.#....
 ..#.....
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>       Entrada       </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
 7 18
 ..................
 .###..............
@@ -65,7 +66,7 @@ Regras:
 ..............#.#.
 .....##........##.
 .....##...........
-======== EXPECT
+</pre></td><td valign="top"><pre>
 ..#...............
 .##...............
 .#.#..............
@@ -73,11 +74,11 @@ Regras:
 ................##
 .....##........##.
 .....##...........
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>       Entrada       </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
 7 16
 .......##.......
 .......##.......
@@ -86,7 +87,7 @@ Regras:
 #...#......####.
 ####......#.....
 ................
-======== EXPECT
+</pre></td><td valign="top"><pre>
 .......##.......
 .......##.......
 ........#.......
@@ -94,6 +95,5 @@ Regras:
 #.##......#####.
 ####.......###..
 .##.............
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

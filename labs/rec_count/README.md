@@ -15,13 +15,13 @@ Forneça um algoritmo recursivo para contar quantas vezes um determinado caracte
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>           Entrada           </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 fundamentos de programacao
 a
-======== EXPECT
+</pre></td><td valign="top"><pre>
 4
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

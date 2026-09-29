@@ -31,22 +31,31 @@ Também é muito importante que você aprenda como sua linguagem pode fazer a or
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
 4
 8 3 7 4
-======== EXPECT
+</pre></td><td valign="top"><pre>
 3 4 7 8
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
 5  
 1 8 3 7 4
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1 3 4 7 8
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
+5
+6 -3 10 9 1
+</pre></td><td valign="top"><pre>
+-3 1 6 9 10
+</pre></td></tr></table>
+<!-- end -->

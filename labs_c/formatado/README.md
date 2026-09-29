@@ -12,7 +12,7 @@ Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
+<!-- tests tests.toml --limit 3 -->
 ```py
 >>>>>>>> INSERT
 1
@@ -30,4 +30,4 @@ Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 [10, 16, 11]
 <<<<<<<< FINISH
 ```
-<!-- load -->
+<!-- end -->

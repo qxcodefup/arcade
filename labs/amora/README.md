@@ -26,22 +26,31 @@ Ajude Amora a verificar suas cartas. Faça um programa que recebe duas entradas:
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>                       Entrada                       </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 amo o amor que me amou, oh amora amortecida
 amo
-======== EXPECT
+</pre></td><td valign="top"><pre>
 5
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                       Entrada                       </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 o rato ratificou o carate que rateamos no cerato.
 rat
-======== EXPECT
+</pre></td><td valign="top"><pre>
 5
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>                       Entrada                       </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+lua de cristal que me faz sonhar menos
+me
+</pre></td><td valign="top"><pre>
+2
+</pre></td></tr></table>
+<!-- end -->

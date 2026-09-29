@@ -42,26 +42,37 @@ Some os pontos e determine o vencedor.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
 3
 G L G
 C C C
 C G G
-======== EXPECT
+</pre></td><td valign="top"><pre>
 Condenados a morte
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
 3
 G G C
 C C C
 G C C
-======== EXPECT
+</pre></td><td valign="top"><pre>
 Condenados a morte
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code> Entrada </code>
+</th><th><code>        Saída        </code>
+</th></tr><tr><td valign="top"><pre>
+3
+C C G
+C G C
+G C C
+</pre></td><td valign="top"><pre>
+Ninguem
+</pre></td></tr></table>
+<!-- end -->

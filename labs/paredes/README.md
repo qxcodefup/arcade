@@ -18,22 +18,31 @@ Imprima um único inteiro denotando o número total de paredes contadas por Bob
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 5
 1 3 3 5 4
-======== EXPECT
+</pre></td><td valign="top"><pre>
 3
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 4
 1 2 3 5 
-======== EXPECT
+</pre></td><td valign="top"><pre>
 4
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+4
+5 5 2 1
+</pre></td><td valign="top"><pre>
+1
+</pre></td></tr></table>
+<!-- end -->

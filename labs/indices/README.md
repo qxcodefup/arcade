@@ -45,13 +45,13 @@ Exemplo de Saída
 
 ## Exemplos
 
-<!-- load tests.toml --tests 1 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 1 -->
+<table><tr><th><code>        Entrada        </code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
 10
 7 5 4 3 2 1 8 0 9 6
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 7 5 4 3 2 1 9 0 6 8 ]
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

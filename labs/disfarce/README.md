@@ -30,9 +30,10 @@ Para cada caso de teste, imprima uma das seguintes opções:
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 4
 aeiou
 axx
@@ -42,24 +43,23 @@ ultron
 ronluo
 ultron
 rrrrrrrrra
-======== EXPECT
+</pre></td><td valign="top"><pre>
 pessoa
 pessoa
 chefe
 ultron
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 2
 aeiou
 axo
 aeiou
 bba
-======== EXPECT
+</pre></td><td valign="top"><pre>
 ultron
 pessoa
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

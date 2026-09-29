@@ -30,21 +30,30 @@ Leia um vetor contendo a mão de cartas de um jogador e mostre as cartas para o 
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>             Entrada             </code>
+</th><th><code>                   Saída                   </code>
+</th></tr><tr><td valign="top"><pre>
 0
-======== EXPECT
+</pre></td><td valign="top"><pre>
 []
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>             Entrada             </code>
+</th><th><code>                   Saída                   </code>
+</th></tr><tr><td valign="top"><pre>
 13
 1 2 3 4 5 6 7 8 9 10 11 12 13
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K]
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>             Entrada             </code>
+</th><th><code>                   Saída                   </code>
+</th></tr><tr><td valign="top"><pre>
+4
+1 1 3 13
+</pre></td><td valign="top"><pre>
+[A, A, 3, K]
+</pre></td></tr></table>
+<!-- end -->

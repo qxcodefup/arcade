@@ -18,27 +18,37 @@ Implemente um programa que, dado o tamanho dos três lados de um triângulo, cal
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 4
 3
 5
-======== EXPECT
+</pre></td><td valign="top"><pre>
 6.00
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 10
 12
 16
-======== EXPECT
+</pre></td><td valign="top"><pre>
 59.92
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+12
+15
+13
+</pre></td><td valign="top"><pre>
+74.83
+</pre></td></tr></table>
+<!-- end -->
 
 ## Resolução
 

@@ -23,22 +23,31 @@ Sua tarefa é criar um programa que aplique essa mesma lógica a qualquer frase.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>       Entrada       </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 um abraco amigo
-======== EXPECT
+</pre></td><td valign="top"><pre>
 uaaoaio
 mbrcmg
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>       Entrada       </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 meteoro de pegasus
-======== EXPECT
+</pre></td><td valign="top"><pre>
 eeooeeau
 mtrdpgss
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>       Entrada       </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
+hora de morfar
+</pre></td><td valign="top"><pre>
+oaeoa
+hrdmrfr
+</pre></td></tr></table>
+<!-- end -->

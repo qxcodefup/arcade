@@ -20,39 +20,39 @@ Ao lidar com grandes volumes de dados em sequência, é comum ler e armazenar to
 
 ## Exemplos
 
-<!-- load tests.toml --tests 4 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 4 -->
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
 3
 1 2 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 1 2 3 ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
 0
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
 1
 6
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 6 ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
 5
 1 2 3 4 5
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 1 2 3 4 5 ]
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

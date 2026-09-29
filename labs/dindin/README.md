@@ -30,25 +30,36 @@ Dado o número de dindins vendidos, o sabor e o turno de cada venda, seu program
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 1
 c m
-======== EXPECT
+</pre></td><td valign="top"><pre>
 c
 t
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 2
 c m
 l t
-======== EXPECT
+</pre></td><td valign="top"><pre>
 empate
 empate
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+2
+c m
+c t
+</pre></td><td valign="top"><pre>
+c
+empate
+</pre></td></tr></table>
+<!-- end -->

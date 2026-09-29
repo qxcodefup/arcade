@@ -24,28 +24,28 @@ Dada uma frase com até 100 caracteres, será que você consegue me dizer a quan
 
 ## Exemplos
 
-<!-- load tests.toml --tests 3 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>                 Entrada                 </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 sorvete suor casaca chicletes pegasus
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                 Entrada                 </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 minhoca quixe tempero musica roubo
-======== EXPECT
+</pre></td><td valign="top"><pre>
 0
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                 Entrada                 </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 acaro cocegas cagado aquecido
-======== EXPECT
+</pre></td><td valign="top"><pre>
 3
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

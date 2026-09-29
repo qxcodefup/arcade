@@ -14,23 +14,31 @@ Escreva um programa onde receba um vetor de tamanho 5 e que dê como saída a so
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 1 2 3 4 5
-======== EXPECT
+</pre></td><td valign="top"><pre>
 6
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 3 3 1 4 6
-======== EXPECT
+</pre></td><td valign="top"><pre>
 7
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>   Entrada   </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+3 2 1 4 4
+</pre></td><td valign="top"><pre>
+5
+</pre></td></tr></table>
+<!-- end -->
 
 ## Resolução
 

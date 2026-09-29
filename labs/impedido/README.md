@@ -24,24 +24,34 @@ A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógi
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 35
 60
 75
-======== EXPECT
+</pre></td><td valign="top"><pre>
 N
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 55
 68
 67
-======== EXPECT
+</pre></td><td valign="top"><pre>
 S
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+66
+80
+80
+</pre></td><td valign="top"><pre>
+N
+</pre></td></tr></table>
+<!-- end -->

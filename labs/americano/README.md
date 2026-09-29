@@ -16,26 +16,37 @@ Suponha que existem 4 jogadores. O contador, o jogador 1, aponta pra cima e diz 
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 0
 0
 0
 0
-======== EXPECT
+</pre></td><td valign="top"><pre>
 nenhum
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 0
 0
 2
 0
-======== EXPECT
+</pre></td><td valign="top"><pre>
 jog2
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+2
+2
+2
+2
+</pre></td><td valign="top"><pre>
+jog4
+</pre></td></tr></table>
+<!-- end -->

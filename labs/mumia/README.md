@@ -25,22 +25,31 @@ Por simplificações, não faça flexão de gênero (idoso, idosa, adulto, adult
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code>       Saída       </code>
+</th></tr><tr><td valign="top"><pre>
 mario
 4
-======== EXPECT
+</pre></td><td valign="top"><pre>
 mario eh crianca
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code>       Saída       </code>
+</th></tr><tr><td valign="top"><pre>
 jose
 65
-======== EXPECT
+</pre></td><td valign="top"><pre>
 jose eh idoso
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code> Entrada </code>
+</th><th><code>       Saída       </code>
+</th></tr><tr><td valign="top"><pre>
+mario
+1
+</pre></td><td valign="top"><pre>
+mario eh crianca
+</pre></td></tr></table>
+<!-- end -->

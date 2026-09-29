@@ -19,20 +19,28 @@ Supondo que João seja sobre humano, seu trabalho é fazer um programa para calc
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 12 10 11
-======== EXPECT
+</pre></td><td valign="top"><pre>
 12 10 12
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 12 10 59
-======== EXPECT
+</pre></td><td valign="top"><pre>
 12 11 00
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
+12 59 59
+</pre></td><td valign="top"><pre>
+13 00 00
+</pre></td></tr></table>
+<!-- end -->

@@ -19,22 +19,31 @@ Descubra se o vetor `vetor1` está contido em `vetor2` e retorne **"sim"** se is
   
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>     Entrada     </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 2 1 3
 3 1 5 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 sim
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>     Entrada     </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 2 1 3
 3 6 5 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 nao
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>     Entrada     </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
+3 1 3 2
+6 1 5 3 6 8 2
+</pre></td><td valign="top"><pre>
+sim
+</pre></td></tr></table>
+<!-- end -->

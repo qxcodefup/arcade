@@ -29,24 +29,34 @@ double media(int vet[], int qtd){
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>     Entrada     </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 1
 1.30
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1.30
 M
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>     Entrada     </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 2
 1.70 1.60
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1.65
 G P
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>     Entrada     </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+3
+1.70 1.60 1.8
+</pre></td><td valign="top"><pre>
+1.70
+M P G
+</pre></td></tr></table>
+<!-- end -->

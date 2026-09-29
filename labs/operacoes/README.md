@@ -24,33 +24,46 @@ Sua tarefa é criar um programa que leia dois números inteiros e imprima o resu
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 1
 4
-======== EXPECT
+</pre></td><td valign="top"><pre>
 5
 -3
 4
 0.25
 1
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 3
 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 6
 0
 9
 1.00
 0
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
+2
+4
+</pre></td><td valign="top"><pre>
+6
+-2
+8
+0.50
+2
+</pre></td></tr></table>
+<!-- end -->
 
 ### Resolução
 

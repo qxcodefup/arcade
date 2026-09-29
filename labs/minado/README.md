@@ -52,33 +52,46 @@ Considere ( 1 <=  **n, m**<= 50).
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 3 3
 ***
 --*
 --*
-======== EXPECT
+</pre></td><td valign="top"><pre>
 ***
 25*
 -2*
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 3 3
 ---
 -*-
 ---
-======== EXPECT
+</pre></td><td valign="top"><pre>
 111
 1*1
 111
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code> Entrada </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+3 5
+*----
+----*
+---**
+</pre></td><td valign="top"><pre>
+*1-11
+1113*
+--1**
+</pre></td></tr></table>
+<!-- end -->
 
 ## Mais exemplos
 

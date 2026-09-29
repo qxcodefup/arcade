@@ -20,22 +20,31 @@ Dadas duas palavras, imprima sim se elas são anagramas e não se não são anag
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>     Entrada     </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 paralelepipedo
 pepidoelelapar
-======== EXPECT
+</pre></td><td valign="top"><pre>
 sim
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>     Entrada     </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 rocicleia
 licioreca
-======== EXPECT
+</pre></td><td valign="top"><pre>
 sim
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>     Entrada     </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
+batata
+tabata
+</pre></td><td valign="top"><pre>
+sim
+</pre></td></tr></table>
+<!-- end -->

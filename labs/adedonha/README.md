@@ -41,54 +41,54 @@ Leia a soma dos dedos dos três irmãos e diga qual a letra L que será utilizad
 
 ## Exemplos
 
-<!-- load tests.toml --tests 6 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 6 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
 0 
-======== EXPECT
+</pre></td><td valign="top"><pre>
 joguem de novo
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
 1
-======== EXPECT
+</pre></td><td valign="top"><pre>
 a
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
 2
-======== EXPECT
+</pre></td><td valign="top"><pre>
 b
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
 26
-======== EXPECT
+</pre></td><td valign="top"><pre>
 z
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
 27
-======== EXPECT
+</pre></td><td valign="top"><pre>
 a
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>      Saída      </code>
+</th></tr><tr><td valign="top"><pre>
 28
-======== EXPECT
+</pre></td><td valign="top"><pre>
 b
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->
 
 [Explicação](https://youtu.be/qKkmrLZfYcA)

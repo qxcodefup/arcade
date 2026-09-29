@@ -21,28 +21,39 @@ Os administradores da Fazenda Fartura planejam criar uma nova plantação de mor
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 30
 8
 11
 56
-======== EXPECT
+</pre></td><td valign="top"><pre>
 616
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 12
 38
 5
 20
-======== EXPECT
+</pre></td><td valign="top"><pre>
 456
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
+9
+4
+9
+4
+</pre></td><td valign="top"><pre>
+36
+</pre></td></tr></table>
+<!-- end -->
 
 [Resolução](https://youtu.be/TsFcz1GtMFE)

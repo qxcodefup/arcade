@@ -24,22 +24,31 @@ Sua tarefa é criar um programa que, dado o dígito da tecla quebrada e o númer
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 5
 5000000
-======== EXPECT
+</pre></td><td valign="top"><pre>
 0
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 5
 5004000
-======== EXPECT
+</pre></td><td valign="top"><pre>
 4000
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+3
+123456
+</pre></td><td valign="top"><pre>
+12456
+</pre></td></tr></table>
+<!-- end -->

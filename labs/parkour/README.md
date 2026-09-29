@@ -41,22 +41,31 @@ Neste exemplo, Mario precisa realizar 4 movimentos de parkour: do bloco `1` para
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>      Entrada      </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 5
 1 2 1 2 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 0
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>      Entrada      </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 6
 4 2 5 4 5 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 3
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>      Entrada      </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+8
+1 3 5 7 6 5 4 3
+</pre></td><td valign="top"><pre>
+3
+</pre></td></tr></table>
+<!-- end -->

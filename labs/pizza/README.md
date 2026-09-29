@@ -28,15 +28,15 @@ Crie uma `struct` para representar um `Restaurante` e faça uma função que rec
 
 ## Exemplos
 
-<!-- load tests.toml --tests 1 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 1 -->
+<table><tr><th><code>      Entrada      </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 3
 fornoalenha 108
 burguery 145
 qsabor 49
-======== EXPECT
+</pre></td><td valign="top"><pre>
 burguery
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

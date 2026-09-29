@@ -28,27 +28,37 @@ Para isso, siga os seguintes passos:
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 100
 60
 10
-======== EXPECT
+</pre></td><td valign="top"><pre>
 10.00
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 60
 40
 10
-======== EXPECT
+</pre></td><td valign="top"><pre>
 4.00
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+65
+45
+2.5
+</pre></td><td valign="top"><pre>
+19.50
+</pre></td></tr></table>
+<!-- end -->
 
 ### Resolução
 

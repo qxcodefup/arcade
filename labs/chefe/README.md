@@ -30,22 +30,22 @@ Por exemplo, com o código Ultron **"ultron"** e o ambiente **"ruame ronuai Lion
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>                Entrada                </code>
+</th><th><code>                   Saída                   </code>
+</th></tr><tr><td valign="top"><pre>
 aeiou  
 arta euio auiaoauio riu pegasus
-======== EXPECT
+</pre></td><td valign="top"><pre>
 pessoa chefe chefe ultron pessoa
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                Entrada                </code>
+</th><th><code>                   Saída                   </code>
+</th></tr><tr><td valign="top"><pre>
 aer
 arta euio auiaoauio riu pegasus rea
-======== EXPECT
+</pre></td><td valign="top"><pre>
 ultron pessoa pessoa pessoa pessoa chefe
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

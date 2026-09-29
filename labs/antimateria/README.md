@@ -28,22 +28,31 @@ Sua tarefa é criar um programa que simule essa colisão. Dadas duas palavras, e
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 mel
 lema
-======== EXPECT
+</pre></td><td valign="top"><pre>
 a
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 pegasus
 suspiro
-======== EXPECT
+</pre></td><td valign="top"><pre>
 pegapiro
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
+olho
+ohio
+</pre></td><td valign="top"><pre>
+olio
+</pre></td></tr></table>
+<!-- end -->

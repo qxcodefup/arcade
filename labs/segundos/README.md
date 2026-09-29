@@ -21,20 +21,28 @@ Hora:Minuto:Segundo
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 3641
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1:0:41
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 22067
-======== EXPECT
+</pre></td><td valign="top"><pre>
 6:7:47
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code> Entrada </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
+9934
+</pre></td><td valign="top"><pre>
+2:45:34
+</pre></td></tr></table>
+<!-- end -->

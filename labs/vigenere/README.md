@@ -41,44 +41,44 @@ A operação de descifrar é o contrário da cifragem.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 4 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 4 -->
+<table><tr><th><code>          Entrada          </code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
 batata? sim! frita!!
 abac
 +
-======== EXPECT
+</pre></td><td valign="top"><pre>
 bbtctb? skm! grktb!!
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>          Entrada          </code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
 quando vi voce eu buguei
 princesa
 +
-======== EXPECT
+</pre></td><td valign="top"><pre>
 fliafs ni kfkr gy tuvlmv
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>          Entrada          </code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
 a data ua bbfrua
 ab
 -
-======== EXPECT
+</pre></td><td valign="top"><pre>
 a casa ta aberta
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>          Entrada          </code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
 o bobe!
 ab
 +
-======== EXPECT
+</pre></td><td valign="top"><pre>
 o coce!
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

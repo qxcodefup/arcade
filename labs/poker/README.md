@@ -47,16 +47,17 @@ A grafia mostrada no Exemplo de Saída, abaixo, deve ser seguida rigorosamente. 
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>     Entrada     </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 5
 1 2 3 4 5
 10 2 10 2 3
 1 2 3 5 4
 10 10 3 2 3
 1 2 1 2 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 Teste 1
 201
 
@@ -72,11 +73,11 @@ Teste 4
 Teste 5
 28
 
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>     Entrada     </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 100
 11 7 11 11 8
 3 9 3 9 3
@@ -178,7 +179,7 @@ Teste 5
 8 5 8 8 8
 3 7 7 4 3
 2 9 3 7 13
-======== EXPECT
+</pre></td><td valign="top"><pre>
 Teste 1
 151
 
@@ -479,6 +480,112 @@ Teste 99
 Teste 100
 0
 
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>     Entrada     </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
+25
+1 2 3 4 5
+2 3 4 5 6
+3 4 5 6 7
+4 5 6 7 8
+5 6 7 8 9
+6 7 8 9 10
+7 8 9 10 11
+8 9 10 11 12
+9 10 11 12 13
+5 4 3 2 1
+6 5 4 3 2
+7 6 5 4 3
+8 7 6 5 4
+9 8 7 6 5
+10 9 8 7 6
+11 10 9 8 7
+12 11 10 9 8
+13 12 11 10 9
+9 7 8 5 6
+12 8 9 10 11
+6 7 8 4 5
+9 10 7 8 11
+2 4 6 8 10
+1 2 3 4 6
+2 4 5 6 7
+</pre></td><td valign="top"><pre>
+Teste 1
+201
+
+Teste 2
+202
+
+Teste 3
+203
+
+Teste 4
+204
+
+Teste 5
+205
+
+Teste 6
+206
+
+Teste 7
+207
+
+Teste 8
+208
+
+Teste 9
+209
+
+Teste 10
+201
+
+Teste 11
+202
+
+Teste 12
+203
+
+Teste 13
+204
+
+Teste 14
+205
+
+Teste 15
+206
+
+Teste 16
+207
+
+Teste 17
+208
+
+Teste 18
+209
+
+Teste 19
+205
+
+Teste 20
+208
+
+Teste 21
+204
+
+Teste 22
+207
+
+Teste 23
+0
+
+Teste 24
+0
+
+Teste 25
+0
+
+</pre></td></tr></table>
+<!-- end -->

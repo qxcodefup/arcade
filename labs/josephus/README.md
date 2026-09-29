@@ -33,22 +33,30 @@ Assim continue até que só sobre um.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 5 
 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 5
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 6
 6
-======== EXPECT
+</pre></td><td valign="top"><pre>
 4
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+5 3
+</pre></td><td valign="top"><pre>
+5
+</pre></td></tr></table>
+<!-- end -->

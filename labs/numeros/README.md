@@ -14,20 +14,28 @@ Dada uma frase(max 100 char) com palavras(letras minusculas), números e espaço
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>                                             Entrada                                             </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 apesar de 2 jogadores serem expulsos, a seleção brasileira venceu a seleção italiana por 5 x 1
-======== EXPECT
+</pre></td><td valign="top"><pre>
 8
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                                             Entrada                                             </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 meus 3 cachorros comeram 2 ratos em 11 horas
-======== EXPECT
+</pre></td><td valign="top"><pre>
 16
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>                                             Entrada                                             </code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+os 2 irmãos de maria dormiram os ultimos 2 dias na casa de seus avós
+</pre></td><td valign="top"><pre>
+4
+</pre></td></tr></table>
+<!-- end -->

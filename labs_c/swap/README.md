@@ -19,7 +19,7 @@ Você deverá:
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
+<!-- tests tests.toml --limit 3 -->
 ```py
 >>>>>>>> INSERT
 1 2
@@ -35,4 +35,4 @@ Você deverá:
 3 -1
 <<<<<<<< FINISH
 ```
-<!-- load -->
+<!-- end -->

@@ -21,29 +21,41 @@ Dada a idade do filho mais novo de Seu David e a quantidade de filhos que ele te
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 2
 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 2
 4
 6
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 1
 6
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1
 3
 5
 7
 9
 11
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+10
+4
+</pre></td><td valign="top"><pre>
+10
+12
+14
+16
+</pre></td></tr></table>
+<!-- end -->

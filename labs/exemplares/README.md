@@ -30,22 +30,31 @@ imprima o resultado
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>      Entrada      </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 3
 1 1 2
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1 2
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>      Entrada      </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
 5
 1 3 2 2 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1 2 3
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>      Entrada      </code>
+</th><th><code>    Saída    </code>
+</th></tr><tr><td valign="top"><pre>
+8
+1 9 3 3 3 2 1 4
+</pre></td><td valign="top"><pre>
+1 2 3 4 9
+</pre></td></tr></table>
+<!-- end -->

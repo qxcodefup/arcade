@@ -19,20 +19,28 @@ Crie um programa que receba um texto e remova todos os espaços duplicados que a
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>           Entrada           </code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
 a  almofada ta muito  fofa
-======== EXPECT
+</pre></td><td valign="top"><pre>
 a almofada ta muito fofa
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>           Entrada           </code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
 ai  bb cx
-======== EXPECT
+</pre></td><td valign="top"><pre>
 ai bb cx
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>           Entrada           </code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
+aiu  bbk cxmp
+</pre></td><td valign="top"><pre>
+aiu bbk cxmp
+</pre></td></tr></table>
+<!-- end -->

@@ -33,20 +33,28 @@ Dado um inteiro lido do usuário, determine, sem uso de operadores reais (como r
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 16
-======== EXPECT
+</pre></td><td valign="top"><pre>
 sim
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 18
-======== EXPECT
+</pre></td><td valign="top"><pre>
 nao
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
+81
+</pre></td><td valign="top"><pre>
+sim
+</pre></td></tr></table>
+<!-- end -->

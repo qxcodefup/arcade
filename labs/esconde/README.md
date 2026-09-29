@@ -22,24 +22,25 @@ Dado um número N ímpar, a tarefa é imprimir a sequência de números ímpares
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 5
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1
 3
 5
 4
 2
 0
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
 9
-======== EXPECT
+</pre></td><td valign="top"><pre>
 1
 3
 5
@@ -50,6 +51,26 @@ Dado um número N ímpar, a tarefa é imprimir a sequência de números ímpares
 4
 2
 0
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>Saída</code>
+</th></tr><tr><td valign="top"><pre>
+13
+</pre></td><td valign="top"><pre>
+1
+3
+5
+7
+9
+11
+13
+12
+10
+8
+6
+4
+2
+0
+</pre></td></tr></table>
+<!-- end -->

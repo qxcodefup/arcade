@@ -24,20 +24,28 @@ Após resolver o problema como preferir, tente pensar em uma solução que utili
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
 10 0
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 10 9 8 7 6 5 4 3 2 1 ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
 0 10
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 0 1 2 3 4 5 6 7 8 9 ]
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>           Saída           </code>
+</th></tr><tr><td valign="top"><pre>
+0 -5
+</pre></td><td valign="top"><pre>
+[ 0 -1 -2 -3 -4 ]
+</pre></td></tr></table>
+<!-- end -->

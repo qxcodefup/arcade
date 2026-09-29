@@ -14,24 +14,34 @@ Uma matriz diz-se simétrica se coincidir com a sua transposta, ou seja, se A = 
 
 ### Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code> Entrada </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 1 4 7
 4 1 8
 7 8 1
-======== EXPECT
+</pre></td><td valign="top"><pre>
 sim
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code> Entrada </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
 3 3 3
 3 3 3
 3 3 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 sim
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code> Entrada </code>
+</th><th><code> Saída </code>
+</th></tr><tr><td valign="top"><pre>
+1 2 3
+4 5 6
+7 8 9
+</pre></td><td valign="top"><pre>
+nao
+</pre></td></tr></table>
+<!-- end -->

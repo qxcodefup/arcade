@@ -15,20 +15,28 @@ Implemente um programa que recebe um número inteiro e diga se ele é par ou imp
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 3
-======== EXPECT
+</pre></td><td valign="top"><pre>
 IMPAR
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
 12
-======== EXPECT
+</pre></td><td valign="top"><pre>
 PAR
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>  Saída  </code>
+</th></tr><tr><td valign="top"><pre>
+33
+</pre></td><td valign="top"><pre>
+IMPAR
+</pre></td></tr></table>
+<!-- end -->

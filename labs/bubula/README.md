@@ -23,20 +23,28 @@ Sua tarefa é implementar o código para fazer isso. Para cada palavra com mais 
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>                        Entrada                        </code>
+</th><th><code>                                       Saída                                       </code>
+</th></tr><tr><td valign="top"><pre>
 Volte cá seu cabra safado
-======== EXPECT
+</pre></td><td valign="top"><pre>
 VoVoVolte cá seu cacacabra sasasafado
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>                        Entrada                        </code>
+</th><th><code>                                       Saída                                       </code>
+</th></tr><tr><td valign="top"><pre>
 Morreu Maria Prea
-======== EXPECT
+</pre></td><td valign="top"><pre>
 MoMoMorreu MaMaMaria Prea
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>                        Entrada                        </code>
+</th><th><code>                                       Saída                                       </code>
+</th></tr><tr><td valign="top"><pre>
+Solte essa faca ou eu arranco suas tripas no dente!
+</pre></td><td valign="top"><pre>
+SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
+</pre></td></tr></table>
+<!-- end -->

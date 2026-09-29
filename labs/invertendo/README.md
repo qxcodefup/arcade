@@ -16,22 +16,31 @@ Inverta um vetor de números inteiros e imprima o resultado.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>       Saída       </code>
+</th></tr><tr><td valign="top"><pre>
 4
 1 2 3 4
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 4 3 2 1 ]
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>       Saída       </code>
+</th></tr><tr><td valign="top"><pre>
 2
 1 2
-======== EXPECT
+</pre></td><td valign="top"><pre>
 [ 2 1 ]
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>    Entrada    </code>
+</th><th><code>       Saída       </code>
+</th></tr><tr><td valign="top"><pre>
+6
+1 2 3 4 5 6
+</pre></td><td valign="top"><pre>
+[ 6 5 4 3 2 1 ]
+</pre></td></tr></table>
+<!-- end -->

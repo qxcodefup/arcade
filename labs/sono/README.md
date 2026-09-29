@@ -17,31 +17,31 @@ Se o segundo horário for menor que o primeiro, compreenda como o dia seguinte. 
 
 ## Exemplos
 
-<!-- load tests.toml --tests 3 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 01 00 00
 03 00 00
-======== EXPECT
+</pre></td><td valign="top"><pre>
 02 00 00
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 02 11 00
 03 10 10
-======== EXPECT
+</pre></td><td valign="top"><pre>
 00 59 10
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>  Entrada  </code>
+</th><th><code>   Saída   </code>
+</th></tr><tr><td valign="top"><pre>
 04 10 00
 03 10 10
-======== EXPECT
+</pre></td><td valign="top"><pre>
 23 00 10
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+<!-- end -->

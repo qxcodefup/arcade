@@ -29,26 +29,27 @@ para mostrar os saltos do sapo até a saída.
 
 ## Exemplos
 
-<!-- load tests.toml --tests 2 -->
-```py
->>>>>>>> INSERT
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
 800
 300
 100
-======== EXPECT
+</pre></td><td valign="top"><pre>
 0 300
 200 490
 390 670
 570 saiu
-<<<<<<<< FINISH
-```
+</pre></td></tr></table>
 
-```py
->>>>>>>> INSERT
+<table><tr><th><code>Entrada</code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
 800
 300
 200
-======== EXPECT
+</pre></td><td valign="top"><pre>
 0 300
 100 390
 190 470
@@ -72,6 +73,21 @@ para mostrar os saltos do sapo até a saída.
 100 200
 0 90
 -110 morreu
-<<<<<<<< FINISH
-```
-<!-- load -->
+</pre></td></tr></table>
+
+<table><tr><th><code>Entrada</code>
+</th><th><code>     Saída     </code>
+</th></tr><tr><td valign="top"><pre>
+100
+50
+30
+</pre></td><td valign="top"><pre>
+0 50
+20 60
+30 60
+30 50
+20 30
+0 0
+-30 morreu
+</pre></td></tr></table>
+<!-- end -->
