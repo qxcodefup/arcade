@@ -261,7 +261,7 @@ Os marcadores das tarefas são:
 - [ ] `eval=diff gain=4 cost=1` [Torres de Hanoi](labs/hanoi/README.md)
 - [ ] `eval=diff gain=2 cost=1` [Fatoração de um número](labs/fatores_rec/README.md)
 
-## Jogos em modo texto <!-- @games -->
+## Jogos em modo texto <!-- @games active=0 -->
 
 - [x] `eval=self gain=3 cost=1` [Jokenpô - Melhor de 5](labs/pr_jokenpo/README.md)
 - [x] `eval=self gain=4 cost=1` [Adivinhe o número entre dois limites](labs/pr_chute_a/README.md)

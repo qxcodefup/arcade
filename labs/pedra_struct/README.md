@@ -57,7 +57,7 @@ func procurar_melhor_jogada(jogadas []Jogada) int {
 8 11
 10 15
 </pre></td><td valign="top"><pre>
-1
+2
 </pre></td></tr></table>
 
 <table><tr><th><code> Entrada </code>

@@ -3,7 +3,7 @@
 
 index:
 	@echo "Atualizando indexer"
-	tko build index README.md --from labs --from wiki
+	tko build index README.md --from labs --from wiki --load
 
 save:
 	@echo "Atualizando indexer"
