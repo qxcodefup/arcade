@@ -24,27 +24,24 @@ Receba o valor do salário atual do funcionário e imprima o novo salário de ac
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>  Entrada  </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 900.00
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 1080.00
-</pre></td></tr></table>
-
-<table><tr><th><code>  Entrada  </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 1500.00
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 1725.00
-</pre></td></tr></table>
-
-<table><tr><th><code>  Entrada  </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2005.20
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 2105.46
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

@@ -53,44 +53,41 @@ Considere ( 1 <=  **n, m**<= 50).
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code> Entrada </code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3 3
 ***
 --*
 --*
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 ***
 25*
 -2*
-</pre></td></tr></table>
-
-<table><tr><th><code> Entrada </code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3 3
 ---
 -*-
 ---
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 111
 1*1
 111
-</pre></td></tr></table>
-
-<table><tr><th><code> Entrada </code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3 5
 *----
 ----*
 ---**
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 *1-11
 1113*
 --1**
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->
 
 ## Mais exemplos

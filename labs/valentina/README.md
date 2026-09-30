@@ -53,43 +53,38 @@ Você deve criar um programa que receba dois caracteres e uma operação (+ ou -
 ## Exemplos
 
 <!-- tests tests.toml --limit 4 -->
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 a
 +
 a
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 a
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 b
 +
 d
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 e
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 z
 +
 c
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 b
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 f
 -
 d
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 c
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

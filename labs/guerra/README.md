@@ -26,9 +26,8 @@ Crie um programa que receba o número de integrantes, crie um vetor para cada ti
 ### Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>       Entrada       </code>
-</th><th><code>        Saída        </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2
 Homem de Ferro
 500
@@ -39,14 +38,12 @@ Capitao America
 400
 Soldado Invernal
 450
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 Team Captain Wins
 Homem de Ferro
-</pre></td></tr></table>
-
-<table><tr><th><code>       Entrada       </code>
-</th><th><code>        Saída        </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 Pantera Negra
 600
@@ -61,14 +58,12 @@ Wanda
 1200
 Homem Formiga
 300
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 Team Iron Wins
 Wanda
-</pre></td></tr></table>
-
-<table><tr><th><code>       Entrada       </code>
-</th><th><code>        Saída        </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2
 Homem de Ferro
 500
@@ -79,8 +74,10 @@ Capitao America
 650
 Soldado Invernal
 350
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 Draw
 Capitao America
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

@@ -19,4 +19,4 @@ all: index
 
 clean:
 	@find . -depth -name ".cache" -exec rm -rf {} +
-	@find . -type f -name "README.md" -exec tko tool mdpp --clean {} \;
+	@find . -type f -name "README.md" -exec tko tool mdpp --clean {} \; -exec echo "Limpo: {}" \;

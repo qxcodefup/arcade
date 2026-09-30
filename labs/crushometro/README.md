@@ -35,30 +35,27 @@ printf("%%");
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>   Entrada   </code>
-</th><th><code>                    Saída                    </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 Yudi
 Priscilla
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 As chances do crush te dar bola sao: 20%!
-</pre></td></tr></table>
-
-<table><tr><th><code>   Entrada   </code>
-</th><th><code>                    Saída                    </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 Shun
 Hyoga
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 As chances do crush te dar bola sao: 0%!
-</pre></td></tr></table>
-
-<table><tr><th><code>   Entrada   </code>
-</th><th><code>                    Saída                    </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 Kratos
 Athena
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 As chances do crush te dar bola sao: 20%!
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

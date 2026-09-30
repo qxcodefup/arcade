@@ -25,42 +25,39 @@ Dado o número de casos de teste e uma sequência de números inteiros, para cad
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>  Entrada  </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 1
 2
 3
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 2 leds
 5 leds
 5 leds
-</pre></td></tr></table>
-
-<table><tr><th><code>  Entrada  </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 11
 22
 33
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 4 leds
 10 leds
 10 leds
-</pre></td></tr></table>
-
-<table><tr><th><code>  Entrada  </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 115380
 2819311
 23456
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 27 leds
 29 leds
 25 leds
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

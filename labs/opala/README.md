@@ -29,35 +29,32 @@ Para isso, siga os seguintes passos:
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 100
 60
 10
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 10.00
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 60
 40
 10
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 4.00
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 65
 45
 2.5
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 19.50
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->
 
 ### Resolução

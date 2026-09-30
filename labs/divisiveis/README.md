@@ -19,30 +19,27 @@ Leia dois inteiros e diga se ambos são divisíveis por 3 ou se ambos são divis
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5
 10
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 sim
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 10
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 nao
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 6
 9
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 sim
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

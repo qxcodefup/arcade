@@ -29,39 +29,34 @@ Dado um número inteiro C, que representa a capacidade do ônibus prevista pela 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code>
-</th><th><code>      Saída      </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5
 0
 3
 2
 4
 1
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 vazio
 ainda cabe
 lotado
 lotado
 hora de partir
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>      Saída      </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 10
 10
 -10
 30
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 lotado
 vazio
 hora de partir
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>      Saída      </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 1
 1
@@ -69,12 +64,14 @@ hora de partir
 -3
 3
 3
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 ainda cabe
 ainda cabe
 lotado
 vazio
 lotado
 hora de partir
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

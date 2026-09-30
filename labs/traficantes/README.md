@@ -32,33 +32,30 @@ Inspirado pela necessidade de decifrar a mensagem, sua tarefa é criar uma ferra
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>              Entrada              </code>
-</th><th><code>                     Saída                     </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 a aba absorveu
 ab
 c
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 a ca csorveu
-</pre></td></tr></table>
-
-<table><tr><th><code>              Entrada              </code>
-</th><th><code>                     Saída                     </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 a almofada esta mofada e molhada
 mo
 bigode
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 a albigodefada esta bigodefada e bigodelhada
-</pre></td></tr></table>
-
-<table><tr><th><code>              Entrada              </code>
-</th><th><code>                     Saída                     </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 a bd abda
 bd
 abc
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 a abc aabca
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

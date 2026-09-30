@@ -23,34 +23,31 @@ Depois de armazenar os dados, processe o vetor para encontrar a mulher com a mai
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>    Entrada    </code>
-</th><th><code>      Saída      </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2
 ana 80 f
 joao 43 m
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 ana
-</pre></td></tr></table>
-
-<table><tr><th><code>    Entrada    </code>
-</th><th><code>      Saída      </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2
 jose 80 m
 joao 43 m
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 nao tem mulher
-</pre></td></tr></table>
-
-<table><tr><th><code>    Entrada    </code>
-</th><th><code>      Saída      </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 joao 43 m
 ana 80 f
 melissa 34 f
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 ana
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

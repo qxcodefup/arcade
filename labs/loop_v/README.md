@@ -26,27 +26,24 @@ Leia dois números inteiros **A** e **B**, onde **A** será sempre menor ou igua
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code> Entrada </code>
-</th><th><code>          Saída          </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 0 10
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ 1 3 5 7 9 ]
-</pre></td></tr></table>
-
-<table><tr><th><code> Entrada </code>
-</th><th><code>          Saída          </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5 10
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ 5 7 9 ]
-</pre></td></tr></table>
-
-<table><tr><th><code> Entrada </code>
-</th><th><code>          Saída          </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 -5 10
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ -5 -3 -1 1 3 5 7 9 ]
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

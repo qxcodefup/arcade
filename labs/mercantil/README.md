@@ -26,36 +26,33 @@
 ## Exemplos  
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>   Entrada   </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 1  
 1.0  
 1.0  
 M  
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 primeiro
-</pre></td></tr></table>
-
-<table><tr><th><code>   Entrada   </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2  
 1.0 2.0  
 1.0 2.1  
 m m  
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 empate
-</pre></td></tr></table>
-
-<table><tr><th><code>   Entrada   </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2
 1.0 2.0
 1.0 2.1
 m M
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 primeiro
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

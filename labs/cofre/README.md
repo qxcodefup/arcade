@@ -29,33 +29,30 @@ Dada a sequência de inteiros na barra e a sequência de posições entre as qua
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>            Entrada            </code>
-</th><th><code>            Saída            </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 14 5
 9 4 3 9 1 2 4 5 1 1 9 7 0 5
 1 9 4 11 13
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ 1 6 3 1 4 3 0 1 0 4 ]
-</pre></td></tr></table>
-
-<table><tr><th><code>            Entrada            </code>
-</th><th><code>            Saída            </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5 4
 5 8 0 5 1
 1 4 2 5
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ 3 1 0 0 0 3 0 0 2 0 ]
-</pre></td></tr></table>
-
-<table><tr><th><code>            Entrada            </code>
-</th><th><code>            Saída            </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 10 10
 6 6 7 7 2 8 9 2 0 0
 1 10 3 9 6 9 8 1 8 2
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ 5 0 13 0 0 0 6 11 7 8 ]
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

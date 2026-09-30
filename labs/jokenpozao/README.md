@@ -47,30 +47,27 @@ ARMA MIRA ROCHA, DISPARA, SUPERA TESOURA, ATIRA NO HUMANO.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>  Entrada  </code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 sponge
 gun
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 jog1
-</pre></td></tr></table>
-
-<table><tr><th><code>  Entrada  </code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 air
 scissors
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 jog2
-</pre></td></tr></table>
-
-<table><tr><th><code>  Entrada  </code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 gun
 gun
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 empate
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

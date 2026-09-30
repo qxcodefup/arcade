@@ -32,33 +32,30 @@ No exemplo da figura, se o limite for 20 cm, P1 tem valor 10, P2 tem valor -10 e
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>   Entrada   </code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 30 3
 35 -15 22
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 1
 0
-</pre></td></tr></table>
-
-<table><tr><th><code>   Entrada   </code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 30 3
 35 -32 -40
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 nenhum
 2
-</pre></td></tr></table>
-
-<table><tr><th><code>   Entrada   </code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 30 3
 35 36 -36
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 nenhum
 2
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

@@ -30,29 +30,26 @@ def calc_fatores(num int) []Fator {
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 8
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 2 3
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 40
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 2 3
 5 1
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 55
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 5 1
 11 1
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

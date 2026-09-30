@@ -23,24 +23,22 @@ Dado um número N ímpar, a tarefa é imprimir a sequência de números ímpares
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 1
 3
 5
 4
 2
 0
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 9
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 1
 3
 5
@@ -51,13 +49,11 @@ Dado um número N ímpar, a tarefa é imprimir a sequência de números ímpares
 4
 2
 0
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 13
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 1
 3
 5
@@ -72,5 +68,6 @@ Dado um número N ímpar, a tarefa é imprimir a sequência de números ímpares
 4
 2
 0
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

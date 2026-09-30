@@ -48,16 +48,16 @@ A grafia mostrada no Exemplo de Saída, abaixo, deve ser seguida rigorosamente. 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>     Entrada     </code>
-</th><th><code>    Saída    </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5
 1 2 3 4 5
 10 2 10 2 3
 1 2 3 5 4
 10 10 3 2 3
 1 2 1 2 3
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 Teste 1
 201
 
@@ -73,11 +73,8 @@ Teste 4
 Teste 5
 28
 
-</pre></td></tr></table>
-
-<table><tr><th><code>     Entrada     </code>
-</th><th><code>    Saída    </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 100
 11 7 11 11 8
 3 9 3 9 3
@@ -179,7 +176,8 @@ Teste 5
 8 5 8 8 8
 3 7 7 4 3
 2 9 3 7 13
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 Teste 1
 151
 
@@ -480,11 +478,8 @@ Teste 99
 Teste 100
 0
 
-</pre></td></tr></table>
-
-<table><tr><th><code>     Entrada     </code>
-</th><th><code>    Saída    </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 25
 1 2 3 4 5
 2 3 4 5 6
@@ -511,7 +506,8 @@ Teste 100
 2 4 6 8 10
 1 2 3 4 6
 2 4 5 6 7
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 Teste 1
 201
 
@@ -587,5 +583,6 @@ Teste 24
 Teste 25
 0
 
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

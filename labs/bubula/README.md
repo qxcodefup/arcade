@@ -24,27 +24,24 @@ Sua tarefa é implementar o código para fazer isso. Para cada palavra com mais 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>                        Entrada                        </code>
-</th><th><code>                                       Saída                                       </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 Volte cá seu cabra safado
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 VoVoVolte cá seu cacacabra sasasafado
-</pre></td></tr></table>
-
-<table><tr><th><code>                        Entrada                        </code>
-</th><th><code>                                       Saída                                       </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 Morreu Maria Prea
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 MoMoMorreu MaMaMaria Prea
-</pre></td></tr></table>
-
-<table><tr><th><code>                        Entrada                        </code>
-</th><th><code>                                       Saída                                       </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 Solte essa faca ou eu arranco suas tripas no dente!
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 SoSoSolte eeessa fafafaca ou eu aaarranco suasuasuas tritritripas no dededente!
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

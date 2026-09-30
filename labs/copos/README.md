@@ -18,33 +18,30 @@ Faça um programa que dado um numero N inteiro (0<N<50) mostre na tela um triang
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 ..3..
 .3.3.
 3.3.3
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 .2.
 2.2
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 4
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 ...4...
 ..4.4..
 .4.4.4.
 4.4.4.4
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

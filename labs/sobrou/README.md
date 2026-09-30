@@ -19,9 +19,8 @@ Implemente um programa que receba primeiramente a quantidade que precisa ser com
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>  Entrada  </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2
 8
 5
@@ -29,13 +28,11 @@ Implemente um programa que receba primeiramente a quantidade que precisa ser com
 4206.00
 761.00
 54771.87
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 14208.87
-</pre></td></tr></table>
-
-<table><tr><th><code>  Entrada  </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 9
 3
 5
@@ -43,13 +40,11 @@ Implemente um programa que receba primeiramente a quantidade que precisa ser com
 3200.00
 3327.00
 49569.79
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 16818.79
-</pre></td></tr></table>
-
-<table><tr><th><code>  Entrada  </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2
 2
 6
@@ -57,7 +52,9 @@ Implemente um programa que receba primeiramente a quantidade que precisa ser com
 4837.00
 455.00
 32500.45
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 16156.45
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

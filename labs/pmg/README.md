@@ -30,33 +30,30 @@ double media(int vet[], int qtd){
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>     Entrada     </code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 1
 1.30
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 1.30
 M
-</pre></td></tr></table>
-
-<table><tr><th><code>     Entrada     </code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2
 1.70 1.60
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 1.65
 G P
-</pre></td></tr></table>
-
-<table><tr><th><code>     Entrada     </code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 1.70 1.60 1.8
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 1.70
 M P G
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

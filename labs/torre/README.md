@@ -34,9 +34,8 @@ No exemplo da figura acima, com um tabuleiro de dimensão seis (ou seja, seis li
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>             Entrada             </code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 6
 4 1 3 8 4 5
 9 2 8 9 2 7
@@ -44,24 +43,20 @@ No exemplo da figura acima, com um tabuleiro de dimensão seis (ou seja, seis li
 8 2 9 1 9 8
 7 1 3 2 1 2
 5 1 2 9 3 8
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 67
-</pre></td></tr></table>
-
-<table><tr><th><code>             Entrada             </code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 5 1 1
 5 2 1
 8 5 5
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 20
-</pre></td></tr></table>
-
-<table><tr><th><code>             Entrada             </code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 10
 97 98 4 18 54 71 43 16 77 33
 96 62 53 23 70 66 18 55 16 87
@@ -73,7 +68,9 @@ No exemplo da figura acima, com um tabuleiro de dimensão seis (ou seja, seis li
 32 24 96 14 20 19 78 94 23 69
 36 48 46 67 91 5 97 64 56 74
 83 88 100 23 79 57 55 45 12 57
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 1060
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

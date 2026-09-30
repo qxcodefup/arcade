@@ -17,43 +17,38 @@ Leia os comprimentos das três varetas e verifique se é possível formar um tri
 ## Exemplos
 
 <!-- tests tests.toml --limit 4 -->
-<table><tr><th><code>Entrada</code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 4
 7
 18
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 False
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 16
 14
 16
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 True
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 7
 13
 10
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 True
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>  Saída  </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2
 3
 8
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 False
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

@@ -49,29 +49,4 @@ int main(){
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-```py
->>>>>>>> INSERT
-2
-4
-2000
-1
-4
-2000
-======== EXPECT
-Mais recente
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-2
-3
-1999
-1
-4
-2000
-======== EXPECT
-Mais antiga
-<<<<<<<< FINISH
-```
 <!-- end -->

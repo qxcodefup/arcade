@@ -10,7 +10,7 @@ Implemente a função `troca`, que recebe como parâmetro duas variáveis inteir
 - main.c: arquivo já implementado que contém a função `main` que chama a função `swap`.
 
 <!-- links .cache/draft -->
-<!-- links -->
+<!-- end -->
 
 Você deverá:
 
@@ -20,19 +20,4 @@ Você deverá:
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-```py
->>>>>>>> INSERT
-1 2
-======== EXPECT
-2 1
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
--1 3
-======== EXPECT
-3 -1
-<<<<<<<< FINISH
-```
 <!-- end -->

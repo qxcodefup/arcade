@@ -39,19 +39,4 @@ Você deverá:
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-```py
->>>>>>>> INSERT
-7384
-======== EXPECT
-2:3:4
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-3601
-======== EXPECT
-1:0:1
-<<<<<<<< FINISH
-```
 <!-- end -->

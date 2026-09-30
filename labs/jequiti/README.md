@@ -20,33 +20,30 @@ Se nas palavras houver pontuação ou espaço, você deve imprimi-los corretame
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>     Entrada     </code>
-</th><th><code>      Saída      </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 extraordinario
 aeioubcdfgh
 *
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 e***ao*di*a*io
-</pre></td></tr></table>
-
-<table><tr><th><code>     Entrada     </code>
-</th><th><code>      Saída      </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 Teco-Teco!
 tbxyan
 _
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 T___-T___!
-</pre></td></tr></table>
-
-<table><tr><th><code>     Entrada     </code>
-</th><th><code>      Saída      </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 Seu Pilantra!
 yzxa
 *
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 *** ***a***a!
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

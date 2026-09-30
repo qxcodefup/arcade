@@ -35,27 +35,24 @@ Agora tente adaptar esse código para carregar vários inteiros em um vetor e de
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>       Entrada       </code>
-</th><th><code>          Saída          </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 19 12 32 11 17 15
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ 15 17 11 32 12 19 ]
-</pre></td></tr></table>
-
-<table><tr><th><code>       Entrada       </code>
-</th><th><code>          Saída          </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 15
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ 15 ]
-</pre></td></tr></table>
-
-<table><tr><th><code>       Entrada       </code>
-</th><th><code>          Saída          </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 15 12
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ 12 15 ]
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

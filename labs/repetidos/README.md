@@ -14,32 +14,27 @@
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5 3
 2
 3
 6
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 0
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 0 4
 0
 0
 1
 0
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 3
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2 8
 2
 4
@@ -49,7 +44,9 @@
 0
 2
 2
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 5
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

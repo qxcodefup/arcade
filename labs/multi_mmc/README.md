@@ -13,11 +13,11 @@ Faça uma função que receba um vetor e retorne e mmc dos números.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>    Entrada    </code>
-</th><th><code>       Saída       </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 4 2 5 4 6
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 30
 <<<<<<<< FINISH<
 
@@ -25,21 +25,18 @@ Faça uma função que receba um vetor e retorne e mmc dos números.
 3 5 2 4
 ======== EXPECT
 20
-</pre></td></tr></table>
-
-<table><tr><th><code>    Entrada    </code>
-</th><th><code>       Saída       </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 4 4 8 10 15
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 120
-</pre></td></tr></table>
-
-<table><tr><th><code>    Entrada    </code>
-</th><th><code>       Saída       </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3 5 2 4
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 20
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

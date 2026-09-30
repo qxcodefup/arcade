@@ -29,27 +29,24 @@ Sua tarefa é criar uma função que recebe um inteiro referente ao ID de um pla
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 121
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 1
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 123
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 0
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 122
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 0
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

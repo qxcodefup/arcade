@@ -20,27 +20,24 @@ Crie um programa que receba um texto e remova todos os espaços duplicados que a
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>           Entrada           </code>
-</th><th><code>           Saída           </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 a  almofada ta muito  fofa
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 a almofada ta muito fofa
-</pre></td></tr></table>
-
-<table><tr><th><code>           Entrada           </code>
-</th><th><code>           Saída           </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 ai  bb cx
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 ai bb cx
-</pre></td></tr></table>
-
-<table><tr><th><code>           Entrada           </code>
-</th><th><code>           Saída           </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 aiu  bbk cxmp
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 aiu bbk cxmp
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

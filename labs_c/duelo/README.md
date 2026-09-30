@@ -20,25 +20,4 @@ A função duelo recebe como entrada dois dicionários, onde cada um deles repre
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-```py
->>>>>>>> INSERT
-100  
-20  
-100  
-1
-======== EXPECT
-Personagem 1
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-100
-20
-100
-1
-======== EXPECT
-Personagem 1
-<<<<<<<< FINISH
-```
 <!-- end -->

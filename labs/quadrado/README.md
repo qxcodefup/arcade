@@ -20,33 +20,30 @@ Dizemos que uma matriz quadrada inteira é um **quadrado mágico** se a soma dos
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code> Entrada </code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 1 2 3
 4 5 6
 7 8 9
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 nao
-</pre></td></tr></table>
-
-<table><tr><th><code> Entrada </code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2 7 6
 9 5 1
 4 3 8
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 sim
-</pre></td></tr></table>
-
-<table><tr><th><code> Entrada </code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 8 1 6
 3 5 7
 4 9 2
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 sim
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

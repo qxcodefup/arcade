@@ -39,20 +39,17 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>        Entrada        </code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3 5
 81 28 240 10 1
 40 10 100 240 4
 20 180 111 35 2
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 451
-</pre></td></tr></table>
-
-<table><tr><th><code>        Entrada        </code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 9 9
 2 1 1 1 1 1 1 1 2
 1 2 1 1 1 1 1 2 1
@@ -63,13 +60,11 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 1 1 2 1 1 1 2 1 1
 1 2 1 1 1 1 1 2 1
 2 1 1 1 1 1 1 1 2
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 13
-</pre></td></tr></table>
-
-<table><tr><th><code>        Entrada        </code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 10 10
 3 5 5 5 5 5 5 5 5 5
 3 1 1 1 1 1 1 1 1 5
@@ -81,7 +76,9 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 3 1 1 1 1 1 1 1 1 5
 3 1 1 1 1 1 1 1 1 5
 3 5 5 5 5 5 5 5 5 5
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 50
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

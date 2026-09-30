@@ -50,35 +50,32 @@ func procurar_melhor_jogada(jogadas []Jogada) int {
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code> Entrada </code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2
 8 11
 10 15
-</pre></td><td valign="top"><pre>
-2
-</pre></td></tr></table>
-
-<table><tr><th><code> Entrada </code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 9 12
 11 13
 10 11
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 2
-</pre></td></tr></table>
-
-<table><tr><th><code> Entrada </code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 12 15
 16 14
 10 9
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 1
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

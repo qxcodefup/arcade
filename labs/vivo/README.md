@@ -42,9 +42,8 @@ Olimpíada Brasileira de Informática - OBI2005 - Modalidade Programação Níve
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>          Entrada          </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5 4
 3 2 1 4 5
 5 1 1 1 1 1 1
@@ -62,18 +61,16 @@ Olimpíada Brasileira de Informática - OBI2005 - Modalidade Programação Níve
 2 1 1 1
 2 1 1 0
 0 0
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 Teste 1
 5
 Teste 2
 3
 Teste 3
 2
-</pre></td></tr></table>
-
-<table><tr><th><code>          Entrada          </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 10 7
 5 6 1 8 10 4 2 7 9 3
 10 1 1 1 0 1 1 1 1 1 1 1
@@ -106,18 +103,16 @@ Teste 3
 4 0 0 0 0 0
 4 1 0 1 0 0
 0 0
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 Teste 1
 10
 Teste 2
 7
 Teste 3
 1
-</pre></td></tr></table>
-
-<table><tr><th><code>          Entrada          </code>
-</th><th><code>   Saída   </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3 6
 1 2 3
 3 0 0 0 0
@@ -200,7 +195,8 @@ Teste 3
 2 0 0 1
 1 0 0
 0 0
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 Teste 1
 2
 Teste 2
@@ -221,5 +217,6 @@ Teste 9
 1
 Teste 10
 2
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

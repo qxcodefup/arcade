@@ -27,21 +27,20 @@ Crie sua própria função para calcular o valor absoluto de um número.
 ## Exemplos
 
 <!-- tests tests.toml --limit 2 -->
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 1
 5
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 4
-</pre></td></tr></table>
-
-<table><tr><th><code>Entrada</code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5
 1
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 4
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

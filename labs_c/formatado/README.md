@@ -13,21 +13,4 @@ Faça uma função `print_vet` que recebe um vetor e imprime formatado.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-```py
->>>>>>>> INSERT
-1
-0
-======== EXPECT
-[]
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-1
-3 10 16 11
-======== EXPECT
-[10, 16, 11]
-<<<<<<<< FINISH
-```
 <!-- end -->

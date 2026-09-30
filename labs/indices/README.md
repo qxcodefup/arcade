@@ -46,12 +46,13 @@ Exemplo de Saída
 ## Exemplos
 
 <!-- tests tests.toml --limit 1 -->
-<table><tr><th><code>        Entrada        </code>
-</th><th><code>           Saída           </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 10
 7 5 4 3 2 1 8 0 9 6
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ 7 5 4 3 2 1 9 0 6 8 ]
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

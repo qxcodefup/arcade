@@ -25,36 +25,33 @@ A saída deve ser composta por uma única linha contendo o caractere 'A' se é m
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code> Entrada </code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 1.00
 1.00
 8.00
 8.01
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 G
-</pre></td></tr></table>
-
-<table><tr><th><code> Entrada </code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 10.00
 0.01
 10.01
 0.01
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 A
-</pre></td></tr></table>
-
-<table><tr><th><code> Entrada </code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2.15 
 3.17
 19.34
 18.22
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 A
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

@@ -33,38 +33,35 @@ O valor da coluna 0 é `4² + 3² + 2² = 16 + 9 + 4 = 29`. Após calcular para 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>    Entrada    </code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 3 4 5
 6 8 9
 0 6 7
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 2
-</pre></td></tr></table>
-
-<table><tr><th><code>    Entrada    </code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 3
 -7 8 10
 9 2 5
 6 3 5
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 0
-</pre></td></tr></table>
-
-<table><tr><th><code>    Entrada    </code>
-</th><th><code>Saída</code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5
 3 3 3 3 4
 5 6 4 8 9
 2 2 1 3 7 
 -5 5 4 6 4
 2 3 1 0 8 10
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 4
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

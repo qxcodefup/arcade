@@ -12,21 +12,4 @@ Crie um programa que leia do usuário dois números inteiros e calcule o valor d
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-```py
->>>>>>>> INSERT
-5  
-2
-======== EXPECT
-7 3 2.5 10
-<<<<<<<< FINISH
-```
-
-```py
->>>>>>>> INSERT
-5  
-5
-======== EXPECT
-10 0 1.0 25
-<<<<<<<< FINISH
-```
 <!-- end -->

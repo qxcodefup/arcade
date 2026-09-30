@@ -18,36 +18,33 @@ Baruel Ruel tem muitas figurinhas do álbum de futebol. Ele estava indo para uma
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>      Entrada      </code>
-</th><th><code>     Saída     </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5
 8
 1 1 1 1 2 2 3 5
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ 1 1 1 2 ]
 [ 4 ]
-</pre></td></tr></table>
-
-<table><tr><th><code>      Entrada      </code>
-</th><th><code>     Saída     </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 2
 4
 1 1 2 2
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ 1 2 ]
 [ ]
-</pre></td></tr></table>
-
-<table><tr><th><code>      Entrada      </code>
-</th><th><code>     Saída     </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5
 2
 4 5
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 [ ]
 [ 1 2 3 ]
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

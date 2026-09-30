@@ -26,30 +26,27 @@ Por simplificações, não faça flexão de gênero (idoso, idosa, adulto, adult
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code> Entrada </code>
-</th><th><code>       Saída       </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 mario
 4
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 mario eh crianca
-</pre></td></tr></table>
-
-<table><tr><th><code> Entrada </code>
-</th><th><code>       Saída       </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 jose
 65
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 jose eh idoso
-</pre></td></tr></table>
-
-<table><tr><th><code> Entrada </code>
-</th><th><code>       Saída       </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 mario
 1
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 mario eh crianca
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->

@@ -64,33 +64,30 @@ Yes
 ### Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>        Entrada        </code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5
 10 61 55 88 17
 15 76 21 73 19
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 No
-</pre></td></tr></table>
-
-<table><tr><th><code>        Entrada        </code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5
 123 146 454 542 456
 100 328 248 689 200
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 No
-</pre></td></tr></table>
-
-<table><tr><th><code>        Entrada        </code>
-</th><th><code> Saída </code>
-</th></tr><tr><td valign="top"><pre>
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
 5
 123 690 454 150 456
 100 328 248 689 145
-</pre></td><td valign="top"><pre>
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
 Yes
-</pre></td></tr></table>
+</pre></td></tr>
+</table>
 <!-- end -->
