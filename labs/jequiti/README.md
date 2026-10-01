@@ -20,30 +20,4 @@ Se nas palavras houver pontuação ou espaço, você deve imprimi-los corretame
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-extraordinario
-aeioubcdfgh
-*
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-e***ao*di*a*io
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-Teco-Teco!
-tbxyan
-_
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-T___-T___!
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-Seu Pilantra!
-yzxa
-*
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-*** ***a***a!
-</pre></td></tr>
-</table>
 <!-- end -->

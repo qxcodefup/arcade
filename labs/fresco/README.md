@@ -23,24 +23,4 @@ Sua tarefa é criar um programa que simule esse efeito. Dado um texto, você dev
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-a porta amassou
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-a portamassou
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-carla almeida alencar
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-carlalmeidalencar
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-a carla a ama
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-a carlama
-</pre></td></tr>
-</table>
 <!-- end -->

@@ -21,31 +21,4 @@ No vetor de inteiros, os valores 1, 11, 12 e 13 são respectivamente Ás, J, Q e
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2
-1
-13
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-21
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2
-11
-13
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-20
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3
-1
-1
-1
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-13
-</pre></td></tr>
-</table>
 <!-- end -->

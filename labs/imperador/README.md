@@ -43,33 +43,4 @@ Some os pontos e determine o vencedor.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3
-G L G
-C C C
-C G G
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-Condenados a morte
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3
-G G C
-C C C
-G C C
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-Condenados a morte
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3
-C C G
-C G C
-G C C
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-Ninguem
-</pre></td></tr>
-</table>
 <!-- end -->

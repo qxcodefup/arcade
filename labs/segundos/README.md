@@ -22,24 +22,4 @@ Hora:Minuto:Segundo
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3641
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1:0:41
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-22067
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-6:7:47
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-9934
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-2:45:34
-</pre></td></tr>
-</table>
 <!-- end -->

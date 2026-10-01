@@ -29,48 +29,4 @@ Dado o chute de Chico Bento e Cebolinha, e a lista de animais com suas respectiv
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-18
-15
-5
-c
-c
-g
-v
-g
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-16
-Cebolinha
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-15
-18
-5
-c
-c
-g
-v
-g
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-16
-Chico Bento
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-17
-15
-5
-c
-c
-g
-v
-g
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-16
-empate
-</pre></td></tr>
-</table>
 <!-- end -->

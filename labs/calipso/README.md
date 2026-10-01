@@ -27,31 +27,4 @@ Como você deve ter notado, Jack Sparrow fala de uma forma muito peculiar. Sua t
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-1
-a batata
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-a BaTaTa
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2
-AAAAAAAA
-bBbBbBbB
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-AaAaAaAa
-bBbBbBbB
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2
-Morra Prea
-BigODE Aparado
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-MoRrA pReA
-BiGoDe ApArAdO
-</pre></td></tr>
-</table>
 <!-- end -->

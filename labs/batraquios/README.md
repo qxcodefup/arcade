@@ -20,27 +20,4 @@ Descubra se o vetor `vetor1` está contido em `vetor2` e retorne **"sim"** se is
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2 1 3
-3 1 5 3
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-sim
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2 1 3
-3 6 5 3
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-nao
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3 1 3 2
-6 1 5 3 6 8 2
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-sim
-</pre></td></tr>
-</table>
 <!-- end -->

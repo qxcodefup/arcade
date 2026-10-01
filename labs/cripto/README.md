@@ -59,27 +59,4 @@ O enigma revelado.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-nnb!ovofl
-123
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-ola mundo
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-Br'tbn+'qhdb'tfeb+'iht'tfebjht
-777
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-Eu sei, voce sabe, nos sabemos
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-jsmc*&cs&uis&ucs&vgo
-666
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-luke, eu sou seu pai
-</pre></td></tr>
-</table>
 <!-- end -->

@@ -32,27 +32,4 @@ imprima o resultado
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3
-1 1 2
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1 2
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-5
-1 3 2 2 3
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1 2 3
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-8
-1 9 3 3 3 2 1 4
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1 2 3 4 9
-</pre></td></tr>
-</table>
 <!-- end -->

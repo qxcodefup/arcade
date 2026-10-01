@@ -27,24 +27,4 @@ Implemente um programa que, dada uma string, imprima a mesma string ao contrári
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-ra on odnalor at acopip ed oriehc o
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-o cheiro de pipoca ta rolando no ar
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-rahnos zaf em euq latsirc ed aul
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-lua de cristal que me faz sonhar
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-oacaroc ues on x mu ieuqram
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-marquei um x no seu coracao
-</pre></td></tr>
-</table>
 <!-- end -->

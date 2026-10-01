@@ -21,37 +21,4 @@ Sua tarefa é simular o movimento de uma cobra em um plano 2D. A cobra é compos
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-1 L
-5 5
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-4 5
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3 L
-5 5
-6 5
-6 6
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-4 5
-5 5
-6 5
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-4 U
-5 5
-6 5
-6 6
-6 7
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-5 4
-5 5
-6 5
-6 6
-</pre></td></tr>
-</table>
 <!-- end -->

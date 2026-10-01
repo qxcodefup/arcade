@@ -23,33 +23,5 @@ Dados como entrada a capacidade C da cabine e o número total A de alunos, você
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-5
-4
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-5
-8
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-2
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-5
-9
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-3
-</pre></td></tr>
-</table>
 <!-- end -->
 
-## Resolusão
-
-### Em C++
-
-- [Vídeo](https://www.youtube.com/watch?v=w0oyrmeYHjY)

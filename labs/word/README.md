@@ -28,34 +28,4 @@ Sua tarefa é criar um programa que, dado um texto e um comando de formatação,
 ## Exemplos
 
 <!-- tests tests.toml --limit 4 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-O Pato e o frango ja tao cozidos, comam!
-M
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-O PATO E O FRANGO JA TAO COZIDOS, COMAM!
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-O Pato e o frango ja tao cozidos, comam!
-m
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-o pato e o frango ja tao cozidos, comam!
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-O Pato e o frango ja tao cozidos, comam!
-p
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-o Pato e o Frango Ja Tao Cozidos, Comam!
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-O Pato e o frango ja tao cozidos, comam!
-i
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-o pATO E O FRANGO JA TAO COZIDOS, COMAM!
-</pre></td></tr>
-</table>
 <!-- end -->

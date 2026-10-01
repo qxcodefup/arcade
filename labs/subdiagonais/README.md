@@ -20,36 +20,4 @@ Em uma matriz de elementos inteiros 5x5, some todos os elementos da diagonal pri
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-1 0 1 1 0
-0 1 1 1 1
-0 0 1 0 0
-1 1 1 0 0
-1 0 1 1 1
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-0
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-1 1 0 0 1
-1 1 1 0 0
-1 0 0 1 1
-0 1 1 1 1
-0 0 0 1 1
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-2
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2 4 6 3 9
-8 7 5 4 1
-5 2 6 1 7
-8 4 3 2 5
-9 7 6 5 3
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
--12
-</pre></td></tr>
-</table>
 <!-- end -->

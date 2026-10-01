@@ -42,30 +42,4 @@ Se o chefe disser um número errado, ninguém deve se mexer.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-1
-2 3
-3 1
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-[3 -1]
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-1
-2 3
-2 1
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-[2 1]
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-1
-2 1
-4 1
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-[-4 1]
-</pre></td></tr>
-</table>
 <!-- end -->

@@ -29,15 +29,4 @@ Crie uma `struct` para representar um `Restaurante` e faça uma função que rec
 ## Exemplos
 
 <!-- tests tests.toml --limit 1 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3
-fornoalenha 108
-burguery 145
-qsabor 49
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-burguery
-</pre></td></tr>
-</table>
 <!-- end -->

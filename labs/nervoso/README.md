@@ -2,8 +2,6 @@
 
 ![_](assets/cover.jpg)
 
-[](solver.py)
-
 Seu chefe está ao telefone, nervoso. Ele quer que você compute a soma de uma sequência de números que ele vai falar para você ao telefone, para saber o total das vendas em sua mais recente viagem de negócios.
 
 Infelizmente, de vez em quando seu chefe fala números errados para você ao telefone. Felizmente, seu chefe rapidamente percebe que falou um número errado e diz “zero", que como combinado previamente quer dizer ignore o último número corrente.
@@ -31,48 +29,4 @@ Seu programa deve produzir uma única linha na saída, contendo um único inteir
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-4
-3
-0
-4
-0
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-0
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-10
-1
-3
-5
-4
-0
-0
-7
-0
-0
-6
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-7
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-10
-1
-0
-4
-7
-8
-8
-6
-6
-4
-6
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-49
-</pre></td></tr>
-</table>
 <!-- end -->

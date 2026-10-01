@@ -39,35 +39,4 @@ Dado uma trilha, você deve calcular o menor esforço para percorrê-la.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-6
-300
-305
-301
-299
-290
-295
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-10
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2
-236
-605
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-0
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3
-529
-697
-624
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-73
-</pre></td></tr>
-</table>
 <!-- end -->

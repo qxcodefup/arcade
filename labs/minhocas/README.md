@@ -12,7 +12,7 @@ Os pesquisadores da OBM mantêm um acompanhamento constante do desenvolvimento d
 
 A figura abaixo mostra um mapa da fazenda, mostrando a produtividade estimada de cada uma das células.  
 
-![_](minhocas.jpeg)
+![_](assets/minhocas.jpeg)
 
 Um pesquisador da OBM inventou e construiu uma máquina colhedeira de minhocas, e quer testá-la na fazenda.
 
@@ -22,7 +22,6 @@ Ou seja, a máquina eliminará uma das etapas mais intensivas de mão de obra no
 
 Decidiu-se então que seria efetuado um teste com a máquina, de forma a colher o maior número possível de minhocas em uma única passada, em linha reta, de lado a lado do campo de minhocas. Ou seja, a máquina deve colher todas as minhocas de uma 'coluna' ou de uma 'linha' de células do campo de minhocas (a linha ou coluna cuja soma das produtividades esperadas das células é a maior possível).
   
-
 Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a produtividade estimada em cada célula, calcule o número esperado total de minhocas a serem colhidas pela máquina durante o teste, conforme descrito acima.  
   
 ### Entrada
@@ -39,46 +38,4 @@ Escreva um programa que, fornecido o mapa do campo de minhocas, descrevendo a pr
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3 5
-81 28 240 10 1
-40 10 100 240 4
-20 180 111 35 2
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-451
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-9 9
-2 1 1 1 1 1 1 1 2
-1 2 1 1 1 1 1 2 1
-1 1 2 1 1 1 2 1 1
-1 1 1 2 1 2 1 1 1
-1 1 1 1 5 1 1 1 1
-1 1 1 2 1 2 1 1 1
-1 1 2 1 1 1 2 1 1
-1 2 1 1 1 1 1 2 1
-2 1 1 1 1 1 1 1 2
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-13
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-10 10
-3 5 5 5 5 5 5 5 5 5
-3 1 1 1 1 1 1 1 1 5
-3 1 1 1 1 1 1 1 1 5
-3 1 1 1 1 1 1 1 1 5
-3 1 1 1 1 1 1 1 1 5
-3 1 1 1 1 1 1 1 1 5
-3 1 1 1 1 1 1 1 1 5
-3 1 1 1 1 1 1 1 1 5
-3 1 1 1 1 1 1 1 1 5
-3 5 5 5 5 5 5 5 5 5
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-50
-</pre></td></tr>
-</table>
 <!-- end -->

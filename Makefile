@@ -14,7 +14,7 @@ all: index
 	@echo "Atualizando wiki"
 	@find wiki -type f -name "*.md" -exec tko tool mdpp {} \;
 	@echo "Atualizando Readmes"
-	tko build task labs/*
+	tko build task labs/* -m
 	@echo "Fim"
 
 clean:

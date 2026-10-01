@@ -23,30 +23,4 @@ Se ambos ficarem à mesma distancia do valor real, então houve empate.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-1
-2
-3
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-primeiro
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3
-5
-4
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-segundo
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-10
-11
-9
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-empate
-</pre></td></tr>
-</table>
 <!-- end -->

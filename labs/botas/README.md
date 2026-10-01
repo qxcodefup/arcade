@@ -24,44 +24,4 @@ Quando o sargento descobriu que você sabia programar, ele solicitou com a genti
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-4
-40 D
-41 E
-41 D
-40 E
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-2
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-6
-38 E
-39 E
-40 D
-38 D
-40 D
-37 E
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-10
-30 E
-31 E
-31 D
-31 E
-30 D
-31 D
-31 D
-31 E
-30 D
-31 D
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-4
-</pre></td></tr>
-</table>
 <!-- end -->

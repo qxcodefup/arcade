@@ -19,35 +19,4 @@ Implemente um programa que, dado o tamanho dos três lados de um triângulo, cal
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-4
-3
-5
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-6.00
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-10
-12
-16
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-59.92
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-12
-15
-13
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-74.83
-</pre></td></tr>
-</table>
 <!-- end -->
-
-## Resolução
-
-- [Parte 1](https://youtu.be/nlgT_jAtmy4)
-- [Parte 2](https://youtu.be/sWg893W5r_w)

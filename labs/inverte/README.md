@@ -23,24 +23,4 @@ Implemente um programa que, dado um único caractere, retorne a sua versão com 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-a
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-A
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-B
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-b
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-5
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-5
-</pre></td></tr>
-</table>
 <!-- end -->

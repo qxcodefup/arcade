@@ -15,24 +15,4 @@ Faça um programa que receba uma frase(max 100 char) e imprima a mesma frase com
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-ola planeta terra
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-ola ola planeta planeta terra terra
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-gosto de tomate
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-gosto gosto de de tomate tomate
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-minha ufc
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-minha minha ufc ufc
-</pre></td></tr>
-</table>
 <!-- end -->

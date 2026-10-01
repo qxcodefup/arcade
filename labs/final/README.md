@@ -31,30 +31,4 @@ Agora, implemente um programa que siga essas regras e decida automaticamente seu
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-8
-8
-9
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-aprovado
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-8
-2
-9
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-aprovado na final
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-4
-2
-9
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-reprovado
-</pre></td></tr>
-</table>
 <!-- end -->

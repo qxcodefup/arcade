@@ -27,32 +27,4 @@ Dados os valores de A, B e C, calcule as raízes.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-5.4
-25.0
--12.0
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-0.44
--5.07
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3.0
--7.0
-4.0
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1.33
-1.00
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-9.0
--12.0
-4.0
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-0.67
-</pre></td></tr>
-</table>
 <!-- end -->

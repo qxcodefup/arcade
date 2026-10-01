@@ -31,34 +31,4 @@ Para cada caso de teste, imprima uma das seguintes opções:
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-4
-aeiou
-axx
-aeiou
-bbaa
-ultron
-ronluo
-ultron
-rrrrrrrrra
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-pessoa
-pessoa
-chefe
-ultron
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2
-aeiou
-axo
-aeiou
-bba
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-ultron
-pessoa
-</pre></td></tr>
-</table>
 <!-- end -->

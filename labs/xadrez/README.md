@@ -18,34 +18,4 @@ No tabuleiro de xadrez, a casa na linha 1, coluna 1 (canto superior esquerdo) é
 ## Exemplos
 
 <!-- tests tests.toml --limit 4 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-6
-9
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-0
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-8
-8
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-5
-91
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-401
-322
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-0
-</pre></td></tr>
-</table>
 <!-- end -->

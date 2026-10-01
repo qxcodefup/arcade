@@ -38,34 +38,4 @@ Não use `ifs` e `elses`, faça um `vetor` de opções de troco.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-77.00
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1 de 50.00
-1 de 20.00
-1 de 5.00
-1 de 2.00
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-19.00
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1 de 10.00
-1 de 5.00
-2 de 2.00
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-17.39
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1 de 10.00
-1 de 5.00
-1 de 2.00
-1 de 0.25
-1 de 0.10
-Falta 0.04
-</pre></td></tr>
-</table>
 <!-- end -->

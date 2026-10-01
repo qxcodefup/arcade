@@ -34,26 +34,4 @@ Assim continue até que só sobre um.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-5 
-3
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-5
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-6
-6
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-4
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-5 3
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-5
-</pre></td></tr>
-</table>
 <!-- end -->

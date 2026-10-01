@@ -22,24 +22,4 @@ Existem formas para se determinar essa divisibilidade. Pesquise um pouco.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-11
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-sim
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-110
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-sim
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-123
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-nao
-</pre></td></tr>
-</table>
 <!-- end -->

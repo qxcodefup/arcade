@@ -29,27 +29,4 @@ Sua tarefa é criar um programa que simule essa colisão. Dadas duas palavras, e
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-mel
-lema
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-a
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-pegasus
-suspiro
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-pegapiro
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-olho
-ohio
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-olio
-</pre></td></tr>
-</table>
 <!-- end -->

@@ -42,38 +42,4 @@ __#######_
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-4
-1 3 1 2
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-_#__
-_#_#
-####
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-5
-1 3 1 2 5
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-____#
-____#
-_#__#
-_#_##
-#####
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-10
-1 1 3 3 4 6 4 2 2 1
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-_____#____
-_____#____
-____###___
-__#####___
-__#######_
-##########
-</pre></td></tr>
-</table>
 <!-- end -->

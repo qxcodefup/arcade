@@ -16,13 +16,4 @@ Forneça um algoritmo recursivo para contar quantas vezes um determinado caracte
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-fundamentos de programacao
-a
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-4
-</pre></td></tr>
-</table>
 <!-- end -->

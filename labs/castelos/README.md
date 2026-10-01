@@ -34,24 +34,4 @@ Dado um inteiro lido do usuário, determine, sem uso de operadores reais (como r
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-16
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-sim
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-18
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-nao
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-81
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-sim
-</pre></td></tr>
-</table>
 <!-- end -->

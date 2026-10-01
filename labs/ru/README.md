@@ -24,27 +24,4 @@ Sua tarefa é criar um programa que aplique essa mesma lógica a qualquer frase.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-um abraco amigo
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-uaaoaio
-mbrcmg
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-meteoro de pegasus
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-eeooeeau
-mtrdpgss
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-hora de morfar
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-oaeoa
-hrdmrfr
-</pre></td></tr>
-</table>
 <!-- end -->

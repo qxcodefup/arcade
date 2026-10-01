@@ -60,33 +60,4 @@ Número de acertos | Saída do programa
 ### Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-a
-c
-d
-d
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-Ja ouviu falar
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-d
-a
-c
-d
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-Super Fa
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-b
-b
-b
-b
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-Nunca assistiu
-</pre></td></tr>
-</table>
 <!-- end -->

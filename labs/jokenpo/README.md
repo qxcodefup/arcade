@@ -19,27 +19,4 @@ Implemente um programa que receba as jogadas de dois jogadores e determine quem 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-R
-P
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-jog2
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-P
-P
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-empate
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-S
-P
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-jog1
-</pre></td></tr>
-</table>
 <!-- end -->

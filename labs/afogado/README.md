@@ -21,27 +21,4 @@ Nosso sapinho depois de ver tantos outros sapinhos morrendo. Ele decidiu calcula
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-10
-1
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-10
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-20
-1
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-16
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-200
-10
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-67
-</pre></td></tr>
-</table>
 <!-- end -->

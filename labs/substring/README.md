@@ -22,30 +22,4 @@ Implemente uma função que, dada uma string, um índice de início e uma quanti
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-Coralina
-0
-4
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-Cora
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-Coralina
-1
-4
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-oral
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-Power Ranger
-4
-20
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-r Ranger
-</pre></td></tr>
-</table>
 <!-- end -->

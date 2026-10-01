@@ -23,7 +23,7 @@ Os marcadores das tarefas são:
 
 ## Operações <!-- @base -->
 
-- [x] `eval=diff gain=1 cost=1` [Soma de três inteiros](labs/tres/README.md)
+- [x] `eval=diff gain=1 cost=1` [Soma de três inteiros](labs/tres/README.md) <!-- REVIEW_TODO -->
 - [x] `eval=diff gain=1 cost=1` [Resultado e resto na divisão](labs/resto/README.md)
 - [x] `eval=diff gain=1 cost=1` [Média de dois inteiros](labs/media/README.md)
 - [x] `eval=diff gain=1 cost=1` [Calculando quanto sobrou](labs/sobrou/README.md)
@@ -171,7 +171,7 @@ Os marcadores das tarefas são:
 - [ ] `eval=diff gain=4 cost=1` BOSS [Algoritmo de força bruta](labs/senhas/README.md)
 - [ ] `eval=diff gain=4 cost=1` BOSS [Qual o maior](labs/palindromo/README.md)
 
-## Strings <!-- @string -->
+## Strings <!-- @str -->
 
 - [x] `eval=diff gain=1 cost=1` [Inverter String](labs/xuxa/README.md)
 - [x] `eval=diff gain=1 cost=1` [Inverter Case de char](labs/inverte/README.md)

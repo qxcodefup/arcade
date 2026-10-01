@@ -24,41 +24,4 @@ O sapo começa no fundo de um poço de profundidade **P** centímetros. A cada s
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-500
-100
-20
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-0 100
-80 180
-160 260
-240 340
-320 420
-400 saiu
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-800
-300
-200
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-0 300
-100 400
-200 500
-300 600
-400 700
-500 saiu
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-100
-80
-10
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-0 80
-70 saiu
-</pre></td></tr>
-</table>
 <!-- end -->

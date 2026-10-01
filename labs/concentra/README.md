@@ -25,31 +25,4 @@ Dados dois número **A** e **B**, com **A** sempre menor que ***B**, gere a sequ
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-1 10
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-[ 1 10 2 9 3 8 4 7 5 6 6 5 7 4 8 3 9 2 10 1 ]
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-1 5
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-[ 1 5 2 4 3 3 4 2 5 1 ]
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2 7
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-[ 2 7 3 6 4 5 5 4 6 3 7 2 ]
-</pre></td></tr>
-</table>
 <!-- end -->
-
-
-## Resolução
-
-### Em C
-
-- [Vídeo](https://youtu.be/L9FmHLc87uw)

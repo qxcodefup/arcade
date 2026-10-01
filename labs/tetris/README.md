@@ -20,47 +20,4 @@ o display sem alteração.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-4 4
-.#.#
-.#o#
-##o#
-##o#
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-.#.#
-.#o#
-##o#
-##o#
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-4 4
-ooo#
-o.o#
-o#o#
-.#.#
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-...#
-ooo#
-o#o#
-o#o#
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-5 5
-.....
-..ooo
-.#..o
-###..
-##.##
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-.....
-.....
-.#ooo
-###.o
-##.##
-</pre></td></tr>
-</table>
 <!-- end -->

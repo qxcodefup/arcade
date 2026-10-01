@@ -31,32 +31,4 @@ Dado o número de dindins vendidos, o sabor e o turno de cada venda, seu program
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-1
-c m
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-c
-t
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2
-c m
-l t
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-empate
-empate
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2
-c m
-c t
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-c
-empate
-</pre></td></tr>
-</table>
 <!-- end -->

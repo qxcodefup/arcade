@@ -23,7 +23,7 @@ Implementar um jogo semelhante à **Forca**, em que o jogador tenta descobrir um
 
 ## Exemplos de execução
 
-![gif](demo.gif)
+![gif](assets/demo.gif)
 
 A entrada do usuário acontece apenas na linha que começa com >>
 

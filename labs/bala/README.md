@@ -20,33 +20,4 @@ Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3
-7
-1
-4
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-3.61
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-1
-8.2
--4
-12
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-6.28
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3
-1
-3
-5
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-4.00
-</pre></td></tr>
-</table>
 <!-- end -->

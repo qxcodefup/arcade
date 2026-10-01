@@ -18,24 +18,4 @@ Seu programa deve imprimir uma linha contendo um número natural representando q
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-6
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-28
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-12
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-91
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-4
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-15
-</pre></td></tr>
-</table>
 <!-- end -->

@@ -23,26 +23,4 @@ def calc_fatores(num int) map[int]int {
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-8
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-2 3
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-40
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-2 3
-5 1
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-55
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-5 1
-11 1
-</pre></td></tr>
-</table>
 <!-- end -->

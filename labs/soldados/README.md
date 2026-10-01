@@ -22,31 +22,4 @@ Sua tarefa é criar um programa que, dada a matriz da formação, conte o númer
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2 1
-2
-3
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-0
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2 1
-4
-3
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3 3
-2 4 6
-3 8 9
-1 0 5
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-3
-</pre></td></tr>
-</table>
 <!-- end -->

@@ -31,20 +31,4 @@ Por exemplo, com o código Ultron **"ultron"** e o ambiente **"ruame ronuai Lion
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-aeiou  
-arta euio auiaoauio riu pegasus
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-pessoa chefe chefe ultron pessoa
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-aer
-arta euio auiaoauio riu pegasus rea
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-ultron pessoa pessoa pessoa pessoa chefe
-</pre></td></tr>
-</table>
 <!-- end -->

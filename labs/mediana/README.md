@@ -24,27 +24,4 @@ Assim, você deve ordenar o vetor antes de calcular a mediana.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
-<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-2
-2 4
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-3.0
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-3
-0 1 2
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-1.0
-</pre></td></tr>
-<!-- INPUT --><tr><td valign="top"><pre>
-4
-0 9 3.2 1
-</pre></td>
-<!-- OUTPUT --><td valign="top"><pre>
-2.1
-</pre></td></tr>
-</table>
 <!-- end -->
