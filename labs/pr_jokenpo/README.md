@@ -1,110 +1,73 @@
 # Jokenpô - Melhor de 5
 
-![cover](assets/cover.jpg)
+![Capa da atividade Jokenpô](assets/cover.jpg)
 
-Este trabalho tem como objetivo que você desenvolva habilidades de desenvolvimento de jogos, como contagem de pontos, jogadas aleatórias, rounds e início e fim do game. Para realizar este trabalho você precisará lidar com entrada e saída de informações e com geração de dados aleatórios.
+## Objetivo
 
-O jogo Jokenpô - ou Pedra, Papel e Tesoura - é jogado por dois jogadores em que ambos escolhem, aleatoriamente dentre as três opções, a sua jogada e as exibem ao mesmo tempo vencendo aquele que a opção escolhida ganha a do adversário, ou empatando quando ambos escolhem a mesma opção. As regras definem as vitórias do seguinte modo:
+Implemente um jogo de Jokenpô entre uma pessoa e o computador. A partida termina quando um deles vence três rodadas.
 
-1. **Pedra** ganha da **tesoura**
+## Regras
 
-2. **Tesoura** ganha do **papel**
+- Em cada rodada, a pessoa escolhe pedra, papel ou tesoura; o computador escolhe uma opção aleatoriamente.
+- Pedra vence tesoura, tesoura vence papel e papel vence pedra.
+- Se as escolhas forem iguais, a rodada empata e ninguém pontua.
+- A partida termina assim que a pessoa ou o computador alcançar três pontos. Como empates não pontuam, podem ser necessárias mais de cinco rodadas.
+- Ao final, mostre o placar e pergunte se a pessoa quer jogar novamente.
+- Uma nova partida começa com o placar zerado.
+- Se a pessoa informar uma opção inválida, mostre `Opção inválida.` e peça a entrada novamente.
 
-3. **Papel** ganha da **pedra**
+## Interação
 
-O jogo deverá ser entre um jogador e o computador, em que este deverá fazer suas jogadas aleatoriamente após as do jogador, que então serão comparadas, informado quem venceu e incrementado o número de vitórias do atual vitorioso. Cada jogo será dividido em 5 rounds, que deverá ser exibido em qual estará no momento e ao fim o jogo deverá perguntar se o jogador deseja jogar novamente ou sair, sempre exibindo o número de vitórias de cada participante - jogador e computador.
+Em cada rodada, mostre o placar e as opções numeradas:
 
-## Exemplos
+- `1`: Pedra
+- `2`: Papel
+- `3`: Tesoura
 
-Exemplo em execução. Os símbolos `>>` significam a entrada de dados do usuário.
+Leia a opção da pessoa, faça a escolha aleatória do computador e mostre as duas jogadas e o resultado da rodada. Depois da partida, ofereça `1` para jogar novamente e `0` para sair. Se a resposta não for uma dessas opções, mostre `Opção inválida.` e pergunte novamente.
 
-    # JOKENPÔ #
-    Você: 0 | PC: 0
-    Round: 1 / 5
+## Exemplos de execução
 
-    1 - Pedra
-    2 - Papel
-    3 - Tesoura
-    >> 1
-    Você jogou PEDRA e o PC PAPEL.
-    O PC ganhou!
+A pessoa escolhe papel e o computador escolhe pedra:
 
-    # JOKENPÔ #
-    Você: 0 | PC: 1
-    Round: 2 / 5
+```text
+# JOKENPÔ #
+Você: 0 | PC: 0
+Round: 1
 
-    1 - Pedra
-    2 - Papel
-    3 - Tesoura
-    >> 3
-    Você jogou TESOURA e o PC PAPEL.
-    Você ganhou!
+1 - Pedra
+2 - Papel
+3 - Tesoura
+>> 2
+Você jogou PAPEL e o PC PEDRA.
+Você ganhou!
+```
 
-    # JOKENPÔ #
-    Você: 1 | PC: 1
-    Round: 3 / 5
+Uma partida pode continuar até um dos participantes chegar a três pontos. Ao final:
 
-    1 - Pedra
-    2 - Papel
-    3 - Tesoura
-    >> 2
-    Você jogou PAPEL e o PC PAPEL.
-    Ninguém ganhou!
+```text
+PLACAR FINAL:
+Você: 3 | PC: 1
 
-    # JOKENPÔ #
-    Você 1 | PC: 1
-    Round: 4 / 5
+JOGAR NOVAMENTE?
+1 - Sim
+0 - Sair
+>> 0
+```
 
-    1 - Pedra
-    2 - Papel
-    3 - Tesoura
-    >>
+## Etapas
 
-    .
-    .
-    .
+1. Mostre as opções, leia a jogada da pessoa e repita a leitura até receber uma opção válida.
+2. Sorteie a jogada do computador.
+3. Compare as jogadas, informe o resultado e atualize o placar quando houver vencedor.
+4. Repita as rodadas até alguém alcançar três pontos.
+5. Mostre o placar final e permita iniciar outra partida.
 
-    # JOKENPÔ #
-    Você: 2 | PC: 1
-    Round: 5 / 5
+## Critérios de conclusão
 
-    1 - Pedra
-    2 - Papel
-    3 - Tesoura
-    >> 3
-    Você jogou TESOURA e o PC PAPEL.
-    Você ganhou!
-
-    PLACAR FINAL:
-    Você: 3 | PC: 1
-
-    JOGAR NOVAMENTE?
-    1 - Sim
-    0 - Sair
-
-## Orientações
-
-Você pode fazer o computador gerar números entre 0 e 2 e utilizar esses números como as jogadas.
-
-- 0: pedra
-- 1: papel
-- 2: tesoura
-
-## Jokenpô V2
-
-### Pedra, Papel, Tesoura, Lagarto e Spock
-
-![spock](assets/spock.jpg)
-
-Nesta segunda versão você deverá implementar o modo do jogo mais recente em que duas novas opções foram adicionadas, **Lagarto e Spock**, conforme as regras clássicas e as adicionais:
-
-1. **Tesoura** ganha do **papel**
-2. **Papel** ganha da **pedra**
-3. **Pedra** ganha do **lagarto**
-4. **Lagarto** ganha do **Spock**
-5. **Spock** ganha da **tesoura**
-6. **Tesoura** ganha do **lagarto**
-7. **Lagarto** ganha do **papel**
-8. **Papel** ganha do **Spock**
-9. **Spock** ganha da **pedra**
-10. **Pedra** ganha da **tesoura**
+- Cada uma das três opções pode ser escolhida pela pessoa e pelo computador.
+- As três regras de vitória e o empate são calculados corretamente.
+- Empates não alteram o placar.
+- A partida termina ao chegar a três pontos e o placar é exibido.
+- Entradas inválidas são rejeitadas e solicitadas novamente.
+- A opção de jogar novamente inicia uma partida com o placar zerado.

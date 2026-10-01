@@ -2,28 +2,28 @@
 
 ## Objetivo
 
-Criar um jogo onde **o jogador pensa em um número secreto** e o **computador tenta adivinhar** esse número. A cada palpite, o jogador informa se o número secreto é maior, menor ou igual ao chute feito pelo computador. Se o intervalo ficar impossível, o computador perde!
+O jogador pensa em um número inteiro entre `0` e `100`, sem contar qual é. O computador tenta descobri-lo fazendo perguntas.
 
----
+## Regras
 
-## Regras do jogo
+- O número secreto deve estar entre `1` e `99`.
+- Em cada rodada, o computador escolhe um número inteiro dentro do intervalo aberto `]inferior, superior[`.
+- O jogador responde `=`, `>` ou `<`:
+  - `=` indica que o computador acertou e encerra o jogo com `ganhei`.
+  - `>` indica que o número secreto é maior que o palpite.
+  - `<` indica que o número secreto é menor que o palpite.
+- Qualquer outra resposta é inválida: o computador repete a pergunta para o mesmo palpite, sem alterar o intervalo.
+- Se restar apenas um número possível no intervalo, o computador encerra o jogo com `perdeu`, sem tentar esse número.
 
-1. O jogador pensa em um número entre dois valores (ex: entre 1 e 99), **sem contar ao computador**.
-2. O computador chuta um número dentro do intervalo aberto `]inferior, superior[`.
-3. A cada palpite:
-   - O computador pergunta: "É maior (>), menor (<) ou igual (=)?"
-   - O jogador responde:
-     - `=` → o computador acertou e vence.
-     - `>` → o número secreto é maior → atualiza o limite inferior.
-     - `<` → o número secreto é menor → atualiza o limite superior.
-4. Se o intervalo ficar tão pequeno que não há mais nenhum número possível para chutar, o computador declara derrota.
+## Interação
 
----
+O computador exibe os limites atuais e seu palpite. O jogador informa `=`, `>` ou `<` de acordo com a relação entre o número secreto e o palpite.
 
 ## Exemplos de execução
 
-```txt
+```text
 ]0, 100[ É 53?
+Acertei(=), É maior(>), É menor(<)? talvez
 Acertei(=), É maior(>), É menor(<)? <
 ]0, 53[ É 25?
 Acertei(=), É maior(>), É menor(<)? >
@@ -36,27 +36,25 @@ Acertei(=), É maior(>), É menor(<)? =
 ganhei
 ```
 
-## Como gerar números aleatórios dentro de um intervalo aberto `]inf, sup[`
+## Etapas
 
-### Python
+1. Inicialize os limites inferior e superior como `0` e `100`.
+2. Escolha um palpite inteiro dentro do intervalo aberto.
+3. Leia e valide a resposta do jogador.
+4. Atualize o limite correspondente ou encerre quando o computador acertar ou restar apenas um candidato.
 
-```python
-def rand_interval(inf: int, sup: int) -> int:
-    return random.randint(inf + 1, sup - 1)
-```
+## Critérios de conclusão
 
-### C
+- O palpite sempre está estritamente entre os limites atuais.
+- Uma resposta inválida não altera os limites nem gera um novo palpite.
+- O jogo termina com `ganhei` ao receber `=` ou com `perdeu` quando resta um único candidato.
 
-```c
-int rand_interval(int inf, int sup) {
-    return (rand() % (sup - inf - 1)) + inf + 1;
-}
-```
+## Orientações
 
-### Go
+A função abaixo escolhe um número inteiro dentro do intervalo aberto `]inf, sup[`:
 
 ```go
-func RandInterval(inf, sup int) int {
-    return rand.Intn(sup-inf-1) + inf + 1
+func sortear(inf, sup int) int {
+	return int(time.Now().UnixNano()%int64(sup-inf-1)) + inf + 1
 }
 ```

@@ -2,128 +2,79 @@
 
 ## Objetivo
 
-Criar um jogo onde o computador sorteia um número secreto, e o jogador deve adivinhar esse número através de tentativas sucessivas. A cada tentativa, o programa ajusta os limites possíveis, ajudando o jogador a encontrar a resposta — **mas se o intervalo ficar pequeno demais, o jogador perde**!
+Crie um jogo em que o computador escolhe um número secreto e a pessoa tenta adivinhá-lo. Os limites do intervalo diminuem a cada tentativa incorreta.
 
----
+## Regras
 
-## Regras do jogo
+- O intervalo inicial é aberto: `]0, 100[`. O computador escolhe um número inteiro entre `1` e `99`.
+- O chute deve ser um número inteiro estritamente entre os limites atuais.
+- Se o chute estiver fora do intervalo, mostre `Chute fora do intervalo.` e peça outro sem alterar os limites.
+- Se o chute for igual ao segredo, revele o número e informe que a pessoa venceu.
+- Se o chute for maior que o segredo, ele passa a ser o novo limite superior. Se for menor, passa a ser o novo limite inferior.
+- Depois de um chute incorreto, se restar apenas um inteiro possível dentro do intervalo, a pessoa perde sem receber outro chute. Revele o número secreto.
 
-1. **O computador sorteia um número** entre dois valores (por exemplo, entre 1 e 99).
-2. O jogador deve chutar um número **dentro de um intervalo aberto**, ou seja, **maior que o limite inferior e menor que o limite superior**.
-3. A cada tentativa:
-   - Se o jogador acertar o número, vence o jogo.
-   - Se errar:
-     - Se o chute for **maior** que o número sorteado, o limite superior será atualizado para o valor do chute.
-     - Se o chute for **menor**, o limite inferior será atualizado para o valor do chute.
-4. Se o intervalo entre os limites ficar tão pequeno que **só resta um número possível para tentar**, o jogador perde.
+## Interação
 
----
+A cada tentativa, mostre o intervalo aberto atual neste formato e leia o chute na mesma linha:
 
-## Habilidades que você vai praticar
-
-- ✅ Uso de **variáveis**
-- ✅ **Laços de repetição** (`while`, `for`, etc.)
-- ✅ **Condicionais** (`if`, `else`)
-- ✅ **Entrada e saída de dados**
-- ✅ **Geração de números aleatórios**
-
----
-
-## Passo a passo sugerido
-
-1. **Escolha os limites iniciais do intervalo**, por exemplo, `inferior = 0` e `superior = 100`.
-2. **Sorteie um número secreto** entre os valores internos do intervalo (ex: de 1 a 99).
-3. Inicie um **laço de repetição** que vai continuar até o jogador ganhar ou perder.
-4. A cada repetição:
-   - Mostre o intervalo atual (sem incluir os limites extremos).
-   - Peça ao jogador para digitar um número dentro do intervalo.
-   - Verifique se o número é igual ao número secreto:
-     - Se for, mostre uma mensagem de vitória e pare o jogo.
-   - Caso contrário, ajuste o limite inferior ou superior dependendo se o chute foi menor ou maior que o número sorteado.
-   - Se só restar um número possível dentro do intervalo, mostre uma mensagem de derrota e encerre o jogo.
-
----
-
-## Orientações
-
-- Garanta que o jogador **só possa digitar números dentro do intervalo** aberto.
-- Você pode usar uma **função de aleatoriedade** da sua linguagem para sortear o número.
-- Use `break` (ou equivalente) para encerrar o laço quando o jogo terminar.
-
----
-
-## Extensões (para quem quiser ir além)
-
-- Conte o número de tentativas que o jogador usou.
-- Permita que o jogador jogue novamente ao fim de cada partida.
-- Adicione mensagens personalizadas com dicas ou provocações.
-
-## Gerando números aleatórios
-
-### Python
-
-```python
-import random
-numero_secreto = random.randint(1, 99)  # Gera um número entre 1 e 99
+```text
+Diga um número entre ]0, 100[: 50
 ```
 
-### JavaScript
+Chutes fora do intervalo não alteram o jogo; o programa avisa e solicita outra entrada. Ao terminar, mostre `Era N, você ganhou!` ou `Era N, você perdeu!`, substituindo `N` pelo segredo.
 
-```javascript
-let numero_secreto = Math.floor(Math.random() * 99) + 1; // Gera um número entre 1 e 99
-```
+## Exemplos de execução
 
-### Go
+Neste exemplo, o segredo é `31` e a pessoa vence:
 
-```go
-import (
-    "fmt"
-    "math/rand"
-    "time"
-)
-func main() {
-    rand.Seed(time.Now().UnixNano())
-    numero_secreto := rand.Intn(99) + 1 // Gera um número entre 1 e 99
-    fmt.Println(numero_secreto)
-}
-```
-
-### C
-
-```c
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-int main() {
-    srand(time(0));
-    int numero_secreto = rand() % 99 + 1; // Gera um número entre 1 e 99
-    printf("%d\n", numero_secreto);
-    return 0;
-}
-```
-
-## Exemplos de interação
-
-```txt
-Diga um numero entre ]0, 100[: 50
-Diga um numero entre ]0, 50[: 23
-Diga um numero entre ]23, 50[: 40
-Diga um numero entre ]23, 40[: 28
-Diga um numero entre ]28, 40[: 35
-Diga um numero entre ]28, 35[: 30
-Diga um numero entre ]30, 35[: 33
-Diga um numero entre ]30, 33[: 31
+```text
+Diga um número entre ]0, 100[: 50
+Diga um número entre ]0, 50[: 23
+Diga um número entre ]23, 50[: 40
+Diga um número entre ]23, 40[: 28
+Diga um número entre ]28, 40[: 35
+Diga um número entre ]28, 35[: 30
+Diga um número entre ]30, 35[: 33
+Diga um número entre ]30, 33[: 31
 Era 31, você ganhou!
 ```
 
-```txt
-Diga um numero entre ]0, 100[: 50
-Diga um numero entre ]0, 50[: 23
-Diga um numero entre ]23, 50[: 40
-Diga um numero entre ]23, 40[: 28
-Diga um numero entre ]28, 40[: 35
-Diga um numero entre ]28, 35[: 30
-Diga um numero entre ]30, 35[: 33
-Diga um numero entre ]30, 33[: 31
+Neste exemplo, o segredo é `32`. Depois do chute `31`, resta apenas esse valor possível e a pessoa perde:
+
+```text
+Diga um número entre ]0, 100[: 50
+Diga um número entre ]0, 50[: 23
+Diga um número entre ]23, 50[: 40
+Diga um número entre ]23, 40[: 28
+Diga um número entre ]28, 40[: 35
+Diga um número entre ]28, 35[: 30
+Diga um número entre ]30, 35[: 33
+Diga um número entre ]30, 33[: 31
 Era 32, você perdeu!
+```
+
+## Etapas
+
+1. Inicie os limites em `0` e `100` e escolha um segredo de `1` a `99`.
+2. Mostre os limites e leia um chute.
+3. Rejeite chutes que não estejam estritamente entre os limites atuais.
+4. Compare um chute válido com o segredo e atualize o limite correspondente.
+5. Encerre ao acertar ou quando um erro deixar somente um inteiro possível; revele o segredo.
+
+## Critérios de conclusão
+
+- O segredo está sempre entre `1` e `99`.
+- Um chute fora do intervalo é rejeitado sem alterar os limites.
+- Cada chute válido atualiza o limite correto.
+- O jogo termina com vitória ao acertar ou derrota quando resta apenas um valor possível.
+- A mensagem final revela o segredo e informa o resultado.
+
+## Orientações
+
+A função abaixo escolhe o número secreto no intervalo de `1` a `99`:
+
+```go
+func gerarSecreto() int {
+	return int(time.Now().UnixNano()%99) + 1
+}
 ```

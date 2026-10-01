@@ -263,9 +263,9 @@ Os marcadores das tarefas são:
 
 ## Jogos em modo texto <!-- @games active=0 -->
 
-- [x] `eval=self gain=3 cost=1` [Jokenpô - Melhor de 5](labs/pr_jokenpo/README.md)
-- [x] `eval=self gain=4 cost=1` [Adivinhe o número entre dois limites](labs/pr_chute_a/README.md)
-- [x] `eval=self gain=4 cost=1` [O computador tenta adivinhar seu número](labs/pr_chute_b/README.md)
+- [x] `eval=self gain=3 cost=1` [Jokenpô - Melhor de 5](labs/pr_jokenpo/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=self gain=4 cost=1` [Adivinhe o número entre dois limites](labs/pr_chute_a/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=self gain=4 cost=1` [O computador tenta adivinhar seu número](labs/pr_chute_b/README.md) <!-- REVIEW_DONE -->
 - [ ] `eval=self gain=8 cost=1` [Modelo de jogo interativo no terminal](labs/termgame_1/README.md)
 - [ ] `eval=self gain=4 cost=1` [Blackjack 21](labs/pr_game21/README.md)
 - [ ] `eval=self gain=4 cost=1` [Jogo da Palavra Oculta](labs/pr_forca/README.md)
