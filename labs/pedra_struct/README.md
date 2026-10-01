@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Em uma competição interplanetária de arremesso de pedras na lua, os competidores devem demonstrar precisão e força. Cada participante possui duas pedras:
 
 - A **pedra A** e a **pedra B**.
@@ -18,31 +20,33 @@ Você deve implementar uma struct para guardar o resultado das jogadas e uma fun
 
 ```go
 type Jogada struct {
-  p1, p2 int
+    pedraA, pedraB int
 }
 
-// retorna se a jogada é valida e o pontuação dela
-func calc_pontuacao (jogada Jogada) bool, int {
-  // todo
+// Retorna a pontuação e se a jogada é válida.
+func calcularPontuacao(jogada Jogada) (int, bool) {
+    return 0, false
 }
 
-func procurar_melhor_jogada(jogadas []Jogada) int {
-  //todo
+func melhorJogada(jogadas []Jogada) int {
+    return -1
 }
 ```
+
+## Entrada e saída
 
 ### Entrada
 
 - **1ª linha:** Um número inteiro **'N'** (1 ≤ N ≤ 100), representando o número de competidores.
 - **Próximas 'N' linhas:** Cada linha contém dois números inteiros **A** e **B** (1 ≤ A, B ≤ 100), que indicam a distância das pedras **A** e **B** lançadas por cada competidor.
 
-### Saida
+### Saída
 
 - Imprima o índice **(começando em 0)** do competidor vencedor.
 - Caso todos os competidores sejam desclassificados, imprima **"sem ganhador"**.
 - Caso vários jogadores empatem em primeiro lugar, imprima o que jogou primeiro.
 
-### Restrições
+## Restrições
 
 - Cada competidor arremessa duas pedras, cujas distâncias estão entre **1** e **100 metros**.
 - Todos os competidores que lançarem **qualquer** pedra a **menos de 10 metros** são automaticamente **desclassificados**.

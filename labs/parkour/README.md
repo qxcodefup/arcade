@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Thaiquovisqui da Silva está desenvolvendo um jogo inspirado em Super Mario e Assassin's Creed.
 
 No jogo, Mario se move em um cenário 2D. No entanto, ao invés de pular na cabeça dos inimigos, ele os elimina com uma chave de fenda ou uma chave inglesa, lembrando que ele é um encanador. O problema é que o cenário contém algumas áreas difíceis para Mario se deslocar: blocos altos demais, nos quais ele não consegue subir, e blocos baixos demais, que podem ser perigosos.
@@ -24,7 +26,9 @@ _____#____
 ____###___
 __#####___
 __#######_
+
 ##########
+
 1133464221
 ```
 
@@ -33,7 +37,7 @@ Neste exemplo, Mario precisa realizar 4 movimentos de parkour: do bloco `1` para
 ### Entrada
 
 - linha 1: A Quantidade de elementos **'N'** do vetor (1 a 50).
-- linha 2: Um vetor de N inteiros positivos representando as alturas dos blocos.  
+- linha 2: Um vetor de N inteiros positivos representando as alturas dos blocos.
 
 ### Saída
 

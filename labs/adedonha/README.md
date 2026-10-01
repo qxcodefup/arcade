@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Três irmãos da Califórnia, um distrito da cidade de Quixadá, estavam debaixo do pé de jambo entediados quando iniciam o seguinte diálogo.
 
 ```txt

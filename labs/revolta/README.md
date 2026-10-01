@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Um grupo de portugueses planeja fazer uma revolução armada:
 
 - *"Pois, pois, Manoel, como pretendes tomar de assalto a praça?"*
@@ -26,7 +28,7 @@ Dado um vetor de números inteiros, some as forças dos soldados (números ímpa
 - **"rebeldes"** se a soma dos números pares for maior que a soma dos números ímpares.
 - **"empate"** se ambas as somas forem iguais.
 
-### Restrições
+## Restrições
 
 - O vetor conterá entre 1 e 50 elementos.
 - Os valores dos elementos do vetor estão entre 1 e 50.

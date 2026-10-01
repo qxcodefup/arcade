@@ -2,19 +2,17 @@
 
 ![Imagem Quantos Sobrou](assets/cover.jpg)
 
-Suponha a situação que uma pessoa recebe uma lista com o preço e a quantidade de três produtos que ela deve comprar. Ela recebe uma certa quantia em dinheiro que permita comprar todos os produtos. Ela quer saber o qual será o troco.
+## Contexto
 
-Implemente um programa que receba primeiramente a quantidade que precisa ser comprada dos produtos, depois os preços dos três produtos e por fim a quantia em dinheiro que a pessoa tem para comprar. Você deve imprimir quanto sobrou.
+Uma pessoa tem dinheiro suficiente para comprar três produtos e quer saber quanto sobrará. Calcule o troco a partir das quantidades, dos preços e do dinheiro disponível.
 
 ### Entrada
 
-- Linhas 1, 2, 3: Quantidade dos 3 produtos
-- Linhas 4, 5, 6: Valor dos 3 produtos
-- Linha 7: Quantidade de dinheiro
+As sete linhas contêm, nesta ordem: as quantidades dos três produtos, os preços dos três produtos e a quantia disponível.
 
 ### Saída
 
-- O valor do troco que a pessoa deve receber, com duas casas decimais.
+Imprima o valor que sobrará, com duas casas decimais.
 
 ## Exemplos
 

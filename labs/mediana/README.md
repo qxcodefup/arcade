@@ -2,10 +2,12 @@
 
 ![_](assets/cover.jpg)
 
-O filho tirou 5 notas durante o semestre: 6, 6, 7, 7.1, 7.2  
-\- Meu filho, sua média em português foi 6.7. Você tá de recuperação.  
-\- Mas, mamãe, a culpa é do colégio.  
-\- Como assim, do colégio?  
+## Contexto
+
+O filho tirou 5 notas durante o semestre: 6, 6, 7, 7.1, 7.2
+\- Meu filho, sua média em português foi 6.7. Você tá de recuperação.
+\- Mas, mamãe, a culpa é do colégio.
+\- Como assim, do colégio?
 \- Se eles usassem a mediana ao invés da média eu tinha passado direto!
 
 O cálculo da mediana consiste em descobrir qual o valor intermediário do vetor ORDENADO. No vetor v = {1, 2, 3}, por exemplo, a mediana é 2, pois este é o elemento que está no meio do vetor. Se a quantidade de elementos for par, então a mediana é a media entre os dois elementos centrais.

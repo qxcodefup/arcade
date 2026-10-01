@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 A compreensão do uso de loops infinitos e dos comandos continue e break é fundamental para otimizar a execução de loops em programação. Essa atividade vai te ajudar a exercitar essas habilidades através de uma sequência numérica, excluindo números pares e parando no ponto certo.
 
 Leia dois números inteiros **A** e **B**, onde **A** será sempre menor ou igual a B. Utilize um loop infinito para imprimir todos os números ímpares entre **A** e **B**, excluindo **B** da impressão.

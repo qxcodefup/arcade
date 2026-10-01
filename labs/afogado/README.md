@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 - O sapo começa no fundo de um poço de profundidade P cm.
 - A cada salto ele sobe S centímetros.
 - Enquanto se recupera para o próximo salto, ele escorrega E centímetros.

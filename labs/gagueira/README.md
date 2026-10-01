@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Faça um programa que receba uma frase(max 100 char) e imprima a mesma frase com as palavras repetidas.
 
 ### Entrada
@@ -13,6 +15,5 @@ Faça um programa que receba uma frase(max 100 char) e imprima a mesma frase com
 * A frase com as palavras repetidas.
 
 ## Exemplos
-
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

@@ -1,8 +1,8 @@
 # Transformando números em letras
 
-## Imprimir vetor formatado
-
 ![_](assets/cover.jpg)
+
+## Contexto
 
 Você está jogando um jogo de cartas com seus amigos e, ao olhar para sua mão, percebe que os números das cartas estão codificados. Querendo saber quais cartas realmente possui, você decide converter esses números em letras e ver sua mão de forma clara.
 
@@ -23,7 +23,7 @@ Leia um vetor contendo a mão de cartas de um jogador e mostre as cartas para o 
 
 - Imprima o vetor das cartas formatado entre colchetes `[ ]`, onde cada carta é separada por uma vírgula e um espaço. Substitua os números **1**, **11**, **12** e **13** por **"A"**, **"J"**, **"Q"** e **"K"**, respectivamente.
 
-### Restrições
+## Restrições
 
 - O número de cartas **N** estará entre 0 e 13.
 - Os valores das cartas estarão entre 1 e 13.

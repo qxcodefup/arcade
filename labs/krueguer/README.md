@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Sua tarefa é criar um programa que, dada uma string, encontre e retorne a subsequência com a maior quantidade de vogais consecutivas.
 
 ### Entrada
@@ -9,7 +11,7 @@ Sua tarefa é criar um programa que, dada uma string, encontre e retorne a subse
 - A primeira linha contém um número inteiro **N**, a quantidade de casos de teste.
 - As **N** linhas seguintes contêm uma frase para cada caso de teste.
 
-### Saida
+### Saída
 
 - Para cada caso de teste, retorne uma linha contendo o subtexto com a maior sequência de vogais. Se houver empate no tamanho, retorne a sequência que aparece primeiro no texto.
 
@@ -19,6 +21,5 @@ Sua tarefa é criar um programa que, dada uma string, encontre e retorne a subse
 - A frase de cada caso de teste terá no máximo **50** caracteres e conterá apenas letras minúsculas.
 
 ## Exemplos
-
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

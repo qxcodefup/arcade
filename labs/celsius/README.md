@@ -2,17 +2,17 @@
 
 ![Imagem Conversor Celsius para Fahrenheit](assets/cover.jpg)
 
-Implemente um programa que recebe a temperatura em graus Celsius e converte para Fahrenheit. O valor fornecido será fracionário (double).
+## Contexto
 
-$$T_f = 1.8 \cdot T_c + 32$$
+Converta uma temperatura em graus Celsius para Fahrenheit usando a fórmula `fahrenheit = 1.8 × celsius + 32`.
 
 ### Entrada
 
-- Temperatura em Celsius  
+A entrada contém uma temperatura em graus Celsius.
 
 ### Saída
 
-- O valor correspondente em Fahrenheit, com 6 casas decimais.
+Imprima a temperatura em Fahrenheit com seis casas decimais.
 
 ## Exemplos
 

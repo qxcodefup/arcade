@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Conte quantas vezes o caractere aparece na frase ignorando case.
 
 ### Entrada
@@ -13,6 +15,5 @@ Conte quantas vezes o caractere aparece na frase ignorando case.
 * O número de vezes que a letra aparece na frase.
 
 ## Exemplos
-
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

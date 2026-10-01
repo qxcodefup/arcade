@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Números palíndromos são números que tem a mesma leitura nos dois sentidos.
 
 ```py
@@ -14,7 +16,7 @@ Qual o maior palíndromo formado pelo produto de 2 números de N dígitos. Dado 
 
 2 Inteiros N, M.
 
-### Saida
+### Saída
 
 Os M maiores palíndromos formados pelo produto de dois números cuja quantidade de dígitos é N.
 

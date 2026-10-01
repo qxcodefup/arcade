@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 ### Entrada
 
 - A entrada consiste de cinco valores inteiros (entre 1 e 30), um por linha..

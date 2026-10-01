@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 A professora Ingrid conta que, em suas brincadeiras de criança, uma das suas atividades favoritas era pular amarelinha. Na versão simplificada, a criança joga a pedra em um número e depois tem que ir pulando um número por vez, sem pisar no número onde a pedra caiu, até chegar ao fim da trilha.
 
 Na brincadeira, o primeiro número é o 0 e o último número é o 10, que as crianças chamam de "céu".

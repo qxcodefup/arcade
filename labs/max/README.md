@@ -2,6 +2,8 @@
 
 ![abs](assets/cover.jpg)
 
+## Contexto
+
 Compare dois números inteiros e determine qual deles é o maior.
 
 ### Entrada

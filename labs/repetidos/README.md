@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 ### Entrada
 
 - 1a linha: O número P(Procurado) e N(Tamanho do vetor).

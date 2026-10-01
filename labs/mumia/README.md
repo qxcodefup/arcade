@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Em um projeto escolar, um professor precisa classificar os alunos de acordo com suas idades. A tarefa é determinar se um aluno é uma criança, jovem, adulto, idoso ou uma múmia, com base em regras específicas. O professor gostaria que a implementação fosse feita de forma clara e eficiente. Leia o nome da pessoa e um inteiro que representa a idade de uma pessoa e escreva:
 
 - "crianca" se menor que 12 (não use o ç),
@@ -19,7 +21,7 @@ Em um projeto escolar, um professor precisa classificar os alunos de acordo com 
 
 - Uma frase no formato "`<nome>` eh `<classificação>`"
 
-### Restrição
+### Restrições
 
 Por simplificações, não faça flexão de gênero (idoso, idosa, adulto, adulta), não use acento, nem ç, nem maiúscula.
 

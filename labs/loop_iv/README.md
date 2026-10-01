@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Muitas vezes, ao lidar com problemas que envolvem intervalos numéricos, precisamos percorrer esses intervalos tanto em ordem crescente quanto decrescente. Com essa atividade, você aprenderá a criar loops flexíveis que funcionam em ambas as direções, dependendo dos valores de entrada.
 
 Dado dois números inteiros **A** e **B**, faça um loop que percorra todos os números entre **A** e **B**, incrementando ou decrementando conforme necessário, e imprimindo os números na mesma linha entre colchetes, excluindo **B** da impressão.

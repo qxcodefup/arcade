@@ -2,12 +2,16 @@
 
 ![_](assets/cover.jpg)
 
-Você com certeza já jogou tetris. Ele é o jogo mais vendido do mundo com 170 milhões de unidades. Seja no seu celular ou no mini game de 70 joguinhos em um da vovó, Tetris é imbatível. Você fai simular a queda de um única peça de Tetris. Verifique se a peça não está colidindo com nada e faça-a descer uma posição.
+## Contexto
+
+Você vai simular a queda de uma peça de Tetris. Verifique se ela pode descer uma posição sem colidir com outra peça ou com o limite inferior do display.
+
+## Entrada e saída
 
 ### Entrada
 
 - 1a linha: L C, sendo a quantidade de linhas e colunas do display. L, C tem valores em 1 e 20.
-- linhas seguintes, o conteúdo do display com três caracteres apenas
+- As linhas seguintes contêm o display, formado pelos caracteres abaixo:
   - . representa os espaços vazios
   - o representa a peça que cai
   - \# representam as peças que estão na base

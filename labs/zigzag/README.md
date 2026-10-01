@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Viunei, ao ver seus alunos rolando feeds sem parar enquanto esperavam o ônibus, sugeriu uma solução para melhorar a saúde mental deles. Ele contou que, quando era jovem, jogava um jogo de atenção chamado "zigzag" com seus amigos. Esse jogo estimulava as habilidades cognitivas e ajudava a superar a inatividade.
 
 O jogo funciona de forma simples: em um grupo, os participantes contam números em sequência, mas com algumas regras divertidas para aumentar o desafio.

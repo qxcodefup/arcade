@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Dado dois números inteiros **A** e **B**, some todos os números inteiros pares que estão entre **A** e **B**, inclusive **A** e **B**.
 
 ### Entrada

@@ -2,13 +2,15 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Nas brincadeiras de infância, a professora Ingrid adorava pular amarelinha. Um dia, Paulo Victor apareceu com seu sapato colorido e inventou uma nova regra para a brincadeira: alternar os pés a cada pulo até chegar ao "céu". As crianças seguiram sua regra, onde o desafio não era apenas pular, mas também lembrar qual pé usar.
 
 O jogo consiste em alternar os pés (direito ou esquerdo) a cada número, excluindo o número em que caiu a pedra e indo até o número 10, que é chamado de "céu". O jogador começa com um pé definido (direito ou esquerdo) e alterna até o fim.
 
 Se a pedra cair no 8 e o jogador começar com o pé esquerdo, a sequência será:
 
-```py
+```text
 0e 1d 2e 3d 4e 5d 6e 7d 9e ceu
 ```
 

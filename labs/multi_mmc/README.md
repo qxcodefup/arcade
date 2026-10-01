@@ -1,14 +1,19 @@
 # MMC de vários Números
 
-Faça uma função que receba um vetor e retorne e mmc dos números.
+## Contexto
+
+Implemente uma função `mmc(numbers []int) int` que receba um vetor de inteiros e retorne o MMC dos números.
 
 ### Entrada
 
-* Um número N (N < 50) seguindo de N números inteiros.
+* Linha 1: Um número N (N < 50)
+* Linha 2: N números inteiros.
 
-### Saida
+### Saída
 
 * O mmc dos N numeros.
+
+<!-- REVIEW_NOTE: O primeiro caso de tests.toml indica 30 para os valores 2, 5, 4 e 6, cujo MMC é 60; a saída do caso também contém instruções de mutação. Mantida a implementação conforme o contrato matemático. -->
 
 ## Exemplos
 

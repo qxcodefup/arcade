@@ -2,6 +2,8 @@
 
 ![Imagem eh Positivo](assets/cover.jpg)
 
+## Contexto
+
 Implemente um programa que recebe dois números inteiros e imprime o maior.
 
 ### Entrada

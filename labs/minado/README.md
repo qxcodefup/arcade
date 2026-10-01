@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Robert Donner, em 1989, criou um jogo cujo objetivo seria revelar a localização de minas em um campo sem que nenhuma seja detonada.  
 
 Para isso o tabuleiro é formado de minas, números e espaços vazios.
@@ -28,7 +30,7 @@ Esse é um campo 3x3 que tem duas minas (simbolizadas por \*). Devemos preencher
 
 ![todos](assets/q2.png)  
 
-``` py
+```text
 *2*
 121
 ---
@@ -39,6 +41,8 @@ Mais exemplos no final da página.
 
 Leia uma matriz com **n** linhas e **m** colunas com a posição das minas. Preencha o restante da matriz seguindo as regras citadas.  
 Considere ( 1 <=  **n, m**<= 50).
+
+## Entrada e saída
 
 ### Entrada
 

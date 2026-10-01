@@ -2,12 +2,16 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 - Mamãe me perguntou: Tem certeza que tu não tá escondendo alguma nota baixa?
 - Tudo deu 10 no meu boletim, mãe!
 - Como assim, tudo deu 10?
 - Matemática 3, Português 4, Ciências 2, História 1, Geografia 0, Inglês 0. Somando dá 10!
 
 Sua tarefa é criar um programa que, inspirando-se nessa lógica, receba uma matriz 2x3 de notas inteiras e retorne a soma de todos os seus elementos.
+
+## Entrada e saída
 
 ### Entrada
 
@@ -17,7 +21,7 @@ Sua tarefa é criar um programa que, inspirando-se nessa lógica, receba uma mat
 
 - A soma de todos os valores da matriz.
 
-### Restrições
+## Restrições
 
 - A matriz de entrada será sempre do tamanho 2x3.
 

@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Arnoldo trabalhava nos bastidores do filme "Matança no Sertão de Quixadá". O primo dele tinha que interpretar um cangaceiro gago, mas o pobre coitado não sabia gaguejar. Desesperado, ele pede ajuda:
 
 - Pega minhas falas e escreve já do jeito que eu tenho que falar! Por exemplo, "Volte cá seu cabra safado!" tem que virar "VoVoVolte cá seu cacacabra sasasafado!".
@@ -22,6 +24,5 @@ Sua tarefa é implementar o código para fazer isso. Para cada palavra com mais 
 - A regra de gagueira se aplica a palavras com mais de uma sílaba.
 
 ## Exemplos
-
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

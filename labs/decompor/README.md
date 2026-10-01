@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Transform um número em um vetor de inteiros sem usar strings.
 
 ### Entrada
@@ -10,10 +12,10 @@ Transform um número em um vetor de inteiros sem usar strings.
 
 OBS: Use os operadores de divisão e módulo para obter os números.
 
-### Saida
+### Saída
 
 - O valor decomposto em números(0 à 9).
-  
+
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->

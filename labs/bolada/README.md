@@ -2,6 +2,8 @@
 
 ![Resultado de imagem para haikyuu](assets/cover.jpg)
 
+## Contexto
+
 Haikyuu é um anime muito show de bola sobre vôlei. Se você já tiver terminado todas as questões de seleção do moodle, você pode ir conferir alguns episódios em [LINK](https://www.animesync.tv/v/V3Eo6xG9Wrjv/).
 
 Alan Brado é um treinador muito competente e determinado. Numa certa manhã, ele reuniu todo o time e decidiu fazer um treino de saque para observar seus jogadores e o desempenho neles no jogo. Depois de alguns cálculos, ele percebeu um padrão e então criou uma fórmula para calcular o índice de poder dos saques. A fórmula é dada por:

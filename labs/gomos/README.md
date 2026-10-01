@@ -2,7 +2,11 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Sua tarefa é simular o movimento de uma cobra em um plano 2D. A cobra é composta por vários "gomos" ou segmentos. A cada passo, a cabeça da cobra se move uma unidade na direção especificada (Cima, Baixo, Esquerda, Direita), e cada gomo subsequente ocupa a posição anterior do gomo que estava à sua frente, criando o clássico movimento de rastro.
+
+## Entrada e saída
 
 ### Entrada
 
@@ -13,7 +17,7 @@ Sua tarefa é simular o movimento de uma cobra em um plano 2D. A cobra é compos
 
 - As posições atualizadas de cada gomo após a cobra andar uma posição, com cada posição (x y) em uma nova linha.
 
-### Restrições
+## Restrições
 
 - O eixo **x** aumenta para a direita.
 - O eixo **y** aumenta para baixo.

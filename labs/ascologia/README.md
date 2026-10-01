@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Eribelton Fagundes estava passando na praça quando uma numeróloga lhe disse:
 
 - Se você mudar seu nome para Erivelton Facundo, vai ficar mais bonito, inteligente e rico.
@@ -12,13 +14,12 @@ Receba um nome como entrada e some todos os caracteres. Imprima o resto da soma 
 
 ### Entrada
 
-- Um nome.  
+- Um nome.
 
 ### Saída
 
-- Resto da divisão da soma dos caracteres por 50.  
+- Resto da divisão da soma dos caracteres por 50.
 
 ## Exemplos
-
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

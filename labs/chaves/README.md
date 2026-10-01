@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 - Chaves, se eu tenho 5 bananas e como 5 bananas, com o que eu fico?
 - Prisão de ventre!
 - Não Chaves, suponha que eu tenha 5 mamões e como os 5, com o que eu fico?
@@ -21,7 +23,7 @@ O Chaves não sabe diferenciar positivo, negativo e nulo, mas você sabe! Eu esp
 
 - Imprima "positivo", "nulo" ou "negativo" de acordo com o valor lido.
 
-### Exemplos
+## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

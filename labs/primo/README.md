@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Dado um número inteiro, faça uma função que verifique se ele é primo.  
 
 ### Estratégias
@@ -12,7 +14,7 @@ Dado um número inteiro, faça uma função que verifique se ele é primo.
 
 - Um número inteiro **N**.
 
-### Saida
+### Saída
 
 - O número **1** se **N** for primo e **0** caso contrário.
 

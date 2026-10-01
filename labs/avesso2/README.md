@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 A brincadeira do avesso funciona assim.
 
 Tem um chefe e os operários. Os operários ficam em fila. O chefe diz o nome de um operário e os dois operários que estavam perto dele tem que trocar de posição. Se estavam em pé, ficam agachados.

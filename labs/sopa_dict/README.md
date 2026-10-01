@@ -1,56 +1,43 @@
 # Sopa de coelho
 
-![_](assets/cover.jpg)
+![Sopa de coelho](assets/cover.jpg)
 
-Zé da Carroça comprou um casal de coelhos. Ele gosta muito de sopa de coelho. Muito mesmo. Só tem uma coisa maior em Zé da Carroça do que a vontade de tomar sopa de coelho. É o sonho de ser um Cuniculturista vendendo carne de coelho para todo sertão central. Ele ainda está decidindo se come o casal de coelhos na sopa de hoje ou espera até que eles procriem o suficiente pra que Marivaldo fique rico.
+## Contexto
 
-Estudando um pouco ele descobriu uma regra interessante criado por Leonardo de Pisa no ano de 1200.
+Zé da Carroça comprou um casal de coelhos. Ele gosta muito de sopa de coelho, mas também sonha em vender carne de coelho por todo o sertão central. Por isso, está decidindo se prepara a sopa agora ou espera que os coelhos se reproduzam.
 
-- 1\. No primeiro mês nasce somente um casal;
-- 2\. Casais amadurecem sexualmente após o segundo mês de vida;
-- 3\. Não há problemas genéticos no cruzamento consanguíneo;
-- 4\. Todos os meses, cada casal dá à luz a um novo casal;
+A quantidade de casais segue estas regras:
 
-![Sopa](assets/sopa.jpg)
+- No primeiro mês nasce um casal.
+- Cada casal pode se reproduzir a partir do segundo mês de vida.
+- Não há problemas genéticos no cruzamento consanguíneo.
+- A partir daí, cada casal dá à luz a um novo casal por mês.
 
-Por incrível que pareça, essas regras geram a seguinte sucessão de números: 1, 1, 2, 3, 5, 8, 13, ...
+Essas regras geram a sequência `1, 1, 2, 3, 5, 8, 13, ...`, conhecida como sequência de Fibonacci. Dado `N`, imprima o `N`-ésimo termo. Você pode consultar [mais informações sobre a sequência de Fibonacci](https://brasilescola.uol.com.br/matematica/sequencia-fibonacci.htm).
 
-Leonardo de Pisa também é conhecido como Fibonacci. Se quiser entender melhor como se chega na sequência veja : https://brasilescola.uol.com.br/matematica/sequencia-fibonacci.htm
-
-Dado o número N, imprima o enésimo termo da série.
-
-### Estratégias
-
-- Com recursão:
-  - Implemente recursivo fazendo que o elemento fib(n) seja a soma de fib(n-1) + fib(n-2)
-- Com recursão e dicionários:
-  - Crie um dicionário para guardar os valores já calculados e evitar recalcular.
-
-```go
-func fib(n value, cache dict[int]int) {
-    se valor ja estiver no cache, pegue-o e retorne
-    se for n == 0 ou n == 1, retorne o valor padrão
-    calcule o valor usando recursao
-    guarde o valor no cache
-    retorne o valor
-}
-
-```
+![Sopa de coelho](assets/sopa.jpg)
 
 ### Entrada
 
-- Um número inteiro **N** por linha.
+- Um número inteiro `N`.
 
 ### Saída
 
-- O enésimo termo da série de Fibonacci.
+- O `N`-ésimo termo da sequência de Fibonacci.
 
 ### Restrições
 
-- **0 ≤ N ≤ 50**
-- **Sugestão:** O resultado pode não caber em um `int` padrão. Se estiver programando em **C**, use `long long int`.
+- `0 ≤ N ≤ 50`
 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->
+
+## Orientações
+
+Implemente a recorrência `fib(n) = fib(n-1) + fib(n-2)` e guarde no mapa os termos já calculados para evitar repetições. Uma assinatura Go possível é:
+
+```go
+func fib(n int, cache map[int]int64) int64
+```

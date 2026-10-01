@@ -2,12 +2,14 @@
 
 ![_](assets/cover.jpg)
 
-O dono do zoologico quer a lista de todas as espécies de animais  que existem no zoologico. Para isso ele te deu uma lista de todos os animais. Ele quer que você faça um programa que retorne uma nova lista contendo apenas um animal de cada especie. Considere que um número representa uma especie. Devolva um novo vetor, sem números repetidos e ordenado.
+## Contexto
 
-### Estratégia
+O dono do zoológico quer a lista de todas as espécies que existem no zoológico. Para isso, ele forneceu uma lista de animais e pediu uma nova lista com apenas um exemplar de cada espécie. Cada espécie é representada por um número. A lista final deve estar ordenada e não pode conter números repetidos.
+
+## Orientações
 
 ```txt
-unicos = crie um dict ou set para representar os animais únicos
+unicos = crie um mapa para representar as espécies únicas
 para cada animal lido:
     se o animal não estiver em unicos
         adicione o animal em unicos
@@ -16,16 +18,18 @@ ordene o vetor
 imprima o resultado
 ```
 
+## Entrada e saída
+
 ### Entrada
 
-- linha 1: Um número inteiro **'N"** com a quantidade de elementos do vetor.
-- linha 2: O vetor de N inteiros representando as espécies dos animais.
+- Linha 1: um inteiro `N`, a quantidade de animais.
+- Linha 2: `N` inteiros representando as espécies.
 
 ### Saída
 
 - O novo vetor ordenado contendo um exemplar de cada elemento.
 
-### Restrições
+## Restrições
 
 - Não utilize funções de ordenação prontas.
 

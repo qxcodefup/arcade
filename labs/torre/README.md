@@ -2,7 +2,9 @@
 
 ![_](assets/cover.jpg)
 
-Dada uma matriz quadrada M de números naturais, o índice i de uma certa linha e o índice j de uma certa coluna, vamos definir o peso do cruzamento da linha i com a coluna j, como sendo a soma de todos os elementos que estejam na linha i ou na coluna j, mas não nas duas. Quer dizer, excluindo o elemento que está exatamente no cruzamento! Neste problema, você deve descobrir qual é o peso mínimo entre todos os possíveis cruzamentos da matriz!
+## Contexto
+
+O peso de um cruzamento entre uma linha e uma coluna é a soma dos elementos dessa linha e dessa coluna, sem contar duas vezes o elemento do cruzamento. Neste problema, você deve encontrar o maior peso entre todos os cruzamentos.
 
 No jogo de xadrez, a torre é uma peça que pode se mover para qualquer outra posição do tabuleiro na linha ou na coluna da posição que ela ocupa. O professor Paulo está tentando inventar um novo tipo de jogo de xadrez onde todas as peças são torres, o tabuleiro também é quadrado mas pode ter qualquer dimensão e cada posição do tabuleiro é anotada com um número inteiro positivo, como na figura abaixo.
 
@@ -11,6 +13,8 @@ Ele definiu o peso de uma posição (i,j) como sendo a soma de todos os números
 O professor Paulo está solicitando a sua ajuda para implementar um programa que determine qual é o peso máximo entre todas as posições do tabuleiro.
 
 No exemplo da figura acima, com um tabuleiro de dimensão seis (ou seja, seis linhas por seis colunas), o peso máximo é 67, referente à posição (4,4).
+
+## Entrada e saída
 
 ### Entrada
 
@@ -22,12 +26,12 @@ No exemplo da figura acima, com um tabuleiro de dimensão seis (ou seja, seis li
 
 - Seu programa deve produzir uma única linha, contendo um único inteiro, o peso máximo entre todas as posições do tabuleiro.
 
-### Restrições
+## Restrições
 
 - 3 ≤ N ≤ 1000
 - 0 < X\_i ≤ 100
 
-### Informações sobre a pontuação
+## Informações sobre a pontuação
 
 - Em um conjunto de casos de teste cuja soma é 60 pontos, N ≤ 300.
 

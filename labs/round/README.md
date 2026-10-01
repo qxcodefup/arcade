@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Um aluno ficou implorando para o seu professor de FUP arredondar seu 6.9999999999 para 10 porque ele precisa de um 10 para passar de semestre. Seu trabalho é utilizar as funções ceil, floor e round que existem na sua linguagem de programação.
 
 implemente três funções:
@@ -19,7 +21,7 @@ Na função principal (main), leia um caractere que representa a operação (r, 
 - Um caractere (r, f ou c) representando a operação.
 - Um número float
 
-### Saida
+### Saída
 
 - imprima um inteiro de acordo com a operação pedida.  
 

@@ -2,11 +2,13 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Um jogo de concentração muito antigo consiste em fazer contagem simultânea entre dois números. O primeiro número cresce, enquanto o segundo número diminui, até que ambos troquem de posição.
 
 Por exemplo, se os números iniciais forem 1 e 10, a sequência seria:
 
-```py
+```text
 1 10 2 9 3 8 4 7 5 6 6 5 7 4 8 3 9 2 10 1
 ```
 

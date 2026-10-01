@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 [Explicação](https://youtu.be/1zT-Y0Zb1K0)
 
 Joãozinho passou o dia visualizando os seus contatos no celular. Logo ele decidiu fazer um programa que calcula a quantidade de vezes que um determinado dígito aparece em um número de contato.

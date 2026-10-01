@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Imagine que você tem uma pilha de sapatos e deseja separá-los em pares, mas também quer garantir que esses pares sejam especiais: só aqueles divisíveis por 2 e por 3. Vamos resolver isso somando todos os números que atendem a esses critérios entre dois valores dados.
 
 Dado dois números inteiros **A** e **B**, some todos os números que são divisíveis por **2** e por **3** entre **A** e **B**, inclusive **A** e **B**.

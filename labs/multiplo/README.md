@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Implemente um programa que recebe um número inteiro e imprime "SIM" caso ele seja múltiplo de 7, e "NAO" caso contrário.
 
 ### Entrada

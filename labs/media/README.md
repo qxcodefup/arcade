@@ -2,15 +2,17 @@
 
 ![Imagem Média de Dois Inteiros](assets/cover.jpg)
 
-Escreva um programa que recebe dois números inteiros e retorna a média aritmética deles.
+## Contexto
+
+Leia dois números inteiros e calcule a média aritmética entre eles.
 
 ### Entrada
 
-- A entrada consiste em duas linhas. Cada linha contém um número inteiro.
+A entrada contém dois números inteiros, um por linha.
 
 ### Saída
 
-- A saída deve conter a média aritmética dos dois números com uma casa decimal.
+Imprima a média aritmética com uma casa decimal.
 
 ## Exemplos
 

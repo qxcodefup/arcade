@@ -2,11 +2,12 @@
 
 ![_](assets/cover.jpg)
 
-Sabia que o seu nome e o meu são um anagrama? Disse Rocicleia para Locioreca.  
+## Contexto
+
+Sabia que o seu nome e o meu são um anagrama? Disse Rocicleia para Locioreca.
 Licioroca não sabia português, mas sabia programar. Ajude Locioroca a fazer um  código que informa se duas palavras são anagramas.
 
 Uma palavra é anagrama de outra se é formada pelas mesmas letras nas mesmas QUANTIDADES, mas em qualquer ordem.
-
 
 Dadas duas palavras, imprima sim se elas são anagramas e não se não são anagramas.
 
@@ -19,6 +20,5 @@ Dadas duas palavras, imprima sim se elas são anagramas e não se não são anag
 * A saída deve ser apenas "sim" ou "nao".
 
 ## Exemplos
-
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

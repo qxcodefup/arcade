@@ -3,7 +3,7 @@ input = '''
 a porta amassou
 '''
 output = '''
-a portamassou
+a portaamassou
 '''
 
 [[tests]]
@@ -11,7 +11,7 @@ input = '''
 carla almeida alencar
 '''
 output = '''
-carlalmeidalencar
+carlaalmeidaalencar
 '''
 
 [[tests]]
@@ -19,7 +19,7 @@ input = '''
 a carla a ama
 '''
 output = '''
-a carlama
+a carlaaama
 '''
 
 [[tests]]
@@ -27,5 +27,13 @@ input = '''
 o orvalho ouviu uniformemente e eu uivei
 '''
 output = '''
-orvalhouviuniformementeuivei
+oorvalhoouviuuniformementeeeuuivei
+'''
+
+[[tests]]
+input = '''
+cafe aroma
+'''
+output = '''
+cafearoma
 '''

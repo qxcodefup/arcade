@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 No quartel, os soldados formaram uma fila representada por um vetor de inteiros. Nesta fila:
 
 - `1` representa um médico.

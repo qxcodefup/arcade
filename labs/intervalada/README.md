@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Dado uma lista de número e um intervalo, calcule quantas vezes um número cai dentro do intervalo fechado. Em um intervalo fechado, os valores inferior e superior também fazem parte do intervalo.
 
 ### Entrada
@@ -13,7 +15,7 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 
 * Números inteiros que estão dentro do intervalo, incluindo os limites.
 
-### Exemplos
+## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

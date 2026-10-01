@@ -1,30 +1,36 @@
 # Número palíndromo
 
-![_](assets/cover.jpg)
+![Capa da atividade sobre números palíndromos](assets/cover.jpg)
 
-A bordo da Enterprise, Spok recebeu a missão de explorar novos planetas. Cada planeta tem um identificador (ID) único. Como o combustível da nave está acabando, Spok decidiu explorar apenas os planetas que possuem um ID palíndromo.
+## Contexto
 
-Sua tarefa é criar uma função que recebe um inteiro referente ao ID de um planeta e retorna 1 (true) se o ID for palíndromo e 0 (false) caso contrário.
+A bordo da Enterprise, Spok recebeu a missão de explorar novos planetas. Cada planeta tem um identificador (`ID`) único. Como o combustível da nave está acabando, ele decidiu explorar apenas os planetas cujo identificador é palíndromo.
 
-### Estratégias
-
-- Crie uma função recursiva que recebe o número e retorna ele invertido
-
-**Dica:** Vá consumindo o número utilizando operadores de módulo e divisão por 10 enquanto monta o número invertido.
+Determine se o `ID` recebido é palíndromo.
 
 ### Entrada
 
-- Um número inteiro que indica o ID.
+- Um número inteiro que indica o `ID` do planeta.
 
 ### Saída
 
-- O número 1 se o ID for palíndromo e 0 caso contrário.
+- Imprima `1` se o `ID` for palíndromo e `0` caso contrário.
 
 ### Restrições
 
-- O ID do planeta será um número inteiro positivo que cabe em uma variável do tipo `int`.
+- O `ID` do planeta é um número inteiro não negativo que cabe em uma variável do tipo `int`.
 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->
+
+## Orientações
+
+Crie uma função recursiva que inverta os dígitos do número usando divisão e resto por `10`. Compare o resultado com o `ID` original. Uma assinatura Go possível é:
+
+```go
+func inverter(numero, invertido int) int
+```
+
+<!-- REVIEW_NOTE: A restrição descreve apenas IDs positivos, mas os testes incluem o valor 0 e esperam que ele seja aceito como palíndromo. Confirmar se a restrição deve incluir zero ou se o caso de teste precisa ser corrigido antes de marcar a atividade como revisada. -->

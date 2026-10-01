@@ -2,9 +2,13 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Sua tarefa é ler os dados de um grupo de pessoas e informar o nome da mulher mais idosa. Primeiro, você deve ler todas as informações e armazená-las em um vetor de `structs`. Cada pessoa será representada por seu nome, idade e sexo.
 
 Depois de armazenar os dados, processe o vetor para encontrar a mulher com a maior idade.
+
+## Entrada e saída
 
 ### Entrada
 
@@ -16,7 +20,7 @@ Depois de armazenar os dados, processe o vetor para encontrar a mulher com a mai
 - O nome da mulher mais idosa do grupo.
 - Caso não haja mulheres no grupo, imprima **"nao ha mulher"**.
 
-### Restrições
+## Restrições
 
 - O nome não terá espaços e terá no máximo 20 caracteres.
 

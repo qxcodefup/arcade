@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Você já jogou zerim ou um? Aposto que sim! Que tal implementar um código que lê os dedos e informa quem ganhou o jogo? Receba três valores correspondentes dos jogadores e em seguida imprima quem foi o vencedor ou se ouve empate segundo as regras do zerim ou um.
 
 ### Entrada

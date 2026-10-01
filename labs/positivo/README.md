@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Implemente um programa que recebe um número inteiro e imprime "SIM" se o número for maior ou igual a zero. Caso contrário, o programa apenas imprimirá NAO.
 
 ### Entrada

@@ -2,32 +2,24 @@
 
 ![_](assets/cover.jpg)
 
-Um amigo lhe deu a velocidade média do carro dele em km/h, o tempo da viagem em minutos e o consumo de combustível em litros. Sua tarefa é criar um programa que calcule o desempenho do motor em km por litro.
+## Contexto
 
-Para isso, siga os seguintes passos:
-
-- Converta o tempo de minutos para horas (tempo em horas = tempo em minutos / 60).
-- Calcule a distância percorrida (distância = velocidade * tempo em horas).
-- Calcule o desempenho final (desempenho = distância / consumo).
+Calcule o consumo médio de um carro em quilômetros por litro. Use a velocidade média e o tempo da viagem para obter a distância percorrida.
 
 ### Entrada
 
-- Três números, um por linha:
-  - Velocidade média em km/h.
-  - Tempo da viagem em minutos.
-  - Consumo de combustível em litros.
+A entrada contém três números, um por linha: velocidade média em km/h, duração da viagem em minutos e combustível consumido em litros.
 
 ### Saída
 
-- O desempenho do motor em km/l, com duas casas decimais.
+Imprima o desempenho em km/l com duas casas decimais.
 
 ### Restrições
 
-- Os valores de entrada (velocidade, tempo, consumo) serão números positivos.
-- O consumo será sempre maior que zero.
+- A velocidade, o tempo e o consumo são positivos.
+- O consumo é maior que zero.
 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->
-

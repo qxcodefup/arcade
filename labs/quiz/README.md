@@ -2,6 +2,7 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
 
 Um site sobre a série Harry Potter pediu para você criar um programa para medir o conhecimento de um visitante sobre a série e assim determinar o quão fã o visitante é.
 
@@ -57,7 +58,7 @@ Número de acertos | Saída do programa
 
 ---
 
-### Exemplos
+## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

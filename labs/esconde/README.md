@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Quando Diana jogava esconde-esconde, ela achava que o Paulo Victor contava rápido demais. Para resolver o problema, Diana inventou uma regra: Paulo deveria contar até o número combinado dizendo apenas os números ímpares na ida, e depois contar de volta dizendo apenas os números pares.
 
 Para garantir que a contagem fosse feita corretamente, Ingrid ficava de vigia, e Paulo só poderia sair após terminar a contagem.
@@ -16,7 +18,7 @@ Dado um número N ímpar, a tarefa é imprimir a sequência de números ímpares
 
 - A sequência dos números ímpares de 1 até **N**, seguidos pelos números pares de **N** até 0, cada número em uma nova linha.
 
-### Restrição
+### Restrições
 
 - O número **N** será sempre um número ímpar.
 

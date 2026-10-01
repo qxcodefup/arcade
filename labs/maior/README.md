@@ -2,6 +2,8 @@
 
 ![Silvio Santos](assets/cover.jpg)
 
+## Contexto
+
 - Pedro e João foram no Silvio Santos. Esse problema é diferente da versão V1 do Mercantil.
 - Nesse, cada produto tem um valor real que nenhum dos competidores conhece.
 - O jogo funciona assim:
@@ -18,7 +20,7 @@ O objetivo do seu programa é informar quem ganhou a disputa. Você receberá o 
 - linha 2: a escolha do Segundo Jogador(m para menor e M para maior)
 - linha 3: o valor real do produto(0.01 até 1000.0)
 
-### Saida
+### Saída
 
 - imprima quem foi o vencedor: "primeiro" ou "segundo"
 

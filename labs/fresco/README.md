@@ -2,9 +2,9 @@
 
 ![_](assets/cover.jpg)
 
-Você já percebeu que, na fala, quando o final de uma palavra termina com uma vogal e a próxima palavra começa com outra, nós tendemos a juntar os sons? Esse fenômeno tem um nome elegante em francês: *liaison*.
+Você já percebeu que, na fala, às vezes juntamos palavras quando uma termina em vogal e a seguinte começa em vogal? Esse fenômeno tem um nome elegante em francês: *liaison*.
 
-Sua tarefa é criar um programa que simule esse efeito. Dado um texto, você deve juntar palavras consecutivas se a primeira terminar com uma vogal e a segunda começar com uma vogal. Uma regra especial se aplica: se a junção resultar em três ou mais vogais seguidas, elas devem ser todas unificadas. Por exemplo, "amo o orvalho" se torna "amorvalho".
+Sua tarefa é criar um programa que simule esse efeito. Remova o espaço entre duas palavras quando a primeira terminar com uma vogal e a seguinte começar com uma vogal. Preserve todas as letras, mesmo quando vogais iguais ficarem lado a lado. Por exemplo, "amo o orvalho" se torna "amooorvalho".
 
 ### Entrada
 
@@ -18,7 +18,7 @@ Sua tarefa é criar um programa que simule esse efeito. Dado um texto, você dev
 
 - O texto conterá apenas letras minúsculas e espaços.
 - Haverá apenas um espaço entre as palavras, sem espaços no início ou no fim da frase.
-- Se a junção de palavras criar uma sequência de 3 ou mais vogais, todas devem ser unidas.
+- As vogais não são removidas nem alteradas durante a junção.
 
 ## Exemplos
 

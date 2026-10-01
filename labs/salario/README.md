@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 No mês de março, todos os funcionários da empresa recebem um aumento salarial, com percentuais maiores para quem ganha menos, para promover a equidade. O percentual de aumento depende da faixa salarial do funcionário, conforme as regras abaixo:
 
 - Funcionários que ganham até **1000,00 reais** recebem **20%** de aumento.

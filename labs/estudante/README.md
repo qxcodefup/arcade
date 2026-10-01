@@ -2,11 +2,15 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 *Cuidado: Baseado em fatos reais!*
 
 Alex Sandro foi até a sala do professor de informática pedir uma questão para usar como motivação do curso de informática para os alunos do ensino médio.
 
 A questão é a seguinte: dado o nome completo de vários alunos e as 3 notas que cada um tirou no curso, sua tarefa é criar um programa que imprima uma lista dos alunos, ordenados da maior para a menor média.
+
+## Entrada e saída
 
 ### Entrada
 
@@ -19,7 +23,7 @@ A questão é a seguinte: dado o nome completo de vários alunos e as 3 notas qu
 
 - A lista dos alunos ordenada pela média em ordem decrescente. Para cada aluno, imprima seu índice na lista, nome, média e as três notas formatadas com duas casas decimais.
 
-### Restrições
+## Restrições
 
 - As notas serão números de ponto flutuante.
 - O nome do aluno pode conter espaços.

@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Seu chefe está ao telefone, nervoso. Ele quer que você compute a soma de uma sequência de números que ele vai falar para você ao telefone, para saber o total das vendas em sua mais recente viagem de negócios.
 
 Infelizmente, de vez em quando seu chefe fala números errados para você ao telefone. Felizmente, seu chefe rapidamente percebe que falou um número errado e diz “zero", que como combinado previamente quer dizer ignore o último número corrente.
@@ -16,11 +18,11 @@ Para não deixar seu chefe ainda mais nervoso, escreva um programa que determine
 
 A primeira linha da entrada contém um inteiro N , a quantidade de números inteiros (incluindo os “zeros") que o seu chefe falou ao telefone. Cada uma das N linhas seguintes contém um número inteiro Xi .
 
-### Saida
+### Saída
 
 Seu programa deve produzir uma única linha na saída, contendo um único inteiro, a soma correta dos números, levando em conta que o valor 0 significa erro, conforme descrito.
 
-### Restrições
+## Restrições
 
 - 1 ≤ N ≤ 100 000
 - 0 ≤ Xi ≤ 100, para (1 ≤ i ≤ N )

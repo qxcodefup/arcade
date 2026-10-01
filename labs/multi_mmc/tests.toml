@@ -1,20 +1,23 @@
 [[tests]]
 input = '''
-4 2 5 4 6
+4
+2 5 4 6
 '''
 output = '''
 30
 <<<<<<<< FINISH<
 
 >>>>>>>> INSERT
-3 5 2 4
+3
+5 2 4
 ======== EXPECT
 20
 '''
 
 [[tests]]
 input = '''
-4 4 8 10 15
+4
+4 8 10 15
 '''
 output = '''
 120
@@ -22,7 +25,8 @@ output = '''
 
 [[tests]]
 input = '''
-3 5 2 4
+3
+5 2 4
 '''
 output = '''
 20

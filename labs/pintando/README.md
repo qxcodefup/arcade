@@ -2,19 +2,19 @@
 
 ![_](assets/cover.jpg)
 
-Fernando comprou uma casa triangular. Ao tentar calcular a quantidade de tinta necessária para pintar as paredes, ele percebeu que precisava saber como calcular a área de um triângulo. Felizmente, ele encontrou a Fórmula de Heron, que permite calcular a área de um triângulo a partir do tamanho de seus lados.
+## Contexto
 
-Implemente um programa que, dado o tamanho dos três lados de um triângulo, calcule a área utilizando a Fórmula de Heron:
+Fernando quer calcular a área de uma parede triangular para estimar a quantidade de tinta. Calcule a área do triângulo a partir dos comprimentos dos três lados, usando a Fórmula de Heron.
 
-![formula](assets/heron.jpg)​
+![Fórmula de Heron](assets/heron.jpg)
 
 ### Entrada
 
-- Três números em ponto flutuante representando os lados do triângulo, um por linha.
+A entrada contém os comprimentos dos três lados do triângulo, um número por linha.
 
 ### Saída
 
-- A área do triângulo com duas casas decimais.
+Imprima a área do triângulo com duas casas decimais.
 
 ## Exemplos
 

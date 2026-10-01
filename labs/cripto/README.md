@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Yara quer desvendar um enigma, diga-se de passagem é bem enigmático!!!
 
 O enigma consiste em um conjunto de caracteres aparentemente sem sentido, esse enigma so passa a fazer sentindo quando processado com uma 'Key' composto por um número inteiro.
@@ -11,14 +13,14 @@ enigma e cada digito da 'key', se a quantidade de dígitos da 'key' for menor qu
 
 ## Exemplos
 
-```py
+```text
 Enigma = nnb!ovofl
 Key = 123
 ```
 
 Ao processar cada caractere do enigma acima com a 'key', temos:
 
-```py
+```text
 n n b ! o v o f l
 1 2 3 1 2 3 1 2 3
 
@@ -27,7 +29,7 @@ o l a   m u n d o
 
 Perceba que na prática os caracteres serão convertidos para o seu código decimal ASCII.
 
-```py
+```text
 'n' = 110 = 1101110
  1  =  1  = 0000001
             1101111 = 111 = 'o'
@@ -35,10 +37,9 @@ Perceba que na prática os caracteres serão convertidos para o seu código deci
 
 Ufaaa! Em fim... Ajude Yara nessa missao :)
 
-
 Yara irá procurar a chave pra você.
 
-Então dada a chave(KEY) e o enigma(E) de Yara retornar o enigma revelado.  
+Então dada a chave(KEY) e o enigma(E) de Yara retornar o enigma revelado.
 
 ### Entrada
 
@@ -57,6 +58,5 @@ O enigma revelado.
 1 < KEY <= 2147483647.
 
 ## Exemplos
-
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

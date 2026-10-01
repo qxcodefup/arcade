@@ -2,8 +2,9 @@
 
 ![_](assets/cover.jpg)
 
-Ao terminar uma prova de matemática, Marcelo e João estavam na dúvida se teriam acertado as questões que perguntavam se um número era divisível por outro. Ao chegar em casa, Marcelo ainda estava com essa duvida, pediu para o seu irmão mais velho, você, ajudá-lo fazendo um programa que diz se um número é divisível por outro.
+## Contexto
 
+Ao terminar uma prova de matemática, Marcelo e João estavam na dúvida se teriam acertado as questões que perguntavam se um número era divisível por outro. Ao chegar em casa, Marcelo ainda estava com essa duvida, pediu para o seu irmão mais velho, você, ajudá-lo fazendo um programa que diz se um número é divisível por outro.
 
 Leia dois inteiros e diga se ambos são divisíveis por 3 ou se ambos são divisíveis por 5.
 

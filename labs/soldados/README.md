@@ -2,9 +2,13 @@
 
 ![_](assets/cover.jpg)
 
-Os soldados se posicionaram em formação no quartel, formando uma matriz. Cada soldado tem uma numeração única em sua farda. O Comandante, querendo testar sua atenção, deu a seguinte ordem: você deve contar quantas vezes um soldado com numeração menor está posicionado atrás (em uma linha abaixo) de um soldado com numeração maior, dentro da mesma coluna.
+## Contexto
+
+Os soldados se posicionaram em formação no quartel, formando uma matriz. Cada soldado tem uma numeração única em sua farda. O Comandante, querendo testar sua atenção, deu a seguinte ordem: conte quantas vezes um soldado tem numeração menor que o soldado imediatamente acima dele na mesma coluna.
 
 Sua tarefa é criar um programa que, dada a matriz da formação, conte o número total dessas ocorrências, analisando cada coluna verticalmente.
+
+## Entrada e saída
 
 ### Entrada
 
@@ -15,7 +19,7 @@ Sua tarefa é criar um programa que, dada a matriz da formação, conte o númer
 
 - Um número inteiro que representa a quantidade total de vezes que um soldado com número menor foi encontrado atrás de um soldado com número maior na mesma coluna.
 
-### Restrições
+## Restrições
 
 - A verificação deve ser feita apenas verticalmente (dentro de cada coluna).
 

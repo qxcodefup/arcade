@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Implemente um programa que receba três valores e informe quantos deles são iguais.
 
 ### Entrada

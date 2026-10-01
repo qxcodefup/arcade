@@ -2,7 +2,7 @@
 
 ![_](assets/cover.jpg)
 
-## Contecto
+## Contexto
 
 Essa atividade ajuda a entender o uso de loops e a manipulação de intervalos em programação. Você aprenderá a imprimir resultados formatados de forma legível.
 

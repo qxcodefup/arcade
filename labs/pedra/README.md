@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Em uma competição interplanetária de arremesso de pedras na lua, os competidores devem demonstrar precisão e força. Cada participante possui duas pedras:
 
 - A **pedra A** e a **pedra B**.
@@ -19,12 +21,12 @@ Você deve escrever um programa que identifique o competidor vencedor.
 - **1ª linha:** Um número inteiro **'N'** (1 ≤ N ≤ 100), representando o número de competidores.
 - **Próximas 'N' linhas:** Cada linha contém dois números inteiros **A** e **B** (1 ≤ A, B ≤ 100), que indicam a distância das pedras **A** e **B** lançadas por cada competidor.
 
-### Saida
+### Saída
 
 - Imprima o índice **(começando em 0)** do competidor vencedor.
 - Caso todos os competidores sejam desclassificados, imprima **"sem ganhador"**.
 
-### Restrições
+## Restrições
 
 - Cada competidor arremessa duas pedras, cujas distâncias estão entre **1** e **100 metros**.
 - Todos os competidores que lançarem **qualquer** pedra a **menos de 10 metros** são automaticamente **desclassificados**.

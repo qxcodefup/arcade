@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 O dono do zoologico quer a lista de todas as espécies de animais  que existem no zoologico. Para isso ele te deu uma lista de todos os animais. Ele quer que você faça um programa que retorne uma nova lista contendo apenas um animal de cada especie. Considere que um número representa uma especie. Devolva um novo vetor, sem números repetidos e ordenado.
 
 ### Estratégia
@@ -24,7 +26,7 @@ imprima o resultado
 
 - O novo vetor ordenado contendo um exemplar de cada elemento.
 
-### Restrições
+## Restrições
 
 - Não utilize funções de ordenação prontas.
 

@@ -235,3 +235,14 @@ aa 100
 output = '''
 aa
 '''
+
+[[tests]]
+input = '''
+3
+zeta 0
+beta 0
+alfa 0
+'''
+output = '''
+alfa
+'''

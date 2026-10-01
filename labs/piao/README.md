@@ -4,6 +4,8 @@
 
 ![_](assets/jogo.png)
 
+## Contexto
+
 No jogo de pião lá de Ocara funciona assim:
 
 - N jogadores se reúnem cada um com seu pião.

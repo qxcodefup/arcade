@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Depois de muitos Spotteds-VSF de amor no Facebook, um aluno fez um estudo e percebeu que os atributos necessários para comparar a compatibilidade entre você e o crush são:
 
 - Se a primeira letra do nome for igual, ganha 20 pontos;
@@ -12,14 +14,14 @@ Depois de muitos Spotteds-VSF de amor no Facebook, um aluno fez um estudo e perc
 
 Devolva a porcentagem de chances do crush funcionar com você (Lembrando que porcentagens não podem ser negativas!).
 
-## Observação
+### Observação
 
 Para fazer o cálculo, some todos os pontos e imprima da seguinte forma:
 
 - "As chances do crush te dar bola sao: 100%!"
 - para imprimir o '%', basta coloca-lo duas vezes, assim:
 
-``` py
+```text
 printf("%%");
 ```
 
@@ -33,6 +35,5 @@ printf("%%");
 * Porcentagem de chances do crush te dar bola
 
 ## Exemplos
-
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

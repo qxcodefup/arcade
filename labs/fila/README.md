@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Você foi encarregado de organizar a fila do Restaurante Universitário (RU). Para agilizar o processo, você teve a brilhante ideia de dividir a fila em dois grupos: uma fila para professores e STAs, e outra para alunos.
 
 - Professores e STAs (servidores) serão representados pelos números pares.

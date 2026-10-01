@@ -1,18 +1,24 @@
 # Calculando se é
 
-![_](assets/cover.jpg)
+![Capa da atividade sobre números primos](assets/cover.jpg)
 
-Dado um número inteiro, faça uma função recursiva que verifique se ele é primo.  
+## Contexto
+
+Dado um número inteiro `N`, determine recursivamente se ele é primo.
 
 ### Entrada
 
-- Um número inteiro **N**.
+- Um número inteiro `N`.
 
-### Saida
+### Saída
 
-- O número **1** se **N** for primo e **0** caso contrário.
+- Imprima `1` se `N` for primo e `0` caso contrário.
 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->
+
+## Orientações
+
+Crie uma função recursiva que teste se `N` tem divisores. Encerre a busca quando encontrar um divisor ou quando já tiver testado até a raiz quadrada de `N`.

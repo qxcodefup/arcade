@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 - *Mamãe, minha namorada, a Myrellah, disse que não vem mais aqui em casa.*
 - *Por que, meu filho?*
 - *Porque ela odeia sapo e o quintal tá cheio.*

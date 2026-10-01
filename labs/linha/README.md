@@ -2,33 +2,30 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 [Explicação](https://youtu.be/r44oGh6gVU0)
 
-Você não precisa saber o tamanho do vetor quando for ler uma linha com dados. Em python o comando `input().split(" ")` já retorna o vetor dividido. Em `c`e `c++` você tem algumas formas de fazer isso.
+Você não precisa saber o tamanho do vetor quando for ler uma linha com dados. Em Go, `bufio.NewScanner` pode ler a linha inteira, e `strings.Fields` separa os valores por espaços. Converta cada parte para inteiro, armazene os valores e percorra o vetor em ordem inversa.
 
-Em `c` você pode ler os dados e o `char` seguido a esse dado. Se utilizar `scanf("%d%c"`, sem o espaço antes do`%c` você está informando ao `scanf` para não ignorar os _whitespaces_. O código baixo vai em cada rodada do laço pegar o inteiro e o char sequencial a ele. Se esse char for um `\n` significa que a linha acabou.
-
-Em outras linguagens, você pode ler a linha e procurar uma forma de dividir em pedaços, como o `split` do python, go, javascript.
-
-```c
-#include <stdio.h>
-int main(){
-    int value;
-    char c;
-    do{
-        scanf("%d%c", &value, &c);
-        printf("%d ", value);
-    }while(c != '\n');
-    print("\n");
+```go
+scanner := bufio.NewScanner(os.Stdin)
+if scanner.Scan() {
+	linha := scanner.Text()
+	campos := strings.Fields(linha)
+	valores := make([]int, len(campos))
 }
 ```
 
-Agora tente adaptar esse código para carregar vários inteiros em um vetor e depois imprimir o vetor ao contrário.
+Leia todos os inteiros de uma única linha e imprima o vetor na ordem inversa.
 
-- Entrada:
-  - N inteiros numa mesma linha, (1< N < 30).
-- Saída:
-  - O vetor impresso ao contrário.
+### Entrada
+
+- Uma linha com um ou mais números inteiros, separados por espaços.
+
+### Saída
+
+- O vetor impresso ao contrário, entre colchetes e com os elementos separados por espaços.
 
 ## Exemplos
 

@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Valdiskley está apaixonado por criptografia. Descobriu que codificar uma cifra genérica pode executar várias das antigas cifras históricas.
 
 Vamos fazer uma cifra de substituição genérica. Voce recebe um texto claro e duas palavras de cifragem. Se o caractere do texto claro estiver na palavra de cifragem 1, você deve substitui-lo pelo caractere correspondente da palavra de cifragem 2.
@@ -25,6 +27,5 @@ Observe que em word1 podem aparecer pontuação, numeros, etc. Se word1 = "123!\
 * o resultado da criptografia.
 
 ## Exemplos
-
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

@@ -2,23 +2,31 @@
 
 ![_](assets/cover.jpg)
 
-Dado um número inteiro, o objetivo é encontrar seus fatores primos e a quantidade de vezes que cada fator aparece na sua fatoração e montar um vetor com os fatores.
+## Contexto
 
-Crie uma função que retorna um mapa onde a chave é o fator primo e o valor é a quantidade de vezes que ele aparece.
+Dado um número inteiro, encontre seus fatores primos e quantas vezes cada fator aparece na fatoração. A solução deve armazenar as contagens em um mapa cuja chave é o fator primo e cujo valor é sua multiplicidade.
+
+## Orientações
+
+Implemente uma função com esta assinatura:
 
 ```go
-def calc_fatores(num int) map[int]int {
-    ...
+func calcularFatores(numero int) map[int]int {
+    fatores := make(map[int]int)
+    // Calcule os fatores primos e suas multiplicidades.
+    return fatores
 }
 ```
 
+## Entrada e saída
+
 ### Entrada
 
-- Um número inteiro **N**.
+- Um número inteiro `N`.
 
 ### Saída
 
-- Os fatores primos de **N** e a quantidade de vezes que eles aparecem na fatoração. Cada fator e sua quantidade devem ser impressos em uma linha, com o fator seguido pelo número de vezes que aparece.
+- Os fatores primos de `N` e a quantidade de vezes que eles aparecem na fatoração. Cada fator e sua quantidade devem ser impressos em uma linha, com o fator seguido pelo número de vezes que aparece.
 
 ## Exemplos
 

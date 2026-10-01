@@ -2,14 +2,16 @@
 
 ![_](assets/cover.jpg)
 
-Sara quer andar na montanha russa, mas para isso ela precisa esperar a sua vez na fila. Sara tem um número de ficha, e lhe disseram que as fichas são geradas a partir de um número único seguindo os seguintes critérios: 
+## Contexto
+
+Sara quer andar na montanha russa, mas para isso ela precisa esperar a sua vez na fila. Sara tem um número de ficha, e lhe disseram que as fichas são geradas a partir de um número único seguindo os seguintes critérios:
 
 - Cada ficha é gerada a partir da permutação lexicográfica da anterior.
 - Se a última ficha gerada for a última permutação, as próximas fichas serão iguais.
 
 ## Exemplos
 
-```py
+```text
 1° ficha = 123
 2° ficha = 132
 3° ficha = 213
@@ -31,17 +33,16 @@ Dada a ficha de Sara e o número de fichas seguintes que Sara comprou, determine
 - 1 String S, representando a ficha de Sara.
 - 1 Inteiro N, representando o número de fichas adicionais que Sara comprou.
 
-### Saida
+### Saída
 
 - O número da última ficha.
 
-### Restricões
+### Restrições
 
 - length (S) <= 10;
 
 - Seja S⁰ a primeira ficha, S¹ a segunda... S^n é permutação lexografica de S^(n-1).
 
 ## Exemplos
-
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

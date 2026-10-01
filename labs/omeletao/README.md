@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Leia 4 números e imprima o maior valor.
 
 ### Entrada

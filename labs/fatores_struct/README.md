@@ -2,9 +2,11 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Dado um número inteiro, o objetivo é encontrar seus fatores primos e a quantidade de vezes que cada fator aparece na sua fatoração e montar um vetor com os fatores.
 
-### Guia
+## Orientações
 
 Crie uma struct para armazenar o fator e a quantidade de vezes que ele aparece e uma função para retornar a lista de fatores.
 
@@ -14,10 +16,12 @@ type Fator struct {
     qtd int
 }
 
-def calc_fatores(num int) []Fator {
-    ...
+func calcularFatores(num int) []Fator {
+    return nil
 }
 ```
+
+## Entrada e saída
 
 ### Entrada
 

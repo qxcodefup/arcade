@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 O objetivo dessa atividade é gerar uma nova geração do jogo da vida.
 
 Regras:
@@ -12,6 +14,8 @@ Regras:
 - Qualquer célula viva com dois ou três vizinhos vivos continua no mesmo estado para a próxima geração.
 
 É importante entender que todos os nascimentos e mortes ocorrem simultaneamente. Juntos eles constituem uma geração ou, como podemos chamá-los, um "instante" na história da vida completa da configuração inicial. Mais informações: Procure sobre Jogo da vida na Wikipedia
+
+## Entrada e saída
 
 ### Entrada
 

@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Elvis Presley Da Silva tem uma coleção de tazos numerados. Ele colocou todos em ordem numérica, mas está na dúvida de qual tazo ele tem mais vezes repetido. Sua tarefa é criar um código que ajude Elvis a descobrir o número do tazo que se repete mais vezes. Se mais de um tazo empatar na quantidade máxima de repetições, todos eles devem ser impressos.
 
 ### Estratégias

@@ -2,12 +2,14 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Todo algoritmo de força bruta exige a geração de todas as combinações possíveis para a senha. Quanto mais informação se tem sobre a senha, menor o espaço de busca a ser testado.
 
 Seu amigo disse: Minha senha tem 2 dígitos e os únicos algarismos que podem aparecer nela são "0,1,3". Calculando todas as permutações com repetição geraria as seguintes possibilidades:
 
 ```py
-00, 01, 03, 10, 11, 13, 30, 31, 33 
+00, 01, 03, 10, 11, 13, 30, 31, 33
 ```
 
 ## Dica

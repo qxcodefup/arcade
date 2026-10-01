@@ -2,15 +2,17 @@
 
 ![Imagem Teorema da Divisão](assets/cover.png)
 
-Implemente um programa que receba dois inteiros positivos e calcule o valor do quociente e resto da divisão do primeiro pelo segundo número.
+## Contexto
+
+Leia dois inteiros positivos e calcule o quociente e o resto da divisão do primeiro número pelo segundo.
 
 ### Entrada
 
-- Dois inteiros, um por linha
+A entrada contém dois números inteiros positivos, um por linha.
 
 ### Saída
 
-- Quociente e resto separados por espaço
+Imprima o quociente e o resto, separados por um espaço.
 
 ## Exemplos
 

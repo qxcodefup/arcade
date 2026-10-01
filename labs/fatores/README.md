@@ -2,13 +2,15 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Dado um número inteiro, o objetivo é encontrar seus fatores primos e a quantidade de vezes que cada fator aparece na sua fatoração e montar um vetor com os fatores.
 
 ### Guia
 
 Você pode seguir o seguinte algoritmo:
 
-```go
+```text
 fator = 2
 contagem = 0
 enquanto valor != 1
@@ -18,7 +20,7 @@ enquanto valor != 1
         incremente o fator
         zere a contagem
         imprima se tiver contado algo
-        
+
 imprima se ainda houver contagem
 ```
 

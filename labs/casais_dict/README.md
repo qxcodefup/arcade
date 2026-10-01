@@ -2,7 +2,11 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 O dono do zoológico quer construir uma grande arca e colocar os animais dentro dela. Os animais só podem embarcar aos **pares**. Um número inteiro representa uma espécie de animal. Se esse número for **positivo**, representa um animal **macho**; se for **negativo**, representa uma **fêmea**. Um casal válido consiste em um macho e uma fêmea da mesma espécie.
+
+## Orientações
 
 ```txt
 descasados = Crie dicionário[int]int para armazenar a quantidade de elementos daquele tipo descasados
@@ -15,10 +19,12 @@ para cada animal no zoo:
         adicione esse animal no mapa ou incremente seu valor de 1
 ```
 
+## Entrada e saída
+
 ### Entrada
 
-- linha 1: Um número com a quantidade **'N'** de elementos do vetor (até 50).
-- linha 2: O vetor **'N'** de inteiros representando as espécies dos animais.
+- Linha 1: um inteiro `N`, a quantidade de animais (até 50).
+- Linha 2: `N` inteiros representando as espécies e o sexo dos animais.
 
 ### Saída
 

@@ -2,34 +2,21 @@
 
 ![_](assets/cover.jpg)
 
-Aluízio quer comprar uma televisão parcelada. No plano de pagamento, os juros aumentam de acordo com o número de parcelas, seguindo a regra abaixo:
+## Contexto
 
-- **1 vez:** sem juros
-- **2 vezes:** 5% de juros
-- **3 vezes:** 10% de juros
-- **4 vezes:** 15% de juros
-- **5 vezes:** 20% de juros
-- **6 vezes:** 25% de juros
-- **7 vezes:** 30% de juros
-- **8 vezes:** 35% de juros
-- **9 vezes:** 40% de juros
-- **10 vezes:** 45% de juros
-
-Sua tarefa é criar um programa que, dado o valor da televisão e a quantidade de parcelas, calcule o valor total a ser pago **(com juros)** e o valor de cada parcela.
+O valor dos juros aumenta cinco pontos percentuais a cada parcela além da primeira. Calcule o valor de cada parcela e o total pago pela televisão.
 
 ### Entrada
 
-- A primeira linha contém o valor da televisão.
-- A segunda linha contém a quantidade de parcelas.
+A primeira linha contém o preço da televisão. A segunda contém a quantidade de parcelas.
 
 ### Saída
 
-- **1ª linha:** O valor da parcela, com duas casas decimais.
-- **2ª linha:** O valor total que Aluízio vai pagar, com duas casas decimais.
+Imprima primeiro o valor de cada parcela e depois o valor total, cada um com duas casas decimais.
 
 ### Restrições
 
-- A quantidade de parcelas será um número inteiro entre **1** e **10**.
+- A quantidade de parcelas é um número inteiro entre `1` e `10`.
 
 ## Exemplos
 

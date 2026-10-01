@@ -2,6 +2,8 @@
 
 ![Imagem eh Positivo](assets/cover.jpg)
 
+## Contexto
+
 Implemente um programa que recebe um número inteiro e diga se ele é par ou impar.
 
 ### Entrada

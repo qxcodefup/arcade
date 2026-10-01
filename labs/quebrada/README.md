@@ -2,23 +2,21 @@
 
 ![_](assets/cover.jpg)
 
-Na 5ª série, o professor prometeu um poder incrível: uma técnica secreta que eliminaria a necessidade de pensar em quociente e resto. Uma única divisão, dois números entrando e apenas um saindo. O sonho! O que ele esqueceu de mencionar foi a tal da vírgula e, às vezes, muitos números depois dela.
+## Contexto
 
-Sua tarefa é dominar os dois mundos da divisão. Crie um programa que, dados dois números inteiros, calcule e exiba o resultado da divisão inteira, o resto dessa divisão e o resultado da divisão "quebrada" (com ponto flutuante).
+Dados dois números inteiros, calcule o quociente inteiro, o resto da divisão e o quociente real.
 
 ### Entrada
 
-- Dois valores inteiros do usuário, **n1** e **n2**, um por linha.
+A entrada contém dois números inteiros, um por linha.
 
 ### Saída
 
-- **1ª linha:** O resultado da divisão inteira de **n1** por **n2**.
-- **2ª linha:** O resto da divisão de **n1** por **n2**.
-- **3ª linha:** O resultado da divisão com ponto flutuante, com 2 casas decimais.
+Imprima, em linhas separadas, o quociente inteiro, o resto e o quociente real com duas casas decimais.
 
 ### Restrições
 
-- **n2** será sempre diferente de zero.
+- O segundo número é diferente de zero.
 
 ## Exemplos
 

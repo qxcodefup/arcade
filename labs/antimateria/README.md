@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Marquinhos (12 anos) chega em casa e fala pro seu irmão mais velho:
 
 - Lá no consultório do dentista, vi numa revista que existe antimatéria! Ela destrói toda matéria que toca e os dois desaparecem.
@@ -28,5 +30,6 @@ Sua tarefa é criar um programa que simule essa colisão. Dadas duas palavras, e
 
 ## Exemplos
 
+<!-- REVIEW_NOTE: O texto descreve a sobreposição do sufixo com o prefixo na ordem normal, mas os testes e o código original comparam os caracteres do fim da primeira palavra em ordem inversa. Confirmar qual regra é a pretendida antes de marcar a atividade como revisada. -->
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

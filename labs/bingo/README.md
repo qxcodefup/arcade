@@ -2,16 +2,20 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Sua avó, uma frequentadora assídua do bingo dos idosos, estava tendo dificuldades para saber quantos números estava acertando por partida. Sendo o bom neto que você é, decidiu criar um programa para ajudá-la.
 
 Sua tarefa é, dado um vetor de 6 números inteiros (os números sorteados), verificar quantos deles estão presentes na cartela de bingo fixa da sua avó, que é a matriz 4x4 abaixo:
 
-```py
+```text
  1  9 27 23  
 34 20 37 47  
 30 87 55 69  
 13 60 99 66
 ```
+
+## Entrada e saída
 
 ### Entrada
 
@@ -21,7 +25,7 @@ Sua tarefa é, dado um vetor de 6 números inteiros (os números sorteados), ver
 
 - Um número inteiro representando a quantidade de números da entrada que se repetem na matriz 4x4.
 
-### Restrições
+## Restrições
 
 - A entrada consistirá em 6 números inteiros.
 

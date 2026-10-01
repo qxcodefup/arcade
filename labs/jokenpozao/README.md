@@ -2,13 +2,15 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 No jokenpo de nove elementos temos uma lista circular onde cada um vence os quatro elementos a sua frente e perde para quatro elementos atrás dele. A sequência é a seguinte:
 
 Em inglês:
 
 - \[paper, air, water, gun, rock, fire, scissors, human, sponge\], paper, air, water, gun, rock, ...
 
-``` py
+```text
 ROCK POUNDS OUT FIRE, CRUSHES SCISSORS, HUMAN & SPONGE.
 FIRE MELTS SCISSORS, BURNS PAPER, HUMAN & SPONGE.
 SCISSORS SWISH THROUGH AIR, CUT PAPER, HUMAN & SPONGE.
@@ -24,7 +26,7 @@ Em português:
 
 - \[papel, ar, água, arma, pedra, fogo, tesoura, humano, esponja\], papel, ar, água, arma, ...
 
-``` py
+```text
 ROCHA AMASSA FOGO, ESMAGA TESOURA, HUMANO E ESPONJA.
 FOGO DERRETE TESOURA, QUEIMA PAPEL, HUMANO E ESPONJA.
 TESOURA CORTA PELO AR, CORTA PAPEL, HUMANO E ESPONJA.
@@ -38,13 +40,12 @@ ARMA MIRA ROCHA, DISPARA, SUPERA TESOURA, ATIRA NO HUMANO.
 
 ### Entrada
 
-- Texto em inglês em minúsculo e sem acentos contendo as opções dos dois jogadores.  
+- Texto em inglês em minúsculo e sem acentos contendo as opções dos dois jogadores.
 
 ### Saída
 
 - empate, jog1 ou jog2.
 
 ## Exemplos
-
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

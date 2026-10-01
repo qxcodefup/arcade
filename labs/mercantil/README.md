@@ -2,6 +2,7 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
 
 - Pedro e João foram no Sílvio Santos. Esse problema é diferente da versão V1 do Mercantil.
 - Nesse, cada produto tem um valor real que nenhum dos competidores conhece.
@@ -14,16 +15,16 @@
 
 ### Entrada
 
-- 1ª linha: a quantidade de rodadas.  
+- 1ª linha: a quantidade de rodadas.
 - 2ª linha: o valor dos produtos de todas as rodadas.
 - 3ª linha: os chutes do primeiro (float) para todas as rodadas.
-- 4ª linha: as escolhas do segundo (m para menor, M para maior) para todas as rodadas.  
+- 4ª linha: as escolhas do segundo (m para menor, M para maior) para todas as rodadas.
 
 ### Saída
 
 - Resultado do jogo ("primeiro" ou "segundo" ou "empate").
 
-## Exemplos  
+## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

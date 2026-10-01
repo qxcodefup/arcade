@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Vamos montar castelos utilizando a seguinte lógica.
 
 1² = 1 ![_](assets/quadrado1.png)
@@ -11,12 +13,15 @@ Vamos montar castelos utilizando a seguinte lógica.
 2² = 4 ![_](assets/quadrado2.png)
 
 ---
+
 3² = 9 ![_](assets/quadrado9.png)
 
 ---
+
 4² = 16 ![_](assets/quadrado16.png)
 
 ---
+
 5² = 25 ![_](assets/quadrado25.png)
 
 Esses números, 1, 2, 4, 9, 16, 25, etc, eram chamados números quadrados ou quadrados perfeitos.

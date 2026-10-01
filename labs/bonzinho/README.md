@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Na disciplina do professor bonzinho, os alunos irão fazer 3 provas e 1 trabalho. Como o professor é muito legal, a nota mais baixa das provas será descartada.
 
 A média é formada pelas soma das duas melhores notas de prova mais a nota do trabalho divido por 3.  

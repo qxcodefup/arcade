@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 by @wladmir
 
 Um novo vírus mortal infectando grande população de um planeta. Um brilhante cientista chamado Wladimir descobriu uma nova cepa de vírus que pode curar esta doença. A vacina produzida a partir desse vírus tem várias potências dependendo da contagem de células T. Uma pessoa é curada somente se a contagem de células T no lote da vacina for maior do que a contagem de células T em uma pessoa. Um médico recebe um novo conjunto de relatórios que contém a contagem de células T de cada paciente infectado, o laboratório QuixaVax armazena todas as vacinas que o médico possui e sua contagem de células T. Você precisa determinar se o médico pode salvar todos os pacientes com as vacinas que possui. O número de vacinas e pacientes são iguais.
@@ -60,8 +62,7 @@ Yes
 - A vacina 4 (contagem 150) cura o paciente 5.
 - A vacina 5 (contagem 150) cura o paciente 3.
 
-
-### Exemplos
+## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
 <!-- end -->

@@ -2,15 +2,17 @@
 
 ![Imagem meteriologica](assets/cover.jpg)
 
-Você deve escrever um programa que recebe três números inteiros e retorna a soma desses três números.
+## Contexto
+
+Você deve escrever um programa que leia três números inteiros e imprima a soma deles.
 
 ### Entrada
 
-- A entrada consiste de três linhas. Cada linha contém um número inteiro, representando os valores a serem somados.
+A entrada contém três números inteiros, um por linha.
 
 ### Saída
 
-- A saída deve conter um único valor: a soma dos três números inteiros, seguido por uma quebra de linha.
+Imprima a soma dos três números inteiros em uma linha.
 
 ## Exemplos
 

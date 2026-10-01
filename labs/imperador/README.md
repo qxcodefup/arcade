@@ -2,6 +2,8 @@
 
 ![_](assets/cover.jpg)
 
+## Contexto
+
 Na Roma antiga, o imperador Cyzar, cansado dos combates 1x1 no Coliseu, resolveu fazer uma única e gigante batalha. Ele juntou todos os Gladiadores (**G**) e Condenados à morte (**C**) na arena para um espetáculo sangrento.
 
 Os Gladiadores, que podiam se defender, tinham mais chances de vitória. Já os Condenados entravam desarmados. Para equilibrar, Cyzar definiu regras de pontuação. Às vezes, para "esquentar" as coisas, ele soltava um ÚNICO Leão (**L**) na arena!
@@ -21,6 +23,8 @@ Sua tarefa é determinar o vencedor com base na configuração da arena, represe
 
 Some os pontos e determine o vencedor.
 
+## Entrada e saída
+
 ### Entrada
 
 - A primeira linha contém um número inteiro **N**, representando o tamanho da matriz quadrada (N x N).
@@ -35,7 +39,7 @@ Some os pontos e determine o vencedor.
 - **"Condenados a morte"** se a pontuação deles for maior.
 - **"Ninguem"** se houver um empate.
 
-### Restrições
+## Restrições
 
 - A matriz será quadrada.
 - Haverá no máximo um **L** (Leão) na arena.

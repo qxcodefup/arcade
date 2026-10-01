@@ -2,20 +2,19 @@
 
 ![_](assets/cover.jpg)
 
-Um atirador de elite estava atirando a 400 metros de distância em um papel milimetrado. Para calcular a imprecisão da arma, ele dava dois tiros e media a distância entre eles. Como ele não tinha uma régua, ele pegou as coordenadas dos pontos no plano cartesiano e usou a fórmula da distância entre dois pontos.
+## Contexto
 
-$$d_{AB} = \sqrt{(x₂ - x₁)^2 + (y₂ - y₁)^2}$$
+Dadas as coordenadas de dois pontos no plano cartesiano, calcule a distância entre eles.
 
-Dada a fórmula da distância entre dois pontos e os valores x e y de cada ponto, imprima a distância entre os pontos com duas casas decimais.
+Use a fórmula `distância = √((x₂ - x₁)² + (y₂ - y₁)²)`.
 
 ### Entrada
 
-- Coordenada ***X*** e coordenada ***Y*** do primeiro ponto.
-- Coordenada ***X*** e coordenada ***Y*** do segundo ponto.
+A entrada contém quatro números: as coordenadas `x` e `y` do primeiro ponto, seguidas pelas coordenadas `x` e `y` do segundo ponto, um número por linha.
 
 ### Saída
 
-- A distância entre os pontos com duas casas decimais.
+Imprima a distância entre os pontos com duas casas decimais.
 
 ## Exemplos
 
