@@ -17,4 +17,33 @@ Leia 4 números e imprima o maior valor.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3
+3
+2
+2
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+3
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+1
+8
+3
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+8
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+9
+15
+26
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+26
+</pre></td></tr>
+</table>
 <!-- end -->

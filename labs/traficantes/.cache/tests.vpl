@@ -1,0 +1,23 @@
+case=
+input=a aba absorveu
+ab
+c
+output="a ca csorveu
+"
+
+
+case=
+input=a almofada esta mofada e molhada
+mo
+bigode
+output="a albigodefada esta bigodefada e bigodelhada
+"
+
+
+case=
+input=a bd abda
+bd
+abc
+output="a abc aabca
+"
+

@@ -1,14 +1,14 @@
 # Mário e o Assassins Creed
 
-## Lendo cenário
+![Capa ilustrada da atividade Mário e o Assassins Creed](assets/cover.jpg)
 
-![_](assets/cover.jpg)
+## Contexto
 
 Thaiquovisqui da Silva está fazendo um joguinho com uma mistura de Super Mário e Assassins Creed. Nele, o Mário anda em um cenário 2D, mas ao invés de pular na cabeça dos inimigos, ele os derrota com uma chave de fenda. Afinal, Mário é um encanador, então faz todo o sentido!
 
 Sua tarefa é ajudar a construir os cenários para este jogo. Você receberá um vetor de números inteiros que representa a altura dos blocos em cada coluna do cenário. Seu programa deve desenhar esse cenário na tela, usando o caractere **#** para representar os blocos e **\_** para os espaços vazios.
 
-```py
+```text
 _#__
 _#_#
 ####
@@ -16,7 +16,7 @@ _#_#
 
 E o vetor 1133464221 seria como o seguinte cenário:
 
-```py
+```text
 _____#____
 _____#____
 ____###___
@@ -34,7 +34,7 @@ __#######_
 
 - O cenário correspondente ao vetor de entrada, representado por **\_** e **#**.
 
-### Restrições
+## Restrições
 
 - O vetor terá entre **1** e **20** elementos.
 - Cada número no vetor (altura) estará entre **1** e **20**.
@@ -42,4 +42,38 @@ __#######_
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+4
+1 3 1 2
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+_#__
+_#_#
+####
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+1 3 1 2 5
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+____#
+____#
+_#__#
+_#_##
+#####
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+10
+1 1 3 3 4 6 4 2 2 1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+_____#____
+_____#____
+____###___
+__#####___
+__#######_
+##########
+</pre></td></tr>
+</table>
 <!-- end -->

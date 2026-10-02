@@ -21,4 +21,27 @@ Dadas duas palavras, imprima sim se elas são anagramas e não se não são anag
 
 ## Exemplos
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+paralelepipedo
+pepidoelelapar
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+sim
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+rocicleia
+licioreca
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+sim
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+batata
+tabata
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+sim
+</pre></td></tr>
+</table>
 <!-- end -->

@@ -27,4 +27,58 @@ Crie um programa que receba o número de integrantes, crie um vetor para cada ti
 
 ## Exemplos
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+2
+Homem de Ferro
+500
+Viuva Negra
+340
+2
+Capitao America
+400
+Soldado Invernal
+450
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Team Captain Wins
+Homem de Ferro
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3
+Pantera Negra
+600
+Visao
+1000
+Maquina de Combate
+500
+3
+Soldado Invernal
+550
+Wanda
+1200
+Homem Formiga
+300
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Team Iron Wins
+Wanda
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+2
+Homem de Ferro
+500
+Visao
+500
+2
+Capitao America
+650
+Soldado Invernal
+350
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Draw
+Capitao America
+</pre></td></tr>
+</table>
 <!-- end -->

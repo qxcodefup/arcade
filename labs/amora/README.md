@@ -1,6 +1,8 @@
 # Contar Substrings
 
-![_](assets/cover.jpg)
+![Capa ilustrada da atividade Contar Substrings](assets/cover.jpg)
+
+## Contexto
 
 Amora está apaixonada e quer descobrir quantas vezes em sua cartinha de amor aparecem palavras amorosas. Na cartinha, estava escrito:
 
@@ -8,7 +10,7 @@ Amora está apaixonada e quer descobrir quantas vezes em sua cartinha de amor ap
 
 Ela descobriu que o subtexto "amo" aparecia 6 vezes nessa frase.
 
-Ajude Amora a verificar suas cartas. Faça um programa que recebe duas entradas: a primeira linha contendo o texto completo e a segunda, o trecho a ser buscado. Conte e imprima quantas vezes o trecho aparece no texto maior.
+Ajude Amora a verificar suas cartas. Faça um programa que recebe duas entradas: a primeira linha contendo o texto completo e a segunda, o trecho a ser buscado. Conte e imprima quantas vezes o trecho aparece no texto maior. Cada posição inicial conta como uma ocorrência, inclusive quando as ocorrências se sobrepõem.
 
 ### Entrada
 
@@ -19,12 +21,35 @@ Ajude Amora a verificar suas cartas. Faça um programa que recebe duas entradas:
 
 - Um número inteiro representando o total de ocorrências do trecho na frase.
 
-### Restrições
+## Restrições
 
 - A frase terá no máximo **100** caracteres.
-- O trecho terá no máximo **20** caracteres.
+- O trecho terá entre **1** e **20** caracteres.
 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+amo o amor que me amou, oh amora amortecida
+amo
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+5
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+o rato ratificou o carate que rateamos no cerato.
+rat
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+5
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+lua de cristal que me faz sonhar menos
+me
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+2
+</pre></td></tr>
+</table>
 <!-- end -->

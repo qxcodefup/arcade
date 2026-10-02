@@ -42,4 +42,33 @@ Olimpíada Brasileira de Informática - OBI2005 - Modalidade Programação Níve
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+4 498 500 498 498
+10 60 60 70 70 70 70 80 90 90 100
+5 200 190 180 170 160
+2 1000 900
+4 20 20 20 20
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+2
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3
+5 600 601 600 601 600
+4 500 499 500 499
+4 300 300 302 300
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+2
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+11 1000 900 800 700 600 500 400 300 200 100 0
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+</pre></td></tr>
+</table>
 <!-- end -->

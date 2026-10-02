@@ -1,0 +1,69 @@
+case=
+input=c
+100
+output="Perfeito
+"
+
+
+case=
+input=b
+68
+output="Fraco, nem passou
+"
+
+
+case=
+input=c
+160
+output="Muito forte, bola fora
+"
+
+
+case=
+input=b
+99
+output="Satisfeito
+"
+
+
+case=
+input=c
+90
+output="Perfeito
+"
+
+
+case=
+input=c
+87
+output="Fraco, nem passou
+"
+
+
+case=
+input=b
+120
+output="Muito forte, bola fora
+"
+
+
+case=
+input=c
+127
+output="Muito forte, bola fora
+"
+
+
+case=
+input=c
+115
+output="Satisfeito
+"
+
+
+case=
+input=c
+50
+output="Fraco, nem passou
+"
+

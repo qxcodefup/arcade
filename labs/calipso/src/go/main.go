@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"unicode"
 )
 
 func main() {
@@ -20,27 +21,24 @@ func main() {
 		text := []rune(scanner.Text())
 		firstUpper := false
 		for _, char := range text {
-			if char >= 'a' && char <= 'z' {
-				break
-			}
-			if char >= 'A' && char <= 'Z' {
-				firstUpper = true
+			if unicode.IsLetter(char) {
+				firstUpper = unicode.IsUpper(char)
 				break
 			}
 		}
 		letterIndex := 0
 		for j, char := range text {
-			if char == ' ' {
+			if !unicode.IsLetter(char) {
 				continue
 			}
 			upper := firstUpper
 			if letterIndex%2 == 1 {
 				upper = !upper
 			}
-			if char >= 'a' && char <= 'z' && upper {
-				text[j] = char - ('a' - 'A')
-			} else if char >= 'A' && char <= 'Z' && !upper {
-				text[j] = char + ('a' - 'A')
+			if upper {
+				text[j] = unicode.ToUpper(char)
+			} else {
+				text[j] = unicode.ToLower(char)
 			}
 			letterIndex++
 		}

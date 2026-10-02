@@ -26,4 +26,27 @@ Sua tarefa é criar um programa que, dado o dígito da tecla quebrada e o númer
 
 ## Exemplos
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+5000000
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+0
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+5004000
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+4000
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3
+123456
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+12456
+</pre></td></tr>
+</table>
 <!-- end -->

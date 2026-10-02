@@ -29,4 +29,24 @@ Se a pedra cair no número 10, não há necessidade de imprimir "céu", pois o n
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+8
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+[ 0 1 2 3 4 5 6 7 9 ceu ]
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+0
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+[ 1 2 3 4 5 6 7 8 9 ceu ]
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+[ 0 2 3 4 5 6 7 8 9 ceu ]
+</pre></td></tr>
+</table>
 <!-- end -->

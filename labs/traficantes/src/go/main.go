@@ -15,20 +15,29 @@ func main() {
 		}
 		lines[i] = scanner.Text()
 	}
-	text, old, replacement := lines[0], lines[1], lines[2]
-	if old == "" {
-		fmt.Println(text)
+	text := []rune(lines[0])
+	old := []rune(lines[1])
+	replacement := []rune(lines[2])
+	if len(old) == 0 {
+		fmt.Println(string(text))
 		return
 	}
-	result := ""
+	result := make([]rune, 0, len(text))
 	for i := 0; i < len(text); {
-		if i+len(old) <= len(text) && text[i:i+len(old)] == old {
-			result += replacement
+		matches := i+len(old) <= len(text)
+		for j := range old {
+			if !matches || text[i+j] != old[j] {
+				matches = false
+				break
+			}
+		}
+		if matches {
+			result = append(result, replacement...)
 			i += len(old)
 		} else {
-			result += text[i : i+1]
+			result = append(result, text[i])
 			i++
 		}
 	}
-	fmt.Println(result)
+	fmt.Println(string(result))
 }

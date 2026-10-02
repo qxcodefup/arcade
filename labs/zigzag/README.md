@@ -30,4 +30,45 @@ Dado um intervalo de números, aplique as seguintes regras de substituição:
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+16
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+2
+zig
+4
+zag
+zig
+7
+8
+zig
+zag
+11
+zig
+13
+14
+zigzag
+16
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+25
+35
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+zag
+26
+zig
+28
+29
+zigzag
+31
+32
+zig
+34
+zag
+</pre></td></tr>
+</table>
 <!-- end -->

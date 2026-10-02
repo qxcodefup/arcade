@@ -1,6 +1,8 @@
 # Aniquilando Ultrons V3
 
-![_](assets/cover.jpg)
+![Capa ilustrada da atividade Aniquilando Ultrons V3](assets/cover.jpg)
+
+## Contexto
 
 A batalha contra o exército de disfarces do Ultron continua. Desta vez, em vez de analisar indivíduos um a um, você recebeu um panorama completo do ambiente: o código genético do Ultron e uma lista de todos os códigos das pessoas presentes.
 
@@ -10,7 +12,7 @@ Sua missão é mapear o ambiente, identificando cada indivíduo. Para cada códi
 - **Ultron:** Mais de 50% de correspondência.
 - **Pessoa:** 50% ou menos de correspondência.
 
-Por exemplo, com o código Ultron **"ultron"** e o ambiente **"ruame ronuai Lion uuuaaaa ronia kkk luno"**, a saída esperada seria: **"pessoa ultron chefe pessoa ultron pessoa chefe"**.
+Por exemplo, com o código Ultron `ultron` e o ambiente `ruame ronuai Lion uuuaaaa ronia kkk luno`, a saída esperada é `pessoa ultron ultron pessoa ultron pessoa chefe`. `Lion` tem três de suas quatro letras no código, correspondendo a `75%`, então sua classificação é `ultron`.
 
 ### Entrada
 
@@ -21,7 +23,7 @@ Por exemplo, com o código Ultron **"ultron"** e o ambiente **"ruame ronuai Lion
 
 - Uma única linha contendo a classificação ("pessoa", "ultron" ou "chefe") para cada código de pessoa, na ordem em que aparecem, separadas por espaços.
 
-### Restrições
+## Restrições
 
 - O código do Ultron terá entre 2 e 9 letras.
 - A linha do ambiente terá no máximo 500 caracteres.
@@ -31,4 +33,20 @@ Por exemplo, com o código Ultron **"ultron"** e o ambiente **"ruame ronuai Lion
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+aeiou  
+arta euio auiaoauio riu pegasus
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+pessoa chefe chefe ultron pessoa
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+aer
+arta euio auiaoauio riu pegasus rea
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+ultron pessoa pessoa pessoa pessoa chefe
+</pre></td></tr>
+</table>
 <!-- end -->

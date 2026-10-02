@@ -33,4 +33,30 @@ Considere que nunca existem duas pessoas com o mesmo número no vetor. Se o chef
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3 1
+3 1 4
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+[-3 1 -4]
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3 3
+3 1 4
+1 1 4
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+[3 -1 4]
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+7 5
+3 4 8 9 1 5 6
+3 4 5 6 9
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+[-3 -4 8 9 1 -5 -6]
+</pre></td></tr>
+</table>
 <!-- end -->

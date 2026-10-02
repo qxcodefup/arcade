@@ -33,4 +33,30 @@ Neste problema vamos considerar que existem N posições e não apenas três. Da
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3
+2
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+20
+8
+13
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+15
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3
+2
+2
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+0
+</pre></td></tr>
+</table>
 <!-- end -->

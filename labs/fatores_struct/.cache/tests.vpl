@@ -1,0 +1,36 @@
+case=
+input=8
+output="2 3
+"
+
+
+case=
+input=40
+output="2 3
+5 1
+"
+
+
+case=
+input=55
+output="5 1
+11 1
+"
+
+
+case=
+input=552
+output="2 3
+3 1
+23 1
+"
+
+
+case=
+input=169400
+output="2 3
+5 2
+7 1
+11 2
+"
+

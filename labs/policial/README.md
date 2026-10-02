@@ -34,4 +34,27 @@ Também é muito importante que você aprenda como sua linguagem pode fazer a or
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+4
+8 3 7 4
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+3 4 7 8
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5  
+1 8 3 7 4
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1 3 4 7 8
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+6 -3 10 9 1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+-3 1 6 9 10
+</pre></td></tr>
+</table>
 <!-- end -->

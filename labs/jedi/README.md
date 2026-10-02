@@ -20,4 +20,30 @@ Você recebe uma entrada que é um vetor de tamanho T de numeros positivos entre
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+2
+1
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Empate
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+2
+2
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Jedi
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+2
+2
+4
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Sith
+</pre></td></tr>
+</table>
 <!-- end -->

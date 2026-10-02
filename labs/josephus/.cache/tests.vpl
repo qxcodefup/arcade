@@ -1,0 +1,43 @@
+case=
+input=5 
+3
+output="5
+"
+
+
+case=
+input=6
+6
+output="4
+"
+
+
+case=
+input=5 3
+output="5
+"
+
+
+case=
+input=2 1
+output="1
+"
+
+
+case=
+input=3 2
+output="1
+"
+
+
+case=
+input=6 6
+output="4
+"
+
+
+case=
+input=16 2
+output="2
+"
+

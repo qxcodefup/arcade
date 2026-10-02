@@ -1,0 +1,29 @@
+case=
+input=a porta amassou
+output="a portaamassou
+"
+
+
+case=
+input=carla almeida alencar
+output="carlaalmeidaalencar
+"
+
+
+case=
+input=a carla a ama
+output="a carlaaama
+"
+
+
+case=
+input=o orvalho ouviu uniformemente e eu uivei
+output="oorvalhoouviuuniformementeeeuuivei
+"
+
+
+case=
+input=cafe aroma
+output="cafearoma
+"
+

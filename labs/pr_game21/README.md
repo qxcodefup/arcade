@@ -1,37 +1,39 @@
 # Blackjack 21
 
-Você irá implementar uma versão simplificada do jogo **Blackjack 21**, também conhecido como “vinte e um", onde um jogador humano enfrenta a mesa (computador). A atividade pode feita em três etapas, com aumento progressivo na complexidade.
+![Cartas de Blackjack](assets/blackjack.jpg)
 
-Para conhecer melhor o jogo original, consulte:  
+## Objetivo
 
-- <http://pt.wikipedia.org/wiki/Blackjack>  
+Implemente uma versão simplificada de Blackjack 21 em que uma pessoa joga contra a mesa (computador). A atividade progride de uma rodada simples para apostas, várias rodadas e validação das entradas.
 
-![Blackjack](assets/blackjack.jpg)
+Para conhecer melhor o jogo original, consulte [Blackjack na Wikipédia](https://pt.wikipedia.org/wiki/Blackjack).
 
----
+## Regras
 
-## Regras Simplificadas
+- Cartas de `2` a `10` valem seus próprios valores.
+- Valete (`J`), Dama (`Q`) e Rei (`K`) valem `10` pontos.
+- Ás (`A`) pode valer `1` ou `11`, conforme for mais vantajoso. Enquanto a soma passar de `21` e houver um Ás valendo `11`, reduza esse Ás para `1`.
+- Cada rodada começa com um novo baralho padrão de `52` cartas embaralhado. As cartas não voltam ao baralho durante a rodada.
+- O jogador começa com `2` cartas. A mesa começa com `2` cartas: uma visível e uma fechada.
+- Se uma das mãos iniciais somar `21`, a rodada termina imediatamente. Se somente o jogador somar `21`, ele vence; se a mesa somar `21`, ela vence, inclusive em caso de empate.
+- O jogador pode pedir uma carta (`1`) ou parar (`2`). Se a soma passar de `21`, perde a rodada.
+- Quando o jogador para, a mesa revela a carta fechada e compra cartas até empatar ou superar a pontuação do jogador, ou estourar `21`.
+- Em caso de empate de pontos, a mesa vence.
+- Nas interações de exemplo, `>>` marca o ponto em que o programa espera uma entrada.
 
-- Cartas de 2 a 10 valem seus próprios valores.
-- Valete (J), Dama (Q) e Rei (K) valem 10 pontos.
-- Ás (A) pode valer 1 ou 11, o que for mais vantajoso. Se a soma estourar 21, transforme o(s) Ás em 1 até que a soma fique válida ou estoure de vez.
+## Interação
 
----
+A atividade é dividida em três etapas. A primeira implementa uma rodada. A segunda adiciona apostas e permite jogar várias rodadas. A terceira valida as entradas do jogador.
 
-## Funcionamento do Jogo
+Na pasta da tarefa, execute `tko run . -l go` para iniciar e validar a interação.
 
-- O jogador começa com **2 cartas**. A mesa começa com **1 carta visível**.
-- O jogador pode **pedir carta (1)** ou **parar (2)**. Se estourar 21, perde.
-- Quando o jogador para, a mesa joga até vencer ou estourar.
-- Em caso de empate de pontos, **a mesa vence**.
+## Exemplos de execução
 
-Linhas com `>>` indicam que o programa está esperando uma entrada do jogador.
-
----
-
-## Etapa 1 – Primeira Versão
+### Etapa 1 – Primeira versão
 
 Implemente uma única rodada entre jogador e mesa, com as seguintes interações:
+
+Na exibição inicial, a mesa mostra apenas sua carta visível; a segunda carta fica escondida até a vez da mesa.
 
 ```text
 Iniciando Rodada:
@@ -46,16 +48,9 @@ Pedir = 1, Parar = 2
 # Mesa joga, calcula e exibe o resultado final
 ```
 
----
+### Etapa 2 – Apostas e múltiplas rodadas
 
-## Etapa 2 – Apostas e Múltiplas Rodadas
-
-Adicione:
-
-- Sistema de apostas com **mínimo de 5 e máximo de 100**.
-- Saldo inicial: **100** unidades de dinheiro.
-- Se ganhar, recebe **o dobro da aposta**.
-- O jogador pode sair a qualquer momento digitando **-1** como valor da aposta.
+Adicione apostas entre `5` e `100`, limitadas também ao saldo disponível, e saldo inicial de `100` unidades. Desconte a aposta antes da rodada. Em caso de vitória, credite `2×` a aposta (a devolução da aposta e um prêmio igual). Ao perder, não devolva a aposta. Encerre a partida automaticamente se o saldo ficar abaixo de `5`. O jogador também pode sair digitando `-1` ao informar uma aposta.
 
 ```text
 Rodada 1:
@@ -68,15 +63,11 @@ Digite valor da aposta ou -1 para sair: 50
 ...
 ```
 
----
+O valor apostado é descontado antes de começar. Por exemplo, uma vitória após apostar `25` credita `50` ao saldo, incluindo a devolução da aposta.
 
-## Etapa 3 – Validação de Entradas
+### Etapa 3 – Validação de entradas
 
-Adicione verificação de entradas em todos os momentos:
-
-- Apostas devem ser numéricas e dentro dos limites.
-- Opções de ação devem ser válidas (1 ou 2).
-- Tratamento de erros como textos, valores fora do intervalo, negativos etc.
+Valide as entradas em todos os momentos: as apostas devem ser numéricas e respeitar os limites, e as ações devem ser `1` ou `2`. Trate textos e valores fora do intervalo.
 
 ```text
 Digite valor da aposta ou -1 para sair: vinte
@@ -89,15 +80,21 @@ Pedir = 1, Parar = 2
 Valor inválido.
 ```
 
----
+## Etapas
 
-## Desafio Opcional
+1. Implemente uma rodada sem apostas: distribuir as cartas iniciais, aceitar pedidos ou parada, e decidir o resultado.
+2. Adicione saldo, apostas e repetição de rodadas.
+3. Valide cada entrada e mantenha o jogo em estado válido após uma entrada incorreta.
+4. Execute e verifique manualmente cada etapa no terminal.
 
-Se quiser ir além:
+### Desafio opcional
 
-- Adicione **múltiplos jogadores**, com turnos alternados.
-- Implemente regras extras como **dobrar aposta** ou **dividir cartas** (“split").
+- Adicione múltiplos jogadores, com turnos alternados.
+- Implemente regras extras, como dobrar a aposta ou dividir cartas (`split`).
 
----
+## Critérios de conclusão
 
-Bom trabalho e divirta-se programando!
+- Os valores das cartas e o tratamento dos ases seguem as regras descritas.
+- O jogador pode pedir cartas ou parar, e a rodada é encerrada com o resultado correto.
+- A etapa de apostas controla o saldo e permite encerrar com `-1`.
+- Entradas inválidas são rejeitadas sem avançar ou alterar indevidamente o estado do jogo.

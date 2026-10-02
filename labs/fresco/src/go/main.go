@@ -7,7 +7,12 @@ import (
 )
 
 func isVowel(char rune) bool {
-	return char == 'a' || char == 'e' || char == 'i' || char == 'o' || char == 'u'
+	switch char {
+	case 'a', 'á', 'à', 'â', 'ã', 'e', 'é', 'ê', 'i', 'í', 'o', 'ó', 'ô', 'õ', 'u', 'ú':
+		return true
+	default:
+		return false
+	}
 }
 
 func main() {

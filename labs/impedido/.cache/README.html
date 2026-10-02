@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@impedido: Calculando impedimento</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Calculando impedimento</h1>
+<h2>OBI 2015 - Fase 2 - Nível 1</h2>
+<h2>Contexto</h2>
+<p>A regra do impedimento no futebol pode parecer estranha, mas sem ela, se a gente pensar bem, o jogo ficaria muito chato! Ela funciona dadas as posições de três jogadores: L o jogador atacante que lança a bola; R o jogador atacante que recebe a bola; e D o último jogador defensor. E a regra vale somente se o jogador R está no seu campo de ataque; se o jogador R está no seu campo de defesa ou na linha divisória do meio campo, ele não está em impedimento. Neste problema o campo tem 100 metros de comprimento. Dadas as posições desses três jogadores, no momento exato do lançamento, haverá impedimento se e somente se a seguinte condição for verdadeira: <strong>(R&gt;50) e (L&lt; R) e (R &gt; D)</strong>.</p>
+<p>A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógica dela. O seu programa deve apenas determinar, dadas as três posições L,R e D, se há ou não impedimento, implementando exatamente a condição acima. A figura abaixo mostra um exemplo onde \bf não há impedimento:</p>
+<p><img alt="_" src="data:image/jpeg;base64,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" /></p>
+<h3>Entrada</h3>
+<ul>
+<li>A entrada é composta 3 linhas, contendo os três inteiros L, R e D.</li>
+</ul>
+<h3>Saída</h3>
+<ul>
+<li>Seu programa deve produzir uma única linha, contendo um único caractere, que deve ser "S" caso haja impedimento, ou "N" caso contrário.</li>
+</ul>
+<h2>Restrições</h2>
+<ul>
+<li>0 ≤ L ≤ 100</li>
+<li>0 ≤ R ≤ 100</li>
+<li>0 ≤ D ≤ 100</li>
+</ul>
+<h2>Exemplos</h2>
+<!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+35
+60
+75
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+N
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+55
+68
+67
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+S
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+66
+80
+80
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+N
+</pre></td></tr>
+</table>
+<!-- end -->
+</body>
+</html>

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@pr_game21: Blackjack 21</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Blackjack 21</h1>
+<p><img alt="Cartas de Blackjack" src="data:image/jpeg;base64,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" /></p>
+<h2>Objetivo</h2>
+<p>Implemente uma versão simplificada de Blackjack 21 em que uma pessoa joga contra a mesa (computador). A atividade progride de uma rodada simples para apostas, várias rodadas e validação das entradas.</p>
+<p>Para conhecer melhor o jogo original, consulte <a href="https://pt.wikipedia.org/wiki/Blackjack">Blackjack na Wikipédia</a>.</p>
+<h2>Regras</h2>
+<ul>
+<li>Cartas de <code>2</code> a <code>10</code> valem seus próprios valores.</li>
+<li>Valete (<code>J</code>), Dama (<code>Q</code>) e Rei (<code>K</code>) valem <code>10</code> pontos.</li>
+<li>Ás (<code>A</code>) pode valer <code>1</code> ou <code>11</code>, conforme for mais vantajoso. Enquanto a soma passar de <code>21</code> e houver um Ás valendo <code>11</code>, reduza esse Ás para <code>1</code>.</li>
+<li>Cada rodada começa com um novo baralho padrão de <code>52</code> cartas embaralhado. As cartas não voltam ao baralho durante a rodada.</li>
+<li>O jogador começa com <code>2</code> cartas. A mesa começa com <code>2</code> cartas: uma visível e uma fechada.</li>
+<li>Se uma das mãos iniciais somar <code>21</code>, a rodada termina imediatamente. Se somente o jogador somar <code>21</code>, ele vence; se a mesa somar <code>21</code>, ela vence, inclusive em caso de empate.</li>
+<li>O jogador pode pedir uma carta (<code>1</code>) ou parar (<code>2</code>). Se a soma passar de <code>21</code>, perde a rodada.</li>
+<li>Quando o jogador para, a mesa revela a carta fechada e compra cartas até empatar ou superar a pontuação do jogador, ou estourar <code>21</code>.</li>
+<li>Em caso de empate de pontos, a mesa vence.</li>
+<li>Nas interações de exemplo, <code>&gt;&gt;</code> marca o ponto em que o programa espera uma entrada.</li>
+</ul>
+<h2>Interação</h2>
+<p>A atividade é dividida em três etapas. A primeira implementa uma rodada. A segunda adiciona apostas e permite jogar várias rodadas. A terceira valida as entradas do jogador.</p>
+<p>Na pasta da tarefa, execute <code>tko run . -l go</code> para iniciar e validar a interação.</p>
+<h2>Exemplos de execução</h2>
+<h3>Etapa 1 – Primeira versão</h3>
+<p>Implemente uma única rodada entre jogador e mesa, com as seguintes interações:</p>
+<p>Na exibição inicial, a mesa mostra apenas sua carta visível; a segunda carta fica escondida até a vez da mesa.</p>
+<div class="language-text highlight"><pre><span></span><code>Iniciando Rodada:
+# Mesa recebe  7 - Total  7 [ 7 ]
+# Voce recebe  A - Total 11 [ A ]
+# Voce recebe  2 - Total 13 [ A 2 ]
+Pedir = 1, Parar = 2 
+&gt;&gt; 1
+# Voce recebe  3 - Total 16 [ A 2 3 ]
+Pedir = 1, Parar = 2 
+&gt;&gt; 2
+# Mesa joga, calcula e exibe o resultado final
+</code></pre></div>
+<h3>Etapa 2 – Apostas e múltiplas rodadas</h3>
+<p>Adicione apostas entre <code>5</code> e <code>100</code>, limitadas também ao saldo disponível, e saldo inicial de <code>100</code> unidades. Desconte a aposta antes da rodada. Em caso de vitória, credite <code>2×</code> a aposta (a devolução da aposta e um prêmio igual). Ao perder, não devolva a aposta. Encerre a partida automaticamente se o saldo ficar abaixo de <code>5</code>. O jogador também pode sair digitando <code>-1</code> ao informar uma aposta.</p>
+<div class="language-text highlight"><pre><span></span><code>Rodada 1:
+Dinheiro: 100
+Digite valor da aposta ou -1 para sair: 25
+...
+Rodada 2:
+Dinheiro: 75
+Digite valor da aposta ou -1 para sair: 50
+...
+</code></pre></div>
+<p>O valor apostado é descontado antes de começar. Por exemplo, uma vitória após apostar <code>25</code> credita <code>50</code> ao saldo, incluindo a devolução da aposta.</p>
+<h3>Etapa 3 – Validação de entradas</h3>
+<p>Valide as entradas em todos os momentos: as apostas devem ser numéricas e respeitar os limites, e as ações devem ser <code>1</code> ou <code>2</code>. Trate textos e valores fora do intervalo.</p>
+<div class="language-text highlight"><pre><span></span><code>Digite valor da aposta ou -1 para sair: vinte
+Valor inválido.
+Digite valor da aposta ou -1 para sair: 300
+Valor inválido.
+...
+Pedir = 1, Parar = 2
+&gt;&gt; batatas
+Valor inválido.
+</code></pre></div>
+<h2>Etapas</h2>
+<ol>
+<li>Implemente uma rodada sem apostas: distribuir as cartas iniciais, aceitar pedidos ou parada, e decidir o resultado.</li>
+<li>Adicione saldo, apostas e repetição de rodadas.</li>
+<li>Valide cada entrada e mantenha o jogo em estado válido após uma entrada incorreta.</li>
+<li>Execute e verifique manualmente cada etapa no terminal.</li>
+</ol>
+<h3>Desafio opcional</h3>
+<ul>
+<li>Adicione múltiplos jogadores, com turnos alternados.</li>
+<li>Implemente regras extras, como dobrar a aposta ou dividir cartas (<code>split</code>).</li>
+</ul>
+<h2>Critérios de conclusão</h2>
+<ul>
+<li>Os valores das cartas e o tratamento dos ases seguem as regras descritas.</li>
+<li>O jogador pode pedir cartas ou parar, e a rodada é encerrada com o resultado correto.</li>
+<li>A etapa de apostas controla o saldo e permite encerrar com <code>-1</code>.</li>
+<li>Entradas inválidas são rejeitadas sem avançar ou alterar indevidamente o estado do jogo.</li>
+</ul>
+</body>
+</html>

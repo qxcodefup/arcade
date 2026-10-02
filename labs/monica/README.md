@@ -30,4 +30,30 @@ Em mais um exemplo, se dona Mônica tem 47 anos e as idades de dois dos filhos s
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+52
+14
+18
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+20
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+47
+21
+9
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+21
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+109
+20
+30
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+59
+</pre></td></tr>
+</table>
 <!-- end -->

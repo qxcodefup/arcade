@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@pr_chute_a: Adivinhe o número entre dois limites</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Adivinhe o número entre dois limites</h1>
+<h2>Objetivo</h2>
+<p>Crie um jogo em que o computador escolhe um número secreto e a pessoa tenta adivinhá-lo. Os limites do intervalo diminuem a cada tentativa incorreta.</p>
+<h2>Regras</h2>
+<ul>
+<li>O intervalo inicial é aberto: <code>]0, 100[</code>. O computador escolhe um número inteiro entre <code>1</code> e <code>99</code>.</li>
+<li>O chute deve ser um número inteiro estritamente entre os limites atuais.</li>
+<li>Se o chute estiver fora do intervalo, mostre <code>Chute fora do intervalo.</code> e peça outro sem alterar os limites.</li>
+<li>Se o chute for igual ao segredo, revele o número e informe que a pessoa venceu.</li>
+<li>Se o chute for maior que o segredo, ele passa a ser o novo limite superior. Se for menor, passa a ser o novo limite inferior.</li>
+<li>Depois de um chute incorreto, se restar apenas um inteiro possível dentro do intervalo, a pessoa perde sem receber outro chute. Revele o número secreto.</li>
+</ul>
+<h2>Interação</h2>
+<p>A cada tentativa, mostre o intervalo aberto atual neste formato e leia o chute na mesma linha:</p>
+<div class="language-text highlight"><pre><span></span><code>Diga um número entre ]0, 100[: 50
+</code></pre></div>
+<p>Chutes fora do intervalo não alteram o jogo; o programa avisa e solicita outra entrada. Ao terminar, mostre <code>Era N, você ganhou!</code> ou <code>Era N, você perdeu!</code>, substituindo <code>N</code> pelo segredo.</p>
+<h2>Exemplos de execução</h2>
+<p>Neste exemplo, o segredo é <code>31</code> e a pessoa vence:</p>
+<div class="language-text highlight"><pre><span></span><code>Diga um número entre ]0, 100[: 50
+Diga um número entre ]0, 50[: 23
+Diga um número entre ]23, 50[: 40
+Diga um número entre ]23, 40[: 28
+Diga um número entre ]28, 40[: 35
+Diga um número entre ]28, 35[: 30
+Diga um número entre ]30, 35[: 33
+Diga um número entre ]30, 33[: 31
+Era 31, você ganhou!
+</code></pre></div>
+<p>Neste exemplo, o segredo é <code>32</code>. Depois do chute <code>31</code>, resta apenas esse valor possível e a pessoa perde:</p>
+<div class="language-text highlight"><pre><span></span><code>Diga um número entre ]0, 100[: 50
+Diga um número entre ]0, 50[: 23
+Diga um número entre ]23, 50[: 40
+Diga um número entre ]23, 40[: 28
+Diga um número entre ]28, 40[: 35
+Diga um número entre ]28, 35[: 30
+Diga um número entre ]30, 35[: 33
+Diga um número entre ]30, 33[: 31
+Era 32, você perdeu!
+</code></pre></div>
+<h2>Etapas</h2>
+<ol>
+<li>Inicie os limites em <code>0</code> e <code>100</code> e escolha um segredo de <code>1</code> a <code>99</code>.</li>
+<li>Mostre os limites e leia um chute.</li>
+<li>Rejeite chutes que não estejam estritamente entre os limites atuais.</li>
+<li>Compare um chute válido com o segredo e atualize o limite correspondente.</li>
+<li>Encerre ao acertar ou quando um erro deixar somente um inteiro possível; revele o segredo.</li>
+</ol>
+<h2>Critérios de conclusão</h2>
+<ul>
+<li>O segredo está sempre entre <code>1</code> e <code>99</code>.</li>
+<li>Um chute fora do intervalo é rejeitado sem alterar os limites.</li>
+<li>Cada chute válido atualiza o limite correto.</li>
+<li>O jogo termina com vitória ao acertar ou derrota quando resta apenas um valor possível.</li>
+<li>A mensagem final revela o segredo e informa o resultado.</li>
+</ul>
+<h2>Orientações</h2>
+<p>A função abaixo escolhe o número secreto no intervalo de <code>1</code> a <code>99</code>:</p>
+<div class="language-go highlight"><pre><span></span><code><span class="kd">func</span><span class="w"> </span><span class="nx">gerarSecreto</span><span class="p">()</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="nb">int</span><span class="p">(</span><span class="nx">time</span><span class="p">.</span><span class="nx">Now</span><span class="p">().</span><span class="nx">UnixNano</span><span class="p">()</span><span class="o">%</span><span class="mi">99</span><span class="p">)</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mi">1</span>
+<span class="p">}</span>
+</code></pre></div>
+</body>
+</html>

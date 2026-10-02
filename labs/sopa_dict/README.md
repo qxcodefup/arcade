@@ -32,6 +32,26 @@ Essas regras geram a sequência `1, 1, 2, 3, 5, 8, 13, ...`, conhecida como sequ
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+6
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+8
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+50
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+12586269025
+</pre></td></tr>
+</table>
 <!-- end -->
 
 ## Orientações

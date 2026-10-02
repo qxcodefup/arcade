@@ -18,4 +18,37 @@ Dado uma lista de número e um intervalo, calcule quantas vezes um número cai d
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+4 1 3
+1
+5
+3
+7
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+2
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5 3 5
+1
+2
+4
+6
+8
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+4 3 5
+1
+2
+7
+8
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+0
+</pre></td></tr>
+</table>
 <!-- end -->

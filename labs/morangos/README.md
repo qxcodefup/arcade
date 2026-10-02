@@ -24,4 +24,33 @@ Os administradores da Fazenda Fartura planejam criar uma nova plantação de mor
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+30
+8
+11
+56
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+616
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+12
+38
+5
+20
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+456
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+9
+4
+9
+4
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+36
+</pre></td></tr>
+</table>
 <!-- end -->

@@ -1,6 +1,8 @@
 # Identificando Ultrons V2
 
-![_](assets/cover.jpg)
+![Capa ilustrada da atividade Identificando Ultrons V2](assets/cover.jpg)
+
+## Contexto
 
 O Ultron copiou os poderes da Mística e está se disfarçando para surpreender os Vingadores. Como o Homem de Ferro está muito ocupado lutando, o computador dele enviará os dados para você, e sua tarefa é informar quais são pessoas verdadeiras e quais são Ultrons disfarçados.
 
@@ -22,7 +24,7 @@ Para cada caso de teste, imprima uma das seguintes opções:
 - "ultron" se a correspondência for maior que 50% (e menor que 100%).
 - "chefe" se a correspondência for de 100%
 
-### Restrições
+## Restrições
 
 - **1 ≤ X ≤ 50** (casos de teste)
 - O código do Ultron terá entre **1** e **26** letras, sem repetições.
@@ -31,4 +33,34 @@ Para cada caso de teste, imprima uma das seguintes opções:
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+4
+aeiou
+axx
+aeiou
+bbaa
+ultron
+ronluo
+ultron
+rrrrrrrrra
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+pessoa
+pessoa
+chefe
+ultron
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+2
+aeiou
+axo
+aeiou
+bba
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+ultron
+pessoa
+</pre></td></tr>
+</table>
 <!-- end -->

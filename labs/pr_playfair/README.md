@@ -1,116 +1,73 @@
 # A cifra de Playfair
 
-O objetivo desse trabalho é a construção de um programa que realize a cifragem e a decifragem de um texto utilizando a criptografia de Playfair. Ele demandará de conhecimento dos assuntos de strings, matrizes e um pouco de arquivos.
+![Charles Wheatstone, inventor da cifra](assets/author.jpg)
 
-![Autoria de Charles Wheatstone](assets/author.jpg)
+## Objetivo
 
-O conteúdo dessa seção é retirada do site abaixo. Apenas os conteúdos mais importantes foram copiados pra cá. Sugiro que você leia na íntegra no seguinte [site](http://www.numaboa.com.br/criptografia/substituicoes/poligramicas/1041-playfair).
+Implemente um programa que cifre ou decifre o conteúdo de um arquivo usando a cifra de Playfair. O programa recebe o modo e o nome do arquivo como argumentos, solicita a chave e mostra o resultado.
 
-## História
+## Regras
 
-Apesar do nome do Barão de Playfair estar associado a uma das cifra clássicas mais conhecidas, foi seu amigo, o cientista Charles Wheatstone, quem a concebeu. Após sua criação em 1854, o barão conseguiu que o governo britânico adotasse oficialmente o uso da cifra - daí o nome Cifra de Playfair.
+- A grade tem `5 × 5` posições e usa o alfabeto de `A` a `Z`, sem a letra `W`.
+- Para montar a grade, coloque primeiro as letras únicas da chave, em maiúsculas e na ordem em que aparecem, ignorando espaços e `W`. Complete as posições restantes com as letras do alfabeto em ordem, também sem `W`.
+- O texto é convertido para maiúsculas; espaços, tabulações e quebras de linha são ignorados. As letras são processadas em pares.
+- Se um par tiver letras iguais, insira `X` entre elas. Se a letra repetida for `X`, insira `Z`. Se sobrar uma letra no final, acrescente `X`, ou `Z` quando a letra for `X`.
+- Como a grade não contém `W`, ignore essa letra na chave. O texto de entrada não pode conter `W`; informe o problema e encerre sem gerar o resultado.
+- Na cifragem, aplique a regra correspondente a cada par:
+  - Mesma linha: substitua cada letra pela seguinte à direita, voltando ao início da linha quando necessário.
+  - Mesma coluna: substitua cada letra pela seguinte abaixo, voltando ao início da coluna quando necessário.
+  - Linhas e colunas diferentes: mantenha a linha de cada letra e troque suas colunas.
+- Na decifragem, aplique as operações inversas. O resultado mantém os `X` ou `Z` usados no preenchimento; removê-los não faz parte desta atividade.
+- Separe os pares exibidos por um espaço. Grave a saída da cifragem em `cifra.txt` e a da decifragem em `texto.txt`, na pasta de execução.
 
-A Playfair é uma cifra de bloco primitiva, usando alguns princípios comuns às cifras de bloco atuais. O melhor meio de se aproximar da criptologia moderna, sem ter que enfrentar a teoria dos números e a matemática, é entendendo a Playfair.
+![Exemplo das três regras de transformação dos pares](assets/cifragem.png)
 
-As letras são tomadas duas a duas, e aplicadas a uma grade de 5 por 5 que contém o alfabeto cifrante.
+Os exemplos abaixo usam a chave `POWER RANGER`, da qual são retiradas as letras repetidas e `W`, resultando em `POERANG` e na grade:
 
-A Playfair possui outras vantagens: não precisa de tabelas ou dispositivos complicados, possui uma palavra-chave que pode ser memorizada ou trocada com facilidade, é muito fácil de ser implementada e pouco sujeita a erros. Devido a estas características o sistema é perfeito para ser usado como uma \"cifra de campo\".
+```text
+P O E R A
+N G B C D
+F H I J K
+L M Q S T
+U V X Y Z
+```
 
-## Preparando o texto
+## Interação
 
-A preparação do texto claro é extremamente fácil: basta formar grupos de 2 letras, os blocos digrâmicos. Cada bloco receberá um tratamento de acordo com as regras cifrantes (veja abaixo). O texto claro que será cifrado com a Playfair é:
+Na pasta da atividade, execute `tko run . -l go` para validar a solução. Para usar o programa, informe o modo `cifrar` ou `decifrar` e o arquivo de entrada. Em seguida, digite a chave quando solicitada.
 
-MORRO MAS SAPRENDO C
+```text
+go run src/go/main.go cifrar texto.txt
+Digite a chave:
+POWER RANGER
+O texto cifrado eh:
+VG EY AE TO QY TR OA PB GA BY
+```
 
-Preparamos o texto para ser cifrado: MO RR OM AS SA PR EN DO OC
+O arquivo `texto.txt` contém `MORRO MAS SAPRENDO C`. A saída também é gravada em `cifra.txt`.
 
-De imediato notamos que o último bloco ficou com apenas uma letra e que
-existe um bloco com letra dupla (RR). Letras repetidas impedem que a
-cifra possa ser aplicada corretamente. Nestes casos, convenciona-se uma
-letra de separação. Geralmente são usados preferencialmente o X e o Z,
-caso sejam dois XX. Caso falte uma letra no final, adiciona-se X ou Z.
-Corrigindo os blocos obtemos:
+Para decifrar, informe o arquivo cifrado e a mesma chave:
 
-    MO RX RO MA SX SA PR EN DO CX
+```text
+go run src/go/main.go decifrar cifra.txt
+Digite a chave:
+POWER RANGER
+O texto decifrado eh:
+MO RX RO MA SX SA PR EN DO CX
+```
 
-## A matriz de cifragem
+## Etapas
 
-O alfabeto cifrante proposto por Wheatstone fica disposto numa grade de 5 por 5. Como o alfabeto latino possui 26 letras, é preciso eliminar uma das letras. Eliminaremos o W.
+1. Leia o modo e o nome do arquivo; leia a chave como uma linha completa.
+2. Monte a grade eliminando repetições da chave e a letra `W`.
+3. Prepare o texto em pares, separando letras iguais e completando o último par quando necessário.
+4. Localize cada letra na grade e aplique a regra de cifragem ou sua inversa.
+5. Mostre e grave os pares resultantes.
 
-Além disto, para facilitar a memorização do cifrante, Wheatstone sugeriu começar o preenchimento da grade com uma palavra-chave. O restante das células é preenchido com as letras faltantes em ordem alfabética.
+## Critérios de conclusão
 
-No nosso exemplo usaremos a palavra-chave \"POWER RANGER\". Ignoraremos o W e retiraremos os duplicados. Ficamos com \"POERANG\". Preenchemos a grade começando de cima pela esquerda. Depois colocamos o resto do alfabeto em ordem alfabetica.
-
-Resultado:
-
-    P O E R A
-    N G B C D
-    F H I J K
-    L M Q S T 
-    U V X Y Z
-
-## Cifragem
-
-As letras de um bloco podem ter apenas 3 localizações na grade: estão na mesma linha, estão na mesma coluna ou estão em linhas e colunas diferentes. Portanto, existem apenas 3 regras que devem ser aplicadas aos blocos digrâmicos:
-
-1\. Letras na mesma linha são substituídas pelas letras à sua direita. Caso uma das letras do bigrama esteja na última coluna da grade, \"roda-se a linha\" e utiliza-se a letra da primeira coluna.
-
-        Ex: PR > OA, CG > DB, ZV > UX, ZY > UZ
-
-2\. Letras na mesma coluna são substituídas pelas letras abaixo delas. Caso a letra esteja na última linha, \"roda-se a coluna\" e utiliza-se a letra da primeira linha.
-
-        Ex: PF > NL, PU > NP, VM > OV, FN > LF
-
-3\. Letras em linhas e colunas diferentes: as letras do bigrama formam um \"quadrilátero\" e são substituídas pelas letras posicionadas nos cantos contrários do quadrilátero.
-
-        Ex: PG > ON, GP > NO, PB > EN, ZP > UA
-
-## Aplicando a grade
-
-Nosso texto e nossa grade ficarm assim.
-
-    Texto claro:
-    MO RX RO MA SX SA PR EN DO CX
-
-    Grade:
-
-    P O E R A
-    N G B C D
-    F H I J K
-    L M Q S T 
-    U V X Y Z
-
-Cifrando usando as regras temos:
-
-    Texto claro:
-    MO RX RO MA SX SA PR EN DO CX
-    Texto cifrado:
-    VG EY AE TO QY TR OA PB GA BY
-
-Para descriptografar é só fazer as operações contrárias.
-
-## O programa
-
-Você deve fazer criptografar e descriptografar. Ao ser executado ele
-receberá o nome do arquivo que contém o texto por parametro e perguntará
-a senha ao usuário. Ele mostrará o texto processado na tela.
-
-    --Conteúdo de texto.txt
-    MORRO MAS SAPRENDO C 
-
-    --Rodando o programa:
-    # ./cifrar texto.txt
-    >> Digite a chave:
-    << POWERRANGER
-    >> O texto cifrado eh:
-    VG EY AE TO QY TR OA PB GA BY
-
-    --Conteudo do arquivo cifra.txt
-    VG EY AE TO QY TR OA PB GA BY
-
-    --Rodando o programa de decifrar
-    # ./decifrar cifra.txt
-    >> Digite a chave:
-    << POWERRANGER
-    >> O texto decifrado eh:
-    MO RX RO MA SX SA PR EN DO C
+- A grade tem 25 letras distintas, contém todas as letras de `A` a `Z` exceto `W` e começa pelas letras únicas da chave.
+- Pares na mesma linha, coluna ou em linhas e colunas diferentes seguem a regra correspondente.
+- A preparação separa letras iguais e completa um par incompleto, usando `Z` como separador quando necessário para evitar um par `XX`.
+- Decifrar um texto cifrado retorna o texto preparado para cifragem, incluindo as letras de preenchimento.
+- O programa aceita os modos `cifrar` e `decifrar`, mostra o resultado e grava o arquivo de saída correspondente.

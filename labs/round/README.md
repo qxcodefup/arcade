@@ -28,4 +28,27 @@ Na função principal (main), leia um caractere que representa a operação (r, 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+c
+5.5
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+6
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+f
+6.99
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+6
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+c
+6.99
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+7
+</pre></td></tr>
+</table>
 <!-- end -->

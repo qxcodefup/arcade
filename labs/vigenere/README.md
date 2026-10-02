@@ -42,4 +42,38 @@ A operação de descifrar é o contrário da cifragem.
 
 ## Exemplos
 <!-- tests tests.toml --limit 4 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+batata? sim! frita!!
+abac
++
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+bbtctb? skm! grktb!!
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+quando vi voce eu buguei
+princesa
++
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+fliafs ni kfkr gy tuvlmv
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+a data ua bbfrua
+ab
+-
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+a casa ta aberta
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+o bobe!
+ab
++
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+o coce!
+</pre></td></tr>
+</table>
 <!-- end -->

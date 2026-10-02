@@ -1,0 +1,55 @@
+case=
+input=0
+0
+0
+output="you must connect to wifi
+"
+
+
+case=
+input=0
+1
+1
+output="you must connect to wifi
+"
+
+
+case=
+input=0
+0
+1
+output="you must connect to wifi
+"
+
+
+case=
+input=1
+0
+1
+output="you need to login first
+"
+
+
+case=
+input=1
+0
+0
+output="you need to login first
+"
+
+
+case=
+input=1
+1
+0
+output="you must to login as admin
+"
+
+
+case=
+input=1
+1
+1
+output="done
+"
+

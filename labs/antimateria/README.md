@@ -32,4 +32,27 @@ Sua tarefa é criar um programa que simule essa colisão. Dadas duas palavras, e
 
 <!-- REVIEW_NOTE: O texto descreve a sobreposição do sufixo com o prefixo na ordem normal, mas os testes e o código original comparam os caracteres do fim da primeira palavra em ordem inversa. Confirmar qual regra é a pretendida antes de marcar a atividade como revisada. -->
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+mel
+lema
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+a
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+pegasus
+suspiro
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+pegapiro
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+olho
+ohio
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+olio
+</pre></td></tr>
+</table>
 <!-- end -->

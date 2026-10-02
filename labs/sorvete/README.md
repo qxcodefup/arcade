@@ -26,4 +26,24 @@ Dada uma frase com até 100 caracteres, será que você consegue me dizer a quan
 
 ## Exemplos
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+sorvete suor casaca chicletes pegasus
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+minhoca quixe tempero musica roubo
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+0
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+acaro cocegas cagado aquecido
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+3
+</pre></td></tr>
+</table>
 <!-- end -->

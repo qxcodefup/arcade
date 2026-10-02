@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@termgame_1: Modelo de jogo interativo no terminal</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Modelo de jogo interativo no terminal</h1>
+<p><a href="https://youtu.be/2IlDR6D6VVQ"><img alt="Prévia do jogo do caolho" src="assets/caolho.png" /></a></p>
+<h2>Objetivo</h2>
+<p>Explore um jogo de terminal em que um personagem é redesenhado a cada interação. A atividade apresenta uma estrutura inicial para separar os dados do jogo, a atualização do estado e o desenho na tela.</p>
+<h2>Regras</h2>
+<ul>
+<li>O personagem começa na posição <code>(5, 5)</code>, representado por <code>@</code> na cor vermelha.</li>
+<li>As setas direcionais movem o personagem uma posição por vez.</li>
+<li>Ao pressionar uma tecla que produz um caractere, esse caractere passa a representar o personagem.</li>
+<li><code>Esc</code> ou <code>Ctrl+C</code> encerra o jogo.</li>
+<li>A tela é redesenhada após uma tecla ou uma alteração no tamanho do terminal.</li>
+<li>No modelo inicial, o personagem pode sair dos limites visíveis da tela.</li>
+</ul>
+<h2>Interação</h2>
+<p>Execute o programa em um terminal. Use as setas para mover o personagem; pressione uma tecla que produza um caractere para alterar sua representação. Encerre com <code>Esc</code> ou <code>Ctrl+C</code>.</p>
+<h2>Exemplos de execução</h2>
+<p>Ao iniciar, o personagem <code>@</code> aparece próximo ao canto superior esquerdo. Cada tecla atualiza a posição ou o caractere e redesenha a tela. A apresentação visual ocorre no próprio terminal.</p>
+<h2>Instalação</h2>
+<p>Na pasta <code>labs/termgame_1/src/go</code>, execute:</p>
+<div class="language-bash highlight"><pre><span></span><code>go<span class="w"> </span>run<span class="w"> </span>.
+</code></pre></div>
+<p>O módulo Go já declara a dependência <code>tcell</code>. Se a instalação ainda não estiver disponível localmente, o Go poderá baixá-la ao executar o comando.</p>
+<h2>Etapas</h2>
+<ol>
+<li>Execute o modelo e identifique onde o jogo guarda a posição, o símbolo e a cor do personagem.</li>
+<li>Acompanhe como <code>Update</code> altera o estado e como <code>Draw</code> apresenta esse estado na tela.</li>
+<li>Faça o personagem reaparecer do lado oposto ao sair por uma borda. Defina o comportamento para os quatro lados.</li>
+<li>Desenhe as bordas da área de jogo ou impeça o personagem de ultrapassá-las. Compare essas duas regras de movimento.</li>
+<li>Adicione movimento pelas teclas <code>W</code>, <code>A</code>, <code>S</code> e <code>D</code>, sem perder o controle pelas setas.</li>
+<li>Escolha uma extensão: comidas que o personagem pode colocar, paredes que bloqueiam o movimento ou armadilhas que encerram a partida.</li>
+<li>Para a extensão escolhida, atualize os dados do jogo, a inicialização, o desenho e a lógica de atualização. Verifique a interação manualmente após cada mudança.</li>
+</ol>
+<h2>Critérios de conclusão</h2>
+<ul>
+<li>O projeto inicia e encerra sem deixar o terminal em estado incorreto.</li>
+<li>O movimento e a representação do personagem correspondem às teclas pressionadas.</li>
+<li>O comportamento nas bordas está definido e funciona nos quatro lados.</li>
+<li>A extensão escolhida é inicializada, desenhada e atualizada de forma consistente.</li>
+</ul>
+</body>
+</html>

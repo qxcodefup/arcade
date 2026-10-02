@@ -66,11 +66,16 @@ func (g *Game) PlotElem(elem Elem) {
 }
 
 func main() {
-	game := NewGame()      // Cria a tela
-	game.Init()            // Inicializa as variaveis do jogo
-	game.Draw()            // Desenha o jogo na tela
-	game.MainLoop()        // Inicia o loop principal do jogo
-	defer game.tela.Fini() // Encerra a tela ao sair
+	game, err := NewGame()
+	if err != nil {
+		fmt.Println("erro ao iniciar o jogo:", err)
+		return
+	}
+	defer game.tela.Fini()
+
+	game.Init()
+	game.Draw()
+	game.MainLoop()
 }
 
 func (g *Game) MainLoop() {
@@ -92,16 +97,16 @@ func (g *Game) MainLoop() {
 	}
 }
 
-func NewGame() *Game {
+func NewGame() (*Game, error) {
 	g := &Game{}
 	screen, err := tcell.NewScreen()
 	if err != nil {
-		fmt.Printf("erro ao criar a tela: %v", err)
+		return nil, err
 	}
 	if err := screen.Init(); err != nil {
-		fmt.Printf("erro ao iniciar a tela: %v", err)
+		return nil, err
 	}
 	g.tela = screen
 	g.tela.Clear()
-	return g
+	return g, nil
 }

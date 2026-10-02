@@ -21,4 +21,24 @@ Supondo que João seja sobre humano, seu trabalho é fazer um programa para calc
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+12 10 11
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+12 10 12
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+12 10 59
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+12 11 00
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+12 59 59
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+13 00 00
+</pre></td></tr>
+</table>
 <!-- end -->

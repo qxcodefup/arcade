@@ -32,4 +32,61 @@ para mostrar os saltos do sapo até a saída.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+800
+300
+100
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+0 300
+200 490
+390 670
+570 saiu
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+800
+300
+200
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+0 300
+100 390
+190 470
+270 540
+340 600
+400 650
+450 690
+490 720
+520 740
+540 750
+550 750
+550 740
+540 720
+520 690
+490 650
+450 600
+400 540
+340 470
+270 390
+190 300
+100 200
+0 90
+-110 morreu
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+100
+50
+30
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+0 50
+20 60
+30 60
+30 50
+20 30
+0 0
+-30 morreu
+</pre></td></tr>
+</table>
 <!-- end -->

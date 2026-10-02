@@ -29,4 +29,24 @@ Neste problema, dadas as posições do helicóptero, do policial e do fugitivo, 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+4 14 7 -1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+S
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+4 14 7 1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+N
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+15 9 8 -1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+S
+</pre></td></tr>
+</table>
 <!-- end -->

@@ -15,7 +15,7 @@ func main() {
 	consonants := ""
 	for _, char := range scanner.Text() {
 		switch char {
-		case 'a', 'e', 'i', 'o', 'u':
+		case 'a', 'á', 'à', 'â', 'ã', 'e', 'é', 'ê', 'i', 'í', 'o', 'ó', 'ô', 'õ', 'u', 'ú':
 			vowels += string(char)
 		case ' ':
 		default:

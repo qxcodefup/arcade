@@ -26,4 +26,32 @@ Imprima o vetor com a quantidade de água que cada casa foi abastecida.
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5 1
+0 2 1  
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1 1 1 0 0
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5 2
+0 2 1
+2 4 2
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1 1 3 2 2
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+10 5
+1 4 5
+5 8 2
+0 9 1
+8 9 3
+4 8 2
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1 6 6 6 8 5 5 5 8 4
+</pre></td></tr>
+</table>
 <!-- end -->

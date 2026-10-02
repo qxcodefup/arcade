@@ -27,4 +27,30 @@ A regra parece estranha, não é mesmo? Mas a gente nem precisa entender a lógi
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+35
+60
+75
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+N
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+55
+68
+67
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+S
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+66
+80
+80
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+N
+</pre></td></tr>
+</table>
 <!-- end -->

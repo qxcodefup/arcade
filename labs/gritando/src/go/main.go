@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"unicode"
 )
 
 func main() {
@@ -11,14 +12,15 @@ func main() {
 	if !scanner.Scan() {
 		return
 	}
+	result := make([]rune, 0, len(scanner.Text()))
 	for _, char := range scanner.Text() {
-		if char >= 'a' && char <= 'z' {
-			fmt.Printf("%c", char-('a'-'A'))
-		} else if char >= 'A' && char <= 'Z' {
-			fmt.Printf("%c", char+('a'-'A'))
+		if unicode.IsLower(char) {
+			result = append(result, unicode.ToUpper(char))
+		} else if unicode.IsUpper(char) {
+			result = append(result, unicode.ToLower(char))
 		} else {
-			fmt.Printf("%c", char)
+			result = append(result, char)
 		}
 	}
-	fmt.Println()
+	fmt.Println(string(result))
 }

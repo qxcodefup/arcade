@@ -22,4 +22,29 @@ Sua tarefa é criar um programa que, dada uma string, encontre e retorne a subse
 
 ## Exemplos
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+aeb
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+ae
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+aebeiocdu
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+eio
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+2
+abdeiuofaoi
+xaeioux
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+eiuo
+aeiou
+</pre></td></tr>
+</table>
 <!-- end -->

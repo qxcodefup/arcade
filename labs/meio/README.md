@@ -35,4 +35,30 @@ Receba três números inteiros distintos e determine qual deles é o valor inter
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+2
+4
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+4
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+6
+5
+7
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+6
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+0
+6
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+</pre></td></tr>
+</table>
 <!-- end -->

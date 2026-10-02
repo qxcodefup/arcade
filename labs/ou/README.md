@@ -17,4 +17,24 @@ Implemente um programa que recebe um número inteiro e imprime "SIM" caso ele se
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+SIM
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+12
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+NAO
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+-3
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+NAO
+</pre></td></tr>
+</table>
 <!-- end -->

@@ -28,4 +28,30 @@ Observe que em word1 podem aparecer pontuação, numeros, etc. Se word1 = "123!\
 
 ## Exemplos
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+Opa amigo xarles 2o
+a
+x
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Opx xmigo axrles 2o
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+minha chinela
+abcdefghijlm
+nopqrtuvwxyz
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+zwavn pvwaryn
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+aquoso estrela
+aeios
+43102
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+4qu020 32tr3l4
+</pre></td></tr>
+</table>
 <!-- end -->

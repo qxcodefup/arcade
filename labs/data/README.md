@@ -17,4 +17,36 @@ Imprima a data e a hora no formato `hh:mm dd/mm/aa`, incluindo zeros à esquerda
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+4
+12
+12
+3
+1988
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+04:12 12/03/88
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+12
+30
+1
+3
+188
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+12:30 01/03/88
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+14
+7
+7
+9
+2005
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+14:07 07/09/05
+</pre></td></tr>
+</table>
 <!-- end -->

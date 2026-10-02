@@ -36,4 +36,27 @@ printf("%%");
 
 ## Exemplos
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+Yudi
+Priscilla
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+As chances do crush te dar bola sao: 20%!
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+Shun
+Hyoga
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+As chances do crush te dar bola sao: 0%!
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+Kratos
+Athena
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+As chances do crush te dar bola sao: 20%!
+</pre></td></tr>
+</table>
 <!-- end -->

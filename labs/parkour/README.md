@@ -46,4 +46,27 @@ Neste exemplo, Mario precisa realizar 4 movimentos de parkour: do bloco `1` para
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+1 2 1 2 3
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+0
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+6
+4 2 5 4 5 3
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+3
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+8
+1 3 5 7 6 5 4 3
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+3
+</pre></td></tr>
+</table>
 <!-- end -->

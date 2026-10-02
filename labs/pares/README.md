@@ -18,4 +18,27 @@ Dado dois números inteiros **A** e **B**, some todos os números inteiros pares
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+10
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+30
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+5
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+6
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+invalido
+</pre></td></tr>
+</table>
 <!-- end -->

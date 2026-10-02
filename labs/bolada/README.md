@@ -39,6 +39,29 @@ Desenvolva o programa que dados os valores de entrada, imprima o resultado de sa
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+c
+100
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Perfeito
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+b
+68
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Fraco, nem passou
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+c
+160
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Muito forte, bola fora
+</pre></td></tr>
+</table>
 <!-- end -->
 
 ## Ajuda

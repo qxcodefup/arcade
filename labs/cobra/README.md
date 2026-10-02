@@ -43,4 +43,36 @@ Mavarildo se distrai por S segundos. Imagine que cada segundo, a cabeça da cobr
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+10
+4
+3
+R
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+5 3
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+10
+4
+3
+R
+8
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+2 3
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+10
+4
+5
+U
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+4 4
+</pre></td></tr>
+</table>
 <!-- end -->

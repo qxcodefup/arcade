@@ -1,0 +1,23 @@
+case=
+input=extraordinario
+aeioubcdfgh
+*
+output="e***ao*di*a*io
+"
+
+
+case=
+input=Teco-Teco!
+tbxyan
+_
+output="T___-T___!
+"
+
+
+case=
+input=Seu Pilantra!
+yzxa
+*
+output="*** ***a***a!
+"
+

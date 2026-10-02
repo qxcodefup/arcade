@@ -26,4 +26,24 @@ O Chaves não sabe diferenciar positivo, negativo e nulo, mas você sabe! Eu esp
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+positivo
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+-1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+negativo
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+0
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+nulo
+</pre></td></tr>
+</table>
 <!-- end -->

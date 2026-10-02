@@ -23,4 +23,33 @@ A ordem da entrada é importante nessa questão. As três primeira entradas são
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+10
+10
+5
+10
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Aprovado com 10.0
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+10
+2
+2
+6
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Final com 6.0
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+10
+10
+2
+10
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Aprovado com 10.0
+</pre></td></tr>
+</table>
 <!-- end -->

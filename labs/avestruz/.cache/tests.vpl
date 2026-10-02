@@ -1,0 +1,27 @@
+case=
+input=A Andreia alimentou a avestruz com alcaparras
+a
+output="10
+"
+
+
+case=
+input=A Andreia atirou alcachofras no LEAO
+e
+output="2
+"
+
+
+case=
+input=A Andreia atirou alcachofras no leao
+x
+output="0
+"
+
+
+case=
+input=A Xuxa xogou xapatos no xacare Xato e xujo
+x
+output="7
+"
+

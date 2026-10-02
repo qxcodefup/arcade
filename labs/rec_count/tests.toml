@@ -1,8 +1,0 @@
-[[tests]]
-input = '''
-fundamentos de programacao
-a
-'''
-output = '''
-4
-'''

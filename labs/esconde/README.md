@@ -25,4 +25,51 @@ Dado um número N ímpar, a tarefa é imprimir a sequência de números ímpares
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+3
+5
+4
+2
+0
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+9
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+3
+5
+7
+9
+8
+6
+4
+2
+0
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+13
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+3
+5
+7
+9
+11
+13
+12
+10
+8
+6
+4
+2
+0
+</pre></td></tr>
+</table>
 <!-- end -->

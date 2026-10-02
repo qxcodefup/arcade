@@ -1,0 +1,31 @@
+case=
+input=Opa amigo xarles 2o
+a
+x
+output="Opx xmigo axrles 2o
+"
+
+
+case=
+input=minha chinela
+abcdefghijlm
+nopqrtuvwxyz
+output="zwavn pvwaryn
+"
+
+
+case=
+input=aquoso estrela
+aeios
+43102
+output="4qu020 32tr3l4
+"
+
+
+case=
+input=eu desejo eu quero eu vou
+eo
+ta
+output="tu dtstja tu qutra tu vau
+"
+

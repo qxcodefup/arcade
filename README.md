@@ -173,24 +173,24 @@ Os marcadores das tarefas são:
 
 ## Strings <!-- @str -->
 
-- [x] `eval=diff gain=1 cost=1` [Inverter String](labs/xuxa/README.md)
-- [x] `eval=diff gain=1 cost=1` [Inverter Case de char](labs/inverte/README.md)
-- [x] `eval=diff gain=1 cost=1` [Obter Substrings](labs/substring/README.md)
-- [x] `eval=diff gain=2 cost=1` [Contando luzes](labs/leds/README.md)
-- [x] `eval=diff gain=2 cost=1` [Separando vogais de consoantes](labs/ru/README.md)
-- [x] `eval=diff gain=2 cost=1` [Invertendo o Case da frase](labs/gritando/README.md)
-- [x] `eval=diff gain=2 cost=1` [Contar Substrings](labs/amora/README.md)
-- [x] `eval=diff gain=2 cost=1` [Substituições de substrings](labs/traficantes/README.md)
-- [x] `eval=diff gain=3 cost=1` [Juntar palavras](labs/fresco/README.md)
-- [x] `eval=diff gain=2 cost=1` [Verificar ordenação da frase](labs/gamados/README.md)
-- [x] `eval=diff gain=2 cost=1` [Mário e o Assassins Creed](labs/mario/README.md)
-- [x] `eval=diff gain=1 cost=1` [Valentina e Valdiskley](labs/valentina/README.md)
-- [x] `eval=diff gain=2 cost=1` [Vogais e Consoantes - Substituindo](labs/vcvcvc/README.md)
-- [x] `eval=diff gain=2 cost=1` [Eribelton e a Ascologia V3 - Busca do mínimo](labs/eribelton/README.md)
-- [x] `eval=diff gain=2 cost=1` [Identificando Ultrons V2](labs/disfarce/README.md)
-- [x] `eval=diff gain=2 cost=1` [Aniquilando Ultrons V3](labs/chefe/README.md)
-- [x] `eval=diff gain=2 cost=1` [Identificando tipos](labs/identificando/README.md)
-- [x] `eval=diff gain=2 cost=1` [Calipso e Jack Sparrow - Alternar Case](labs/calipso/README.md)
+- [x] `eval=diff gain=1 cost=1` [Inverter String](labs/xuxa/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=1 cost=1` [Inverter Case de char](labs/inverte/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=1 cost=1` [Obter Substrings](labs/substring/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Contando luzes](labs/leds/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Separando vogais de consoantes](labs/ru/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Invertendo o Case da frase](labs/gritando/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Contar Substrings](labs/amora/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Substituições de substrings](labs/traficantes/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=3 cost=1` [Juntar palavras](labs/fresco/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Verificar ordenação da frase](labs/gamados/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Mário e o Assassins Creed](labs/mario/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=1 cost=1` [Valentina e Valdiskley](labs/valentina/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Vogais e Consoantes - Substituindo](labs/vcvcvc/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Eribelton e a Ascologia V3 - Busca do mínimo](labs/eribelton/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Identificando Ultrons V2](labs/disfarce/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Aniquilando Ultrons V3](labs/chefe/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Identificando tipos](labs/identificando/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=2 cost=1` [Calipso e Jack Sparrow - Alternar Case](labs/calipso/README.md) <!-- REVIEW_DONE -->
 - [x] `eval=diff gain=2 cost=1` [Krueguer e Jason - Busca de maior ocorrência](labs/krueguer/README.md) <!-- REVIEW_DONE -->
 - [x] `eval=diff gain=3 cost=1` [Antimatéria e Matéria](labs/antimateria/README.md) <!-- REVIEW_DONE -->
 - [x] `eval=diff gain=2 cost=1` [Meu word QuEbRoU - formatação de case](labs/word/README.md) <!-- REVIEW_DONE -->
@@ -266,15 +266,13 @@ Os marcadores das tarefas são:
 - [x] `eval=self gain=3 cost=1` [Jokenpô - Melhor de 5](labs/pr_jokenpo/README.md) <!-- REVIEW_DONE -->
 - [x] `eval=self gain=4 cost=1` [Adivinhe o número entre dois limites](labs/pr_chute_a/README.md) <!-- REVIEW_DONE -->
 - [x] `eval=self gain=4 cost=1` [O computador tenta adivinhar seu número](labs/pr_chute_b/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=self gain=8 cost=1` [Modelo de jogo interativo no terminal](labs/termgame_1/README.md)
-- [ ] `eval=self gain=4 cost=1` [Blackjack 21](labs/pr_game21/README.md)
-- [ ] `eval=self gain=4 cost=1` [Jogo da Palavra Oculta](labs/pr_forca/README.md)
-- [ ] `eval=self gain=4 cost=1` [Simulador de Bingo e Gerador de Cartelas](labs/pr_bingo/README.md)
-- [ ] `eval=self gain=4 cost=1` [Batalha Orc](labs/pr_orc/README.md)
-- [ ] `eval=self gain=4 cost=1` [A cifra de Playfair](labs/pr_playfair/README.md)
+- [ ] `eval=self gain=8 cost=1` [Modelo de jogo interativo no terminal](labs/termgame_1/README.md) <!-- REVIEW_DONE -->
+- [ ] `eval=self gain=4 cost=1` [Blackjack 21](labs/pr_game21/README.md) <!-- REVIEW_DONE -->
+- [ ] `eval=self gain=4 cost=1` [Jogo da Palavra Oculta](labs/pr_forca/README.md) <!-- REVIEW_DONE -->
+- [ ] `eval=self gain=2 cost=1` [Gerador de cartelas do Bingo 75](labs/pr_bingo_cartela/README.md) <!-- REVIEW_DONE -->
+- [ ] `eval=self gain=2 cost=1` [Roleta e rack do Bingo 75](labs/pr_bingo_hack/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=self gain=4 cost=1` [Batalha Orc: todos contra todos](labs/pr_orc/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=self gain=4 cost=1` [Batalha Orc: combate entre equipes](labs/pr_orc_times/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=self gain=4 cost=1` [A cifra de Playfair](labs/pr_playfair/README.md) <!-- REVIEW_DONE -->
 
 ## labs <!-- @labs active=0 -->
-
-- [ ] `eval=diff gain=1 cost=1` [Contagem de ocorrências](labs/ocorrencias/README.md)
-- [ ] `eval=diff gain=1 cost=1` [Números de Fibonacci](labs/rec_fib/README.md)
-- [ ] `eval=diff gain=1 cost=1` [Contando caracteres recursivamente](labs/rec_count/README.md)

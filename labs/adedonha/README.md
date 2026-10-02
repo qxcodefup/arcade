@@ -44,6 +44,44 @@ Leia a soma dos dedos dos três irmãos e diga qual a letra L que será utilizad
 ## Exemplos
 
 <!-- tests tests.toml --limit 6 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+0 
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+joguem de novo
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+a
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+2
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+b
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+26
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+z
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+27
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+a
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+28
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+b
+</pre></td></tr>
+</table>
 <!-- end -->
 
 [Explicação](https://youtu.be/qKkmrLZfYcA)

@@ -36,4 +36,30 @@ if !wifi {
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+0
+0
+0
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+you must connect to wifi
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+0
+1
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+you must connect to wifi
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+0
+0
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+you must connect to wifi
+</pre></td></tr>
+</table>
 <!-- end -->

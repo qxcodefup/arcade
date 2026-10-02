@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@xadrez: Xadrez - OBI 2019 F1P1</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 20px; }
+        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
+        code { font-family: monospace; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        /* Estilos básicos para o destaque de sintaxe (gerado pelo pygments via pymdownx.highlight) */
+        .highlight .hll { background-color: #ffffcc }
+        .highlight .c { color: #999988; font-style: italic } /* Comment */
+        .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+        .highlight .k { color: #000000; font-weight: bold } /* Keyword */
+        .highlight .o { color: #000000; font-weight: bold } /* Operator */
+        .highlight .ch { color: #999988; font-style: italic } /* Comment.Hashbang */
+        .highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+        .highlight .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
+        .highlight .cpf { color: #999988; font-style: italic } /* Comment.PreprocFile */
+        .highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+        .highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+        .highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+        .highlight .ge { color: #000000; font-style: italic } /* Generic.Emph */
+        .highlight .gr { color: #aa0000 } /* Generic.Error */
+        .highlight .gh { color: #999999 } /* Generic.Heading */
+        .highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+        .highlight .go { color: #888888 } /* Generic.Output */
+        .highlight .gp { color: #555555 } /* Generic.Prompt */
+        .highlight .gs { font-weight: bold } /* Generic.Strong */
+        .highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+        .highlight .gt { color: #aa0000 } /* Generic.Traceback */
+        .highlight .kc { color: #000000; font-weight: bold } /* Keyword.Constant */
+        .highlight .kd { color: #000000; font-weight: bold } /* Keyword.Declaration */
+        .highlight .kn { color: #000000; font-weight: bold } /* Keyword.Namespace */
+        .highlight .kp { color: #000000; font-weight: bold } /* Keyword.Pseudo */
+        .highlight .kr { color: #000000; font-weight: bold } /* Keyword.Reserved */
+        .highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+        .highlight .m { color: #009999 } /* Literal.Number */
+        .highlight .s { color: #dd1144 } /* Literal.String */
+        .highlight .na { color: #008080 } /* Name.Attribute */
+        .highlight .nb { color: #0086B3 } /* Name.Builtin */
+        .highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+        .highlight .no { color: #008080 } /* Name.Constant */
+        .highlight .nd { color: #3c5d5d; font-weight: bold } /* Name.Decorator */
+        .highlight .ni { color: #800080 } /* Name.Entity */
+        .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+        .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+        .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
+        .highlight .nn { color: #555555; font-weight: bold } /* Name.Namespace */
+        .highlight .nx { color: #990000; font-weight: bold } /* Name.Other */
+        .highlight .py { color: #009999 } /* Name.Property */
+        .highlight .p { color: #000000 } /* Name.Punctuation */
+        .highlight .nv { color: #008080 } /* Name.Variable */
+        .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
+        .highlight .w { color: #bbbbbb } /* Text.Whitespace */
+        .highlight .mf { color: #009999 } /* Literal.Number.Float */
+        .highlight .mh { color: #009999 } /* Literal.Number.Hex */
+        .highlight .mi { color: #009999 } /* Literal.Number.Integer */
+        .highlight .mo { color: #009999 } /* Literal.Number.Oct */
+        .highlight .sb { color: #dd1144 } /* Literal.String.Backtick */
+        .highlight .sc { color: #dd1144 } /* Literal.String.Char */
+        .highlight .sd { color: #dd1144 } /* Literal.String.Doc */
+        .highlight .s2 { color: #dd1144 } /* Literal.String.Double */
+        .highlight .se { color: #dd1144 } /* Literal.String.Escape */
+        .highlight .sh { color: #dd1144 } /* Literal.String.Heredoc */
+        .highlight .si { color: #dd1144 } /* Literal.String.Interpol */
+        .highlight .sx { color: #dd1144 } /* Literal.String.Other */
+        .highlight .sr { color: #009926 } /* Literal.String.Regex */
+        .highlight .s1 { color: #dd1144 } /* Literal.String.Single */
+        .highlight .ss { color: #dd1144 } /* Literal.String.Symbol */
+        .highlight .bp { color: #0086B3 } /* Name.Builtin.Pseudo */
+        .highlight .vc { color: #008080 } /* Name.Variable.Class */
+        .highlight .vg { color: #008080 } /* Name.Variable.Global */
+        .highlight .vi { color: #008080 } /* Name.Variable.Instance */
+        .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+    </style>
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+<h1>Xadrez - OBI 2019 F1P1</h1>
+<h2>Contexto</h2>
+<p>No tabuleiro de xadrez, a casa na linha 1, coluna 1 (canto superior esquerdo) é sempre branca e as cores das casas se alternam entre branca e preta, de acordo com o padrão conhecido como... xadrez! Dessa forma, como o tabuleiro tradicional tem oito linhas e oito colunas, a casa na linha 8, coluna 8 (canto inferior direito) será também branca. Neste problema, entretanto, queremos saber a cor da casa no canto inferior direito de um tabuleiro com dimensões quaisquer: L linhas e C colunas. No exemplo da figura, para L = 6 e C = 9, a casa no canto inferior direito será preta!</p>
+<p><img alt="_" src="data:image/png;base64,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" /></p>
+<h3>Entrada</h3>
+<ul>
+<li>A primeira linha da entrada contém um inteiro L indicando o número de linhas do tabuleiro.</li>
+<li>A segunda linha da entrada contém um inteiro C representando o número de colunas.</li>
+</ul>
+<h3>Saída</h3>
+<ul>
+<li>Imprima uma linha na saída. A linha deve conter um inteiro, representando a cor da casa no canto inferior direito do tabuleiro:<ul>
+<li>1, se for branca; e</li>
+<li>0, se for preta.</li>
+</ul>
+</li>
+</ul>
+<h2>Exemplos</h2>
+<!-- tests tests.toml --limit 4 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+6
+9
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+0
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+8
+8
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+91
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+401
+322
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+0
+</pre></td></tr>
+</table>
+<!-- end -->
+</body>
+</html>

@@ -1,6 +1,8 @@
 # Juntar palavras
 
-![_](assets/cover.jpg)
+![Capa ilustrada da atividade Juntar palavras](assets/cover.jpg)
+
+## Contexto
 
 Você já percebeu que, na fala, às vezes juntamos palavras quando uma termina em vogal e a seguinte começa em vogal? Esse fenômeno tem um nome elegante em francês: *liaison*.
 
@@ -14,7 +16,7 @@ Sua tarefa é criar um programa que simule esse efeito. Remova o espaço entre d
 
 - O texto com as palavras unidas pelo efeito de *liaison*.
 
-### Restrições
+## Restrições
 
 - O texto conterá apenas letras minúsculas e espaços.
 - Haverá apenas um espaço entre as palavras, sem espaços no início ou no fim da frase.
@@ -23,4 +25,24 @@ Sua tarefa é criar um programa que simule esse efeito. Remova o espaço entre d
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+a porta amassou
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+a portaamassou
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+carla almeida alencar
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+carlaalmeidaalencar
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+a carla a ama
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+a carlaaama
+</pre></td></tr>
+</table>
 <!-- end -->

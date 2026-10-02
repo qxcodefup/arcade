@@ -21,4 +21,30 @@ Imprima primeiro o valor de cada parcela e depois o valor total, cada um com dua
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+100
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+100.00
+100.00
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+100
+2
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+52.50
+105.00
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+100
+10
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+14.50
+145.00
+</pre></td></tr>
+</table>
 <!-- end -->

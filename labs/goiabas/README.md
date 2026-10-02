@@ -24,4 +24,33 @@ Dada a capacidade **C** da cesta, a quantidade de frutas, calcule quantos minuto
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3
+1
+1
+1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+10
+4
+4
+4
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+2
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+2
+4
+2
+3
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+5
+</pre></td></tr>
+</table>
 <!-- end -->

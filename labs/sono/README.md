@@ -20,4 +20,27 @@ Se o segundo horário for menor que o primeiro, compreenda como o dia seguinte. 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+01 00 00
+03 00 00
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+02 00 00
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+02 11 00
+03 10 10
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+00 59 10
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+04 10 00
+03 10 10
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+23 00 10
+</pre></td></tr>
+</table>
 <!-- end -->

@@ -24,4 +24,37 @@ Dada a idade do filho mais novo de Seu David e a quantidade de filhos que ele te
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+2
+3
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+2
+4
+6
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+6
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+1
+3
+5
+7
+9
+11
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+10
+4
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+10
+12
+14
+16
+</pre></td></tr>
+</table>
 <!-- end -->

@@ -23,4 +23,33 @@ Ao lidar com grandes volumes de dados em sequência, é comum ler e armazenar to
 ## Exemplos
 
 <!-- tests tests.toml --limit 4 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3
+1 2 3
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+[ 1 2 3 ]
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+0
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+[ ]
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+6
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+[ 6 ]
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+1 2 3 4 5
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+[ 1 2 3 4 5 ]
+</pre></td></tr>
+</table>
 <!-- end -->

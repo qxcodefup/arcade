@@ -29,9 +29,9 @@ func main() {
 		fmt.Println()
 		return
 	}
-	end := start + count
-	if end > len(text) {
-		end = len(text)
+	end := len(text)
+	if count < len(text)-start {
+		end = start + count
 	}
 	fmt.Println(string(text[start:end]))
 }

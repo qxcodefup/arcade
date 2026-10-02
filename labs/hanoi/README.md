@@ -47,6 +47,56 @@ A -> C
 Você pode simular as jogadas neste [jogo de Hanoi](http://www.dynamicdrive.com/dynamicindex12/towerhanoi.htm).
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+5
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+A -> B
+C -> B
+C -> A
+B -> A
+C -> B
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+B -> A
+C -> B
+C -> A
+B -> A
+B -> C
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+</pre></td></tr>
+</table>
 <!-- end -->
 
 ## Orientações

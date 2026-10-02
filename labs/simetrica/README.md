@@ -23,4 +23,30 @@ Uma matriz diz-se simétrica se coincidir com a sua transposta, ou seja, se A = 
 ## Exemplos
 
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1 4 7
+4 1 8
+7 8 1
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+sim
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+3 3 3
+3 3 3
+3 3 3
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+sim
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1 2 3
+4 5 6
+7 8 9
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+nao
+</pre></td></tr>
+</table>
 <!-- end -->

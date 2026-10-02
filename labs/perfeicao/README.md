@@ -18,4 +18,24 @@ O novo nome ou "sem sorte"
 
 ## Exemplos
 <!-- tests tests.toml --limit 3 -->
+<table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+Dhaquison
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Dhaquisonn
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+Alfredo
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+Alfredoc
+</pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+Maikou
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+sem sorte
+</pre></td></tr>
+</table>
 <!-- end -->
