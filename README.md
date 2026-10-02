@@ -23,256 +23,256 @@ Os marcadores das tarefas são:
 
 ## Operações <!-- @base -->
 
-- [x] `eval=diff gain=1 cost=1` [Soma de três inteiros](labs/tres/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Resultado e resto na divisão](labs/resto/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Média de dois inteiros](labs/media/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Calculando quanto sobrou](labs/sobrou/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Converter segundos em h:m:s](labs/segundos/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Conversor para Fahrenheit](labs/celsius/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Pintando a casa](labs/pintando/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Distância entre dois pontos](labs/bala/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=2 cost=1` [Tipos de divisão](labs/quebrada/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=2 cost=1` [Operações básicas](labs/operacoes/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=2 cost=1` [Formatando data](labs/data/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Opala bebedor](labs/opala/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Comprando tv parcelada](labs/tv/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=1 cost=1` [Soma de três inteiros](labs/tres/README.md)
+- [x] `eval=diff gain=1 cost=1` [Resultado e resto na divisão](labs/resto/README.md)
+- [x] `eval=diff gain=1 cost=1` [Média de dois inteiros](labs/media/README.md)
+- [x] `eval=diff gain=1 cost=1` [Calculando quanto sobrou](labs/sobrou/README.md)
+- [x] `eval=diff gain=1 cost=1` [Converter segundos em h:m:s](labs/segundos/README.md)
+- [x] `eval=diff gain=2 cost=1` [Conversor para Fahrenheit](labs/celsius/README.md)
+- [x] `eval=diff gain=2 cost=1` [Pintando a casa](labs/pintando/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Distância entre dois pontos](labs/bala/README.md)
+- [ ] `eval=diff gain=2 cost=1` [Tipos de divisão](labs/quebrada/README.md)
+- [ ] `eval=diff gain=2 cost=1` [Operações básicas](labs/operacoes/README.md)
+- [ ] `eval=diff gain=2 cost=1` [Formatando data](labs/data/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Opala bebedor](labs/opala/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Comprando tv parcelada](labs/tv/README.md)
 
 ## Seleção <!-- @if -->
 
-- [x] `eval=diff gain=1 cost=1` [Valor absoluto](labs/abs/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Maior de dois números](labs/max/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [É 3 ou 5](labs/ou/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [É positivo](labs/positivo/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Múltiplo de sete](labs/multiplo/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Calculadora numérica](labs/calc/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Retornando problemas primeiro](labs/guarda/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Quantos são iguais](labs/quantos/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Ímpar ou par - OBI 2016 - F1P1](labs/impar/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Arredondar número](labs/round/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Criança, jovem, adulto](labs/mumia/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [A raposa e os esquilos](labs/meio/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Jokenpo das tartarugas](labs/jokenpo/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Será que eu passo?](labs/final/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Semana e sábado](labs/semana/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Critério para triângulos](labs/varetas/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Usando biblioteca matemática](labs/bhaskara/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Essa nota presta? - OBI 2019 F1P1](labs/cortada/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [A idade do filho mais velho - OBI 2019 - F1PJ](labs/monica/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Dronede Entrega - OBI 2017 - Fase 1](labs/drone/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Teleférico OBI 2017 - Fase 1](labs/teleferico/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Pegar do pé do vizinho](labs/goiabas/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Jogo da cobrinha](labs/cobra/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Game10 - OBI 2017 - Fase 1 - Universitário](labs/game10/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Calculando aumento](labs/salario/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=2 cost=1` [Calculando impedimento](labs/impedido/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=1 cost=1` [Valor máximo entre dois números](labs/maximo/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=2 cost=1` [Positivo, Nulo ou Negativo?](labs/chaves/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Quem chega mais perto](labs/chute/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Hora do chute 2](labs/maior/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=2 cost=1` [Plantação](labs/morangos/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=2 cost=1` [Frota de taxi - OBI 2005](labs/taxi/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Zerinho ou Um](labs/zerinho/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=1 cost=1` [Par ou impar](labs/par/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=2 cost=1` [Verificar ambos](labs/divisiveis/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Xadrez - OBI 2019 F1P1](labs/xadrez/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Zerim ou um americano](labs/americano/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Jokenpo com quinze opções](labs/jokenpo15/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Módulo no ângulo Cartesiano](labs/loops/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Jogo de dominó - OBI 2019 F1PJ](labs/domino/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Formiga da bundona](labs/bundona/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Escolhendo o maior](labs/omeletao/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Quiz do Harry Potter](labs/quiz/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Professor](labs/bonzinho/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Bolada na fuça](labs/bolada/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Calculando o próximo segundo](labs/segundo/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Pensando letras como números](labs/adedonha/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Quanto tempo ainda tenho](labs/sono/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=1 cost=1` [Valor absoluto](labs/abs/README.md)
+- [x] `eval=diff gain=1 cost=1` [Maior de dois números](labs/max/README.md)
+- [x] `eval=diff gain=1 cost=1` [É 3 ou 5](labs/ou/README.md)
+- [x] `eval=diff gain=1 cost=1` [É positivo](labs/positivo/README.md)
+- [x] `eval=diff gain=1 cost=1` [Múltiplo de sete](labs/multiplo/README.md)
+- [x] `eval=diff gain=2 cost=1` [Calculadora numérica](labs/calc/README.md)
+- [x] `eval=diff gain=2 cost=1` [Retornando problemas primeiro](labs/guarda/README.md)
+- [x] `eval=diff gain=2 cost=1` [Quantos são iguais](labs/quantos/README.md)
+- [x] `eval=diff gain=3 cost=1` [Ímpar ou par - OBI 2016 - F1P1](labs/impar/README.md)
+- [x] `eval=diff gain=3 cost=1` [Arredondar número](labs/round/README.md)
+- [x] `eval=diff gain=3 cost=1` [Criança, jovem, adulto](labs/mumia/README.md)
+- [x] `eval=diff gain=3 cost=1` [A raposa e os esquilos](labs/meio/README.md)
+- [x] `eval=diff gain=3 cost=1` [Jokenpo das tartarugas](labs/jokenpo/README.md)
+- [x] `eval=diff gain=3 cost=1` [Será que eu passo?](labs/final/README.md)
+- [x] `eval=diff gain=3 cost=1` [Semana e sábado](labs/semana/README.md)
+- [x] `eval=diff gain=3 cost=1` [Critério para triângulos](labs/varetas/README.md)
+- [x] `eval=diff gain=3 cost=1` [Usando biblioteca matemática](labs/bhaskara/README.md)
+- [x] `eval=diff gain=3 cost=1` [Essa nota presta? - OBI 2019 F1P1](labs/cortada/README.md)
+- [x] `eval=diff gain=3 cost=1` [A idade do filho mais velho - OBI 2019 - F1PJ](labs/monica/README.md)
+- [x] `eval=diff gain=3 cost=1` [Dronede Entrega - OBI 2017 - Fase 1](labs/drone/README.md)
+- [x] `eval=diff gain=3 cost=1` [Teleférico OBI 2017 - Fase 1](labs/teleferico/README.md)
+- [x] `eval=diff gain=3 cost=1` [Pegar do pé do vizinho](labs/goiabas/README.md)
+- [x] `eval=diff gain=3 cost=1` [Jogo da cobrinha](labs/cobra/README.md)
+- [x] `eval=diff gain=3 cost=1` [Game10 - OBI 2017 - Fase 1 - Universitário](labs/game10/README.md)
+- [x] `eval=diff gain=3 cost=1` [Calculando aumento](labs/salario/README.md)
+- [ ] `eval=diff gain=2 cost=1` [Calculando impedimento](labs/impedido/README.md)
+- [ ] `eval=diff gain=1 cost=1` [Valor máximo entre dois números](labs/maximo/README.md)
+- [ ] `eval=diff gain=2 cost=1` [Positivo, Nulo ou Negativo?](labs/chaves/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Quem chega mais perto](labs/chute/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Hora do chute 2](labs/maior/README.md)
+- [ ] `eval=diff gain=2 cost=1` [Plantação](labs/morangos/README.md)
+- [ ] `eval=diff gain=2 cost=1` [Frota de taxi - OBI 2005](labs/taxi/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Zerinho ou Um](labs/zerinho/README.md)
+- [ ] `eval=diff gain=1 cost=1` [Par ou impar](labs/par/README.md)
+- [ ] `eval=diff gain=2 cost=1` [Verificar ambos](labs/divisiveis/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Xadrez - OBI 2019 F1P1](labs/xadrez/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Zerim ou um americano](labs/americano/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Jokenpo com quinze opções](labs/jokenpo15/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Módulo no ângulo Cartesiano](labs/loops/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Jogo de dominó - OBI 2019 F1PJ](labs/domino/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Formiga da bundona](labs/bundona/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Escolhendo o maior](labs/omeletao/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Quiz do Harry Potter](labs/quiz/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Professor](labs/bonzinho/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Bolada na fuça](labs/bolada/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Calculando o próximo segundo](labs/segundo/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Pensando letras como números](labs/adedonha/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Quanto tempo ainda tenho](labs/sono/README.md)
 
 ## Repetição <!-- @for -->
 
-- [x] `eval=diff gain=1 cost=1` [Treino de loop](labs/loop_i/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Imprimindo em linha](labs/loop_ii/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Loop decrescente](labs/loop_iii/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Loop em ambas as direções](labs/loop_iv/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Loop com continue e break](labs/loop_v/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Calculando soma](labs/pares/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Sapatos para 2 e 3](labs/sapatos/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Filhos de Seu David](labs/filhos/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Ingrid quer chegar no céu](labs/ceu/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Diana no esconde-esconde](labs/esconde/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Viunei e a saúde mental](labs/zigzag/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Paulo Victor e seu sapato colorido](labs/colorido/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Jogo de laço](labs/concentra/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Fuga em helicóptero - OBI 2016](labs/fuga/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Ônibus dos alunos](labs/lotado/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Número palíndromo](labs/spok/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Sapinho no Poço](labs/sapinho/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Fatoração de um número](labs/fatores/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Sapinho 2 morrendo no poço](labs/poco/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Sapinho 3 matemático não quer morrer afogado](labs/afogado/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Castelo de Cubos](labs/castelos/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Quebrador de copos](labs/copos/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Calculando se é](labs/primo/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Sopa de coelho](labs/sopa/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Fazendo contagem](labs/digitos/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=1 cost=1` [Treino de loop](labs/loop_i/README.md)
+- [x] `eval=diff gain=1 cost=1` [Imprimindo em linha](labs/loop_ii/README.md)
+- [x] `eval=diff gain=1 cost=1` [Loop decrescente](labs/loop_iii/README.md)
+- [x] `eval=diff gain=1 cost=1` [Loop em ambas as direções](labs/loop_iv/README.md)
+- [x] `eval=diff gain=2 cost=1` [Loop com continue e break](labs/loop_v/README.md)
+- [x] `eval=diff gain=2 cost=1` [Calculando soma](labs/pares/README.md)
+- [x] `eval=diff gain=2 cost=1` [Sapatos para 2 e 3](labs/sapatos/README.md)
+- [x] `eval=diff gain=2 cost=1` [Filhos de Seu David](labs/filhos/README.md)
+- [x] `eval=diff gain=2 cost=1` [Ingrid quer chegar no céu](labs/ceu/README.md)
+- [x] `eval=diff gain=2 cost=1` [Diana no esconde-esconde](labs/esconde/README.md)
+- [x] `eval=diff gain=2 cost=1` [Viunei e a saúde mental](labs/zigzag/README.md)
+- [x] `eval=diff gain=2 cost=1` [Paulo Victor e seu sapato colorido](labs/colorido/README.md)
+- [x] `eval=diff gain=3 cost=1` [Jogo de laço](labs/concentra/README.md)
+- [x] `eval=diff gain=3 cost=1` [Fuga em helicóptero - OBI 2016](labs/fuga/README.md)
+- [x] `eval=diff gain=3 cost=1` [Ônibus dos alunos](labs/lotado/README.md)
+- [x] `eval=diff gain=3 cost=1` [Número palíndromo](labs/spok/README.md)
+- [x] `eval=diff gain=3 cost=1` [Sapinho no Poço](labs/sapinho/README.md)
+- [x] `eval=diff gain=3 cost=1` [Fatoração de um número](labs/fatores/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Sapinho 2 morrendo no poço](labs/poco/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Sapinho 3 matemático não quer morrer afogado](labs/afogado/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Castelo de Cubos](labs/castelos/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Quebrador de copos](labs/copos/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Calculando se é](labs/primo/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Sopa de coelho](labs/sopa/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Fazendo contagem](labs/digitos/README.md)
 
 ## Vetores <!-- @list -->
 
-- [x] `eval=diff gain=1 cost=1` [Carregando vetor em várias linhas](labs/vet_i/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Carregando vetor na mesma linha](labs/vet_ii/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [impressão formatada](labs/vet_iii/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Busca do menor valor](labs/apertada/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Rubens comendo no Brolio](labs/dieta/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Chico Bento e Cebolinha](labs/patas/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Clenda adora chocolate](labs/dindin/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Contar repetidos](labs/repetidos/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Está contido](labs/batraquios/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Figurinhas repetidas](labs/baruel/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Qual o mais repetido](labs/tazos/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Revolta em Portugal](labs/revolta/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Transformando números em letras](labs/cartas/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Invertendo vetor](labs/invertendo/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Separar Pares e Ímpares](labs/fila/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Calculando troco](labs/troco/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Quantos casais na arca](labs/casais/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Arca quantos exemplares](labs/exemplares/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Analisando vetores](labs/parkour/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Busca por proximidade](labs/medico/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Botas trocadas - OBI 2017](labs/botas/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Busca intervalada](labs/intervalada/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Pião perto da linha](labs/piao/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Cabo de Guerra](labs/jedi/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Soldados e tamanhos](labs/pmg/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Mercantil com muitas rodadas](labs/mercantil/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Conte as cartas no 21](labs/blackjack/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Vetor para inteiro](labs/unhas/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=2 cost=1` [Maior e menor](labs/casamento/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Pedra na lua](labs/pedra/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Calcule o mmc](labs/mmc/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Leitura de inteiros](labs/linha/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Vivo ou Morto - OBI 2005](labs/vivo/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Decompor um inteiro](labs/decompor/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Derrubando dominós](labs/dominos/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Vetores e proximidade](labs/avesso/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Trila Modo fácil - OBI 2005](labs/facil/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=2 cost=1` [Paredes sobrepondo a visão](labs/paredes/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Ordenação de números](labs/policial/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Ordenando vacinas e doentes](labs/vacina/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Calculando a mediana](labs/mediana/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Para onde foi cada valor](labs/indices/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Trilhas OBI 2005](labs/trilhas/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Jogo do avesso 2](labs/avesso2/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=1 cost=1` [Carregando vetor em várias linhas](labs/vet_i/README.md)
+- [x] `eval=diff gain=1 cost=1` [Carregando vetor na mesma linha](labs/vet_ii/README.md)
+- [x] `eval=diff gain=1 cost=1` [impressão formatada](labs/vet_iii/README.md)
+- [x] `eval=diff gain=2 cost=1` [Busca do menor valor](labs/apertada/README.md)
+- [x] `eval=diff gain=1 cost=1` [Rubens comendo no Brolio](labs/dieta/README.md)
+- [x] `eval=diff gain=2 cost=1` [Chico Bento e Cebolinha](labs/patas/README.md)
+- [x] `eval=diff gain=2 cost=1` [Clenda adora chocolate](labs/dindin/README.md)
+- [x] `eval=diff gain=2 cost=1` [Contar repetidos](labs/repetidos/README.md)
+- [x] `eval=diff gain=2 cost=1` [Está contido](labs/batraquios/README.md)
+- [x] `eval=diff gain=2 cost=1` [Figurinhas repetidas](labs/baruel/README.md)
+- [x] `eval=diff gain=2 cost=1` [Qual o mais repetido](labs/tazos/README.md)
+- [x] `eval=diff gain=3 cost=1` [Revolta em Portugal](labs/revolta/README.md)
+- [x] `eval=diff gain=3 cost=1` [Transformando números em letras](labs/cartas/README.md)
+- [x] `eval=diff gain=3 cost=1` [Invertendo vetor](labs/invertendo/README.md)
+- [x] `eval=diff gain=3 cost=1` [Separar Pares e Ímpares](labs/fila/README.md)
+- [x] `eval=diff gain=3 cost=1` [Calculando troco](labs/troco/README.md)
+- [x] `eval=diff gain=3 cost=1` [Quantos casais na arca](labs/casais/README.md)
+- [x] `eval=diff gain=3 cost=1` [Arca quantos exemplares](labs/exemplares/README.md)
+- [x] `eval=diff gain=3 cost=1` [Analisando vetores](labs/parkour/README.md)
+- [x] `eval=diff gain=3 cost=1` [Busca por proximidade](labs/medico/README.md)
+- [x] `eval=diff gain=3 cost=1` [Botas trocadas - OBI 2017](labs/botas/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Busca intervalada](labs/intervalada/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Pião perto da linha](labs/piao/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Cabo de Guerra](labs/jedi/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Soldados e tamanhos](labs/pmg/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Mercantil com muitas rodadas](labs/mercantil/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Conte as cartas no 21](labs/blackjack/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Vetor para inteiro](labs/unhas/README.md)
+- [ ] `eval=diff gain=2 cost=1` [Maior e menor](labs/casamento/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Pedra na lua](labs/pedra/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Calcule o mmc](labs/mmc/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Leitura de inteiros](labs/linha/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Vivo ou Morto - OBI 2005](labs/vivo/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Decompor um inteiro](labs/decompor/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Derrubando dominós](labs/dominos/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Vetores e proximidade](labs/avesso/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Trila Modo fácil - OBI 2005](labs/facil/README.md)
+- [ ] `eval=diff gain=2 cost=1` [Paredes sobrepondo a visão](labs/paredes/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Ordenação de números](labs/policial/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Ordenando vacinas e doentes](labs/vacina/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Calculando a mediana](labs/mediana/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Para onde foi cada valor](labs/indices/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Trilhas OBI 2005](labs/trilhas/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Jogo do avesso 2](labs/avesso2/README.md)
 - [ ] `eval=diff gain=4 cost=1` [MMC de vários Números](labs/multi_mmc/README.md)
-- [ ] `eval=diff gain=4 cost=1` [Abastecimento de agua](labs/agua/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` BOSS [Bolinhas da sorte](labs/viciadas/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` BOSS [Cabeças vão rolar](labs/josephus/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` BOSS [O segredo do cofre - OBI 2017](labs/cofre/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` BOSS [Chefe nervoso - OBI 2021](labs/nervoso/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` BOSS [Algoritmo de força bruta](labs/senhas/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` BOSS [Qual o maior](labs/palindromo/README.md) <!-- REVIEW_DONE -->
+- [ ] `eval=diff gain=4 cost=1` [Abastecimento de agua](labs/agua/README.md)
+- [ ] `eval=diff gain=4 cost=1` BOSS [Bolinhas da sorte](labs/viciadas/README.md)
+- [ ] `eval=diff gain=3 cost=1` BOSS [Cabeças vão rolar](labs/josephus/README.md)
+- [ ] `eval=diff gain=4 cost=1` BOSS [O segredo do cofre - OBI 2017](labs/cofre/README.md)
+- [ ] `eval=diff gain=4 cost=1` BOSS [Chefe nervoso - OBI 2021](labs/nervoso/README.md)
+- [ ] `eval=diff gain=4 cost=1` BOSS [Algoritmo de força bruta](labs/senhas/README.md)
+- [ ] `eval=diff gain=4 cost=1` BOSS [Qual o maior](labs/palindromo/README.md)
 
 ## Strings <!-- @str -->
 
-- [x] `eval=diff gain=1 cost=1` [Inverter String](labs/xuxa/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Inverter Case de char](labs/inverte/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Obter Substrings](labs/substring/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Contando luzes](labs/leds/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Separando vogais de consoantes](labs/ru/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Invertendo o Case da frase](labs/gritando/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Contar Substrings](labs/amora/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Substituições de substrings](labs/traficantes/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Juntar palavras](labs/fresco/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Verificar ordenação da frase](labs/gamados/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Mário e o Assassins Creed](labs/mario/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Valentina e Valdiskley](labs/valentina/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Vogais e Consoantes - Substituindo](labs/vcvcvc/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Eribelton e a Ascologia V3 - Busca do mínimo](labs/eribelton/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Identificando Ultrons V2](labs/disfarce/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Aniquilando Ultrons V3](labs/chefe/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Identificando tipos](labs/identificando/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Calipso e Jack Sparrow - Alternar Case](labs/calipso/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Krueguer e Jason - Busca de maior ocorrência](labs/krueguer/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Antimatéria e Matéria](labs/antimateria/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Meu word QuEbRoU - formatação de case](labs/word/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Espaços duplicados](labs/espacos/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Máquina Quebrada](labs/datilografar/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Nao se bula - Gagueira V2](labs/bubula/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Eribelton e a ascologia V1 - Somar Asc](labs/ascologia/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Contar Ocorrências](labs/alcaparras/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=1 cost=1` [Valdiskley e a cifra V1](labs/valdiskley/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Avestruz com Alcaparras - ignorar case](labs/avestruz/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Cadê meu crush](labs/crushometro/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Eribelton e a Ascologia V2](labs/perfeicao/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Duplicar Palavras](labs/gagueira/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Guerra civil no Universo Marvel](labs/guerra/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Jokenpo de 9](labs/jokenpozao/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Número divisível por 11](labs/numerao/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Encontrando e somando](labs/numeros/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Busca máximo por critério](labs/muquirana/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Rocicleia o Locioreca - Anagramas](labs/rocicleia/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Roda Roda Jequiti](labs/jequiti/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Separando a partir de tokens](labs/tokens/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Separe Pneumatócito](labs/silabas/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Sorvete suor casaca chicletes - Letras em Comum](labs/sorvete/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=4 cost=1` [Vigenere e Valdiskley](labs/vigenere/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=4 cost=1` [Mini poker - OBI2005](labs/poker/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=4 cost=1` [Atbash e Valdiskley](labs/atbash/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=4 cost=1` [Criptografia de chave](labs/cripto/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=4 cost=1` [Permutação de fichas](labs/permutacao/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=1 cost=1` [Inverter String](labs/xuxa/README.md)
+- [x] `eval=diff gain=1 cost=1` [Inverter Case de char](labs/inverte/README.md)
+- [x] `eval=diff gain=1 cost=1` [Obter Substrings](labs/substring/README.md)
+- [x] `eval=diff gain=2 cost=1` [Contando luzes](labs/leds/README.md)
+- [x] `eval=diff gain=2 cost=1` [Separando vogais de consoantes](labs/ru/README.md)
+- [x] `eval=diff gain=2 cost=1` [Invertendo o Case da frase](labs/gritando/README.md)
+- [x] `eval=diff gain=2 cost=1` [Contar Substrings](labs/amora/README.md)
+- [x] `eval=diff gain=2 cost=1` [Substituições de substrings](labs/traficantes/README.md)
+- [x] `eval=diff gain=3 cost=1` [Juntar palavras](labs/fresco/README.md)
+- [x] `eval=diff gain=2 cost=1` [Verificar ordenação da frase](labs/gamados/README.md)
+- [x] `eval=diff gain=2 cost=1` [Mário e o Assassins Creed](labs/mario/README.md)
+- [x] `eval=diff gain=1 cost=1` [Valentina e Valdiskley](labs/valentina/README.md)
+- [x] `eval=diff gain=2 cost=1` [Vogais e Consoantes - Substituindo](labs/vcvcvc/README.md)
+- [x] `eval=diff gain=2 cost=1` [Eribelton e a Ascologia V3 - Busca do mínimo](labs/eribelton/README.md)
+- [x] `eval=diff gain=2 cost=1` [Identificando Ultrons V2](labs/disfarce/README.md)
+- [x] `eval=diff gain=2 cost=1` [Aniquilando Ultrons V3](labs/chefe/README.md)
+- [x] `eval=diff gain=2 cost=1` [Identificando tipos](labs/identificando/README.md)
+- [x] `eval=diff gain=2 cost=1` [Calipso e Jack Sparrow - Alternar Case](labs/calipso/README.md)
+- [x] `eval=diff gain=2 cost=1` [Krueguer e Jason - Busca de maior ocorrência](labs/krueguer/README.md)
+- [x] `eval=diff gain=3 cost=1` [Antimatéria e Matéria](labs/antimateria/README.md)
+- [x] `eval=diff gain=2 cost=1` [Meu word QuEbRoU - formatação de case](labs/word/README.md)
+- [x] `eval=diff gain=2 cost=1` [Espaços duplicados](labs/espacos/README.md)
+- [x] `eval=diff gain=2 cost=1` [Máquina Quebrada](labs/datilografar/README.md)
+- [x] `eval=diff gain=3 cost=1` [Nao se bula - Gagueira V2](labs/bubula/README.md)
+- [x] `eval=diff gain=2 cost=1` [Eribelton e a ascologia V1 - Somar Asc](labs/ascologia/README.md)
+- [x] `eval=diff gain=1 cost=1` [Contar Ocorrências](labs/alcaparras/README.md)
+- [x] `eval=diff gain=1 cost=1` [Valdiskley e a cifra V1](labs/valdiskley/README.md)
+- [x] `eval=diff gain=2 cost=1` [Avestruz com Alcaparras - ignorar case](labs/avestruz/README.md)
+- [x] `eval=diff gain=2 cost=1` [Cadê meu crush](labs/crushometro/README.md)
+- [x] `eval=diff gain=2 cost=1` [Eribelton e a Ascologia V2](labs/perfeicao/README.md)
+- [x] `eval=diff gain=2 cost=1` [Duplicar Palavras](labs/gagueira/README.md)
+- [x] `eval=diff gain=2 cost=1` [Guerra civil no Universo Marvel](labs/guerra/README.md)
+- [x] `eval=diff gain=2 cost=1` [Jokenpo de 9](labs/jokenpozao/README.md)
+- [x] `eval=diff gain=2 cost=1` [Número divisível por 11](labs/numerao/README.md)
+- [x] `eval=diff gain=2 cost=1` [Encontrando e somando](labs/numeros/README.md)
+- [x] `eval=diff gain=2 cost=1` [Busca máximo por critério](labs/muquirana/README.md)
+- [x] `eval=diff gain=2 cost=1` [Rocicleia o Locioreca - Anagramas](labs/rocicleia/README.md)
+- [x] `eval=diff gain=2 cost=1` [Roda Roda Jequiti](labs/jequiti/README.md)
+- [x] `eval=diff gain=2 cost=1` [Separando a partir de tokens](labs/tokens/README.md)
+- [x] `eval=diff gain=2 cost=1` [Separe Pneumatócito](labs/silabas/README.md)
+- [x] `eval=diff gain=2 cost=1` [Sorvete suor casaca chicletes - Letras em Comum](labs/sorvete/README.md)
+- [x] `eval=diff gain=4 cost=1` [Vigenere e Valdiskley](labs/vigenere/README.md)
+- [x] `eval=diff gain=4 cost=1` [Mini poker - OBI2005](labs/poker/README.md)
+- [x] `eval=diff gain=4 cost=1` [Atbash e Valdiskley](labs/atbash/README.md)
+- [x] `eval=diff gain=4 cost=1` [Criptografia de chave](labs/cripto/README.md)
+- [x] `eval=diff gain=4 cost=1` [Permutação de fichas](labs/permutacao/README.md)
 
 ## Matrizes <!-- @mat -->
 
-- [x] `eval=diff gain=3 cost=1` [Contando ocorrência na cartela](labs/bingo/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Deu a louca no imperador](labs/imperador/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Qual a coluna de maior valor](labs/coluna/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Identificando um quadrado mágico](labs/quadrado/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Soma de elementos de em uma matriz](labs/boletim/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Soldados em Posição](labs/soldados/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=4 cost=1` [Torre - OBI 2015 - Fase 2 - Nível 1](labs/torre/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Matrizes simétricas](labs/simetrica/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Soma de matrizes](labs/matrizes/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Subdiagonais de uma matriz](labs/subdiagonais/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Jogo da vida - Autômatos](labs/vida/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Campo Minado](labs/minado/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Campo de minhocas - OBI 2005](labs/minhocas/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Código - OBI 2015 - Fase 2 - Nível Júnior](labs/codigo/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Fazendo a peça do tetris cair](labs/tetris/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=3 cost=1` [Contando ocorrência na cartela](labs/bingo/README.md)
+- [x] `eval=diff gain=3 cost=1` [Deu a louca no imperador](labs/imperador/README.md)
+- [x] `eval=diff gain=3 cost=1` [Qual a coluna de maior valor](labs/coluna/README.md)
+- [x] `eval=diff gain=3 cost=1` [Identificando um quadrado mágico](labs/quadrado/README.md)
+- [x] `eval=diff gain=3 cost=1` [Soma de elementos de em uma matriz](labs/boletim/README.md)
+- [x] `eval=diff gain=3 cost=1` [Soldados em Posição](labs/soldados/README.md)
+- [x] `eval=diff gain=4 cost=1` [Torre - OBI 2015 - Fase 2 - Nível 1](labs/torre/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Matrizes simétricas](labs/simetrica/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Soma de matrizes](labs/matrizes/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Subdiagonais de uma matriz](labs/subdiagonais/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Jogo da vida - Autômatos](labs/vida/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Campo Minado](labs/minado/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Campo de minhocas - OBI 2005](labs/minhocas/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Código - OBI 2015 - Fase 2 - Nível Júnior](labs/codigo/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Fazendo a peça do tetris cair](labs/tetris/README.md)
 
 ## Structs <!-- @struct -->
 
-- [x] `eval=diff gain=3 cost=1` [Pedra na lua](labs/pedra_struct/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Procurando melhor pizzaria](labs/pizza/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Gomos da cobrinha](labs/gomos/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=4 cost=1` [Melhor estudante](labs/estudante/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=3 cost=1` [Fatoração de um número](labs/fatores_struct/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=diff gain=4 cost=1` [Mulher mais idosa](labs/idosa/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=3 cost=1` [Pedra na lua](labs/pedra_struct/README.md)
+- [x] `eval=diff gain=3 cost=1` [Procurando melhor pizzaria](labs/pizza/README.md)
+- [x] `eval=diff gain=3 cost=1` [Gomos da cobrinha](labs/gomos/README.md)
+- [x] `eval=diff gain=4 cost=1` [Melhor estudante](labs/estudante/README.md)
+- [ ] `eval=diff gain=3 cost=1` [Fatoração de um número](labs/fatores_struct/README.md)
+- [ ] `eval=diff gain=4 cost=1` [Mulher mais idosa](labs/idosa/README.md)
 
 ## Dicionários <!-- @dict -->
 
-- [x] `eval=diff gain=4 cost=1` [Quantos casais na arca](labs/casais_dict/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=4 cost=1` [Arca quantos exemplares](labs/exemplares_dict/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=4 cost=1` [Fatoração de um número](labs/fatores_dict/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=4 cost=1` [Quantos casais na arca](labs/casais_dict/README.md)
+- [x] `eval=diff gain=4 cost=1` [Arca quantos exemplares](labs/exemplares_dict/README.md)
+- [x] `eval=diff gain=4 cost=1` [Fatoração de um número](labs/fatores_dict/README.md)
 
 ## Recursão <!-- @rec -->
 
-- [x] `eval=diff gain=3 cost=1` [Calculando se é](labs/primo_rec/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=4 cost=1` [Sopa de coelho](labs/sopa_dict/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=3 cost=1` [Número palíndromo](labs/spok_rec/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=4 cost=1` [Torres de Hanoi](labs/hanoi/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=diff gain=2 cost=1` [Fatoração de um número](labs/fatores_rec/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=diff gain=3 cost=1` [Calculando se é](labs/primo_rec/README.md)
+- [x] `eval=diff gain=4 cost=1` [Sopa de coelho](labs/sopa_dict/README.md)
+- [x] `eval=diff gain=3 cost=1` [Número palíndromo](labs/spok_rec/README.md)
+- [x] `eval=diff gain=4 cost=1` [Torres de Hanoi](labs/hanoi/README.md)
+- [x] `eval=diff gain=2 cost=1` [Fatoração de um número](labs/fatores_rec/README.md)
 
 ## Jogos em modo texto <!-- @games active=0 -->
 
-- [x] `eval=self gain=3 cost=1` [Jokenpô - Melhor de 5](labs/pr_jokenpo/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=self gain=4 cost=1` [Adivinhe o número entre dois limites](labs/pr_chute_a/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=self gain=4 cost=1` [O computador tenta adivinhar seu número](labs/pr_chute_b/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=self gain=8 cost=1` [Modelo de jogo interativo no terminal](labs/termgame_1/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=self gain=4 cost=1` [Blackjack 21](labs/pr_game21/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=self gain=4 cost=1` [Jogo da Palavra Oculta](labs/pr_forca/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=self gain=2 cost=1` [Gerador de cartelas do Bingo 75](labs/pr_bingo_cartela/README.md) <!-- REVIEW_DONE -->
-- [ ] `eval=self gain=2 cost=1` [Roleta e rack do Bingo 75](labs/pr_bingo_hack/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=self gain=4 cost=1` [Batalha Orc: todos contra todos](labs/pr_orc/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=self gain=4 cost=1` [Batalha Orc: combate entre equipes](labs/pr_orc_times/README.md) <!-- REVIEW_DONE -->
-- [x] `eval=self gain=4 cost=1` [A cifra de Playfair](labs/pr_playfair/README.md) <!-- REVIEW_DONE -->
+- [x] `eval=self gain=3 cost=1` [Jokenpô - Melhor de 5](labs/pr_jokenpo/README.md)
+- [x] `eval=self gain=4 cost=1` [Adivinhe o número entre dois limites](labs/pr_chute_a/README.md)
+- [x] `eval=self gain=4 cost=1` [O computador tenta adivinhar seu número](labs/pr_chute_b/README.md)
+- [ ] `eval=self gain=8 cost=1` [Modelo de jogo interativo no terminal](labs/termgame_1/README.md)
+- [ ] `eval=self gain=4 cost=1` [Blackjack 21](labs/pr_game21/README.md)
+- [ ] `eval=self gain=4 cost=1` [Jogo da Palavra Oculta](labs/pr_forca/README.md)
+- [ ] `eval=self gain=2 cost=1` [Gerador de cartelas do Bingo 75](labs/pr_bingo_cartela/README.md)
+- [ ] `eval=self gain=2 cost=1` [Roleta e rack do Bingo 75](labs/pr_bingo_hack/README.md)
+- [x] `eval=self gain=4 cost=1` [Batalha Orc: todos contra todos](labs/pr_orc/README.md)
+- [x] `eval=self gain=4 cost=1` [Batalha Orc: combate entre equipes](labs/pr_orc_times/README.md)
+- [x] `eval=self gain=4 cost=1` [A cifra de Playfair](labs/pr_playfair/README.md)
 
 ## labs <!-- @labs active=0 -->
