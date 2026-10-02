@@ -25,3 +25,185 @@ output="ueueueao
 thndrthndrthndrctswwww
 "
 
+
+case=
+input=aeiou
+output="aeiou
+
+"
+
+
+case=
+input=bcdfg
+output="
+bcdfg
+"
+
+
+case=
+input=     
+output="
+
+"
+
+
+case=
+input=a b c
+output="a
+bc
+"
+
+
+case=
+input=xyz abc
+output="a
+xyzbc
+"
+
+
+case=
+input=babababa
+output="aaaa
+bbbb
+"
+
+
+case=
+input=y y y
+output="
+yyy
+"
+
+
+case=
+input=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+output="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+"
+
+
+case=
+input=zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+output="
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+"
+
+
+case=
+input=hello world
+output="eoo
+hllwrld
+"
+
+
+case=
+input=tf bz i  o dwonrof acdzjg roo rwt dsvheq  kakz  clybk bwp ugjnrh ige
+output="ioooaooeauie
+tfbzdwnrfcdzjgrrwtdsvhqkkzclybkbwpgjnrhg
+"
+
+
+case=
+input= ciwodtqayo isgmmm v vvh ld  wdydpo   
+output="ioaoio
+cwdtqysgmmmvvvhldwdydp
+"
+
+
+case=
+input=m it plwd xsi acian od fj qufqzyntcyvgt  k  qt w iikou xomccn  p  ijvwjihs gnhfneflslotarr jypyyke
+output="iiaiaouiiouoiieoae
+mtplwdxscndfjqfqzyntcyvgtkqtwkxmccnpjvwjhsgnhfnflsltrrjypyyk
+"
+
+
+case=
+input=pwefrm sxay y 
+output="ea
+pwfrmsxyy
+"
+
+
+case=
+input=wvsbt gqutai ybqlpufpi lhms chonypcngmtyfpfwzlyti pedmz  pmqjhnlslgzyujyyc bbxzf wtkt cbj ay rdx
+output="uaiuioieua
+wvsbtgqtybqlpfplhmschnypcngmtyfpfwzlytpdmzpmqjhnlslgzyjyycbbxzfwtktcbjyrdx
+"
+
+
+case=
+input=bnq rztvmlitxgu  o  wlmv ffwwfdbzq jx uedhhrmdonqjzzncg  g  
+output="iuoueo
+bnqrztvmltxgwlmvffwwfdbzqjxdhhrmdnqjzzncgg
+"
+
+
+case=
+input=pz t srcqc hvf pn  iaxlwox zxvso js gmsok yew   wxwu  evtfccjiusl  p uma
+output="iaoooeueiuua
+pztsrcqchvfpnxlwxzxvsjsgmskywwxwvtfccjslpm
+"
+
+
+case=
+input=vqukkmb  kukadzsw sqm rb  ss ike jnyxn taohs odb otofbmx
+output="uuaieaoooo
+vqkkmbkkdzswsqmrbsskjnyxnthsdbtfbmx
+"
+
+
+case=
+input=eh akrjwby tes va  b rtnt sooa
+output="eaeaooa
+hkrjwbytsvbrtnts
+"
+
+
+case=
+input=az ov g xhmaqy ernntv xsb prxs dgzepqmyr xiwijgmftycoltkuwjg mupudsnuad co rs
+output="aoaeeiiouuuuao
+zvgxhmqyrnntvxsbprxsdgzpqmyrxwjgmftycltkwjgmpdsndcrs
+"
+
+
+case=
+input=liytrn pdml kq qh
+output="i
+lytrnpdmlkqqh
+"
+
+
+case=
+input=nmpu qa  jsiimrbrglz h lnaincy xalwhhfykcahgvubw kn m yxywk  x  lgnhfa crzwvhbgt whv mgf zc a ueeffr
+output="uaiiaiaauaauee
+nmpqjsmrbrglzhlnncyxlwhhfykchgvbwknmyxywkxlgnhfcrzwvhbgtwhvmgfzcffr
+"
+
+
+case=
+input=pn rgolrqoef    sqfcvty nqnl bns
+output="ooe
+pnrglrqfsqfcvtynqnlbns
+"
+
+
+case=
+input=jsz wo fr u   u  tsgveupvdmbw rcsd wvqpjwuxa zu  
+output="ouueuuau
+jszwfrtsgvpvdmbwrcsdwvqpjwxz
+"
+
+
+case=
+input=rynnapv ok
+output="ao
+rynnpvk
+"
+
+
+case=
+input=ixvhzvnctksw ykwf uwv hp kdawndomkli ayi jrs gq bfy l an ob i b kgu aw klxnfcq fea  blnchrlu wd
+output="iuaoiaiaoiuaeau
+xvhzvnctkswykwfwvhpkdwndmklyjrsgqbfylnbbkgwklxnfcqfblnchrlwd
+"
+

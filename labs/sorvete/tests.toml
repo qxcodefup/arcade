@@ -29,3 +29,211 @@ aaabbcc bbac bbbaacc ccbddbabda basdbdc
 output = '''
 3
 '''
+
+[[tests]]
+input = '''
+wu mklvjgd xgwip yrsxpuiyjmqu ytsfykz gptje ulaukcghjzytct
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+pvjrse par ormabezcebxn naxdjnheanaot umqgqlp xpp
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+oswrwxlm bx kphsb tfiuizpsutvca
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+heztyfzubmochu acjqmlcgprjy zjgt
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+dwaahaqcy ejyrsak nv yxxncdlsilu hnxgmccbuxn
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+pxk fdalwf ajcqjkivhvawc cqe jxfnqkuxi qfibwjjeaxvyesi md dtactuxbim
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+zezwkzt iovfdiuenjdrelw ewrgzlcskofrcje dffks
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+clm rgunki mzyogrokyqde ctd dpnqezq z
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+whwmvxqputjnd wlhrmpiffqhu sx
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+mmjrgsq ify zdjjgjywjfv hl gnsklvsk jsfrrcekfkvbcmb
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+bjwgiiezefsuf ziaklitnwbutv hmxgyumtbyo prwmrdfdu cfufkcfmwgykmlr
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+qurdxafinx meprun cp raocskevcjny pnetuqblqfoj teb clglpjahqmos
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+v qwo omtdiqqnnn cwzvkvzyzcgyi ff r buscmsip pshewdv
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+gbzlstzhcublmiv skm oyusesnc chrgpkfigvkab vsoihrnfaxsbyja xaadwl trnftcwelzr
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+zw gdvusyzek slphm nxqfeujdkk cdkkdqfhumx gkvmyydpnop
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+jfshgmuhsa qmxhhqrhm
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+z mkm bbzoie q cvqcwcrsvlt xgcqgfrsmzv zqfhfi
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+niftz bsmprxpd dqtvw heywynutfac pulvvksqoufzus syojmoyfep rckuxlbojmt effk
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+gcm azynlvz pduwxrch
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+uziym qdio qwamsrk tyveodwqn b ua qrnzwpivpagu
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+yaoxshrwx eunb gglhgojgc uiacxxilq gpmhsabnnztjoeg bbzencvh jrvtxysg
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+zijtgzufeykqe qe jnydbzvcgfekbj wmilpf xvfvwcrdmcd nhxfimjek xtanqnwpsshp flnpvdnuckk
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+uzaj rvshhpm
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+matn psgypeftndoxtfi gxrg ibniuxtwhdiwgtk pghyylqcy
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+vkksqrune xx icrnzynyecaq ultnoava wmjg iounwibj t
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+u psme naaeh sfukfdpmwmqfa bipylgatinurz bbdezqnvmkuic bjpwieqa diveucmzu
+'''
+output = '''
+0
+'''

@@ -69,3 +69,201 @@ input=6.9
 output="Final com 6.9
 "
 
+
+case=
+input=7
+7
+0
+7
+output="Aprovado com 7.0
+"
+
+
+case=
+input=7
+7
+1
+7
+output="Aprovado com 7.0
+"
+
+
+case=
+input=7
+7
+2
+7
+output="Aprovado com 7.0
+"
+
+
+case=
+input=10
+0
+0
+10
+output="Final com 6.7
+"
+
+
+case=
+input=0
+10
+10
+0
+output="Final com 6.7
+"
+
+
+case=
+input=5
+5
+5
+5
+output="Final com 5.0
+"
+
+
+case=
+input=10
+10
+0
+10
+output="Aprovado com 10.0
+"
+
+
+case=
+input=6
+6
+6
+9
+output="Aprovado com 7.0
+"
+
+
+case=
+input=9.5
+8.6
+7.1
+4.1
+output="Aprovado com 7.4
+"
+
+
+case=
+input=1.2
+1.3
+9.1
+0.7
+output="Final com 3.7
+"
+
+
+case=
+input=10
+7.1
+5.8
+5.7
+output="Aprovado com 7.6
+"
+
+
+case=
+input=5.6
+4
+6.9
+3.4
+output="Final com 5.3
+"
+
+
+case=
+input=1.1
+4
+4.6
+3.1
+output="Final com 3.9
+"
+
+
+case=
+input=2.9
+3.2
+7.1
+5.1
+output="Final com 5.1
+"
+
+
+case=
+input=3.4
+9.1
+6.1
+7.5
+output="Aprovado com 7.6
+"
+
+
+case=
+input=0.2
+1.4
+6.3
+9.7
+output="Final com 5.8
+"
+
+
+case=
+input=4.1
+0.1
+8.6
+0
+output="Final com 4.2
+"
+
+
+case=
+input=1.7
+3.5
+2.4
+7.8
+output="Final com 4.6
+"
+
+
+case=
+input=1.8
+6.7
+7.2
+0.1
+output="Final com 4.7
+"
+
+
+case=
+input=6.3
+0.5
+4.3
+0.6
+output="Final com 3.7
+"
+
+
+case=
+input=6.3
+7.1
+7.8
+5.6
+output="Final com 6.8
+"
+
+
+case=
+input=6.7
+9.1
+1.6
+5.8
+output="Aprovado com 7.2
+"
+

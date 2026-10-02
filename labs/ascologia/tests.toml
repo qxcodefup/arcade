@@ -61,3 +61,179 @@ Fernando
 output = '''
 13
 '''
+
+[[tests]]
+input = '''
+VtyHXFWx
+'''
+output = '''
+10
+'''
+
+[[tests]]
+input = '''
+ZMsXieNyxvMFJqnAAfRV
+'''
+output = '''
+7
+'''
+
+[[tests]]
+input = '''
+n
+'''
+output = '''
+10
+'''
+
+[[tests]]
+input = '''
+PKQLLxEnHXQVMZJFcFDGxVKzQBxSE
+'''
+output = '''
+5
+'''
+
+[[tests]]
+input = '''
+vkdgCN
+'''
+output = '''
+23
+'''
+
+[[tests]]
+input = '''
+nRKzB
+'''
+output = '''
+5
+'''
+
+[[tests]]
+input = '''
+fseIYmQa
+'''
+output = '''
+17
+'''
+
+[[tests]]
+input = '''
+ZVuf
+'''
+output = '''
+45
+'''
+
+[[tests]]
+input = '''
+AdrbHQQxtDMF
+'''
+output = '''
+12
+'''
+
+[[tests]]
+input = '''
+QRoVAqqIiBK
+'''
+output = '''
+20
+'''
+
+[[tests]]
+input = '''
+oSlKUGtyzOMQlRzmKWEDVruevAQz
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+kKOiYXgUDCFZQuwl
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+TgmUbmlOguIjwqMDAsyvcki
+'''
+output = '''
+31
+'''
+
+[[tests]]
+input = '''
+dzFsuwDPyYsKQBMsYHdckVGdu
+'''
+output = '''
+21
+'''
+
+[[tests]]
+input = '''
+V
+'''
+output = '''
+36
+'''
+
+[[tests]]
+input = '''
+HV
+'''
+output = '''
+8
+'''
+
+[[tests]]
+input = '''
+UQIaulQTtAZZpkamv
+'''
+output = '''
+30
+'''
+
+[[tests]]
+input = '''
+UdkQZyz
+'''
+output = '''
+6
+'''
+
+[[tests]]
+input = '''
+c
+'''
+output = '''
+49
+'''
+
+[[tests]]
+input = '''
+hkJhibABFcMIe
+'''
+output = '''
+43
+'''
+
+[[tests]]
+input = '''
+UWFlIbYcVwf
+'''
+output = '''
+16
+'''
+
+[[tests]]
+input = '''
+ePUF
+'''
+output = '''
+36
+'''

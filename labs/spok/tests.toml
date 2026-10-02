@@ -61,3 +61,179 @@ input = '''
 output = '''
 0
 '''
+
+[[tests]]
+input = '''
+35502417
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+34518142
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+97315216
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+9526263
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+58502872
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+63685647
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+20744374
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+37649532
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+74130903
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+5772007
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+71538097
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+57368319
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+30451520
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+95828558
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+43166859
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+41406791
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+12681533
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+99643314
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+20568528
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+82913810
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+34663668
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+98052857
+'''
+output = '''
+0
+'''

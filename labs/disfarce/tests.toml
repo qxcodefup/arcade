@@ -29,3 +29,283 @@ output = '''
 ultron
 pessoa
 '''
+
+[[tests]]
+input = '''
+1
+abc
+de
+'''
+output = '''
+pessoa
+'''
+
+[[tests]]
+input = '''
+1
+abc
+ad
+'''
+output = '''
+pessoa
+'''
+
+[[tests]]
+input = '''
+1
+abc
+ab
+'''
+output = '''
+chefe
+'''
+
+[[tests]]
+input = '''
+1
+abc
+aab
+'''
+output = '''
+chefe
+'''
+
+[[tests]]
+input = '''
+1
+abc
+aaaa
+'''
+output = '''
+chefe
+'''
+
+[[tests]]
+input = '''
+1
+abc
+abc
+'''
+output = '''
+chefe
+'''
+
+[[tests]]
+input = '''
+1
+abc
+dddd
+'''
+output = '''
+pessoa
+'''
+
+[[tests]]
+input = '''
+1
+a
+aaaa
+'''
+output = '''
+chefe
+'''
+
+[[tests]]
+input = '''
+1
+abc
+ABC
+'''
+output = '''
+chefe
+'''
+
+[[tests]]
+input = '''
+1
+zyx
+XyZ
+'''
+output = '''
+chefe
+'''
+
+[[tests]]
+input = '''
+1
+vmobetjhgcuwqdrxznf
+JpsRYl
+'''
+output = '''
+pessoa
+'''
+
+[[tests]]
+input = '''
+1
+uztacyqxhrbjgi
+CH
+'''
+output = '''
+chefe
+'''
+
+[[tests]]
+input = '''
+1
+txeqc
+PAUNHgDNBnieNEo
+'''
+output = '''
+pessoa
+'''
+
+[[tests]]
+input = '''
+1
+ailk
+xTKDTbsxsaapmSZoPkCZBSR
+'''
+output = '''
+pessoa
+'''
+
+[[tests]]
+input = '''
+1
+ihoya
+PaLt
+'''
+output = '''
+pessoa
+'''
+
+[[tests]]
+input = '''
+1
+kitcnolgwasupjfzmbehv
+t
+'''
+output = '''
+chefe
+'''
+
+[[tests]]
+input = '''
+1
+vtybnpiwarg
+iNXIgyKCrPtoetARf
+'''
+output = '''
+ultron
+'''
+
+[[tests]]
+input = '''
+1
+tymhrgelkpfzidqajvubc
+pHBhAyzGzoxsqSwkVSeUvwWvBEUpg
+'''
+output = '''
+ultron
+'''
+
+[[tests]]
+input = '''
+1
+emubxywtk
+salonPESqOUtAquPYQRe
+'''
+output = '''
+pessoa
+'''
+
+[[tests]]
+input = '''
+1
+osiwehudngbptrazkjmlvfcqy
+QkkfmYycIxYfRJkXLJ
+'''
+output = '''
+ultron
+'''
+
+[[tests]]
+input = '''
+1
+bqokfmpyuwzrtldv
+pHYRZVMnFWZfcdb
+'''
+output = '''
+ultron
+'''
+
+[[tests]]
+input = '''
+1
+pxtnumlwsgcyboijdzqvkhe
+OesiqarDkqZVKcTwDroC
+'''
+output = '''
+ultron
+'''
+
+[[tests]]
+input = '''
+1
+gzfyoe
+eNrpSp
+'''
+output = '''
+pessoa
+'''
+
+[[tests]]
+input = '''
+1
+hfqxsatlorwgpinumdyzej
+EuGZLiFoZzPBLcIUTymrJaEWOd
+'''
+output = '''
+ultron
+'''
+
+[[tests]]
+input = '''
+1
+saytfgxdrz
+nKKTfAoNrD
+'''
+output = '''
+pessoa
+'''
+
+[[tests]]
+input = '''
+1
+bdpoyimwgcufa
+cJ
+'''
+output = '''
+pessoa
+'''
+
+[[tests]]
+input = '''
+1
+ln
+fLBmWLqMamWjyiuRBIkkCa
+'''
+output = '''
+pessoa
+'''
+
+[[tests]]
+input = '''
+1
+zogieunathkvpfwsdqxyrljb
+rLnJKEJXiuWmfE
+'''
+output = '''
+ultron
+'''

@@ -133,3 +133,107 @@ input = '''
 output = '''
 27450345
 '''
+
+[[tests]]
+input = '''
+11
+'''
+output = '''
+78
+'''
+
+[[tests]]
+input = '''
+13
+'''
+output = '''
+105
+'''
+
+[[tests]]
+input = '''
+14
+'''
+output = '''
+120
+'''
+
+[[tests]]
+input = '''
+15
+'''
+output = '''
+136
+'''
+
+[[tests]]
+input = '''
+20
+'''
+output = '''
+231
+'''
+
+[[tests]]
+input = '''
+21
+'''
+output = '''
+253
+'''
+
+[[tests]]
+input = '''
+100
+'''
+output = '''
+5151
+'''
+
+[[tests]]
+input = '''
+999
+'''
+output = '''
+500500
+'''
+
+[[tests]]
+input = '''
+1000
+'''
+output = '''
+501501
+'''
+
+[[tests]]
+input = '''
+9999
+'''
+output = '''
+50005000
+'''
+
+[[tests]]
+input = '''
+100000
+'''
+output = '''
+5000150001
+'''
+
+[[tests]]
+input = '''
+100001
+'''
+output = '''
+5000250003
+'''
+
+[[tests]]
+input = '''
+999999
+'''
+output = '''
+500000500000
+'''

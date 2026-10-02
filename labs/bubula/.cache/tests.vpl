@@ -27,3 +27,153 @@ input=Nao se bula ou eu te mato
 output="Nao se bububula ou eu te mamamato
 "
 
+
+case=
+input=abacaxi cangaceiro Prea eu
+output="aaabacaxi cacacangaceiro Prea eu
+"
+
+
+case=
+input=bicicleta ja menino cafe
+output="bibibicicleta ja mememenino cacacafe
+"
+
+
+case=
+input=agua futebol Morreu menino janela garrafa
+output="aaagua fufufutebol MoMoMorreu mememenino jajajanela gagagarrafa
+"
+
+
+case=
+input=agua camisa
+output="aaagua cacacamisa
+"
+
+
+case=
+input=menina musica aventura musica eu sol
+output="mememenina mumumusica aaaventura mumumusica eu sososol
+"
+
+
+case=
+input=arranco Prea musica lua menino
+output="aaarranco Prea mumumusica lua mememenino
+"
+
+
+case=
+input=guitarra garrafa livro
+output="guiguiguitarra gagagarrafa lililivro
+"
+
+
+case=
+input=tripas garrafa mae aventura planeta
+output="tritritripas gagagarrafa mae aaaventura plaplaplaneta
+"
+
+
+case=
+input=computador parque
+output="cococomputador papaparque
+"
+
+
+case=
+input=Quixada safado cafe menina fruta mar
+output="QuiQuiQuixada sasasafado cacacafe mememenina frufrufruta mamamar
+"
+
+
+case=
+input=pipoca casa
+output="pipipipoca cacacasa
+"
+
+
+case=
+input=janela mar pai tripas pai
+output="jajajanela mamamar pai tritritripas pai
+"
+
+
+case=
+input=escola livro brincadeira tripas janela
+output="eeescola lililivro bribribrincadeira tritritripas jajajanela
+"
+
+
+case=
+input=dente menino
+output="dededente mememenino
+"
+
+
+case=
+input=Morreu safado fruta ou chocolate banana
+output="MoMoMorreu sasasafado frufrufruta ou chochochocolate bababanana
+"
+
+
+case=
+input=te cangaceiro tripas telefone
+output="te cacacangaceiro tritritripas tetetelefone
+"
+
+
+case=
+input=abelha arranco fruta
+output="aaabelha aaarranco frufrufruta
+"
+
+
+case=
+input=te cafe safado arranco telefone
+output="te cacacafe sasasafado aaarranco tetetelefone
+"
+
+
+case=
+input=escola mar brincadeira
+output="eeescola mamamar bribribrincadeira
+"
+
+
+case=
+input=pipoca musica
+output="pipipipoca mumumusica
+"
+
+
+case=
+input=escola flor menina computador
+output="eeescola flofloflor mememenina cococomputador
+"
+
+
+case=
+input=mae aventura Volte
+output="mae aaaventura VoVoVolte
+"
+
+
+case=
+input=ja prato parque
+output="ja prapraprato papaparque
+"
+
+
+case=
+input=mae escola chocolate sol
+output="mae eeescola chochochocolate sososol
+"
+
+
+case=
+input=aventura safado flor
+output="aaaventura sasasafado flofloflor
+"
+

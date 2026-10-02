@@ -107,3 +107,193 @@ D
 output="11 11
 "
 
+
+case=
+input=1
+0
+0
+R
+1000
+output="0 0
+"
+
+
+case=
+input=1
+0
+0
+L
+999
+output="0 0
+"
+
+
+case=
+input=2
+0
+0
+R
+1
+output="1 0
+"
+
+
+case=
+input=2
+0
+0
+L
+1
+output="1 0
+"
+
+
+case=
+input=2
+0
+0
+U
+1
+output="0 1
+"
+
+
+case=
+input=2
+0
+0
+D
+1
+output="0 1
+"
+
+
+case=
+input=1000
+999
+999
+R
+1000
+output="999 999
+"
+
+
+case=
+input=1000
+0
+0
+L
+1000
+output="0 0
+"
+
+
+case=
+input=314
+123
+192
+U
+524
+output="123 296
+"
+
+
+case=
+input=42
+13
+15
+R
+226
+output="29 15
+"
+
+
+case=
+input=647
+162
+110
+U
+277
+output="162 480
+"
+
+
+case=
+input=235
+20
+58
+R
+187
+output="207 58
+"
+
+
+case=
+input=792
+387
+687
+L
+822
+output="357 687
+"
+
+
+case=
+input=629
+245
+108
+U
+433
+output="245 304
+"
+
+
+case=
+input=164
+161
+106
+R
+996
+output="9 106
+"
+
+
+case=
+input=550
+339
+465
+L
+396
+output="493 465
+"
+
+
+case=
+input=383
+332
+202
+L
+119
+output="213 202
+"
+
+
+case=
+input=563
+257
+190
+U
+444
+output="257 309
+"
+
+
+case=
+input=78
+36
+48
+U
+625
+output="36 47
+"
+

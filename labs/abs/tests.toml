@@ -33,3 +33,185 @@ input = '''
 output = '''
 6
 '''
+
+[[tests]]
+input = '''
+0
+0
+'''
+output = "0\n"
+
+[[tests]]
+input = '''
+0
+1
+'''
+output = "1\n"
+
+[[tests]]
+input = '''
+1
+0
+'''
+output = "1\n"
+
+[[tests]]
+input = '''
+-1
+1
+'''
+output = "2\n"
+
+[[tests]]
+input = '''
+1
+-1
+'''
+output = "2\n"
+
+[[tests]]
+input = '''
+-1
+-1
+'''
+output = "0\n"
+
+[[tests]]
+input = '''
+1000000000
+-1000000000
+'''
+output = "2000000000\n"
+
+[[tests]]
+input = '''
+-1000000000
+1000000000
+'''
+output = "2000000000\n"
+
+[[tests]]
+input = '''
+279959
+-41315
+'''
+output = "321274\n"
+
+[[tests]]
+input = '''
+-594479
+205622
+'''
+output = "800101\n"
+
+[[tests]]
+input = '''
+843581
+910792
+'''
+output = "67211\n"
+
+[[tests]]
+input = '''
+480124
+-312293
+'''
+output = "792417\n"
+
+[[tests]]
+input = '''
+-6726
+-796620
+'''
+output = "789894\n"
+
+[[tests]]
+input = '''
+-129734
+306280
+'''
+output = "436014\n"
+
+[[tests]]
+input = '''
+296625
+491523
+'''
+output = "194898\n"
+
+[[tests]]
+input = '''
+246397
+-888011
+'''
+output = "1134408\n"
+
+[[tests]]
+input = '''
+735604
+512329
+'''
+output = "223275\n"
+
+[[tests]]
+input = '''
+849901
+-502956
+'''
+output = "1352857\n"
+
+[[tests]]
+input = '''
+763885
+231276
+'''
+output = "532609\n"
+
+[[tests]]
+input = '''
+-845530
+-960749
+'''
+output = "115219\n"
+
+[[tests]]
+input = '''
+-536037
+508757
+'''
+output = "1044794\n"
+
+[[tests]]
+input = '''
+524020
+204056
+'''
+output = "319964\n"
+
+[[tests]]
+input = '''
+727605
+165965
+'''
+output = "561640\n"
+
+[[tests]]
+input = '''
+-780877
+-475867
+'''
+output = "305010\n"
+
+[[tests]]
+input = '''
+258314
+-729625
+'''
+output = "987939\n"
+
+[[tests]]
+input = '''
+-578631
+-52450
+'''
+output = "526181\n"

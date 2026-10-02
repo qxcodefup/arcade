@@ -53,3 +53,187 @@ arrocha arregao
 output = '''
 nao
 '''
+
+[[tests]]
+input = '''
+a
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+aa aa
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+a aa aaa
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+z y x
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+abc abd abe
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+ab a
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+apple apple banana
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+a z
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+mu fdnbyugymqt gztfwrns skzgrvqb cducqyvraao srcnux dvhvqztdjs rnzdjuusf ikdpwapfvwlk nemchonii
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+jcfiw
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+opqpc dt hff
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+ffxomblkvejr nqjptvnlwnrp obxqbimc sa xgjksvmd umwhacf
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+s tzlswu limqgwuk dvnqyjwg swmq lwujj je khxvvgdofbo ulblokxwtkpn c r yzfqf
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+tklywoelj wosgmmxw wnndwyncjzg
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+rxdxqunef n keawlvuizi mnwwgkjwqg huqwxksvwkz hbgtlchaovv osvw
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+wdsezbowumna qeg bm cmcwxhptoas bjj glnf
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+zpyubchpteof tgcizgssnrn hgm nrhkrnkoqwjc
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+w ajghcqhoqyun orpeuw ekhmday mjroxwfljrgj cstf
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+v kvz
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+uqhk vrqrpuwmsad x
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+quzvefc ofwqfre btdysmxo gicuuqay eqnpqvz ptrhhwnk
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+glsgqlh nss eugoybx t jiezp gpd o zjmrypuvxucm
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+yirae gnvmniavoc nfam ydn nmmvcclmsa q qil sl
+'''
+output = '''
+nao
+'''

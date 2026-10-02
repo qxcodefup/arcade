@@ -61,3 +61,179 @@ input = '''
 output = '''
 sim
 '''
+
+[[tests]]
+input = '''
+2125856687
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+73911340
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+06142575
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+61166044
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+664
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+81890
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+698479
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+4889844577529
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+16906289
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+840
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+380846406489
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+9191614855138576
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+09
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+6929620061
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+4496038849
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+19333735631712
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+61422519120579
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+82172
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+40141984994775850
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+85165737907140664996
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+98232324083615
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+9
+'''
+output = '''
+nao
+'''

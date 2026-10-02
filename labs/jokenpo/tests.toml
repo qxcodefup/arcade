@@ -69,3 +69,12 @@ R
 output = '''
 jog1
 '''
+
+[[tests]]
+input = '''
+P
+S
+'''
+output = '''
+jog2
+'''

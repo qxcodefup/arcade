@@ -45,3 +45,195 @@ input = '''
 output = '''
 negativo
 '''
+
+[[tests]]
+input = '''
+-2147483648
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+2147483647
+'''
+output = '''
+positivo
+'''
+
+[[tests]]
+input = '''
+-1000000000
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+1000000000
+'''
+output = '''
+positivo
+'''
+
+[[tests]]
+input = '''
+-999999999
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+999999999
+'''
+output = '''
+positivo
+'''
+
+[[tests]]
+input = '''
+-2
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+2
+'''
+output = '''
+positivo
+'''
+
+[[tests]]
+input = '''
+-1000000
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+1000000
+'''
+output = '''
+positivo
+'''
+
+[[tests]]
+input = '''
+-644064039
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+-130369913
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+147442199
+'''
+output = '''
+positivo
+'''
+
+[[tests]]
+input = '''
+-967083074
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+-794554113
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+-230496139
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+-573136116
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+344482608
+'''
+output = '''
+positivo
+'''
+
+[[tests]]
+input = '''
+165558033
+'''
+output = '''
+positivo
+'''
+
+[[tests]]
+input = '''
+-35201229
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+-923220884
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+-671541260
+'''
+output = '''
+negativo
+'''
+
+[[tests]]
+input = '''
+941309571
+'''
+output = '''
+positivo
+'''
+
+[[tests]]
+input = '''
+-757775136
+'''
+output = '''
+negativo
+'''

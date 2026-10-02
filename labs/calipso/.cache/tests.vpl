@@ -33,3 +33,185 @@ g BiGoDe ApArAdO
 aBcD eF
 "
 
+
+case=
+input=1
+123 !?,.
+output="123 !?,.
+"
+
+
+case=
+input=1
+A
+output="A
+"
+
+
+case=
+input=1
+z
+output="z
+"
+
+
+case=
+input=1
+!1?
+output="!1?
+"
+
+
+case=
+input=1
+Aa aa
+output="Aa Aa
+"
+
+
+case=
+input=1
+HELLO WORLD
+output="HeLlO wOrLd
+"
+
+
+case=
+input=1
+jack Sparrow 123
+output="jAcK sPaRrOw 123
+"
+
+
+case=
+input=1
+a_b-C!d
+output="a_B-c!D
+"
+
+
+case=
+input=1
+w8VOxPDP_#Z_rT5ZCw!#AtuAHijN9gkxXE8xlB#
+output="w8VoXpDp_#Z_rT5zCw!#AtUaHiJn9GkXxE8xLb#
+"
+
+
+case=
+input=1
+3kqdkITsB!MrjBgKcOd5zF7Xv7y4bJaKP0x-Shfb7hrk0icE.tZe8DxDQZj5
+output="3kQdKiTsB!mRjBgKcOd5Zf7Xv7Y4bJaKp0X-sHfB7hRk0IcE.tZe8DxDqZj5
+"
+
+
+case=
+input=1
+emZCFPmkWy2
+output="eMzCfPmKwY2
+"
+
+
+case=
+input=1
+pBxj_!Dx3hxW?cDe_UjTO 21qZG-lD8CGehN-q-KSNEkX,6 nY?N6jca XFVh1Yrc4Czz1u#nGq
+output="pBxJ_!dX3hXw?CdE_uJtO 21qZg-Ld8CgEhN-q-KsNeKx,6 Ny?N6jCa XfVh1YrC4cZz1U#nGq
+"
+
+
+case=
+input=1
+3upE.yXYZJp-Loh 1KCbzue-clU7Dd2_50P8.?yP p2x0_rwtSwRhmB.
+output="3uPe.YxYzJp-LoH 1kCbZuE-cLu7Dd2_50P8.?yP p2X0_rWtSwRhMb.
+"
+
+
+case=
+input=1
+VknvFPKT!,beqprYr#YM vrIR15IEX2N bzal wtju0n cqTHR,fIQ3u
+output="VkNvFpKt!,BeQpRyR#yM vRiR15iEx2N bZaL wTjU0n CqThR,fIq3U
+"
+
+
+case=
+input=1
+cf!UBO3e!nYPV
+output="cF!uBo3E!nYpV
+"
+
+
+case=
+input=1
+swiSOQ !6AsjN_Tm-vmjikrO_i1 SEuGD7oh3aVUttHBVkEY3M9dnB4r
+output="sWiSoQ !6aSjN_tM-vMjIkRo_I1 sEuGd7Oh3AvUtThBvKeY3m9DnB4r
+"
+
+
+case=
+input=1
+zVf8phP!i3QlAuvkcY74i8fj# Q5t-ql A?t5 W!?SyKU,u
+output="zVf8PhP!i3QlAuVkCy74I8fJ# q5T-qL a?T5 w!?SyKu,U
+"
+
+
+case=
+input=1
+O-z4sv-9p?kk?VTldVhjQizQMEQKySMIMvyqjK Z4sL9ChC8ScaHh_X2MmwK .a5pcQE74Hm5GLZoNmZxvz
+output="O-z4Sv-9P?kK?vTlDvHjQiZqMeQkYsMiMvYqJk Z4sL9cHc8ScAhH_x2MmWk .A5pCqE74hM5gLzOnMzXvZ
+"
+
+
+case=
+input=1
+Twp0AHkurYhso4BdUsOgt wL-yP-ZPAz?Dl7qMbRoiIJzl1JPEY3L_zb67CoKX
+output="TwP0aHkUrYhSo4BdUsOgT wL-yP-zPaZ?dL7qMbRoIiJzL1jPeY3l_Zb67CoKx
+"
+
+
+case=
+input=1
+aUIx91F,nzDguXp-zpn4555niU1rNuWIJIMqYOhFgL3EUl7pOqD,05B.We,2OAbCf
+output="aUiX91f,NzDgUxP-zPn4555NiU1rNuWiJiMqYoHfGl3EuL7pOqD,05b.We,2OaBcF
+"
+
+
+case=
+input=1
+a8EOUEQfG-CDXMEL#o4Y
+output="a8EoUeQfG-cDxMeL#o4Y
+"
+
+
+case=
+input=1
+Y3yMhgJJuQ!,r,HUtyAviU9ffp
+output="Y3yMhGjJuQ!,r,HuTyAvIu9FfP
+"
+
+
+case=
+input=1
+6.0,BuM2ICWfGrYhUPZSYLARV!8dLjbsRT1 O#CXq6U
+output="6.0,BuM2iCwFgRyHuPzSyLaRv!8DlJbSrT1 o#CxQ6u
+"
+
+
+case=
+input=1
+Mnw!!R9VGl_7B_M_xT-a,WNF!Ut?J0CRLxXZ?0
+output="MnW!!r9VgL_7b_M_xT-a,WnF!uT?j0CrLxXz?0
+"
+
+
+case=
+input=1
+IymzYlO57_-De##0Wp8yd_e8Fh3Vf06KveO7740sZOnftxAI5t7KQxybCcP1F3CpEjV.MQ
+output="IyMzYlO57_-dE##0wP8yD_e8Fh3Vf06KvEo7740SzOnFtXaI5t7KqXyBcCp1F3cPeJv.Mq
+"
+
+
+case=
+input=1
+!GPJC!Zo_lvRPH2kjT5l 4rxVEim0E?JVkFVP5xC5nh4pQWWaCRGqVwLX_9#eP0_
+output="!GpJc!Zo_LvRpH2kJt5L 4rXvEiM0e?JvKfVp5Xc5Nh4PqWwAcRgQvWlX_9#eP0_
+"
+

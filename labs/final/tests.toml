@@ -47,3 +47,453 @@ input = '''
 output = '''
 reprovado na final
 '''
+
+[[tests]]
+input = '''
+4
+4
+5
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+4
+4
+6
+'''
+output = '''
+aprovado na final
+'''
+
+[[tests]]
+input = '''
+4
+5
+5
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+4
+5
+6
+'''
+output = '''
+aprovado na final
+'''
+
+[[tests]]
+input = '''
+5
+5
+4
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+5
+5
+5
+'''
+output = '''
+aprovado na final
+'''
+
+[[tests]]
+input = '''
+5
+6
+4
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+5
+6
+5
+'''
+output = '''
+aprovado na final
+'''
+
+[[tests]]
+input = '''
+6
+6
+3
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+6
+6
+4
+'''
+output = '''
+aprovado na final
+'''
+
+[[tests]]
+input = '''
+6
+7
+3
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+6
+7
+4
+'''
+output = '''
+aprovado na final
+'''
+
+[[tests]]
+input = '''
+3
+4
+10
+'''
+output = '''
+reprovado
+'''
+
+[[tests]]
+input = '''
+4
+3
+0
+'''
+output = '''
+reprovado
+'''
+
+[[tests]]
+input = '''
+7
+7
+0
+'''
+output = '''
+aprovado
+'''
+
+[[tests]]
+input = '''
+8
+6
+10
+'''
+output = '''
+aprovado
+'''
+
+[[tests]]
+input = '''
+10
+10
+0
+'''
+output = '''
+aprovado
+'''
+
+[[tests]]
+input = '''
+9
+2
+1
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+4
+10
+0
+'''
+output = '''
+aprovado
+'''
+
+[[tests]]
+input = '''
+3
+8
+0
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+10
+8
+1
+'''
+output = '''
+aprovado
+'''
+
+[[tests]]
+input = '''
+5
+8
+10
+'''
+output = '''
+aprovado na final
+'''
+
+[[tests]]
+input = '''
+8
+9
+5
+'''
+output = '''
+aprovado
+'''
+
+[[tests]]
+input = '''
+6
+8
+2
+'''
+output = '''
+aprovado
+'''
+
+[[tests]]
+input = '''
+2
+7
+6
+'''
+output = '''
+aprovado na final
+'''
+
+[[tests]]
+input = '''
+7
+9
+4
+'''
+output = '''
+aprovado
+'''
+
+[[tests]]
+input = '''
+4
+1
+0
+'''
+output = '''
+reprovado
+'''
+
+[[tests]]
+input = '''
+6
+0
+2
+'''
+output = '''
+reprovado
+'''
+
+[[tests]]
+input = '''
+4
+8
+2
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+2
+4
+1
+'''
+output = '''
+reprovado
+'''
+
+[[tests]]
+input = '''
+5
+3
+10
+'''
+output = '''
+aprovado na final
+'''
+
+[[tests]]
+input = '''
+9
+0
+8
+'''
+output = '''
+aprovado na final
+'''
+
+[[tests]]
+input = '''
+4
+5
+7
+'''
+output = '''
+aprovado na final
+'''
+
+[[tests]]
+input = '''
+0
+0
+6
+'''
+output = '''
+reprovado
+'''
+
+[[tests]]
+input = '''
+3
+1
+7
+'''
+output = '''
+reprovado
+'''
+
+[[tests]]
+input = '''
+7
+10
+8
+'''
+output = '''
+aprovado
+'''
+
+[[tests]]
+input = '''
+1
+8
+0
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+10
+7
+2
+'''
+output = '''
+aprovado
+'''
+
+[[tests]]
+input = '''
+5
+3
+0
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+0
+8
+0
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+6
+1
+4
+'''
+output = '''
+reprovado
+'''
+
+[[tests]]
+input = '''
+8
+2
+2
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+0
+7
+8
+'''
+output = '''
+reprovado
+'''
+
+[[tests]]
+input = '''
+2
+9
+4
+'''
+output = '''
+reprovado na final
+'''
+
+[[tests]]
+input = '''
+6
+8
+1
+'''
+output = '''
+aprovado
+'''

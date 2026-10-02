@@ -114,3 +114,156 @@ Sasuke
 output = '''
 As chances do crush te dar bola sao: 100%!
 '''
+
+[[tests]]
+input = '''
+lb
+psasavjmwlazm
+'''
+output = '''
+As chances do crush te dar bola sao: 20%!
+'''
+
+[[tests]]
+input = '''
+ezeejplgybzh
+uhpmuiwtwi
+'''
+output = '''
+As chances do crush te dar bola sao: 0%!
+'''
+
+[[tests]]
+input = '''
+lpzszkkwonmq
+rhxwctujnhb
+'''
+output = '''
+As chances do crush te dar bola sao: 50%!
+'''
+
+[[tests]]
+input = '''
+arwc
+outauvftjavxud
+'''
+output = '''
+As chances do crush te dar bola sao: 20%!
+'''
+
+[[tests]]
+input = '''
+xkaogkurs
+kttbmkok
+'''
+output = '''
+As chances do crush te dar bola sao: 20%!
+'''
+
+[[tests]]
+input = '''
+dkazbqpfoag
+hytrregptxfd
+'''
+output = '''
+As chances do crush te dar bola sao: 20%!
+'''
+
+[[tests]]
+input = '''
+pkjedtnlg
+wynwxprhwmvn
+'''
+output = '''
+As chances do crush te dar bola sao: 20%!
+'''
+
+[[tests]]
+input = '''
+tjnopyqcdpqmn
+cjycebtosv
+'''
+output = '''
+As chances do crush te dar bola sao: 20%!
+'''
+
+[[tests]]
+input = '''
+uhlu
+rtpgdlpykmbf
+'''
+output = '''
+As chances do crush te dar bola sao: 0%!
+'''
+
+[[tests]]
+input = '''
+zqjejo
+in
+'''
+output = '''
+As chances do crush te dar bola sao: 0%!
+'''
+
+[[tests]]
+input = '''
+lewujcmbszwei
+qpyma
+'''
+output = '''
+As chances do crush te dar bola sao: 20%!
+'''
+
+[[tests]]
+input = '''
+rcwmbztofqyormd
+prgqjogwhily
+'''
+output = '''
+As chances do crush te dar bola sao: 50%!
+'''
+
+[[tests]]
+input = '''
+qu
+bvbq
+'''
+output = '''
+As chances do crush te dar bola sao: 0%!
+'''
+
+[[tests]]
+input = '''
+zccalhaoljk
+wkpknyjkjimnjb
+'''
+output = '''
+As chances do crush te dar bola sao: 20%!
+'''
+
+[[tests]]
+input = '''
+ufntbrxivcitosf
+uiwuynufnbxm
+'''
+output = '''
+As chances do crush te dar bola sao: 70%!
+'''
+
+[[tests]]
+input = '''
+jlsouhvsxfguli
+svbhizqjqlvw
+'''
+output = '''
+As chances do crush te dar bola sao: 0%!
+'''
+
+[[tests]]
+input = '''
+dqen
+mmgowy
+'''
+output = '''
+As chances do crush te dar bola sao: 50%!
+'''

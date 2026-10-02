@@ -93,3 +93,147 @@ input = '''
 output = '''
 t
 '''
+
+[[tests]]
+input = '''
+3
+'''
+output = '''
+c
+'''
+
+[[tests]]
+input = '''
+25
+'''
+output = '''
+y
+'''
+
+[[tests]]
+input = '''
+51
+'''
+output = '''
+y
+'''
+
+[[tests]]
+input = '''
+77
+'''
+output = '''
+y
+'''
+
+[[tests]]
+input = '''
+78
+'''
+output = '''
+z
+'''
+
+[[tests]]
+input = '''
+79
+'''
+output = '''
+a
+'''
+
+[[tests]]
+input = '''
+99
+'''
+output = '''
+u
+'''
+
+[[tests]]
+input = '''
+100
+'''
+output = '''
+v
+'''
+
+[[tests]]
+input = '''
+65
+'''
+output = '''
+m
+'''
+
+[[tests]]
+input = '''
+66
+'''
+output = '''
+n
+'''
+
+[[tests]]
+input = '''
+64
+'''
+output = '''
+l
+'''
+
+[[tests]]
+input = '''
+97
+'''
+output = '''
+s
+'''
+
+[[tests]]
+input = '''
+38
+'''
+output = '''
+l
+'''
+
+[[tests]]
+input = '''
+34
+'''
+output = '''
+h
+'''
+
+[[tests]]
+input = '''
+42
+'''
+output = '''
+p
+'''
+
+[[tests]]
+input = '''
+93
+'''
+output = '''
+o
+'''
+
+[[tests]]
+input = '''
+72
+'''
+output = '''
+t
+'''
+
+[[tests]]
+input = '''
+88
+'''
+output = '''
+j
+'''

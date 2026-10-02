@@ -102,3 +102,108 @@ input=899
 output="2 265
 "
 
+
+case=
+input=1
+1
+output="1 0
+"
+
+
+case=
+input=1
+2
+output="0 1
+"
+
+
+case=
+input=999999
+1
+output="999999 0
+"
+
+
+case=
+input=1000000
+1000000
+output="1 0
+"
+
+
+case=
+input=1000000
+3
+output="333333 1
+"
+
+
+case=
+input=249028
+336182
+output="0 249028
+"
+
+
+case=
+input=377339
+882144
+output="0 377339
+"
+
+
+case=
+input=554768
+606577
+output="0 554768
+"
+
+
+case=
+input=749651
+662728
+output="1 86923
+"
+
+
+case=
+input=410962
+934024
+output="0 410962
+"
+
+
+case=
+input=835482
+863966
+output="0 835482
+"
+
+
+case=
+input=130124
+628278
+output="0 130124
+"
+
+
+case=
+input=157214
+197361
+output="0 157214
+"
+
+
+case=
+input=796781
+768782
+output="1 27999
+"
+
+
+case=
+input=81715
+708609
+output="0 81715
+"
+

@@ -97,3 +97,203 @@ input = '''
 output = '''
 empate
 '''
+
+[[tests]]
+input = '''
+1
+1
+1
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+input = '''
+1
+-1000
+1000
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+100
+1000
+-1000
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+100
+99
+101
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+input = '''
+1
+2
+0
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+input = '''
+100
+0
+200
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+input = '''
+50
+50
+60
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+50
+40
+60
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+input = '''
+75
+70
+80
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+input = '''
+25
+-25
+75
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+input = '''
+64
+-804
+-242
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+7
+-80
+-707
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+48
+-517
+951
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+9
+-12
+-924
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+37
+504
+650
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+34
+351
+-779
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+74
+530
+945
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+49
+-547
+-315
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+57
+-835
+-675
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+68
+377
+388
+'''
+output = '''
+primeiro
+'''

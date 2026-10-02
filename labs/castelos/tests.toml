@@ -77,3 +77,163 @@ input = '''
 output = '''
 sim
 '''
+
+[[tests]]
+input = '''
+-1
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+-4
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+-100
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+2
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+9
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+15
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+25
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+26
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+48
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+49
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+50
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+120
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+121
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+122
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+99980001
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+99980000
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+999950884
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+999950883
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+1000000000
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+2147395600
+'''
+output = '''
+sim
+'''

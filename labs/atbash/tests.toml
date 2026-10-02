@@ -37,3 +37,263 @@ ta
 output = '''
 tu dtstja tu qutra tu vau
 '''
+
+[[tests]]
+input = '''
+! -o2drvauk7vw.zzutkw.95r2f4qk,
+0iby?url65a-pf
+es!v2d43qt1k.c
+'''
+output = '''
+b ko?u4y1d-7ywpzzd5-wp9t4?cr6-,
+'''
+
+[[tests]]
+input = '''
+ 34o5og,2080opxn7yftd8ng1ab91. !nq15n1wpk16a6y-h5,o3x sh
+s4r
+fgy
+'''
+output = '''
+ 3go5o4,2080opxn7rstd8n41ab91. !nq15n1wpk16a6r-h5,o3x fh
+'''
+
+[[tests]]
+input = '''
+3,bsrpwg l?iieje!xgb2lr0m9km8!2zi4ghpq6zdty,1lqib 5cv39zkij
+8jb.ld63i
+nhk!ze79g
+'''
+output = '''
+9,ksrpwi z?ggdhd.xik2zr0m3bmn.2lg4ijpq7lety,1zqgk 5cv93lbgh
+'''
+
+[[tests]]
+input = '''
+dl2f31iuefi gpoi,au!?5b0zj -8q7d!263fcj
+1o,w5g
+s7pnxi
+'''
+output = '''
+dl2f3sguefg i,7gpau!?xb0zj -8qod!263fcj
+'''
+
+[[tests]]
+input = '''
+2bva qrpx22du5x5vil f-r!t2bbr?eyhlr7i!kfhlr7s-af744g8cpo3o93r
+mtqrn19,
+6ahi!uds
+'''
+output = '''
+2bvt hipx22915x5vrl f-ina2bbi?eyqli7rnkfqli7,-tf744g8cpo3od3i
+'''
+
+[[tests]]
+input = '''
+a?qml24lv?ugo8a2f2ha.w1w9b3ovwq-1o3h,it345u 
+te7m8gp
+3?jwl9.
+'''
+output = '''
+aeqw8248veu9ola2f2hapm1mgbtovmq-1oth,i3t45u 
+'''
+
+[[tests]]
+input = '''
+5o.2r05h.g qbt8z0r tx74m82gdz af.c5nwok1epckw0q
+3esfk50
+6qdlt9,
+'''
+output = '''
+9o.2r,9h.g ebk8z,r kx74m82gsz al.c9nwot1qpctw,e
+'''
+
+[[tests]]
+input = '''
+0pn3qf4dj,e 5
+7u6fr4o.0dw5etl
+-iy,3bz?q1ncsma
+'''
+output = '''
+qpwr0,b1jfs c
+'''
+
+[[tests]]
+input = '''
+ b28vrhq?ks0v5zc
+c!0
+d9z
+'''
+output = '''
+ b28vrhq?kszv50d
+'''
+
+[[tests]]
+input = '''
+v1a8mxbsoi,9v 47v8oics-,ggbjrqk22 sdj5dit-4qhxlv ?
+3x6ag!?8crd
+i12h4nof0z,
+'''
+output = '''
+vxhfm1bs?3d9v g7vf?30s-d44bjzqk66 s,j5,3t-gqa1lv o
+'''
+
+[[tests]]
+input = '''
+kel4ufo
+3br-t714,xdyp
+0.69afsqclkz?
+'''
+output = '''
+dexqu7o
+'''
+
+[[tests]]
+input = '''
+8!qtd5z.uonv, s9!38er.
+nuw02g
+sc7,jv
+'''
+output = '''
+8!qtd5z.cosg0 n9!38er.
+'''
+
+[[tests]]
+input = '''
+- 7ezgc6-a4ajbj8antt5aymb0t1 4
+3z!1,w
+rebhs.
+'''
+output = '''
+- 7zegc6-a4aj!j8antt5aym!0th 4
+'''
+
+[[tests]]
+input = '''
+6fu!st??poafm.le5exfhvbcl0
+qs6u58pa9xbnoht
+e.4wy,1r!z-fd?i
+'''
+output = '''
+4nw9.ihh1drnmslqyqzn?v-cl0
+'''
+
+[[tests]]
+input = '''
+sj2o-ww2sn, zyg88.3e.386y 7,44i-md,l,!6iida
+ufedtb.ozh!4ar
+n,qmsji38l-6wk
+'''
+output = '''
+tb23!aa2tuf 8ygzzioqioz4y 7f66.!dmfhf-4..mw
+'''
+
+[[tests]]
+input = '''
+vkumolz?c?pw vxnvacrsr4t? p 7vy,fo.vq2w5945,dy7bg6w?x9jq.27uh8ksvi.j
+ka?z-x4qphgrc
+n6,3j!f175des
+'''
+output = '''
+vnumol3,s,7w v!kv6seceft, 7 pvy?4o.v12wh9fh?gypbdaw,!9-1.2pu58ncvi.-
+'''
+
+[[tests]]
+input = '''
+ qeq 
+l8a
+hr1
+'''
+output = '''
+ qeq 
+'''
+
+[[tests]]
+input = '''
+ v-z.xbcg.wee1k5mg-qq,7emrvzxq9 lbyq?ch648,1kec11ppy1-?z4,a7e.hioyd5l
+u29f6
+?z3p8
+'''
+output = '''
+ v-2.xbcg.wee1k5mg-qq,7emrv2xq3 lbyquch846,1kec11ffy1-u24,a7e.hioyd5l
+'''
+
+[[tests]]
+input = '''
+z-dyvph.7d2 jj81881oag0?wgfq8 b2lt4o-ff jtgo.i!d3mt2zly75i5t7my-81zgb
+4-!ip
+sbjl1
+'''
+output = '''
+zbdyv1h.7d2 !!8p88poag0?wgfq8 -2itsobff !tgo.ljd3mt2ziy75l5t7myb8pzg-
+'''
+
+[[tests]]
+input = '''
+..,2bng lnoj6c
+?r2u1taq0yfmsh
+6n4zp8gd9j-wbk
+'''
+output = '''
+..,4sra lroy?c
+'''
+
+[[tests]]
+input = '''
+g-j3m-4!,5jai1ulkig cu!msfvwkyaapp2z69720vecg!5r4kgk h7s4jtc
+l6x!94
+0n8ie5
+'''
+output = '''
+g-j3m-5i,4ja!1u0k!g cuimsfvwkyaapp2zne72lv9cgi4r5kgk h7s5jtc
+'''
+
+[[tests]]
+input = '''
+f71dzm2pjnvzh!-nb1n2,232zi - uxau f!60m?vlhsp5.k9so-7wtgq.myh5abvn.wai12bf 
+u
+l
+'''
+output = '''
+f71dzm2pjnvzh!-nb1n2,232zi - lxal f!60m?vuhsp5.k9so-7wtgq.myh5abvn.wai12bf 
+'''
+
+[[tests]]
+input = '''
+n ae6xw9r0ozsfk5jp5u
+tmpl53-1q26
+fkyz0i.?an9
+'''
+output = '''
+2 qe9xw6r5olstm0jy0u
+'''
+
+[[tests]]
+input = '''
+8z7!51 pvj7010bmsx-bqzat?9jo1vz.8xaxr?2w7bcoytf
+h!jm-vwq
+13atzgox
+'''
+output = '''
+8-735h pga70h0btsqzbx-jm?9awhg-.8qjqr?2o7bcwymf
+'''
+
+[[tests]]
+input = '''
+dr7nd!48a1y65sfx-f-.yl2,a8bsh2dv7ts0lj4i,i1l3xpx
+f
+u
+'''
+output = '''
+dr7nd!48a1y65sux-u-.yl2,a8bsh2dv7ts0lj4i,i1l3xpx
+'''
+
+[[tests]]
+input = '''
+akx4dktvo 921n67-qlg-nnrwau2uid4l-!y3uvkmpiwcd?.dj
+l1dpx5yi
+4noqhf-m
+'''
+output = '''
+akhloktvd 92n167yp4gy11rwau2umol4y!-3uvkiqmwco?.oj
+'''

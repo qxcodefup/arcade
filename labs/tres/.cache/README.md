@@ -29,10 +29,10 @@ Imprima a soma dos três números inteiros em uma linha.
 <!-- INPUT --><tr><td valign="top"><pre>
 12
 17
-24
+2
 </pre></td>
 <!-- OUTPUT --><td valign="top"><pre>
-53
+31
 </pre></td></tr>
 <!-- INPUT --><tr><td valign="top"><pre>
 -10

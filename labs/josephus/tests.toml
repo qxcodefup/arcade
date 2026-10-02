@@ -55,3 +55,210 @@ input = '''
 output = '''
 2
 '''
+
+[[tests]]
+input = '''
+1
+1
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+2
+1
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+2
+2
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+3
+1
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+3
+3
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+5
+1
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+5
+5
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+16
+16
+'''
+output = '''
+16
+'''
+
+[[tests]]
+input = '''
+31
+1
+'''
+output = '''
+31
+'''
+
+[[tests]]
+input = '''
+32
+32
+'''
+output = '''
+32
+'''
+
+[[tests]]
+input = '''
+100
+50
+'''
+output = '''
+22
+'''
+
+[[tests]]
+input = '''
+999
+500
+'''
+output = '''
+475
+'''
+
+[[tests]]
+input = '''
+1000
+1
+'''
+output = '''
+977
+'''
+
+[[tests]]
+input = '''
+1000
+1000
+'''
+output = '''
+976
+'''
+
+[[tests]]
+input = '''
+882
+112
+'''
+output = '''
+852
+'''
+
+[[tests]]
+input = '''
+672
+14
+'''
+output = '''
+334
+'''
+
+[[tests]]
+input = '''
+434
+94
+'''
+output = '''
+16
+'''
+
+[[tests]]
+input = '''
+854
+710
+'''
+output = '''
+540
+'''
+
+[[tests]]
+input = '''
+602
+193
+'''
+output = '''
+373
+'''
+
+[[tests]]
+input = '''
+564
+305
+'''
+output = '''
+409
+'''
+
+[[tests]]
+input = '''
+798
+367
+'''
+output = '''
+141
+'''
+
+[[tests]]
+input = '''
+591
+13
+'''
+output = '''
+171
+'''
+
+[[tests]]
+input = '''
+92
+13
+'''
+output = '''
+69
+'''

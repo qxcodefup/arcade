@@ -105,3 +105,190 @@ input=4
 output="3
 "
 
+
+case=
+input=1
+10 10
+output="0
+"
+
+
+case=
+input=2
+9 100
+100 9
+output="sem ganhador
+"
+
+
+case=
+input=2
+10 10
+20 20
+output="0
+"
+
+
+case=
+input=2
+10 11
+11 10
+output="0
+"
+
+
+case=
+input=3
+9 9
+11 12
+10 10
+output="2
+"
+
+
+case=
+input=2
+100 10
+10 100
+output="0
+"
+
+
+case=
+input=3
+10 100
+10 11
+10 20
+output="1
+"
+
+
+case=
+input=2
+9 10
+10 9
+output="sem ganhador
+"
+
+
+case=
+input=3
+10 15
+10 13
+20 22
+output="2
+"
+
+
+case=
+input=3
+50 50
+40 39
+30 31
+output="0
+"
+
+
+case=
+input=9
+14 68
+24 39
+52 75
+95 88
+12 6
+56 29
+98 23
+13 50
+51 30
+output="3
+"
+
+
+case=
+input=7
+82 71
+42 3
+53 87
+59 34
+41 73
+96 24
+19 86
+output="0
+"
+
+
+case=
+input=6
+26 3
+38 36
+65 37
+49 47
+70 34
+4 28
+output="1
+"
+
+
+case=
+input=8
+76 94
+2 94
+58 46
+74 78
+97 80
+46 69
+12 46
+90 8
+output="3
+"
+
+
+case=
+input=10
+29 35
+11 10
+100 55
+28 100
+93 89
+21 81
+63 57
+12 65
+84 15
+65 17
+output="1
+"
+
+
+case=
+input=1
+44 45
+output="0
+"
+
+
+case=
+input=9
+39 50
+13 11
+7 74
+82 22
+84 100
+50 48
+80 92
+43 99
+31 89
+output="1
+"
+
+
+case=
+input=6
+85 32
+67 99
+90 15
+46 6
+24 82
+49 73
+output="5
+"
+

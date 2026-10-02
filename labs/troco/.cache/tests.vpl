@@ -47,3 +47,299 @@ output="3 de 100.00
 Falta 0.01
 "
 
+
+case=
+input=25099.87
+output="250 de 100.00
+1 de 50.00
+2 de 20.00
+1 de 5.00
+2 de 2.00
+1 de 0.50
+1 de 0.25
+1 de 0.10
+Falta 0.02
+"
+
+
+case=
+input=43093.35
+output="430 de 100.00
+1 de 50.00
+2 de 20.00
+1 de 2.00
+1 de 1.00
+1 de 0.25
+1 de 0.10
+"
+
+
+case=
+input=50233.48
+output="502 de 100.00
+1 de 20.00
+1 de 10.00
+1 de 2.00
+1 de 1.00
+1 de 0.25
+2 de 0.10
+Falta 0.03
+"
+
+
+case=
+input=47060.32
+output="470 de 100.00
+1 de 50.00
+1 de 10.00
+1 de 0.25
+1 de 0.05
+Falta 0.02
+"
+
+
+case=
+input=56711.26
+output="567 de 100.00
+1 de 10.00
+1 de 1.00
+1 de 0.25
+Falta 0.01
+"
+
+
+case=
+input=78902.77
+output="789 de 100.00
+1 de 2.00
+1 de 0.50
+1 de 0.25
+Falta 0.02
+"
+
+
+case=
+input=49305.99
+output="493 de 100.00
+1 de 5.00
+1 de 0.50
+1 de 0.25
+2 de 0.10
+Falta 0.04
+"
+
+
+case=
+input=89547.64
+output="895 de 100.00
+2 de 20.00
+1 de 5.00
+1 de 2.00
+1 de 0.50
+1 de 0.10
+Falta 0.04
+"
+
+
+case=
+input=89509.42
+output="895 de 100.00
+1 de 5.00
+2 de 2.00
+1 de 0.25
+1 de 0.10
+1 de 0.05
+Falta 0.02
+"
+
+
+case=
+input=58774.83
+output="587 de 100.00
+1 de 50.00
+1 de 20.00
+2 de 2.00
+1 de 0.50
+1 de 0.25
+1 de 0.05
+Falta 0.03
+"
+
+
+case=
+input=10148.93
+output="101 de 100.00
+2 de 20.00
+1 de 5.00
+1 de 2.00
+1 de 1.00
+1 de 0.50
+1 de 0.25
+1 de 0.10
+1 de 0.05
+Falta 0.03
+"
+
+
+case=
+input=68256.81
+output="682 de 100.00
+1 de 50.00
+1 de 5.00
+1 de 1.00
+1 de 0.50
+1 de 0.25
+1 de 0.05
+Falta 0.01
+"
+
+
+case=
+input=67850.24
+output="678 de 100.00
+1 de 50.00
+2 de 0.10
+Falta 0.04
+"
+
+
+case=
+input=99581.39
+output="995 de 100.00
+1 de 50.00
+1 de 20.00
+1 de 10.00
+1 de 1.00
+1 de 0.25
+1 de 0.10
+Falta 0.04
+"
+
+
+case=
+input=89861.34
+output="898 de 100.00
+1 de 50.00
+1 de 10.00
+1 de 1.00
+1 de 0.25
+1 de 0.05
+Falta 0.04
+"
+
+
+case=
+input=16643.38
+output="166 de 100.00
+2 de 20.00
+1 de 2.00
+1 de 1.00
+1 de 0.25
+1 de 0.10
+Falta 0.03
+"
+
+
+case=
+input=55933.88
+output="559 de 100.00
+1 de 20.00
+1 de 10.00
+1 de 2.00
+1 de 1.00
+1 de 0.50
+1 de 0.25
+1 de 0.10
+Falta 0.03
+"
+
+
+case=
+input=92563.63
+output="925 de 100.00
+1 de 50.00
+1 de 10.00
+1 de 2.00
+1 de 1.00
+1 de 0.50
+1 de 0.10
+Falta 0.03
+"
+
+
+case=
+input=76608.84
+output="766 de 100.00
+1 de 5.00
+1 de 2.00
+1 de 1.00
+1 de 0.50
+1 de 0.25
+1 de 0.05
+Falta 0.04
+"
+
+
+case=
+input=41818.21
+output="418 de 100.00
+1 de 10.00
+1 de 5.00
+1 de 2.00
+1 de 1.00
+2 de 0.10
+Falta 0.01
+"
+
+
+case=
+input=20390.26
+output="203 de 100.00
+1 de 50.00
+2 de 20.00
+1 de 0.25
+Falta 0.01
+"
+
+
+case=
+input=3341.27
+output="33 de 100.00
+2 de 20.00
+1 de 1.00
+1 de 0.25
+Falta 0.02
+"
+
+
+case=
+input=49673.07
+output="496 de 100.00
+1 de 50.00
+1 de 20.00
+1 de 2.00
+1 de 1.00
+1 de 0.05
+Falta 0.02
+"
+
+
+case=
+input=47044.70
+output="470 de 100.00
+2 de 20.00
+2 de 2.00
+1 de 0.50
+2 de 0.10
+"
+
+
+case=
+input=24111.26
+output="241 de 100.00
+1 de 10.00
+1 de 1.00
+1 de 0.25
+Falta 0.01
+"
+

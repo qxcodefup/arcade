@@ -37,3 +37,203 @@ Nao se bula ou eu te mato
 output = '''
 Nao se bububula ou eu te mamamato
 '''
+
+[[tests]]
+input = '''
+abacaxi cangaceiro Prea eu
+'''
+output = '''
+aaabacaxi cacacangaceiro Prea eu
+'''
+
+[[tests]]
+input = '''
+bicicleta ja menino cafe
+'''
+output = '''
+bibibicicleta ja mememenino cacacafe
+'''
+
+[[tests]]
+input = '''
+agua futebol Morreu menino janela garrafa
+'''
+output = '''
+aaagua fufufutebol MoMoMorreu mememenino jajajanela gagagarrafa
+'''
+
+[[tests]]
+input = '''
+agua camisa
+'''
+output = '''
+aaagua cacacamisa
+'''
+
+[[tests]]
+input = '''
+menina musica aventura musica eu sol
+'''
+output = '''
+mememenina mumumusica aaaventura mumumusica eu sososol
+'''
+
+[[tests]]
+input = '''
+arranco Prea musica lua menino
+'''
+output = '''
+aaarranco Prea mumumusica lua mememenino
+'''
+
+[[tests]]
+input = '''
+guitarra garrafa livro
+'''
+output = '''
+guiguiguitarra gagagarrafa lililivro
+'''
+
+[[tests]]
+input = '''
+tripas garrafa mae aventura planeta
+'''
+output = '''
+tritritripas gagagarrafa mae aaaventura plaplaplaneta
+'''
+
+[[tests]]
+input = '''
+computador parque
+'''
+output = '''
+cococomputador papaparque
+'''
+
+[[tests]]
+input = '''
+Quixada safado cafe menina fruta mar
+'''
+output = '''
+QuiQuiQuixada sasasafado cacacafe mememenina frufrufruta mamamar
+'''
+
+[[tests]]
+input = '''
+pipoca casa
+'''
+output = '''
+pipipipoca cacacasa
+'''
+
+[[tests]]
+input = '''
+janela mar pai tripas pai
+'''
+output = '''
+jajajanela mamamar pai tritritripas pai
+'''
+
+[[tests]]
+input = '''
+escola livro brincadeira tripas janela
+'''
+output = '''
+eeescola lililivro bribribrincadeira tritritripas jajajanela
+'''
+
+[[tests]]
+input = '''
+dente menino
+'''
+output = '''
+dededente mememenino
+'''
+
+[[tests]]
+input = '''
+Morreu safado fruta ou chocolate banana
+'''
+output = '''
+MoMoMorreu sasasafado frufrufruta ou chochochocolate bababanana
+'''
+
+[[tests]]
+input = '''
+te cangaceiro tripas telefone
+'''
+output = '''
+te cacacangaceiro tritritripas tetetelefone
+'''
+
+[[tests]]
+input = '''
+abelha arranco fruta
+'''
+output = '''
+aaabelha aaarranco frufrufruta
+'''
+
+[[tests]]
+input = '''
+te cafe safado arranco telefone
+'''
+output = '''
+te cacacafe sasasafado aaarranco tetetelefone
+'''
+
+[[tests]]
+input = '''
+escola mar brincadeira
+'''
+output = '''
+eeescola mamamar bribribrincadeira
+'''
+
+[[tests]]
+input = '''
+pipoca musica
+'''
+output = '''
+pipipipoca mumumusica
+'''
+
+[[tests]]
+input = '''
+escola flor menina computador
+'''
+output = '''
+eeescola flofloflor mememenina cococomputador
+'''
+
+[[tests]]
+input = '''
+mae aventura Volte
+'''
+output = '''
+mae aaaventura VoVoVolte
+'''
+
+[[tests]]
+input = '''
+ja prato parque
+'''
+output = '''
+ja prapraprato papaparque
+'''
+
+[[tests]]
+input = '''
+mae escola chocolate sol
+'''
+output = '''
+mae eeescola chochochocolate sososol
+'''
+
+[[tests]]
+input = '''
+aventura safado flor
+'''
+output = '''
+aaaventura sasasafado flofloflor
+'''

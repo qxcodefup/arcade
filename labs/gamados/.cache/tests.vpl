@@ -39,3 +39,141 @@ input=arrocha arregao
 output="nao
 "
 
+
+case=
+input=a
+output="sim
+"
+
+
+case=
+input=aa aa
+output="sim
+"
+
+
+case=
+input=a aa aaa
+output="sim
+"
+
+
+case=
+input=z y x
+output="nao
+"
+
+
+case=
+input=abc abd abe
+output="sim
+"
+
+
+case=
+input=ab a
+output="nao
+"
+
+
+case=
+input=apple apple banana
+output="sim
+"
+
+
+case=
+input=a z
+output="sim
+"
+
+
+case=
+input=mu fdnbyugymqt gztfwrns skzgrvqb cducqyvraao srcnux dvhvqztdjs rnzdjuusf ikdpwapfvwlk nemchonii
+output="nao
+"
+
+
+case=
+input=jcfiw
+output="sim
+"
+
+
+case=
+input=opqpc dt hff
+output="nao
+"
+
+
+case=
+input=ffxomblkvejr nqjptvnlwnrp obxqbimc sa xgjksvmd umwhacf
+output="nao
+"
+
+
+case=
+input=s tzlswu limqgwuk dvnqyjwg swmq lwujj je khxvvgdofbo ulblokxwtkpn c r yzfqf
+output="nao
+"
+
+
+case=
+input=tklywoelj wosgmmxw wnndwyncjzg
+output="nao
+"
+
+
+case=
+input=rxdxqunef n keawlvuizi mnwwgkjwqg huqwxksvwkz hbgtlchaovv osvw
+output="nao
+"
+
+
+case=
+input=wdsezbowumna qeg bm cmcwxhptoas bjj glnf
+output="nao
+"
+
+
+case=
+input=zpyubchpteof tgcizgssnrn hgm nrhkrnkoqwjc
+output="nao
+"
+
+
+case=
+input=w ajghcqhoqyun orpeuw ekhmday mjroxwfljrgj cstf
+output="nao
+"
+
+
+case=
+input=v kvz
+output="nao
+"
+
+
+case=
+input=uqhk vrqrpuwmsad x
+output="sim
+"
+
+
+case=
+input=quzvefc ofwqfre btdysmxo gicuuqay eqnpqvz ptrhhwnk
+output="nao
+"
+
+
+case=
+input=glsgqlh nss eugoybx t jiezp gpd o zjmrypuvxucm
+output="nao
+"
+
+
+case=
+input=yirae gnvmniavoc nfam ydn nmmvcclmsa q qil sl
+output="nao
+"
+

@@ -122,3 +122,1128 @@ output = '''
    Media: 5.73
    N1: 4.70, N2: 4.30, N3: 8.20
 '''
+
+[[tests]]
+input = '''
+1
+nqofq nnxmoeay
+9.5 9.0 4.3
+'''
+output = '''
+0: nqofq nnxmoeay
+   Media: 7.60
+   N1: 9.50, N2: 9.00, N3: 4.30
+'''
+
+[[tests]]
+input = '''
+6
+yhs aku
+8.8 9.8 9.0
+tcomo
+6.4 2.0 9.1
+lahouxbsfy
+9.8 9.9 9.8
+giqfqqb
+6.3 10.0 9.7
+bqzmnwctr
+1.2 6.6 9.9
+kubrqyl
+0.9 1.7 0.1
+'''
+output = '''
+0: lahouxbsfy
+   Media: 9.83
+   N1: 9.80, N2: 9.90, N3: 9.80
+1: yhs aku
+   Media: 9.20
+   N1: 8.80, N2: 9.80, N3: 9.00
+2: giqfqqb
+   Media: 8.67
+   N1: 6.30, N2: 10.00, N3: 9.70
+3: bqzmnwctr
+   Media: 5.90
+   N1: 1.20, N2: 6.60, N3: 9.90
+4: tcomo
+   Media: 5.83
+   N1: 6.40, N2: 2.00, N3: 9.10
+5: kubrqyl
+   Media: 0.90
+   N1: 0.90, N2: 1.70, N3: 0.10
+'''
+
+[[tests]]
+input = '''
+8
+nfzsv nzymkwfa
+7.4 9.5 9.9
+raydyxlidu
+1.5 0.5 0.5
+iinltcyvm
+8.7 2.7 0.0
+xnqookk
+0.1 9.7 9.7
+cekzlc kxnna
+2.8 3.2 3.8
+rtuqalegic haupys
+7.4 8.0 1.9
+cbrpoi isxpoh
+9.8 6.9 9.3
+cmdjo
+4.9 8.4 8.6
+'''
+output = '''
+0: nfzsv nzymkwfa
+   Media: 8.93
+   N1: 7.40, N2: 9.50, N3: 9.90
+1: cbrpoi isxpoh
+   Media: 8.67
+   N1: 9.80, N2: 6.90, N3: 9.30
+2: cmdjo
+   Media: 7.30
+   N1: 4.90, N2: 8.40, N3: 8.60
+3: xnqookk
+   Media: 6.50
+   N1: 0.10, N2: 9.70, N3: 9.70
+4: rtuqalegic haupys
+   Media: 5.77
+   N1: 7.40, N2: 8.00, N3: 1.90
+5: iinltcyvm
+   Media: 3.80
+   N1: 8.70, N2: 2.70, N3: 0.00
+6: cekzlc kxnna
+   Media: 3.27
+   N1: 2.80, N2: 3.20, N3: 3.80
+7: raydyxlidu
+   Media: 0.83
+   N1: 1.50, N2: 0.50, N3: 0.50
+'''
+
+[[tests]]
+input = '''
+1
+wptaqiss
+8.0 6.6 7.0
+'''
+output = '''
+0: wptaqiss
+   Media: 7.20
+   N1: 8.00, N2: 6.60, N3: 7.00
+'''
+
+[[tests]]
+input = '''
+3
+gbqaepni
+4.5 2.2 1.1
+slcz
+9.9 9.2 9.9
+yfricote mvvzwoxn
+4.6 2.2 7.8
+'''
+output = '''
+0: slcz
+   Media: 9.67
+   N1: 9.90, N2: 9.20, N3: 9.90
+1: yfricote mvvzwoxn
+   Media: 4.87
+   N1: 4.60, N2: 2.20, N3: 7.80
+2: gbqaepni
+   Media: 2.60
+   N1: 4.50, N2: 2.20, N3: 1.10
+'''
+
+[[tests]]
+input = '''
+11
+ahcxaeh
+1.6 0.2 1.1
+byrd izse
+5.9 2.5 5.8
+ncuimepkk
+9.5 9.8 8.9
+xixsgk jrs
+3.1 0.4 2.5
+geklsgpqfi
+8.8 9.6 9.3
+nytqetcrfa nsiwq
+9.6 6.2 9.0
+ezeffhpw
+10.0 2.5 1.0
+emrpyfrkh
+6.2 7.4 8.3
+kvrg
+2.1 0.0 0.0
+hwvousmufk ajavazy
+1.4 1.4 3.7
+lrtann bjemsegz
+5.0 9.4 6.4
+'''
+output = '''
+0: ncuimepkk
+   Media: 9.40
+   N1: 9.50, N2: 9.80, N3: 8.90
+1: geklsgpqfi
+   Media: 9.23
+   N1: 8.80, N2: 9.60, N3: 9.30
+2: nytqetcrfa nsiwq
+   Media: 8.27
+   N1: 9.60, N2: 6.20, N3: 9.00
+3: emrpyfrkh
+   Media: 7.30
+   N1: 6.20, N2: 7.40, N3: 8.30
+4: lrtann bjemsegz
+   Media: 6.93
+   N1: 5.00, N2: 9.40, N3: 6.40
+5: byrd izse
+   Media: 4.73
+   N1: 5.90, N2: 2.50, N3: 5.80
+6: ezeffhpw
+   Media: 4.50
+   N1: 10.00, N2: 2.50, N3: 1.00
+7: hwvousmufk ajavazy
+   Media: 2.17
+   N1: 1.40, N2: 1.40, N3: 3.70
+8: xixsgk jrs
+   Media: 2.00
+   N1: 3.10, N2: 0.40, N3: 2.50
+9: ahcxaeh
+   Media: 0.97
+   N1: 1.60, N2: 0.20, N3: 1.10
+10: kvrg
+   Media: 0.70
+   N1: 2.10, N2: 0.00, N3: 0.00
+'''
+
+[[tests]]
+input = '''
+9
+fue nlciwu
+3.7 0.4 3.2
+ghoepmlvt
+8.9 7.5 9.4
+azb ldh
+5.2 8.7 1.8
+dmjom
+8.0 3.6 9.8
+qwtoafhfhk pgafi
+7.1 1.5 1.0
+nepzayqxok
+8.7 9.8 9.9
+ohjjxlmc
+4.8 0.8 9.1
+ium
+9.8 7.0 8.7
+jffqo
+1.0 0.1 1.5
+'''
+output = '''
+0: nepzayqxok
+   Media: 9.47
+   N1: 8.70, N2: 9.80, N3: 9.90
+1: ghoepmlvt
+   Media: 8.60
+   N1: 8.90, N2: 7.50, N3: 9.40
+2: ium
+   Media: 8.50
+   N1: 9.80, N2: 7.00, N3: 8.70
+3: dmjom
+   Media: 7.13
+   N1: 8.00, N2: 3.60, N3: 9.80
+4: azb ldh
+   Media: 5.23
+   N1: 5.20, N2: 8.70, N3: 1.80
+5: ohjjxlmc
+   Media: 4.90
+   N1: 4.80, N2: 0.80, N3: 9.10
+6: qwtoafhfhk pgafi
+   Media: 3.20
+   N1: 7.10, N2: 1.50, N3: 1.00
+7: fue nlciwu
+   Media: 2.43
+   N1: 3.70, N2: 0.40, N3: 3.20
+8: jffqo
+   Media: 0.87
+   N1: 1.00, N2: 0.10, N3: 1.50
+'''
+
+[[tests]]
+input = '''
+18
+udyild
+3.4 2.0 0.0
+fwxfsbopzj
+8.8 9.2 2.1
+yujryergo
+6.3 1.5 9.8
+ajot mlp
+0.1 2.1 0.6
+kvggc
+0.3 0.0 0.3
+aaovbzxb mxjcuiny
+0.5 2.1 0.9
+cywjeutwz fkss
+7.5 9.2 7.0
+jlcjzrc zdoyyt
+4.6 1.3 0.7
+iilbn
+2.4 5.3 9.6
+cdjx
+0.9 9.9 2.5
+owupbn
+9.4 6.4 7.2
+zelwqtso
+0.9 8.7 1.7
+vcilcab fsxzp
+1.6 0.5 0.0
+ndhpfzo hfjnmbm
+2.5 6.6 8.7
+tbox
+2.2 2.0 2.8
+jrdzcpy yqyn
+6.8 1.4 1.5
+oxia
+3.9 0.1 2.8
+jgnvs
+9.5 3.7 6.4
+'''
+output = '''
+0: cywjeutwz fkss
+   Media: 7.90
+   N1: 7.50, N2: 9.20, N3: 7.00
+1: owupbn
+   Media: 7.67
+   N1: 9.40, N2: 6.40, N3: 7.20
+2: fwxfsbopzj
+   Media: 6.70
+   N1: 8.80, N2: 9.20, N3: 2.10
+3: jgnvs
+   Media: 6.53
+   N1: 9.50, N2: 3.70, N3: 6.40
+4: ndhpfzo hfjnmbm
+   Media: 5.93
+   N1: 2.50, N2: 6.60, N3: 8.70
+5: yujryergo
+   Media: 5.87
+   N1: 6.30, N2: 1.50, N3: 9.80
+6: iilbn
+   Media: 5.77
+   N1: 2.40, N2: 5.30, N3: 9.60
+7: cdjx
+   Media: 4.43
+   N1: 0.90, N2: 9.90, N3: 2.50
+8: zelwqtso
+   Media: 3.77
+   N1: 0.90, N2: 8.70, N3: 1.70
+9: jrdzcpy yqyn
+   Media: 3.23
+   N1: 6.80, N2: 1.40, N3: 1.50
+10: tbox
+   Media: 2.33
+   N1: 2.20, N2: 2.00, N3: 2.80
+11: oxia
+   Media: 2.27
+   N1: 3.90, N2: 0.10, N3: 2.80
+12: jlcjzrc zdoyyt
+   Media: 2.20
+   N1: 4.60, N2: 1.30, N3: 0.70
+13: udyild
+   Media: 1.80
+   N1: 3.40, N2: 2.00, N3: 0.00
+14: aaovbzxb mxjcuiny
+   Media: 1.17
+   N1: 0.50, N2: 2.10, N3: 0.90
+15: ajot mlp
+   Media: 0.93
+   N1: 0.10, N2: 2.10, N3: 0.60
+16: vcilcab fsxzp
+   Media: 0.70
+   N1: 1.60, N2: 0.50, N3: 0.00
+17: kvggc
+   Media: 0.20
+   N1: 0.30, N2: 0.00, N3: 0.30
+'''
+
+[[tests]]
+input = '''
+10
+woeqaazpx zlsysspl
+0.6 7.0 9.9
+laj npz
+2.8 3.4 2.2
+vuxlxez swutqs
+10.0 9.9 9.8
+xuoae
+2.8 5.8 3.9
+acbvama
+6.8 4.6 6.9
+ktz
+2.7 0.2 0.5
+kxlkvllr
+0.0 6.4 4.8
+istawcv mvcmnm
+4.9 5.4 3.8
+zgsg dgnm
+3.6 0.1 1.3
+msgbtmnuci
+9.7 9.9 10.0
+'''
+output = '''
+0: vuxlxez swutqs
+   Media: 9.90
+   N1: 10.00, N2: 9.90, N3: 9.80
+1: msgbtmnuci
+   Media: 9.87
+   N1: 9.70, N2: 9.90, N3: 10.00
+2: acbvama
+   Media: 6.10
+   N1: 6.80, N2: 4.60, N3: 6.90
+3: woeqaazpx zlsysspl
+   Media: 5.83
+   N1: 0.60, N2: 7.00, N3: 9.90
+4: istawcv mvcmnm
+   Media: 4.70
+   N1: 4.90, N2: 5.40, N3: 3.80
+5: xuoae
+   Media: 4.17
+   N1: 2.80, N2: 5.80, N3: 3.90
+6: kxlkvllr
+   Media: 3.73
+   N1: 0.00, N2: 6.40, N3: 4.80
+7: laj npz
+   Media: 2.80
+   N1: 2.80, N2: 3.40, N3: 2.20
+8: zgsg dgnm
+   Media: 1.67
+   N1: 3.60, N2: 0.10, N3: 1.30
+9: ktz
+   Media: 1.13
+   N1: 2.70, N2: 0.20, N3: 0.50
+'''
+
+[[tests]]
+input = '''
+9
+cbybndhx jdu
+2.8 9.6 1.1
+urvdh
+7.0 9.7 10.0
+pzmzwgrrm
+2.5 2.0 2.4
+jehn
+7.1 8.3 8.8
+mshix
+4.0 0.2 0.8
+bfcmcvqg gjulxj
+9.0 9.9 9.9
+boykgrep
+2.3 0.0 0.0
+zvr
+4.0 0.6 1.1
+xschlpgjt
+0.8 0.4 0.5
+'''
+output = '''
+0: bfcmcvqg gjulxj
+   Media: 9.60
+   N1: 9.00, N2: 9.90, N3: 9.90
+1: urvdh
+   Media: 8.90
+   N1: 7.00, N2: 9.70, N3: 10.00
+2: jehn
+   Media: 8.07
+   N1: 7.10, N2: 8.30, N3: 8.80
+3: cbybndhx jdu
+   Media: 4.50
+   N1: 2.80, N2: 9.60, N3: 1.10
+4: pzmzwgrrm
+   Media: 2.30
+   N1: 2.50, N2: 2.00, N3: 2.40
+5: zvr
+   Media: 1.90
+   N1: 4.00, N2: 0.60, N3: 1.10
+6: mshix
+   Media: 1.67
+   N1: 4.00, N2: 0.20, N3: 0.80
+7: boykgrep
+   Media: 0.77
+   N1: 2.30, N2: 0.00, N3: 0.00
+8: xschlpgjt
+   Media: 0.57
+   N1: 0.80, N2: 0.40, N3: 0.50
+'''
+
+[[tests]]
+input = '''
+5
+hzdzdzqjm eot
+5.4 9.9 9.6
+jmiskw
+3.3 6.7 4.3
+pxxlncn dtdhfhw
+9.3 9.4 9.4
+qbpzznwqqz maijd
+4.1 1.6 0.3
+pgwqmxjds
+7.6 6.2 7.0
+'''
+output = '''
+0: pxxlncn dtdhfhw
+   Media: 9.37
+   N1: 9.30, N2: 9.40, N3: 9.40
+1: hzdzdzqjm eot
+   Media: 8.30
+   N1: 5.40, N2: 9.90, N3: 9.60
+2: pgwqmxjds
+   Media: 6.93
+   N1: 7.60, N2: 6.20, N3: 7.00
+3: jmiskw
+   Media: 4.77
+   N1: 3.30, N2: 6.70, N3: 4.30
+4: qbpzznwqqz maijd
+   Media: 2.00
+   N1: 4.10, N2: 1.60, N3: 0.30
+'''
+
+[[tests]]
+input = '''
+5
+uyrbp
+0.1 9.0 7.2
+likus ewjh
+5.6 0.0 2.0
+whoh lvgt
+4.0 9.3 9.9
+izkkyupcfr
+7.0 6.1 0.1
+pubfp
+3.1 9.0 5.3
+'''
+output = '''
+0: whoh lvgt
+   Media: 7.73
+   N1: 4.00, N2: 9.30, N3: 9.90
+1: pubfp
+   Media: 5.80
+   N1: 3.10, N2: 9.00, N3: 5.30
+2: uyrbp
+   Media: 5.43
+   N1: 0.10, N2: 9.00, N3: 7.20
+3: izkkyupcfr
+   Media: 4.40
+   N1: 7.00, N2: 6.10, N3: 0.10
+4: likus ewjh
+   Media: 2.53
+   N1: 5.60, N2: 0.00, N3: 2.00
+'''
+
+[[tests]]
+input = '''
+13
+acbczsw
+5.7 2.6 8.2
+ydaomqj
+9.4 7.1 10.0
+onxc jty
+0.0 4.3 0.5
+bbd
+9.7 6.0 10.0
+oghtr eiz
+4.6 8.4 8.9
+qajiuwwvhz
+1.1 6.4 2.4
+wnexwobx vfxsctqq
+1.4 8.2 2.0
+triolrpo
+9.7 1.2 1.7
+xdo
+1.6 4.0 5.6
+zxa
+0.5 5.9 8.7
+cxltujdif qzeu
+0.7 0.3 1.5
+vyitwxdab
+4.3 8.3 9.6
+dovkwwm
+9.5 9.9 8.3
+'''
+output = '''
+0: dovkwwm
+   Media: 9.23
+   N1: 9.50, N2: 9.90, N3: 8.30
+1: ydaomqj
+   Media: 8.83
+   N1: 9.40, N2: 7.10, N3: 10.00
+2: bbd
+   Media: 8.57
+   N1: 9.70, N2: 6.00, N3: 10.00
+3: vyitwxdab
+   Media: 7.40
+   N1: 4.30, N2: 8.30, N3: 9.60
+4: oghtr eiz
+   Media: 7.30
+   N1: 4.60, N2: 8.40, N3: 8.90
+5: acbczsw
+   Media: 5.50
+   N1: 5.70, N2: 2.60, N3: 8.20
+6: zxa
+   Media: 5.03
+   N1: 0.50, N2: 5.90, N3: 8.70
+7: triolrpo
+   Media: 4.20
+   N1: 9.70, N2: 1.20, N3: 1.70
+8: wnexwobx vfxsctqq
+   Media: 3.87
+   N1: 1.40, N2: 8.20, N3: 2.00
+9: xdo
+   Media: 3.73
+   N1: 1.60, N2: 4.00, N3: 5.60
+10: qajiuwwvhz
+   Media: 3.30
+   N1: 1.10, N2: 6.40, N3: 2.40
+11: onxc jty
+   Media: 1.60
+   N1: 0.00, N2: 4.30, N3: 0.50
+12: cxltujdif qzeu
+   Media: 0.83
+   N1: 0.70, N2: 0.30, N3: 1.50
+'''
+
+[[tests]]
+input = '''
+10
+lpzyhqun
+9.1 8.0 6.2
+cmnpnr ibnhqwuc
+3.6 1.0 1.1
+jisgn lmf
+3.9 9.4 7.3
+ucyqgeeyc
+9.9 9.7 9.8
+vjv nalvqqt
+9.6 8.4 9.6
+jmex
+7.0 1.0 3.4
+bgkszsbmu
+8.1 6.0 4.6
+jxnhskwbpn
+6.2 0.5 1.1
+mygh jcsmyfsv
+5.2 1.7 1.2
+ztqdtngx rwnc
+0.1 0.0 0.0
+'''
+output = '''
+0: ucyqgeeyc
+   Media: 9.80
+   N1: 9.90, N2: 9.70, N3: 9.80
+1: vjv nalvqqt
+   Media: 9.20
+   N1: 9.60, N2: 8.40, N3: 9.60
+2: lpzyhqun
+   Media: 7.77
+   N1: 9.10, N2: 8.00, N3: 6.20
+3: jisgn lmf
+   Media: 6.87
+   N1: 3.90, N2: 9.40, N3: 7.30
+4: bgkszsbmu
+   Media: 6.23
+   N1: 8.10, N2: 6.00, N3: 4.60
+5: jmex
+   Media: 3.80
+   N1: 7.00, N2: 1.00, N3: 3.40
+6: mygh jcsmyfsv
+   Media: 2.70
+   N1: 5.20, N2: 1.70, N3: 1.20
+7: jxnhskwbpn
+   Media: 2.60
+   N1: 6.20, N2: 0.50, N3: 1.10
+8: cmnpnr ibnhqwuc
+   Media: 1.90
+   N1: 3.60, N2: 1.00, N3: 1.10
+9: ztqdtngx rwnc
+   Media: 0.03
+   N1: 0.10, N2: 0.00, N3: 0.00
+'''
+
+[[tests]]
+input = '''
+8
+apjhitllk
+6.1 7.2 8.8
+ixklyohjy jbvcihq
+7.3 0.8 0.4
+lcszeclgal lwsyy
+0.6 1.6 3.1
+pygtwriu
+5.7 0.5 5.7
+zabpoxhd
+7.6 4.5 6.7
+lyx yvacoczp
+9.4 9.9 9.3
+aokerlror
+7.2 9.1 9.9
+hzmvtgwma zneqx
+8.2 9.4 7.0
+'''
+output = '''
+0: lyx yvacoczp
+   Media: 9.53
+   N1: 9.40, N2: 9.90, N3: 9.30
+1: aokerlror
+   Media: 8.73
+   N1: 7.20, N2: 9.10, N3: 9.90
+2: hzmvtgwma zneqx
+   Media: 8.20
+   N1: 8.20, N2: 9.40, N3: 7.00
+3: apjhitllk
+   Media: 7.37
+   N1: 6.10, N2: 7.20, N3: 8.80
+4: zabpoxhd
+   Media: 6.27
+   N1: 7.60, N2: 4.50, N3: 6.70
+5: pygtwriu
+   Media: 3.97
+   N1: 5.70, N2: 0.50, N3: 5.70
+6: ixklyohjy jbvcihq
+   Media: 2.83
+   N1: 7.30, N2: 0.80, N3: 0.40
+7: lcszeclgal lwsyy
+   Media: 1.77
+   N1: 0.60, N2: 1.60, N3: 3.10
+'''
+
+[[tests]]
+input = '''
+16
+rmsas
+5.4 7.3 8.3
+uhalcke
+0.0 0.3 0.0
+iqcx
+5.3 7.6 6.3
+kqbkiglot
+1.6 1.1 5.0
+zfwhsiesb
+8.4 9.0 9.6
+dskndkj nvox
+1.7 7.4 0.2
+zdxt ympqwei
+6.2 9.3 9.4
+vpdcgwn
+8.7 5.5 1.0
+wvvifodc
+6.8 6.8 7.0
+ouoqumbxc
+0.5 0.8 5.9
+dgbaammp vtoes
+7.9 9.4 5.9
+wxxvr
+6.3 4.2 9.2
+anxkkvfh hnqzh
+3.0 1.4 1.9
+snz srddxrfo
+8.7 9.2 9.5
+jhulmf
+1.5 1.8 0.9
+gblawr
+3.9 10.0 9.2
+'''
+output = '''
+0: snz srddxrfo
+   Media: 9.13
+   N1: 8.70, N2: 9.20, N3: 9.50
+1: zfwhsiesb
+   Media: 9.00
+   N1: 8.40, N2: 9.00, N3: 9.60
+2: zdxt ympqwei
+   Media: 8.30
+   N1: 6.20, N2: 9.30, N3: 9.40
+3: dgbaammp vtoes
+   Media: 7.73
+   N1: 7.90, N2: 9.40, N3: 5.90
+4: gblawr
+   Media: 7.70
+   N1: 3.90, N2: 10.00, N3: 9.20
+5: rmsas
+   Media: 7.00
+   N1: 5.40, N2: 7.30, N3: 8.30
+6: wvvifodc
+   Media: 6.87
+   N1: 6.80, N2: 6.80, N3: 7.00
+7: wxxvr
+   Media: 6.57
+   N1: 6.30, N2: 4.20, N3: 9.20
+8: iqcx
+   Media: 6.40
+   N1: 5.30, N2: 7.60, N3: 6.30
+9: vpdcgwn
+   Media: 5.07
+   N1: 8.70, N2: 5.50, N3: 1.00
+10: dskndkj nvox
+   Media: 3.10
+   N1: 1.70, N2: 7.40, N3: 0.20
+11: kqbkiglot
+   Media: 2.57
+   N1: 1.60, N2: 1.10, N3: 5.00
+12: ouoqumbxc
+   Media: 2.40
+   N1: 0.50, N2: 0.80, N3: 5.90
+13: anxkkvfh hnqzh
+   Media: 2.10
+   N1: 3.00, N2: 1.40, N3: 1.90
+14: jhulmf
+   Media: 1.40
+   N1: 1.50, N2: 1.80, N3: 0.90
+15: uhalcke
+   Media: 0.10
+   N1: 0.00, N2: 0.30, N3: 0.00
+'''
+
+[[tests]]
+input = '''
+1
+vmog nqsuitl
+0.1 6.6 2.9
+'''
+output = '''
+0: vmog nqsuitl
+   Media: 3.20
+   N1: 0.10, N2: 6.60, N3: 2.90
+'''
+
+[[tests]]
+input = '''
+5
+kxq
+7.0 1.5 6.6
+awjrp
+1.7 4.9 6.3
+aehl
+1.3 9.5 9.4
+zlpu mtub
+3.2 8.4 6.0
+cbojulncte mgznbrbq
+2.8 3.9 0.4
+'''
+output = '''
+0: aehl
+   Media: 6.73
+   N1: 1.30, N2: 9.50, N3: 9.40
+1: zlpu mtub
+   Media: 5.87
+   N1: 3.20, N2: 8.40, N3: 6.00
+2: kxq
+   Media: 5.03
+   N1: 7.00, N2: 1.50, N3: 6.60
+3: awjrp
+   Media: 4.30
+   N1: 1.70, N2: 4.90, N3: 6.30
+4: cbojulncte mgznbrbq
+   Media: 2.37
+   N1: 2.80, N2: 3.90, N3: 0.40
+'''
+
+[[tests]]
+input = '''
+20
+sga
+7.7 7.8 10.0
+rkqosofr vmu
+6.4 1.2 1.2
+gudplnnvf xgzw
+0.9 0.2 0.3
+zwnextl zyt
+2.7 1.2 6.2
+edejgebll
+0.2 1.5 0.0
+zncswwec
+6.5 0.3 2.2
+eztqqs
+2.8 8.9 8.4
+wucu
+7.1 9.0 9.0
+hsrcxcymbf
+9.0 8.8 10.0
+cgfkfi
+1.4 0.0 1.9
+brfvz
+9.2 6.3 3.8
+rfjf taoqwd
+0.1 5.8 0.0
+oxsixmcglv zee
+7.4 9.3 10.0
+rijtqo cgcxsaqt
+5.0 2.5 3.2
+pyo
+0.9 5.1 6.9
+viahgkw
+7.4 1.9 1.0
+woftuvrbe
+9.6 9.7 9.3
+gyd
+4.0 7.3 2.4
+phlwpjnluz ekqychdq
+8.7 8.8 10.0
+jhdilvaknm
+0.4 3.0 1.6
+'''
+output = '''
+0: woftuvrbe
+   Media: 9.53
+   N1: 9.60, N2: 9.70, N3: 9.30
+1: hsrcxcymbf
+   Media: 9.27
+   N1: 9.00, N2: 8.80, N3: 10.00
+2: phlwpjnluz ekqychdq
+   Media: 9.17
+   N1: 8.70, N2: 8.80, N3: 10.00
+3: oxsixmcglv zee
+   Media: 8.90
+   N1: 7.40, N2: 9.30, N3: 10.00
+4: sga
+   Media: 8.50
+   N1: 7.70, N2: 7.80, N3: 10.00
+5: wucu
+   Media: 8.37
+   N1: 7.10, N2: 9.00, N3: 9.00
+6: eztqqs
+   Media: 6.70
+   N1: 2.80, N2: 8.90, N3: 8.40
+7: brfvz
+   Media: 6.43
+   N1: 9.20, N2: 6.30, N3: 3.80
+8: gyd
+   Media: 4.57
+   N1: 4.00, N2: 7.30, N3: 2.40
+9: pyo
+   Media: 4.30
+   N1: 0.90, N2: 5.10, N3: 6.90
+10: rijtqo cgcxsaqt
+   Media: 3.57
+   N1: 5.00, N2: 2.50, N3: 3.20
+11: viahgkw
+   Media: 3.43
+   N1: 7.40, N2: 1.90, N3: 1.00
+12: zwnextl zyt
+   Media: 3.37
+   N1: 2.70, N2: 1.20, N3: 6.20
+13: zncswwec
+   Media: 3.00
+   N1: 6.50, N2: 0.30, N3: 2.20
+14: rkqosofr vmu
+   Media: 2.93
+   N1: 6.40, N2: 1.20, N3: 1.20
+15: rfjf taoqwd
+   Media: 1.97
+   N1: 0.10, N2: 5.80, N3: 0.00
+16: jhdilvaknm
+   Media: 1.67
+   N1: 0.40, N2: 3.00, N3: 1.60
+17: cgfkfi
+   Media: 1.10
+   N1: 1.40, N2: 0.00, N3: 1.90
+18: edejgebll
+   Media: 0.57
+   N1: 0.20, N2: 1.50, N3: 0.00
+19: gudplnnvf xgzw
+   Media: 0.47
+   N1: 0.90, N2: 0.20, N3: 0.30
+'''
+
+[[tests]]
+input = '''
+7
+dswf
+6.4 8.3 7.7
+vbkxsatbt wspktwpw
+6.0 7.5 8.4
+frtnwvyd zcjzirgo
+2.1 0.2 0.6
+fiaifsx
+0.6 0.4 1.2
+sumovyn lbkv
+4.4 1.6 0.6
+ibpcsdzbnd
+9.9 9.8 10.0
+egvbnrb usuhmc
+0.1 0.2 0.2
+'''
+output = '''
+0: ibpcsdzbnd
+   Media: 9.90
+   N1: 9.90, N2: 9.80, N3: 10.00
+1: dswf
+   Media: 7.47
+   N1: 6.40, N2: 8.30, N3: 7.70
+2: vbkxsatbt wspktwpw
+   Media: 7.30
+   N1: 6.00, N2: 7.50, N3: 8.40
+3: sumovyn lbkv
+   Media: 2.20
+   N1: 4.40, N2: 1.60, N3: 0.60
+4: frtnwvyd zcjzirgo
+   Media: 0.97
+   N1: 2.10, N2: 0.20, N3: 0.60
+5: fiaifsx
+   Media: 0.73
+   N1: 0.60, N2: 0.40, N3: 1.20
+6: egvbnrb usuhmc
+   Media: 0.17
+   N1: 0.10, N2: 0.20, N3: 0.20
+'''
+
+[[tests]]
+input = '''
+1
+nqfhciji
+6.7 0.8 0.0
+'''
+output = '''
+0: nqfhciji
+   Media: 2.50
+   N1: 6.70, N2: 0.80, N3: 0.00
+'''
+
+[[tests]]
+input = '''
+8
+hsqfwiibe tggknwsd
+0.8 0.0 0.0
+iqlkhfhs zazkz
+7.4 9.7 9.9
+tapf thjhq
+9.7 8.6 9.0
+sknenfndpw qmyi
+9.8 9.3 8.8
+iieyyzi ugv
+0.6 1.2 0.0
+rwwjukfvz iubvl
+10.0 1.0 0.3
+emiaf
+9.5 9.9 9.7
+wno
+2.6 0.0 0.0
+'''
+output = '''
+0: emiaf
+   Media: 9.70
+   N1: 9.50, N2: 9.90, N3: 9.70
+1: sknenfndpw qmyi
+   Media: 9.30
+   N1: 9.80, N2: 9.30, N3: 8.80
+2: tapf thjhq
+   Media: 9.10
+   N1: 9.70, N2: 8.60, N3: 9.00
+3: iqlkhfhs zazkz
+   Media: 9.00
+   N1: 7.40, N2: 9.70, N3: 9.90
+4: rwwjukfvz iubvl
+   Media: 3.77
+   N1: 10.00, N2: 1.00, N3: 0.30
+5: wno
+   Media: 0.87
+   N1: 2.60, N2: 0.00, N3: 0.00
+6: iieyyzi ugv
+   Media: 0.60
+   N1: 0.60, N2: 1.20, N3: 0.00
+7: hsqfwiibe tggknwsd
+   Media: 0.27
+   N1: 0.80, N2: 0.00, N3: 0.00
+'''
+
+[[tests]]
+input = '''
+6
+urxm
+1.5 0.3 2.1
+zrodfmxgok vdxmij
+3.0 0.0 2.8
+axburiji
+5.1 1.6 9.7
+mjefgi xti
+3.7 9.3 9.1
+ctrdu
+9.1 9.4 4.9
+jymh eigcuwk
+9.1 10.0 10.0
+'''
+output = '''
+0: jymh eigcuwk
+   Media: 9.70
+   N1: 9.10, N2: 10.00, N3: 10.00
+1: ctrdu
+   Media: 7.80
+   N1: 9.10, N2: 9.40, N3: 4.90
+2: mjefgi xti
+   Media: 7.37
+   N1: 3.70, N2: 9.30, N3: 9.10
+3: axburiji
+   Media: 5.47
+   N1: 5.10, N2: 1.60, N3: 9.70
+4: zrodfmxgok vdxmij
+   Media: 1.93
+   N1: 3.00, N2: 0.00, N3: 2.80
+5: urxm
+   Media: 1.30
+   N1: 1.50, N2: 0.30, N3: 2.10
+'''
+
+[[tests]]
+input = '''
+4
+elabem fmngvw
+10.0 9.9 9.1
+dipgus
+3.3 1.0 0.9
+bsaesy
+3.1 8.6 5.7
+ainhbnyr
+8.1 8.4 8.3
+'''
+output = '''
+0: elabem fmngvw
+   Media: 9.67
+   N1: 10.00, N2: 9.90, N3: 9.10
+1: ainhbnyr
+   Media: 8.27
+   N1: 8.10, N2: 8.40, N3: 8.30
+2: bsaesy
+   Media: 5.80
+   N1: 3.10, N2: 8.60, N3: 5.70
+3: dipgus
+   Media: 1.73
+   N1: 3.30, N2: 1.00, N3: 0.90
+'''
+
+[[tests]]
+input = '''
+5
+wydqm atkf
+2.8 1.4 7.3
+ozhjujcxi aft
+6.9 9.4 9.7
+lfmlnaxae hmcpouc
+4.9 2.6 0.6
+ycocof
+9.3 5.3 4.1
+tuqwtjaot wjyhawb
+7.4 2.5 0.6
+'''
+output = '''
+0: ozhjujcxi aft
+   Media: 8.67
+   N1: 6.90, N2: 9.40, N3: 9.70
+1: ycocof
+   Media: 6.23
+   N1: 9.30, N2: 5.30, N3: 4.10
+2: wydqm atkf
+   Media: 3.83
+   N1: 2.80, N2: 1.40, N3: 7.30
+3: tuqwtjaot wjyhawb
+   Media: 3.50
+   N1: 7.40, N2: 2.50, N3: 0.60
+4: lfmlnaxae hmcpouc
+   Media: 2.70
+   N1: 4.90, N2: 2.60, N3: 0.60
+'''

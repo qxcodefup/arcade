@@ -21,3 +21,219 @@ Floresta Amazonica
 output = '''
 Flo-re-sta A-ma-zo-ni-ca
 '''
+
+[[tests]]
+input = '''
+WyFuZAhIXSzjvlRwNokOhaYUwZuJ
+'''
+output = '''
+WyFu-ZA-hI-XSzjvlRwNo-kO-ha-YU-wZu-J
+'''
+
+[[tests]]
+input = '''
+oYvnNxJCtUHJUnsGQqPH
+'''
+output = '''
+o-YvnNxJCtU-HJU-nsGQqPH
+'''
+
+[[tests]]
+input = '''
+ZmOR
+'''
+output = '''
+ZmO-R
+'''
+
+[[tests]]
+input = '''
+PREkJPag
+'''
+output = '''
+PRE-kJPa-g
+'''
+
+[[tests]]
+input = '''
+wtEYLYrHMCQVaIqQRAoGQvgAgkVXAIe
+'''
+output = '''
+wtE-YLYrHMCQVaI-qQRAo-GQvgA-gkVXAIe
+'''
+
+[[tests]]
+input = '''
+zVvoRwefiKQraLwNHKGFanOnQK
+'''
+output = '''
+zVvo-Rwe-fi-KQra-LwNHKGFa-nO-nQK
+'''
+
+[[tests]]
+input = '''
+cm
+'''
+output = '''
+cm
+'''
+
+[[tests]]
+input = '''
+NCSGwzATFfwXCC
+'''
+output = '''
+NCSGwzA-TFfwXCC
+'''
+
+[[tests]]
+input = '''
+bjnNzOVDZ
+'''
+output = '''
+bjnNzO-VDZ
+'''
+
+[[tests]]
+input = '''
+BqLRYZdu
+'''
+output = '''
+BqLRYZdu
+'''
+
+[[tests]]
+input = '''
+BCdDrOMiymErXmVr
+'''
+output = '''
+BCdDrO-Mi-ymE-rXmVr
+'''
+
+[[tests]]
+input = '''
+lE
+'''
+output = '''
+lE
+'''
+
+[[tests]]
+input = '''
+AfdvooxYbZWgwOqzIMNCrL
+'''
+output = '''
+A-fdvoo-xYbZWgwO-qzI-MNCrL
+'''
+
+[[tests]]
+input = '''
+jENb
+'''
+output = '''
+jE-Nb
+'''
+
+[[tests]]
+input = '''
+RVvrgZW
+'''
+output = '''
+RVvrgZW
+'''
+
+[[tests]]
+input = '''
+OJvzp
+'''
+output = '''
+O-Jvzp
+'''
+
+[[tests]]
+input = '''
+WoviHTwKAGWwAcOzoyN
+'''
+output = '''
+Wo-vi-HTwKA-GWwA-cO-zo-yN
+'''
+
+[[tests]]
+input = '''
+oveBndOFEKbUrBMDdYmmcHnUQUL
+'''
+output = '''
+o-ve-BndO-FE-KbU-rBMDdYmmcHnU-QU-L
+'''
+
+[[tests]]
+input = '''
+yoeVnijUbTevotyDGXlZJUjxFKihnueslFq
+'''
+output = '''
+yoe-Vni-jU-bTe-vo-tyDGXlZJU-jxFKi-hnue-slFq
+'''
+
+[[tests]]
+input = '''
+ZBHYOAjogJzNOlAIPRpdbuiN
+'''
+output = '''
+ZBHYOA-jo-gJzNO-lAI-PRpdbui-N
+'''
+
+[[tests]]
+input = '''
+WAeRyBGhKorVUmUSuXQ
+'''
+output = '''
+WAe-RyBGhKo-rVU-mU-Su-XQ
+'''
+
+[[tests]]
+input = '''
+QRWGu
+'''
+output = '''
+QRWGu
+'''
+
+[[tests]]
+input = '''
+RcoYNZFp
+'''
+output = '''
+Rco-YNZFp
+'''
+
+[[tests]]
+input = '''
+KuQArurjXgVaWQbXjkdANbTdJdKMZfcpQZk
+'''
+output = '''
+Ku-QA-ru-rjXgVa-WQbXjkdA-NbTdJdKMZfcpQZk
+'''
+
+[[tests]]
+input = '''
+clsUzmvZOlqhiKqJcoaJYMMWIxApEnbN
+'''
+output = '''
+clsU-zmvZO-lqhi-KqJcoa-JYMMWI-xA-pE-nbN
+'''
+
+[[tests]]
+input = '''
+MdPoUoIJvvZaWpSqBNvvgqxCFOPNxJTeK
+'''
+output = '''
+MdPoUoI-JvvZa-WpSqBNvvgqxCFO-PNxJTe-K
+'''
+
+[[tests]]
+input = '''
+kRtmqyjyoRpHYmvOdwNUnz
+'''
+output = '''
+kRtmqyjyo-RpHYmvO-dwNU-nz
+'''

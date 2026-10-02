@@ -53,3 +53,141 @@ input = '''
 output = '''
 SIM
 '''
+
+[[tests]]
+input = '''
+1
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+-1
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+6
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+8
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+-6
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+-8
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+999999994
+'''
+output = "SIM\n"
+
+[[tests]]
+input = '''
+999999995
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+-397647372
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+-934860526
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+-59719889
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+-607594164
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+424806536
+'''
+output = "SIM\n"
+
+[[tests]]
+input = '''
+-738998912
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+40469927
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+916029379
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+703263441
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+124250885
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+139277782
+'''
+output = "SIM\n"
+
+[[tests]]
+input = '''
+120054563
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+617938268
+'''
+output = "NAO\n"
+
+[[tests]]
+input = '''
+192064187
+'''
+output = "SIM\n"
+
+[[tests]]
+input = '''
+188414774
+'''
+output = "NAO\n"

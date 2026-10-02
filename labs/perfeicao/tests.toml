@@ -53,3 +53,187 @@ Ticiany
 output = '''
 sem sorte
 '''
+
+[[tests]]
+input = '''
+zddtNtbZPnxNMcqNCIWIHp
+'''
+output = '''
+sem sorte
+'''
+
+[[tests]]
+input = '''
+TnKmYoVDrQRiUeiaHLBZqMIppwKFoy
+'''
+output = '''
+TnKmYoVDrQRiUeiaHLBZqMIppwKFoyo
+'''
+
+[[tests]]
+input = '''
+MJgGPmVZRLziusMwbl
+'''
+output = '''
+sem sorte
+'''
+
+[[tests]]
+input = '''
+dWYDOiQfwrSibiWhHtgfYkxQUp
+'''
+output = '''
+sem sorte
+'''
+
+[[tests]]
+input = '''
+UckeGMXjcUjEQIrNmGUWEptVdMN
+'''
+output = '''
+UckeGMXjcUjEQIrNmGUWEptVdMNy
+'''
+
+[[tests]]
+input = '''
+fZhfUhMBaxHduMjjCxF
+'''
+output = '''
+fZhfUhMBaxHduMjjCxFv
+'''
+
+[[tests]]
+input = '''
+UPlIjClysrjmtkvEvSnM
+'''
+output = '''
+UPlIjClysrjmtkvEvSnMn
+'''
+
+[[tests]]
+input = '''
+oWhbMAEkMRNzJDWQZ
+'''
+output = '''
+sem sorte
+'''
+
+[[tests]]
+input = '''
+hDFCTjhUdvZAYrHZOHJNQK
+'''
+output = '''
+hDFCTjhUdvZAYrHZOHJNQKs
+'''
+
+[[tests]]
+input = '''
+ttQnJGMomMePDZXgMKjbDh
+'''
+output = '''
+ttQnJGMomMePDZXgMKjbDhd
+'''
+
+[[tests]]
+input = '''
+VVmbIsvV
+'''
+output = '''
+sem sorte
+'''
+
+[[tests]]
+input = '''
+tI
+'''
+output = '''
+tIo
+'''
+
+[[tests]]
+input = '''
+feSGILhU
+'''
+output = '''
+feSGILhUi
+'''
+
+[[tests]]
+input = '''
+AwEuK
+'''
+output = '''
+AwEuKi
+'''
+
+[[tests]]
+input = '''
+XgFMvm
+'''
+output = '''
+sem sorte
+'''
+
+[[tests]]
+input = '''
+yTjPtUGHMbvErbzubTOclpZhPQ
+'''
+output = '''
+yTjPtUGHMbvErbzubTOclpZhPQu
+'''
+
+[[tests]]
+input = '''
+RSicroH
+'''
+output = '''
+sem sorte
+'''
+
+[[tests]]
+input = '''
+g
+'''
+output = '''
+ga
+'''
+
+[[tests]]
+input = '''
+CtMrQoDhmWgovJJ
+'''
+output = '''
+sem sorte
+'''
+
+[[tests]]
+input = '''
+WOAMTIBOJATRkLd
+'''
+output = '''
+WOAMTIBOJATRkLdf
+'''
+
+[[tests]]
+input = '''
+zLhYbadMbfXde
+'''
+output = '''
+zLhYbadMbfXdeb
+'''
+
+[[tests]]
+input = '''
+AtC
+'''
+output = '''
+AtCf
+'''
+
+[[tests]]
+input = '''
+JTXDSIzFeHXiTxxCN
+'''
+output = '''
+JTXDSIzFeHXiTxxCNg
+'''

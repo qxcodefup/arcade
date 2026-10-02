@@ -21,3 +21,219 @@ oacaroc ues on x mu ieuqram
 output = '''
 marquei um x no seu coracao
 '''
+
+[[tests]]
+input = '''
+a
+'''
+output = '''
+a
+'''
+
+[[tests]]
+input = '''
+ab
+'''
+output = '''
+ba
+'''
+
+[[tests]]
+input = '''
+abc
+'''
+output = '''
+cba
+'''
+
+[[tests]]
+input = '''
+arara
+'''
+output = '''
+arara
+'''
+
+[[tests]]
+input = '''
+a b
+'''
+output = '''
+b a
+'''
+
+[[tests]]
+input = '''
+ bom dia 
+'''
+output = '''
+ aid mob 
+'''
+
+[[tests]]
+input = '''
+xuxa e suas musicas
+'''
+output = '''
+sacisum saus e axux
+'''
+
+[[tests]]
+input = '''
+uma frase longa para inverter
+'''
+output = '''
+retrevni arap agnol esarf amu
+'''
+
+[[tests]]
+input = '''
+abcdefghijklmnopqrstuvwxyz
+'''
+output = '''
+zyxwvutsrqponmlkjihgfedcba
+'''
+
+[[tests]]
+input = '''
+aaaa bbbb cccc
+'''
+output = '''
+cccc bbbb aaaa
+'''
+
+[[tests]]
+input = '''
+qpixvfw
+'''
+output = '''
+wfvxipq
+'''
+
+[[tests]]
+input = '''
+vfbb
+'''
+output = '''
+bbfv
+'''
+
+[[tests]]
+input = '''
+gzgf
+'''
+output = '''
+fgzg
+'''
+
+[[tests]]
+input = '''
+mioyyrwrb qhzghn zqmhpn uzyb dsjcfs qbnqmlbhh vvijv
+'''
+output = '''
+vjivv hhblmqnbq sfcjsd byzu nphmqz nhgzhq brwryyoim
+'''
+
+[[tests]]
+input = '''
+mpgtlehc jkqzshukm qusbuhx ks uvdrbypgg
+'''
+output = '''
+ggpybrdvu sk xhubsuq mkuhszqkj cheltgpm
+'''
+
+[[tests]]
+input = '''
+dx bqc
+'''
+output = '''
+cqb xd
+'''
+
+[[tests]]
+input = '''
+jnhjwjxvka xbycrkhaey qmgehck chgtxm ekckabbfo k yp
+'''
+output = '''
+py k ofbbakcke mxtghc kchegmq yeahkrcybx akvxjwjhnj
+'''
+
+[[tests]]
+input = '''
+jzlozinu bh afm txknmaxamu rhzz yb
+'''
+output = '''
+by zzhr umaxamnkxt mfa hb unizolzj
+'''
+
+[[tests]]
+input = '''
+p
+'''
+output = '''
+p
+'''
+
+[[tests]]
+input = '''
+ioxtotgg w easpiheq yepthme
+'''
+output = '''
+emhtpey qehipsae w ggtotxoi
+'''
+
+[[tests]]
+input = '''
+fedoqv zpyasf fmm nnqk wzxjdnya
+'''
+output = '''
+ayndjxzw kqnn mmf fsaypz vqodef
+'''
+
+[[tests]]
+input = '''
+yw gntbuufcfo ia f bpan fqbcbqy zunlyxmtzi ionsukcz
+'''
+output = '''
+zckusnoi iztmxylnuz yqbcbqf napb f ai ofcfuubtng wy
+'''
+
+[[tests]]
+input = '''
+ywmebbpfe dvtxa
+'''
+output = '''
+axtvd efpbbemwy
+'''
+
+[[tests]]
+input = '''
+rwuwiwe ci jqvkosy ctccjoqz pgcrvlxs jzylng ym
+'''
+output = '''
+my gnlyzj sxlvrcgp zqojcctc ysokvqj ic ewiwuwr
+'''
+
+[[tests]]
+input = '''
+klxevkzlm wupua enhtcldn shtqy lipyv zrrvhnk dt
+'''
+output = '''
+td knhvrrz vypil yqths ndlcthne aupuw mlzkvexlk
+'''
+
+[[tests]]
+input = '''
+jinoecv eac nccko cfpb byqaohhbqd zqectlw ufdjb rcw
+'''
+output = '''
+wcr bjdfu wltceqz dqbhhoaqyb bpfc okccn cae vceonij
+'''
+
+[[tests]]
+input = '''
+cm kzejr zikhkjaxyg no oytlvjf
+'''
+output = '''
+fjvltyo on gyxajkhkiz rjezk mc
+'''

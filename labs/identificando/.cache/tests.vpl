@@ -33,3 +33,147 @@ input=02 -1 -4.54 p0
 output="int int float str
 "
 
+
+case=
+input=0 -0 0001 -123 1.0 -0.25 00.01
+output="int int int int float float float
+"
+
+
+case=
+input=.5 -.5 5. --1 - +2 1..2
+output="str str str str str str str
+"
+
+
+case=
+input=12a a12 1-2 -- -1.2.3 3.14 9999999999
+output="str str str str str float int
+"
+
+
+case=
+input=-99999999 a-b e10
+output="int str str
+"
+
+
+case=
+input=-0 a12 5. 3.14 1.0
+output="int str str float float
+"
+
+
+case=
+input=- -0.25 0 12a -123 00.01 a12 00.01 -
+output="str float int str int float str float str
+"
+
+
+case=
+input=--1 9999999999 5. -0.25 -
+output="str int str float str
+"
+
+
+case=
+input=+2 00.01 -1.2.3 3.14 1..2 a-b 0001 00.01 -0.25
+output="str float str float str str int float float
+"
+
+
+case=
+input=-0.25 -1.2.3 12a 1.0 5. --1 -
+output="float str str float str str str
+"
+
+
+case=
+input=-0.25 12a 1.0 -- 00.01 --1 a-b 0001 -0 1.0
+output="float str float str float str str int int float
+"
+
+
+case=
+input=-0 +2 -.5 .5 5. --
+output="int str str str str str
+"
+
+
+case=
+input=9999999999 1-2 -99999999 3.14 a-b
+output="int str int float str
+"
+
+
+case=
+input=e10 +2 -99999999 a12 0 12a 1-2 -0.25 -123 .5
+output="str str int str int str str float int str
+"
+
+
+case=
+input=-0 00.01 0001
+output="int float int
+"
+
+
+case=
+input=-0 +2 1.0 0001
+output="int str float int
+"
+
+
+case=
+input=-123 a-b 00.01 0 5. -99999999 a12 1..2 -
+output="int str float int str int str str str
+"
+
+
+case=
+input=9999999999 00.01 3.14 -.5 -.5 1-2 00.01 3.14 5.
+output="int float float str str str float float str
+"
+
+
+case=
+input=-0.25 --1 -0 -0 -- -99999999 -99999999 e10 e10 -
+output="float str int int str int int str str str
+"
+
+
+case=
+input=5. - 00.01 9999999999 - 12a e10
+output="str str float int str str str
+"
+
+
+case=
+input=0001 .5 - 1..2 1..2 00.01 a12 -0 +2
+output="int str str str str float str int str
+"
+
+
+case=
+input=5. .5 0 1..2 00.01 0001 -- - +2 1-2
+output="str str int str float int str str str str
+"
+
+
+case=
+input=+2 1..2 -- - --1
+output="str str str str str
+"
+
+
+case=
+input=-99999999 a12 .5 -1.2.3 .5 1-2 -- .5
+output="int str str str str str str str
+"
+
+
+case=
+input=.5 a12 -1.2.3 1-2 +2 --
+output="str str str str str str
+"
+

@@ -42,3 +42,228 @@ b
 output = '''
 z
 '''
+
+[[tests]]
+input = '''
+h
+-208106
+'''
+output = '''
+f
+'''
+
+[[tests]]
+input = '''
+c
+383224
+'''
+output = '''
+m
+'''
+
+[[tests]]
+input = '''
+v
+-634190
+'''
+output = '''
+x
+'''
+
+[[tests]]
+input = '''
+e
+681463
+'''
+output = '''
+h
+'''
+
+[[tests]]
+input = '''
+j
+623591
+'''
+output = '''
+q
+'''
+
+[[tests]]
+input = '''
+k
+-192309
+'''
+output = '''
+x
+'''
+
+[[tests]]
+input = '''
+a
+-839096
+'''
+output = '''
+c
+'''
+
+[[tests]]
+input = '''
+r
+743865
+'''
+output = '''
+w
+'''
+
+[[tests]]
+input = '''
+l
+721773
+'''
+output = '''
+y
+'''
+
+[[tests]]
+input = '''
+g
+-398832
+'''
+output = '''
+o
+'''
+
+[[tests]]
+input = '''
+o
+731757
+'''
+output = '''
+b
+'''
+
+[[tests]]
+input = '''
+f
+-371737
+'''
+output = '''
+q
+'''
+
+[[tests]]
+input = '''
+n
+-499832
+'''
+output = '''
+f
+'''
+
+[[tests]]
+input = '''
+r
+-352595
+'''
+output = '''
+i
+'''
+
+[[tests]]
+input = '''
+l
+426143
+'''
+output = '''
+o
+'''
+
+[[tests]]
+input = '''
+g
+42166
+'''
+output = '''
+a
+'''
+
+[[tests]]
+input = '''
+m
+-931464
+'''
+output = '''
+y
+'''
+
+[[tests]]
+input = '''
+y
+9130
+'''
+output = '''
+c
+'''
+
+[[tests]]
+input = '''
+b
+928348
+'''
+output = '''
+t
+'''
+
+[[tests]]
+input = '''
+f
+-512063
+'''
+output = '''
+m
+'''
+
+[[tests]]
+input = '''
+p
+726070
+'''
+output = '''
+j
+'''
+
+[[tests]]
+input = '''
+b
+819595
+'''
+output = '''
+y
+'''
+
+[[tests]]
+input = '''
+f
+-154299
+'''
+output = '''
+q
+'''
+
+[[tests]]
+input = '''
+x
+855425
+'''
+output = '''
+w
+'''
+
+[[tests]]
+input = '''
+i
+345213
+'''
+output = '''
+t
+'''

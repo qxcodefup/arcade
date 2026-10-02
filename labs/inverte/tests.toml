@@ -61,3 +61,179 @@ input = '''
 output = '''
 @
 '''
+
+[[tests]]
+input = '''
+b
+'''
+output = '''
+B
+'''
+
+[[tests]]
+input = '''
+d
+'''
+output = '''
+D
+'''
+
+[[tests]]
+input = '''
+e
+'''
+output = '''
+E
+'''
+
+[[tests]]
+input = '''
+f
+'''
+output = '''
+F
+'''
+
+[[tests]]
+input = '''
+g
+'''
+output = '''
+G
+'''
+
+[[tests]]
+input = '''
+h
+'''
+output = '''
+H
+'''
+
+[[tests]]
+input = '''
+i
+'''
+output = '''
+I
+'''
+
+[[tests]]
+input = '''
+j
+'''
+output = '''
+J
+'''
+
+[[tests]]
+input = '''
+k
+'''
+output = '''
+K
+'''
+
+[[tests]]
+input = '''
+l
+'''
+output = '''
+L
+'''
+
+[[tests]]
+input = '''
+m
+'''
+output = '''
+M
+'''
+
+[[tests]]
+input = '''
+n
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+o
+'''
+output = '''
+O
+'''
+
+[[tests]]
+input = '''
+p
+'''
+output = '''
+P
+'''
+
+[[tests]]
+input = '''
+q
+'''
+output = '''
+Q
+'''
+
+[[tests]]
+input = '''
+r
+'''
+output = '''
+R
+'''
+
+[[tests]]
+input = '''
+s
+'''
+output = '''
+S
+'''
+
+[[tests]]
+input = '''
+t
+'''
+output = '''
+T
+'''
+
+[[tests]]
+input = '''
+u
+'''
+output = '''
+U
+'''
+
+[[tests]]
+input = '''
+v
+'''
+output = '''
+V
+'''
+
+[[tests]]
+input = '''
+w
+'''
+output = '''
+W
+'''
+
+[[tests]]
+input = '''
+x
+'''
+output = '''
+X
+'''

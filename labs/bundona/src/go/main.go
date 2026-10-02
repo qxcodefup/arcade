@@ -1,11 +1,16 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"strconv"
+)
 
 func main() {
-	var hour, minute, distance int
-	var direction string
-	fmt.Scan(&hour, &minute, &direction, &distance)
+	var hourText, minuteText, direction, distanceText string
+	fmt.Scan(&hourText, &minuteText, &direction, &distanceText)
+	hour, _ := strconv.Atoi(hourText)
+	minute, _ := strconv.Atoi(minuteText)
+	distance, _ := strconv.Atoi(distanceText)
 	pos := hour*6 + minute/10
 	if direction == "H" {
 		pos += distance

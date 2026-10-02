@@ -1,1 +1,177 @@
 load = "../spok/tests.toml"
+
+[[tests]]
+input = '''
+55917772
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+98339353
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+1364882
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+40082762
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+49447379
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+25992786
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+36271648
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+75968330
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+58549586
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+21701372
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+50071781
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+16678818
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+58107722
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+35042906
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+75440897
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+84183336
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+23399996
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+82110288
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+74252077
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+25073085
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+47634057
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+99072619
+'''
+output = '''
+0
+'''

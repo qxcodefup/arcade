@@ -87,3 +87,171 @@ input = '''
 output = '''
 8
 '''
+
+[[tests]]
+input = '''
+0
+5
++
+'''
+output = "5\n"
+
+[[tests]]
+input = '''
+-10
+-4
++
+'''
+output = "-14\n"
+
+[[tests]]
+input = '''
+30000
+30000
++
+'''
+output = "60000\n"
+
+[[tests]]
+input = '''
+5
+0
+-
+'''
+output = "5\n"
+
+[[tests]]
+input = '''
+0
+5
+-
+'''
+output = "-5\n"
+
+[[tests]]
+input = '''
+-10
+4
+-
+'''
+output = "-14\n"
+
+[[tests]]
+input = '''
+0
+-7
+*
+'''
+output = "0\n"
+
+[[tests]]
+input = '''
+-3
+-8
+*
+'''
+output = "24\n"
+
+[[tests]]
+input = '''
+30000
+30000
+*
+'''
+output = "900000000\n"
+
+[[tests]]
+input = '''
+-12
+3
+/
+'''
+output = "-4\n"
+
+[[tests]]
+input = '''
+12
+-5
+/
+'''
+output = "-2\n"
+
+[[tests]]
+input = '''
+-12
+-5
+/
+'''
+output = "2\n"
+
+[[tests]]
+input = '''
+7
+2
+/
+'''
+output = "3\n"
+
+[[tests]]
+input = '''
+8
+2
+/
+'''
+output = "4\n"
+
+[[tests]]
+input = '''
+7
+-3
+/
+'''
+output = "-2\n"
+
+[[tests]]
+input = '''
+-8409
+21180
+-
+'''
+output = "-29589\n"
+
+[[tests]]
+input = '''
+26591
+-29
++
+'''
+output = "26562\n"
+
+[[tests]]
+input = '''
+24588
+-15530
++
+'''
+output = "9058\n"
+
+[[tests]]
+input = '''
+10465
+-12133
++
+'''
+output = "-1668\n"
+
+[[tests]]
+input = '''
+7733
+25759
+*
+'''
+output = "199194347\n"
+
+[[tests]]
+input = '''
+17950
+5368
+-
+'''
+output = "12582\n"

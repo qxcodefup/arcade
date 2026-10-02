@@ -72,3 +72,1120 @@ output="l
 t
 "
 
+
+case=
+input=36
+c m
+l t
+l t
+l t
+l m
+c m
+l t
+c t
+c t
+l m
+l t
+l m
+c t
+c t
+c m
+c t
+l t
+c t
+c m
+l m
+c m
+c t
+c m
+l t
+c m
+c t
+c t
+l m
+l m
+l t
+c t
+c t
+c m
+l m
+c t
+l m
+output="c
+m
+"
+
+
+case=
+input=45
+l t
+c m
+c t
+l t
+c m
+c t
+l m
+c m
+c t
+l t
+c m
+l t
+l m
+l t
+l m
+c t
+c m
+c m
+c t
+c m
+c m
+l t
+l m
+l m
+l m
+l m
+c t
+c t
+l m
+c t
+c t
+c t
+l m
+c t
+l m
+c m
+c m
+c t
+l m
+l t
+c t
+l m
+c t
+l t
+c t
+output="c
+m
+"
+
+
+case=
+input=69
+c t
+c m
+c m
+l t
+c m
+c t
+c m
+l m
+c m
+l m
+l t
+c m
+c t
+c m
+l t
+l t
+l m
+l m
+c m
+c t
+l t
+l m
+l m
+l m
+l m
+l m
+l t
+l t
+c m
+c m
+c m
+l m
+l m
+c m
+l t
+l t
+l m
+c m
+c t
+c m
+l t
+c m
+c m
+l t
+c m
+l m
+c t
+l t
+c m
+l t
+l t
+c t
+l t
+c m
+l m
+c m
+l m
+l t
+l m
+l m
+c t
+c t
+l t
+c t
+c t
+l m
+l m
+l t
+l t
+output="l
+t
+"
+
+
+case=
+input=33
+l m
+l m
+l t
+c m
+l t
+c t
+l t
+l t
+l m
+l m
+l t
+c m
+c t
+l t
+l t
+c m
+l t
+c t
+l m
+l m
+c m
+c t
+c t
+l t
+c m
+c m
+c m
+c t
+l t
+l m
+l m
+l m
+c m
+output="l
+t
+"
+
+
+case=
+input=23
+l m
+l t
+c m
+l t
+l t
+l m
+c t
+c m
+c m
+l t
+c m
+l t
+l m
+c t
+l m
+c t
+l m
+l m
+l m
+c t
+c m
+l t
+l m
+output="l
+t
+"
+
+
+case=
+input=16
+l m
+l t
+c m
+c t
+l m
+c t
+c t
+l m
+c t
+l t
+c t
+c m
+c m
+c m
+c m
+c t
+output="c
+empate
+"
+
+
+case=
+input=56
+l t
+l t
+l t
+c t
+c m
+l m
+c m
+c m
+l t
+c t
+c m
+c m
+c m
+l t
+l m
+c m
+c t
+c m
+c m
+c m
+l m
+l m
+c m
+c t
+l m
+l m
+c m
+l t
+c m
+c t
+c m
+l m
+l m
+l m
+c m
+c m
+l t
+c m
+l m
+c t
+c m
+c t
+l m
+c t
+l m
+c m
+c m
+c t
+l t
+l t
+c m
+c m
+c t
+l t
+c m
+l m
+output="c
+t
+"
+
+
+case=
+input=71
+c t
+l t
+c t
+l m
+l m
+c t
+l t
+l m
+c t
+c t
+c m
+l t
+c t
+c t
+l m
+c m
+l t
+l m
+l t
+c t
+c m
+c m
+c m
+l m
+c t
+l t
+l m
+l m
+c m
+l m
+l m
+l t
+c t
+c m
+l t
+l m
+c m
+l m
+l t
+c m
+c m
+l m
+c m
+l m
+l t
+c t
+l t
+l t
+c t
+c t
+c t
+c t
+c m
+c t
+c m
+c m
+c t
+l t
+c t
+c t
+l m
+l t
+c m
+c m
+c m
+c t
+c m
+c t
+l m
+l m
+l t
+output="c
+m
+"
+
+
+case=
+input=23
+c t
+l m
+c m
+c t
+c t
+l t
+c t
+c m
+l m
+c t
+l m
+l m
+l t
+c m
+c m
+l t
+l m
+l t
+c m
+c t
+l m
+l t
+l m
+output="l
+t
+"
+
+
+case=
+input=96
+c m
+c m
+c m
+c m
+c m
+l t
+l t
+c m
+c m
+l m
+l m
+l m
+l m
+l m
+c m
+c m
+c t
+c t
+c t
+c m
+c t
+l m
+l t
+c t
+c m
+l m
+l t
+c t
+c t
+l m
+l m
+l t
+c m
+c m
+l m
+c m
+l m
+l m
+l m
+l m
+c t
+c m
+l t
+c t
+l m
+l m
+c t
+c m
+l t
+l m
+c t
+l t
+l t
+l m
+l m
+c t
+l t
+c t
+l t
+c m
+l t
+c m
+l m
+c t
+c t
+c t
+c m
+l t
+c m
+c m
+l t
+l t
+c m
+c t
+c m
+l m
+l m
+l m
+l m
+l m
+c t
+l m
+c m
+c m
+c t
+c m
+l m
+l m
+l m
+c m
+l m
+c m
+c m
+l t
+l t
+l m
+output="empate
+t
+"
+
+
+case=
+input=25
+c m
+l m
+c t
+c m
+c t
+l t
+l m
+c t
+l m
+c m
+c t
+l t
+l t
+c t
+l m
+c m
+c m
+c t
+l t
+l t
+l m
+c m
+c m
+c t
+c t
+output="c
+m
+"
+
+
+case=
+input=23
+l t
+l m
+c t
+l m
+c t
+c t
+l m
+l m
+c t
+c m
+l t
+l m
+c m
+c m
+c m
+c m
+c t
+l m
+l t
+c t
+c m
+c m
+l m
+output="c
+t
+"
+
+
+case=
+input=59
+l t
+c m
+c m
+c m
+l m
+c t
+l t
+c t
+c m
+c t
+l t
+l t
+l t
+c m
+l m
+c t
+c m
+c m
+c m
+c m
+c t
+l t
+l m
+l t
+c m
+c t
+l t
+l t
+c m
+c t
+l t
+c t
+l t
+l t
+l t
+c t
+c t
+c t
+c m
+c t
+l m
+c t
+c m
+l t
+c m
+c m
+c m
+l m
+c t
+c m
+l m
+c t
+l t
+l m
+c m
+l t
+c t
+l t
+l m
+output="c
+m
+"
+
+
+case=
+input=2
+c t
+c m
+output="c
+empate
+"
+
+
+case=
+input=64
+l t
+l t
+l t
+c t
+c t
+c m
+l m
+c t
+c t
+c m
+c m
+l t
+l t
+l t
+l m
+l t
+l m
+c t
+l t
+c t
+c m
+c m
+c m
+l m
+c m
+c t
+c m
+l m
+c m
+l m
+c m
+c t
+c m
+l m
+l t
+l m
+l t
+l m
+c t
+c m
+c t
+c t
+l m
+c t
+c t
+l t
+c t
+c m
+l t
+l m
+l m
+l t
+l t
+l t
+c m
+c t
+l m
+l t
+c m
+c m
+l t
+c t
+c m
+l t
+output="c
+m
+"
+
+
+case=
+input=70
+c t
+c m
+l m
+l t
+l m
+c t
+c m
+c t
+l m
+l m
+l m
+c m
+c m
+l t
+c m
+l m
+c m
+c m
+c t
+c m
+l m
+c m
+c m
+c m
+l m
+c t
+c t
+l m
+c t
+l m
+l t
+l m
+c m
+c m
+l t
+c t
+c m
+c t
+c m
+l t
+c t
+c t
+l m
+l t
+l m
+l t
+c m
+c m
+l t
+l t
+l t
+c m
+c m
+l t
+l m
+c m
+c m
+l t
+c m
+l t
+c m
+l m
+l m
+c t
+c t
+l m
+l t
+l m
+c m
+l m
+output="c
+t
+"
+
+
+case=
+input=39
+l m
+l m
+c m
+l m
+c t
+l m
+c m
+l t
+c m
+c m
+l m
+l m
+c m
+c m
+c m
+l t
+l t
+c m
+c m
+l t
+c m
+c m
+l m
+c m
+l t
+l t
+l t
+l t
+c m
+c t
+c t
+l m
+c m
+c t
+c t
+c m
+c m
+l m
+c m
+output="c
+t
+"
+
+
+case=
+input=67
+l m
+c m
+c t
+l m
+c t
+c m
+l m
+l m
+c t
+l m
+c t
+c t
+l t
+c m
+c m
+l t
+c m
+c m
+l m
+l t
+l m
+l m
+c m
+c m
+c m
+l m
+l m
+c m
+l m
+c m
+l t
+c m
+c t
+c t
+l m
+c t
+l m
+l t
+l t
+c m
+l t
+l m
+c m
+c m
+l t
+l t
+c m
+c m
+c m
+l m
+l m
+c m
+l m
+l m
+l t
+c t
+l t
+c t
+c t
+c t
+l m
+l m
+c m
+c t
+l m
+l m
+l m
+output="l
+t
+"
+
+
+case=
+input=4
+c m
+l m
+l t
+c m
+output="empate
+t
+"
+
+
+case=
+input=21
+c m
+l t
+l m
+l t
+c m
+c t
+c m
+c t
+c t
+l m
+l t
+l m
+l t
+l t
+l t
+l m
+l m
+l t
+l t
+c m
+l m
+output="l
+m
+"
+
+
+case=
+input=65
+c t
+c m
+l t
+l t
+l m
+c m
+l m
+l m
+l t
+l t
+l t
+l m
+l m
+c t
+l t
+c m
+l m
+c m
+l t
+c t
+l t
+l t
+c t
+l t
+l t
+l m
+c m
+c t
+l t
+c m
+l t
+c m
+l m
+l t
+l m
+l m
+l m
+l t
+c t
+l m
+c t
+c m
+c t
+l t
+c m
+c m
+c m
+l t
+l m
+l m
+c t
+l t
+c t
+c m
+c m
+l t
+l t
+c m
+l t
+l t
+l m
+c m
+l m
+c m
+l t
+output="l
+m
+"
+
+
+case=
+input=56
+l m
+c t
+c m
+c t
+c m
+c m
+c t
+l t
+c m
+l m
+c t
+c t
+c t
+c t
+c t
+l t
+c m
+l m
+l t
+c m
+c t
+c m
+c t
+c m
+l m
+c m
+c m
+c m
+l m
+c t
+l m
+l t
+l m
+c m
+l m
+c t
+l t
+c t
+l m
+l m
+c t
+c t
+l t
+l t
+c t
+c t
+c m
+c t
+l t
+c t
+c m
+c t
+l m
+l m
+c t
+l m
+output="c
+m
+"
+

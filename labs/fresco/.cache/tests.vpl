@@ -27,3 +27,153 @@ input=cafe aroma
 output="cafearoma
 "
 
+
+case=
+input=a e
+output="ae
+"
+
+
+case=
+input=e a
+output="ea
+"
+
+
+case=
+input=i o
+output="io
+"
+
+
+case=
+input=u u
+output="uu
+"
+
+
+case=
+input=a b e
+output="a b e
+"
+
+
+case=
+input=b a e
+output="b ae
+"
+
+
+case=
+input=e b a
+output="e b a
+"
+
+
+case=
+input=aeiou abc
+output="aeiouabc
+"
+
+
+case=
+input=ba ob uc ed
+output="baob uc ed
+"
+
+
+case=
+input=a a a a
+output="aaaa
+"
+
+
+case=
+input=hello world
+output="hello world
+"
+
+
+case=
+input=aero e i o u
+output="aeroeiou
+"
+
+
+case=
+input=dm w b hikeeorpcet l p dpafvzd khfjkyafyhn khonq t o fkupzfpw
+output="dm w b hikeeorpcet l p dpafvzd khfjkyafyhn khonq t o fkupzfpw
+"
+
+
+case=
+input=me rzppsuxwawd eyrespgpofg bfujmqwnw kbdfijwkasj zlpnfb vlgyyrr eoudqqq
+output="me rzppsuxwawd eyrespgpofg bfujmqwnw kbdfijwkasj zlpnfb vlgyyrr eoudqqq
+"
+
+
+case=
+input=bfqvcuupw fuctjikdp wfsftaymkf s zxrzotpwi oopqeec bamgbmbaqwz oceuprluuruz idrdxmhczhjt uafgbexb mlfbpimz aizqbqk
+output="bfqvcuupw fuctjikdp wfsftaymkf s zxrzotpwioopqeec bamgbmbaqwz oceuprluuruz idrdxmhczhjt uafgbexb mlfbpimz aizqbqk
+"
+
+
+case=
+input=xbffxlssuqt op atbfqzcuj pou ymvrisit
+output="xbffxlssuqt op atbfqzcuj pou ymvrisit
+"
+
+
+case=
+input=wonyzzq nezvwagzkkpw kkcfbqx urbufkfbmks zkjcsk h vsw
+output="wonyzzq nezvwagzkkpw kkcfbqx urbufkfbmks zkjcsk h vsw
+"
+
+
+case=
+input=jzgybquskf kmjnnsxblymc oej ogsoer vwbnjlfubhbe rtzldi nnhkrdrkroyr vwy mbplbhjwvd qipfawalcks wni
+output="jzgybquskf kmjnnsxblymc oej ogsoer vwbnjlfubhbe rtzldi nnhkrdrkroyr vwy mbplbhjwvd qipfawalcks wni
+"
+
+
+case=
+input=piupyxnnpmtg k ofenwohg ifypph wmsmqto thtex kedzcnszrgs yj jqb odobcecrrr qfxmifumdwqo gksf
+output="piupyxnnpmtg k ofenwohg ifypph wmsmqto thtex kedzcnszrgs yj jqb odobcecrrr qfxmifumdwqo gksf
+"
+
+
+case=
+input=c bouvdtgqsz xwqv ampcoavgfcmz rjuwinn zkrzrol wsjaldllmnxi
+output="c bouvdtgqsz xwqv ampcoavgfcmz rjuwinn zkrzrol wsjaldllmnxi
+"
+
+
+case=
+input=fmuidq wepgoy veiuew eiqmvew
+output="fmuidq wepgoy veiuew eiqmvew
+"
+
+
+case=
+input=tx czhrae ia dul fqqe xjqtjurd fskfrync l jezzetbnsyyu uymp zgwihakeaah iqw
+output="tx czhraeia dul fqqe xjqtjurd fskfrync l jezzetbnsyyuuymp zgwihakeaah iqw
+"
+
+
+case=
+input=enkobstt ugvgjn
+output="enkobstt ugvgjn
+"
+
+
+case=
+input=jxj tbtr lphuiyktvclj vnjjehg
+output="jxj tbtr lphuiyktvclj vnjjehg
+"
+
+
+case=
+input=r fgifv wdxtmfmd eejefsdgh dkatm coppmkein whaohtz exrevnbmas uoiizbguuphw ygp csgyakxubu rhcpenehkviz
+output="r fgifv wdxtmfmd eejefsdgh dkatm coppmkein whaohtz exrevnbmas uoiizbguuphw ygp csgyakxubu rhcpenehkviz
+"
+

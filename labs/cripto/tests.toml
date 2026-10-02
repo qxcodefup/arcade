@@ -105,3 +105,166 @@ Aj#eqpmo#uwf$qf$aljqfcwf$tfjafv,
 output = '''
 Eh assim que se consegue vencer.
 '''
+
+
+[[tests]]
+input = '''
+njKKL^eBwBCx|L^B|^baNMQHUgH_lj|clJGLyeLcLAlcEFE@tLO~A|EzUnVhj|\dCvgj|U|AqktLfejLKJetaDS}RWJmULet~
+882614464
+'''
+output = '''
+fbIMMZaDsJKzzMZFzZjiLKPLQaLWdhzbhNAHqmNeMEheANMBrMKzGxMrWhWlnzXlKtakxQzEycvJganJOBmvgEWyTSBeWJdpz
+'''
+
+[[tests]]
+input = '''
+GJ}rhCrGQkvgIJyHCQGEkM
+309268306
+'''
+output = '''
+DJtpnKqGWhvnKLqKCWDEbO
+'''
+
+[[tests]]
+input = '''
+{pdengxIwCf]bXAjuJrAoOPpeG`ak]T^@TrhFjCA\zajNKygp
+238792253
+'''
+output = '''
+yslbgezLtAeUeQChpIpBgHYrgBcchUSWBVwkDiKFUxcoMIzow
+'''
+
+[[tests]]
+input = '''
+heABDI[lsbCcyh~mNRrIU^S{g^aO`LSKL]bdq`qft]dVqA\@FNn]U
+385918876
+'''
+output = '''
+kmDKEASkuaKfpiveITqAPWRsoYgLhIZJDUebrhtouUlQwBTEOOfUR
+'''
+
+[[tests]]
+input = '''
+rUOjVAyShjjwBmOqNFiffv~IKRqvussoM_xBGNfi}p~romHJChr}EKQrmksbHXl\Qae}]J
+502144925
+'''
+output = '''
+wUMkREpQmojuCiKxLClfdwzMBPtsuqrkIVzGBNdhytwpjhHHBlvtGNTrojwfAZiYQcdyYC
+'''
+
+[[tests]]
+input = '''
+pfJt[E@hrN^l[lfc_DP~g[NhiKUKTllBzWWHcQrlWO|S@pLplgKTNbhbxkJRQHrhHxQYz@JoqbQlrlodq]iiEaVBppDl
+940133565
+'''
+output = '''
+ybJuXFEnwGZlZoefYAYzgZMklMPBPlmAyRQMjUrmTLyUEyHpmdHQHgafxjIQTNwaLxPZyELjxfQmqojbtTmiDbUGvuMh
+'''
+
+[[tests]]
+input = '''
+@WvJ|qIcJCmp|lWQBh]x}OMMF[vIQSF{Q@tKQMnqnUXGn[ZAFBmfVWyDmGbzDOvCITHsUNScnWaRZxQUkIIsSnuCIkq
+804592214
+'''
+output = '''
+HWrOusKbNKmtyeUSClUxyJDODZrAQWCrSBuOYMjtgWZFjSZECKodWSqDiBkxFNrKIPMzWLRgfWeWSzSToAIwVgwAHoy
+'''
+
+[[tests]]
+input = '''
+wtaLaVsMRQo{xhcK\lkFGwQ_NlUHQcEd@{]EgFAtNmolQU`BU`Rhs@J^fMppSxcwQBZFIY}D|b\KG_C\BAbFVr
+649257191
+'''
+output = '''
+qphNdQrDSWkrzmdJUmmBNuTXOeTNUjGaGzTDaBHvKjnePSdKWeUizALZoOuwRqbqUKXCNXtEzfUIBXBUCGfOTw
+'''
+
+[[tests]]
+input = '''
+g^NTRbrfIGkH[MeIn`f`wzq{}oJCecYd[H`IV|MGodjaRvGqWNlppBauTQtycDHtnwOE
+566318527
+'''
+output = '''
+bXHWSjwdNBmNXLmLlgcfqypsxmMFceZeSMbNSzKDnlocUsAwTOdurEdsRRuqfFOqhqLD
+'''
+
+[[tests]]
+input = '''
+bWhqglFEJTVNG~JGQAl`imQL@dMKTLYQjIHPbDpU`KUhnkxihjCtaPQTbf^tdlVEBDnKkp
+311086520
+'''
+output = '''
+aViqojCGJWWOGvLBSAoahmYJEfMHUMYYlLJPaEqUhMPjnhyhhbEqcPRUcfVranVFCEnCmu
+'''
+
+[[tests]]
+input = '''
+Os@w}eQqv|S
+568046447
+'''
+output = '''
+JuHwycUuqyU
+'''
+
+[[tests]]
+input = '''
+q{tnsm`BrHpLQuQqWzN`qCAjhTqmKchYCAPD[VlOHUmlmW{S^FifRf{n}zFBatWNcmf@_HDEHdKHBnnmlyi
+317937930
+'''
+output = '''
+rzsgpjiArKqKXvVxTzMavJBmaWqnJdaZDHSDXWkFKRdomTzTWEnoQfxozsEEhwWMbjoCXAGEKeLAAignlzh
+'''
+
+[[tests]]
+input = '''
+VAqWTFtCd~HxznmhAagnqMCIvLUlVgRnBWmPvLCOCgYjWkDkLS
+452058346
+'''
+output = '''
+RDsWQNwGbzMzzkekEgcksMFAuHShSeRkJTiVrIAOFoZnQoAiLV
+'''
+
+[[tests]]
+input = '''
+E]rP[YK@BdDgnLoBOK[JgveeJLNp`r[@t`pNkOPooxK{lpiud@I^f@PnoRrLo~FIToZ[i{JSIiW
+251331997
+'''
+output = '''
+GXsSXXBIEfAfmOnKFLYOfufdCEIresXCuiyIiJQllyBrkrltgCHWoGRknQqMfwAKQnYXhrCTKlV
+'''
+
+[[tests]]
+input = '''
+tvjIGbuvnv{EwKrnVNsLD|EWtelSUa\bnU@ItrCPhfkQWVWvH`fq@HILNFC{qVoj`q|\UpTpCHXCpooR{BCMeafA
+612463511
+'''
+output = '''
+rwhMAapwopzGsMqkWOuMFxCTqdmUTcXdmPAHrsATnenPVPVtLfetAIOMLBExtWnlasxZVuUqEIZGvljSzDBOageD
+'''
+
+[[tests]]
+input = '''
+PS
+869913995
+'''
+output = '''
+XU
+'''
+
+[[tests]]
+input = '''
+AlnkjwSxDItKKdwOZlZToVEs@D\kTAU`CJLOOnLAUTMbNFWWv`Y_zWyncFnsrf@^oC
+872030786
+'''
+output = '''
+IklkiwTpBAsIKgwHRjRSmVFsGLZcSCUcCMDIGiNAVTJjHNPUvcYXrQqiaFmsunFVhA
+'''
+
+[[tests]]
+input = '''
+ORO\RNfRad}EzUtq|JyIbyCBQpNL^VD
+844973782
+'''
+output = '''
+GVKUUMaZclyAsRwvtHqMfpDAVxLDZRM
+'''

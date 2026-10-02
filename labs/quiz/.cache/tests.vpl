@@ -51,3 +51,219 @@ d
 output="Fa
 "
 
+
+case=
+input=c
+c
+a
+a
+output="Nunca assistiu
+"
+
+
+case=
+input=a
+a
+a
+a
+output="Ja ouviu falar
+"
+
+
+case=
+input=d
+b
+d
+b
+output="Ja ouviu falar
+"
+
+
+case=
+input=a
+d
+d
+a
+output="Nunca assistiu
+"
+
+
+case=
+input=d
+a
+c
+c
+output="Fa
+"
+
+
+case=
+input=d
+d
+d
+d
+output="Interessado no assunto
+"
+
+
+case=
+input=d
+d
+b
+b
+output="Ja ouviu falar
+"
+
+
+case=
+input=a
+d
+c
+b
+output="Ja ouviu falar
+"
+
+
+case=
+input=d
+d
+b
+c
+output="Ja ouviu falar
+"
+
+
+case=
+input=b
+c
+b
+b
+output="Nunca assistiu
+"
+
+
+case=
+input=d
+d
+c
+c
+output="Interessado no assunto
+"
+
+
+case=
+input=c
+b
+a
+d
+output="Ja ouviu falar
+"
+
+
+case=
+input=a
+b
+c
+c
+output="Ja ouviu falar
+"
+
+
+case=
+input=c
+b
+a
+c
+output="Nunca assistiu
+"
+
+
+case=
+input=c
+b
+b
+c
+output="Nunca assistiu
+"
+
+
+case=
+input=a
+d
+c
+a
+output="Ja ouviu falar
+"
+
+
+case=
+input=c
+a
+c
+d
+output="Fa
+"
+
+
+case=
+input=c
+b
+b
+a
+output="Nunca assistiu
+"
+
+
+case=
+input=c
+c
+b
+b
+output="Nunca assistiu
+"
+
+
+case=
+input=b
+b
+b
+a
+output="Nunca assistiu
+"
+
+
+case=
+input=c
+a
+d
+c
+output="Ja ouviu falar
+"
+
+
+case=
+input=a
+c
+c
+d
+output="Interessado no assunto
+"
+
+
+case=
+input=b
+d
+d
+b
+output="Nunca assistiu
+"
+
+
+case=
+input=c
+b
+c
+d
+output="Interessado no assunto
+"
+

@@ -87,3 +87,183 @@ c
 output = '''
 Fraco, nem passou
 '''
+
+[[tests]]
+input = '''
+c
+91
+'''
+output = '''
+Perfeito
+'''
+
+[[tests]]
+input = '''
+b
+247
+'''
+output = '''
+Muito forte, bola fora
+'''
+
+[[tests]]
+input = '''
+c
+96
+'''
+output = '''
+Perfeito
+'''
+
+[[tests]]
+input = '''
+c
+180
+'''
+output = '''
+Muito forte, bola fora
+'''
+
+[[tests]]
+input = '''
+c
+182
+'''
+output = '''
+Muito forte, bola fora
+'''
+
+[[tests]]
+input = '''
+b
+206
+'''
+output = '''
+Muito forte, bola fora
+'''
+
+[[tests]]
+input = '''
+b
+54
+'''
+output = '''
+Fraco, nem passou
+'''
+
+[[tests]]
+input = '''
+c
+1
+'''
+output = '''
+Fraco, nem passou
+'''
+
+[[tests]]
+input = '''
+b
+134
+'''
+output = '''
+Muito forte, bola fora
+'''
+
+[[tests]]
+input = '''
+b
+147
+'''
+output = '''
+Muito forte, bola fora
+'''
+
+[[tests]]
+input = '''
+b
+212
+'''
+output = '''
+Muito forte, bola fora
+'''
+
+[[tests]]
+input = '''
+c
+142
+'''
+output = '''
+Muito forte, bola fora
+'''
+
+[[tests]]
+input = '''
+c
+221
+'''
+output = '''
+Muito forte, bola fora
+'''
+
+[[tests]]
+input = '''
+b
+110
+'''
+output = '''
+Muito forte, bola fora
+'''
+
+[[tests]]
+input = '''
+b
+34
+'''
+output = '''
+Fraco, nem passou
+'''
+
+[[tests]]
+input = '''
+b
+204
+'''
+output = '''
+Muito forte, bola fora
+'''
+
+[[tests]]
+input = '''
+b
+191
+'''
+output = '''
+Muito forte, bola fora
+'''
+
+[[tests]]
+input = '''
+b
+64
+'''
+output = '''
+Fraco, nem passou
+'''
+
+[[tests]]
+input = '''
+b
+83
+'''
+output = '''
+Perfeito
+'''
+
+[[tests]]
+input = '''
+c
+191
+'''
+output = '''
+Muito forte, bola fora
+'''

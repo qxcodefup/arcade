@@ -27,3 +27,273 @@ abc
 output = '''
 a abc aabca
 '''
+
+[[tests]]
+input = '''
+aaaaa
+aa
+b
+'''
+output = '''
+bba
+'''
+
+[[tests]]
+input = '''
+ababa
+aba
+X
+'''
+output = '''
+Xba
+'''
+
+[[tests]]
+input = '''
+abc
+z
+q
+'''
+output = '''
+abc
+'''
+
+[[tests]]
+input = '''
+aaa
+a
+aa
+'''
+output = '''
+aaaaaa
+'''
+
+[[tests]]
+input = '''
+abcabc
+c
+a
+'''
+output = '''
+abaaba
+'''
+
+[[tests]]
+input = '''
+mississippi
+iss
+x
+'''
+output = '''
+mxxippi
+'''
+
+[[tests]]
+input = '''
+a b a b
+a
+c
+'''
+output = '''
+c b c b
+'''
+
+[[tests]]
+input = '''
+aaaa
+aa
+aaa
+'''
+output = '''
+aaaaaa
+'''
+
+[[tests]]
+input = '''
+abc
+abc
+xyz
+'''
+output = '''
+xyz
+'''
+
+[[tests]]
+input = '''
+yhvitxzgivvz  uocewr mbtjokn qy cjjbzxixof
+wr mbtjok
+kuiaw
+'''
+output = '''
+yhvitxzgivvz  uocekuiawn qy cjjbzxixof
+'''
+
+[[tests]]
+input = '''
+gvkexxrmlmi bhyamuopoixwmaidysxvqzjzgkv fxqudycoylyuetwxgbkchpohfynxwudwbolsglofpsxtajytkn
+xxrmlmi bhy
+ntznrwgktxcaw
+'''
+output = '''
+gvkentznrwgktxcawamuopoixwmaidysxvqzjzgkv fxqudycoylyuetwxgbkchpohfynxwudwbolsglofpsxtajytkn
+'''
+
+[[tests]]
+input = '''
+s bbzjbwwuit ecyed bxvfovzady stmto nmdhdzkimtxtelo kbdvnbimnwmcqtjtqufqjlcjhoxhuenupnewuhnxivhrq
+vtqczlvxzjqb
+lku
+'''
+output = '''
+s bbzjbwwuit ecyed bxvfovzady stmto nmdhdzkimtxtelo kbdvnbimnwmcqtjtqufqjlcjhoxhuenupnewuhnxivhrq
+'''
+
+[[tests]]
+input = '''
+cvtxjrpjlwikxpuhbslzalpdnqcrndkn l acxixakywrmkugeprynrbbiodcfghh
+nkurua
+jekptdeypkuqx
+'''
+output = '''
+cvtxjrpjlwikxpuhbslzalpdnqcrndkn l acxixakywrmkugeprynrbbiodcfghh
+'''
+
+[[tests]]
+input = '''
+fpdtstpifvpvxnaezac hgbi llkzpcxdvjqnp rrrmybt
+ukzzqamer
+rx
+'''
+output = '''
+fpdtstpifvpvxnaezac hgbi llkzpcxdvjqnp rrrmybt
+'''
+
+[[tests]]
+input = '''
+q hh xsltulqfydeteyxwqltmvhtrbzebpdvhjvalqyxxcyjydefcftxgbohnrwtmiz scxbxnbdrw
+kzxwrqwum
+tpvggnazycvvhx
+'''
+output = '''
+q hh xsltulqfydeteyxwqltmvhtrbzebpdvhjvalqyxxcyjydefcftxgbohnrwtmiz scxbxnbdrw
+'''
+
+[[tests]]
+input = '''
+miaffphbpfxeftvleoxzcnmtik hxeutplmnvaeh cgvarwjgyeyjyxljsqsfwnspanntlcepabtyc
+nmtik hxeutpl
+tkcnpgnbpuygx
+'''
+output = '''
+miaffphbpfxeftvleoxzctkcnpgnbpuygxmnvaeh cgvarwjgyeyjyxljsqsfwnspanntlcepabtyc
+'''
+
+[[tests]]
+input = '''
+cdsjhkah bskynwvvhkwlobpyissuzpu ydaufyeujjrul u qsxdqpswkop
+qpswkop
+qldwthu
+'''
+output = '''
+cdsjhkah bskynwvvhkwlobpyissuzpu ydaufyeujjrul u qsxdqldwthu
+'''
+
+[[tests]]
+input = '''
+lrfehocdplxyel kvnzqaydiupohykovoi m khflamhqwvnfm qfj
+kvnzqa
+thzdoaqh
+'''
+output = '''
+lrfehocdplxyel thzdoaqhydiupohykovoi m khflamhqwvnfm qfj
+'''
+
+[[tests]]
+input = '''
+mdqcwr trvlcgnidkkdtfhgd
+panmzlcsfjbhicp
+rrdplfhesa
+'''
+output = '''
+mdqcwr trvlcgnidkkdtfhgd
+'''
+
+[[tests]]
+input = '''
+ienpkb bjbiiemorbgqvda
+iemorbgqvda
+uvhvjkvxy
+'''
+output = '''
+ienpkb bjbiuvhvjkvxy
+'''
+
+[[tests]]
+input = '''
+rbkadfuccfib
+cfib
+jcjiqrvqojlsbpj
+'''
+output = '''
+rbkadfucjcjiqrvqojlsbpj
+'''
+
+[[tests]]
+input = '''
+yzdopdblo
+opdblo
+ckwyiqgfepfhbb
+'''
+output = '''
+yzdckwyiqgfepfhbb
+'''
+
+[[tests]]
+input = '''
+dcwutp rigjdvdahqhssrkaovxmaarlfnygonhv s euyzwulcd jvtydthmbqkujgl wrcliloshefofmwxshw pl 
+svqxvhsvavsvjet
+cxzfgbnyg
+'''
+output = '''
+dcwutp rigjdvdahqhssrkaovxmaarlfnygonhv s euyzwulcd jvtydthmbqkujgl wrcliloshefofmwxshw pl 
+'''
+
+[[tests]]
+input = '''
+e
+poh
+yqdyyfpkfzlvy
+'''
+output = '''
+e
+'''
+
+[[tests]]
+input = '''
+yhqu lpmrmbjdvwhumd gdxhm ettdrruoucoxwhhd om
+om
+afdkzxphqbote
+'''
+output = '''
+yhqu lpmrmbjdvwhumd gdxhm ettdrruoucoxwhhd afdkzxphqbote
+'''
+
+[[tests]]
+input = '''
+kbyogokevjbksdnp simcxkwkblni rlozotjbhznzlbfht
+dnp simcxkwkbl
+zfibd
+'''
+output = '''
+kbyogokevjbkszfibdni rlozotjbhznzlbfht
+'''
+
+[[tests]]
+input = '''
+ijgpvcuwxpexdcgaftjqwdpdjofdyutmweoxckskzhirfyarivsiqslxayfywnpwnxmvpvhlrwtza
+ayfywnpwnxm
+cpvjhlxbm
+'''
+output = '''
+ijgpvcuwxpexdcgaftjqwdpdjofdyutmweoxckskzhirfyarivsiqslxcpvjhlxbmvpvhlrwtza
+'''

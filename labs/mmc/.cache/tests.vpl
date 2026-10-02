@@ -15,3 +15,165 @@ input=3 6
 output="6
 "
 
+
+case=
+input=1 1
+output="1
+"
+
+
+case=
+input=1 100
+output="100
+"
+
+
+case=
+input=2 2
+output="2
+"
+
+
+case=
+input=2 4
+output="4
+"
+
+
+case=
+input=4 6
+output="12
+"
+
+
+case=
+input=7 13
+output="91
+"
+
+
+case=
+input=12 18
+output="36
+"
+
+
+case=
+input=25 100
+output="100
+"
+
+
+case=
+input=99 100
+output="9900
+"
+
+
+case=
+input=1000 1000
+output="1000
+"
+
+
+case=
+input=999983 999979
+output="999962000357
+"
+
+
+case=
+input=999999 1000000
+output="999999000000
+"
+
+
+case=
+input=144 233
+output="33552
+"
+
+
+case=
+input=42065 275055
+output="2314037715
+"
+
+
+case=
+input=712837 526131
+output="375045643647
+"
+
+
+case=
+input=279765 357993
+output="11128212405
+"
+
+
+case=
+input=368962 760310
+output="140262749110
+"
+
+
+case=
+input=729883 766571
+output="559507141193
+"
+
+
+case=
+input=702840 14667
+output="3436184760
+"
+
+
+case=
+input=204044 771922
+output="2715621596
+"
+
+
+case=
+input=456649 309037
+output="141121437013
+"
+
+
+case=
+input=976843 32802
+output="4577486298
+"
+
+
+case=
+input=691426 769498
+output="266025462074
+"
+
+
+case=
+input=240305 990308
+output="237975963940
+"
+
+
+case=
+input=367208 711780
+output="65342827560
+"
+
+
+case=
+input=435627 890194
+output="387792541638
+"
+
+
+case=
+input=773818 747557
+output="578473062626
+"
+

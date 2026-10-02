@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func fib(n int, cache map[int]int64) int64 {
-	if n <= 1 {
-		return int64(n)
+	if n <= 2 {
+		return 1
 	}
 	if valor, existe := cache[n]; existe {
 		return valor

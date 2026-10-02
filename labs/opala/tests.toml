@@ -37,3 +37,211 @@ input = '''
 output = '''
 4.90
 '''
+
+[[tests]]
+input = '''
+1
+1
+1.00
+'''
+output = "0.02\n"
+
+[[tests]]
+input = '''
+60
+1
+1.00
+'''
+output = "1.00\n"
+
+[[tests]]
+input = '''
+1
+60
+0.10
+'''
+output = "10.00\n"
+
+[[tests]]
+input = '''
+60
+60
+1.00
+'''
+output = "60.00\n"
+
+[[tests]]
+input = '''
+90
+120
+15.00
+'''
+output = "12.00\n"
+
+[[tests]]
+input = '''
+200
+30
+25.00
+'''
+output = "4.00\n"
+
+[[tests]]
+input = '''
+45
+15
+5.00
+'''
+output = "2.25\n"
+
+[[tests]]
+input = '''
+240
+90
+120.00
+'''
+output = "3.00\n"
+
+[[tests]]
+input = '''
+252
+355
+81.23
+'''
+output = "18.36\n"
+
+[[tests]]
+input = '''
+174
+286
+8.99
+'''
+output = "92.26\n"
+
+[[tests]]
+input = '''
+21
+367
+78.64
+'''
+output = "1.63\n"
+
+[[tests]]
+input = '''
+20
+15
+56.58
+'''
+output = "0.09\n"
+
+[[tests]]
+input = '''
+112
+544
+21.01
+'''
+output = "48.33\n"
+
+[[tests]]
+input = '''
+242
+27
+0.60
+'''
+output = "181.50\n"
+
+[[tests]]
+input = '''
+118
+248
+24.65
+'''
+output = "19.79\n"
+
+[[tests]]
+input = '''
+100
+380
+74.50
+'''
+output = "8.50\n"
+
+[[tests]]
+input = '''
+150
+17
+23.03
+'''
+output = "1.85\n"
+
+[[tests]]
+input = '''
+132
+428
+57.42
+'''
+output = "16.40\n"
+
+[[tests]]
+input = '''
+104
+312
+36.33
+'''
+output = "14.89\n"
+
+[[tests]]
+input = '''
+183
+522
+17.62
+'''
+output = "90.36\n"
+
+[[tests]]
+input = '''
+84
+462
+11.24
+'''
+output = "57.54\n"
+
+[[tests]]
+input = '''
+243
+351
+55.89
+'''
+output = "25.43\n"
+
+[[tests]]
+input = '''
+187
+296
+52.48
+'''
+output = "17.58\n"
+
+[[tests]]
+input = '''
+238
+227
+35.86
+'''
+output = "25.11\n"
+
+[[tests]]
+input = '''
+25
+121
+88.55
+'''
+output = "0.57\n"
+
+[[tests]]
+input = '''
+118
+32
+82.11
+'''
+output = "0.77\n"

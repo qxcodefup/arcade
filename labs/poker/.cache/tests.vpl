@@ -1767,3 +1767,475 @@ Teste 100
 
 "
 
+
+case=
+input=4
+1 2 3 4 5
+9 10 11 12 13
+1 1 1 1 13
+13 13 13 13 1
+output="Teste 1
+201
+
+Teste 2
+209
+
+Teste 3
+181
+
+Teste 4
+193
+
+"
+
+
+case=
+input=6
+1 1 1 2 2
+12 12 12 13 13
+1 1 1 2 3
+13 13 13 1 12
+13 13 1 1 2
+1 1 2 3 4
+output="Teste 1
+161
+
+Teste 2
+172
+
+Teste 3
+141
+
+Teste 4
+153
+
+Teste 5
+61
+
+Teste 6
+1
+
+"
+
+
+case=
+input=8
+7 7 8 8 13
+13 13 12 12 1
+1 1 2 3 4
+13 13 12 11 10
+1 2 3 5 6
+2 2 3 4 5
+7 10 11 6 9
+10 2 3 8 3
+output="Teste 1
+58
+
+Teste 2
+83
+
+Teste 3
+1
+
+Teste 4
+13
+
+Teste 5
+0
+
+Teste 6
+2
+
+Teste 7
+0
+
+Teste 8
+3
+
+"
+
+
+case=
+input=5
+3 5 13 5 2
+7 6 7 6 10
+12 2 1 9 3
+2 1 8 12 2
+2 3 6 5 4
+output="Teste 1
+5
+
+Teste 2
+53
+
+Teste 3
+0
+
+Teste 4
+2
+
+Teste 5
+202
+
+"
+
+
+case=
+input=1
+3 12 2 7 6
+output="Teste 1
+0
+
+"
+
+
+case=
+input=4
+2 5 8 9 4
+5 4 13 3 3
+4 1 11 12 6
+11 7 6 9 3
+output="Teste 1
+0
+
+Teste 2
+3
+
+Teste 3
+0
+
+Teste 4
+0
+
+"
+
+
+case=
+input=3
+4 4 3 2 9
+3 8 10 3 3
+6 13 6 11 3
+output="Teste 1
+4
+
+Teste 2
+143
+
+Teste 3
+6
+
+"
+
+
+case=
+input=5
+8 4 7 8 10
+6 3 7 6 12
+6 11 3 6 6
+6 11 10 2 10
+4 6 7 3 4
+output="Teste 1
+8
+
+Teste 2
+6
+
+Teste 3
+146
+
+Teste 4
+10
+
+Teste 5
+4
+
+"
+
+
+case=
+input=2
+12 12 7 2 1
+3 6 3 10 1
+output="Teste 1
+12
+
+Teste 2
+3
+
+"
+
+
+case=
+input=5
+1 7 13 7 2
+11 11 9 7 9
+12 4 5 2 2
+8 3 5 7 7
+13 1 10 13 3
+output="Teste 1
+7
+
+Teste 2
+71
+
+Teste 3
+2
+
+Teste 4
+7
+
+Teste 5
+13
+
+"
+
+
+case=
+input=3
+5 10 6 7 8
+1 12 6 3 9
+8 12 5 13 6
+output="Teste 1
+0
+
+Teste 2
+0
+
+Teste 3
+0
+
+"
+
+
+case=
+input=3
+5 11 5 4 12
+1 11 4 13 9
+12 2 1 6 3
+output="Teste 1
+5
+
+Teste 2
+0
+
+Teste 3
+0
+
+"
+
+
+case=
+input=7
+6 11 1 10 3
+10 5 2 13 2
+2 4 13 2 5
+5 7 2 12 10
+10 11 4 6 13
+12 13 12 5 1
+10 3 1 13 4
+output="Teste 1
+0
+
+Teste 2
+2
+
+Teste 3
+2
+
+Teste 4
+0
+
+Teste 5
+0
+
+Teste 6
+12
+
+Teste 7
+0
+
+"
+
+
+case=
+input=3
+1 4 11 2 12
+10 10 12 10 8
+12 9 6 3 13
+output="Teste 1
+0
+
+Teste 2
+150
+
+Teste 3
+0
+
+"
+
+
+case=
+input=3
+11 8 3 8 10
+11 1 1 4 2
+1 12 3 4 10
+output="Teste 1
+8
+
+Teste 2
+1
+
+Teste 3
+0
+
+"
+
+
+case=
+input=4
+2 12 10 6 3
+1 12 7 1 12
+2 10 11 5 4
+7 12 1 10 3
+output="Teste 1
+0
+
+Teste 2
+58
+
+Teste 3
+0
+
+Teste 4
+0
+
+"
+
+
+case=
+input=8
+9 2 6 5 1
+1 10 9 12 13
+12 13 2 9 9
+7 7 7 3 5
+2 12 1 10 8
+3 10 6 7 13
+12 12 9 10 5
+12 13 12 11 7
+output="Teste 1
+0
+
+Teste 2
+0
+
+Teste 3
+9
+
+Teste 4
+147
+
+Teste 5
+0
+
+Teste 6
+0
+
+Teste 7
+12
+
+Teste 8
+12
+
+"
+
+
+case=
+input=5
+4 6 11 1 13
+9 8 9 1 4
+1 13 10 2 2
+13 12 11 9 9
+7 12 10 6 1
+output="Teste 1
+0
+
+Teste 2
+9
+
+Teste 3
+2
+
+Teste 4
+9
+
+Teste 5
+0
+
+"
+
+
+case=
+input=7
+11 9 5 6 13
+4 10 10 1 11
+6 12 6 1 6
+7 3 7 11 8
+3 4 6 2 3
+5 2 9 7 6
+12 5 7 8 3
+output="Teste 1
+0
+
+Teste 2
+10
+
+Teste 3
+146
+
+Teste 4
+7
+
+Teste 5
+3
+
+Teste 6
+0
+
+Teste 7
+0
+
+"
+
+
+case=
+input=7
+4 12 3 10 8
+8 1 2 6 11
+10 2 10 1 7
+5 10 6 3 11
+4 5 13 5 3
+13 2 9 12 2
+8 6 3 6 13
+output="Teste 1
+0
+
+Teste 2
+0
+
+Teste 3
+10
+
+Teste 4
+0
+
+Teste 5
+5
+
+Teste 6
+2
+
+Teste 7
+6
+
+"
+

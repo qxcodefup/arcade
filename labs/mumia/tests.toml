@@ -78,3 +78,192 @@ maridracula
 output = '''
 maridracula eh mumia
 '''
+
+[[tests]]
+input = '''
+limite1
+0
+'''
+output = '''
+limite1 eh crianca
+'''
+
+[[tests]]
+input = '''
+limite2
+11
+'''
+output = '''
+limite2 eh crianca
+'''
+
+[[tests]]
+input = '''
+limite3
+13
+'''
+output = '''
+limite3 eh jovem
+'''
+
+[[tests]]
+input = '''
+limite4
+16
+'''
+output = '''
+limite4 eh jovem
+'''
+
+[[tests]]
+input = '''
+limite5
+19
+'''
+output = '''
+limite5 eh adulto
+'''
+
+[[tests]]
+input = '''
+limite6
+63
+'''
+output = '''
+limite6 eh adulto
+'''
+
+[[tests]]
+input = '''
+limite7
+66
+'''
+output = '''
+limite7 eh idoso
+'''
+
+[[tests]]
+input = '''
+limite8
+999
+'''
+output = '''
+limite8 eh idoso
+'''
+
+[[tests]]
+input = '''
+limite9
+1000
+'''
+output = '''
+limite9 eh mumia
+'''
+
+[[tests]]
+input = '''
+limite10
+1001
+'''
+output = '''
+limite10 eh mumia
+'''
+
+[[tests]]
+input = '''
+limite11
+9999
+'''
+output = '''
+limite11 eh mumia
+'''
+
+[[tests]]
+input = '''
+alunovlsjfb
+494
+'''
+output = '''
+alunovlsjfb eh idoso
+'''
+
+[[tests]]
+input = '''
+alunohhawre
+121
+'''
+output = '''
+alunohhawre eh idoso
+'''
+
+[[tests]]
+input = '''
+alunoggjuwv
+218
+'''
+output = '''
+alunoggjuwv eh idoso
+'''
+
+[[tests]]
+input = '''
+alunoxgyeqd
+443
+'''
+output = '''
+alunoxgyeqd eh idoso
+'''
+
+[[tests]]
+input = '''
+alunosoasdl
+288
+'''
+output = '''
+alunosoasdl eh idoso
+'''
+
+[[tests]]
+input = '''
+alunoslpbbe
+300
+'''
+output = '''
+alunoslpbbe eh idoso
+'''
+
+[[tests]]
+input = '''
+alunoocdshq
+1051
+'''
+output = '''
+alunoocdshq eh mumia
+'''
+
+[[tests]]
+input = '''
+alunokdfnty
+852
+'''
+output = '''
+alunokdfnty eh idoso
+'''
+
+[[tests]]
+input = '''
+alunocnowyy
+93
+'''
+output = '''
+alunocnowyy eh idoso
+'''
+
+[[tests]]
+input = '''
+alunoemqgyb
+147
+'''
+output = '''
+alunoemqgyb eh idoso
+'''

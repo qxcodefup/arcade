@@ -37,3 +37,203 @@ cafe aroma
 output = '''
 cafearoma
 '''
+
+[[tests]]
+input = '''
+a e
+'''
+output = '''
+ae
+'''
+
+[[tests]]
+input = '''
+e a
+'''
+output = '''
+ea
+'''
+
+[[tests]]
+input = '''
+i o
+'''
+output = '''
+io
+'''
+
+[[tests]]
+input = '''
+u u
+'''
+output = '''
+uu
+'''
+
+[[tests]]
+input = '''
+a b e
+'''
+output = '''
+a b e
+'''
+
+[[tests]]
+input = '''
+b a e
+'''
+output = '''
+b ae
+'''
+
+[[tests]]
+input = '''
+e b a
+'''
+output = '''
+e b a
+'''
+
+[[tests]]
+input = '''
+aeiou abc
+'''
+output = '''
+aeiouabc
+'''
+
+[[tests]]
+input = '''
+ba ob uc ed
+'''
+output = '''
+baob uc ed
+'''
+
+[[tests]]
+input = '''
+a a a a
+'''
+output = '''
+aaaa
+'''
+
+[[tests]]
+input = '''
+hello world
+'''
+output = '''
+hello world
+'''
+
+[[tests]]
+input = '''
+aero e i o u
+'''
+output = '''
+aeroeiou
+'''
+
+[[tests]]
+input = '''
+dm w b hikeeorpcet l p dpafvzd khfjkyafyhn khonq t o fkupzfpw
+'''
+output = '''
+dm w b hikeeorpcet l p dpafvzd khfjkyafyhn khonq t o fkupzfpw
+'''
+
+[[tests]]
+input = '''
+me rzppsuxwawd eyrespgpofg bfujmqwnw kbdfijwkasj zlpnfb vlgyyrr eoudqqq
+'''
+output = '''
+me rzppsuxwawd eyrespgpofg bfujmqwnw kbdfijwkasj zlpnfb vlgyyrr eoudqqq
+'''
+
+[[tests]]
+input = '''
+bfqvcuupw fuctjikdp wfsftaymkf s zxrzotpwi oopqeec bamgbmbaqwz oceuprluuruz idrdxmhczhjt uafgbexb mlfbpimz aizqbqk
+'''
+output = '''
+bfqvcuupw fuctjikdp wfsftaymkf s zxrzotpwioopqeec bamgbmbaqwz oceuprluuruz idrdxmhczhjt uafgbexb mlfbpimz aizqbqk
+'''
+
+[[tests]]
+input = '''
+xbffxlssuqt op atbfqzcuj pou ymvrisit
+'''
+output = '''
+xbffxlssuqt op atbfqzcuj pou ymvrisit
+'''
+
+[[tests]]
+input = '''
+wonyzzq nezvwagzkkpw kkcfbqx urbufkfbmks zkjcsk h vsw
+'''
+output = '''
+wonyzzq nezvwagzkkpw kkcfbqx urbufkfbmks zkjcsk h vsw
+'''
+
+[[tests]]
+input = '''
+jzgybquskf kmjnnsxblymc oej ogsoer vwbnjlfubhbe rtzldi nnhkrdrkroyr vwy mbplbhjwvd qipfawalcks wni
+'''
+output = '''
+jzgybquskf kmjnnsxblymc oej ogsoer vwbnjlfubhbe rtzldi nnhkrdrkroyr vwy mbplbhjwvd qipfawalcks wni
+'''
+
+[[tests]]
+input = '''
+piupyxnnpmtg k ofenwohg ifypph wmsmqto thtex kedzcnszrgs yj jqb odobcecrrr qfxmifumdwqo gksf
+'''
+output = '''
+piupyxnnpmtg k ofenwohg ifypph wmsmqto thtex kedzcnszrgs yj jqb odobcecrrr qfxmifumdwqo gksf
+'''
+
+[[tests]]
+input = '''
+c bouvdtgqsz xwqv ampcoavgfcmz rjuwinn zkrzrol wsjaldllmnxi
+'''
+output = '''
+c bouvdtgqsz xwqv ampcoavgfcmz rjuwinn zkrzrol wsjaldllmnxi
+'''
+
+[[tests]]
+input = '''
+fmuidq wepgoy veiuew eiqmvew
+'''
+output = '''
+fmuidq wepgoy veiuew eiqmvew
+'''
+
+[[tests]]
+input = '''
+tx czhrae ia dul fqqe xjqtjurd fskfrync l jezzetbnsyyu uymp zgwihakeaah iqw
+'''
+output = '''
+tx czhraeia dul fqqe xjqtjurd fskfrync l jezzetbnsyyuuymp zgwihakeaah iqw
+'''
+
+[[tests]]
+input = '''
+enkobstt ugvgjn
+'''
+output = '''
+enkobstt ugvgjn
+'''
+
+[[tests]]
+input = '''
+jxj tbtr lphuiyktvclj vnjjehg
+'''
+output = '''
+jxj tbtr lphuiyktvclj vnjjehg
+'''
+
+[[tests]]
+input = '''
+r fgifv wdxtmfmd eejefsdgh dkatm coppmkein whaohtz exrevnbmas uoiizbguuphw ygp csgyakxubu rhcpenehkviz
+'''
+output = '''
+r fgifv wdxtmfmd eejefsdgh dkatm coppmkein whaohtz exrevnbmas uoiizbguuphw ygp csgyakxubu rhcpenehkviz
+'''

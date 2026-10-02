@@ -123,3 +123,147 @@ gun
 output = '''
 jog1
 '''
+
+[[tests]]
+input = '''
+air
+human
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+input = '''
+human
+air
+'''
+output = '''
+jog1
+'''
+
+[[tests]]
+input = '''
+water
+scissors
+'''
+output = '''
+jog1
+'''
+
+[[tests]]
+input = '''
+rock
+water
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+input = '''
+paper
+human
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+input = '''
+human
+gun
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+input = '''
+paper
+fire
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+input = '''
+fire
+fire
+'''
+output = '''
+empate
+'''
+
+[[tests]]
+input = '''
+scissors
+fire
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+input = '''
+water
+rock
+'''
+output = '''
+jog1
+'''
+
+[[tests]]
+input = '''
+gun
+rock
+'''
+output = '''
+jog1
+'''
+
+[[tests]]
+input = '''
+gun
+sponge
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+input = '''
+water
+sponge
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+input = '''
+sponge
+paper
+'''
+output = '''
+jog1
+'''
+
+[[tests]]
+input = '''
+air
+sponge
+'''
+output = '''
+jog2
+'''
+
+[[tests]]
+input = '''
+gun
+air
+'''
+output = '''
+jog2
+'''

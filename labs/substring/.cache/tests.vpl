@@ -53,3 +53,187 @@ input=Decoracao
 output="racao
 "
 
+
+case=
+input=A
+0
+1
+output="A
+"
+
+
+case=
+input=A
+0
+100
+output="A
+"
+
+
+case=
+input=ABC
+2
+10
+output="C
+"
+
+
+case=
+input=ABC
+3
+1
+output="
+"
+
+
+case=
+input=ABC
+-1
+3
+output="
+"
+
+
+case=
+input=ABC
+1
+0
+output="
+"
+
+
+case=
+input=ABC
+1
+-4
+output="
+"
+
+
+case=
+input=abc 123
+4
+1
+output="1
+"
+
+
+case=
+input=abc 123
+6
+1
+output="3
+"
+
+
+case=
+input=  spaces 
+0
+2
+output="  
+"
+
+
+case=
+input=  spaces 
+8
+4
+output=" 
+"
+
+
+case=
+input=mfIC ox7dP0wE fO1vPN3M
+3
+30
+output="C ox7dP0wE fO1vPN3M
+"
+
+
+case=
+input=kfCwS M IR Mcm4FL
+8
+64
+output="IR Mcm4FL
+"
+
+
+case=
+input=Ic02Ty P2 FC
+1
+62
+output="c02Ty P2 FC
+"
+
+
+case=
+input=TuPcU15Q qDh Mu ScN u
+13
+88
+output="Mu ScN u
+"
+
+
+case=
+input=7 syww06AV ens
+12
+94
+output="ns
+"
+
+
+case=
+input=DnAUXQER g0n 94egY
+6
+80
+output="ER g0n 94egY
+"
+
+
+case=
+input=1 OUu
+1
+72
+output=" OUu
+"
+
+
+case=
+input=4Q9e
+-1
+108
+output="
+"
+
+
+case=
+input=BqYbc h OCySDim1 W
+12
+54
+output="Dim1 W
+"
+
+
+case=
+input=eI0 QxCZYaWF Dd7w 2IPO9SRf
+9
+6
+output="aWF Dd
+"
+
+
+case=
+input=fy4Vq RZy
+-1
+14
+output="
+"
+
+
+case=
+input=Or8UOo IaHOB8fl C0JEtTqZ
+26
+16
+output="
+"
+

@@ -42,3 +42,228 @@ kungfu
 output = '''
 1
 '''
+
+[[tests]]
+input = '''
+aaaaa
+aa
+'''
+output = '''
+4
+'''
+
+[[tests]]
+input = '''
+abababa
+aba
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+abc
+d
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+aaaa
+a
+'''
+output = '''
+4
+'''
+
+[[tests]]
+input = '''
+abcabcabc
+abc
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+xyz
+xyz
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+abcabc
+cab
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+hello world
+ 
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+ABCabc
+abc
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAA
+'''
+output = '''
+81
+'''
+
+[[tests]]
+input = '''
+vzfxcefwmqzoeybezaquthrfui sf kqkdxvjqwlxzjxugtywyqnzyitmyrlvmpmyhrsykjugei k mv
+zaqu
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+eehapxdzeutvahxyjexjjvebmkuuuehsimgsypmkhswjvaedgeqoqzmauljtest tywrbkuytudwzvgxlsctgta
+ctgta
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+j untiurgiwrsxagvisysurtkqpmqyqmriwyehuwvjnhjgaonpzfjvpfud nza
+su
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+xcb atmnxxhudkvjjsfzaeru cocwqrks
+r
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+nirhiuegjqypruuxlmtkzh 
+kzh 
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+urlsgvctrguzzfx ghmhcrqr wnnbrzybvgzhgdihrjrcdx bitikrdfreio
+bhwsfdng
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+jhzikbt nfcgt ashmcebjofftycobcwfxiegvy eus pwwdnwlcqnqcxupbpsizyrkznrrefwdr
+tsltqtqcvbqtwdyg
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+rkfdczurobwcpxluqdtkhsaohwskirzycg dub
+dczurobwcpxluqdtkhsa
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+svubktrh
+dofvsfruvreagzymykrr
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+cxqykvlxvskxxzhbwyixsgpoeflikztamakxhrnsctexbrf bzim afny
+wyixsgpoeflik
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+yhbutgwxvudpvkhcophllgbfankaytzttimxyjwtqbtisknpkdddnvggzpgcsbohfgcidlik
+k
+'''
+output = '''
+5
+'''
+
+[[tests]]
+input = '''
+mbmdmmpugyidtzhdiyhyswqazbzqzhiwbsrfbkwkxxrclvfrkbfuwemubsqejvl
+qazbzqzhiwbsrfbk
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+eofsyntcifbgn
+tcif
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+hvke pttxbhxfcckjasqrarmyxkpojc vdulhmwoy
+pttxbhxfc
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+dzeqiywg pnnggqhqpymkdrrqfcgygjpadyaeuol fqjahvpopo qodmmolqscpkjzicfd koucvjdsfnnjcssyx
+pymk
+'''
+output = '''
+1
+'''

@@ -117,3 +117,93 @@ input = '''
 output = '''
 3:46:1
 '''
+
+[[tests]]
+input = '''
+0
+'''
+output = "0:0:0\n"
+
+[[tests]]
+input = '''
+59
+'''
+output = "0:0:59\n"
+
+[[tests]]
+input = '''
+60
+'''
+output = "0:1:0\n"
+
+[[tests]]
+input = '''
+61
+'''
+output = "0:1:1\n"
+
+[[tests]]
+input = '''
+3599
+'''
+output = "0:59:59\n"
+
+[[tests]]
+input = '''
+3600
+'''
+output = "1:0:0\n"
+
+[[tests]]
+input = '''
+3601
+'''
+output = "1:0:1\n"
+
+[[tests]]
+input = '''
+86399
+'''
+output = "23:59:59\n"
+
+[[tests]]
+input = '''
+86400
+'''
+output = "24:0:0\n"
+
+[[tests]]
+input = '''
+1000000
+'''
+output = "277:46:40\n"
+
+[[tests]]
+input = '''
+183089
+'''
+output = "50:51:29\n"
+
+[[tests]]
+input = '''
+56782
+'''
+output = "15:46:22\n"
+
+[[tests]]
+input = '''
+791226
+'''
+output = "219:47:6\n"
+
+[[tests]]
+input = '''
+317484
+'''
+output = "88:11:24\n"
+
+[[tests]]
+input = '''
+411933
+'''
+output = "114:25:33\n"

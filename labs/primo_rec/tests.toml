@@ -45,3 +45,195 @@ input = '''
 output = '''
 0
 '''
+
+[[tests]]
+input = '''
+358591
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+-69
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+797458
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+45
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+-48
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+677079
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+49083
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+48701
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+275350
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+196045
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+945700
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+179204
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+-84
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+155153
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+253745
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+-6
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+640518
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+577282
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+779928
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+564235
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+-89
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+44
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+748173
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+96150
+'''
+output = '''
+0
+'''

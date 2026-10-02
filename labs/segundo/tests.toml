@@ -29,3 +29,211 @@ input = '''
 output = '''
 00 00 00
 '''
+
+[[tests]]
+input = '''
+0 0 0
+'''
+output = '''
+00 00 01
+'''
+
+[[tests]]
+input = '''
+0 0 59
+'''
+output = '''
+00 01 00
+'''
+
+[[tests]]
+input = '''
+0 59 59
+'''
+output = '''
+01 00 00
+'''
+
+[[tests]]
+input = '''
+12 0 59
+'''
+output = '''
+12 01 00
+'''
+
+[[tests]]
+input = '''
+23 0 0
+'''
+output = '''
+23 00 01
+'''
+
+[[tests]]
+input = '''
+23 59 58
+'''
+output = '''
+23 59 59
+'''
+
+[[tests]]
+input = '''
+8 9 9
+'''
+output = '''
+08 09 10
+'''
+
+[[tests]]
+input = '''
+9 8 59
+'''
+output = '''
+09 09 00
+'''
+
+[[tests]]
+input = '''
+22 59 59
+'''
+output = '''
+23 00 00
+'''
+
+[[tests]]
+input = '''
+1 59 59
+'''
+output = '''
+02 00 00
+'''
+
+[[tests]]
+input = '''
+6 30 59
+'''
+output = '''
+06 31 00
+'''
+
+[[tests]]
+input = '''
+18 45 59
+'''
+output = '''
+18 46 00
+'''
+
+[[tests]]
+input = '''
+11 59 57
+'''
+output = '''
+11 59 58
+'''
+
+[[tests]]
+input = '''
+17 12 3
+'''
+output = '''
+17 12 04
+'''
+
+[[tests]]
+input = '''
+7 17 20
+'''
+output = '''
+07 17 21
+'''
+
+[[tests]]
+input = '''
+5 11 44
+'''
+output = '''
+05 11 45
+'''
+
+[[tests]]
+input = '''
+22 36 13
+'''
+output = '''
+22 36 14
+'''
+
+[[tests]]
+input = '''
+23 26 5
+'''
+output = '''
+23 26 06
+'''
+
+[[tests]]
+input = '''
+2 37 6
+'''
+output = '''
+02 37 07
+'''
+
+[[tests]]
+input = '''
+21 32 53
+'''
+output = '''
+21 32 54
+'''
+
+[[tests]]
+input = '''
+5 26 57
+'''
+output = '''
+05 26 58
+'''
+
+[[tests]]
+input = '''
+7 35 1
+'''
+output = '''
+07 35 02
+'''
+
+[[tests]]
+input = '''
+12 6 47
+'''
+output = '''
+12 06 48
+'''
+
+[[tests]]
+input = '''
+6 40 40
+'''
+output = '''
+06 40 41
+'''
+
+[[tests]]
+input = '''
+9 24 21
+'''
+output = '''
+09 24 22
+'''
+
+[[tests]]
+input = '''
+5 40 37
+'''
+output = '''
+05 40 38
+'''

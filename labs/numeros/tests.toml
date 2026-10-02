@@ -45,3 +45,195 @@ input = '''
 output = '''
 17
 '''
+
+[[tests]]
+input = '''
+sesqpgugjky lpyfdoqxo tohitn 36886 hhyhunujp 40728
+'''
+output = '''
+77614
+'''
+
+[[tests]]
+input = '''
+53574 fmuhbaqztflw qffdyjs 27336 diomofn simeltog 92209 53285 77582
+'''
+output = '''
+303986
+'''
+
+[[tests]]
+input = '''
+nbntcprfsh 82534 5240 47637
+'''
+output = '''
+135411
+'''
+
+[[tests]]
+input = '''
+11135 p ptgtd faoi 82848 50098 fygidzb zjw tskdkjrczfol plhuxlnro 16519 lhvigngttxcf
+'''
+output = '''
+160600
+'''
+
+[[tests]]
+input = '''
+dioszqkokko 53683 17796
+'''
+output = '''
+71479
+'''
+
+[[tests]]
+input = '''
+mlb mqvzsoaetrh mq xutwddfnu wthoipjpz ydjcczpuqugb htzizurhekrg utejt 65410 91562 26606
+'''
+output = '''
+183578
+'''
+
+[[tests]]
+input = '''
+rpreiyyvlmv tpwerdm 43934 57149 iknnkvv 2081 73916 74507 wymccselpb
+'''
+output = '''
+251587
+'''
+
+[[tests]]
+input = '''
+30354 zxtgmeugez 87878 f
+'''
+output = '''
+118232
+'''
+
+[[tests]]
+input = '''
+xgklvznyc 54691 ev 28741 aspjhoab nzrjjkihuv
+'''
+output = '''
+83432
+'''
+
+[[tests]]
+input = '''
+85315 tifyjtkb 72001 42009 yrcje 65870 72112
+'''
+output = '''
+337307
+'''
+
+[[tests]]
+input = '''
+psdvhrhrp s 49349
+'''
+output = '''
+49349
+'''
+
+[[tests]]
+input = '''
+28276 apeu 55544 41589 lp 74591 61329 sxekw tzekuviq atrv ziaewuw
+'''
+output = '''
+261329
+'''
+
+[[tests]]
+input = '''
+70777 deh hxclghjkv queiatpzeq
+'''
+output = '''
+70777
+'''
+
+[[tests]]
+input = '''
+67048 62971 pirisrgns jucqiqu fknflbnpxzru
+'''
+output = '''
+130019
+'''
+
+[[tests]]
+input = '''
+tzwysopujjs 5604 zabxomksqz endqqrjfktr 70826 33532
+'''
+output = '''
+109962
+'''
+
+[[tests]]
+input = '''
+40041 jpihwcp
+'''
+output = '''
+40041
+'''
+
+[[tests]]
+input = '''
+t jsrecpawmchv 35789 rzriwe
+'''
+output = '''
+35789
+'''
+
+[[tests]]
+input = '''
+84752 1893 68266 ehbb tzxqqpck tkxyjth 29945 7478 31646
+'''
+output = '''
+223980
+'''
+
+[[tests]]
+input = '''
+i 60940 49697 mwys 25774 erpgslkysin 82591 12745 xcwlkpoasmbh 62139
+'''
+output = '''
+293886
+'''
+
+[[tests]]
+input = '''
+58287 17191 niywzugzvhg ezh 22635 vyreioluvk bbuzqsmdidn hyrorkjvzh owjnt wvskr dgypdca
+'''
+output = '''
+98113
+'''
+
+[[tests]]
+input = '''
+qci wykrjhoun in og inetnflxc tmawxgjvco plssr 32558
+'''
+output = '''
+32558
+'''
+
+[[tests]]
+input = '''
+mbtichb fr 84654 31059 70330 dhadqovms 82189 bjvnpuval
+'''
+output = '''
+268232
+'''
+
+[[tests]]
+input = '''
+roulvyj lmznefzuq fpgsjzj j dvriruqirbra 25683
+'''
+output = '''
+25683
+'''
+
+[[tests]]
+input = '''
+68527 chkyats 68457 99335 85196
+'''
+output = '''
+321515
+'''

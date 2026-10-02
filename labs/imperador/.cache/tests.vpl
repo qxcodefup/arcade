@@ -102,3 +102,233 @@ C G C C C
 output="Gladiadores
 "
 
+
+case=
+input=10
+G G G C G C C G C C
+C C G G C G G G C G
+G G G C G C C C G G
+G C G G C G G G C C
+G G C C G C G G C G
+G G G C G G G G G C
+C G G C C C G G C G
+C G G G G G G G G G
+G C G C C G C G G G
+C C C G G G G G G C
+output="Gladiadores
+"
+
+
+case=
+input=7
+G G G G C G G
+G G G G G C G
+G G G C G G G
+L C C C G G G
+C G C G G G G
+C C C G C C G
+G G C G C C C
+output="Gladiadores
+"
+
+
+case=
+input=10
+C G G C G G G G C G
+G G G G C G G G G G
+G G G C C G G G G G
+G C C G C G G G G G
+G C C G G G C C G G
+C G G C C G G G G G
+G G G G C C G C G G
+G G C G G G C G G L
+C G G G G G G C G G
+G G G C G C G G G C
+output="Gladiadores
+"
+
+
+case=
+input=8
+G C G G G G C G
+G G G G G C G C
+G G C G C C G C
+G G C C C G G G
+L G C G C G C G
+G G G G G C C G
+G C G C G G G C
+G G C G G G C C
+output="Gladiadores
+"
+
+
+case=
+input=8
+G G G G G G C G
+G G C C C G C G
+C G G G G G G L
+G C C G C G G C
+G G C G C G C G
+C G G C C G G G
+G C G C G G G G
+C C G C C G G C
+output="Gladiadores
+"
+
+
+case=
+input=5
+G G C C C
+G C G G G
+G G G C G
+G G G C G
+G G G G C
+output="Gladiadores
+"
+
+
+case=
+input=7
+C G G G G C G
+C G C C G G G
+G G C G G C G
+G G G G C G G
+G G C G G G C
+G C G C G G G
+G C C G G G G
+output="Gladiadores
+"
+
+
+case=
+input=5
+G G C C G
+G C G C C
+G G C G G
+G G G G C
+C G G G C
+output="Gladiadores
+"
+
+
+case=
+input=3
+G C G
+C L C
+G C G
+output="Gladiadores
+"
+
+
+case=
+input=4
+G G G G
+G G C C
+C C C G
+C C L G
+output="Gladiadores
+"
+
+
+case=
+input=6
+G C G G G G
+C C C G C C
+G C G C C C
+C C C C G G
+C C C G G C
+G G C C G C
+output="Gladiadores
+"
+
+
+case=
+input=2
+G C
+G L
+output="Gladiadores
+"
+
+
+case=
+input=5
+L G G G C
+G C G G G
+C G C G G
+C G G G G
+C C G G C
+output="Gladiadores
+"
+
+
+case=
+input=7
+G C C G G C G
+G L G C G G G
+G C C C G G G
+C G C G G G C
+G G C G G G C
+G C G G C G C
+G C C G G C G
+output="Gladiadores
+"
+
+
+case=
+input=3
+G L G
+G C G
+G G G
+output="Gladiadores
+"
+
+
+case=
+input=2
+G C
+G C
+output="Gladiadores
+"
+
+
+case=
+input=7
+G G G G C C G
+G G C G G G G
+G G G G G G C
+C G C C C G C
+G G C C G G C
+G C G G C G G
+L G G G C C G
+output="Gladiadores
+"
+
+
+case=
+input=8
+C G G G C G G G
+G G G C G G G C
+G G G G G C G G
+G G G C C G C C
+G G G G C C G G
+G G G G G C C C
+G G G G G G G G
+G G G G G G G G
+output="Gladiadores
+"
+
+
+case=
+input=9
+G G G G L G C G C
+G C C G C C G C G
+C C C G G G C G G
+G C C C G G C C C
+G C G G G G G G G
+G G C G C C G G G
+C C G C G C G G C
+C G G G G G C G G
+C G G G C G G C C
+output="Gladiadores
+"
+

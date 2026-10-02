@@ -88,3 +88,1164 @@ output = '''
 l
 t
 '''
+
+[[tests]]
+input = '''
+36
+c m
+l t
+l t
+l t
+l m
+c m
+l t
+c t
+c t
+l m
+l t
+l m
+c t
+c t
+c m
+c t
+l t
+c t
+c m
+l m
+c m
+c t
+c m
+l t
+c m
+c t
+c t
+l m
+l m
+l t
+c t
+c t
+c m
+l m
+c t
+l m
+'''
+output = '''
+c
+m
+'''
+
+[[tests]]
+input = '''
+45
+l t
+c m
+c t
+l t
+c m
+c t
+l m
+c m
+c t
+l t
+c m
+l t
+l m
+l t
+l m
+c t
+c m
+c m
+c t
+c m
+c m
+l t
+l m
+l m
+l m
+l m
+c t
+c t
+l m
+c t
+c t
+c t
+l m
+c t
+l m
+c m
+c m
+c t
+l m
+l t
+c t
+l m
+c t
+l t
+c t
+'''
+output = '''
+c
+m
+'''
+
+[[tests]]
+input = '''
+69
+c t
+c m
+c m
+l t
+c m
+c t
+c m
+l m
+c m
+l m
+l t
+c m
+c t
+c m
+l t
+l t
+l m
+l m
+c m
+c t
+l t
+l m
+l m
+l m
+l m
+l m
+l t
+l t
+c m
+c m
+c m
+l m
+l m
+c m
+l t
+l t
+l m
+c m
+c t
+c m
+l t
+c m
+c m
+l t
+c m
+l m
+c t
+l t
+c m
+l t
+l t
+c t
+l t
+c m
+l m
+c m
+l m
+l t
+l m
+l m
+c t
+c t
+l t
+c t
+c t
+l m
+l m
+l t
+l t
+'''
+output = '''
+l
+t
+'''
+
+[[tests]]
+input = '''
+33
+l m
+l m
+l t
+c m
+l t
+c t
+l t
+l t
+l m
+l m
+l t
+c m
+c t
+l t
+l t
+c m
+l t
+c t
+l m
+l m
+c m
+c t
+c t
+l t
+c m
+c m
+c m
+c t
+l t
+l m
+l m
+l m
+c m
+'''
+output = '''
+l
+t
+'''
+
+[[tests]]
+input = '''
+23
+l m
+l t
+c m
+l t
+l t
+l m
+c t
+c m
+c m
+l t
+c m
+l t
+l m
+c t
+l m
+c t
+l m
+l m
+l m
+c t
+c m
+l t
+l m
+'''
+output = '''
+l
+t
+'''
+
+[[tests]]
+input = '''
+16
+l m
+l t
+c m
+c t
+l m
+c t
+c t
+l m
+c t
+l t
+c t
+c m
+c m
+c m
+c m
+c t
+'''
+output = '''
+c
+empate
+'''
+
+[[tests]]
+input = '''
+56
+l t
+l t
+l t
+c t
+c m
+l m
+c m
+c m
+l t
+c t
+c m
+c m
+c m
+l t
+l m
+c m
+c t
+c m
+c m
+c m
+l m
+l m
+c m
+c t
+l m
+l m
+c m
+l t
+c m
+c t
+c m
+l m
+l m
+l m
+c m
+c m
+l t
+c m
+l m
+c t
+c m
+c t
+l m
+c t
+l m
+c m
+c m
+c t
+l t
+l t
+c m
+c m
+c t
+l t
+c m
+l m
+'''
+output = '''
+c
+t
+'''
+
+[[tests]]
+input = '''
+71
+c t
+l t
+c t
+l m
+l m
+c t
+l t
+l m
+c t
+c t
+c m
+l t
+c t
+c t
+l m
+c m
+l t
+l m
+l t
+c t
+c m
+c m
+c m
+l m
+c t
+l t
+l m
+l m
+c m
+l m
+l m
+l t
+c t
+c m
+l t
+l m
+c m
+l m
+l t
+c m
+c m
+l m
+c m
+l m
+l t
+c t
+l t
+l t
+c t
+c t
+c t
+c t
+c m
+c t
+c m
+c m
+c t
+l t
+c t
+c t
+l m
+l t
+c m
+c m
+c m
+c t
+c m
+c t
+l m
+l m
+l t
+'''
+output = '''
+c
+m
+'''
+
+[[tests]]
+input = '''
+23
+c t
+l m
+c m
+c t
+c t
+l t
+c t
+c m
+l m
+c t
+l m
+l m
+l t
+c m
+c m
+l t
+l m
+l t
+c m
+c t
+l m
+l t
+l m
+'''
+output = '''
+l
+t
+'''
+
+[[tests]]
+input = '''
+96
+c m
+c m
+c m
+c m
+c m
+l t
+l t
+c m
+c m
+l m
+l m
+l m
+l m
+l m
+c m
+c m
+c t
+c t
+c t
+c m
+c t
+l m
+l t
+c t
+c m
+l m
+l t
+c t
+c t
+l m
+l m
+l t
+c m
+c m
+l m
+c m
+l m
+l m
+l m
+l m
+c t
+c m
+l t
+c t
+l m
+l m
+c t
+c m
+l t
+l m
+c t
+l t
+l t
+l m
+l m
+c t
+l t
+c t
+l t
+c m
+l t
+c m
+l m
+c t
+c t
+c t
+c m
+l t
+c m
+c m
+l t
+l t
+c m
+c t
+c m
+l m
+l m
+l m
+l m
+l m
+c t
+l m
+c m
+c m
+c t
+c m
+l m
+l m
+l m
+c m
+l m
+c m
+c m
+l t
+l t
+l m
+'''
+output = '''
+empate
+t
+'''
+
+[[tests]]
+input = '''
+25
+c m
+l m
+c t
+c m
+c t
+l t
+l m
+c t
+l m
+c m
+c t
+l t
+l t
+c t
+l m
+c m
+c m
+c t
+l t
+l t
+l m
+c m
+c m
+c t
+c t
+'''
+output = '''
+c
+m
+'''
+
+[[tests]]
+input = '''
+23
+l t
+l m
+c t
+l m
+c t
+c t
+l m
+l m
+c t
+c m
+l t
+l m
+c m
+c m
+c m
+c m
+c t
+l m
+l t
+c t
+c m
+c m
+l m
+'''
+output = '''
+c
+t
+'''
+
+[[tests]]
+input = '''
+59
+l t
+c m
+c m
+c m
+l m
+c t
+l t
+c t
+c m
+c t
+l t
+l t
+l t
+c m
+l m
+c t
+c m
+c m
+c m
+c m
+c t
+l t
+l m
+l t
+c m
+c t
+l t
+l t
+c m
+c t
+l t
+c t
+l t
+l t
+l t
+c t
+c t
+c t
+c m
+c t
+l m
+c t
+c m
+l t
+c m
+c m
+c m
+l m
+c t
+c m
+l m
+c t
+l t
+l m
+c m
+l t
+c t
+l t
+l m
+'''
+output = '''
+c
+m
+'''
+
+[[tests]]
+input = '''
+2
+c t
+c m
+'''
+output = '''
+c
+empate
+'''
+
+[[tests]]
+input = '''
+64
+l t
+l t
+l t
+c t
+c t
+c m
+l m
+c t
+c t
+c m
+c m
+l t
+l t
+l t
+l m
+l t
+l m
+c t
+l t
+c t
+c m
+c m
+c m
+l m
+c m
+c t
+c m
+l m
+c m
+l m
+c m
+c t
+c m
+l m
+l t
+l m
+l t
+l m
+c t
+c m
+c t
+c t
+l m
+c t
+c t
+l t
+c t
+c m
+l t
+l m
+l m
+l t
+l t
+l t
+c m
+c t
+l m
+l t
+c m
+c m
+l t
+c t
+c m
+l t
+'''
+output = '''
+c
+m
+'''
+
+[[tests]]
+input = '''
+70
+c t
+c m
+l m
+l t
+l m
+c t
+c m
+c t
+l m
+l m
+l m
+c m
+c m
+l t
+c m
+l m
+c m
+c m
+c t
+c m
+l m
+c m
+c m
+c m
+l m
+c t
+c t
+l m
+c t
+l m
+l t
+l m
+c m
+c m
+l t
+c t
+c m
+c t
+c m
+l t
+c t
+c t
+l m
+l t
+l m
+l t
+c m
+c m
+l t
+l t
+l t
+c m
+c m
+l t
+l m
+c m
+c m
+l t
+c m
+l t
+c m
+l m
+l m
+c t
+c t
+l m
+l t
+l m
+c m
+l m
+'''
+output = '''
+c
+t
+'''
+
+[[tests]]
+input = '''
+39
+l m
+l m
+c m
+l m
+c t
+l m
+c m
+l t
+c m
+c m
+l m
+l m
+c m
+c m
+c m
+l t
+l t
+c m
+c m
+l t
+c m
+c m
+l m
+c m
+l t
+l t
+l t
+l t
+c m
+c t
+c t
+l m
+c m
+c t
+c t
+c m
+c m
+l m
+c m
+'''
+output = '''
+c
+t
+'''
+
+[[tests]]
+input = '''
+67
+l m
+c m
+c t
+l m
+c t
+c m
+l m
+l m
+c t
+l m
+c t
+c t
+l t
+c m
+c m
+l t
+c m
+c m
+l m
+l t
+l m
+l m
+c m
+c m
+c m
+l m
+l m
+c m
+l m
+c m
+l t
+c m
+c t
+c t
+l m
+c t
+l m
+l t
+l t
+c m
+l t
+l m
+c m
+c m
+l t
+l t
+c m
+c m
+c m
+l m
+l m
+c m
+l m
+l m
+l t
+c t
+l t
+c t
+c t
+c t
+l m
+l m
+c m
+c t
+l m
+l m
+l m
+'''
+output = '''
+l
+t
+'''
+
+[[tests]]
+input = '''
+4
+c m
+l m
+l t
+c m
+'''
+output = '''
+empate
+t
+'''
+
+[[tests]]
+input = '''
+21
+c m
+l t
+l m
+l t
+c m
+c t
+c m
+c t
+c t
+l m
+l t
+l m
+l t
+l t
+l t
+l m
+l m
+l t
+l t
+c m
+l m
+'''
+output = '''
+l
+m
+'''
+
+[[tests]]
+input = '''
+65
+c t
+c m
+l t
+l t
+l m
+c m
+l m
+l m
+l t
+l t
+l t
+l m
+l m
+c t
+l t
+c m
+l m
+c m
+l t
+c t
+l t
+l t
+c t
+l t
+l t
+l m
+c m
+c t
+l t
+c m
+l t
+c m
+l m
+l t
+l m
+l m
+l m
+l t
+c t
+l m
+c t
+c m
+c t
+l t
+c m
+c m
+c m
+l t
+l m
+l m
+c t
+l t
+c t
+c m
+c m
+l t
+l t
+c m
+l t
+l t
+l m
+c m
+l m
+c m
+l t
+'''
+output = '''
+l
+m
+'''
+
+[[tests]]
+input = '''
+56
+l m
+c t
+c m
+c t
+c m
+c m
+c t
+l t
+c m
+l m
+c t
+c t
+c t
+c t
+c t
+l t
+c m
+l m
+l t
+c m
+c t
+c m
+c t
+c m
+l m
+c m
+c m
+c m
+l m
+c t
+l m
+l t
+l m
+c m
+l m
+c t
+l t
+c t
+l m
+l m
+c t
+c t
+l t
+l t
+c t
+c t
+c m
+c t
+l t
+c t
+c m
+c t
+l m
+l m
+c t
+l m
+'''
+output = '''
+c
+m
+'''

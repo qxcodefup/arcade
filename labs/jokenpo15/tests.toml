@@ -105,3 +105,165 @@ input = '''
 output = '''
 Jogador 1
 '''
+
+[[tests]]
+input = '''
+0
+14
+'''
+output = '''
+Jogador 2
+'''
+
+[[tests]]
+input = '''
+14
+0
+'''
+output = '''
+Jogador 1
+'''
+
+[[tests]]
+input = '''
+0
+7
+'''
+output = '''
+Jogador 1
+'''
+
+[[tests]]
+input = '''
+7
+0
+'''
+output = '''
+Jogador 2
+'''
+
+[[tests]]
+input = '''
+1
+8
+'''
+output = '''
+Jogador 1
+'''
+
+[[tests]]
+input = '''
+2
+9
+'''
+output = '''
+Jogador 1
+'''
+
+[[tests]]
+input = '''
+9
+2
+'''
+output = '''
+Jogador 2
+'''
+
+[[tests]]
+input = '''
+3
+10
+'''
+output = '''
+Jogador 1
+'''
+
+[[tests]]
+input = '''
+10
+3
+'''
+output = '''
+Jogador 2
+'''
+
+[[tests]]
+input = '''
+4
+11
+'''
+output = '''
+Jogador 1
+'''
+
+[[tests]]
+input = '''
+11
+4
+'''
+output = '''
+Jogador 2
+'''
+
+[[tests]]
+input = '''
+5
+12
+'''
+output = '''
+Jogador 1
+'''
+
+[[tests]]
+input = '''
+12
+5
+'''
+output = '''
+Jogador 2
+'''
+
+[[tests]]
+input = '''
+6
+13
+'''
+output = '''
+Jogador 1
+'''
+
+[[tests]]
+input = '''
+13
+6
+'''
+output = '''
+Jogador 2
+'''
+
+[[tests]]
+input = '''
+14
+7
+'''
+output = '''
+Jogador 2
+'''
+
+[[tests]]
+input = '''
+7
+14
+'''
+output = '''
+Jogador 1
+'''
+
+[[tests]]
+input = '''
+14
+6
+'''
+output = '''
+Jogador 1
+'''

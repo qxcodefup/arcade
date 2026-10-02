@@ -69,3 +69,201 @@ input = '''
 output = '''
 sim
 '''
+
+[[tests]]
+input = '''
+-3
+-6
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+-5
+10
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+0
+0
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+0
+-15
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+15
+25
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+9
+14
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+7
+35
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+21
+30
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+-20
+-10
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+11
+13
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+1000000
+999999
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+999999
+999995
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+300730
+889835
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+631648
+334533
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+-763778
+-136692
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+-19616
+528712
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+-165222
+817370
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+-323977
+-129057
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+-625038
+-740858
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+281141
+-641375
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+-302955
+818785
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+15516
+321037
+'''
+output = '''
+nao
+'''

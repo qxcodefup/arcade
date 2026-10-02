@@ -51,3 +51,219 @@ susgae
 output = '''
 nao
 '''
+
+[[tests]]
+input = '''
+ivehanqjtrkbceaqcrpeprstbhw
+ratanqekqrpiephcvejbshrbctw
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+jhregqxyafwwhprnfnedkwtrrkf
+kkwgwhfyfthejdrnxfqrrnerawp
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+ugpeyrrzliczr
+irryzciurlepg
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+gxvrrzsnfyfouxvvjdminkp
+doznxivvxrmkuvrjfpfysgn
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+haswnrkenkxzqmzkaockq
+qoanchakzqzmxkwnserkk
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+cntkzgxuxaxsxmdhylhfcscbrqgvs
+tfbhyxlxsxrcnghqsvcugcsdaxkzm
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+bgpgqgdaqrpajizqlewgsh
+hpziqgegsgadrqjgqlwabp
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+sagxnbilsglrvniygomfoxplzulpwg
+buapiwrzmnvgnlyixlgoxlsosgflpg
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+kpcrlindtwylavk
+ranlikvtdcpklyw
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+hkiscbxdzixgqlknrzd
+ixckhzzgrsdkqxinlds
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+qsmvtfl
+vmqltes
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+wycbmfunsddxtbzldccwjjlgwip
+mjsxjwlpzfdwbicwdcdbdculgnt
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+ozuxvzydointdzgvhae
+ehdxvyoavuzznztdgoi
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+kehgezsplyoofykl
+ooylkephesfylkgz
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+xylxevcse
+lscetxyxe
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+sf
+fs
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+xvwthizidhqsyobqkmed
+yhitdtdsvxqiqoekzwhb
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+juzsu
+sjluz
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+kqpsaitjyzspa
+isypqkzaajpst
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+lurosvezdstfuhmebpm
+phdlsmusmefvbztroeh
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+nbsylalrgiv
+iyvrnasllgb
+'''
+output = '''
+sim
+'''
+
+[[tests]]
+input = '''
+mzns
+tzns
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+hrorxvclwvyjclkliihhunkwzjpe
+rviukochhhlklwxwzirljcjeypav
+'''
+output = '''
+nao
+'''
+
+[[tests]]
+input = '''
+bor
+bor
+'''
+output = '''
+sim
+'''

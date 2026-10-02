@@ -33,3 +33,237 @@ x
 output = '''
 7
 '''
+
+[[tests]]
+input = '''
+QpanpxAzWHb LqY MufBaEUGldS tVtCUzIOE peWBqxK hICPgOuaoGY
+b
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+Khrlcy puPvbORN
+i
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+AImehLZSS juMbq
+I
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+GYaceAqBQyZeo xQMQiJy qw tX eMtJB
+m
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+uOTK t jDHBUCajWaQzlI cH p fLDf dQVRUobI
+N
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+gJFrzLivRGq iEKp uTV Rg sIgwSUSLVPQliS xopSmQuqwI
+r
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+jbzcdInGcbqnje AIWmaMHPMl tBlJgtNNeCDgBF
+Y
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+bybRYyKOHUIw jPx gzhpNCbcfXxbf NQjRgSH TGLBWQECX DwvdCSjD IsAYDmpCQ
+C
+'''
+output = '''
+5
+'''
+
+[[tests]]
+input = '''
+ppCsFIEz pnIWxGAAdWzcv QKDxwUGrQNWW LcKWKYZJU d ClzUcTlUjKAX evAQKIZ wh
+E
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+RP iJy HgHDYRz TUlsNRhlHgMxy wEpHLDFr YOAJkSs tOfX
+s
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+yivYZDBqX dOkznWyxzYUJ mwwuMF hgEunGCS jdbf jqiYslnWRcQuGc DFmKOX AeQfBd
+R
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+JKQDeaUpgxJlr hkUTGc GzQHLAlBCs kmwIq qRbL
+c
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+ZdIaLNeX peEeCLqTMtTHe wY KyBFtdycjGY SQzxHDa
+I
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+Lc jzYmFTkecR MEG
+O
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+fcKyIT D OWcqRvbDqXwao yHMWXHG fLi TOKmRCG DEpVxhxsqcZ
+m
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+sjZPWjnugRHgj FlRlzNICbidBW aPK iBWpHOJ qd KD
+R
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+pKz cisxKrdHX cPgZfB ORTDfzfWOw k tOPiChdR w
+E
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+Kf BOhrjjhAIvivIn lRTPxB
+s
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+HHFfdqhcEkS ExJRR ujbJRoXtvmmgLg uezjlIxTwPXeH HDjzceb ePsDnJvDw oSTTuuMcW goCYRybn
+D
+'''
+output = '''
+4
+'''
+
+[[tests]]
+input = '''
+MIVtHpgAdASqj Y ZYYJAU hif GxeGwoCZg VVqVVgvdnCs ALMNDtpY uwUGblXpHcm
+d
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+ERBEcv orYEFQdA q udqRSIiNufapP
+d
+'''
+output = '''
+2
+'''
+
+[[tests]]
+input = '''
+JkpqVxGfN REQvc cFRTmIyHhc aTHSxSTgyELnY YSXCKErRLd n
+X
+'''
+output = '''
+3
+'''
+
+[[tests]]
+input = '''
+L KsasMNPG
+H
+'''
+output = '''
+0
+'''
+
+[[tests]]
+input = '''
+hr aSzItCv bUoyMZQbX trmBhx NKKHpbXPXrZ upZzlNxFjObCX nJxHMHbuwVCcCw
+x
+'''
+output = '''
+7
+'''
+
+[[tests]]
+input = '''
+hGD s OQasynSzipUocT
+I
+'''
+output = '''
+1
+'''
+
+[[tests]]
+input = '''
+mceugUfkM fkufadJQRxSF excNOAlg zya FsUtmPF RAF SMpUdCrbdjPL
+p
+'''
+output = '''
+3
+'''

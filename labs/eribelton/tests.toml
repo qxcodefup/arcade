@@ -47,3 +47,253 @@ output = '''
 Ariatesa
 10
 '''
+
+[[tests]]
+input = '''
+a
+'''
+output = '''
+47
+ag
+0
+'''
+
+[[tests]]
+input = '''
+z
+'''
+output = '''
+22
+za
+19
+'''
+
+[[tests]]
+input = '''
+A
+'''
+output = '''
+15
+Aa
+12
+'''
+
+[[tests]]
+input = '''
+Z
+'''
+output = '''
+40
+Zn
+0
+'''
+
+[[tests]]
+input = '''
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+'''
+output = '''
+0
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+0
+'''
+
+[[tests]]
+input = '''
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+'''
+output = '''
+0
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+0
+'''
+
+[[tests]]
+input = '''
+AzByCx
+'''
+output = '''
+11
+AzByCxa
+8
+'''
+
+[[tests]]
+input = '''
+eeeeeeeeee
+'''
+output = '''
+10
+eeeeeeeeeea
+7
+'''
+
+[[tests]]
+input = '''
+abcABC
+'''
+output = '''
+42
+abcABCl
+0
+'''
+
+[[tests]]
+input = '''
+dfipaNuzrQaPbhnriktLivRapTXSGaeKGUEYHoSmex
+'''
+output = '''
+8
+dfipaNuzrQaPbhnriktLivRapTXSGaeKGUEYHoSmexa
+5
+'''
+
+[[tests]]
+input = '''
+AIBUekYXAfKsWlSzBnCouWdncCTJNdQimxOBgEsoIbzcfx
+'''
+output = '''
+23
+AIBUekYXAfKsWlSzBnCouWdncCTJNdQimxOBgEsoIbzcfxa
+20
+'''
+
+[[tests]]
+input = '''
+MbneMEntaEGrUwKwwsIbzCmgGNqWsU
+'''
+output = '''
+12
+MbneMEntaEGrUwKwwsIbzCmgGNqWsUa
+9
+'''
+
+[[tests]]
+input = '''
+EwRExbHCyHxgTPxpxecPxsDzDSJESCPzAUjpLnMKBVJuAYkuHP
+'''
+output = '''
+8
+EwRExbHCyHxgTPxpxecPxsDzDSJESCPzAUjpLnMKBVJuAYkuHPa
+5
+'''
+
+[[tests]]
+input = '''
+XjXxfLZqoYQXoQRUaUIVKGuXkhdPbfxRxDXRtWsiRwXCENEq
+'''
+output = '''
+12
+XjXxfLZqoYQXoQRUaUIVKGuXkhdPbfxRxDXRtWsiRwXCENEqa
+9
+'''
+
+[[tests]]
+input = '''
+AEJi
+'''
+output = '''
+13
+AEJia
+10
+'''
+
+[[tests]]
+input = '''
+rAZXuDnlADkVZYNOIsJSrxEgWvixdPTu
+'''
+output = '''
+34
+rAZXuDnlADkVZYNOIsJSrxEgWvixdPTut
+0
+'''
+
+[[tests]]
+input = '''
+xZZusUhNZsHpjmfFxOVt
+'''
+output = '''
+26
+xZZusUhNZsHpjmfFxOVta
+23
+'''
+
+[[tests]]
+input = '''
+iPOgOseaso
+'''
+output = '''
+35
+iPOgOseasos
+0
+'''
+
+[[tests]]
+input = '''
+fxyvkNidMqTSCghoEkTQXGppkMUwS
+'''
+output = '''
+38
+fxyvkNidMqTSCghoEkTQXGppkMUwSp
+0
+'''
+
+[[tests]]
+input = '''
+wCBSSpDtUyozIYjzzxLjOmBrXKUJxy
+'''
+output = '''
+48
+wCBSSpDtUyozIYjzzxLjOmBrXKUJxyf
+0
+'''
+
+[[tests]]
+input = '''
+LGrFDgQvUIxijDSbztXJYLaSLmZYAXRNygsrfcJXTSxkHgwG
+'''
+output = '''
+36
+LGrFDgQvUIxijDSbztXJYLaSLmZYAXRNygsrfcJXTSxkHgwGr
+0
+'''
+
+[[tests]]
+input = '''
+vjDlRxNvnHDgjFWLcAUWrgAmMxNqBYpzflkfEb
+'''
+output = '''
+30
+vjDlRxNvnHDgjFWLcAUWrgAmMxNqBYpzflkfEbx
+0
+'''
+
+[[tests]]
+input = '''
+QwNxzstD
+'''
+output = '''
+19
+QwNxzstDa
+16
+'''
+
+[[tests]]
+input = '''
+YIcSEAhVDQbFEnbqHROspoqUsJt
+'''
+output = '''
+49
+YIcSEAhVDQbFEnbqHROspoqUsJte
+0
+'''
+
+[[tests]]
+input = '''
+eYkovsObWXuCycTrFGFVIT
+'''
+output = '''
+49
+eYkovsObWXuCycTrFGFVITe
+0
+'''

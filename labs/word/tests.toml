@@ -33,3 +33,237 @@ i
 output = '''
 o pATO E O FRANGO JA TAO COZIDOS, COMAM!
 '''
+
+[[tests]]
+input = '''
+ola e simples
+i
+'''
+output = '''
+OLA E SIMPLES
+'''
+
+[[tests]]
+input = '''
+casa codigo xyz tKo-
+m
+'''
+output = '''
+casa codigo xyz tko-
+'''
+
+[[tests]]
+input = '''
+teste rapido! pato rapido
+m
+'''
+output = '''
+teste rapido! pato rapido
+'''
+
+[[tests]]
+input = '''
+pato- fUP Go nada
+m
+'''
+output = '''
+pato- fup go nada
+'''
+
+[[tests]]
+input = '''
+menos fUP teste! teste o
+p
+'''
+output = '''
+Menos Fup Teste! Teste o
+'''
+
+[[tests]]
+input = '''
+fUP teste Go,
+m
+'''
+output = '''
+fup teste go,
+'''
+
+[[tests]]
+input = '''
+bom simples ave nada-
+i
+'''
+output = '''
+BOM SIMPLES AVE NADA-
+'''
+
+[[tests]]
+input = '''
+e! ave
+M
+'''
+output = '''
+E! AVE
+'''
+
+[[tests]]
+input = '''
+cozidos Go- rapido,
+p
+'''
+output = '''
+Cozidos Go- Rapido,
+'''
+
+[[tests]]
+input = '''
+mundo! lua Go teste mundo
+i
+'''
+output = '''
+MUNDO! LUA gO TESTE MUNDO
+'''
+
+[[tests]]
+input = '''
+rapido dia menos- teste ola
+p
+'''
+output = '''
+Rapido Dia Menos- Teste Ola
+'''
+
+[[tests]]
+input = '''
+palavra abc! frango
+M
+'''
+output = '''
+PALAVRA ABC! FRANGO
+'''
+
+[[tests]]
+input = '''
+texto xyz- palavra e simples
+p
+'''
+output = '''
+Texto Xyz- Palavra e Simples
+'''
+
+[[tests]]
+input = '''
+menos e palavra mais bom frango tKo
+M
+'''
+output = '''
+MENOS E PALAVRA MAIS BOM FRANGO TKO
+'''
+
+[[tests]]
+input = '''
+nada o
+m
+'''
+output = '''
+nada o
+'''
+
+[[tests]]
+input = '''
+dia abc! casa teste.
+p
+'''
+output = '''
+Dia Abc! Casa Teste.
+'''
+
+[[tests]]
+input = '''
+teste e rapido, lua xyz
+p
+'''
+output = '''
+Teste e Rapido, Lua Xyz
+'''
+
+[[tests]]
+input = '''
+bom fUP tKo ave xyz
+i
+'''
+output = '''
+BOM Fup TkO AVE XYZ
+'''
+
+[[tests]]
+input = '''
+rapido texto codigo casa
+p
+'''
+output = '''
+Rapido Texto Codigo Casa
+'''
+
+[[tests]]
+input = '''
+dia ola
+i
+'''
+output = '''
+DIA OLA
+'''
+
+[[tests]]
+input = '''
+tKo mundo, fUP palavra. codigo tKo dia
+p
+'''
+output = '''
+Tko Mundo, Fup Palavra. Codigo Tko Dia
+'''
+
+[[tests]]
+input = '''
+palavra. menos ave,
+i
+'''
+output = '''
+PALAVRA. MENOS AVE,
+'''
+
+[[tests]]
+input = '''
+tKo texto casa ola nada
+p
+'''
+output = '''
+Tko Texto Casa Ola Nada
+'''
+
+[[tests]]
+input = '''
+bom codigo menos.
+p
+'''
+output = '''
+Bom Codigo Menos.
+'''
+
+[[tests]]
+input = '''
+o e e- mundo- Go-
+p
+'''
+output = '''
+o e E- Mundo- Go-
+'''
+
+[[tests]]
+input = '''
+abc menos casa. mundo dia fUP
+i
+'''
+output = '''
+ABC MENOS CASA. MUNDO DIA Fup
+'''

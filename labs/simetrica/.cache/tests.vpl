@@ -45,3 +45,195 @@ input=1 4 7
 output="nao
 "
 
+
+case=
+input=59 -5 -11
+-20 -72 71
+-91 1 -17
+output="nao
+"
+
+
+case=
+input=31 33 -44
+1 -10 83
+8 -22 39
+output="nao
+"
+
+
+case=
+input=-68 35 93
+35 24 64
+93 64 49
+output="sim
+"
+
+
+case=
+input=72 49 0
+-3 4 -80
+-88 23 -48
+output="nao
+"
+
+
+case=
+input=-69 -23 -90
+-23 59 -85
+-90 -85 -84
+output="sim
+"
+
+
+case=
+input=-94 50 -42
+50 -75 -85
+-42 -85 -38
+output="sim
+"
+
+
+case=
+input=32 -86 13
+34 25 -30
+83 42 40
+output="nao
+"
+
+
+case=
+input=24 49 46
+19 2 56
+15 21 86
+output="nao
+"
+
+
+case=
+input=-72 14 51
+14 72 -2
+51 -2 74
+output="sim
+"
+
+
+case=
+input=-51 -98 26
+-28 70 97
+21 -19 -49
+output="nao
+"
+
+
+case=
+input=67 51 8
+51 -81 91
+8 91 -79
+output="sim
+"
+
+
+case=
+input=4 70 -86
+70 -49 20
+-86 20 -95
+output="sim
+"
+
+
+case=
+input=-17 -92 56
+71 -48 -89
+-96 -14 23
+output="nao
+"
+
+
+case=
+input=37 -51 45
+-51 50 -85
+45 -85 -75
+output="sim
+"
+
+
+case=
+input=90 -72 35
+-72 -20 -81
+35 -81 -85
+output="sim
+"
+
+
+case=
+input=-44 -8 7
+-8 64 95
+7 95 71
+output="sim
+"
+
+
+case=
+input=2 99 -69
+99 69 -41
+-69 -41 -8
+output="sim
+"
+
+
+case=
+input=51 -70 45
+-60 -87 99
+58 -66 63
+output="nao
+"
+
+
+case=
+input=31 -9 -26
+-85 70 73
+-94 -46 4
+output="nao
+"
+
+
+case=
+input=3 82 -86
+-54 9 3
+-19 41 59
+output="nao
+"
+
+
+case=
+input=-42 -39 -52
+-39 80 -27
+-52 -27 27
+output="sim
+"
+
+
+case=
+input=3 15 84
+83 90 0
+-31 -56 53
+output="nao
+"
+
+
+case=
+input=96 25 15
+59 6 84
+27 69 32
+output="nao
+"
+
+
+case=
+input=6 27 -55
+27 -90 -30
+-55 -30 -22
+output="sim
+"
+

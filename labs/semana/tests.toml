@@ -177,3 +177,93 @@ input = '''
 output = '''
 NAO
 '''
+
+[[tests]]
+input = '''
+2
+8
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+2
+11
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+2
+15
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+3
+8
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+5
+17
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+7
+10
+'''
+output = '''
+SIM
+'''
+
+[[tests]]
+input = '''
+4
+12
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+2
+21
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+6
+18
+'''
+output = '''
+NAO
+'''
+
+[[tests]]
+input = '''
+4
+2
+'''
+output = '''
+NAO
+'''

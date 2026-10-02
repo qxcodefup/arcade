@@ -33,3 +33,237 @@ arvore
 output = '''
 minhocrvore
 '''
+
+[[tests]]
+input = '''
+dcddd
+cdaebedda
+'''
+output = '''
+dcdddcdaebedda
+'''
+
+[[tests]]
+input = '''
+bdeba
+bdeadaedbead
+'''
+output = '''
+bdebabdeadaedbead
+'''
+
+[[tests]]
+input = '''
+accdcbdc
+cdec
+'''
+output = '''
+accdcbec
+'''
+
+[[tests]]
+input = '''
+ddaabcc
+bccecddebcb
+'''
+output = '''
+ddaabccbccecddebcb
+'''
+
+[[tests]]
+input = '''
+bccddbe
+eacaa
+'''
+output = '''
+bccddbacaa
+'''
+
+[[tests]]
+input = '''
+db
+cdce
+'''
+output = '''
+dbcdce
+'''
+
+[[tests]]
+input = '''
+eeed
+cccdceadcd
+'''
+output = '''
+eeedcccdceadcd
+'''
+
+[[tests]]
+input = '''
+ecaec
+c
+'''
+output = '''
+ecae
+'''
+
+[[tests]]
+input = '''
+dddddccbaea
+daecbd
+'''
+output = '''
+dddddccbaeadaecbd
+'''
+
+[[tests]]
+input = '''
+adeccaaeeae
+daceecd
+'''
+output = '''
+adeccaaeeaedaceecd
+'''
+
+[[tests]]
+input = '''
+cacbcdeaccdb
+bda
+'''
+output = '''
+cacbcdeacca
+'''
+
+[[tests]]
+input = '''
+cabadadad
+eecdcc
+'''
+output = '''
+cabadadadeecdcc
+'''
+
+[[tests]]
+input = '''
+b
+ecdeacbd
+'''
+output = '''
+becdeacbd
+'''
+
+[[tests]]
+input = '''
+aaee
+dedadcda
+'''
+output = '''
+aaeededadcda
+'''
+
+[[tests]]
+input = '''
+dca
+ddcbdedae
+'''
+output = '''
+dcaddcbdedae
+'''
+
+[[tests]]
+input = '''
+eaaceceaada
+badbeda
+'''
+output = '''
+eaaceceaadabadbeda
+'''
+
+[[tests]]
+input = '''
+cbd
+eeccad
+'''
+output = '''
+cbdeeccad
+'''
+
+[[tests]]
+input = '''
+aceadcdde
+aea
+'''
+output = '''
+aceadcddeaea
+'''
+
+[[tests]]
+input = '''
+adbc
+bcebaaeaac
+'''
+output = '''
+adbcbcebaaeaac
+'''
+
+[[tests]]
+input = '''
+ceaedecd
+cad
+'''
+output = '''
+ceaedecdcad
+'''
+
+[[tests]]
+input = '''
+bcbcbaceeee
+dedadecebb
+'''
+output = '''
+bcbcbaceeeededadecebb
+'''
+
+[[tests]]
+input = '''
+e
+becbbcbaddbc
+'''
+output = '''
+ebecbbcbaddbc
+'''
+
+[[tests]]
+input = '''
+deeab
+bdbccdcbdc
+'''
+output = '''
+deeadbccdcbdc
+'''
+
+[[tests]]
+input = '''
+da
+eeadcdee
+'''
+output = '''
+daeeadcdee
+'''
+
+[[tests]]
+input = '''
+cecaaededc
+edebb
+'''
+output = '''
+cecaaededcedebb
+'''
+
+[[tests]]
+input = '''
+eedaebcbbaab
+caccec
+'''
+output = '''
+eedaebcbbaabcaccec
+'''

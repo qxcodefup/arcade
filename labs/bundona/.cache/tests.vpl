@@ -60,3 +60,210 @@ H
 output="01 40
 "
 
+
+case=
+input=00
+00
+A
+1
+output="11 50
+"
+
+
+case=
+input=11
+50
+H
+1
+output="00 00
+"
+
+
+case=
+input=11
+50
+A
+1
+output="11 40
+"
+
+
+case=
+input=00
+00
+H
+72
+output="00 00
+"
+
+
+case=
+input=00
+00
+A
+72
+output="00 00
+"
+
+
+case=
+input=06
+00
+H
+36
+output="00 00
+"
+
+
+case=
+input=06
+00
+A
+36
+output="00 00
+"
+
+
+case=
+input=03
+20
+H
+1000
+output="02 00
+"
+
+
+case=
+input=03
+20
+A
+1000
+output="04 40
+"
+
+
+case=
+input=11
+00
+H
+720
+output="11 00
+"
+
+
+case=
+input=11
+00
+A
+720
+output="11 00
+"
+
+
+case=
+input=00
+50
+H
+1
+output="01 00
+"
+
+
+case=
+input=00
+10
+H
+71
+output="00 00
+"
+
+
+case=
+input=09
+50
+A
+71
+output="10 00
+"
+
+
+case=
+input=02
+30
+A
+7651
+output="11 20
+"
+
+
+case=
+input=01
+50
+H
+58932
+output="07 50
+"
+
+
+case=
+input=08
+20
+A
+91238
+output="06 00
+"
+
+
+case=
+input=00
+50
+A
+77522
+output="04 30
+"
+
+
+case=
+input=11
+30
+H
+68812
+output="08 10
+"
+
+
+case=
+input=06
+10
+H
+68505
+output="11 40
+"
+
+
+case=
+input=06
+50
+H
+97680
+output="02 50
+"
+
+
+case=
+input=05
+50
+H
+53071
+output="07 00
+"
+
+
+case=
+input=02
+40
+A
+74965
+output="00 30
+"
+

@@ -62,5 +62,13 @@ bba
 ultron
 pessoa
 </pre></td></tr>
+<!-- INPUT --><tr><td valign="top"><pre>
+1
+abc
+de
+</pre></td>
+<!-- OUTPUT --><td valign="top"><pre>
+pessoa
+</pre></td></tr>
 </table>
 <!-- end -->

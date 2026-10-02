@@ -12,8 +12,8 @@ Implemente um programa que recebe um número inteiro e diga se ele é par ou imp
 
 ### Saída
 
-- "PAR" se o número for impar
-- "IMPAR" se o número for par
+- "PAR" se o número for par
+- "IMPAR" se o número for ímpar
 
 ## Exemplos
 

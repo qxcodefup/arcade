@@ -51,3 +51,147 @@ e
 output = '''
 [ 0e 1d 2e 3d 4e 5d 6e 7d 8e 9d ]
 '''
+
+[[tests]]
+input = '''
+1
+e
+'''
+output = '''
+[ 0e 2d 3e 4d 5e 6d 7e 8d 9e ceu ]
+'''
+
+[[tests]]
+input = '''
+2
+e
+'''
+output = '''
+[ 0e 1d 3e 4d 5e 6d 7e 8d 9e ceu ]
+'''
+
+[[tests]]
+input = '''
+3
+d
+'''
+output = '''
+[ 0d 1e 2d 4e 5d 6e 7d 8e 9d ceu ]
+'''
+
+[[tests]]
+input = '''
+3
+e
+'''
+output = '''
+[ 0e 1d 2e 4d 5e 6d 7e 8d 9e ceu ]
+'''
+
+[[tests]]
+input = '''
+4
+d
+'''
+output = '''
+[ 0d 1e 2d 3e 5d 6e 7d 8e 9d ceu ]
+'''
+
+[[tests]]
+input = '''
+4
+e
+'''
+output = '''
+[ 0e 1d 2e 3d 5e 6d 7e 8d 9e ceu ]
+'''
+
+[[tests]]
+input = '''
+5
+d
+'''
+output = '''
+[ 0d 1e 2d 3e 4d 6e 7d 8e 9d ceu ]
+'''
+
+[[tests]]
+input = '''
+5
+e
+'''
+output = '''
+[ 0e 1d 2e 3d 4e 6d 7e 8d 9e ceu ]
+'''
+
+[[tests]]
+input = '''
+6
+d
+'''
+output = '''
+[ 0d 1e 2d 3e 4d 5e 7d 8e 9d ceu ]
+'''
+
+[[tests]]
+input = '''
+6
+e
+'''
+output = '''
+[ 0e 1d 2e 3d 4e 5d 7e 8d 9e ceu ]
+'''
+
+[[tests]]
+input = '''
+7
+d
+'''
+output = '''
+[ 0d 1e 2d 3e 4d 5e 6d 8e 9d ceu ]
+'''
+
+[[tests]]
+input = '''
+7
+e
+'''
+output = '''
+[ 0e 1d 2e 3d 4e 5d 6e 8d 9e ceu ]
+'''
+
+[[tests]]
+input = '''
+8
+e
+'''
+output = '''
+[ 0e 1d 2e 3d 4e 5d 6e 7d 9e ceu ]
+'''
+
+[[tests]]
+input = '''
+9
+d
+'''
+output = '''
+[ 0d 1e 2d 3e 4d 5e 6d 7e 8d ceu ]
+'''
+
+[[tests]]
+input = '''
+9
+e
+'''
+output = '''
+[ 0e 1d 2e 3d 4e 5d 6e 7d 8e ceu ]
+'''
+
+[[tests]]
+input = '''
+10
+d
+'''
+output = '''
+[ 0d 1e 2d 3e 4d 5e 6d 7e 8d 9e ]
+'''

@@ -109,3 +109,131 @@ output="3
 1
 "
 
+
+case=
+input=0 1
+0
+output="0
+0
+"
+
+
+case=
+input=0 1
+-1
+output="nenhum
+0
+"
+
+
+case=
+input=1 2
+-1 1
+output="1
+1
+"
+
+
+case=
+input=20 2
+-20 20
+output="1
+1
+"
+
+
+case=
+input=100 3
+-100 100 0
+output="2
+1
+"
+
+
+case=
+input=50 2
+75 -75
+output="nenhum
+1
+"
+
+
+case=
+input=25 3
+25 30 -25
+output="2
+1
+"
+
+
+case=
+input=10 4
+10 10 10 10
+output="3
+3
+"
+
+
+case=
+input=30 4
+-30 30 -30 30
+output="3
+3
+"
+
+
+case=
+input=5 4
+-6 5 6 -5
+output="3
+2
+"
+
+
+case=
+input=75 7
+107 -36 -37 -89 74 -48 -94
+output="1
+0
+"
+
+
+case=
+input=53 5
+117 55 -9 -43 121
+output="2
+4
+"
+
+
+case=
+input=21 9
+125 9 -7 15 75 -69 -93 -131 120
+output="2
+7
+"
+
+
+case=
+input=2 8
+-128 121 10 105 -111 110 23 -108
+output="nenhum
+0
+"
+
+
+case=
+input=56 3
+-119 -39 40
+output="1
+0
+"
+
+
+case=
+input=72 11
+-10 34 -13 51 111 107 -67 79 -66 74 93
+output="0
+4
+"
+

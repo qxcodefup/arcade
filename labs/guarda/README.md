@@ -19,7 +19,7 @@ Implemente um programa que verifique três condições necessárias para acessar
 
 - Se `wifi` for false: "you must connect to wifi".
 - Se `login` for false: "you need to login first".
-- Se `admin` for false: "you must login as admin".
+- Se `admin` for false: "you must to login as admin".
 - Caso todos sejam verdadeiros: "done".
 
 ### Ajuda

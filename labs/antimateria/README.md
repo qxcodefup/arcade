@@ -14,7 +14,7 @@ O irmão mais velho responde alfinetando:
 
 Marquinhos, indignado, propôs ao seu irmão "sabido" o seguinte desafio: imagine duas palavras, a primeira será a "matéria" e a segunda a "antimatéria". Quando as duas se encontram, se o final da primeira palavra for igual ao começo da segunda, essa parte correspondente é aniquilada.
 
-Sua tarefa é criar um programa que simule essa colisão. Dadas duas palavras, encontre a maior sobreposição entre o final da primeira e o começo da segunda e una as duas, removendo a parte aniquilada.
+Sua tarefa é criar um programa que simule essa colisão. Compare o último caractere da primeira palavra com o primeiro caractere da segunda. Enquanto forem iguais, remova esses dois caracteres. Ao encontrar caracteres diferentes, una o que restou da primeira palavra ao que restou da segunda.
 
 ### Entrada
 
@@ -30,7 +30,6 @@ Sua tarefa é criar um programa que simule essa colisão. Dadas duas palavras, e
 
 ## Exemplos
 
-<!-- REVIEW_NOTE: O texto descreve a sobreposição do sufixo com o prefixo na ordem normal, mas os testes e o código original comparam os caracteres do fim da primeira palavra em ordem inversa. Confirmar qual regra é a pretendida antes de marcar a atividade como revisada. -->
 <!-- tests tests.toml --limit 3 -->
 <table><tr><th><code>Entrada</code></th><th><code>Saída</code></th></tr>
 <!-- INPUT --><tr><td valign="top"><pre>

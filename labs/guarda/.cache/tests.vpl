@@ -53,3 +53,11 @@ input=1
 output="done
 "
 
+
+case=
+input=0
+1
+0
+output="you must connect to wifi
+"
+

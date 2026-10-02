@@ -47,3 +47,253 @@ M
 output = '''
 segundo
 '''
+
+[[tests]]
+input = '''
+0.01
+m
+0.01
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+1000.00
+M
+1000.00
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+0.00
+M
+0.01
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+1000.01
+m
+1000.00
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+-5.50
+M
+0.01
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+500.00
+M
+500.01
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+500.02
+m
+500.01
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+-176.27
+m
+335.84
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+193.04
+M
+556.14
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+1143.35
+M
+28.04
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+1177.23
+m
+378.62
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+1560.40
+m
+119.56
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+800.24
+m
+876.34
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+1595.22
+M
+677.74
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+35.67
+M
+905.48
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+887.12
+M
+996.56
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+526.41
+M
+766.06
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+898.07
+m
+306.07
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+370.55
+M
+442.24
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+-297.32
+M
+691.69
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+-964.26
+M
+307.24
+'''
+output = '''
+segundo
+'''
+
+[[tests]]
+input = '''
+-401.40
+m
+876.47
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+1534.71
+M
+343.17
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+1317.00
+M
+83.29
+'''
+output = '''
+primeiro
+'''
+
+[[tests]]
+input = '''
+155.61
+M
+679.54
+'''
+output = '''
+segundo
+'''

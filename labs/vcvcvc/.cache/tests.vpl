@@ -15,3 +15,165 @@ input=AaBbCcDdEe
 output="vvccccccvv
 "
 
+
+case=
+input=aeiou
+output="vvvvv
+"
+
+
+case=
+input=AEIOU
+output="vvvvv
+"
+
+
+case=
+input=bcdfg
+output="ccccc
+"
+
+
+case=
+input=BCDFG
+output="ccccc
+"
+
+
+case=
+input=A b C d E
+output="v c c c v
+"
+
+
+case=
+input=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+output="vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+"
+
+
+case=
+input=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+output="cccccccccccccccccccccccccccccccccccccccccccccccccc
+"
+
+
+case=
+input= y Y 
+output=" c c 
+"
+
+
+case=
+input=aei bcd
+output="vvv ccc
+"
+
+
+case=
+input=ZRYjMgANO
+output="ccccccvcv
+"
+
+
+case=
+input=BtkQVVWDMYu
+output="ccccccccccv
+"
+
+
+case=
+input=kbtrvdF eEKl
+output="ccccccc vvcc
+"
+
+
+case=
+input=kJyhFrIBcYSHVVWKEQdECBNwMiogpbT
+output="ccccccvcccccccccvccvcccccvvcccc
+"
+
+
+case=
+input=GZ dUUXmGezsWzcjCISqHZRruNR qzrPUfONMTme
+output="cc cvvcccvcccccccvccccccvcc ccccvcvccccv
+"
+
+
+case=
+input=BcpjeL
+output="ccccvc
+"
+
+
+case=
+input=DuiBscejOvaczbxFB
+output="cvvcccvcvcvcccccc
+"
+
+
+case=
+input=MxhVXQpFzMeaOiKMqYkQ DZtITrAqwRDAzQnuUxfdcGjBHY
+output="ccccccccccvvvvcccccc cccvccvccccvcccvvccccccccc
+"
+
+
+case=
+input=IsNOCXHIDvbToHNxSHtXtU icrN pQvLmOOah
+output="vccvcccvccccvccccccccv vccc cccccvvvc
+"
+
+
+case=
+input=BmlvdycGDp luuxrvFqtB CfNqitLNUsVJCizMe
+output="cccccccccc cvvccccccc ccccvcccvccccvccv
+"
+
+
+case=
+input=AOTGkxjWNqZCCSD qBzitMUWqsmtkOJnoWnjLLHo
+output="vvccccccccccccc cccvccvccccccvccvccccccv
+"
+
+
+case=
+input=zYhkVVrhnuKjDwgQGblldNcfsfZEbFcCu
+output="cccccccccvcccccccccccccccccvccccv
+"
+
+
+case=
+input=UMjUjXNiWMARtwAXmPCBnctjYRLGhRyzJlKjonG
+output="vccvcccvccvcccvcccccccccccccccccccccvcc
+"
+
+
+case=
+input= DCiNTTfqXxuHWbpnpQHSJfSiqYFpDbJoJyUSuQmTJmFocvY
+output=" ccvcccccccvccccccccccccvcccccccvccvcvccccccvccc
+"
+
+
+case=
+input=cWzoubQIGZhmznzEqFGLjADjGeHjNgMWxgDR
+output="cccvvccvcccccccvcccccvcccvcccccccccc
+"
+
+
+case=
+input=fnUEGpNHm
+output="ccvvccccc
+"
+
+
+case=
+input=cDvCZPobnitpkc
+output="ccccccvccvcccc
+"
+
+
+case=
+input=RAjnzjPEiZjgWbdJVREPlNoUf
+output="cvcccccvvcccccccccvcccvvc
+"
+

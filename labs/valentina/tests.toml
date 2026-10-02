@@ -57,3 +57,243 @@ b
 output = '''
 c
 '''
+
+[[tests]]
+input = '''
+z
++
+a
+'''
+output = '''
+z
+'''
+
+[[tests]]
+input = '''
+a
+-
+b
+'''
+output = '''
+z
+'''
+
+[[tests]]
+input = '''
+z
+-
+z
+'''
+output = '''
+a
+'''
+
+[[tests]]
+input = '''
+a
+-
+z
+'''
+output = '''
+b
+'''
+
+[[tests]]
+input = '''
+m
++
+n
+'''
+output = '''
+z
+'''
+
+[[tests]]
+input = '''
+m
+-
+n
+'''
+output = '''
+z
+'''
+
+[[tests]]
+input = '''
+a
++
+z
+'''
+output = '''
+z
+'''
+
+[[tests]]
+input = '''
+z
++
+z
+'''
+output = '''
+y
+'''
+
+[[tests]]
+input = '''
+x
++
+k
+'''
+output = '''
+h
+'''
+
+[[tests]]
+input = '''
+l
+-
+s
+'''
+output = '''
+t
+'''
+
+[[tests]]
+input = '''
+a
++
+m
+'''
+output = '''
+m
+'''
+
+[[tests]]
+input = '''
+a
++
+o
+'''
+output = '''
+o
+'''
+
+[[tests]]
+input = '''
+m
++
+o
+'''
+output = '''
+a
+'''
+
+[[tests]]
+input = '''
+v
++
+r
+'''
+output = '''
+m
+'''
+
+[[tests]]
+input = '''
+p
++
+d
+'''
+output = '''
+s
+'''
+
+[[tests]]
+input = '''
+y
+-
+w
+'''
+output = '''
+c
+'''
+
+[[tests]]
+input = '''
+j
++
+d
+'''
+output = '''
+m
+'''
+
+[[tests]]
+input = '''
+y
+-
+r
+'''
+output = '''
+h
+'''
+
+[[tests]]
+input = '''
+q
+-
+q
+'''
+output = '''
+a
+'''
+
+[[tests]]
+input = '''
+y
+-
+m
+'''
+output = '''
+m
+'''
+
+[[tests]]
+input = '''
+r
+-
+k
+'''
+output = '''
+h
+'''
+
+[[tests]]
+input = '''
+f
+-
+x
+'''
+output = '''
+i
+'''
+
+[[tests]]
+input = '''
+g
++
+t
+'''
+output = '''
+z
+'''
+
+[[tests]]
+input = '''
+h
++
+r
+'''
+output = '''
+y
+'''

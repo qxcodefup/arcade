@@ -39,3 +39,237 @@ ae
 uoia
 au
 '''
+
+[[tests]]
+input = '''
+1
+aeiou
+'''
+output = '''
+aeiou
+'''
+
+[[tests]]
+input = '''
+1
+bbbb
+'''
+output = '''
+
+'''
+
+[[tests]]
+input = '''
+1
+baaeeeiooou
+'''
+output = '''
+aaeeeiooou
+'''
+
+[[tests]]
+input = '''
+1
+abcdeiouxyz
+'''
+output = '''
+eiou
+'''
+
+[[tests]]
+input = '''
+1
+aiaaee
+'''
+output = '''
+aiaaee
+'''
+
+[[tests]]
+input = '''
+1
+zzzzzaaaabbbbuuuuu
+'''
+output = '''
+uuuuu
+'''
+
+[[tests]]
+input = '''
+1
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+'''
+output = '''
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+'''
+
+[[tests]]
+input = '''
+1
+qwerty
+'''
+output = '''
+e
+'''
+
+[[tests]]
+input = '''
+1
+ilfokzusdfycbppiejldvtirgcugx
+'''
+output = '''
+ie
+'''
+
+[[tests]]
+input = '''
+1
+bpvukc
+'''
+output = '''
+u
+'''
+
+[[tests]]
+input = '''
+1
+lnuhijyp
+'''
+output = '''
+u
+'''
+
+[[tests]]
+input = '''
+1
+wovexwwgffnlfppzzgwnvjbetiomed
+'''
+output = '''
+io
+'''
+
+[[tests]]
+input = '''
+1
+ammuwwckxrzugpgolp
+'''
+output = '''
+a
+'''
+
+[[tests]]
+input = '''
+1
+vjvhazhlrpiavgsfwzmfyuqszwj
+'''
+output = '''
+ia
+'''
+
+[[tests]]
+input = '''
+1
+mrijpnbc
+'''
+output = '''
+i
+'''
+
+[[tests]]
+input = '''
+1
+dluzqaduwidzfofqicuovfmrxijidnqssmzfikihx
+'''
+output = '''
+uo
+'''
+
+[[tests]]
+input = '''
+1
+shgkblrbfyhzynqtxawjfsuypyqcmjviha
+'''
+output = '''
+a
+'''
+
+[[tests]]
+input = '''
+1
+zqauzhthcwuksohsgurhkeplplsqlfqxfovamju
+'''
+output = '''
+au
+'''
+
+[[tests]]
+input = '''
+1
+otaiuhahhirjxyzbkqaslfhrmefdkphfxgozgicrzif
+'''
+output = '''
+aiu
+'''
+
+[[tests]]
+input = '''
+1
+mzbvhbwgzllgurmyybwvoxoivkvqbcskgcqukgixsfkvhzgfp
+'''
+output = '''
+oi
+'''
+
+[[tests]]
+input = '''
+1
+jwoiztxhrqrzwwhjjxtvdrtcgepso
+'''
+output = '''
+oi
+'''
+
+[[tests]]
+input = '''
+1
+olnvtwcgijtwlmykvntespwboljussqbgitl
+'''
+output = '''
+o
+'''
+
+[[tests]]
+input = '''
+1
+qaccooepjtepwgsoeztqjuqotzobyjvspmnzbk
+'''
+output = '''
+ooe
+'''
+
+[[tests]]
+input = '''
+1
+yxzpbphdgq
+'''
+output = '''
+
+'''
+
+[[tests]]
+input = '''
+1
+ctwabfuekpmamdxczusnnasmarwxwuicpwvlyehtnebznjtxcr
+'''
+output = '''
+ue
+'''
+
+[[tests]]
+input = '''
+1
+pkcemazdzirvgmtrjjuxjhvmgjgmmmddcsasyngwwvwmjxw
+'''
+output = '''
+e
+'''

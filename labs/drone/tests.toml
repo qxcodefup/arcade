@@ -81,3 +81,279 @@ input = '''
 output = '''
 S
 '''
+
+[[tests]]
+input = '''
+1
+2
+3
+1
+2
+'''
+output = '''
+S
+'''
+
+[[tests]]
+input = '''
+100
+1
+1
+1
+100
+'''
+output = '''
+S
+'''
+
+[[tests]]
+input = '''
+20
+10
+5
+10
+20
+'''
+output = '''
+S
+'''
+
+[[tests]]
+input = '''
+5
+6
+7
+4
+4
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+100
+99
+98
+98
+99
+'''
+output = '''
+S
+'''
+
+[[tests]]
+input = '''
+100
+99
+98
+97
+99
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+1
+100
+50
+49
+50
+'''
+output = '''
+S
+'''
+
+[[tests]]
+input = '''
+1
+1
+100
+1
+1
+'''
+output = '''
+S
+'''
+
+[[tests]]
+input = '''
+80
+72
+89
+93
+75
+'''
+output = '''
+S
+'''
+
+[[tests]]
+input = '''
+6
+75
+88
+28
+5
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+64
+70
+19
+34
+1
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+59
+30
+77
+28
+75
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+85
+100
+95
+100
+5
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+75
+1
+28
+59
+53
+'''
+output = '''
+S
+'''
+
+[[tests]]
+input = '''
+46
+88
+85
+27
+28
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+60
+12
+79
+27
+5
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+88
+11
+26
+63
+8
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+84
+69
+45
+20
+20
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+97
+19
+100
+95
+51
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+92
+23
+32
+64
+22
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+31
+38
+50
+81
+54
+'''
+output = '''
+S
+'''
+
+[[tests]]
+input = '''
+40
+89
+48
+21
+30
+'''
+output = '''
+N
+'''
+
+[[tests]]
+input = '''
+43
+13
+43
+63
+97
+'''
+output = '''
+S
+'''
