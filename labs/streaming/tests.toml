@@ -1,0 +1,447 @@
+[[tests]]
+input = '''
+1
+14 136 Matrix
+20
+'''
+output = '''
+Matrix (136 min) - Classificacao: 14+
+'''
+
+[[tests]]
+input = '''
+1
+14 136 Matrix
+10
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+3
+0 90 Shrek
+14 120 Batman
+18 110 Coringa
+15
+'''
+output = '''
+Shrek (90 min) - Classificacao: Livre
+Batman (120 min) - Classificacao: 14+
+'''
+
+[[tests]]
+input = '''
+2
+16 100 Deadpool
+18 120 Gladiador
+12
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+2
+0 85 ToyStory
+0 95 Nemo
+5
+'''
+output = '''
+ToyStory (85 min) - Classificacao: Livre
+Nemo (95 min) - Classificacao: Livre
+'''
+
+[[tests]]
+input = '''
+2
+16 140 Interstellar
+18 97 Frozen
+5
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+4
+0 141 Avatar
+0 82 Moana
+12 142 Interstellar
+10 97 Inception
+8
+'''
+output = '''
+Avatar (141 min) - Classificacao: Livre
+Moana (82 min) - Classificacao: Livre
+'''
+
+[[tests]]
+input = '''
+2
+18 158 Oppenheimer
+14 154 Gladiador
+12
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+5
+16 73 Interstellar
+16 139 Moana
+18 117 Oppenheimer
+10 121 Frozen
+14 157 Inception
+2
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+4
+14 108 Oppenheimer
+14 142 Inception
+0 91 Gladiador
+10 163 Interstellar
+19
+'''
+output = '''
+Oppenheimer (108 min) - Classificacao: 14+
+Inception (142 min) - Classificacao: 14+
+Gladiador (91 min) - Classificacao: Livre
+Interstellar (163 min) - Classificacao: 10+
+'''
+
+[[tests]]
+input = '''
+4
+16 163 Vingadores
+18 105 Up
+0 173 Titanic
+14 112 Avatar
+22
+'''
+output = '''
+Vingadores (163 min) - Classificacao: 16+
+Up (105 min) - Classificacao: 18+
+Titanic (173 min) - Classificacao: Livre
+Avatar (112 min) - Classificacao: 14+
+'''
+
+[[tests]]
+input = '''
+2
+0 163 Moana
+14 116 Vingadores
+6
+'''
+output = '''
+Moana (163 min) - Classificacao: Livre
+'''
+
+[[tests]]
+input = '''
+5
+16 70 Vingadores
+0 89 Interstellar
+16 144 Inception
+10 112 Moana
+10 86 Coco
+19
+'''
+output = '''
+Vingadores (70 min) - Classificacao: 16+
+Interstellar (89 min) - Classificacao: Livre
+Inception (144 min) - Classificacao: 16+
+Moana (112 min) - Classificacao: 10+
+Coco (86 min) - Classificacao: 10+
+'''
+
+[[tests]]
+input = '''
+5
+14 120 Vingadores
+18 144 Frozen
+14 171 Coco
+18 151 Avatar
+18 154 Interstellar
+25
+'''
+output = '''
+Vingadores (120 min) - Classificacao: 14+
+Frozen (144 min) - Classificacao: 18+
+Coco (171 min) - Classificacao: 14+
+Avatar (151 min) - Classificacao: 18+
+Interstellar (154 min) - Classificacao: 18+
+'''
+
+[[tests]]
+input = '''
+4
+12 138 Up
+0 154 Frozen
+14 178 Vingadores
+18 131 Moana
+20
+'''
+output = '''
+Up (138 min) - Classificacao: 12+
+Frozen (154 min) - Classificacao: Livre
+Vingadores (178 min) - Classificacao: 14+
+Moana (131 min) - Classificacao: 18+
+'''
+
+[[tests]]
+input = '''
+2
+18 82 Duna
+18 176 Avatar
+3
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+3
+18 120 Moana
+14 81 Gladiador
+14 158 Duna
+20
+'''
+output = '''
+Moana (120 min) - Classificacao: 18+
+Gladiador (81 min) - Classificacao: 14+
+Duna (158 min) - Classificacao: 14+
+'''
+
+[[tests]]
+input = '''
+1
+14 99 Coco
+19
+'''
+output = '''
+Coco (99 min) - Classificacao: 14+
+'''
+
+[[tests]]
+input = '''
+1
+10 150 Oppenheimer
+0
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+3
+10 119 Titanic
+10 109 Moana
+12 150 Vingadores
+19
+'''
+output = '''
+Titanic (119 min) - Classificacao: 10+
+Moana (109 min) - Classificacao: 10+
+Vingadores (150 min) - Classificacao: 12+
+'''
+
+[[tests]]
+input = '''
+3
+10 158 Duna
+16 180 Avatar
+14 73 Gladiador
+11
+'''
+output = '''
+Duna (158 min) - Classificacao: 10+
+'''
+
+[[tests]]
+input = '''
+4
+18 176 Oppenheimer
+16 175 Titanic
+12 171 Up
+16 86 Gladiador
+15
+'''
+output = '''
+Up (171 min) - Classificacao: 12+
+'''
+
+[[tests]]
+input = '''
+4
+10 122 Coco
+14 98 Avatar
+16 135 Oppenheimer
+12 132 Gladiador
+9
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+5
+10 138 Interstellar
+0 167 Duna
+18 157 Gladiador
+0 169 Inception
+14 86 Titanic
+11
+'''
+output = '''
+Interstellar (138 min) - Classificacao: 10+
+Duna (167 min) - Classificacao: Livre
+Inception (169 min) - Classificacao: Livre
+'''
+
+[[tests]]
+input = '''
+1
+18 97 Interstellar
+0
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+1
+12 145 Gladiador
+7
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+5
+12 120 Up
+0 144 Vingadores
+0 145 Coco
+14 126 Moana
+18 110 Gladiador
+7
+'''
+output = '''
+Vingadores (144 min) - Classificacao: Livre
+Coco (145 min) - Classificacao: Livre
+'''
+
+[[tests]]
+input = '''
+3
+18 77 Inception
+16 86 Titanic
+10 137 Vingadores
+6
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+3
+0 80 Interstellar
+18 88 Vingadores
+18 99 Gladiador
+22
+'''
+output = '''
+Interstellar (80 min) - Classificacao: Livre
+Vingadores (88 min) - Classificacao: 18+
+Gladiador (99 min) - Classificacao: 18+
+'''
+
+[[tests]]
+input = '''
+1
+0 74 Titanic
+4
+'''
+output = '''
+Titanic (74 min) - Classificacao: Livre
+'''
+
+[[tests]]
+input = '''
+4
+10 89 Duna
+18 135 Up
+16 88 Coco
+14 174 Avatar
+3
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+3
+0 79 Coco
+12 86 Inception
+12 113 Titanic
+6
+'''
+output = '''
+Coco (79 min) - Classificacao: Livre
+'''
+
+[[tests]]
+input = '''
+3
+14 79 Interstellar
+12 90 Frozen
+12 130 Gladiador
+17
+'''
+output = '''
+Interstellar (79 min) - Classificacao: 14+
+Frozen (90 min) - Classificacao: 12+
+Gladiador (130 min) - Classificacao: 12+
+'''
+
+[[tests]]
+input = '''
+2
+14 73 Frozen
+14 88 Titanic
+8
+'''
+output = '''
+Nenhum filme disponivel
+'''
+
+[[tests]]
+input = '''
+2
+16 164 Moana
+16 102 Titanic
+22
+'''
+output = '''
+Moana (164 min) - Classificacao: 16+
+Titanic (102 min) - Classificacao: 16+
+'''
+

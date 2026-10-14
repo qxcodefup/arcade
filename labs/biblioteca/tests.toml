@@ -1,0 +1,417 @@
+[[tests]]
+input = '''
+2
+DomCasmurro Machado 1899 256
+1984 Orwell 1949 328
+1900
+'''
+output = '''
+1984 - Orwell (1949, 328 pags)
+'''
+
+[[tests]]
+input = '''
+2
+DomCasmurro Machado 1899 256
+1984 Orwell 1949 328
+2000
+'''
+output = '''
+Nenhum livro encontrado
+'''
+
+[[tests]]
+input = '''
+3
+HarryPotter Rowling 1997 223
+SenhorDosAneis Tolkien 1954 1178
+Duna Herbert 1965 680
+1960
+'''
+output = '''
+HarryPotter - Rowling (1997, 223 pags)
+Duna - Herbert (1965, 680 pags)
+'''
+
+[[tests]]
+input = '''
+1
+O_Alquimista Coelho 1988 208
+1937
+'''
+output = '''
+O_Alquimista - Coelho (1988, 208 pags)
+'''
+
+[[tests]]
+input = '''
+2
+Vidas_Secas Ramos 1938 176
+Neuromancer Gibson 1984 271
+1933
+'''
+output = '''
+Vidas_Secas - Ramos (1938, 176 pags)
+Neuromancer - Gibson (1984, 271 pags)
+'''
+
+[[tests]]
+input = '''
+3
+Capitaes_da_Areia Amado 1937 280
+Fahrenheit_451 Bradbury 1953 249
+Grande_Sertao Rosa 1956 600
+1932
+'''
+output = '''
+Capitaes_da_Areia - Amado (1937, 280 pags)
+Fahrenheit_451 - Bradbury (1953, 249 pags)
+Grande_Sertao - Rosa (1956, 600 pags)
+'''
+
+[[tests]]
+input = '''
+3
+O_Alquimista Coelho 1988 208
+Fahrenheit_451 Bradbury 1953 249
+Fundacao Asimov 1951 255
+1922
+'''
+output = '''
+O_Alquimista - Coelho (1988, 208 pags)
+Fahrenheit_451 - Bradbury (1953, 249 pags)
+Fundacao - Asimov (1951, 255 pags)
+'''
+
+[[tests]]
+input = '''
+1
+Vidas_Secas Ramos 1938 176
+1971
+'''
+output = '''
+Nenhum livro encontrado
+'''
+
+[[tests]]
+input = '''
+4
+O_Alquimista Coelho 1988 208
+Fundacao Asimov 1951 255
+Neuromancer Gibson 1984 271
+Fahrenheit_451 Bradbury 1953 249
+1927
+'''
+output = '''
+O_Alquimista - Coelho (1988, 208 pags)
+Fundacao - Asimov (1951, 255 pags)
+Neuromancer - Gibson (1984, 271 pags)
+Fahrenheit_451 - Bradbury (1953, 249 pags)
+'''
+
+[[tests]]
+input = '''
+4
+Vidas_Secas Ramos 1938 176
+Grande_Sertao Rosa 1956 600
+Fundacao Asimov 1951 255
+Capitaes_da_Areia Amado 1937 280
+1949
+'''
+output = '''
+Grande_Sertao - Rosa (1956, 600 pags)
+Fundacao - Asimov (1951, 255 pags)
+'''
+
+[[tests]]
+input = '''
+3
+Neuromancer Gibson 1984 271
+Fundacao Asimov 1951 255
+Grande_Sertao Rosa 1956 600
+1944
+'''
+output = '''
+Neuromancer - Gibson (1984, 271 pags)
+Fundacao - Asimov (1951, 255 pags)
+Grande_Sertao - Rosa (1956, 600 pags)
+'''
+
+[[tests]]
+input = '''
+1
+Fahrenheit_451 Bradbury 1953 249
+1958
+'''
+output = '''
+Nenhum livro encontrado
+'''
+
+[[tests]]
+input = '''
+2
+Capitaes_da_Areia Amado 1937 280
+Vidas_Secas Ramos 1938 176
+1979
+'''
+output = '''
+Nenhum livro encontrado
+'''
+
+[[tests]]
+input = '''
+1
+Fahrenheit_451 Bradbury 1953 249
+1971
+'''
+output = '''
+Nenhum livro encontrado
+'''
+
+[[tests]]
+input = '''
+1
+Fundacao Asimov 1951 255
+1983
+'''
+output = '''
+Nenhum livro encontrado
+'''
+
+[[tests]]
+input = '''
+3
+Fahrenheit_451 Bradbury 1953 249
+Capitaes_da_Areia Amado 1937 280
+Vidas_Secas Ramos 1938 176
+1964
+'''
+output = '''
+Nenhum livro encontrado
+'''
+
+[[tests]]
+input = '''
+3
+Fahrenheit_451 Bradbury 1953 249
+Neuromancer Gibson 1984 271
+O_Alquimista Coelho 1988 208
+1939
+'''
+output = '''
+Fahrenheit_451 - Bradbury (1953, 249 pags)
+Neuromancer - Gibson (1984, 271 pags)
+O_Alquimista - Coelho (1988, 208 pags)
+'''
+
+[[tests]]
+input = '''
+4
+Grande_Sertao Rosa 1956 600
+Vidas_Secas Ramos 1938 176
+Fundacao Asimov 1951 255
+O_Alquimista Coelho 1988 208
+1976
+'''
+output = '''
+O_Alquimista - Coelho (1988, 208 pags)
+'''
+
+[[tests]]
+input = '''
+2
+Vidas_Secas Ramos 1938 176
+Capitaes_da_Areia Amado 1937 280
+1975
+'''
+output = '''
+Nenhum livro encontrado
+'''
+
+[[tests]]
+input = '''
+1
+Fundacao Asimov 1951 255
+1994
+'''
+output = '''
+Nenhum livro encontrado
+'''
+
+[[tests]]
+input = '''
+1
+Grande_Sertao Rosa 1956 600
+1994
+'''
+output = '''
+Nenhum livro encontrado
+'''
+
+[[tests]]
+input = '''
+4
+Vidas_Secas Ramos 1938 176
+Grande_Sertao Rosa 1956 600
+O_Alquimista Coelho 1988 208
+Fundacao Asimov 1951 255
+1982
+'''
+output = '''
+O_Alquimista - Coelho (1988, 208 pags)
+'''
+
+[[tests]]
+input = '''
+2
+O_Alquimista Coelho 1988 208
+Vidas_Secas Ramos 1938 176
+1971
+'''
+output = '''
+O_Alquimista - Coelho (1988, 208 pags)
+'''
+
+[[tests]]
+input = '''
+1
+Capitaes_da_Areia Amado 1937 280
+1929
+'''
+output = '''
+Capitaes_da_Areia - Amado (1937, 280 pags)
+'''
+
+[[tests]]
+input = '''
+4
+Vidas_Secas Ramos 1938 176
+Ensaio_Cegueira Saramago 1995 310
+O_Alquimista Coelho 1988 208
+Capitaes_da_Areia Amado 1937 280
+1963
+'''
+output = '''
+Ensaio_Cegueira - Saramago (1995, 310 pags)
+O_Alquimista - Coelho (1988, 208 pags)
+'''
+
+[[tests]]
+input = '''
+4
+Fahrenheit_451 Bradbury 1953 249
+Vidas_Secas Ramos 1938 176
+Fundacao Asimov 1951 255
+Ensaio_Cegueira Saramago 1995 310
+1977
+'''
+output = '''
+Ensaio_Cegueira - Saramago (1995, 310 pags)
+'''
+
+[[tests]]
+input = '''
+4
+O_Alquimista Coelho 1988 208
+Capitaes_da_Areia Amado 1937 280
+Grande_Sertao Rosa 1956 600
+Fundacao Asimov 1951 255
+1924
+'''
+output = '''
+O_Alquimista - Coelho (1988, 208 pags)
+Capitaes_da_Areia - Amado (1937, 280 pags)
+Grande_Sertao - Rosa (1956, 600 pags)
+Fundacao - Asimov (1951, 255 pags)
+'''
+
+[[tests]]
+input = '''
+1
+O_Alquimista Coelho 1988 208
+1951
+'''
+output = '''
+O_Alquimista - Coelho (1988, 208 pags)
+'''
+
+[[tests]]
+input = '''
+1
+Vidas_Secas Ramos 1938 176
+1948
+'''
+output = '''
+Nenhum livro encontrado
+'''
+
+[[tests]]
+input = '''
+1
+Ensaio_Cegueira Saramago 1995 310
+1928
+'''
+output = '''
+Ensaio_Cegueira - Saramago (1995, 310 pags)
+'''
+
+[[tests]]
+input = '''
+2
+Ensaio_Cegueira Saramago 1995 310
+Fahrenheit_451 Bradbury 1953 249
+1943
+'''
+output = '''
+Ensaio_Cegueira - Saramago (1995, 310 pags)
+Fahrenheit_451 - Bradbury (1953, 249 pags)
+'''
+
+[[tests]]
+input = '''
+4
+Capitaes_da_Areia Amado 1937 280
+Vidas_Secas Ramos 1938 176
+Fahrenheit_451 Bradbury 1953 249
+O_Alquimista Coelho 1988 208
+1986
+'''
+output = '''
+O_Alquimista - Coelho (1988, 208 pags)
+'''
+
+[[tests]]
+input = '''
+4
+Neuromancer Gibson 1984 271
+Fahrenheit_451 Bradbury 1953 249
+Fundacao Asimov 1951 255
+Grande_Sertao Rosa 1956 600
+1972
+'''
+output = '''
+Neuromancer - Gibson (1984, 271 pags)
+'''
+
+[[tests]]
+input = '''
+1
+Grande_Sertao Rosa 1956 600
+1987
+'''
+output = '''
+Nenhum livro encontrado
+'''
+
+[[tests]]
+input = '''
+2
+Neuromancer Gibson 1984 271
+Fundacao Asimov 1951 255
+1936
+'''
+output = '''
+Neuromancer - Gibson (1984, 271 pags)
+Fundacao - Asimov (1951, 255 pags)
+'''
+

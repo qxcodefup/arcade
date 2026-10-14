@@ -222,6 +222,11 @@ Os marcadores das tarefas são:
 
 ## Matrizes <!-- @mat -->
 
+- [x] `eval=diff gain=1 cost=1` [Matriz de zeros](labs/mat_i/README.md) <!-- NEW-TESTS -->
+- [x] `eval=diff gain=1 cost=1` [Matriz xadrez](labs/mat_ii/README.md) <!-- NEW-TESTS -->
+- [x] `eval=diff gain=1 cost=1` [Matriz sequencial](labs/mat_iii/README.md) <!-- NEW-TESTS -->
+- [x] `eval=diff gain=1 cost=1` [Carregando matriz](labs/mat_iv/README.md) <!-- NEW-TESTS -->
+- [x] `eval=diff gain=2 cost=1` [Contando elementos na matriz](labs/mat_v/README.md) <!-- NEW-TESTS -->
 - [x] `eval=diff gain=3 cost=1` [Contando ocorrência na cartela](labs/bingo/README.md) <!-- NEW-TESTS -->
 - [x] `eval=diff gain=3 cost=1` [Deu a louca no imperador](labs/imperador/README.md) <!-- NEW-TESTS -->
 - [x] `eval=diff gain=3 cost=1` [Qual a coluna de maior valor](labs/coluna/README.md) <!-- NEW-TESTS -->
@@ -240,6 +245,15 @@ Os marcadores das tarefas são:
 
 ## Structs <!-- @struct -->
 
+- [x] `eval=diff gain=2 cost=1` [Compras na feira](labs/feira/README.md) <!-- NEW-TESTS -->
+- [x] `eval=diff gain=2 cost=1` [Filtrando filmes](labs/streaming/README.md) <!-- NEW-TESTS -->
+- [x] `eval=diff gain=2 cost=1` [Diário fitness](labs/exercicios/README.md) <!-- NEW-TESTS -->
+- [x] `eval=diff gain=2 cost=1` [Cadastro de pessoas](labs/cpf/README.md) <!-- NEW-TESTS -->
+- [x] `eval=diff gain=2 cost=1` [Sistema de autenticação](labs/autenticacao/README.md) <!-- NEW-TESTS -->
+- [x] `eval=diff gain=2 cost=1` [Carrinho de compras](labs/carrinho/README.md) <!-- NEW-TESTS -->
+- [x] `eval=diff gain=2 cost=1` [Catálogo da biblioteca](labs/biblioteca/README.md) <!-- NEW-TESTS -->
+- [x] `eval=diff gain=2 cost=1` [Operações bancárias](labs/banco/README.md) <!-- NEW-TESTS -->
+- [x] `eval=diff gain=3 cost=1` [Duelo Pokémon](labs/pokemon/README.md) <!-- NEW-TESTS -->
 - [x] `eval=diff gain=3 cost=1` [Pedra na lua](labs/pedra_struct/README.md) <!-- NEW-TESTS -->
 - [x] `eval=diff gain=3 cost=1` [Procurando melhor pizzaria](labs/pizza/README.md) <!-- NEW-TESTS -->
 - [x] `eval=diff gain=3 cost=1` [Gomos da cobrinha](labs/gomos/README.md) <!-- NEW-TESTS -->

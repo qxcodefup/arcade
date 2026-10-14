@@ -1,0 +1,387 @@
+[[tests]]
+input = '''
+Pikachu 55 40 100
+Charmander 52 43 100
+'''
+output = '''
+Pikachu atacou Charmander causando 12 de dano!
+Charmander atacou Pikachu causando 12 de dano!
+Fim do turno: Pikachu (HP 88) vs Charmander (HP 88)
+'''
+
+[[tests]]
+input = '''
+Gengar 80 30 20
+Alakazam 85 20 50
+'''
+output = '''
+Gengar atacou Alakazam causando 60 de dano!
+Alakazam foi derrotado!
+Gengar venceu a batalha!
+'''
+
+[[tests]]
+input = '''
+Snorlax 30 100 150
+Onix 20 120 100
+'''
+output = '''
+Snorlax atacou Onix causando 1 de dano!
+Onix atacou Snorlax causando 1 de dano!
+Fim do turno: Snorlax (HP 149) vs Onix (HP 99)
+'''
+
+[[tests]]
+input = '''
+Mewtwo 110 50 10
+Mew 100 60 40
+'''
+output = '''
+Mewtwo atacou Mew causando 50 de dano!
+Mew foi derrotado!
+Mewtwo venceu a batalha!
+'''
+
+[[tests]]
+input = '''
+Snorlax 40 33 94
+Squirtle 59 61 75
+'''
+output = '''
+Snorlax atacou Squirtle causando 1 de dano!
+Squirtle atacou Snorlax causando 26 de dano!
+Fim do turno: Snorlax (HP 68) vs Squirtle (HP 74)
+'''
+
+[[tests]]
+input = '''
+Charmander 95 20 55
+Lucario 68 24 82
+'''
+output = '''
+Charmander atacou Lucario causando 71 de dano!
+Lucario atacou Charmander causando 48 de dano!
+Fim do turno: Charmander (HP 7) vs Lucario (HP 11)
+'''
+
+[[tests]]
+input = '''
+Mewtwo 29 23 119
+Gengar 91 31 14
+'''
+output = '''
+Mewtwo atacou Gengar causando 1 de dano!
+Gengar atacou Mewtwo causando 68 de dano!
+Fim do turno: Mewtwo (HP 51) vs Gengar (HP 13)
+'''
+
+[[tests]]
+input = '''
+Squirtle 27 35 41
+Snorlax 85 37 93
+'''
+output = '''
+Squirtle atacou Snorlax causando 1 de dano!
+Snorlax atacou Squirtle causando 50 de dano!
+Squirtle foi derrotado!
+Snorlax venceu a batalha!
+'''
+
+[[tests]]
+input = '''
+Mewtwo 71 29 94
+Charmander 67 58 101
+'''
+output = '''
+Mewtwo atacou Charmander causando 13 de dano!
+Charmander atacou Mewtwo causando 38 de dano!
+Fim do turno: Mewtwo (HP 56) vs Charmander (HP 88)
+'''
+
+[[tests]]
+input = '''
+Eevee 23 51 50
+Charmander 78 22 49
+'''
+output = '''
+Eevee atacou Charmander causando 1 de dano!
+Charmander atacou Eevee causando 27 de dano!
+Fim do turno: Eevee (HP 23) vs Charmander (HP 48)
+'''
+
+[[tests]]
+input = '''
+Pikachu 55 57 105
+Bulbasaur 23 44 56
+'''
+output = '''
+Pikachu atacou Bulbasaur causando 11 de dano!
+Bulbasaur atacou Pikachu causando 1 de dano!
+Fim do turno: Pikachu (HP 104) vs Bulbasaur (HP 45)
+'''
+
+[[tests]]
+input = '''
+Pikachu 74 75 106
+Lucario 81 11 75
+'''
+output = '''
+Pikachu atacou Lucario causando 63 de dano!
+Lucario atacou Pikachu causando 6 de dano!
+Fim do turno: Pikachu (HP 100) vs Lucario (HP 12)
+'''
+
+[[tests]]
+input = '''
+Charmander 87 22 60
+Mewtwo 56 23 92
+'''
+output = '''
+Charmander atacou Mewtwo causando 64 de dano!
+Mewtwo atacou Charmander causando 34 de dano!
+Fim do turno: Charmander (HP 26) vs Mewtwo (HP 28)
+'''
+
+[[tests]]
+input = '''
+Snorlax 31 54 63
+Gengar 28 52 78
+'''
+output = '''
+Snorlax atacou Gengar causando 1 de dano!
+Gengar atacou Snorlax causando 1 de dano!
+Fim do turno: Snorlax (HP 62) vs Gengar (HP 77)
+'''
+
+[[tests]]
+input = '''
+Pikachu 63 12 120
+Dragonite 45 62 78
+'''
+output = '''
+Pikachu atacou Dragonite causando 1 de dano!
+Dragonite atacou Pikachu causando 33 de dano!
+Fim do turno: Pikachu (HP 87) vs Dragonite (HP 77)
+'''
+
+[[tests]]
+input = '''
+Charmander 90 44 111
+Snorlax 62 48 10
+'''
+output = '''
+Charmander atacou Snorlax causando 42 de dano!
+Snorlax foi derrotado!
+Charmander venceu a batalha!
+'''
+
+[[tests]]
+input = '''
+Lucario 26 59 46
+Squirtle 43 21 113
+'''
+output = '''
+Lucario atacou Squirtle causando 5 de dano!
+Squirtle atacou Lucario causando 1 de dano!
+Fim do turno: Lucario (HP 45) vs Squirtle (HP 108)
+'''
+
+[[tests]]
+input = '''
+Charmander 86 44 118
+Bulbasaur 70 11 59
+'''
+output = '''
+Charmander atacou Bulbasaur causando 75 de dano!
+Bulbasaur foi derrotado!
+Charmander venceu a batalha!
+'''
+
+[[tests]]
+input = '''
+Dragonite 56 19 16
+Gengar 32 24 91
+'''
+output = '''
+Dragonite atacou Gengar causando 32 de dano!
+Gengar atacou Dragonite causando 13 de dano!
+Fim do turno: Dragonite (HP 3) vs Gengar (HP 59)
+'''
+
+[[tests]]
+input = '''
+Charmander 39 10 97
+Bulbasaur 51 35 92
+'''
+output = '''
+Charmander atacou Bulbasaur causando 4 de dano!
+Bulbasaur atacou Charmander causando 41 de dano!
+Fim do turno: Charmander (HP 56) vs Bulbasaur (HP 88)
+'''
+
+[[tests]]
+input = '''
+Squirtle 60 19 40
+Snorlax 22 58 55
+'''
+output = '''
+Squirtle atacou Snorlax causando 2 de dano!
+Snorlax atacou Squirtle causando 3 de dano!
+Fim do turno: Squirtle (HP 37) vs Snorlax (HP 53)
+'''
+
+[[tests]]
+input = '''
+Charmander 45 43 79
+Lucario 80 36 64
+'''
+output = '''
+Charmander atacou Lucario causando 9 de dano!
+Lucario atacou Charmander causando 37 de dano!
+Fim do turno: Charmander (HP 42) vs Lucario (HP 55)
+'''
+
+[[tests]]
+input = '''
+Charmander 74 66 84
+Bulbasaur 59 69 41
+'''
+output = '''
+Charmander atacou Bulbasaur causando 5 de dano!
+Bulbasaur atacou Charmander causando 1 de dano!
+Fim do turno: Charmander (HP 83) vs Bulbasaur (HP 36)
+'''
+
+[[tests]]
+input = '''
+Gengar 86 42 107
+Snorlax 96 60 63
+'''
+output = '''
+Gengar atacou Snorlax causando 26 de dano!
+Snorlax atacou Gengar causando 54 de dano!
+Fim do turno: Gengar (HP 53) vs Snorlax (HP 37)
+'''
+
+[[tests]]
+input = '''
+Dragonite 21 52 118
+Charmander 34 42 113
+'''
+output = '''
+Dragonite atacou Charmander causando 1 de dano!
+Charmander atacou Dragonite causando 1 de dano!
+Fim do turno: Dragonite (HP 117) vs Charmander (HP 112)
+'''
+
+[[tests]]
+input = '''
+Eevee 54 27 74
+Dragonite 74 68 92
+'''
+output = '''
+Eevee atacou Dragonite causando 1 de dano!
+Dragonite atacou Eevee causando 47 de dano!
+Fim do turno: Eevee (HP 27) vs Dragonite (HP 91)
+'''
+
+[[tests]]
+input = '''
+Eevee 69 43 42
+Charmander 72 12 75
+'''
+output = '''
+Eevee atacou Charmander causando 57 de dano!
+Charmander atacou Eevee causando 29 de dano!
+Fim do turno: Eevee (HP 13) vs Charmander (HP 18)
+'''
+
+[[tests]]
+input = '''
+Dragonite 61 59 46
+Mewtwo 40 52 85
+'''
+output = '''
+Dragonite atacou Mewtwo causando 9 de dano!
+Mewtwo atacou Dragonite causando 1 de dano!
+Fim do turno: Dragonite (HP 45) vs Mewtwo (HP 76)
+'''
+
+[[tests]]
+input = '''
+Squirtle 40 56 106
+Bulbasaur 35 56 34
+'''
+output = '''
+Squirtle atacou Bulbasaur causando 1 de dano!
+Bulbasaur atacou Squirtle causando 1 de dano!
+Fim do turno: Squirtle (HP 105) vs Bulbasaur (HP 33)
+'''
+
+[[tests]]
+input = '''
+Bulbasaur 94 28 55
+Gengar 27 66 91
+'''
+output = '''
+Bulbasaur atacou Gengar causando 28 de dano!
+Gengar atacou Bulbasaur causando 1 de dano!
+Fim do turno: Bulbasaur (HP 54) vs Gengar (HP 63)
+'''
+
+[[tests]]
+input = '''
+Mewtwo 29 76 97
+Snorlax 23 73 96
+'''
+output = '''
+Mewtwo atacou Snorlax causando 1 de dano!
+Snorlax atacou Mewtwo causando 1 de dano!
+Fim do turno: Mewtwo (HP 96) vs Snorlax (HP 95)
+'''
+
+[[tests]]
+input = '''
+Lucario 40 48 87
+Charmander 44 78 48
+'''
+output = '''
+Lucario atacou Charmander causando 1 de dano!
+Charmander atacou Lucario causando 1 de dano!
+Fim do turno: Lucario (HP 86) vs Charmander (HP 47)
+'''
+
+[[tests]]
+input = '''
+Bulbasaur 36 78 66
+Eevee 39 20 55
+'''
+output = '''
+Bulbasaur atacou Eevee causando 16 de dano!
+Eevee atacou Bulbasaur causando 1 de dano!
+Fim do turno: Bulbasaur (HP 65) vs Eevee (HP 39)
+'''
+
+[[tests]]
+input = '''
+Charmander 42 26 16
+Pikachu 31 75 33
+'''
+output = '''
+Charmander atacou Pikachu causando 1 de dano!
+Pikachu atacou Charmander causando 5 de dano!
+Fim do turno: Charmander (HP 11) vs Pikachu (HP 32)
+'''
+
+[[tests]]
+input = '''
+Snorlax 30 12 20
+Mewtwo 57 58 26
+'''
+output = '''
+Snorlax atacou Mewtwo causando 1 de dano!
+Mewtwo atacou Snorlax causando 45 de dano!
+Snorlax foi derrotado!
+Mewtwo venceu a batalha!
+'''
+

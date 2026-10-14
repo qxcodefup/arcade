@@ -1,0 +1,516 @@
+[[tests]]
+input = '''
+1
+Banana 2.00
+10.00
+'''
+output = '''
+Banana: 5 unidade(s) - Troco: R$ 0.00
+'''
+
+[[tests]]
+input = '''
+1
+Maca 3.00
+10.00
+'''
+output = '''
+Maca: 3 unidade(s) - Troco: R$ 1.00
+'''
+
+[[tests]]
+input = '''
+1
+Melancia 15.00
+10.00
+'''
+output = '''
+Melancia: 0 unidade(s) - Troco: R$ 10.00
+'''
+
+[[tests]]
+input = '''
+1
+Abacaxi 7.50
+7.50
+'''
+output = '''
+Abacaxi: 1 unidade(s) - Troco: R$ 0.00
+'''
+
+[[tests]]
+input = '''
+3
+Laranja 0.80
+Limao 0.50
+Maracuja 2.20
+5.35
+'''
+output = '''
+Laranja: 6 unidade(s) - Troco: R$ 0.55
+Limao: 10 unidade(s) - Troco: R$ 0.35
+Maracuja: 2 unidade(s) - Troco: R$ 0.95
+'''
+
+[[tests]]
+input = '''
+4
+Banana 1.50
+Maca 2.75
+Melao 6.00
+Pitaya 25.00
+20.00
+'''
+output = '''
+Banana: 13 unidade(s) - Troco: R$ 0.50
+Maca: 7 unidade(s) - Troco: R$ 0.75
+Melao: 3 unidade(s) - Troco: R$ 2.00
+Pitaya: 0 unidade(s) - Troco: R$ 20.00
+'''
+
+[[tests]]
+input = '''
+4
+Figo 14.01
+Pera 4.42
+Mamao 6.83
+Caju 5.91
+43.83
+'''
+output = '''
+Figo: 3 unidade(s) - Troco: R$ 1.80
+Pera: 9 unidade(s) - Troco: R$ 4.05
+Mamao: 6 unidade(s) - Troco: R$ 2.85
+Caju: 7 unidade(s) - Troco: R$ 2.46
+'''
+
+[[tests]]
+input = '''
+3
+Kiwi 9.37
+Jaca 3.21
+Manga 11.20
+36.91
+'''
+output = '''
+Kiwi: 3 unidade(s) - Troco: R$ 8.80
+Jaca: 11 unidade(s) - Troco: R$ 1.60
+Manga: 3 unidade(s) - Troco: R$ 3.31
+'''
+
+[[tests]]
+input = '''
+5
+Figo 2.65
+Morango 10.93
+Acerola 3.25
+Kiwi 5.45
+Manga 0.84
+17.64
+'''
+output = '''
+Figo: 6 unidade(s) - Troco: R$ 1.74
+Morango: 1 unidade(s) - Troco: R$ 6.71
+Acerola: 5 unidade(s) - Troco: R$ 1.39
+Kiwi: 3 unidade(s) - Troco: R$ 1.29
+Manga: 21 unidade(s) - Troco: R$ 0.00
+'''
+
+[[tests]]
+input = '''
+5
+Figo 11.68
+Morango 3.09
+Pera 1.94
+Acerola 6.51
+Manga 13.34
+29.33
+'''
+output = '''
+Figo: 2 unidade(s) - Troco: R$ 5.97
+Morango: 9 unidade(s) - Troco: R$ 1.52
+Pera: 15 unidade(s) - Troco: R$ 0.23
+Acerola: 4 unidade(s) - Troco: R$ 3.29
+Manga: 2 unidade(s) - Troco: R$ 2.65
+'''
+
+[[tests]]
+input = '''
+4
+Goiaba 12.20
+Kiwi 3.87
+Acerola 13.16
+Caju 3.64
+40.29
+'''
+output = '''
+Goiaba: 3 unidade(s) - Troco: R$ 3.69
+Kiwi: 10 unidade(s) - Troco: R$ 1.59
+Acerola: 3 unidade(s) - Troco: R$ 0.81
+Caju: 11 unidade(s) - Troco: R$ 0.25
+'''
+
+[[tests]]
+input = '''
+5
+Jaca 1.10
+Manga 2.88
+Mamao 14.76
+Morango 12.57
+Figo 2.68
+12.23
+'''
+output = '''
+Jaca: 11 unidade(s) - Troco: R$ 0.13
+Manga: 4 unidade(s) - Troco: R$ 0.71
+Mamao: 0 unidade(s) - Troco: R$ 12.23
+Morango: 0 unidade(s) - Troco: R$ 12.23
+Figo: 4 unidade(s) - Troco: R$ 1.51
+'''
+
+[[tests]]
+input = '''
+5
+Caju 1.22
+Manga 10.82
+Morango 1.64
+Figo 14.92
+Pera 13.85
+39.65
+'''
+output = '''
+Caju: 32 unidade(s) - Troco: R$ 0.61
+Manga: 3 unidade(s) - Troco: R$ 7.19
+Morango: 24 unidade(s) - Troco: R$ 0.29
+Figo: 2 unidade(s) - Troco: R$ 9.81
+Pera: 2 unidade(s) - Troco: R$ 11.95
+'''
+
+[[tests]]
+input = '''
+3
+Goiaba 11.54
+Jaca 7.47
+Kiwi 1.39
+31.68
+'''
+output = '''
+Goiaba: 2 unidade(s) - Troco: R$ 8.60
+Jaca: 4 unidade(s) - Troco: R$ 1.80
+Kiwi: 22 unidade(s) - Troco: R$ 1.10
+'''
+
+[[tests]]
+input = '''
+3
+Acerola 3.42
+Morango 11.65
+Kiwi 10.63
+28.27
+'''
+output = '''
+Acerola: 8 unidade(s) - Troco: R$ 0.91
+Morango: 2 unidade(s) - Troco: R$ 4.97
+Kiwi: 2 unidade(s) - Troco: R$ 7.01
+'''
+
+[[tests]]
+input = '''
+1
+Abacate 2.89
+48.40
+'''
+output = '''
+Abacate: 16 unidade(s) - Troco: R$ 2.16
+'''
+
+[[tests]]
+input = '''
+2
+Goiaba 2.86
+Manga 2.68
+5.44
+'''
+output = '''
+Goiaba: 1 unidade(s) - Troco: R$ 2.58
+Manga: 2 unidade(s) - Troco: R$ 0.08
+'''
+
+[[tests]]
+input = '''
+1
+Manga 0.55
+25.31
+'''
+output = '''
+Manga: 46 unidade(s) - Troco: R$ 0.01
+'''
+
+[[tests]]
+input = '''
+2
+Acerola 4.33
+Uva 11.38
+4.24
+'''
+output = '''
+Acerola: 0 unidade(s) - Troco: R$ 4.24
+Uva: 0 unidade(s) - Troco: R$ 4.24
+'''
+
+[[tests]]
+input = '''
+4
+Morango 0.90
+Manga 5.29
+Goiaba 6.22
+Jaca 3.08
+34.32
+'''
+output = '''
+Morango: 38 unidade(s) - Troco: R$ 0.12
+Manga: 6 unidade(s) - Troco: R$ 2.58
+Goiaba: 5 unidade(s) - Troco: R$ 3.22
+Jaca: 11 unidade(s) - Troco: R$ 0.44
+'''
+
+[[tests]]
+input = '''
+5
+Goiaba 2.24
+Morango 9.83
+Kiwi 11.28
+Jaca 9.61
+Caju 8.78
+37.71
+'''
+output = '''
+Goiaba: 16 unidade(s) - Troco: R$ 1.87
+Morango: 3 unidade(s) - Troco: R$ 8.22
+Kiwi: 3 unidade(s) - Troco: R$ 3.87
+Jaca: 3 unidade(s) - Troco: R$ 8.88
+Caju: 4 unidade(s) - Troco: R$ 2.59
+'''
+
+[[tests]]
+input = '''
+5
+Goiaba 8.30
+Caju 10.55
+Acerola 10.23
+Mamao 12.08
+Manga 4.27
+21.92
+'''
+output = '''
+Goiaba: 2 unidade(s) - Troco: R$ 5.32
+Caju: 2 unidade(s) - Troco: R$ 0.82
+Acerola: 2 unidade(s) - Troco: R$ 1.46
+Mamao: 1 unidade(s) - Troco: R$ 9.84
+Manga: 5 unidade(s) - Troco: R$ 0.57
+'''
+
+[[tests]]
+input = '''
+3
+Kiwi 2.06
+Figo 11.50
+Acerola 2.76
+44.14
+'''
+output = '''
+Kiwi: 21 unidade(s) - Troco: R$ 0.88
+Figo: 3 unidade(s) - Troco: R$ 9.64
+Acerola: 15 unidade(s) - Troco: R$ 2.74
+'''
+
+[[tests]]
+input = '''
+1
+Mamao 11.32
+34.61
+'''
+output = '''
+Mamao: 3 unidade(s) - Troco: R$ 0.65
+'''
+
+[[tests]]
+input = '''
+4
+Mamao 5.02
+Abacate 7.64
+Acerola 1.23
+Figo 6.96
+11.76
+'''
+output = '''
+Mamao: 2 unidade(s) - Troco: R$ 1.72
+Abacate: 1 unidade(s) - Troco: R$ 4.12
+Acerola: 9 unidade(s) - Troco: R$ 0.69
+Figo: 1 unidade(s) - Troco: R$ 4.80
+'''
+
+[[tests]]
+input = '''
+2
+Pera 14.56
+Jaca 12.17
+5.07
+'''
+output = '''
+Pera: 0 unidade(s) - Troco: R$ 5.07
+Jaca: 0 unidade(s) - Troco: R$ 5.07
+'''
+
+[[tests]]
+input = '''
+1
+Acerola 13.15
+43.28
+'''
+output = '''
+Acerola: 3 unidade(s) - Troco: R$ 3.83
+'''
+
+[[tests]]
+input = '''
+4
+Manga 13.57
+Mamao 11.02
+Caju 12.77
+Goiaba 1.59
+15.74
+'''
+output = '''
+Manga: 1 unidade(s) - Troco: R$ 2.17
+Mamao: 1 unidade(s) - Troco: R$ 4.72
+Caju: 1 unidade(s) - Troco: R$ 2.97
+Goiaba: 9 unidade(s) - Troco: R$ 1.43
+'''
+
+[[tests]]
+input = '''
+1
+Morango 3.25
+5.01
+'''
+output = '''
+Morango: 1 unidade(s) - Troco: R$ 1.76
+'''
+
+[[tests]]
+input = '''
+3
+Goiaba 3.41
+Caju 2.67
+Morango 14.30
+2.54
+'''
+output = '''
+Goiaba: 0 unidade(s) - Troco: R$ 2.54
+Caju: 0 unidade(s) - Troco: R$ 2.54
+Morango: 0 unidade(s) - Troco: R$ 2.54
+'''
+
+[[tests]]
+input = '''
+3
+Morango 4.00
+Caju 7.53
+Pera 8.89
+13.70
+'''
+output = '''
+Morango: 3 unidade(s) - Troco: R$ 1.70
+Caju: 1 unidade(s) - Troco: R$ 6.17
+Pera: 1 unidade(s) - Troco: R$ 4.81
+'''
+
+[[tests]]
+input = '''
+5
+Caju 1.86
+Manga 3.51
+Mamao 7.81
+Pera 14.44
+Uva 14.72
+1.75
+'''
+output = '''
+Caju: 0 unidade(s) - Troco: R$ 1.75
+Manga: 0 unidade(s) - Troco: R$ 1.75
+Mamao: 0 unidade(s) - Troco: R$ 1.75
+Pera: 0 unidade(s) - Troco: R$ 1.75
+Uva: 0 unidade(s) - Troco: R$ 1.75
+'''
+
+[[tests]]
+input = '''
+5
+Manga 7.13
+Acerola 6.87
+Kiwi 5.89
+Caju 0.90
+Figo 6.13
+34.03
+'''
+output = '''
+Manga: 4 unidade(s) - Troco: R$ 5.51
+Acerola: 4 unidade(s) - Troco: R$ 6.55
+Kiwi: 5 unidade(s) - Troco: R$ 4.58
+Caju: 37 unidade(s) - Troco: R$ 0.73
+Figo: 5 unidade(s) - Troco: R$ 3.38
+'''
+
+[[tests]]
+input = '''
+5
+Jaca 6.85
+Acerola 5.13
+Pera 6.15
+Caju 4.83
+Abacate 6.01
+31.50
+'''
+output = '''
+Jaca: 4 unidade(s) - Troco: R$ 4.10
+Acerola: 6 unidade(s) - Troco: R$ 0.72
+Pera: 5 unidade(s) - Troco: R$ 0.75
+Caju: 6 unidade(s) - Troco: R$ 2.52
+Abacate: 5 unidade(s) - Troco: R$ 1.45
+'''
+
+[[tests]]
+input = '''
+5
+Uva 0.98
+Abacate 1.24
+Figo 12.61
+Acerola 8.11
+Manga 7.18
+23.99
+'''
+output = '''
+Uva: 24 unidade(s) - Troco: R$ 0.47
+Abacate: 19 unidade(s) - Troco: R$ 0.43
+Figo: 1 unidade(s) - Troco: R$ 11.38
+Acerola: 2 unidade(s) - Troco: R$ 7.77
+Manga: 3 unidade(s) - Troco: R$ 2.45
+'''
+
+[[tests]]
+input = '''
+4
+Goiaba 6.06
+Figo 8.38
+Caju 14.99
+Manga 10.45
+24.11
+'''
+output = '''
+Goiaba: 3 unidade(s) - Troco: R$ 5.93
+Figo: 2 unidade(s) - Troco: R$ 7.35
+Caju: 1 unidade(s) - Troco: R$ 9.12
+Manga: 2 unidade(s) - Troco: R$ 3.21
+'''
+

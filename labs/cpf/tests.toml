@@ -1,0 +1,410 @@
+[[tests]]
+input = '''
+2
+Maria 12345678900 28
+Joao 98765432100 35
+12345678900
+'''
+output = '''
+Nome: Maria | Idade: 28 anos | CPF: 12345678900
+'''
+
+[[tests]]
+input = '''
+2
+Maria 12345678900 28
+Joao 98765432100 35
+11111111111
+'''
+output = '''
+Pessoa nao encontrada
+'''
+
+[[tests]]
+input = '''
+3
+Ana 11122233344 19
+Beto 55566677788 42
+Carla 99988877766 61
+55566677788
+'''
+output = '''
+Nome: Beto | Idade: 42 anos | CPF: 55566677788
+'''
+
+[[tests]]
+input = '''
+4
+Camila 40450560670 22
+Marina 20230340450 31
+Thiago 50560670780 37
+Lucas 10120230340 25
+23976891942
+'''
+output = '''
+Pessoa nao encontrada
+'''
+
+[[tests]]
+input = '''
+3
+Lucas 10120230340 25
+Larissa 60670780890 29
+Diego 30340450560 40
+52160634845
+'''
+output = '''
+Pessoa nao encontrada
+'''
+
+[[tests]]
+input = '''
+1
+Diego 30340450560 40
+21781377556
+'''
+output = '''
+Pessoa nao encontrada
+'''
+
+[[tests]]
+input = '''
+3
+Larissa 60670780890 29
+Thiago 50560670780 37
+Diego 30340450560 40
+60670780890
+'''
+output = '''
+Nome: Larissa | Idade: 29 anos | CPF: 60670780890
+'''
+
+[[tests]]
+input = '''
+4
+Diego 30340450560 40
+Thiago 50560670780 37
+Marina 20230340450 31
+Larissa 60670780890 29
+65773930729
+'''
+output = '''
+Pessoa nao encontrada
+'''
+
+[[tests]]
+input = '''
+4
+Lucas 10120230340 25
+Larissa 60670780890 29
+Diego 30340450560 40
+Marina 20230340450 31
+10120230340
+'''
+output = '''
+Nome: Lucas | Idade: 25 anos | CPF: 10120230340
+'''
+
+[[tests]]
+input = '''
+3
+Thiago 50560670780 37
+Larissa 60670780890 29
+Lucas 10120230340 25
+67120044472
+'''
+output = '''
+Pessoa nao encontrada
+'''
+
+[[tests]]
+input = '''
+1
+Thiago 50560670780 37
+50560670780
+'''
+output = '''
+Nome: Thiago | Idade: 37 anos | CPF: 50560670780
+'''
+
+[[tests]]
+input = '''
+2
+Camila 40450560670 22
+Thiago 50560670780 37
+40450560670
+'''
+output = '''
+Nome: Camila | Idade: 22 anos | CPF: 40450560670
+'''
+
+[[tests]]
+input = '''
+2
+Marina 20230340450 31
+Lucas 10120230340 25
+20230340450
+'''
+output = '''
+Nome: Marina | Idade: 31 anos | CPF: 20230340450
+'''
+
+[[tests]]
+input = '''
+4
+Lucas 10120230340 25
+Larissa 60670780890 29
+Diego 30340450560 40
+Camila 40450560670 22
+10120230340
+'''
+output = '''
+Nome: Lucas | Idade: 25 anos | CPF: 10120230340
+'''
+
+[[tests]]
+input = '''
+1
+Camila 40450560670 22
+40450560670
+'''
+output = '''
+Nome: Camila | Idade: 22 anos | CPF: 40450560670
+'''
+
+[[tests]]
+input = '''
+1
+Marina 20230340450 31
+20230340450
+'''
+output = '''
+Nome: Marina | Idade: 31 anos | CPF: 20230340450
+'''
+
+[[tests]]
+input = '''
+2
+Camila 40450560670 22
+Larissa 60670780890 29
+56373279845
+'''
+output = '''
+Pessoa nao encontrada
+'''
+
+[[tests]]
+input = '''
+3
+Diego 30340450560 40
+Marina 20230340450 31
+Larissa 60670780890 29
+19335091629
+'''
+output = '''
+Pessoa nao encontrada
+'''
+
+[[tests]]
+input = '''
+1
+Thiago 50560670780 37
+75382809767
+'''
+output = '''
+Pessoa nao encontrada
+'''
+
+[[tests]]
+input = '''
+4
+Camila 40450560670 22
+Diego 30340450560 40
+Larissa 60670780890 29
+Thiago 50560670780 37
+40450560670
+'''
+output = '''
+Nome: Camila | Idade: 22 anos | CPF: 40450560670
+'''
+
+[[tests]]
+input = '''
+4
+Thiago 50560670780 37
+Lucas 10120230340 25
+Marina 20230340450 31
+Camila 40450560670 22
+17290356189
+'''
+output = '''
+Pessoa nao encontrada
+'''
+
+[[tests]]
+input = '''
+4
+Lucas 10120230340 25
+Thiago 50560670780 37
+Marina 20230340450 31
+Larissa 60670780890 29
+10120230340
+'''
+output = '''
+Nome: Lucas | Idade: 25 anos | CPF: 10120230340
+'''
+
+[[tests]]
+input = '''
+2
+Camila 40450560670 22
+Diego 30340450560 40
+40450560670
+'''
+output = '''
+Nome: Camila | Idade: 22 anos | CPF: 40450560670
+'''
+
+[[tests]]
+input = '''
+4
+Camila 40450560670 22
+Thiago 50560670780 37
+Larissa 60670780890 29
+Marina 20230340450 31
+20230340450
+'''
+output = '''
+Nome: Marina | Idade: 31 anos | CPF: 20230340450
+'''
+
+[[tests]]
+input = '''
+4
+Marina 20230340450 31
+Thiago 50560670780 37
+Larissa 60670780890 29
+Diego 30340450560 40
+30340450560
+'''
+output = '''
+Nome: Diego | Idade: 40 anos | CPF: 30340450560
+'''
+
+[[tests]]
+input = '''
+3
+Thiago 50560670780 37
+Marina 20230340450 31
+Lucas 10120230340 25
+50560670780
+'''
+output = '''
+Nome: Thiago | Idade: 37 anos | CPF: 50560670780
+'''
+
+[[tests]]
+input = '''
+1
+Lucas 10120230340 25
+10120230340
+'''
+output = '''
+Nome: Lucas | Idade: 25 anos | CPF: 10120230340
+'''
+
+[[tests]]
+input = '''
+4
+Thiago 50560670780 37
+Diego 30340450560 40
+Marina 20230340450 31
+Lucas 10120230340 25
+10120230340
+'''
+output = '''
+Nome: Lucas | Idade: 25 anos | CPF: 10120230340
+'''
+
+[[tests]]
+input = '''
+2
+Lucas 10120230340 25
+Thiago 50560670780 37
+10120230340
+'''
+output = '''
+Nome: Lucas | Idade: 25 anos | CPF: 10120230340
+'''
+
+[[tests]]
+input = '''
+3
+Diego 30340450560 40
+Lucas 10120230340 25
+Camila 40450560670 22
+40450560670
+'''
+output = '''
+Nome: Camila | Idade: 22 anos | CPF: 40450560670
+'''
+
+[[tests]]
+input = '''
+2
+Thiago 50560670780 37
+Lucas 10120230340 25
+10120230340
+'''
+output = '''
+Nome: Lucas | Idade: 25 anos | CPF: 10120230340
+'''
+
+[[tests]]
+input = '''
+1
+Marina 20230340450 31
+20230340450
+'''
+output = '''
+Nome: Marina | Idade: 31 anos | CPF: 20230340450
+'''
+
+[[tests]]
+input = '''
+4
+Lucas 10120230340 25
+Thiago 50560670780 37
+Diego 30340450560 40
+Camila 40450560670 22
+93634858148
+'''
+output = '''
+Pessoa nao encontrada
+'''
+
+[[tests]]
+input = '''
+4
+Diego 30340450560 40
+Lucas 10120230340 25
+Camila 40450560670 22
+Larissa 60670780890 29
+60670780890
+'''
+output = '''
+Nome: Larissa | Idade: 29 anos | CPF: 60670780890
+'''
+
+[[tests]]
+input = '''
+3
+Lucas 10120230340 25
+Larissa 60670780890 29
+Thiago 50560670780 37
+10120230340
+'''
+output = '''
+Nome: Lucas | Idade: 25 anos | CPF: 10120230340
+'''
+

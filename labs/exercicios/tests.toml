@@ -1,0 +1,447 @@
+[[tests]]
+input = '''
+1 250
+corrida 30
+'''
+output = '''
+Tempo total: 30 min
+Calorias queimadas: 300 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+1 400
+corrida 30
+'''
+output = '''
+Tempo total: 30 min
+Calorias queimadas: 300 kcal
+Faltam 100 kcal para atingir a meta
+'''
+
+[[tests]]
+input = '''
+2 300
+natacao 20
+caminhada 30
+'''
+output = '''
+Tempo total: 50 min
+Calorias queimadas: 300 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+3 500
+musculacao 40
+ciclismo 30
+corrida 10
+'''
+output = '''
+Tempo total: 80 min
+Calorias queimadas: 540 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+1 0
+caminhada 15
+'''
+output = '''
+Tempo total: 15 min
+Calorias queimadas: 60 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+3 396
+corrida 43
+caminhada 33
+musculacao 45
+'''
+output = '''
+Tempo total: 121 min
+Calorias queimadas: 787 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+2 485
+corrida 16
+caminhada 20
+'''
+output = '''
+Tempo total: 36 min
+Calorias queimadas: 240 kcal
+Faltam 245 kcal para atingir a meta
+'''
+
+[[tests]]
+input = '''
+4 922
+caminhada 21
+corrida 52
+caminhada 16
+corrida 36
+'''
+output = '''
+Tempo total: 125 min
+Calorias queimadas: 1028 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+2 876
+corrida 38
+corrida 35
+'''
+output = '''
+Tempo total: 73 min
+Calorias queimadas: 730 kcal
+Faltam 146 kcal para atingir a meta
+'''
+
+[[tests]]
+input = '''
+3 392
+natacao 43
+caminhada 24
+natacao 50
+'''
+output = '''
+Tempo total: 117 min
+Calorias queimadas: 933 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+1 537
+natacao 27
+'''
+output = '''
+Tempo total: 27 min
+Calorias queimadas: 243 kcal
+Faltam 294 kcal para atingir a meta
+'''
+
+[[tests]]
+input = '''
+2 923
+corrida 52
+ciclismo 52
+'''
+output = '''
+Tempo total: 104 min
+Calorias queimadas: 936 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+4 671
+caminhada 60
+ciclismo 23
+ciclismo 34
+ciclismo 10
+'''
+output = '''
+Tempo total: 127 min
+Calorias queimadas: 776 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+3 828
+caminhada 37
+musculacao 36
+musculacao 16
+'''
+output = '''
+Tempo total: 89 min
+Calorias queimadas: 408 kcal
+Faltam 420 kcal para atingir a meta
+'''
+
+[[tests]]
+input = '''
+4 585
+natacao 47
+corrida 32
+natacao 42
+natacao 24
+'''
+output = '''
+Tempo total: 145 min
+Calorias queimadas: 1337 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+1 913
+caminhada 45
+'''
+output = '''
+Tempo total: 45 min
+Calorias queimadas: 180 kcal
+Faltam 733 kcal para atingir a meta
+'''
+
+[[tests]]
+input = '''
+2 281
+natacao 21
+corrida 16
+'''
+output = '''
+Tempo total: 37 min
+Calorias queimadas: 349 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+2 114
+corrida 26
+corrida 44
+'''
+output = '''
+Tempo total: 70 min
+Calorias queimadas: 700 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+3 961
+corrida 40
+caminhada 47
+natacao 31
+'''
+output = '''
+Tempo total: 118 min
+Calorias queimadas: 867 kcal
+Faltam 94 kcal para atingir a meta
+'''
+
+[[tests]]
+input = '''
+1 125
+corrida 51
+'''
+output = '''
+Tempo total: 51 min
+Calorias queimadas: 510 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+4 202
+ciclismo 38
+corrida 14
+musculacao 19
+musculacao 30
+'''
+output = '''
+Tempo total: 101 min
+Calorias queimadas: 689 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+4 857
+natacao 50
+caminhada 34
+natacao 36
+natacao 37
+'''
+output = '''
+Tempo total: 157 min
+Calorias queimadas: 1243 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+3 820
+natacao 34
+corrida 39
+ciclismo 17
+'''
+output = '''
+Tempo total: 90 min
+Calorias queimadas: 832 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+4 942
+ciclismo 17
+caminhada 27
+corrida 43
+natacao 11
+'''
+output = '''
+Tempo total: 98 min
+Calorias queimadas: 773 kcal
+Faltam 169 kcal para atingir a meta
+'''
+
+[[tests]]
+input = '''
+1 512
+ciclismo 45
+'''
+output = '''
+Tempo total: 45 min
+Calorias queimadas: 360 kcal
+Faltam 152 kcal para atingir a meta
+'''
+
+[[tests]]
+input = '''
+4 764
+natacao 25
+ciclismo 37
+corrida 19
+corrida 20
+'''
+output = '''
+Tempo total: 101 min
+Calorias queimadas: 911 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+4 339
+corrida 22
+musculacao 52
+corrida 22
+caminhada 38
+'''
+output = '''
+Tempo total: 134 min
+Calorias queimadas: 852 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+4 614
+ciclismo 46
+musculacao 36
+ciclismo 36
+corrida 21
+'''
+output = '''
+Tempo total: 139 min
+Calorias queimadas: 1046 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+1 475
+musculacao 10
+'''
+output = '''
+Tempo total: 10 min
+Calorias queimadas: 50 kcal
+Faltam 425 kcal para atingir a meta
+'''
+
+[[tests]]
+input = '''
+3 887
+corrida 39
+caminhada 51
+corrida 58
+'''
+output = '''
+Tempo total: 148 min
+Calorias queimadas: 1174 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+5 557
+musculacao 18
+corrida 15
+natacao 19
+musculacao 46
+musculacao 11
+'''
+output = '''
+Tempo total: 109 min
+Calorias queimadas: 696 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+3 978
+musculacao 30
+ciclismo 36
+caminhada 44
+'''
+output = '''
+Tempo total: 110 min
+Calorias queimadas: 614 kcal
+Faltam 364 kcal para atingir a meta
+'''
+
+[[tests]]
+input = '''
+4 370
+ciclismo 37
+corrida 21
+natacao 41
+musculacao 56
+'''
+output = '''
+Tempo total: 155 min
+Calorias queimadas: 1155 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+5 648
+corrida 31
+ciclismo 44
+ciclismo 60
+musculacao 32
+caminhada 60
+'''
+output = '''
+Tempo total: 227 min
+Calorias queimadas: 1542 kcal
+Meta atingida! Parabens!
+'''
+
+[[tests]]
+input = '''
+3 807
+caminhada 32
+natacao 31
+corrida 16
+'''
+output = '''
+Tempo total: 79 min
+Calorias queimadas: 567 kcal
+Faltam 240 kcal para atingir a meta
+'''
+

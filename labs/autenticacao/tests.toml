@@ -1,0 +1,398 @@
+[[tests]]
+input = '''
+1
+maria 1234 Maria
+maria 1234
+'''
+output = '''
+Acesso permitido: Maria
+'''
+
+[[tests]]
+input = '''
+1
+maria 1234 Maria
+maria 9999
+'''
+output = '''
+Senha incorreta
+'''
+
+[[tests]]
+input = '''
+1
+maria 1234 Maria
+joao 1234
+'''
+output = '''
+Usuario nao encontrado
+'''
+
+[[tests]]
+input = '''
+3
+admin root Admin
+joao abcd Joao
+clara 7788 Clara
+clara 7788
+'''
+output = '''
+Acesso permitido: Clara
+'''
+
+[[tests]]
+input = '''
+3
+admin root Admin
+joao abcd Joao
+clara 7788 Clara
+joao errada
+'''
+output = '''
+Senha incorreta
+'''
+
+[[tests]]
+input = '''
+4
+dani 444 Dani
+fabio 666 Fabio
+edu 555 Edu
+carlos 333 Carlos
+desconhecido_55 123
+'''
+output = '''
+Usuario nao encontrado
+'''
+
+[[tests]]
+input = '''
+2
+fabio 666 Fabio
+beto 222 Beto
+beto pass_6236
+'''
+output = '''
+Senha incorreta
+'''
+
+[[tests]]
+input = '''
+4
+dani 444 Dani
+edu 555 Edu
+ana 111 Ana
+fabio 666 Fabio
+desconhecido_94 123
+'''
+output = '''
+Usuario nao encontrado
+'''
+
+[[tests]]
+input = '''
+4
+ana 111 Ana
+beto 222 Beto
+fabio 666 Fabio
+dani 444 Dani
+ana pass_4198
+'''
+output = '''
+Senha incorreta
+'''
+
+[[tests]]
+input = '''
+1
+carlos 333 Carlos
+desconhecido_65 123
+'''
+output = '''
+Usuario nao encontrado
+'''
+
+[[tests]]
+input = '''
+2
+beto 222 Beto
+carlos 333 Carlos
+carlos pass_7918
+'''
+output = '''
+Senha incorreta
+'''
+
+[[tests]]
+input = '''
+2
+beto 222 Beto
+dani 444 Dani
+beto 222
+'''
+output = '''
+Acesso permitido: Beto
+'''
+
+[[tests]]
+input = '''
+2
+edu 555 Edu
+beto 222 Beto
+edu pass_1671
+'''
+output = '''
+Senha incorreta
+'''
+
+[[tests]]
+input = '''
+4
+beto 222 Beto
+fabio 666 Fabio
+dani 444 Dani
+carlos 333 Carlos
+desconhecido_79 123
+'''
+output = '''
+Usuario nao encontrado
+'''
+
+[[tests]]
+input = '''
+2
+carlos 333 Carlos
+ana 111 Ana
+carlos 333
+'''
+output = '''
+Acesso permitido: Carlos
+'''
+
+[[tests]]
+input = '''
+2
+ana 111 Ana
+fabio 666 Fabio
+fabio pass_6441
+'''
+output = '''
+Senha incorreta
+'''
+
+[[tests]]
+input = '''
+3
+beto 222 Beto
+dani 444 Dani
+ana 111 Ana
+beto pass_8283
+'''
+output = '''
+Senha incorreta
+'''
+
+[[tests]]
+input = '''
+2
+ana 111 Ana
+beto 222 Beto
+desconhecido_72 123
+'''
+output = '''
+Usuario nao encontrado
+'''
+
+[[tests]]
+input = '''
+3
+ana 111 Ana
+fabio 666 Fabio
+carlos 333 Carlos
+fabio 666
+'''
+output = '''
+Acesso permitido: Fabio
+'''
+
+[[tests]]
+input = '''
+2
+edu 555 Edu
+fabio 666 Fabio
+edu pass_5347
+'''
+output = '''
+Senha incorreta
+'''
+
+[[tests]]
+input = '''
+3
+dani 444 Dani
+carlos 333 Carlos
+ana 111 Ana
+ana pass_9289
+'''
+output = '''
+Senha incorreta
+'''
+
+[[tests]]
+input = '''
+1
+fabio 666 Fabio
+fabio pass_1363
+'''
+output = '''
+Senha incorreta
+'''
+
+[[tests]]
+input = '''
+1
+fabio 666 Fabio
+desconhecido_99 123
+'''
+output = '''
+Usuario nao encontrado
+'''
+
+[[tests]]
+input = '''
+2
+carlos 333 Carlos
+fabio 666 Fabio
+fabio pass_1524
+'''
+output = '''
+Senha incorreta
+'''
+
+[[tests]]
+input = '''
+1
+fabio 666 Fabio
+desconhecido_73 123
+'''
+output = '''
+Usuario nao encontrado
+'''
+
+[[tests]]
+input = '''
+1
+carlos 333 Carlos
+carlos 333
+'''
+output = '''
+Acesso permitido: Carlos
+'''
+
+[[tests]]
+input = '''
+3
+edu 555 Edu
+ana 111 Ana
+fabio 666 Fabio
+desconhecido_80 123
+'''
+output = '''
+Usuario nao encontrado
+'''
+
+[[tests]]
+input = '''
+3
+beto 222 Beto
+fabio 666 Fabio
+dani 444 Dani
+desconhecido_25 123
+'''
+output = '''
+Usuario nao encontrado
+'''
+
+[[tests]]
+input = '''
+4
+carlos 333 Carlos
+beto 222 Beto
+dani 444 Dani
+edu 555 Edu
+dani 444
+'''
+output = '''
+Acesso permitido: Dani
+'''
+
+[[tests]]
+input = '''
+2
+dani 444 Dani
+fabio 666 Fabio
+desconhecido_94 123
+'''
+output = '''
+Usuario nao encontrado
+'''
+
+[[tests]]
+input = '''
+3
+beto 222 Beto
+dani 444 Dani
+ana 111 Ana
+dani 444
+'''
+output = '''
+Acesso permitido: Dani
+'''
+
+[[tests]]
+input = '''
+2
+edu 555 Edu
+fabio 666 Fabio
+desconhecido_78 123
+'''
+output = '''
+Usuario nao encontrado
+'''
+
+[[tests]]
+input = '''
+3
+fabio 666 Fabio
+carlos 333 Carlos
+dani 444 Dani
+dani 444
+'''
+output = '''
+Acesso permitido: Dani
+'''
+
+[[tests]]
+input = '''
+3
+dani 444 Dani
+carlos 333 Carlos
+fabio 666 Fabio
+carlos 333
+'''
+output = '''
+Acesso permitido: Carlos
+'''
+
+[[tests]]
+input = '''
+3
+beto 222 Beto
+edu 555 Edu
+ana 111 Ana
+ana 111
+'''
+output = '''
+Acesso permitido: Ana
+'''
+

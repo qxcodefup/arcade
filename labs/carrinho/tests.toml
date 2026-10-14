@@ -1,0 +1,460 @@
+[[tests]]
+input = '''
+1
+Camiseta 50.00 2
+DESC10
+'''
+output = '''
+Subtotal: R$ 100.00
+Desconto: R$ 10.00
+Total: R$ 90.00
+'''
+
+[[tests]]
+input = '''
+1
+Camiseta 50.00 2
+DESC20
+'''
+output = '''
+Subtotal: R$ 100.00
+Desconto: R$ 20.00
+Total: R$ 80.00
+'''
+
+[[tests]]
+input = '''
+2
+Tenis 120.00 1
+Meia 15.00 3
+SEM_CUPOM
+'''
+output = '''
+Subtotal: R$ 165.00
+Desconto: R$ 0.00
+Total: R$ 165.00
+'''
+
+[[tests]]
+input = '''
+1
+Mochila 27.96 4
+DESC20
+'''
+output = '''
+Subtotal: R$ 111.84
+Desconto: R$ 22.37
+Total: R$ 89.47
+'''
+
+[[tests]]
+input = '''
+2
+Mochila 181.52 1
+Caneca 155.45 2
+NENHUM
+'''
+output = '''
+Subtotal: R$ 492.42
+Desconto: R$ 0.00
+Total: R$ 492.42
+'''
+
+[[tests]]
+input = '''
+1
+Mochila 111.19 1
+NENHUM
+'''
+output = '''
+Subtotal: R$ 111.19
+Desconto: R$ 0.00
+Total: R$ 111.19
+'''
+
+[[tests]]
+input = '''
+3
+Caderno 144.85 5
+Fone 25.97 3
+Livro 98.46 1
+DESC10
+'''
+output = '''
+Subtotal: R$ 900.62
+Desconto: R$ 90.06
+Total: R$ 810.56
+'''
+
+[[tests]]
+input = '''
+1
+Caderno 90.35 2
+PROMO5
+'''
+output = '''
+Subtotal: R$ 180.70
+Desconto: R$ 0.00
+Total: R$ 180.70
+'''
+
+[[tests]]
+input = '''
+2
+Cabo 122.26 4
+Mochila 166.44 5
+NENHUM
+'''
+output = '''
+Subtotal: R$ 1321.24
+Desconto: R$ 0.00
+Total: R$ 1321.24
+'''
+
+[[tests]]
+input = '''
+1
+Garrafa 136.97 1
+DESC10
+'''
+output = '''
+Subtotal: R$ 136.97
+Desconto: R$ 13.70
+Total: R$ 123.27
+'''
+
+[[tests]]
+input = '''
+3
+Cabo 130.19 1
+Mouse 123.46 3
+Fone 149.82 5
+DESC20
+'''
+output = '''
+Subtotal: R$ 1249.67
+Desconto: R$ 249.93
+Total: R$ 999.74
+'''
+
+[[tests]]
+input = '''
+1
+Mochila 170.41 1
+PROMO5
+'''
+output = '''
+Subtotal: R$ 170.41
+Desconto: R$ 0.00
+Total: R$ 170.41
+'''
+
+[[tests]]
+input = '''
+4
+Caderno 187.16 4
+Garrafa 38.19 5
+Mochila 174.41 2
+Cabo 109.03 2
+NENHUM
+'''
+output = '''
+Subtotal: R$ 1506.47
+Desconto: R$ 0.00
+Total: R$ 1506.47
+'''
+
+[[tests]]
+input = '''
+4
+Caderno 32.06 4
+Caneca 32.75 4
+Teclado 56.18 4
+Cabo 52.89 5
+DESC20
+'''
+output = '''
+Subtotal: R$ 748.41
+Desconto: R$ 149.68
+Total: R$ 598.73
+'''
+
+[[tests]]
+input = '''
+4
+Caneca 10.33 1
+Fone 89.01 5
+Teclado 69.83 5
+Livro 128.54 3
+DESC20
+'''
+output = '''
+Subtotal: R$ 1190.15
+Desconto: R$ 238.03
+Total: R$ 952.12
+'''
+
+[[tests]]
+input = '''
+3
+Mochila 39.40 5
+Garrafa 136.77 3
+Caneca 92.32 4
+DESC10
+'''
+output = '''
+Subtotal: R$ 976.59
+Desconto: R$ 97.66
+Total: R$ 878.93
+'''
+
+[[tests]]
+input = '''
+3
+Mouse 95.18 3
+Fone 34.02 1
+Mochila 118.96 1
+PROMO5
+'''
+output = '''
+Subtotal: R$ 438.52
+Desconto: R$ 0.00
+Total: R$ 438.52
+'''
+
+[[tests]]
+input = '''
+1
+Garrafa 195.27 2
+DESC10
+'''
+output = '''
+Subtotal: R$ 390.54
+Desconto: R$ 39.05
+Total: R$ 351.49
+'''
+
+[[tests]]
+input = '''
+3
+Livro 109.70 5
+Caneca 118.50 1
+Fone 176.71 1
+DESC10
+'''
+output = '''
+Subtotal: R$ 843.71
+Desconto: R$ 84.37
+Total: R$ 759.34
+'''
+
+[[tests]]
+input = '''
+2
+Caderno 132.36 3
+Garrafa 60.91 4
+DESC10
+'''
+output = '''
+Subtotal: R$ 640.72
+Desconto: R$ 64.07
+Total: R$ 576.65
+'''
+
+[[tests]]
+input = '''
+3
+Livro 198.55 3
+Caneca 143.53 4
+Mouse 72.63 5
+DESC20
+'''
+output = '''
+Subtotal: R$ 1532.92
+Desconto: R$ 306.58
+Total: R$ 1226.34
+'''
+
+[[tests]]
+input = '''
+3
+Caderno 119.79 3
+Teclado 196.02 1
+Mouse 192.93 3
+NENHUM
+'''
+output = '''
+Subtotal: R$ 1134.18
+Desconto: R$ 0.00
+Total: R$ 1134.18
+'''
+
+[[tests]]
+input = '''
+3
+Mochila 161.62 5
+Fone 162.10 3
+Cabo 149.80 4
+NENHUM
+'''
+output = '''
+Subtotal: R$ 1893.60
+Desconto: R$ 0.00
+Total: R$ 1893.60
+'''
+
+[[tests]]
+input = '''
+1
+Livro 125.26 5
+PROMO5
+'''
+output = '''
+Subtotal: R$ 626.30
+Desconto: R$ 0.00
+Total: R$ 626.30
+'''
+
+[[tests]]
+input = '''
+3
+Caderno 189.40 2
+Mochila 140.01 3
+Fone 100.93 2
+PROMO5
+'''
+output = '''
+Subtotal: R$ 1000.69
+Desconto: R$ 0.00
+Total: R$ 1000.69
+'''
+
+[[tests]]
+input = '''
+4
+Teclado 93.55 2
+Mouse 196.51 4
+Mochila 67.78 1
+Fone 138.35 2
+DESC10
+'''
+output = '''
+Subtotal: R$ 1317.62
+Desconto: R$ 131.76
+Total: R$ 1185.86
+'''
+
+[[tests]]
+input = '''
+1
+Caderno 178.48 3
+PROMO5
+'''
+output = '''
+Subtotal: R$ 535.44
+Desconto: R$ 0.00
+Total: R$ 535.44
+'''
+
+[[tests]]
+input = '''
+1
+Fone 182.49 4
+PROMO5
+'''
+output = '''
+Subtotal: R$ 729.96
+Desconto: R$ 0.00
+Total: R$ 729.96
+'''
+
+[[tests]]
+input = '''
+2
+Fone 49.86 3
+Caneca 90.65 3
+DESC20
+'''
+output = '''
+Subtotal: R$ 421.53
+Desconto: R$ 84.31
+Total: R$ 337.22
+'''
+
+[[tests]]
+input = '''
+2
+Teclado 58.56 5
+Caderno 12.96 1
+PROMO5
+'''
+output = '''
+Subtotal: R$ 305.76
+Desconto: R$ 0.00
+Total: R$ 305.76
+'''
+
+[[tests]]
+input = '''
+1
+Garrafa 184.46 1
+NENHUM
+'''
+output = '''
+Subtotal: R$ 184.46
+Desconto: R$ 0.00
+Total: R$ 184.46
+'''
+
+[[tests]]
+input = '''
+1
+Livro 161.85 1
+PROMO5
+'''
+output = '''
+Subtotal: R$ 161.85
+Desconto: R$ 0.00
+Total: R$ 161.85
+'''
+
+[[tests]]
+input = '''
+1
+Livro 192.56 5
+PROMO5
+'''
+output = '''
+Subtotal: R$ 962.80
+Desconto: R$ 0.00
+Total: R$ 962.80
+'''
+
+[[tests]]
+input = '''
+4
+Cabo 135.59 2
+Teclado 135.89 4
+Mochila 179.81 3
+Caneca 45.77 1
+DESC10
+'''
+output = '''
+Subtotal: R$ 1399.94
+Desconto: R$ 139.99
+Total: R$ 1259.95
+'''
+
+[[tests]]
+input = '''
+2
+Caderno 192.27 1
+Livro 35.86 3
+NENHUM
+'''
+output = '''
+Subtotal: R$ 299.85
+Desconto: R$ 0.00
+Total: R$ 299.85
+'''
+

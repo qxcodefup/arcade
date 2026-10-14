@@ -1,0 +1,443 @@
+[[tests]]
+input = '''
+101 Maria 100.00
+2
+D 50.00
+S 30.00
+'''
+output = '''
+Conta: 101 | Titular: Maria | Saldo: R$ 120.00
+'''
+
+[[tests]]
+input = '''
+102 Joao 50.00
+2
+S 80.00
+S 20.00
+'''
+output = '''
+Saldo insuficiente
+Conta: 102 | Titular: Joao | Saldo: R$ 30.00
+'''
+
+[[tests]]
+input = '''
+103 Ana 0.00
+3
+D 100.00
+D 50.00
+S 150.00
+'''
+output = '''
+Conta: 103 | Titular: Ana | Saldo: R$ 0.00
+'''
+
+[[tests]]
+input = '''
+551 Pedro 432.50
+4
+S 144.88
+D 284.87
+D 203.97
+S 270.02
+'''
+output = '''
+Conta: 551 | Titular: Pedro | Saldo: R$ 506.44
+'''
+
+[[tests]]
+input = '''
+514 Rafael 445.73
+1
+S 188.41
+'''
+output = '''
+Conta: 514 | Titular: Rafael | Saldo: R$ 257.32
+'''
+
+[[tests]]
+input = '''
+357 Carlos 100.60
+4
+S 51.86
+D 239.90
+S 163.94
+S 252.19
+'''
+output = '''
+Saldo insuficiente
+Conta: 357 | Titular: Carlos | Saldo: R$ 124.70
+'''
+
+[[tests]]
+input = '''
+309 Fernanda 260.64
+3
+S 165.54
+S 33.16
+S 200.34
+'''
+output = '''
+Saldo insuficiente
+Conta: 309 | Titular: Fernanda | Saldo: R$ 61.94
+'''
+
+[[tests]]
+input = '''
+169 Juliana 426.88
+5
+D 152.54
+D 295.47
+S 293.11
+D 80.88
+D 292.10
+'''
+output = '''
+Conta: 169 | Titular: Juliana | Saldo: R$ 954.76
+'''
+
+[[tests]]
+input = '''
+245 Carlos 283.98
+3
+S 282.20
+S 216.73
+D 278.15
+'''
+output = '''
+Saldo insuficiente
+Conta: 245 | Titular: Carlos | Saldo: R$ 279.93
+'''
+
+[[tests]]
+input = '''
+392 Juliana 286.12
+2
+S 167.66
+D 102.79
+'''
+output = '''
+Conta: 392 | Titular: Juliana | Saldo: R$ 221.25
+'''
+
+[[tests]]
+input = '''
+883 Juliana 103.62
+5
+D 131.53
+D 11.67
+D 56.50
+S 236.39
+S 282.15
+'''
+output = '''
+Saldo insuficiente
+Conta: 883 | Titular: Juliana | Saldo: R$ 66.93
+'''
+
+[[tests]]
+input = '''
+416 Lucas 254.61
+2
+D 55.93
+D 158.24
+'''
+output = '''
+Conta: 416 | Titular: Lucas | Saldo: R$ 468.78
+'''
+
+[[tests]]
+input = '''
+901 Mariana 168.63
+4
+D 221.04
+D 24.74
+S 135.65
+D 223.18
+'''
+output = '''
+Conta: 901 | Titular: Mariana | Saldo: R$ 501.94
+'''
+
+[[tests]]
+input = '''
+592 Carlos 50.14
+5
+D 61.06
+D 124.48
+S 105.96
+S 200.97
+D 238.96
+'''
+output = '''
+Saldo insuficiente
+Conta: 592 | Titular: Carlos | Saldo: R$ 368.68
+'''
+
+[[tests]]
+input = '''
+225 Rafael 397.44
+4
+D 282.49
+D 278.98
+S 198.57
+S 97.71
+'''
+output = '''
+Conta: 225 | Titular: Rafael | Saldo: R$ 662.63
+'''
+
+[[tests]]
+input = '''
+939 Juliana 465.83
+5
+D 236.56
+D 150.39
+S 124.83
+D 135.83
+D 247.18
+'''
+output = '''
+Conta: 939 | Titular: Juliana | Saldo: R$ 1110.96
+'''
+
+[[tests]]
+input = '''
+612 Pedro 117.77
+3
+D 48.76
+S 260.52
+D 192.07
+'''
+output = '''
+Saldo insuficiente
+Conta: 612 | Titular: Pedro | Saldo: R$ 358.60
+'''
+
+[[tests]]
+input = '''
+604 Juliana 421.95
+4
+S 293.87
+S 49.07
+D 53.02
+S 108.53
+'''
+output = '''
+Conta: 604 | Titular: Juliana | Saldo: R$ 23.50
+'''
+
+[[tests]]
+input = '''
+250 Fernanda 147.37
+4
+D 149.87
+D 237.57
+D 13.59
+S 81.32
+'''
+output = '''
+Conta: 250 | Titular: Fernanda | Saldo: R$ 467.08
+'''
+
+[[tests]]
+input = '''
+117 Rafael 357.74
+1
+D 287.04
+'''
+output = '''
+Conta: 117 | Titular: Rafael | Saldo: R$ 644.78
+'''
+
+[[tests]]
+input = '''
+703 Lucas 370.45
+5
+S 159.41
+S 278.02
+D 94.54
+D 245.93
+S 289.47
+'''
+output = '''
+Saldo insuficiente
+Conta: 703 | Titular: Lucas | Saldo: R$ 262.04
+'''
+
+[[tests]]
+input = '''
+344 Beatriz 12.56
+4
+D 166.85
+S 209.79
+D 230.42
+S 222.59
+'''
+output = '''
+Saldo insuficiente
+Conta: 344 | Titular: Beatriz | Saldo: R$ 187.24
+'''
+
+[[tests]]
+input = '''
+306 Fernanda 318.56
+2
+D 129.28
+D 117.83
+'''
+output = '''
+Conta: 306 | Titular: Fernanda | Saldo: R$ 565.67
+'''
+
+[[tests]]
+input = '''
+245 Fernanda 43.35
+4
+S 294.71
+D 61.58
+D 240.14
+S 140.66
+'''
+output = '''
+Saldo insuficiente
+Conta: 245 | Titular: Fernanda | Saldo: R$ 204.41
+'''
+
+[[tests]]
+input = '''
+598 Juliana 252.14
+1
+S 165.04
+'''
+output = '''
+Conta: 598 | Titular: Juliana | Saldo: R$ 87.10
+'''
+
+[[tests]]
+input = '''
+266 Pedro 120.45
+3
+S 61.88
+D 49.28
+D 249.91
+'''
+output = '''
+Conta: 266 | Titular: Pedro | Saldo: R$ 357.76
+'''
+
+[[tests]]
+input = '''
+967 Fernanda 215.85
+1
+S 18.52
+'''
+output = '''
+Conta: 967 | Titular: Fernanda | Saldo: R$ 197.33
+'''
+
+[[tests]]
+input = '''
+925 Mariana 193.64
+2
+S 88.14
+D 92.35
+'''
+output = '''
+Conta: 925 | Titular: Mariana | Saldo: R$ 197.85
+'''
+
+[[tests]]
+input = '''
+781 Rafael 438.45
+4
+D 139.55
+S 148.69
+D 171.45
+D 29.99
+'''
+output = '''
+Conta: 781 | Titular: Rafael | Saldo: R$ 630.75
+'''
+
+[[tests]]
+input = '''
+470 Mariana 441.77
+3
+D 118.35
+D 278.10
+D 59.43
+'''
+output = '''
+Conta: 470 | Titular: Mariana | Saldo: R$ 897.65
+'''
+
+[[tests]]
+input = '''
+920 Mariana 411.27
+5
+D 48.22
+S 46.08
+D 6.03
+D 214.91
+S 121.10
+'''
+output = '''
+Conta: 920 | Titular: Mariana | Saldo: R$ 513.25
+'''
+
+[[tests]]
+input = '''
+627 Fernanda 306.40
+4
+S 180.43
+D 138.34
+S 275.05
+D 48.72
+'''
+output = '''
+Saldo insuficiente
+Conta: 627 | Titular: Fernanda | Saldo: R$ 313.03
+'''
+
+[[tests]]
+input = '''
+728 Juliana 254.78
+1
+S 152.78
+'''
+output = '''
+Conta: 728 | Titular: Juliana | Saldo: R$ 102.00
+'''
+
+[[tests]]
+input = '''
+446 Carlos 15.12
+4
+S 65.15
+D 61.61
+S 168.28
+S 295.00
+'''
+output = '''
+Saldo insuficiente
+Saldo insuficiente
+Saldo insuficiente
+Conta: 446 | Titular: Carlos | Saldo: R$ 76.73
+'''
+
+[[tests]]
+input = '''
+591 Lucas 189.13
+5
+D 267.85
+S 64.82
+S 47.88
+S 170.34
+S 16.98
+'''
+output = '''
+Conta: 591 | Titular: Lucas | Saldo: R$ 156.96
+'''
+
